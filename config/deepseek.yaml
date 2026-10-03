@@ -1,0 +1,37 @@
+deepseek:
+  model: deepseek-flash
+  fallback_model: deepseek-v4-pro
+  base_url: https://api.deepseek.com
+  beta_url: https://api.deepseek.com/beta
+  timeout_seconds: 30
+  max_retries: 3
+  temperature: 0.0
+  max_tokens: 1024
+  prompt_version: nummf-scrape-v1
+  thinking_mode: true
+
+scraping:
+  user_agent: NUMMF-Forge-Scraper/1.0
+  max_pages_per_run: 50
+  max_depth: 3
+  rate_limit_per_second: 1.0
+  retry_backoff_seconds: 2.0
+  default_timeout_seconds: 30
+
+portals:
+  ntpc:
+    name: NTPC
+    base_url: https://ntpctender.ntpc.co.in
+    robots_url: https://ntpctender.ntpc.co.in/robots.txt
+  iocl:
+    name: IOCL
+    base_url: https://iocletenders.nic.in
+    robots_url: https://iocletenders.nic.in/robots.txt
+  oil_india:
+    name: Oil India
+    base_url: https://www.oil-india.com
+    robots_url: https://www.oil-india.com/robots.txt
+  cppp:
+    name: CPPP
+    base_url: https://eprocure.gov.in
+    robots_url: https://eprocure.gov.in/robots.txt

@@ -1,0 +1,8 @@
+repos:
+  - repo: local
+    hooks:
+      - id: scan-keys
+        name: scan for DeepSeek API keys
+        entry: python -c "import pathlib, re, sys; patterns = [r'sk-[A-Za-z0-9_-]+', r'Bearer\s+sk-[A-Za-z0-9_-]+']; files = list(pathlib.Path('.').rglob('*')) ; bad = [];\nfor p in files:\n    if p.is_dir() or p.name.startswith('.git'):\n        continue\n    try:\n        text = p.read_text(encoding='utf-8')\n    except Exception:\n        continue\n    if any(re.search(pt, text) for pt in patterns):\n        bad.append(str(p))\nif bad:\n    print('Potential API keys found in:')\n    print('\n'.join(bad))\n    raise SystemExit(1)"
+        language: system
+        pass_filenames: false

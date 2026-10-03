@@ -1,0 +1,35 @@
+portals:
+  ntpc:
+    base_url: https://ntpctender.ntpc.co.in
+    selectors:
+      links: ["a[href]", "a"]
+      title: ["h1", "title"]
+      material_rows: ["table", "tr", "td"]
+  iocl:
+    base_url: https://iocletenders.nic.in
+    selectors:
+      links: ["a[href]"]
+      title: ["h1", "title"]
+      material_rows: ["table", "tr", "td"]
+  oil_india:
+    base_url: https://www.oil-india.com
+    selectors:
+      links: ["a[href]"]
+      title: ["h1", "title"]
+      material_rows: ["table", "tr", "td"]
+  cppp:
+    base_url: https://eprocure.gov.in
+    selectors:
+      links: ["a[href]"]
+      title: ["h1", "title"]
+      material_rows: ["table", "tr", "td"]
+
+fetch:
+  user_agent: NUMMF-Forge-Scraper/1.0
+  timeout_seconds: 30
+  max_redirects: 5
+  follow_js: false
+
+caching:
+  redis_url: redis://localhost:6379/0
+  ttl_seconds: 86400
