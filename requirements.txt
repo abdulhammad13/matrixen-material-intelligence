@@ -1,0 +1,122 @@
+# ================================================================
+# CPSE MATERIAL HARMONIZATION / NATIONAL MATERIAL INTELLIGENCE
+# Python: 3.12.x (64-bit)
+# ================================================================
+# NOTE: This is a deliberately strong, production-oriented stack.
+# It is NOT a guarantee of any hackathon result.
+#
+# Core architecture:
+#   data ingestion -> normalization -> NLP -> hybrid retrieval ->
+#   entity resolution -> technical compatibility -> ML ->
+#   canonical material master -> human review -> analytics/API/UI
+# ================================================================
+
+# -----------------------------
+# DATA ENGINEERING / NUMERICAL
+# -----------------------------
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+polars>=1.44,<2.0
+pyarrow==25.0.1
+duckdb>=1.4,<2.0
+
+# -----------------------------
+# MACHINE LEARNING
+# -----------------------------
+scikit-learn==1.9.1
+xgboost==3.4.1
+lightgbm==4.7.0
+imbalanced-learn==0.14.2
+shap==0.52.0
+optuna==4.9.0
+
+# -----------------------------
+# NLP / SEMANTIC AI
+# -----------------------------
+sentence-transformers==6.1.0
+transformers==5.18.0
+torch==2.14.1
+huggingface_hub>=1.0,<3.0
+safetensors>=0.5,<1.0
+tokenizers>=0.21,<1.0
+spacy==3.8.16
+rapidfuzz==3.14.6
+regex>=2025.7,<2027
+unidecode>=1.4,<2.0
+ftfy>=6.3,<7.0
+
+# -----------------------------
+# MATERIAL / TECHNICAL NORMALIZATION
+# -----------------------------
+Pint>=0.25,<1.0
+
+# -----------------------------
+# GRAPH / ENTITY INTELLIGENCE
+# -----------------------------
+networkx>=3.5,<4.0
+
+# -----------------------------
+# DOCUMENT / DATA SOURCE INGESTION
+# -----------------------------
+openpyxl>=3.1,<4.0
+pymupdf==1.27.2.2
+pypdf>=6.0,<7.0
+beautifulsoup4==4.15.0
+lxml>=6.0,<7.0
+httpx==0.28.1
+aiofiles>=24.1,<26.0
+tenacity==9.1.4
+
+# -----------------------------
+# API / BACKEND
+# -----------------------------
+fastapi==0.142.2
+uvicorn==0.54.0
+pydantic==2.13.5
+pydantic-settings==2.15.0
+python-multipart==0.0.32
+orjson==3.12.0
+python-dotenv==1.2.4
+typer>=0.19,<1.0
+rich>=14,<15
+
+# -----------------------------
+# DATABASE / ORM / VECTOR SEARCH
+# -----------------------------
+SQLAlchemy==2.1.1
+psycopg[binary]==3.3.6
+pgvector==0.5.0
+alembic>=1.17,<2.0
+
+# -----------------------------
+# DASHBOARD / VISUAL ANALYTICS
+# -----------------------------
+dash==4.4.1
+plotly==7.1.0
+dash-ag-grid==35.3.0
+
+# -----------------------------
+# PERFORMANCE / MODEL SERVING
+# -----------------------------
+onnxruntime==1.30.0
+
+# -----------------------------
+# OPTIONAL CACHE / ASYNC INFRASTRUCTURE
+# -----------------------------
+redis==8.1.0
+
+# -----------------------------
+# OBSERVABILITY / SYSTEM UTILITIES
+# -----------------------------
+loguru>=0.7,<1.0
+psutil>=7.0,<8.0
+
+# -----------------------------
+# TESTING / QUALITY / DEV
+# -----------------------------
+pytest==9.1.1
+pytest-asyncio>=1.2,<2.0
+ruff==0.16.9
+mypy>=1.17,<2.0
+pre-commit>=4.3,<5.0
