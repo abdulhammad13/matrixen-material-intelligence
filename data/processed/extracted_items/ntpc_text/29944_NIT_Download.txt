@@ -1,0 +1,153 @@
+NTPC Limited eProcurement Portal
+Tender Details
+Date : 09-Jun-2026 05:04 PM
+ Print
+Basic Details
+Organisation Chain NTPC Limited||Corporate Centre||Corporate Materials
+Tender Reference
+Number NTPC/EOC/9900326627
+Tender ID 2026_NTPC_109070_1 Withdrawal Allowed Yes
+Tender Type Open Tender Form of contract Supply
+Tender Category Goods No. of Covers 3
+General Technical
+Evaluation Allowed Yes [Compliance Required] ItemWise Technical Evaluation
+Allowed No
+Payment Mode Online Is Multi Currency Allowed For
+BOQ No
+Is Multi Currency
+Allowed For Fee No Allow Two Stage Bidding No
+ 
+Payment Instruments
+Online
+Bankers
+S.No Bank Name
+1 SBI Bank
+Cover Details, No. Of Covers - 3
+Cover No Cover Document Type Description
+1 Fee .pdf Scanned EMD
+Details
+2 PreQual/Technical .pdf
+Other
+declaration
+sought in the
+SOW or
+Technical BId
+.pdf
+Technical
+Details like
+offered
+product
+details,
+Catalogues
+.pdf
+Technical QR
+supporting
+Documents
+.pdf
+Financial QR
+supporting
+Documents
+.pdf TPIA
+Undertaking
+.pdf Filled
+Annexure-12
+3 Finance .xls Price Bid
+ 
+Tender Fee Details, [Total Fee in ₹ * - 0.00]
+Tender Fee in ₹ 0.00
+Fee Payable To Nil Fee Payable At Nil
+Tender Fee
+Exemption Allowed
+No
+EMD Fee Details
+EMD Amount in ₹ 1,00,00,000 EMD Exemption
+Allowed
+Yes
+EMD Fee Type fixed EMD Percentage NA
+EMD Payable To Nil EMD Payable At Nil
+BG Required Yes
+Minimum Direct
+EMD Payment in ₹
+0.00
+ 
+ 
+Work /Item(s)
+Title Supply, Installation and On-site Operation Support Services for
+Work Description Supply, Installation and On-site Operation Support Services for Disaggregated Infrastructure System at DC-Noida
+and DR-Hyderabad
+Pre Qualification
+Details
+As per tender documents 
+6/9/26, 5:05 PM NTPC Limited eProcurement Portal
+https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndTenderDetails&service=direct&session=T&sp=SLeUzB3%2FJ… 1/2
+Independent External
+Monitor/Remarks
+NA 
+Tender Value in ₹ NA Product Category Miscellaneous
+Goods
+Sub category NA 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work(Days) 90 
+Location EOC Noida Office EOC,
+SECTOR-24, NOIDA 201301
+Pincode 201301 Pre Bid Meeting Place NA 
+Pre Bid Meeting
+Address
+NA Pre Bid Meeting Date NA Bid Opening Place EOC
+Noida
+Office
+Should Allow NDA
+Tender
+No Allow Preferential
+Bidder
+No
+ 
+Critical Dates
+Publish Date 09-Jun-2026 05:00 PM Bid Opening Date 01-Jul-2026 03:00 PM
+Document Download / Sale Start
+Date
+09-Jun-2026 05:00 PM Document Download / Sale End
+Date
+30-Jun-2026 03:00 PM
+Clarification Start Date 09-Jun-2026 05:00 PM Clarification End Date 16-Jun-2026 06:00 PM 
+Bid Submission Start Date 09-Jun-2026 05:00 PM Bid Submission End Date 30-Jun-2026 03:00 PM
+ 
+ 
+Tender Documents
+NIT
+Document S.No Document Name Description Document Size
+(in KB)
+1 Tendernotice_1.pdf Brief-NIT 211.47
+ 
+Work Item
+Documents S.No Document Type Document Name Description Document Size
+(in KB)
+1 BOQ BOQ_112303.xls BOQ 327.00
+2 Tender Documents Tender-Documents-Disaggregated-
+Infrastructure.rar Tender Document 6802.55
+ 
+ 
+View GTE Details - PURCHASE GTE(OT-COMMON-LAND BORDER CLAUSE-INTEGRITY PACT)
+S.No Particulars Description Expected
+Value Mandatory
+1.0 Do you accept the Fraud Prevention Policy of NTPC FRAUD PREVENTION Yes Yes
+2.0 Do you accept Withholding and Banning of Business
+Dealing Policy of NTPC BANNING POLICY DECLARATION Yes Yes
+3.0 Do You certify full compliance of Integrity Pact INTEGRITY PACT COMPLIANCE Yes Yes
+4.0
+Do you certify full compliance on clause as per
+tender documents on Restrictions on procurement
+from a Bidder of a country which shares a land
+border with India
+LAND BORDER CLAUSE COMPLIANCE Yes Yes
+5.0 Do you certify full compliance on Qualifying
+Requirements QR COMPLIANCE Yes Yes
+6.0 Do you certify full compliance to all provisions of Bid
+documents NO DEVIATION CERTIFICATION Yes Yes
+ 
+ 
+Tender Inviting Authority
+Name AGM(CM)
+Address EOC Noida Office EOC, SECTOR-24, NOIDA 201301
+ 
+6/9/26, 5:05 PM NTPC Limited eProcurement Portal
+https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndTenderDetails&service=direct&session=T&sp=SLeUzB3%2FJ… 2/2

@@ -1,0 +1,914 @@
+EPC PACKAGE FOR DEVELOPMENT OF 100 MWH VANADIUM REDOX 
+FLOW BESS AT KHAVDA SOLAR PARK  
+BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 1 of 10 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+NTPC RENEWABLE ENERGY LIMITED 
+(A SUBSIDIARY OF NTPC LIMITED) 
+ 
+CONTRACTS SERVICES 
+ 
+INVITATION FOR BIDS (IFB) 
+ 
+FOR 
+ 
+EPC PACKAGE FOR DEVELOPMENT OF 100 MWH VANADIUM REDOX FLOW BESS AT 
+KHAVDA SOLAR PARK  
+ 
+(DOMESTIC COMPETITIVE BIDDING) 
+ 
+IFB No.: NREL-CS-5836-004(BESS)-9                                                               Date: 07.02.2026 
+ 
+ETS Portal Tender Search Code: NTPCREL-2026-TN000003 
+Bidding Document No: NREL-CS-5836-004(BESS)-9 
+1.0 NTPC Renewable Energy Limited (NTPC REL), invites online bids from eligible bidders on Single 
+Stage Two Envelope (i.e., Envelope-I: Techno-Commercial Bid and Envelope-II: Price Bid) basis 
+for EPC PACKAGE FOR DEVELOPMENT OF 100 MWH VANADIUM REDOX FLOW BESS AT 
+KHAVDA SOLAR PARK. 
+ 
+2.0 BRIEF SCOPE OF WORK 
+ 
+The scope of work covers the following activities and services in respect of all the equipment & 
+works specified and covered under the specifications and read in conjunction with “Scope of 
+Supply & services” specified in Technical Specifications: 
+Design, Engineering, Supply, Packing and Forwarding, Transportation, Unloading, Storage, 
+Installation and Commissioning of grid connected 16.7 MW/100 MWh of Vanadium Redox flow-
+based Battery Energy Storage System (BESS) on turnkey basis. Further the bidder has to obtain 
+site-specific data from the owner in preparation for developing installation and implementation 
+plans. 
+ 
+Detailed provisions in regard of scope of work and technical features/specification of equipment/ 
+systems/ services, contained in the Bidding Document shall be final and binding. 
+ 
+1.00   Successful Bidder shall be responsible for providing all equipment, components, and 
+services necessary to install a fully functional BESS.  
+ 
+1.01 Design, Engineering, Supply, Packaging and Forwarding, Transportation, Unloading, 
+Storage, Construction, Erection, Testing, Commissioning of grid connected 16.7 MW /100 
+MWh of Vanadium Redox flow-based Battery Energy Storage System (BESS) on turnkey 
+basis. BESS capacity to be considered is the rated AC discharge capacity at Point of 
+injection/Metering. BESS should be integrated at 33 kV pooling substation of solar plant. 
+1.02 Details regarding guaranteed BESS annual degradation, Round Trip Efficiency (RTE), 
+including aux consumption etc. to be maintained by bidder shall be mentioned in detailed 
+specifications. 
+
+EPC PACKAGE FOR DEVELOPMENT OF 100 MWH VANADIUM REDOX 
+FLOW BESS AT KHAVDA SOLAR PARK  
+BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 2 of 10 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+1.03 Bidder has to bid for entire project capacity. 
+1.04 Designed life of BESS system including that of battery shall be of 25 years from the date of 
+successful completion of commissioning.  
+1.05 Comprehensive Operation and Maintenance (O&M) work of BESS system for 10 years 
+from the date of successful commissioning shall be in scope of Bidder. 
+1.06 Grid compliance study, Reactive power compensation and power quality compliance for 
+entire BESS system up to 400 KV grid interconnection point at NTPC REL projects 
+switchyard shall be in scope of bidder. 
+1.07 Project shall comprises of Vanadium Redox flow-based Battery System including Battery 
+Management System (BMS), Energy Management Sys tem (EMS) and SCADA, Power 
+Conversion System (PCS), Protection system, Communication System, HT & LT System, 
+Auxiliary power system, Monitoring & Control system, Fire Fighting, remote control and 
+monitoring, HT Transformers, integration of BESS with existi ng Power evacuation and 
+Control system of Solar plant any other associated materials and services necessary for 
+trouble free operation and maintenance of the BESS. 
+1.08 Considering the atmospheric condition of the site, such as corrosiveness, ambient 
+temperature etc., the system should be designed by bidder in such a way that it delivers 
+guaranteed parameters for the entire project period.  
+1.09 BMS and EMS of the BESS should comply with the latest IS or/and IEC or/and IEEE 
+standards.  
+1.10 BESS should be in line with lat est guidelines of CEA, CERC and LDC and should be 
+capable of carrying out the required functions as mentioned in the technical specification. 
+1.11 Minor Site-grading, clearing of vegetation, if required. 
+1.12 Providing power supply and water supply for construction purposes. 
+1.13 All associated electrical and civil works required for interfacing with grid (i.e. transformer(s), 
+switchgear, protection system, cables, etc). 
+1.14 Metering philosophy should be as per site requirement and metering system will be in the 
+scope of bidder. 
+1.15  Provide documentation for design and expected performance through design calculations, 
+software, design drawings, equipment drawings, and modifications to the existing drawings.  
+1.16  Develop detailed start up and site acceptance plan. 
+1.17  Provide training for the operators, engineers, technicians and maintenance personnel.  
+1.18  Supply any special equipment and tools required for the operation and maintenance of the 
+project.  
+1.19  Provide a warranty for the battery energy storage system (BESS) and its constituents’ 
+equipment as per technical specification. 
+1.20 All other details will be provided in the IFB  
+ 
+The detailed scope of work is as defined in bidding document No.: NREL-CS-5836-
+004(BESS)-9. 
+3.0 NTPC REL intends to finance the subject package through Own Resources/ Borrowings. 
+ 
+4.0 Detailed specification, Scope of work and Terms & Conditions are given in the bidding documents, 
+which are available for examination and downloading at e-tender portal (as specified in this notice) 
+and as per the following schedule: 
+
+EPC PACKAGE FOR DEVELOPMENT OF 100 MWH VANADIUM REDOX 
+FLOW BESS AT KHAVDA SOLAR PARK  
+BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 3 of 10 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+*Note: Bidders are advised to visit the ETS portal (https://www.bharat -
+electronictender.com) for updated bidding schedule of the Tender, if any. 
+ 
+No Queries from Bidders, whatsoever, shall be entertained by the Employer beyond the last 
+date of receipt of Queries/ Pre-Bid Conference as specified above. 
+ 
+ETS Portal Tender Search Code (TSC) NTPCREL-2026-TN000003 
+IFB Date 07.02.2026 
+Period of Downloading of Bidding Documents From 16.02.2026* 17:00 HRS to 
+26.02.2026* [up to 17:00 HRS 
+(IST)] 
+Pre-Bid Conference and Last Date for receipt of queries 
+from prospective Bidders  27.02.2026* 
+Last Date and Time for receipt of bids comprising both 
+Techno-Commercial Bid and Price Bid 10.03.2026* 15:00:00 (IST) 
+Date & Time of opening of Techno-Commercial Bid  10.03.2026* 15:30:00 (IST) 
+Cost of Bidding Documents in INR Not Applicable 
+5.0 All bids must be accompanied by Bid Security for an amount of INR 2,00,00,000.00 (Indian 
+Rupees Two Crores only) in the form as stipulated in the Bidding Documents.  
+ 
+ANY BID NOT ACCOMPANIED BY AN ACCEPTABLE BID SECURITY IN A SEPARATE 
+SEALED ENVELOPE SHALL BE REJECTED BY THE EMPLOYER AS BEING NON -
+RESPONSIVE. IN CASE, THE BID SECURITY IS SUBMITTED THROUGH ELECTRONIC FUND 
+TRANSFER (EFT), BIDDER TO SUBMIT THE COPY OF PROOF OF E -PAYMENT OF BID 
+SECURITY IN SEPARATE SEALED ENVELOPE. 
+ 
+6.0 QUALIFYING REQUIREMENTS FOR BIDDERS 
+  
+ In addition to the requirements stipulated under section Instruction to Bidder (ITB), the 
+Bidder should also meet the qualifying requirements stipulated hereunder in Clause 1.0 
+and clause 2.0: 
+ 
+1.0 TECHNICAL CRITERIA 
+ 
+1.1 The bidder should have designed, engineered, manufactured/got manufactured, erected/got 
+erected, commissioned VRFB Systems of cumulative capacity of 2.4 MWh in one or 
+maximum 5 orders during last ten (10) years prior to the date of techno -commercial bid 
+opening out of which at least one such reference project, having at least 0.4 MWh capacity, 
+should have been in successful operation for at least six (6) months prior to the date of 
+techno-commercial bid opening. 
+ 
+OR 
+ 
+1.2(i) The Bidder should have designed, supplied, erected/ supervised ere ction and 
+commissioned/supervised commissioning of Solar Photo Voltaic (SPV)/Wind based grid 
+connected power plant(s) of cumulative installed capacity of 40 MWAC or higher in one or 
+
+EPC PACKAGE FOR DEVELOPMENT OF 100 MWH VANADIUM REDOX 
+FLOW BESS AT KHAVDA SOLAR PARK  
+BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 4 of 10 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+maximum 5 orders prior to the date  of techno-commercial bid opening, out o f which at 
+least one plant should have been of 10 MWAC or higher capacity. The reference plant of 
+10 MWAC or higher capacity must have been in successful operation for at  least six (6) 
+months prior to the date of techno-commercial bid opening. 
+ 
+AND 
+(ii) The bidder who meets the requirements of only Para 1.2(i) above can participate provided they 
+associate with a “Qualified manufacturer of VRFB” who fully meets the requirements specified 
+at clause 1.1 above. In such a case the Bidder shall furnish an Undertaking jointly executed by 
+the “Qualified manufacturer of VRFB” (qualified as per clause 1.1) and the Bidder along with 
+its techno commercial bid for complete performance of the contract jointly and severally as per 
+format enclosed in the bidding document, failing which the bidder shall be disqualified and its 
+bid shall be rejected. 
+ 
+OR 
+ 
+1.3 (i) The bidder should have executed in the last ten (10) years an industrial project either as 
+developer or as EPC Contractor in the area of power/ steel/ oil and gas/ petro- chemical/ 
+fertilizer/cement/ or any other process industry, of minimum financial figure as mentioned in 
+table below, in a single project or single work  and the same must be in successful 
+operation for at least one (1) year/ six (6) months* prior to the date of techno-commercial 
+bid opening. 
+ 
+Total Quoted Capacity Minimum Financial Figure 
+100 MWh INR 229.50 Crore 
+(Indian Rupees Two Hundred Twenty Nine Crore 
+and Fifty Lakh Only) 
+*Period of Successful operation shall be: 
+At least One (1) year for industrial projects other than RE sector i.e., Solar/Wind. 
+At least Six (6) months for projects in RE sector (i.e., Solar/Wind) 
+ 
+AND 
+(ii) The bidder should have executed at least one (1) Electrical Sub -station of minimum 33kV 
+voltage level, consisting of equipment such as 33kV or above voltage level circuit breakers and 
+power transformer, either as developer or as EPC Contractor which must b e in successful 
+operation for at least one (1) year/ six (6) months# prior to the date of techno-commercial 
+bid opening. 
+ 
+# Period of Successful operation shall be: 
+At least One (1) year for Electrical Sub-station in Projects other than RE sector i.e., Solar/Wind. 
+At least Six (6) months for Electrical Sub-station in RE Projects (i.e., Solar/Wind). 
+The works referred at Clause 1.3(i) & 1.3(ii) can be in same or different projects. 
+ 
+AND 
+ 
+(iii) The bidder who meets the requirements of only Para 1.3(i) & (ii) above can participate provided 
+they associate with a “Qualified manufacturer of VRFB” who fully meets the requirements 
+specified at clause 1.1 above. In such a case the Bidder shall furnish an Undertaking jointly 
+executed by the “Qualified manufacturer of VRFB” (qualified as per clause 1.1) and the Bidder 
+along with its techno commercial bid for complete performance of the contract jointly and 
+
+EPC PACKAGE FOR DEVELOPMENT OF 100 MWH VANADIUM REDOX 
+FLOW BESS AT KHAVDA SOLAR PARK  
+BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 5 of 10 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+severally as per format enclosed in the bidding document, failing which the bidder shall be 
+disqualified and its bid shall be rejected. 
+ 
+OR 
+ 
+1.4 The Indian Bidder should have a manufacturing license, for Transfer of Technology, from a 
+“Qualified manufacturer of VRFB” meeting the requirements stipulated at Clause 1.1 above or 
+should be a joint venture company of a “Qualified manufacturer of VRFB” meeting the requirements 
+stipulated at Clause 1.1 above. In case of manufacturing license, the bidder shall furnish along 
+with the bid a copy of such license agreement done with the “Qualified manufacturer of VRFB” and 
+such agreement should be ongoing and valid for a period of at least 12 years from the date of 
+techno commercial bid opening. In case the bidder is a joint venture company of a “Qualified 
+manufacturer of VRFB” meeting the requirements stipulated at clause 1.1, the bidder shall submit 
+a copy of joint venture formation document along with their techno commercial bid. 
+ 
+Bidder shall furnish an Undertaking jointly executed by the license provider/JV partner qualified as 
+per clause 1.1 and the Bidder along with its techno commercial bid for complete performance of 
+the contract jointly and severally as per format enclosed in the bid document, failing which the 
+bidder shall be disqualified and its bid shall be rejected. 
+ 
+OR 
+ 
+1.5 The bidder should be an Indian company registered in India and should be Group 
+company/Holding Company/Subsidiary company of a firm meeting the requirement (s) of Clause 
+1.1 or 1.2(i) or 1.3(i and ii) above. In such a case, Bidder shall furnish an Undertaking jointly 
+executed by the firm qualified as per clause 1.1 or 1.2 (i) or 1.3(i and ii) and the Bidder along with 
+its bid for complete performance of the contract jointly and severally as per format enclosed in the 
+bid document, failing which the bidder shall be disqualified and its bid shall be rejected. 
+ 
+In case the Indian company, registered in India is Group company/Holding Company/Subsidiary 
+company of a firm meeting the requirement (s) of Clause 1.2(i) or 1.3(i and ii), the bidder can 
+participate provided they associate with a “Qualified manufacturer of VRFB” who fully meets the 
+requirements specified at clause 1.1 above and the bidder shall furnish an Undertaking jointly 
+executed by the “Qualified manufacturer of VRFB” qualified as per clause 1.1 and the Bidder along 
+with its techno comme rcial bid for complete performance of the contract jointly and severally as 
+per format enclosed in the bid document, failing which the bidder shall  be disqualified and its bid 
+shall be rejected. 
+ 
+Notes for Clause 1.0 Technical Criteria: 
+a) “VRFB System” means the system which shall comprise of at least Vanadium redox flow 
+based Battery. 
+b) For Clause 1.2 (i), the reference SPV/Wind based grid-connected power plant of 10MWAC 
+or above capacity should be at a single location developed by Bidder for itself or any other 
+client. 
+c) For clause 1.2 (i), SPV based Roof -top/Floating solar power projects, which are grid 
+connected, shall also be considered eligible for QR purpose. 
+d) For Clause 1.2 (i), reference plants with solar PV module/Wind Turbine supplied by 
+developer/owner as free issue item to bidder shall also be considered eligible for QR 
+purpose. 
+e) For Clause 1.2 (i), bidder shall provide relevant support documents to establish that 
+
+EPC PACKAGE FOR DEVELOPMENT OF 100 MWH VANADIUM REDOX 
+FLOW BESS AT KHAVDA SOLAR PARK  
+BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 6 of 10 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+reference projects are Grid Connected. 
+f) For clause 1.3 (i) and (ii), developer means an enti ty who has either executed or got 
+executed the work/ project as owner of the projects. 
+g) For clause 1.3 (i) and (ii), the execution of project as EPC Contractor means that such EPC 
+Contractor is responsible for all the activities i.e. Design/Engineering, Pro curement, 
+Construction (with/without civil works) and Commissioning of the project/work. 
+h) For Clause 1.3 (ii), the portion of work related to power transformer such as supply and/or 
+installation mentioned at cl. no. 1.3 (ii) can either be done by EPC contractor by themselves 
+or by the owner. 
+i) For Clause 1.3 (i), bidder shall submit documentary evidence for the value of the project 
+certified by a Chartered Accountant. The specified value of executed work shall be 
+exclusive of Taxes. 
+j) For clause 1.3 (i), if the value of reference work is indicated in foreign currency, the 
+exchange rate as on date of award of the reference work shall be considered. In case the 
+exchange rate as on the date of award is not available, the exchange rate as on the next 
+available day shall be considered. 
+k) For establishing successful commissioning and operation of the reference projects as 
+required in different clauses, bidder shall submit the certificate of successful commissioning 
+and operation from the Owner of such reference project/plant. Certificate issued by owner 
+in the name of Bidder/intermediary Organization shall be acceptable. However, if bidder in 
+clause 1.1 or 1.2 (i) is also the owner of the reference project or if the bidder in clause 1.3 
+(i and ii) is a developer, certificate of successful commissioning of the project issued from 
+Government Renewable Nodal Agency/Government Enterprise/ Discom/Electricity Board 
+etc and evidence of successful operation from intermediary procurer/procurer/Discom/ 
+Electricity Board etc shall be submitted. 
+l) Direct/Indirect Order  
+The bidder shall also be considered qualified, in case the award for executing the reference 
+work has been received by the bidder either directly from the owner of the plant or any other 
+intermediary organization. In such a case, a certificate from such owner of plant or any other 
+intermediary organization shall be required to be furnished by the bidder along with its 
+techno-commercial bid in support of bidder’s claim of meeting the qualification requirement 
+as per different clauses. Bidder shall also submit a certificate of successful completion and 
+operation from the Owner in line with note(k) above. 
+m) In routes 1.2, 1.3, 1.4 and 1.5 (except if Bidder is a Group company/Holding  
+Company/Subsidiary company of a firm meeting th e requirement (s) of Clause 1.1), the 
+qualified manufacturer of VRFB has  to furnish an “ ON demand bank guarantee” for 1% 
+(one percent) of total contract price of package in  addition to the contract performance 
+security to be furnished by the bidder. 
+ 
+2.0 FINANCIAL CRITERIA 
+2.1 The average annual turnover of the Bidder should not be less than the financial 
+figure mentioned in Table below, during the preceding three (3) financial years as 
+on the date of techno-commercial bid opening.  
+Total Quoted Capacity Minimum Financial Figure 
+
+EPC PACKAGE FOR DEVELOPMENT OF 100 MWH VANADIUM REDOX 
+FLOW BESS AT KHAVDA SOLAR PARK  
+BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 7 of 10 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+100 MWh  INR 229.50 Crore 
+(Indian Rupees Two Hundred Twenty Nine Crore and 
+Fifty Lakh Only) 
+In case a Bidder does not satisfy the average annual turnover criteria on its own, 
+its Holding Company would be required to meet the stipulated turnover 
+requirements as above, provided that the Net Worth of such Holding Company as 
+on the last day of the preceding financial year is at least equal to or more than the 
+paid-up share capital of the Holding Company. In such an event, the Bidder would 
+be required to furnish along with its Techno -Commercial bid, a Letter of 
+Undertaking from its Holding Company, supported by the Holding Company’s 
+Board Resolution, as per the format enclosed in the bid documents, pledging 
+unconditional and irrevocable financial support for the execution of the contract by 
+the Bidder in case of award. 
+2.2 Net Worth of the Bidder as on the last day of the preceding financial year should 
+not be less than 100% (one hundred percent) of bidder’s paid-up share capital. 
+In case the Bidder does not satisfy the Net Worth criteria on its own, it can meet 
+the requirement of Net worth based on the strength of its Subsidiary(ies) and/or 
+Holding Company  and/or Subsidiaries of its Holding companies wherever 
+applicable. In such a case, however the Net worth of the Bidder and its 
+Subsidiary(ies) and/or Holding Company and/or Subsidiary(ies) of the Holding 
+Company, in combined manner should not be less than 100% (one hundred 
+percent) of their total paid up share capital. Howev er individually, their Net 
+worth should not be less than 75% (seventy five percent) of their respective 
+paid-up share capitals. 
+Net worth in combined manner shall be calculated as follows: 
+Net worth (combined) = (X1+ X2+X3) / (Y1+Y2+Y3) X 100 where X1, X2, X3 are 
+individual Net worth which should not be less than 75% (seventy five percent) of 
+the respective paid-up share capitals and Y1, Y2, Y3 are individual paid up share 
+capitals. 
+ 
+2.3 In case  the Bidder is not able to furnish its audited financial statements on 
+standalone entity basis, the unaudited unconsolidated financial statements of 
+the Bidder can be considered acceptable provided the Bidder further furnishes 
+the following documents on substantiation of its qualification: 
+(i) Copies of the unaudited unconsolidated financial statements of the Bidder 
+along with copies of the audited consolidated financial statements of its Holding 
+Company 
+(ii) Certificate from the CEO/CFO of the Holding Company, as per the format 
+enclosed in the bidding documents, stating that the unaudited unconsolidated 
+financial statements form part of the consolidated financial statement of the Holding 
+Company. 
+In case where audited results for the last financial year as on date of techno - 
+
+EPC PACKAGE FOR DEVELOPMENT OF 100 MWH VANADIUM REDOX 
+FLOW BESS AT KHAVDA SOLAR PARK  
+BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 8 of 10 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+commercial bid opening are not available, the financial results certified by a 
+practicing Chartered  Accountant shall be  considered acceptable. In case the 
+Bidder is not able to submit the Certificate from a practicing Chartered Accountant 
+certifying its financial parameters, the audited result of three (3) consecutive 
+financial years preceding the last financial year shall be considered for evaluating  
+financial parameters. Further, a certificate would be required from the CEO/CFO as 
+per the format enclosed in the bidding documents stating that the financial results 
+of the company are under audit as on techno -commercial bid opening and  the 
+Certificate from a practicing Chartered Accountant certifying the financial 
+parameters is not available. 
+Notes for Clause 2.0: 
+(a) Net worth means the sum total of the paid up share capital and free reserves. 
+Free reserves means all reserves credited out of the profits and share premium 
+account but does not include reserves credited out of the revaluation of the 
+assets, write back of depreciation provision and amalgamation. Further any 
+debit balance of Profit and Loss account and miscellaneous expenses to the 
+extent not adjusted or written off, if any, shall be reduced from reserves and 
+surplus. 
+(b) Other income shall not be considered for arriving at annual turnover. 
+(c) “Holding Company” and “Subsidiary” shall have the meaning ascribed to them 
+as per Companies Act of India. 
+(d) For financial figure indicated in foreign currency in Clause 2.1, the exchange 
+rates as on seven (7) days prior to the last date of submission  of bid shall be 
+used. 
+(e) ‘Group Company’ means two or more enterprises which, directly or indirectly, 
+are in a position to:  
+a) Exercise twenty-six percent or more of voting rights in other enterprise. 
+Or 
+b) Appoint more than fifty percent of members of Board of Directors in the other 
+enterprise. 
+The meaning of Holding/Subsidiary/Group Company mentioned above shall be 
+applicable for Clause 1.5 also. 
+  
+7.0 NTPC REL reserves the right to reject any or all bids  or cancel/ withdraw the Invitation for Bids 
+without assigning any reason whatsoever and in such case no bidder/ intending bidder shall have 
+any claim arising out of such action. 
+ 
+8.0 
+(a) 
+Interested parties are required to get registered with M/s ISN Elec tronic Tender Services (ETS) 
+website https://www.bharat-electronictender.com (if not already registered).  
+ 
+  
+
+EPC PACKAGE FOR DEVELOPMENT OF 100 MWH VANADIUM REDOX 
+FLOW BESS AT KHAVDA SOLAR PARK  
+BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 9 of 10 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+(b) The bidder shall be mandatorily required to submit a copy of “Non -Disclosure Agreement” 
+duly signed by the authorized signatory as per the format enclosed (Annexure-A) along with 
+the IFB to enable the Employer to authorize the Bidder for procurement of the  Bidding 
+Documents. 
+ 
+In case of any non -compliance in submission of Non -Disclosure Agreement, authorization 
+shall not be provided to the bidders for procurement of bidding documents. 
+  
+(c) Interested bidders are required to submit duly signed NDA prior to closing of Bidding 
+documents sale period to enable the employer for authorizing the bidder to download the 
+bidding documents online from the ETS portal. 
+  
+8.1 Issuance of Bid Documents to any Bidder shall not construe that such Bidder is considered to be 
+qualified. The bids shall be submitted online. Bidder shall furnish hard copy of Bid Security and 
+other documents as detailed in Bidding Documents before the st ipulated bid submission closing 
+date and time at the address given below. 
+ 
+8.2 After registration with ETS and submission of duly signed NDA as above, a complete set of Bidding 
+Documents may be downloaded by any interested Bidder from ETS Portal https://www.bharat-
+electronictender.com with Tender Search Code NTPCREL-2026-TN0000xx.  
+ 
+Interested bidders are required to ensure that they have downloaded the official copy of bidding 
+documents against Tender Search code NTPCREL-2026-TN0000xx from website of ETS before 
+closure of Bid Sale Period. If only free copy of Bidding Documents are downloaded from ETS portal 
+or Bidding Documents are downloaded without confirmation or without generating offici al copy 
+serial number, then the bidders will not be able to submit the bids.  
+ 
+For technical assistance, interested parties may call ETS Helpdesk at 0124 -4229071, 0124 -
+4229072. 
+ 
+Note: No hard copy of Bidding Documents shall be issued. 
+  
+  
+9.0 Transfer of Bidding Documents purchased by one intending Bidder to another is not permissible. 
+ 
+10.0 Any ‘Bidder from a country which shares a land border with India’, as specified in the Bidding 
+Documents, will be eligible to bid in this tender only if bidder is registered with the Competent 
+Authority as mentioned in the Bidding Documents.  
+ 
+Further, any bidder (including bidder from India) having specified Transfer of Technology (ToT) 
+arrangement with an entity from a country which shares a land border with India, will be eligible to 
+bid only if the bidder is registered with the same competent authority. 
+ 
+However, the said requirement of registration will not apply to bidders from those countries (even if 
+sharing a land border with India) to which the Government of India has extended lines of credit or 
+in which the Government of India is engaged in development projects. 
+ 
+ 
+11.0 ADDRESS FOR COMMUNICATION 
+  
+Contracts Services 
+NTPC Renewable Energy Limited  
+
+EPC PACKAGE FOR DEVELOPMENT OF 100 MWH VANADIUM REDOX 
+FLOW BESS AT KHAVDA SOLAR PARK  
+BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 10 of 10 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+4th Floor, Renewables Building, NETRA Complex 
+E-3, Ecotech-II, Udyog Vihar, Greater Noida 
+Gautam Buddha Nagar, Uttar Pradesh, India, Pin – 201306 
+ 
+Contact Persons 
+Name & Designation Telephone No Mobile No E-Mail ID 
+Om Prakash 
+AGM (CS) +91-120-2356605 9650994070 omprakash08@ntpc.co.in 
+Abhishek Kumar 
+DGM (CS) +91-120-2356601 9424140768 abhishekkumar02@ntpc.co.in 
+ 
+Corporate Identification Number: U40107DL2020GOI371032, Website: www.ntpcrel.co.in 
+ 
+
+Annexure-A to IFB 
+PAGE 1 OF 9 
+ 
+ 
+ BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+ 
+NON-DISCLOSURE AGREEMENT 
+ 
+THIS NON DISCLOSURE AGREEMENT (“Agreement”) made on this [    ] day of …....... 
+20................... 
+Between 
+---------------------------------------------------------------------------------------------------------------------------------, 
+a company incorporated under the Companies Act, 1956, and having its Registered Office at --------
+---------------------------------------------------------------------------------------------------------------------------- and 
+Corporate Office at ----------------------------------------------------------------------------------------------
+hereinafter referred to as “Company” (which express ion shall unless repugnant to the context or 
+meaning thereof mean and include its successors and permitted assigns), of the One Part; 
+ 
+And NTPC Renewable Energy Limited (NTPC REL), a company incorporated under the Companies 
+Act, 2013, and having its Registered Office at NTPC Bhawan, SCOPE Complex, Institutional Area, 
+Lodhi Road, New Delhi - 110003, India, hereinafter referred to as NTPC REL (which expression shall 
+unless repugnant to the context or meaning thereof include its successors and permitted assigns) of 
+the Other Part. 
+ 
+The Company and NTPC REL shall collectively be referred to as the “Parties” and individually as a 
+“Party”. 
+ 
+WHEREAS: 
+ 
+A. NTPC REL envisages to invite packages/tenders for the package “EPC package for 
+Development of 100 MWh Vanadium Redox flow BESS at Khavda Solar Park ” through 
+which it intends to develop Renewable Energy Projects (Solar/Wind/Storage/Hybrid/other RE 
+sources) won under Competitive Bidding Process and/or under Bilateral Ar rangements 
+through a competitive bidding process (“Evaluation”). 
+ 
+B. As part of Evaluation, the bidder shall be issued complete set of bidding documents. Further, 
+the bidder is also expected to examine and evaluate all instructions, forms, terms, conditions, 
+specifications and other information as furnished as part of the bidding documents for the 
+purpose of submission of techno-commercial bids and/or evaluation of its bids and/or award 
+of the contract and/or performance of the contract and/or operation of the package. 
+ 
+Annexure-A to IFB 
+PAGE 2 OF 9 
+ 
+ 
+ BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+ 
+C. It is anticipated by the Parties that, in the course of Evaluation, either Party may disclose to 
+the other Party certain Confidential Information (defined hereinafter) and the party disclosing 
+such information shall be the Disclosing Party and that, the party receiving such information 
+shall be the Receiving Party as the case may be. 
+ 
+D. It is also anticipated by the Parties that, after the award of the contract and/or during the 
+performance of the contract and/or during the operation of the package, a Party (“Disclosing 
+Party”) may disclose to the other Party (“Receiving Party”) certain Confidential Information 
+(defined hereinafter). 
+ 
+E. Accordingly, the Parties are desirous of entering into this Non -Disclosure Agreement which 
+sets out their mutual confidentiality obligations in respect of the Confidential Information 
+disclosed to each other in the course of their discussions on the Evaluation. 
+ 
+F. Each Party undertakes to comply with the terms and conditions as contained hereinafte r 
+which shall govern the exchange and handling of the non -disclosure and use of the 
+Confidential Information. 
+ 
+NOW THEREFORE, IN CONSIDERATION OF THE MUTUAL PROMISES CONTAINED HEREIN, 
+IT IS HEREBY AGREED BY AND BETWEEN THE PARTIES AS FOLLOWS: 
+ 
+1. Definitions and Interpretations: 
+ 
+1.1 “Affiliates” means, with respect to any Person, a Person that directly or indirectly through one 
+or more intermediaries, controls, is controlled by or is under common control with, the Person 
+specified. For the purposes of this definition, “control” (including, with correlative meanings, 
+the terms “controlled by” and “under common control with”) shall mean the possession, 
+directly or indirectly, of the power, alone or together with others, to direct or cause the 
+direction of the Management and policies of such Person, whether through the ownership of 
+voting securities, by contract, or otherwise. 
+ 
+1.2 “Confidential Information” has the meaning ascribed to it in Clause 2.1. 
+ 
+1.3 “Disclosing Party” has the meaning ascribed to it in Recital C. 
+ 
+Annexure-A to IFB 
+PAGE 3 OF 9 
+ 
+ 
+ BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+ 
+1.4 “Government” or “Governmental Instrumentality” shall mean any ministry, department, 
+political subdivision, instrumentality, agency, provincial or municipal council, authority, body 
+or entity, corporation or commission under the control of the GOI and any other local or other 
+authority, agency or statutory body exercising powers conferred by Laws; 
+ 
+1.5 “Laws” means all laws, statutes, enactments, acts of legislature or parliament, ordinances, 
+rules, bye-laws, regulations, notifications, policies, guidelines, directions, directives, decision, 
+decrees and orders of any Governmental Instrumentality having the force of law. 
+ 
+1.6 “Materials” means the part of any tangible media upon or within which any part of the 
+Confidential Information is recorded or reproduced in any form and shall include any storage 
+device which forms a part of computer hardware. 
+ 
+1.7 “Person” includes any natural person, firm, company, Governmental Authority, joint venture, 
+association, partnership or other entity (whether or not having separate legal personality). 
+ 
+1.8 “Receiving Party” has the meaning ascribed to it in Recital C. 
+ 
+1.9 “Representatives” has the meaning ascribed to it in Clause 3 (a). 
+ 
+2. Confidential Information 
+ 
+2.1 “Confidential Information” means information which is legally owned and possessed by the 
+Disclosing Party and which ought to be considered as confidential from its nature or from the 
+circumstances surrounding its disclosure, in whatever form or media, imparted or disclosed 
+by the Disclosing Party to the Receiving Party, in writing or by any other medium upon the 
+execution of this Agreement or during the course of the discussions on the Evaluation. 
+Confidential Information includes information: 
+ 
+a) relating to the Disclosing Party’s business, corpor ate policies, strategies, operations, 
+finances, employees, plans or opportunities and commercial information including 
+  
+profitability information and charts and the identity of, or particulars about, the Disclosing 
+Party, marked identified as confidential , restricted, secret or proprietary at the time of 
+disclosure during the discussions on the Evaluation; 
+Annexure-A to IFB 
+PAGE 4 OF 9 
+ 
+ 
+ BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+ 
+ 
+b) the fact that the discussions referred to herein are taking place, and all notes, extracts, 
+compilations or Materials or media, which are copies of or derivative works of the Confidential 
+Information. 
+ 
+But does not include any information which: 
+ 
+a) is now, or hereafter, through no willful act or failure by the Receiving Party, becomes, 
+generally known or available to the public; 
+ 
+b) is furnished to t he Receiving Party on a non -confidential basis by a third party whom the 
+Receiving Party reasonably believes that the Disclosing party had not obtained it under an 
+obligation of confidentiality.; 
+ 
+c) is an information which the Receiving Party can evidence  as having been independently 
+developed by it without violating this Agreement; or 
+ 
+d) is legally known to the Receiving Party prior to the time of disclosure by the Disclosing Party. 
+ 
+2.2 Obligation of Confidentiality 
+  
+The Receiving Party shall keep the Confidential Information strictly confidential and shall use 
+it for the purposes of Evaluation and shall not disclose or divulge or provide any Confidential 
+Information to a third party, in manner whatsoever, without the prior written consent of the 
+Company. In case the Receiving Party is required to disclose any Confidential Information in 
+terms of any Law, the Receiving Party shall endeavor to give the Disclosing Party reasonable 
+notice as may be legally possible prior to such disclosure to obtain any applicable protective 
+order or equivalent and provide such assistance, as may be required by the Disclosing Party 
+for the purposes of safeguarding such Confidential Information and further comply with the 
+same. 
+ 
+3. Undertakings and Covenants of the Parties: 
+ 
+Each Party hereby agrees, undertakes, confirms and covenants with the other that: 
+ 
+Annexure-A to IFB 
+PAGE 5 OF 9 
+ 
+ 
+ BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+ 
+a) it shall keep strictly confidential and not use, reveal, provide or transfer to any Person, directly 
+or indirectly, the Confidential Information or any part thereof, except to such of its employees, 
+directors, co -investors, debt financing sources, attorneys, accountants, consultants or 
+representatives (collectively, “Representatives”) strictly on a “need -to- know” basis for the 
+purpose of Evaluation, and the Receiving Party shall at all times remain fully responsible for 
+such Representatives’ compliance under this Agreement; 
+ 
+b) it shall not keep, reproduce, use for any unauthorized purpose or part with possession of any 
+documents or Material relating to the Confidential In formation, save as required for the 
+purposes of Evaluation, except with the prior written consent of the Disclosing Party; 
+ 
+  
+c) it shall apply, adopt and enforce appropriate procedures and policies with regard to and in 
+respect of transmission, publication and disclosure of the Confidential Information, in order 
+to preserve the confidentiality or propriety of such information; 
+ 
+d) it shall exercise the same care in preventing unauthorised disclosure or use of the 
+Confidential Information as it would take t o protect and safeguard the confidentiality of its 
+own information of a similar nature; 
+ 
+e) it shall maintain proper records and enforce strict accountability of all Confidential Information 
+received from the Disclosing Party and whenever required to transmit publish or disclose or 
+otherwise provide such Confidential Information subject to, and as may be permitted under 
+this Agreement, it shall do so with due diligence and shall convey to the recipient of such 
+information that the same is subject to non dis closure obligations under this Agreement, so 
+as to put the recipient on notice that the recipient shall be held accountable in respect of 
+disclosure of such Confidential Information and that the recipient is expected to maintain 
+confidentiality as if the recipient was a party to this Agreement and obtain such assurances, 
+agreement and undertaking from the recipient that it shall return such information upon 
+request by the Disclosing Party; 
+ 
+f) it shall ensure that the Representatives are made aware of the t erms and conditions of this 
+Agreement including without limitation the confidentiality obligations of the Receiving Party 
+under this Agreement and abide by it at all times. 
+ 
+Annexure-A to IFB 
+PAGE 6 OF 9 
+ 
+ 
+ BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+ 
+g) Any materials or documents that have been furnished by the Disclosing Party to the 
+Receiving Party in connection with the relationship will be promptly returned by the Receiving 
+Party, accompanied by all copies of such documentation or certification of destruction, within 
+TEN days after the relationship has terminated or on the written request of the Company. 
+ 
+4. Term: 
+ 
+Unless otherwise agreed to, expressly in writing by the Parties, the obligations hereunder 
+shall continue to be in full force and effect in accordance with the terms hereof and shall 
+terminate on the expiry of earlier of (i) the Parties entering into legally binding documentation 
+in relation to or pursuant to the Evaluation; and (ii) twelve months from the date of this 
+Undertaking; 
+ 
+5. Rights and Remedies of the Disclosing Party: 
+ 
+5.1 On the expiry of the term of this Agreement or upon its termination for any reason whatsoever 
+or immediately upon the Disclosing Party’s request at any time during the term hereof, the 
+Receiving Party shall forthwith return to the Disclosing Party all the Material which are 
+capable of returning to the Disclosing Party, then in the possession of the Receiving Party 
+which contain any such Confidential Information, and shall forth with take reasonable steps 
+to expunge all Confidential Information (and any copy that may have been made) from any 
+computer, word processor or other device containing the Confidential Information. 
+ 
+5.2 In the event of breach of any of the conditions stipulated by this Agreement, the Disclosing 
+Party shall be at liberty to take necessary steps to prevent the Receiving Party from disclosing 
+or using such Confidential Information except as authorized herein, including without 
+limitation, terminate this Agreement by serving 30 (thirty) days prior notice, in writing. 
+ 
+5.3 The Receiving Party acknowledges and undertakes that unauthorised disclosure or use of 
+the Confidential Information by it shall cause irreparable damage to the Disclosing Party in 
+such a way that the Disclosing Party cannot be adequately compensated in damages in an 
+action at law. Accordingly, if any dispute  arises concerning the disclosure or use of any 
+Confidential Information by the Receiving Party, the Disclosing Party may seek injunctive 
+relief restraining the un -authorised disclosure or use of the Confidential Information by the 
+Receiving Party or speci fic performance of this Agreement. The above remedy will be in 
+Annexure-A to IFB 
+PAGE 7 OF 9 
+ 
+ 
+ BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+ 
+addition to any other legal or equitable remedy otherwise available to the Disclosing Party. 
+ 
+6. Compliance with Law 
+ 
+Each Party acknowledges that some or all of the Confidential Information provided herein (in 
+case Disclosing Party is a listed company) is or may be price -sensitive information and that 
+the use of such information may be regulated or prohibited by Law and each Party undertakes 
+not to use, directly or indirectly, any Confidential Information in contravention of any Law. On 
+acquiring any Confidential Information, each Party shall comply with all Laws, and shall 
+indemnify and hold the other Party harmless against any consequences arising from any 
+violation by such Party or its Representatives of such Laws. 
+ 
+7. Entire Agreement: 
+ 
+The terms and conditions herein constitute the entire agreement and understanding of the 
+Parties on the subject matter of this Agreement and shall cancel and supersede all 
+communications, negotiations, arrangements and agreements, either oral or written, between 
+the Parties hereto, with respect to the subject matter hereof. 
+ 
+8. Amendments: 
+ 
+No amendment to or modification of this Agreement shall be valid or enforceable unless 
+reduced to writing and executed by the Parties hereto. 
+ 
+9. Waiver: 
+ 
+The failure to exercise or delay in exercising a right or remedy under this Agreement shall 
+not constitute a waiver of the right or remedy or a waiver of any other rights or remedies and 
+no single or partial exercise of any  right or remedy under this Agreement shall prevent any 
+further exercise of the right or remedy or the exercise of any other right or remedy. 
+ 
+10. Notice 
+ 
+10.1 Any notice, demand or other communication required or permitted to be given to either Party 
+by, or made pursuant to, this Agreement shall be in writing and shall be personally delivered 
+Annexure-A to IFB 
+PAGE 8 OF 9 
+ 
+ 
+ BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+ 
+to such Party, sent by prepaid courier; or sent by facsimile transmission, charges prepaid, 
+confirmed by prepaid courier to the following address: 
+Company 
+ 
+To:   _______________________________ 
+ 
+Attn:   _______________________________ 
+ 
+Address:   
+______________________________________ 
+ 
+______________________________________ 
+ 
+Phone:   _______________________________ 
+ 
+NTPC REL 
+ 
+(Address as mentioned in Section – III (BID  
+DATA SHEET) of the Bidding Documents) 
+ 
+10.2 Any Party may from time to time change its address upon serving at least 5 (five) business 
+days prior written notice to the other Party given in accordance with the provisions hereof. 
+ 
+10.3 Any notice, demand o r other communication delivered in accordance with Article (10.1) or 
+(10.2) above if delivered during the normal business hours of the intended recipient, shall be 
+deemed to have been received on the day of its delivery, otherwise on the next business day, 
+and if sent by facsimile shall be deemed to have been received on the date of its transmission 
+by facsimile provided that in the case of a facsimile the recipient’s facsimile number appears 
+on the senders transmission report (confirmation copy to be sent by prepaid courier). 
+ 
+11.0 Severability: 
+ 
+Any provision in this Agreement which is held to be illegal or unenforceable, in whole or in 
+part, under any applicable enactment or rule of law, shall be ineffective to the extent of such 
+illegality or unenforceability without invalidating the remaining provisions and any such illegal 
+or unenforceable provision shall be deemed to be restated to reflect as nearly as possible 
+the original intentions of the Parties in accordance with the applicable law. 
+ 
+12.0 Governing Law: 
+Annexure-A to IFB 
+PAGE 9 OF 9 
+ 
+ 
+ BIDDING DOCUMENT NO. NREL-CS-5836-004(BESS)-9 
+ 
+ 
+This Agreement shall be governed, construed and interpreted in accordance with the laws of 
+India. 
+ 
+13. Dispute Resolution: 
+ 
+Courts at Delhi shall have exclusive jurisdiction over the disputes pertaining to this 
+Agreement. 
+ 
+14. Counterparts: 
+ 
+This Agreement may be executed in 2 (two) counterparts, each of which when executed and 
+delivered is an original and shall be retained by each Party and taken together shall constitute 
+and evidence the same Agreement between the Parties. 
+ 
+  
+IN WITNESS WHEREOF the parties hereto have signed these presents, in duplicate, the day and 
+year first herein above mentioned. 
+ 
+_______________________________ 
+ 
+ 
+ 
+SIGNED and DELIVERED 
+ 
+by _______(Bidder Name)__________  
+in the presence of 
+ 
+_______________________________ 
+ 
+_____________________________ 
+ 
+ 
+ 
+ 
+SIGNED and DELIVERED 
+ 
+by NTPC Renewable Energy Ltd 
+in the presence of 
+ 
+_____________________________ 
+ 
+ 

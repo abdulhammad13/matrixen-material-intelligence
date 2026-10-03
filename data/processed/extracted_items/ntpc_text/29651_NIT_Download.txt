@@ -1,0 +1,832 @@
+ 
+PACKAGE: BALANCE OF SYSTEM (BOS)  
+PACKAGE FOR DEVELOPMENT OF 200MW GRID CONNECTED SOLAR PV 
+PROJECT AT BIKANER, RAJASTHAN 
+BIDDING DOCUMENT NO.: NRE-CS-5800-004(BOS2)-9 
+SECTION-I 
+INVITATION FOR BIDS 
+(IFB) 
+PAGE 1 OF 7 
+ 
+ 
+ 
+ 
+INVITATION FOR BIDS 
+NTPC RENEWABLE ENERGY LIMITED 
+(A WHOLLY OWNED SUBSIDIARY OF NTPC GREEN ENERGY LIMITED) 
+ 
+CONTRACTS SERVICES 
+ 
+INVITATION FOR BIDS (IFB) 
+ 
+FOR 
+ 
+BALANCE OF SYSTEM (BOS) PACKAGE FOR DEVELOPMENT OF 200MW GRID CONNECTED 
+SOLAR PV PROJECT AT BIKANER, RAJASTHAN 
+  
+(Domestic Competitive Bidding) 
+ 
+IFB NO.: NRE-CS-5800-004(BOS2)-9                                  Date : 02.04.2026 
+ETS Portal Tender Search Code: NTPCREL-2026-TN000011 
+Bidding Document No: NRE-CS-5800-004(BOS2)-9 
+ 
+1.0 NTPC Renewable Energy Limited (NTPC REL) invites online bids from eligible bidders on Single 
+Stage Two Envelope (i.e. Envelope-I: Techno-Commercial Bid and Envelope-II: Price Bid) followed 
+by Reverse Auction basis for BALANCE OF SYSTEM (BOS) PACKAGE FOR DEVELOPMENT 
+OF 200MW GRID CONNECTED SOLAR PV PROJECT AT BIKANER, RAJASTHAN. 
+2.0 
+ 
+The scope includes the following: 
+1. Design, engineering, manufacturing, supply, packing and forwarding, transportation, 
+unloading storage, installation, testing and commissioning of Solar Photovoltaic plant excluding 
+Supply of Solar PV modules. 
+2. Site - Grading & Clearing of Vegetation, Topographical Survey, Geotechnical Investigation. 
+3. Design and Construction of foundation & erection of Tracker based Module Mounting 
+Structure (MMS) for SPV panels, including fixing of PV Modules on MMS and PV Modules 
+interconnection. 
+4. Arranging power supply and water supply for construction purposes. 
+5. Construction of Pre-Engineered type Inverter room (if applicable) with Power conditioning 
+unit associated LT and HT switchgear. In case of String Inverter, Construction of Pre-Engineered 
+type HT Switchgear room. 
+6. All associated electrical and civil works required for interfacing with grid (i.e., transformers, 
+panels, protection system, cables, metering at 33kV level, facilitation for grid compliance study as 
+per regulation etc.). Power evacuation in scope of the p ackage shall be up to 33kV Main Pooling 
+Switchgear at Owner’s pooling substation.  
+7. Laying and termination of HT Cables (including supply) from block boundary to 33kV 
+Owner’s Main Pooling switchgear as per specification. 
+
+ 
+PACKAGE: BALANCE OF SYSTEM (BOS)  
+PACKAGE FOR DEVELOPMENT OF 200MW GRID CONNECTED SOLAR PV 
+PROJECT AT BIKANER, RAJASTHAN 
+BIDDING DOCUMENT NO.: NRE-CS-5800-004(BOS2)-9 
+SECTION-I 
+INVITATION FOR BIDS 
+(IFB) 
+PAGE 2 OF 7 
+ 
+ 
+ 
+INVITATION FOR BIDS 
+8. Module cleaning system including supply and installation of all accessories.  
+9. Construction of internal roads, pathways, construction of Drainage system as per General 
+Layout and Topography, any internal / temporary fencing, security cabin etc. 
+10. SCADA system for remote monitoring and control of Inverters with all hardware & software 
+and complete set of Weather Monitoring Station including cloud cover.  
+11. Dynamic reactive power compensation equipment and Harmonic filters to comply with the 
+requirements of dynamic reactive power capability at PoI as per the “Report of the Working Group 
+in respect of Data Submission Procedure and Verification of Compliance t o CEA Regulations on 
+Technical Standards for Connectivity to the Grid by RE Generators July 2022” and its 
+clarification(s)/amendment(s) thereof if any. 
+12. CCTVs along with remote monitoring system with coverage of 100% block periphery, 
+entry/exit gates of the solar blocks, WMS inverter stations etc. 
+13. Comprehensive Operation & maintenance of SPV Plant along with electrical equipment, 
+consumables, and spare parts for a period of Three years from the date of commissioning of full 
+Project capacity. 
+14. Supply of Mandatory spares. 
+3.0 NTPC REL intends to finance the subject package through Own Resources/ Borrowings. 
+ 
+4.0 Detailed specifications, Scope of work and Terms & Conditions are given in the bidding documents, 
+which are available for examination and downloading at e-tender portal (as specified in this notice) 
+and as per the following schedule: 
+ 
+ETS Portal Tender Search Code (TSC) NTPCREL-2026-TN000011 
+IFB Date 02.04.2026 
+Period for downloading of Bidding Documents From 02.04.2026 upto 13.04.2026; 17:00 
+hrs (IST) 
+Pre Bid Conference date and Last Date for 
+receipt of queries from prospective Bidders 
+14.04.2026 at 11:00 hrs & 14.04.2026 at 
+17.30 hrs 
+Last date and time for receipt of Both 
+Techno-Commercial bid and Price bid 
+05.05.2026 upto 15:00 hrs 
+Techno-Commercial Bid opening date 05.05.2026 at 15:30 Hrs 
+Price Bid Opening and Reverse Auction Shall be intimated later 
+Cost of Bidding Documents in INR NOT APPLICABLE  
+ 
+5.0 
+ 
+All bids must be accompanied by Bid Security for amount as per table below in the form as 
+stipulated in the Bidding Documents. 
+Quoted Bid Capacity Bid Security Amount 
+200 MW 
+ 
+ 
+INR 5,00,00,000/- 
+(Indian Rupees Five Crore only)  
+ 
+
+ 
+PACKAGE: BALANCE OF SYSTEM (BOS)  
+PACKAGE FOR DEVELOPMENT OF 200MW GRID CONNECTED SOLAR PV 
+PROJECT AT BIKANER, RAJASTHAN 
+BIDDING DOCUMENT NO.: NRE-CS-5800-004(BOS2)-9 
+SECTION-I 
+INVITATION FOR BIDS 
+(IFB) 
+PAGE 3 OF 7 
+ 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+ANY BID NOT ACCOMPANIED BY AN ACCEPTABLE BID SECURITY IN A SEPARATE SEALED 
+ENVELOPE SHALL BE REJECTED BY THE EMPLOYER AS BEING NON -RESPONSIVE AND 
+RETURNED TO THE BIDDER WITHOUT BEING OPENED. 
+ 
+6.0 In addition to the requirements stipulated under section Instruction to Bidder (ITB), the Bidder 
+should also meet the qualifying requirements stipulated hereunder in Clause 1.0 and Clause 2.0 
+ 
+1.0 TECHNICAL CRITERIA 
+ 
+1.1 The Bidder should have designed, supplied, erected/ supervised erection and 
+commissioned/ supervised commissioning of Balance of System of Solar Photo Voltaic (SPV) 
+based grid connected power plant(s) of cumulative installed capacity of 40 MWp or higher, out of 
+which at least one plant should have been of 10 MWp or higher capacity. The reference plant of 
+10 MWp or higher capacity must hav e been in successful operation for at least six (6) months 
+prior to the date of techno-commercial bid opening. 
+ 
+                                                                   OR 
+ 
+1.2 The Bidder should be a developer of Solar Photo Voltaic (SPV) based grid connected power 
+plant(s) of cumulative installed capacity of 40 MWp or higher, out of which at least one plant 
+should have been of 10 MWp or higher capacity. The reference plant of 1 0 MWp or higher 
+capacity must have been in successful operation for at least six (6) months prior to the date of 
+techno-commercial bid opening. 
+ 
+                                                                    OR 
+ 
+1.3 (a) The Bidder should have executed in the last ten (10) years an industrial project either 
+as developer or as EPC Contractor in the area of power/ steel/ oil and gas/ petro -chemical/ 
+fertilizer/cement/coal mining including coal handling plant and/ or any  other process industry, of  
+Rs 66 Crores (Indian Rupees Sixty-Six Crores Only) or more, in a single project or single work 
+and the same should be in successful operation for at least one (1) year/ six (6) months* prior 
+to the date of techno-commercial bid opening. 
+ 
+* Successful operation:  
+At least One (1) year for industrial projects other than RE sector i.e., Solar/Wind. 
+At least Six (6) months for projects in RE sector (i.e., Solar/Wind). 
+ 
+                                                                       AND 
+ 
+(b) The Bidder should have executed at least one (1) Electrical Sub -station of 33 kV or above 
+voltage level, consisting of equipment such as 33kV or above voltage level circuit breakers and 
+Power transformer, either as developer or as EPC Contractor which should be in successful 
+operation for at least one (1) year/ six (6) months# prior to the date of techno-commercial bid 
+opening. 
+ 
+# Successful operation:  
+At least One (1) year for Electrical Sub-station in Projects other than RE sector i.e., Solar/Wind. 
+At least Six (6) months for Electrical Sub-station in RE Projects (i.e., Solar/Wind). 
+The works referred at clause 1.3 (a) & 1.3 (b) can be in same or different projects. 
+ 
+                                                              OR 
+ 
+
+ 
+PACKAGE: BALANCE OF SYSTEM (BOS)  
+PACKAGE FOR DEVELOPMENT OF 200MW GRID CONNECTED SOLAR PV 
+PROJECT AT BIKANER, RAJASTHAN 
+BIDDING DOCUMENT NO.: NRE-CS-5800-004(BOS2)-9 
+SECTION-I 
+INVITATION FOR BIDS 
+(IFB) 
+PAGE 4 OF 7 
+ 
+ 
+ 
+INVITATION FOR BIDS 
+1.4 The bidder should be an Indian company registered in India and should be Group                                
+company/Holding Company/Subsidiary company of a firm meeting the requirement (s) of Clause 
+1.1 or 1.2 or 1.3 above. In such a case, Bidder shall furnish an Undertaking jointly executed by 
+the firm qualified as per clause 1.1 or 1.2 or 1.3 and the Bidder along with its bid for complete 
+performance of the contract jointly and severally as per format enclosed in the bid document 
+failing which the Bidder’s bid is liable to be rejected. 
+ 
+Notes for Clause 1.0 
+a. The reference SPV based grid-connected power plant of 10 MWp or above capacity should 
+be at a single location developed by Bidder for itself or any other client. 
+ 
+b. SPV based Roof-top/Floating solar power projects, which are grid connected, shall also be 
+considered eligible for QR purposes. 
+ 
+c. For clause 1.1 & 1.3, Bidder shall submit certificate of successful completion and operation 
+from the Owner. However, if bidder in clause 1.3 is a developer, certificate of successful 
+commissioning of the project issued from Government Renewable Nodal Agen cy/Government 
+Enterprise/ Discom/ Electricity Board etc. and evidence of successful operation from intermediary 
+procurer/ procurer/Discom/ Electricity Board etc. shall be submitted.  
+ 
+d. For Clause 1.3, bidder shall submit documentary evidence for the value of the project 
+certified by a Chartered Accountant. The specified value of executed work shall be exclusive of 
+Taxes. 
+ 
+e. Direct/Indirect Order 
+The Bidder shall also be considered qualified in case the award for executing the reference work 
+has been received by the Bidder either directly from the owner of the plant or any other 
+intermediary organization. In such a case, a certificate from such own er of plant or any other 
+intermediary organization shall be required to be furnished by the Bidder along with its Techno -
+Commercial bid in support of Bidder’s claim of meeting the qualification requirement as per clause 
+1.1 and 1.3 above. Bidder shall also submit a certificate of successful completion and operation 
+from the Owner.  
+ 
+f. For Clause 1.2, Bidder shall submit certificate of successful commissioning of the project 
+issued from Government Renewable Nodal Agency/ Government Enterprise/ Discom/ Electricity 
+Board etc.  
+ 
+g. For Clause 1.2, Bidder shall submit evidence of successful operation from intermediary 
+procurer/ procurer/Discom/ Electricity Board etc. 
+ 
+h. Developer means an entity who has either executed or got executed the work/ project as 
+owner of industrial projects. 
+ 
+i. The execution of industrial project as EPC Contractor under Clause No. 1.3 means, such 
+EPC Contractor is responsible for all the activities i.e., Design/Engineering, Procurement, 
+Construction (with/without civil works) and Commissioning of a project/work. 
+ 
+j. The portion of work related to power transformer such as supply and or installation 
+mentioned at cl. no. 1.3 (b) can either be done by EPC contractor by themselves or by the owner. 
+ 
+k. The Balance of Systems, under Clause 1.1, refers to works related to minimum three of the 
+following four areas in a Solar PV Plant: 
+i. Erection of PV Modules 
+ii. Civil works including Module Mounting Structures/Floaters 
+
+ 
+PACKAGE: BALANCE OF SYSTEM (BOS)  
+PACKAGE FOR DEVELOPMENT OF 200MW GRID CONNECTED SOLAR PV 
+PROJECT AT BIKANER, RAJASTHAN 
+BIDDING DOCUMENT NO.: NRE-CS-5800-004(BOS2)-9 
+SECTION-I 
+INVITATION FOR BIDS 
+(IFB) 
+PAGE 5 OF 7 
+ 
+ 
+ 
+INVITATION FOR BIDS 
+iii. Inverters (Power Conditioning Units) and/or Inverter Transformers 
+iv. Cables and Cabling Works. 
+ 
+l. If the value of industrial project in clause 1.3 (a) is indicated in foreign currency, the 
+exchange rate as on date of award of the reference work shall be considered. In case the 
+exchange rate as on the date of award is not available, the exchange rate as on the next available 
+day shall be considered. 
+ 
+2.0 FINANCIAL CRITERIA 
+ 
+2.1 The average annual turnover of the Bidder should not be less than Rs 66 Crores (Indian 
+Rupees Sixty-Six Crores Only), during the preceding three (3) financial years as on date of 
+techno commercial bid opening. 
+ 
+In case a Bidder does not satisfy the annual turnover criteria, stipulated above on its own, its 
+Holding Company would be required to meet the stipulated turnover requirements as above, 
+provided that the Net Worth of such Holding Company as on the last day of the preceding financial 
+year is at least equal to or more than the paid- up share capital of the Holding Company. In such 
+an event, the Bidder would be required to furnish along with its techno -commercial bid, a Letter 
+of Undertaking from the Holding C ompany, supported by the Holding Company’s Board 
+Resolution, as per the format enclosed in the bid documents, pledging unconditional and 
+irrevocable financial support for the execution of the Contract by the Bidder in case of award. 
+ 
+2.2 Net Worth of the Bidder as on the last day of the preceding financial year should not be 
+less than 100% (hundred percent) of bidder’s paid-up share capital. In case the Bidder does not 
+satisfy the Net Worth criteria on its own, it can meet the requirement  of Net worth based on the 
+strength of its Subsidiary (ies) and/or Holding Company and/or Subsidiaries of its Holding 
+companies wherever applicable, the Net worth of the Bidder and its Subsidiary (ies) and/or 
+Holding Company and/or Subsidiary (ies) of the Holding Company, in combined manner should 
+not be less than 100% (hundred percent) of their total paid up share capital. However individually, 
+their Net worth should not be less than 75% (seventy -five percent) of their respective paid -up 
+share capitals. 
+Net worth in combined manner shall be calculated as follows: 
+Net worth (combined) = (X1+ X2+X3) / (Y1+Y2+Y3) X 100 where X1, X2, X3 are individual Net 
+worth which should not be less than 75% of the respective paid up share capitals and Y1,Y2,Y3 
+are individual paid up share capitals.  
+ 
+2.3 In case the Bidder is not able to furnish its audited financial statements on standalone entity 
+basis, the unaudited unconsolidated financial statements of the Bidder can be considered 
+acceptable provided the Bidder further furnishes the following documents on substantiation of its 
+qualification: 
+ 
+(a) Copies of the unaudited unconsolidated financial statements of the Bidder along with copies 
+of the audited consolidated financial statements of its Holding Company. 
+ 
+(b) Certificate from the CEO/ CFO of the Holding Company, as per the format enclosed in the 
+bidding documents, stating that the unaudited unconsolidated financial statements form part of 
+the consolidated financial statement of the Holding Company. 
+ 
+In case where audited results for the last financial year as on date of techno commercial bid 
+opening are not available, the financial results certified by a practicing Chartered Accountant shall 
+be considered acceptable. In case the Bidder is not able to submit the Certificate from a practicing 
+Chartered Accountant certifying its financial parameters, the audited result of three consecutive 
+financial years preceding the last financial year  shall be considered for evaluating financial 
+
+ 
+PACKAGE: BALANCE OF SYSTEM (BOS)  
+PACKAGE FOR DEVELOPMENT OF 200MW GRID CONNECTED SOLAR PV 
+PROJECT AT BIKANER, RAJASTHAN 
+BIDDING DOCUMENT NO.: NRE-CS-5800-004(BOS2)-9 
+SECTION-I 
+INVITATION FOR BIDS 
+(IFB) 
+PAGE 6 OF 7 
+ 
+ 
+ 
+INVITATION FOR BIDS 
+parameters. Further, a certificate would be required from the CEO/CFO as per the format 
+enclosed in the bidding documents stating that the financial results of the company are under 
+audit as on techno -commercial bid opening and the Certificate from a pract icing Chartered 
+Accountant certifying the financial parameters is not available. 
+ 
+Notes for Clause 2.0 
+ 
+a. Net worth means the sum total of the paid-up share capital and free reserves. Free reserves 
+means all reserves credited out of the profits and share premium account but does not include 
+reserves credited out of the revaluation of the assets, write back of  depreciation provision and 
+amalgamation. Further, any debit balance of Profit and Loss account and miscellaneous 
+expenses to the extent not adjusted or written off, if any, shall be reduced from reserves and 
+surplus. 
+ 
+b. Other income shall not be considered for arriving at annual turnover. 
+ 
+c. For the value of annual Turnover indicated in foreign currency, the exchange rate as on 
+seven (7) days prior to the date of Techno-commercial Bid opening shall be used. 
+ 
+d. “Holding Company” and “Subsidiary” shall have the meaning ascribed to them as per 
+Companies Act of India. 
+ 
+e. ‘Group Company’ means two or more enterprises which, directly or indirectly, are in a 
+position to:  
+ 
+ (a) exercise twenty-six percent or more of voting rights in other enterprise; or  
+ (b) appoint more than fifty percent of members of Board of Directors in the other enterprise.  
+  
+The meaning of Holding/Subsidiary/Group Company mentioned above shall be applicable for 
+Clause 1.4 also. 
+ 
+7.0 NTPC REL reserves the right to reject any or all bids or cancel/ withdraw the Invitation for Bids 
+without assigning any reason whatsoever and in such case no bidder/ intending bidder shall have 
+any claim arising out of such action. 
+8.0(a) DELETED 
+  
+8.0(b)  ) The bidder shall be mandatorily required to submit a copy of “ Non-Disclosure Agreement” duly 
+signed by the authorized signatory as per the format enclosed (Annexure-A) along with the IFB to 
+enable the Employer to authorize the Bidder for procurement of the Bidding Documents.  
+In case of any non -compliance in submission of Non -Disclosure Agreement (NDA), authorization 
+shall not be provided to the bidders for procurement of bidding documents. 
+8.0(c) Interested bidders are required to submit duly signed NDA along with Cost of Bidding 
+documents prior to closing of Bidding documents sale period to enable the employer for 
+authorizing the bidder to download the bidding documents online from the ETS portal. 
+8.1 Issuance of Bid Documents to any Bidder shall not construe that such Bidder is considered to be 
+qualified. The bids shall be submitted online. Bidder shall furnish Bid Security, Pass Phrases and 
+Power of Attorney separately as detailed in Bidding Documents before the stipulated bid submission 
+closing date and time at the address given at para 11 below. 
+
+ 
+PACKAGE: BALANCE OF SYSTEM (BOS)  
+PACKAGE FOR DEVELOPMENT OF 200MW GRID CONNECTED SOLAR PV 
+PROJECT AT BIKANER, RAJASTHAN 
+BIDDING DOCUMENT NO.: NRE-CS-5800-004(BOS2)-9 
+SECTION-I 
+INVITATION FOR BIDS 
+(IFB) 
+PAGE 7 OF 7 
+ 
+ 
+ 
+INVITATION FOR BIDS 
+8.2 After registration with ETS, a complete set of Bidding Documents may be downloaded by any 
+interested Bidder from ETS Portal https://www.bharat-electronictender.com with Tender Search 
+Code NTPCREL-2026-TN000011 
+Interested bidders are required to ensure that they have downloaded the official copy of bidding 
+documents against Tender Search code  NTPCREL-2026-TN000011 from website of ETS before 
+closure of Bid Sale Period. If Bidding Documents are downloaded without confirmation or without 
+generating official copy serial number, then the bidders will not be able to submit the bids.  
+For technical assistance, interested parties may call ETS Helpdesk at 0124 -4229071, 0124 -
+4229072. 
+Note: No hard copy of Bidding Documents shall be issued. 
+9.0 Transfer of Bidding Documents purchased by one intending Bidder to another is not permissible. 
+10.0 Any ‘Bidder from a country which shares a land border with India’, as specified in the Bidding 
+Documents, will be eligible to bid in this tender only if bidder is registered with the Competent 
+Authority as mentioned in the Bidding Documents.  
+Further, any bidder (including bidder from India) having specified Transfer of Technology (ToT) 
+arrangement with an entity from a country which shares a land border with India, will be eligible to 
+bid only if the bidder is registered with the same competent authority. 
+However, the said requirement of registration will not apply to bidders from those countries (even if 
+sharing a land border with India) to which the Government of India has extended lines of credit or 
+in which the Government of India is engaged in development projects. 
+11.0 ADDRESS FOR COMMUNICATION 
+  
+Sr Manager (CS)/ Addl. General Manager (CS) 
+Contracts Services 
+NTPC Renewable Energy Limited 
+4th Floor, Renewables Building, NETRA Complex 
+E-3, Ecotech-II, Udyog Vihar, Greater Noida 
+Gautam Buddha Nagar, Uttar Pradesh, India, Pin – 201306 
+Telephone No., +91-94241 40880, +91-94509 62775 
+E-Mail: piushverma@ntpc.co.in / rajandwivedi@ntpc.co.in 
+ 
+Corporate Identification Number: U40107DL2020GOI371032, Website: https://www.ntpcrel.co.in/  
+ 
+
+Annexure-A to IFB 
+PAGE 1 OF 8 
+ 
+BALANCE OF SYSTEM (BOS) PACKAGE FOR DEVELOPMENT OF 200MW GRID 
+CONNECTED SOLAR PV PROJECTS AT BIKANER, RAJASTHAN 
+BIDDING DOCUMENT NO.: NRE-CS-5800-004(BOS2)-9 
+ 
+NON-DISCLOSURE AGREEMENT 
+ 
+THIS NON DISCLOSURE AGREEMENT (“Agreement”) made on this [ ] day of ....... 
+20................... Between --------------------------, a company incorporated under the Companies 
+Act, 1956, and having its Registered Office at --------------------------------- and Corporate Office 
+at ------------------------------------------------hereinafter referred to as “Company” (which 
+expression shall unless repugnant to the context or meaning thereof mean and include its 
+successors and permitted assigns), of the One Part; 
+ 
+And NTPC Renewable Energy Limited ( NTPC REL), a company incorporated under the 
+Companies Act, 2013, and having its Registered Office at NTPC Bhawan, SCOPE Complex, 
+Institutional Area, Lodhi Road, New Delhi - 110003, India, hereinafter referred to as NTPC 
+REL(which expression shall unless repugnant to the context or meaning thereof include its 
+successors and permitted assigns) of the Other Part. 
+ 
+The Company and NTPC REL shall collectively be referred to as the “Parties” and 
+individually as a “Party”. 
+ 
+WHEREAS: 
+ 
+A. NTPC REL envisages to invite packages/tenders for the package 
+“……………………………………………………..” through which it intends to develop 
+Renewable Energy Projects (Solar/Wind/Storage/Hybrid/other RE sources) won 
+under Competitive Bidding Process and/or under Bilateral Arrangements through a 
+competitive bidding process (“Evaluation”). 
+ 
+B. As part of Evaluation, the bidder shall be issued complete set of bidding documents. 
+Further, the bidder is also expected to examine and evaluate all instructions, forms, 
+terms, conditions, specifications and other information as furnished as part of the 
+bidding documents for the purpose of submission of techno -commercial bids and/or 
+evaluation of its bids and/or award of the contract and/or performance of the contract 
+and/or operation of the package. 
+ 
+C. It is anticipated by the Parties that, in the course of Evaluation, either Party may 
+disclose to the other Party certain Confidential Information (defined hereinafter) and 
+the party disclosing such information shall be the Disclosing Party and that, the party 
+receiving such information shall be the Receiving Party as the case may be. 
+ 
+D. It is also anticipated by the Parties that, after the award of the contract and/or during 
+the performance of the contract and/or during the operation of the package, a Party 
+(“Disclosing Party”) may disclose to the other Party (“Receiving Party”) certain 
+Confidential Information (defined hereinafter). 
+ 
+ 
+
+Annexure-A to IFB 
+PAGE 2 OF 8 
+ 
+BALANCE OF SYSTEM (BOS) PACKAGE FOR DEVELOPMENT OF 200MW GRID 
+CONNECTED SOLAR PV PROJECTS AT BIKANER, RAJASTHAN 
+BIDDING DOCUMENT NO.: NRE-CS-5800-004(BOS2)-9 
+ 
+ 
+E. Accordingly, the Parties are desirous of entering into this Non-Disclosure Agreement 
+which sets out their mutual confidentiality obligations in respect of the Confidential 
+Information disclosed to each other in the course of their discussions on the  
+           Evaluation. 
+ 
+F. Each Party undertakes to comply with the terms and conditions as contained 
+hereinafter which shall govern the exchange and handling of the non-disclosure and 
+use of the Confidential Information. 
+ 
+NOW THEREFORE, IN CONSIDERATION OF THE MUTUAL PROMISES CONTAINED 
+HEREIN, IT IS HEREBY AGREED BY AND BETWEEN THE PARTIES AS FOLLOWS: 
+ 
+1. Definitions and Interpretations: 
+ 
+1.1 “Affiliates” means, with respect to any Person, a Person that directly or indirectly 
+through one or more intermediaries, controls, is controlled by or is under common 
+control with, the Person specified. For the purposes of this definition, “control” 
+(including, with correlative meanings, the terms “controlled by” and “under common 
+control with”) shall mean the possession, directly or indirectly, of the power, alone or 
+together with others, to direct or cause the direction of the Management and policies 
+of such Person, whether through the ownership of voting securities, by contract, or 
+otherwise. 
+ 
+1.2 “Confidential Information” has the meaning ascribed to it in Clause 2.1. 
+ 
+1.3 “Disclosing Party” has the meaning ascribed to it in Recital C. 
+ 
+1.4 “Government” or “Governmental Instrumentality” shall mean any ministry, 
+department, political subdivision, instrumentality, agency, provincial or municipal 
+council, authority, body or entity, corporation or commission under the control of the 
+GOI and any other local or other authority, agency or statutory body exercising 
+powers conferred by Laws; 
+ 
+1.5 “Laws” means all laws, statutes, enactments, acts of legislature or parliament, 
+ordinances, rules, bye-laws, regulations, notifications, policies, guidelines, directions, 
+directives, decision, decrees and orders of any Governmental Instrumentality having 
+the force of law. 
+ 
+1.6 “Materials” means the part of any tangible media upon or within which any part of the 
+Confidential Information is recorded or reproduced in any form and shall include any 
+storage device which forms a part of computer hardware. 
+ 
+ 
+
+Annexure-A to IFB 
+PAGE 3 OF 8 
+ 
+BALANCE OF SYSTEM (BOS) PACKAGE FOR DEVELOPMENT OF 200MW GRID 
+CONNECTED SOLAR PV PROJECTS AT BIKANER, RAJASTHAN 
+BIDDING DOCUMENT NO.: NRE-CS-5800-004(BOS2)-9 
+ 
+1.7 “Person” includes any natural person, firm, company, Governmental Authority, joint 
+venture, association, partnership or other entity (whether or not having separate legal 
+personality). 
+ 
+1.8 “Receiving Party” has the meaning ascribed to it in Recital C. 
+ 
+1.9 “Representatives” has the meaning ascribed to it in Clause 3 (a). 
+ 
+2. Confidential Information 
+ 
+2.1 “Confidential Information” means information which is legally owned and possessed 
+by the Disclosing Party and which ought to be considered as confidential from its 
+nature or from the circumstances surrounding its disclosure, in whatever form or 
+media, imparted or disclosed by the Disclosing Party to the Receiving Party, in writing 
+or by any other medium upon the execution of this Agreement or during the course 
+of the discussions on the Evaluation. Confidential Information includes information: 
+ 
+a) relating to the Disclosing Party’s business, corporate policies, strategies, operations, 
+finances, employees, plans or opportunities and commercial information including  
+profitability information and charts and the identity of, or particulars about, the 
+Disclosing Party, marked identified as confidential, restricted, secret or proprietary at 
+the time of disclosure during the discussions on the Evaluation; 
+ 
+b) the fact that the discussions referred to herein are taking place, and all notes, 
+extracts, compilations or Materials or media, which are copies of or derivative works 
+of the Confidential Information. 
+ 
+But does not include any information which: 
+ 
+a) is now, or hereafter, through no willful act or failure by the Receiving Party, becomes, 
+generally known or available to the public; 
+ 
+b) is furnished to the Receiving Party on a non-confidential basis by a third party whom 
+the Receiving Party reasonably believes that the Disclosing party had not obtained it 
+under an obligation of confidentiality.; 
+ 
+c) is an information which the Receiving Party can evidence as having been 
+independently developed by it without violating this Agreement; or 
+ 
+d) is legally known to the Receiving Party prior to the time of disclosure by the Disclosing 
+Party. 
+ 
+ 
+ 
+
+Annexure-A to IFB 
+PAGE 4 OF 8 
+ 
+BALANCE OF SYSTEM (BOS) PACKAGE FOR DEVELOPMENT OF 200MW GRID 
+CONNECTED SOLAR PV PROJECTS AT BIKANER, RAJASTHAN 
+BIDDING DOCUMENT NO.: NRE-CS-5800-004(BOS2)-9 
+ 
+2.2 Obligation of Confidentiality  
+The Receiving Party shall keep the Confidential Information strictly confidential and 
+shall use it for the purposes of Evaluation and shall not disclose or divulge or provide 
+any Confidential Information to a third party, in manner whatsoever, without the prior 
+written consent of the Company. In case the Receiving Party is required to disclose 
+any Confidential Information in terms of any Law, the Receiving Party shall endeavor 
+to give the Disclosing Party reasonable notice as may be legally possible prior to such 
+disclosure to obtain any applicable protective order or equivalent and provide such 
+assistance, as may be required by the Disclosing Party for the purposes of 
+safeguarding such Confidential Information and further comply with the same. 
+ 
+3. Undertakings and Covenants of the Parties: 
+            Each Party hereby agrees, undertakes, confirms and covenants with the other that: 
+ 
+a) it shall keep strictly confidential and not use, reveal, provide or transfer to any Person, 
+directly or indirectly, the Confidential Information or any part thereof, except to such 
+of its employees, directors, co -investors, debt financing sources, attorne ys, 
+accountants, consultants or representatives (collectively, “Representatives”) strictly 
+on a “need -to- know” basis for the purpose of Evaluation, and the Receiving Party 
+shall at all times remain fully responsible for such Representatives’ compliance under 
+this Agreement; 
+ 
+b) it shall not keep, reproduce, use for any unauthorized purpose or part with possession 
+of any documents or Material relating to the Confidential Information, save as 
+required for the purposes of Evaluation, except with the prior written consent of the 
+Disclosing Party;  
+c) it shall apply, adopt and enforce appropriate procedures and policies with regard to 
+and in respect of transmission, publication and disclosure of the Confidential 
+Information, in order to preserve the confidentiality or propriety of such information; 
+d) it shall exercise the same care in preventing unauthorised disclosure or use of the 
+Confidential Information as it would take to protect and safeguard the confidentiality 
+of its own information of a similar nature; 
+e) it shall maintain proper records and enforce strict accountability of all Confidential 
+Information received from the Disclosing Party and whenever required to transmit 
+publish or disclose or otherwise provide such Confidential Information subject to, and 
+as may be permitted under this Agreement, it shall do so with due diligence and shall 
+convey to the recipient of such information that the same is subject to non disclosure 
+obligations under this Agreement, so as to put the recipient on notice that the recipient 
+shall be held accountable in respect of disclosure of such Confidential Information 
+and that the recipient is expected to maintain confidentiality as if the recipient was a 
+party to this Agreement and obtain such assurances, agreement and undertaking  
+from the recipient that it shall return such information upon request by the Disclosing 
+Party; 
+ 
+
+Annexure-A to IFB 
+PAGE 5 OF 8 
+ 
+BALANCE OF SYSTEM (BOS) PACKAGE FOR DEVELOPMENT OF 200MW GRID 
+CONNECTED SOLAR PV PROJECTS AT BIKANER, RAJASTHAN 
+BIDDING DOCUMENT NO.: NRE-CS-5800-004(BOS2)-9 
+ 
+f) it shall ensure that the Representatives are made aware of the terms and conditions 
+of this Agreement including without limitation the confidentiality obligations of the 
+Receiving Party under this Agreement and abide by it at all times. 
+ 
+g) Any materials or documents that have been furnished by the Disclosing Party to the 
+Receiving Party in connection with the relationship will be promptly returned by the 
+Receiving Party, accompanied by all copies of such documentation or certification of 
+destruction, within TEN days after the relationship has terminated or on the written 
+request of the Company. 
+ 
+4. Term: 
+ 
+Unless otherwise agreed to, expressly in writing by the Parties, the obligations 
+hereunder shall continue to be in full force and effect in accordance with the terms 
+hereof and shall terminate on the expiry of earlier of (i) the Parties entering into legally 
+binding documentation in relation to or pursuant to the Evaluation; and (ii) twelve 
+months from the date of this Undertaking; 
+ 
+5. Rights and Remedies of the Disclosing Party: 
+ 
+5.1 On the expiry of the term of this Agreement or upon its termination for any reason 
+whatsoever or immediately upon the Disclosing Party’s request at any time during the 
+term hereof, the Receiving Party shall forthwith return to the Disclosing Party all the  
+Material which are capable of returning to the Disclosing Party, then in the possession 
+of the Receiving Party which contain any such Confidential Information, and shall 
+forth with take reasonable steps to expunge all Confidential Information (and any 
+copy that may have been made) from any computer, word processor or other device 
+containing the Confidential Information. 
+ 
+5.2 In the event of breach of any of the conditions stipulated by this Agreement, the 
+Disclosing Party shall be at liberty to take necessary steps to prevent the Receiving 
+Party from disclosing or using such Confidential Information except as authorized 
+herein, including without limitation, terminate this Agreement by serving 30 (thirty) 
+days prior notice, in writing. 
+5.3 The Receiving Party acknowledges and undertakes that unauthorised disclosure or 
+use of the Confidential Information by it shall cause irreparable damage to the 
+Disclosing Party in such a way that the Disclosing Party cannot be adequately 
+compensated in da mages in an action at law. Accordingly, if any dispute arises 
+concerning the disclosure or use of any Confidential Information by the Receiving 
+Party, the Disclosing Party may seek injunctive relief restraining the un -authorised 
+disclosure or use of the  Confidential Information by the Receiving Party or specific 
+performance of this Agreement. The above remedy will be in addition to any other 
+legal or equitable remedy otherwise available to the Disclosing Party. 
+ 
+
+Annexure-A to IFB 
+PAGE 6 OF 8 
+ 
+BALANCE OF SYSTEM (BOS) PACKAGE FOR DEVELOPMENT OF 200MW GRID 
+CONNECTED SOLAR PV PROJECTS AT BIKANER, RAJASTHAN 
+BIDDING DOCUMENT NO.: NRE-CS-5800-004(BOS2)-9 
+ 
+6. Compliance with Law 
+ 
+Each Party acknowledges that some or all of the Confidential Information provided 
+herein (in case Disclosing Party is a listed company) is or may be price -sensitive 
+information and that the use of such information may be regulated or prohibited by 
+Law and each Party undertakes not to use, directly or indirectly, any Confidential 
+Information in contravention of any Law. On acquiring any Confidential Information, 
+each Party shall comply with all Laws, and shall indemnify and hold the other Party 
+harmless against any consequences arising from any violation by such Party or its 
+Representatives of such Laws. 
+ 
+7. Entire Agreement: 
+ 
+The terms and conditions herein constitute the entire agreement and understanding 
+of the Parties on the subject matter of this Agreement and shall cancel and supersede 
+all communications, negotiations, arrangements and agreements, either oral or 
+written, between the Parties hereto, with respect to the subject matter hereof. 
+ 
+8. Amendments: 
+ 
+No amendment to or modification of this Agreement shall be valid or enforceable 
+unless reduced to writing and executed by the Parties hereto. 
+ 
+9. Waiver: 
+ 
+The failure to exercise or delay in exercising a right or remedy under this Agreement 
+shall not constitute a waiver of the right or remedy or a waiver of any other rights or 
+remedies and no single or partial exercise of any right or remedy under this 
+Agreement shall prevent any further exercise of the right or remedy or the exercise 
+of any other right or remedy. 
+ 
+10. Notice 
+ 
+10.1 Any notice, demand or other communication required or permitted to be given to 
+either Party by, or made pursuant to, this Agreement shall be in writing and shall be 
+personally delivered to such Party, sent by prepaid courier; or sent by facsimile 
+transmission, charges prepaid, confirmed by prepaid courier to the following address: 
+ 
+Bidder’s Address 
+ 
+To:   ________________________________ 
+ 
+Attn:   ________________________________ 
+ 
+
+Annexure-A to IFB 
+PAGE 7 OF 8 
+ 
+BALANCE OF SYSTEM (BOS) PACKAGE FOR DEVELOPMENT OF 200MW GRID 
+CONNECTED SOLAR PV PROJECTS AT BIKANER, RAJASTHAN 
+BIDDING DOCUMENT NO.: NRE-CS-5800-004(BOS2)-9 
+ 
+Address:  ______________________________ 
+ 
+Phone:   _______________________________ 
+ 
+Employer’s Address: 
+ 
+(Address as mentioned in Section – III (BID DATA SHEET) of the Bidding Documents) 
+ 
+10.2 Any Party may from time to time change its address upon serving at least 5 (five) 
+business days prior written notice to the other Party given in accordance with the 
+provisions hereof. 
+10.3 Any notice, demand or other communication delivered in accordance with Article 
+(10.1) or (10.2) above if delivered during the normal business hours of the intended 
+recipient, shall be deemed to have been received on the day of its delivery, otherwise 
+on the next business day, and if sent by facsimile shall be deemed to have been 
+received on the date of its transmission by facsimile provided that in the case of a 
+facsimile the recipient’s facsimile number appears on the senders transmission report 
+(confirmation copy to be sent by prepaid courier). 
+ 
+11.0 Severability: 
+ 
+Any provision in this Agreement which is held to be illegal or unenforceable, in whole 
+or in part, under any applicable enactment or rule of law, shall be ineffective to the 
+extent of such illegality or unenforceability without invalidating the remaining 
+provisions and any such illegal or unenforceable provision shall be deemed to be 
+restated to reflect as nearly as possible the original intentions of the Parties in 
+accordance with the applicable law. 
+ 
+12.0 Governing Law: 
+ 
+This Agreement shall be governed, construed and interpreted in accordance with the 
+laws of India. 
+ 
+13. Dispute Resolution: 
+ 
+Courts at Delhi shall have exclusive jurisdiction over the disputes pertaining to this 
+Agreement. 
+ 
+14. Counterparts: 
+This Agreement may be executed in 2 (two) counterparts, each of which when 
+executed and delivered is an original and shall be retained by each Party and taken 
+together shall constitute and evidence the same Agreement between the Parties. 
+ 
+  
+
+Annexure-A to IFB 
+PAGE 8 OF 8 
+ 
+BALANCE OF SYSTEM (BOS) PACKAGE FOR DEVELOPMENT OF 200MW GRID 
+CONNECTED SOLAR PV PROJECTS AT BIKANER, RAJASTHAN 
+BIDDING DOCUMENT NO.: NRE-CS-5800-004(BOS2)-9 
+ 
+IN WITNESS WHEREOF the parties hereto have signed these presents, in duplicate, the 
+day and year first herein above mentioned. 
+ 
+_______________________________ 
+ 
+ 
+ 
+ 
+SIGNED and DELIVERED 
+ 
+by _______(Bidder Name)__________  
+in the presence of 
+ 
+_______________________________ 
+ 
+_____________________________ 
+ 
+ 
+ 
+ 
+SIGNED and DELIVERED 
+ 
+by NTPC Renewable Energy Ltd 
+in the presence of 
+ 
+_____________________________ 
+ 
+ 
+ 
+ 

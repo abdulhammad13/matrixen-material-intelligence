@@ -1,0 +1,3707 @@
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+बड
+बड
+ 
+ 
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid End Date/Time
+04-02-2026 15:00:00
+बड
+बड
+ 
+ 
+खुलने
+खुलने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid Opening
+Date/Time
+04-02-2026 15:30:00
+बड
+बड
+ 
+ 
+पेशकश
+पेशकश
+ 
+ 
+वैधता
+वैधता
+ (
+ (
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+ 
+ 
+से
+से
+)
+)
+/Bid Offer
+Validity (From End Date)
+120 (Days)
+मं ालय
+मं ालय
+/
+/
+रा!य
+रा!य
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Ministry/State Name
+Ministry Of Power
+वभाग
+वभाग
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Department Name
+Patratu Vidyut Utpadan Nigam Limited
+संगठन
+संगठन
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Organisation Name
+Patratu Vidyut Utpadan Nigam Limited
+काया%लय
+काया%लय
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Office Name
+Jharkhand
+कुल
+कुल
+ 
+ 
+मा ा
+मा ा
+/Total Quantity
+45
+व&तु
+व&तु
+ 
+ 
+'ेणी
+'ेणी
+ 
+ 
+/Item Category
+MOTOR,SQL CAGE,IP55,2810RPM,0.37KW,71-2 ,
+MOTOR,415V,S4,80L,4,B5,F,0.75KW , MOTOR,SQ CAGE
+IND,415VAC,1500RPM,1.1KW , MTR SCIM,2.2
+KW,415V,4P,100L,B5,S1,IP55 , MTR SQ CAGE
+IND,415VAC,112M,V1,F,3.7KW , MTR
+SCIM,3.7KW,415V,2P,100L,B3,S1,F ,
+MOTOR,S4,112M,4,B5,F,3.7KW , MTR
+SCIM,415VAC,132M,B5,1500RPM,7.5KW , MTR
+SCI,415VAC,3PH,160M,2P,B3,F,15KW , MTR
+SCIM,415VAC,160L,B3,F,1460RPM,15KW , MTR
+SCIM,18.5KW,415V,4P,180M,B3,S1,F , MOTOR,EE
+IND,415VAC,200M,6,V1,22KW ,
+MOTOR,IND,415VAC,180L,4P,B3,22KW ,
+MOTOR,IND,415VAC,3PH,DW225S,960RPM,30KW , MTR
+SCIM,200L,B3,F,1475 RPM,30 KW ,
+MOTOR,IND,415VAC,200L,4P,B5,30KW , MOTOR,SQL CAGE
+IND,3PH,225S,4P,IMB3,37KW , MTR
+SCIM,45KW,415V,4P,225M,B3,S1,F ,
+MOTOR,IND,415VAC,280M,6P,B35,55KW , MOTOR,SQ CAGE
+IND,3-PH,280M,V1,55KW , MTR
+SCIM,415V,250M,4P,B3,F,55KW , MTR
+SCIM,75KW,415V,4P,280S,B3,S1,F,IE3 , MTR
+SCIM,415VAC,280M,B3,F,1484RPM,90KW , MTR
+SCIM,415V,315SM,B35,F,2980RPM,132KW , MOTOR,SQ
+CAGE IND,415VAC,3000RPM,160KW
+ 
+बड
+ 
+सं)या
+/
+Bid
+ 
+Number
+: 
+GEM/2025/B/6971191
+*दनांक
+ /
+Dated
+: 24-01-2026
+बड
+बड
+ 
+ 
+द&तावेज़
+द&तावेज़
+ / Bid Document
+1 / 23
+GeMARPTS
+ 
+ 
+म3
+म3
+ 
+ 
+खोजी
+खोजी
+ 
+ 
+गई
+गई
+ 
+ 
+6&7ं8स
+6&7ं8स
+ / Searched
+Strings used in GeMARPTS
+MOTOR,SQL CAGE,IP55,2810RPM,0.37KW,71-2,
+MOTOR,415V,S4,80L,4,B5,F,0.75KW, MOTOR,SQ CAGE
+IND,415VAC,1500RPM,1.1KW, MTR: SCIM,2.2
+KW,415V,4P,100L,B5,S1,IP55, MTR: SQ CAGE
+IND,415VAC,112M,V1,F,3.7KW, MTR:
+SCIM,3.7KW,415V,2P,100L,B3,S1,F,
+MOTOR,S4,112M,4,B5,F,3.7KW, MTR:
+SCIM,415VAC,132M,B5,1500RPM,7.5KW, MTR:
+SCI,415VAC,3PH,160M,2P,B3,F,15KW, MTR:
+SCIM,415VAC,160L,B3,F,1460RPM,15KW, MTR:
+SCIM,18.5KW,415V,4P,180M,B3,S1,F, MOTOR,EE
+IND,415VAC,200M,6,V1,22KW,
+MOTOR,IND,415VAC,180L,4P,B3,22KW,
+MOTOR,IND,415VAC,3PH,DW225S,960RPM,30KW, MTR:
+SCIM,200L,B3,F,1475 RPM,30 KW,
+MOTOR,IND,415VAC,200L,4P,B5,30KW, MOTOR,SQL CAGE
+IND,3PH,225S,4P,IMB3,37KW, MTR:
+SCIM,45KW,415V,4P,225M,B3,S1,F,
+MOTOR,IND,415VAC,280M,6P,B35,55KW, MOTOR,SQ CAGE
+IND,3-PH,280M,V1,55KW, MTR:
+SCIM,415V,250M,4P,B3,F,55KW, MTR:
+SCIM,75KW,415V,4P,280S,B3,S1,F,IE3, MTR:
+SCIM,415VAC,280M,B3,F,1484RPM,90KW, MTR:
+SCIM,415V,315SM,B35,F,2980RPM,132KW, MOTOR,SQ CAGE
+IND,415VAC,3000RPM,160KW
+Searched String
+: MOTOR,SQL
+CAGE,IP55,2810RPM,0.37KW,71-2
+Induction Motor Fan Cover, Laminar air flow cabinets or
+stations, POULTRY CAGE, Power cage, Interbody Fusion
+Cage (V2), Line Operated Three Phase AC Motors ISI Marked
+to IS 12615, Motor Grader as per IS / ISO 7134 (Latest), Sofa
+(V3), Transport Cage for forest Department Use, Polyester
+Enamelled Round Copper Wire, Class 155 as per IS 13730
+(Part 3)
+Searched String
+: MOTOR,415V,S4,80L,4,B5,F,0.75KW
+4-Aminoantipyrine, XLPE Cable for Working Voltages up to
+and Including 1.1 KV as per IS 7098 (Part 1), Synchronous
+servo motor, Digital Motor Protection Relays, Vehicle Wiper
+Motor, Ultra low temperature laboratory deep freezer, DC
+WINCH MOTOR, Transmission Fluid F-10 - Defence(V2), A.C.
+Motor Capacitors ISI Marked to IS 2993 ( Part 1), Potato
+Peeler
+Searched String
+: MOTOR,SQ CAGE
+IND,415VAC,1500RPM,1.1KW
+Induction Motor Fan Cover, XLPE Cable for Working Voltages
+up to and Including 1.1 KV as per IS 7098 (Part 1), Power
+cage, Power Rack (V2), Nitrile Coated/Nitrile Hand Gloves
+(V2), POULTRY CAGE, Multipara Monitor - Low End,
+Individually Ventilated Cage System (IVCS), BOD Incubator,
+Interbody Fusion Cage (V2)
+Searched String
+: MTR: SCIM,2.2
+KW,415V,4P,100L,B5,S1,IP55
+1 KW HF (HP) Trans-Receiver as per MHA QR (V2), XLPE
+Cable for Working Voltages up to and Including 1.1 KV as
+per IS 7098 (Part 1), Induction Motor Fan Cover,
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+2 / 23
+Disconnectors (Isolators) for working voltage up to and
+including 1 KV, Carboxin 22.5% + Thiram 22.5% +
+Imidacloprid 18% WS (Water Soluble), Nitrile Coated/Nitrile
+Hand Gloves (V2), Buprofezin 22.0% + Fipronil 3.0% SC
+(Suspension Concentrate), Fenobucarb 22.5% + Buprofezin
+11.25% + Acephate 2.5% ME (Microemulsion), High End
+Desktop Computer, Mesotrione 2.27% + Atrazine 22.7% SC
+(Suspension Concentrate)
+Searched String
+: MTR: SQ CAGE
+IND,415VAC,112M,V1,F,3.7KW
+Power cage, XLPE Cable for Working Voltages up to and
+Including 1.1 KV as per IS 7098 (Part 1), Power Rack (V2),
+Inflatable Tent, Individually Ventilated Cage System (IVCS),
+PVC Copper Cable Single Core and Multi Core Circular
+Sheathed Cable with Rigid Conductor (V2) as per IS 694,
+Induction Motor Fan Cover, PVC Copper Cable Single Core
+and Multi Core Circular Sheathed Cord with Flexible
+Conductor (V2) as per IS 694, Toilet Seat - Indian Style
+Squatting Pan, XLPE Cables for Working Voltages From 3.3
+KV up to and Including 33 KV as per IS 7098 (Part 2)
+Searched String
+: MTR: SCIM,3.7KW,415V,2P,100L,B3,S1,F
+Transmission Fluid F-10 - Defence(V2), High End Desktop
+Computer, Induction Motor Fan Cover, Deltamethrin
+Flowable (F) (V2) Conforming to IS 14411, Nitrile
+Coated/Nitrile Hand Gloves (V2), Marine fuels (Class F)
+conforming to IS 16731, Disconnectors (Isolators) for
+working voltage up to and including 1 KV, CARTON BOX TO
+DRG NO P-144(f) IN FINISHED CONDITION, Sofa (V3),
+Anesthesia Breathing Circuit - Mapleson F Infant T Piece
+Breathing Circuit (V2)
+Searched String
+: MOTOR,S4,112M,4,B5,F,3.7KW
+4-Aminoantipyrine, XLPE Cable for Working Voltages up to
+and Including 1.1 KV as per IS 7098 (Part 1), Synchronous
+servo motor, Vehicle Wiper Motor, High End Desktop
+Computer, DC WINCH MOTOR, Line Operated Three Phase
+AC Motors ISI Marked to IS 12615, Transmission Fluid F-10 -
+Defence(V2), Entry and Mid Level Desktop Computer, A.C.
+Motor Capacitors ISI Marked to IS 2993 ( Part 1)
+Searched String
+: MTR:
+SCIM,415VAC,132M,B5,1500RPM,7.5KW
+Induction Motor Fan Cover, All in One PC (V2), File/Folder
+(V3), High End Desktop Computer, XLPE Cable for Working
+Voltages up to and Including 1.1 KV as per IS 7098 (Part 1),
+Foot Operated Pedal Bin or Bucket for Bio - Medical Waste
+Collection, Entry and Mid Level Desktop Computer, Power
+Generator - DG Set (up to 900 KVA), Interactive Panels with
+CPU, Nitrile Coated/Nitrile Hand Gloves (V2)
+Searched String
+: MTR:
+SCI,415VAC,3PH,160M,2P,B3,F,15KW
+Transmission Fluid F-10 - Defence(V2), Sofa (V3),
+Deltamethrin Flowable (F) (V2) Conforming to IS 14411,
+Marine fuels (Class F) conforming to IS 16731, High End
+Desktop Computer, CARTON BOX TO DRG NO P-144(f) IN
+FINISHED CONDITION, XLPE Cable for Working Voltages up
+to and Including 1.1 KV as per IS 7098 (Part 1), Anesthesia
+Breathing Circuit - Mapleson F Infant T Piece Breathing
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+3 / 23
+GeMARPTS
+ 
+ 
+म3
+म3
+ 
+ 
+खोजा
+खोजा
+ 
+ 
+गया
+गया
+ 
+ 
+प9रणाम
+प9रणाम
+ / Searched
+Result generated in GeMARPTS
+Circuit (V2), Entry and Mid Level Desktop Computer, Jacket
+Combat
+Searched String
+: MTR:
+SCIM,415VAC,160L,B3,F,1460RPM,15KW
+Transmission Fluid F-10 - Defence(V2), Ultra low
+temperature laboratory deep freezer, Induction Motor Fan
+Cover, Deltamethrin Flowable (F) (V2) Conforming to IS
+14411, High End Desktop Computer, Marine fuels (Class F)
+conforming to IS 16731, CARTON BOX TO DRG NO P-144(f)
+IN FINISHED CONDITION, Sofa (V3), Anesthesia Breathing
+Circuit - Mapleson F Infant T Piece Breathing Circuit (V2),
+Entry and Mid Level Desktop Computer
+Searched String
+: MTR:
+SCIM,18.5KW,415V,4P,180M,B3,S1,F
+Transmission Fluid F-10 - Defence(V2), High End Desktop
+Computer, Induction Motor Fan Cover, Deltamethrin
+Flowable (F) (V2) Conforming to IS 14411, XLPE Cable for
+Working Voltages up to and Including 1.1 KV as per IS 7098
+(Part 1), Marine fuels (Class F) conforming to IS 16731,
+CARTON BOX TO DRG NO P-144(f) IN FINISHED CONDITION,
+Nitrile Coated/Nitrile Hand Gloves (V2), Anesthesia
+Breathing Circuit - Mapleson F Infant T Piece Breathing
+Circuit (V2), Entry and Mid Level Desktop Computer
+Searched String
+: MOTOR,EE IND,415VAC,200M,6,V1,22KW
+6-Benzylaminopurine, Nitrile Coated/Nitrile Hand Gloves
+(V2), Induction Motor Fan Cover, Digital Motor Protection
+Relays, Line Operated Three Phase AC Motors ISI Marked to
+IS 12615, Multipara Monitor - Low End, Motor Resistance and
+Inductance Measuring Instrument, BOD Incubator,
+Synchronous servo motor, water baths
+Searched String
+: MOTOR,IND,415VAC,180L,4P,B3,22KW
+Synchronous servo motor, XLPE Cable for Working Voltages
+up to and Including 1.1 KV as per IS 7098 (Part 1), Vehicle
+Wiper Motor, Disconnectors (Isolators) for working voltage
+up to and including 1 KV, DC WINCH MOTOR, High End
+Desktop Computer, A.C. Motor Capacitors ISI Marked to IS
+2993 ( Part 1), Winter Jacket, Dental Implant Motor
+(Physiodispenser), Ultra low temperature laboratory deep
+freezer
+Searched String
+:
+MOTOR,IND,415VAC,3PH,DW225S,960RPM,30KW
+Synchronous servo motor, High End Desktop Computer,
+Vehicle Wiper Motor, DC WINCH MOTOR, Sofa (V3), A.C.
+Motor Capacitors ISI Marked to IS 2993 ( Part 1), Entry and
+Mid Level Desktop Computer, Dental Implant Motor
+(Physiodispenser), XLPE Cable for Working Voltages up to
+and Including 1.1 KV as per IS 7098 (Part 1), Motor Boat (UP
+Police)
+Searched String
+: MTR: SCIM,200L,B3,F,1475 RPM,30 KW
+Blood Lancets, Electrical Extension Box (V4), Pipe for
+Gardening Purpose, Cat 6 Patch cord, Line Operated Three
+Phase AC Motors ISI Marked to IS 12615, Vault (Strong
+Room) Door as per IS 11188, Solar Power Plant (Roof Top)
+for ONGRID System, Single Phase, Extendable Road
+Barricade (V2), Tennis Ball, Sports Abdominal Guard
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+4 / 23
+Searched String
+: MOTOR,IND,415VAC,200L,4P,B5,30KW
+Synchronous servo motor, XLPE Cable for Working Voltages
+up to and Including 1.1 KV as per IS 7098 (Part 1), Vehicle
+Wiper Motor, Winter Jacket, DC WINCH MOTOR, Ultra low
+temperature laboratory deep freezer, A.C. Motor Capacitors
+ISI Marked to IS 2993 ( Part 1), Disconnectors (Isolators) for
+working voltage up to and including 1 KV, Dental Implant
+Motor (Physiodispenser), High End Desktop Computer
+Searched String
+: MOTOR,SQL CAGE
+IND,3PH,225S,4P,IMB3,37KW
+Induction Motor Fan Cover, XLPE Cable for Working Voltages
+up to and Including 1.1 KV as per IS 7098 (Part 1), Power
+cage, POULTRY CAGE, High End Desktop Computer,
+Individually Ventilated Cage System (IVCS), Sofa (V3),
+Interbody Fusion Cage (V2), Entry and Mid Level Desktop
+Computer, Line Operated Three Phase AC Motors ISI Marked
+to IS 12615
+Searched String
+: MTR: SCIM,45KW,415V,4P,225M,B3,S1,F
+Transmission Fluid F-10 - Defence(V2), XLPE Cable for
+Working Voltages up to and Including 1.1 KV as per IS 7098
+(Part 1), Induction Motor Fan Cover, Steinmann Pin,
+Deltamethrin Flowable (F) (V2) Conforming to IS 14411,
+High End Desktop Computer, Marine fuels (Class F)
+conforming to IS 16731, CARTON BOX TO DRG NO P-144(f)
+IN FINISHED CONDITION, Nitrile Coated/Nitrile Hand Gloves
+(V2), Anesthesia Breathing Circuit - Mapleson F Infant T
+Piece Breathing Circuit (V2)
+Searched String
+: MOTOR,IND,415VAC,280M,6P,B35,55KW
+Synchronous servo motor, XLPE Cable for Working Voltages
+up to and Including 1.1 KV as per IS 7098 (Part 1), Vehicle
+Wiper Motor, Winter Jacket, DC WINCH MOTOR, A.C. Motor
+Capacitors ISI Marked to IS 2993 ( Part 1), Postal Cash Bags-
+as per IS: 11047, Dental Implant Motor (Physiodispenser),
+Foot Operated Pedal Bin or Bucket for Bio - Medical Waste
+Collection, Motor Boat (UP Police)
+Searched String
+: MOTOR,SQ CAGE IND,3-
+PH,280M,V1,55KW
+Induction Motor Fan Cover, XLPE Cable for Working Voltages
+up to and Including 1.1 KV as per IS 7098 (Part 1), Power
+cage, Line Operated Three Phase AC Motors ISI Marked to IS
+12615, PVC Copper Cable Single Core and Multi Core
+Circular Sheathed Cable with Rigid Conductor (V2) as per IS
+694, pH Electrode, PVC Copper Cable Single Core and Multi
+Core Circular Sheathed Cord with Flexible Conductor (V2) as
+per IS 694, pH Meter, XLPE Cables for Working Voltages
+From 3.3 KV up to and Including 33 KV as per IS 7098 (Part
+2), pH Paper
+Searched String
+: MTR: SCIM,415V,250M,4P,B3,F,55KW
+Transmission Fluid F-10 - Defence(V2), XLPE Cable for
+Working Voltages up to and Including 1.1 KV as per IS 7098
+(Part 1), Induction Motor Fan Cover, Deltamethrin Flowable
+(F) (V2) Conforming to IS 14411, High End Desktop
+Computer, Marine fuels (Class F) conforming to IS 16731,
+Disconnectors (Isolators) for working voltage up to and
+including 1 KV, CARTON BOX TO DRG NO P-144(f) IN
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+5 / 23
+FINISHED CONDITION, Sofa (V3), Anesthesia Breathing
+Circuit - Mapleson F Infant T Piece Breathing Circuit (V2)
+Searched String
+: MTR:
+SCIM,75KW,415V,4P,280S,B3,S1,F,IE3
+Transmission Fluid F-10 - Defence(V2), XLPE Cable for
+Working Voltages up to and Including 1.1 KV as per IS 7098
+(Part 1), Induction Motor Fan Cover, Line Operated Three
+Phase AC Motors ISI Marked to IS 12615, Deltamethrin
+Flowable (F) (V2) Conforming to IS 14411, High End Desktop
+Computer, Marine fuels (Class F) conforming to IS 16731,
+CARTON BOX TO DRG NO P-144(f) IN FINISHED CONDITION,
+Nitrile Coated/Nitrile Hand Gloves (V2), Anesthesia
+Breathing Circuit - Mapleson F Infant T Piece Breathing
+Circuit (V2)
+Searched String
+: MTR:
+SCIM,415VAC,280M,B3,F,1484RPM,90KW
+Transmission Fluid F-10 - Defence(V2), High End Desktop
+Computer, Induction Motor Fan Cover, Spares Tyre for Tyre
+coupling, Deltamethrin Flowable (F) (V2) Conforming to IS
+14411, Sofa (V3), Marine fuels (Class F) conforming to IS
+16731, CARTON BOX TO DRG NO P-144(f) IN FINISHED
+CONDITION, Entry and Mid Level Desktop Computer,
+Anesthesia Breathing Circuit - Mapleson F Infant T Piece
+Breathing Circuit (V2)
+Searched String
+: MTR:
+SCIM,415V,315SM,B35,F,2980RPM,132KW
+Transmission Fluid F-10 - Defence(V2), XLPE Cable for
+Working Voltages up to and Including 1.1 KV as per IS 7098
+(Part 1), Induction Motor Fan Cover, Deltamethrin Flowable
+(F) (V2) Conforming to IS 14411, Marine fuels (Class F)
+conforming to IS 16731, CARTON BOX TO DRG NO P-144(f)
+IN FINISHED CONDITION, Anesthesia Breathing Circuit -
+Mapleson F Infant T Piece Breathing Circuit (V2), Central
+Venous Catheters (V2), Jacket Combat, TLC plate, Silica gel
+60
+Searched String
+: MOTOR,SQ CAGE
+IND,415VAC,3000RPM,160KW
+Induction Motor Fan Cover, XLPE Cable for Working Voltages
+up to and Including 1.1 KV as per IS 7098 (Part 1), Power
+cage, Power Rack (V2), POULTRY CAGE, PVC Copper Cable
+Single Core and Multi Core Circular Sheathed Cable with
+Rigid Conductor (V2) as per IS 694, Individually Ventilated
+Cage System (IVCS), Interbody Fusion Cage (V2), vortex
+mixers, Line Operated Three Phase AC Motors ISI Marked to
+IS 12615
+अिधसूचना
+अिधसूचना
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+चयिनत
+चयिनत
+ 
+ 
+?ासंिगक
+?ासंिगक
+ 
+ 
+'े6णयाँ
+'े6णयाँ
+ / Relevant
+Categories selected for notification
+LT Spacer
+बीओBयू
+बीओBयू
+ 
+ 
+शीष%क
+शीष%क
+ 
+ 
+/BOQ Title
+LT motors for AHP PVUNL
+एमएसएमई
+एमएसएमई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वषD
+वषD
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+?दान
+?दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+/MSE Relaxation for Years of
+Experience and Turnover
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+6 / 23
+&टाट%अप
+&टाट%अप
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वषD
+वषD
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+?दान
+?दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+ /Startup Relaxation for Years of
+Experience and Turnover
+No
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+ 
+ 
+सीमा
+सीमा
+ 
+ 
+&वतः
+&वतः
+ 
+ 
+नहं
+नहं
+ 
+ 
+बढ़ाने
+बढ़ाने
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+आवKयक
+आवKयक
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+सं)या
+सं)या
+।
+।
+ / Minimum number of
+bids required to disable automatic bid
+extension
+3
+*दनM
+*दनM
+ 
+ 
+क
+क
+ 
+ 
+सं)या
+सं)या
+, 
+, 
+6जनके
+6जनके
+ 
+ 
+िलए
+िलए
+ 
+ 
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+बढ़ाई
+बढ़ाई
+ 
+ 
+जाएगी
+जाएगी
+। / 
+। / 
+Number
+ 
+ 
+of
+ 
+ 
+days
+ 
+ 
+for
+ 
+ 
+which
+ 
+ 
+Bid
+would
+ 
+ 
+be
+ 
+ 
+auto
+-
+-
+extended
+7
+ऑटो
+ऑटो
+ 
+ 
+एBसट3शन
+एBसट3शन
+ 
+ 
+अिधकतम
+अिधकतम
+ 
+ 
+*कतनी
+*कतनी
+ 
+ 
+बार
+बार
+ 
+ 
+*कया
+*कया
+ 
+ 
+जाना
+जाना
+ 
+ 
+है
+है
+। /
+। /
+Number
+ 
+ 
+of
+ 
+ 
+Auto
+ 
+ 
+Extension
+ 
+ 
+count
+3
+बड
+बड
+ 
+ 
+से
+से
+ 
+ 
+9रवस%
+9रवस%
+ 
+ 
+नीलामी
+नीलामी
+ 
+ 
+स*Pय
+स*Pय
+ 
+ 
+*कया
+*कया
+/Bid to RA enabled
+No
+बड
+बड
+ 
+ 
+का
+का
+ 
+ 
+?कार
+?कार
+/Type of Bid
+Two Packet Bid
+?ाथिमक
+?ाथिमक
+ 
+उSपाद
+उSपाद
+ 
+'ेणी
+'ेणी
+/Primary product category
+MOTOR,SQL CAGE,IP55,2810RPM,0.37KW,71-2
+तकनीक
+तकनीक
+ 
+ 
+मूTयांकन
+मूTयांकन
+ 
+ 
+के
+के
+ 
+ 
+दौरान
+दौरान
+ 
+ 
+तकनीक
+तकनीक
+ 
+ 
+&पVीकरण
+&पVीकरण
+ 
+ 
+हेतु
+हेतु
+अनुमत
+अनुमत
+ 
+ 
+समय
+समय
+ 
+ 
+/Time allowed for Technical
+Clarifications during technical evaluation
+2 Days
+िनरWण
+िनरWण
+ 
+आवKयक
+आवKयक
+ (
+सूचीबX
+सूचीबX
+ 
+िनरWण
+िनरWण
+ 
+?ािधकरण
+?ािधकरण
+ /
+जेम
+जेम
+ 
+के
+के
+ 
+साथ
+साथ
+पूव%
+पूव%
+ 
+पंजीकृत
+पंजीकृत
+ 
+एज3िसयM
+एज3िसयM
+ 
+Zारा
+Zारा
+)/Inspection Required (By
+Empanelled Inspection Authority / Agencies
+pre-registered with GeM)
+No
+अनुमािनत
+अनुमािनत
+ 
+ 
+बड
+बड
+ 
+ 
+मूTय
+मूTय
+ 
+ 
+/Estimated Bid Value
+8677409.63
+मूTयांकन
+मूTयांकन
+ 
+ 
+पXित
+पXित
+/Evaluation Method
+Total value wise evaluation
+म[य&थता
+म[य&थता
+ 
+खंड
+खंड
+/Arbitration Clause
+No
+सुलह
+सुलह
+ 
+खंड
+खंड
+/Mediation Clause
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+ईएमड
+ईएमड
+ 
+ 
+ववरण
+ववरण
+/EMD Detail
+एडवाईजर
+ 
+ब\क
+/Advisory Bank
+State Bank of India
+ईएमड
+ 
+रािश
+/EMD Amount
+100000
+ईपीबीजी
+ईपीबीजी
+ 
+ 
+ववरण
+ववरण
+ 
+ 
+/ePBG Detail
+एडवाइजर
+ 
+ब\क
+/Advisory Bank
+State Bank of India
+ईपीबीजी
+ 
+?ितशत
+ (%)
+/ePBG Percentage(%)
+5.00
+ईपीबीजी
+ 
+क
+ 
+आवKयक
+ 
+अविध
+ (
+माह
+) 
+/Duration of ePBG
+required (Months).
+20
+7 / 23
+(a). 
+जेम
+ 
+क
+ 
+शतD
+ 
+के
+ 
+अनुसार
+ 
+ईएमड
+ 
+छू ट
+ 
+के
+ 
+इ_छु क
+ 
+बडर
+ 
+को
+ 
+संबंिधत
+ 
+केटेगर
+ 
+के
+ 
+िलए
+ 
+बड
+ 
+के
+ 
+साथ
+ 
+वैध
+ 
+समिथ%त
+ 
+द&तावेज़
+ 
+?&तुत
+ 
+करने
+ 
+है
+।
+ 
+एमएसई
+केटेगर
+ 
+के
+ 
+अंतग%त
+ 
+केवल
+ 
+व&तुओं
+ 
+के
+ 
+िलए
+ 
+विनमा%ता
+ 
+तथा
+ 
+सेवाओं
+ 
+के
+ 
+िलए
+ 
+सेवा
+ 
+?दाता
+ 
+ईएमड
+ 
+से
+ 
+छू ट
+ 
+के
+ 
+पा 
+ 
+ह\
+।
+ 
+`यापा9रयM
+ 
+को
+ 
+इस
+ 
+नीित
+ 
+के
+ 
+दायरे
+ 
+से
+बाहर
+ 
+रखा
+ 
+गया
+ 
+है
+।
+/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document
+for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and
+Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this
+Policy.
+(b).
+ईएमड
+ 
+और
+ 
+संपादन
+ 
+जमानत
+ 
+रािश
+, 
+जहां
+ 
+यह
+ 
+लागू
+ 
+होती
+ 
+है
+, 
+लाभाथa
+ 
+के
+ 
+पW
+ 
+म3
+ 
+होनी
+ 
+चा*हए
+।
+ / EMD & Performance securityshould be
+in favour of Beneficiary, wherever it is applicable. 
+लाभाथa
+लाभाथa
+ 
+ 
+/Beneficiary :
+ 
+PATRATU VIDYUT UTPADAN NIGAM Limited
+JHARKHAND, PATRATU VIDYUT UTPADAN NIGAM Limited, PATRATU VIDYUT UTPADAN NIGAM Limited, Ministry of
+Power
+(Patratu Vidyut Utpadan Nigam Limited)
+बोली
+ 
+वभाजन
+ 
+लागू
+ 
+नहं
+ 
+*कया
+ 
+गया
+/ 
+Bid splitting not applied.
+एमआईआई
+एमआईआई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आर6Wत
+आर6Wत
+ / Reserved for Make In India products
+एमआईआई
+ 
+के
+ 
+िलए
+ 
+आर6Wत
+ / Reserved for Make In
+India products
+Yes
+एमएसई
+एमएसई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MSE Purchase Preference
+एमएसई
+ 
+खरद
+ 
+वरयता
+/MSE Purchase Preference
+Yes
+सूbम
+ 
+और
+ 
+लघु
+ 
+उdम
+ 
+मूल
+ 
+उपकरण
+ 
+िनमा%ताओं
+ 
+को
+ 
+खरद
+ 
+म3
+?ाथिमकता
+, 
+य*द
+ 
+उनका
+ 
+मूTय
+ 
+L
+1+
+X
+% 
+तक
+ 
+क
+ 
+सीमा
+ 
+म3
+ 
+हो
+ /
+Purchase Preference to MSE OEMs available upto
+price within L1+X%
+15
+सूbम
+ 
+और
+ 
+लघु
+ 
+उdम
+ 
+को
+ 
+खरद
+ 
+म3
+ 
+?ाथिमकता
+ 
+के
+ 
+िलए
+ 
+बड
+क
+ 
+मा ा
+ 
+का
+ 
+अिधकतम
+ 
+?ितशत
+ / Maximum
+Percentage of Bid quantity for MSE purchase
+preference
+100
+1. Bid reserved for Make In India products: : Procurement under this bid is reserved for purchase from Class 1
+local supplier as defined in public procurement (Preference to Make in India), Order 2017 as amended from time
+to time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products.
+However, eligible micro and small enterprises will be allowed to participate. The minimum local content to
+qualify as a class 1 local supplier is denoted in the bid document. All bidders must upload a certificate from the
+OEM regarding the percentage of the local content and the details of locations at which the local value addition is
+made along with their bid, failing which the bid is liable to be rejected. In case the bid value is more than Rs 10
+Crore, the declaration relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered accountant for OEMs other
+than companies as per the Public Procurement (preference to Make-in -India) order 2017 dated 04.06.2020 . In
+case Buyer has selected Purchase preference to Micro and Small Enterprises clause in the bid, the same will get
+precedence over this clause. 
+2. Purchase preference will be given to MSEs having valid Udyam Registration and whose credentials are
+validated online through Udyam Registration portal as defined in Public Procurement Policy for Micro and Small
+Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and
+its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail themselves of the
+Purchase preference, the bidder must be the manufacturer / OEM of the offered product on GeM. Traders are
+excluded from the purview of Public Procurement Policy for Micro and Small Enterprises and hence resellers
+offering products manufactured by some other OEM are not eligible for any purchase preference. In respect of bid
+for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in
+this regard shall be uploaded along with the bid in respect of the offered product or service and Buyer will decide
+8 / 23
+eligibility for purchase preference based on documentary evidence submitted, while evaluating the bid. If L-1 is
+not an MSE and MSE Seller (s) has / have quoted price within L-1+ 15% (Selected by Buyer) of margin of
+purchase preference /price band defined in relevant policy, such MSE Seller shall be given opportunity to match
+L-1 price and contract will be awarded for 100% (selected by Buyer) percentage of total quantity. The buyers are
+advised to refer the OM No. F.1/4/2021-PPD dated 18.05.2023 
+OM_No.1_4_2021_PPD_dated_18.05.2023
+ 
+for
+compliance of Concurrent application of Public Procurement Policy for Micro and Small Enterprises Order, 2012
+and Public Procurement (Preference to Make in India) Order, 2017. Benefits of MSE will be allowed only if seller is
+validated on-line in GeM profile as well as validated and approved by Buyer after evaluation of documents
+submitted. 
+3. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and
+for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.
+This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any
+impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of
+quoted prices which would be determined by the buyer based on its own assessment of reasonableness and
+based on competitive prices received in Bid / RA process. 
+MOTOR,SQL CAGE,IP55,2810RPM,0.37KW,71-2
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+2
+120
+MOTOR,415V,S4,80L,4,B5,F,0.75KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+9 / 23
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+1
+120
+MOTOR,SQ CAGE IND,415VAC,1500RPM,1.1KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+1
+120
+MTR SCIM,2.2 KW,415V,4P,100L,B5,S1,IP55
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+10 / 23
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+3
+120
+MTR SQ CAGE IND,415VAC,112M,V1,F,3.7KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+1
+120
+MTR SCIM,3.7KW,415V,2P,100L,B3,S1,F
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+11 / 23
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+4
+120
+MOTOR,S4,112M,4,B5,F,3.7KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+3
+120
+MTR SCIM,415VAC,132M,B5,1500RPM,7.5KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+12 / 23
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+3
+120
+MTR SCI,415VAC,3PH,160M,2P,B3,F,15KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+1
+120
+MTR SCIM,415VAC,160L,B3,F,1460RPM,15KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+13 / 23
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+1
+120
+MTR SCIM,18.5KW,415V,4P,180M,B3,S1,F
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+1
+120
+MOTOR,EE IND,415VAC,200M,6,V1,22KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+14 / 23
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+1
+120
+MOTOR,IND,415VAC,180L,4P,B3,22KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+2
+120
+MOTOR,IND,415VAC,3PH,DW225S,960RPM,30KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+15 / 23
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+1
+120
+MTR SCIM,200L,B3,F,1475 RPM,30 KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+3
+120
+MOTOR,IND,415VAC,200L,4P,B5,30KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+16 / 23
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+1
+120
+MOTOR,SQL CAGE IND,3PH,225S,4P,IMB3,37KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+2
+120
+MTR SCIM,45KW,415V,4P,225M,B3,S1,F
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+17 / 23
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+3
+120
+MOTOR,IND,415VAC,280M,6P,B35,55KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+1
+120
+MOTOR,SQ CAGE IND,3-PH,280M,V1,55KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+18 / 23
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+1
+120
+MTR SCIM,415V,250M,4P,B3,F,55KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+2
+120
+MTR SCIM,75KW,415V,4P,280S,B3,S1,F,IE3
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+19 / 23
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+1
+120
+MTR SCIM,415VAC,280M,B3,F,1484RPM,90KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+2
+120
+MTR SCIM,415V,315SM,B35,F,2980RPM,132KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+20 / 23
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+2
+120
+MOTOR,SQ CAGE IND,415VAC,3000RPM,160KW
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो*टfग
+9रपो*टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+*डलीवर
+*डलीवर
+ 
+के
+के
+ 
+*दन
+*दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Mishra
+829119,ADM Building, PVUNL,
+P.O.- Patratu, Distt- Ramgarh
+2
+120
+Pेता
+Pेता
+ 
+ 
+Zारा
+Zारा
+ 
+ 
+जोड़
+जोड़
+ 
+ 
+गई
+गई
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+वशेष
+वशेष
+ 
+ 
+शतi
+शतi
+/Buyer Added Bid Specific Terms and Conditions
+1
+. 
+Generic
+Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers
+can match and verify the Data Sheet with the product specifications offered. In case of any unexplained
+mismatch of technical parameters, the bid is liable for rejection.
+2
+. 
+Scope of Supply
+Scope of supply (Bid price to include all cost components) : Only supply of Goods
+3
+. 
+Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+1.Alternate Mode of Payment for Micro Small & Medium Enterprises (MSMEs)-Trade Receivables e-Discount
+ing System (TReDS) is a regulatory framework put in place by the Reserve Bank of India under t he Payme
+nt and Settlement Systems Act 2007 (PSS Act) to facilitate the financing of trade receivables (invoices) of 
+MSMEs through invoice financing by multiple financiers. The Reserve Bank of India has granted approval to
+(i) Mynd Solutions Pvt Limited, (ii) A.TReDS Ltd. and (iii) Receivables Exchange of India Ltd to set up and o
+21 / 23
+perate TReDS platform. The name of respective TReDS platform of the above-mentioned entities are M1xc
+hange, Invoicemart and RXIL. Presently, PVUNL is transacting with M1xchange. MSME Vendors m ay choos
+e M1xchange platforms as an alternate payment mechanism. For queries/ details, the vendor may directly 
+contact M1xchange M1XCHANGE:- URL: https:m1xchange.com Toll free No.: 1800-103-7261. The
+aforesaid provision may not be applicable for payments envisaged through “Letter of Credit (LC)” or “ Escr
+ow Account” or “A separate account with a Scheduled Bank at Site
+.
+4
+. 
+Buyer Added Bid Specific ATC
+Buyer uploaded ATC document 
+Click here to view the file
+.
+अ&वीकरण
+अ&वीकरण
+/Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+bidding process without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+Category item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+attached categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+case may be.
+15
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+16
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the
+same must be added through bunching category based items or by bunching custom catalogs or
+bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+such representations.
+22 / 23
+All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws,
+including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code
+on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working
+Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into
+force by the Government of India.
+For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or
+notifications, the corresponding provisions of the pre-existing labour enactments (such as The
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The
+Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules)
+shall continue to remain applicable.
+The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:
+All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove;
+and
+All operative provisions of the erstwhile Labour Laws until their complete substitution.
+All obligations relating to wages, social security, safety, working conditions, industrial relations etc.
+and any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-
+compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate
+action in accordance with the contract and applicable law.
+यह
+ 
+बड
+ 
+सामाjय
+ 
+शतD
+ 
+के
+ 
+अंतग%त
+ 
+भी
+ 
+शािसत
+ 
+है
+ 
+/This Bid is also governed by the General Terms and Conditions
+जेम
+ 
+क
+ 
+सामाjय
+ 
+शतD
+ 
+के
+ 
+खंड
+ 26 
+के
+ 
+संदभ%
+ 
+म3
+ 
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+के
+ 
+बडर
+ 
+से
+ 
+खरद
+ 
+पर
+ 
+?ितबंध
+ 
+के
+ 
+संबंध
+ 
+म3
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+का
+ 
+कोई
+ 
+भी
+ 
+बडर
+ 
+इस
+ 
+िनवदा
+ 
+म3
+ 
+बड
+ 
+देने
+ 
+के
+ 
+िलए
+ 
+तभी
+ 
+पा 
+ 
+होगा
+ 
+जब
+ 
+वह
+ 
+बड
+ 
+देने
+ 
+वाला
+सWम
+ 
+?ािधकार
+ 
+के
+ 
+पास
+ 
+पंजीकृत
+ 
+हो
+।
+बड
+ 
+म3
+ 
+भाग
+ 
+लेते
+ 
+समय
+ 
+बडर
+ 
+को
+ 
+इसका
+ 
+अनुपालन
+ 
+करना
+ 
+होगा
+ 
+और
+ 
+कोई
+ 
+भी
+ 
+गलत
+ 
+घोषणा
+ 
+*कए
+ 
+जाने
+व
+ 
+इसका
+ 
+अनुपालन
+ 
+न
+ 
+करने
+ 
+पर
+ 
+अनुबंध
+ 
+को
+ 
+तSकाल
+ 
+समाl
+ 
+करने
+ 
+और
+ 
+कानून
+ 
+के
+ 
+अनुसार
+ 
+आगे
+ 
+क
+ 
+कानूनी
+ 
+कार%वाई
+ 
+का
+ 
+आधार
+ 
+होगा
+।
+/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---
+धjयवाद
+धjयवाद
+/Thank You---
+23 / 23

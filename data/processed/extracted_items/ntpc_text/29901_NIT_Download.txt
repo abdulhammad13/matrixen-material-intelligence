@@ -1,0 +1,2512 @@
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+बड
+बड
+ 
+ 
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid End Date/Time
+08-06-2026 18:00:00
+बड
+बड
+ 
+ 
+खुलने
+खुलने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid Opening
+Date/Time
+08-06-2026 18:30:00
+बड
+बड
+ 
+ 
+पेशकश
+पेशकश
+ 
+ 
+वैधता
+वैधता
+ (
+ (
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+ 
+ 
+से
+से
+)
+)
+/Bid Offer
+Validity (From End Date)
+120 (Days)
+मं ालय
+मं ालय
+/
+/
+रा!य
+रा!य
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Ministry/State Name
+Ministry Of Power
+वभाग
+वभाग
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Department Name
+Na
+संगठन
+संगठन
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Organisation Name
+Ntpc Limited
+काया%लय
+काया%लय
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Office Name
+Cg
+कुल
+कुल
+ 
+ 
+मा ा
+मा ा
+/Total Quantity
+71
+व&तु
+व&तु
+ 
+ 
+'ेणी
+'ेणी
+ 
+ 
+/Item Category
+98 inch LED TV with HDMI eARC
+GeMARPTS
+ 
+ 
+म)
+म)
+ 
+ 
+खोजी
+खोजी
+ 
+ 
+गई
+गई
+ 
+ 
+,&-ं.स
+,&-ं.स
+ / Searched
+Strings used in GeMARPTS
+98 inch LED TV with HDMI
+GeMARPTS
+ 
+ 
+म)
+म)
+ 
+ 
+खोजा
+खोजा
+ 
+ 
+गया
+गया
+ 
+ 
+प/रणाम
+प/रणाम
+ / Searched
+Result generated in GeMARPTS
+Television (V3), Interactive Panels with CPU, LCR Meter
+अिधसूचना
+अिधसूचना
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+चयिनत
+चयिनत
+ 
+ 
+5ासंिगक
+5ासंिगक
+ 
+ 
+'े,णयाँ
+'े,णयाँ
+ / Relevant
+Categories selected for notification
+Television (V3)
+एमएसएमई
+एमएसएमई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष8
+वष8
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+5दान
+5दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+/MSE Relaxation for Years of
+Experience and Turnover
+No
+&टाट%अप
+&टाट%अप
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष8
+वष8
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+5दान
+5दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+ /Startup Relaxation for Years of
+Experience and Turnover
+No
+व=ेता
+व=ेता
+ 
+ 
+से
+से
+ 
+ 
+मांगे
+मांगे
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़
+द&तावेज़
+/Document required
+from seller
+Bidder Turnover,OEM Authorization Certificate,Additional
+Doc 1 (Requested in ATC),Additional Doc 2 (Requested in
+ATC),Additional Doc 3 (Requested in ATC),Compliance of
+BoQ specification and supporting document
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by
+the buyer
+ 
+बड
+ 
+सं?या
+/
+Bid
+ 
+Number
+: 
+GEM/2026/B/7519090
+@दनांक
+ /
+Dated
+: 14-05-2026
+बड
+बड
+ 
+ 
+द&तावेज़
+द&तावेज़
+ / Bid Document
+1 / 12
+Iया
+Iया
+ 
+ 
+आप
+आप
+ 
+ 
+िनवदाकारK
+िनवदाकारK
+ 
+ 
+Lारा
+Lारा
+ 
+ 
+अपलोड
+अपलोड
+ 
+ 
+@कए
+@कए
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़K
+द&तावेज़K
+ 
+ 
+को
+को
+िनवदा
+िनवदा
+ 
+ 
+म)
+म)
+ 
+ 
+भाग
+भाग
+ 
+ 
+लेने
+लेने
+ 
+ 
+वाले
+वाले
+ 
+ 
+सभी
+सभी
+ 
+ 
+िनवदाकारK
+िनवदाकारK
+ 
+ 
+को
+को
+ 
+ 
+@दखाना
+@दखाना
+चाहते
+चाहते
+ 
+ 
+हM
+हM
+? 
+? 
+संदभ%
+संदभ%
+ 
+ 
+मेनू
+मेनू
+ 
+ 
+है
+है
+/Do you want to show
+documents uploaded by bidders to all
+bidders participated in bid?
+No
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+ 
+ 
+सीमा
+सीमा
+ 
+ 
+&वतः
+&वतः
+ 
+ 
+नहं
+नहं
+ 
+ 
+बढ़ाने
+बढ़ाने
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+आवQयक
+आवQयक
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+सं?या
+सं?या
+।
+।
+ / Minimum number of
+bids required to disable automatic bid
+extension
+3
+@दनK
+@दनK
+ 
+ 
+क
+क
+ 
+ 
+सं?या
+सं?या
+, 
+, 
+,जनके
+,जनके
+ 
+ 
+िलए
+िलए
+ 
+ 
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+बढ़ाई
+बढ़ाई
+ 
+ 
+जाएगी
+जाएगी
+। / 
+। / 
+Number
+ 
+ 
+of
+ 
+ 
+days
+ 
+ 
+for
+ 
+ 
+which
+ 
+ 
+Bid
+would
+ 
+ 
+be
+ 
+ 
+auto
+-
+-
+extended
+7
+ऑटो
+ऑटो
+ 
+ 
+एIसट)शन
+एIसट)शन
+ 
+ 
+अिधकतम
+अिधकतम
+ 
+ 
+@कतनी
+@कतनी
+ 
+ 
+बार
+बार
+ 
+ 
+@कया
+@कया
+ 
+ 
+जाना
+जाना
+ 
+ 
+है
+है
+। /
+। /
+Number
+ 
+ 
+of
+ 
+ 
+Auto
+ 
+ 
+Extension
+ 
+ 
+count
+3
+बड
+बड
+ 
+ 
+से
+से
+ 
+ 
+/रवस%
+/रवस%
+ 
+ 
+नीलामी
+नीलामी
+ 
+ 
+स@=य
+स@=य
+ 
+ 
+@कया
+@कया
+/Bid to RA enabled
+No
+बड
+बड
+ 
+ 
+का
+का
+ 
+ 
+5कार
+5कार
+/Type of Bid
+Two Packet Bid
+तकनीक
+तकनीक
+ 
+ 
+मूUयांकन
+मूUयांकन
+ 
+ 
+के
+के
+ 
+ 
+दौरान
+दौरान
+ 
+ 
+तकनीक
+तकनीक
+ 
+ 
+&पWीकरण
+&पWीकरण
+ 
+ 
+हेतु
+हेतु
+अनुमत
+अनुमत
+ 
+ 
+समय
+समय
+ 
+ 
+/Time allowed for Technical
+Clarifications during technical evaluation
+2 Days
+िनरXण
+िनरXण
+ 
+आवQयक
+आवQयक
+ (
+सूचीबY
+सूचीबY
+ 
+िनरXण
+िनरXण
+ 
+5ािधकरण
+5ािधकरण
+ /
+जेम
+जेम
+ 
+के
+के
+ 
+साथ
+साथ
+पूव%
+पूव%
+ 
+पंजीकृत
+पंजीकृत
+ 
+एज)िसयK
+एज)िसयK
+ 
+Lारा
+Lारा
+)/Inspection Required (By
+Empanelled Inspection Authority / Agencies
+pre-registered with GeM)
+No
+Payment Timelines
+Payments shall be made to the Seller within 
+30
+ days of
+issue of 
+consignee receipt-cum-acceptance certificate
+(CRAC) 
+and on-line submission of bills (This is in
+supersession of 10 days time as provided in clause 12 of
+GeM GTC)
+मूUयांकन
+मूUयांकन
+ 
+ 
+पYित
+पYित
+/Evaluation Method
+Item wise consignee wise evaluation
+व\ीय
+व\ीय
+ 
+ 
+द&तावेज
+द&तावेज
+ 
+ 
+क
+क
+ 
+ 
+आवQयकता
+आवQयकता
+ 
+ 
+है
+है
+ / Financial
+Document Required
+Yes
+म]य&थता
+म]य&थता
+ 
+खंड
+खंड
+/Arbitration Clause
+No
+सुलह
+सुलह
+ 
+खंड
+खंड
+/Mediation Clause
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+ईएमड
+ईएमड
+ 
+ 
+ववरण
+ववरण
+/EMD Detail
+एडवाईजर
+ 
+बMक
+/Advisory Bank
+ICICI
+Schedule 1 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+5634
+Schedule 2 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+2817
+Schedule 3 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+5634
+2 / 12
+Schedule 4 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+5634
+Schedule 5 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+19718
+Schedule 6 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+22535
+Schedule 7 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+25352
+Schedule 8 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+19718
+Schedule 9 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+2817
+Schedule 10 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+2817
+Schedule 11 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+16901
+Schedule 12 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+8451
+Schedule 13 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+5634
+Schedule 14 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+16901
+Schedule 15 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+11268
+Schedule 16 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+5634
+Schedule 17 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+11268
+Schedule 18 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+8451
+Schedule 19 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+2816
+ईपीबीजी
+ईपीबीजी
+ 
+ 
+ववरण
+ववरण
+ 
+ 
+/ePBG Detail
+आवQयकता
+/Required
+No
+(a). 
+जेम
+ 
+क
+ 
+शत8
+ 
+के
+ 
+अनुसार
+ 
+ईएमड
+ 
+छू ट
+ 
+के
+ 
+इ_छु क
+ 
+बडर
+ 
+को
+ 
+संबंिधत
+ 
+केटेगर
+ 
+के
+ 
+िलए
+ 
+बड
+ 
+के
+ 
+साथ
+ 
+वैध
+ 
+समिथ%त
+ 
+द&तावेज़
+ 
+5&तुत
+ 
+करने
+ 
+है
+।
+ 
+एमएसई
+केटेगर
+ 
+के
+ 
+अंतग%त
+ 
+केवल
+ 
+व&तुओं
+ 
+के
+ 
+िलए
+ 
+विनमा%ता
+ 
+तथा
+ 
+सेवाओं
+ 
+के
+ 
+िलए
+ 
+सेवा
+ 
+5दाता
+ 
+ईएमड
+ 
+से
+ 
+छू ट
+ 
+के
+ 
+पा 
+ 
+हM
+।
+ 
+`यापा/रयK
+ 
+को
+ 
+इस
+ 
+नीित
+ 
+के
+ 
+दायरे
+ 
+से
+बाहर
+ 
+रखा
+ 
+गया
+ 
+है
+।
+/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document
+for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and
+Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this
+Policy.
+(b). The EMD Amount will be applicable for each schedule/group selected during Bid creation.
+(c).
+ईएमड
+ 
+और
+ 
+संपादन
+ 
+जमानत
+ 
+रािश
+, 
+जहां
+ 
+यह
+ 
+लागू
+ 
+होती
+ 
+है
+, 
+लाभाथa
+ 
+के
+ 
+पX
+ 
+म)
+ 
+होनी
+ 
+चा@हए
+।
+ / EMD & Performance security should be
+in favour of Beneficiary, wherever it is applicable.
+(d).
+ईएमड
+ 
+और
+ 
+संपादन
+ 
+जमानत
+ 
+रािश
+ 
+लाभाथa
+ 
+के
+ 
+पX
+ 
+म)
+ 
+होनी
+ 
+चा@हए
+।
+ / Earnest Money Deposit (EMD) shall also be accepted by
+the buyer in the form of a surety bond. 
+लाभाथa
+लाभाथa
+ 
+ 
+/Beneficiary :
+ 
+NTPC Ltd
+3 / 12
+NTPC Limited, Western Region II Headquarters,Plot No-87, Sector-24, Atal Nagar,Naya Raipur, Raipur
+Chhatisgarh-492018
+(Sourabh Banerjee)
+बोली
+ 
+वभाजन
+ 
+लागू
+ 
+नहं
+ 
+@कया
+ 
+गया
+/ 
+Bid splitting not applied.
+एमआईआई
+एमआईआई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+ / MII Purchase Preference
+एमआईआई
+ 
+खरद
+ 
+वरयता
+ / MII Purchase Preference
+Yes
+मेक
+ 
+इन
+ 
+इं@डया
+ 
+व=ेताओं
+ 
+को
+ 
+खरद
+ 
+म)
+ 
+5ाथिमकता
+, 
+य@द
+उनका
+ 
+मूUय
+ 
+L
+1+
+X
+% 
+तक
+ 
+क
+ 
+सीमा
+ 
+म)
+ 
+है
+ / Purchase
+Preference to MII sellers availabele upto price
+within L1+X%
+20
+मेक
+ 
+इन
+ 
+इं@डया
+ 
+खरद
+ 
+म)
+ 
+5ाथिमकता
+ 
+के
+ 
+िलए
+ 
+बड
+ 
+क
+ 
+मा ा
+का
+ 
+अिधकतम
+ 
+5ितशत
+ / Maximum Percentage of Bid
+quantity for MII purchase preference
+100
+साव%जिनक
+ 
+खरद
+ (
+मेक
+-
+इन
+-
+इं@डया
+ 
+को
+ 
+5ाथिमकता
+) 
+आदेश
+2017 
+के
+ 
+अनुसार
+ 
+केवल
+ 
+Iलास
+ 1/
+Iलास
+ 2 
+के
+ 
+&थानीय
+आपूित%कता%ओं
+ 
+को
+ 
+ह
+ 
+भागीदार
+ 
+क
+ 
+अनुमित
+ 
+है
+ 
+@दनांक
+16.09.2020 (
+समय
+-
+समय
+ 
+पर
+ 
+संशोिधत
+ 
+एवं
+ 
+लागू
+) 
+/ Allow
+participation only from Class 1/Class 2 local
+suppliers as per the Public
+procurement(Preference to Make-in-india) order
+2017 date 16.09.2020(as amended and
+applicable time to time)
+Yes, in compliance with the MII ORDER : DPIIT Order(as
+amended and applicable time to time)
+एमएसई
+एमएसई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MSE Purchase Preference
+एमएसई
+ 
+खरद
+ 
+वरयता
+/MSE Purchase Preference
+Yes
+सूhम
+ 
+और
+ 
+लघु
+ 
+उjम
+ 
+मूल
+ 
+उपकरण
+ 
+िनमा%ताओं
+ 
+को
+ 
+खरद
+ 
+म)
+5ाथिमकता
+, 
+य@द
+ 
+उनका
+ 
+मूUय
+ 
+L
+1+
+X
+% 
+तक
+ 
+क
+ 
+सीमा
+ 
+म)
+ 
+हो
+ /
+Purchase Preference to MSE OEMs available upto
+price within L1+X%
+15
+सूhम
+ 
+और
+ 
+लघु
+ 
+उjम
+ 
+को
+ 
+खरद
+ 
+म)
+ 
+5ाथिमकता
+ 
+के
+ 
+िलए
+ 
+बड
+क
+ 
+मा ा
+ 
+का
+ 
+अिधकतम
+ 
+5ितशत
+ / Maximum
+Percentage of Bid quantity for MSE purchase
+preference
+100
+-ेkस
+-ेkस
+ 
+ 
+भुगतान
+भुगतान
+ 
+ 
+संबंधी
+संबंधी
+ 
+ 
+ववरण
+ववरण
+/TReDS Payment Details
+This Bid provides for Trade Receivables Discounting System (TReDS) as Preferred mode of payment.
+For MSME sellers, payments may be processed through a TReDS exchange in which the Buyer is
+registered, subject to applicable policy and regulatory guidelines. Accordingly, sellers intending to
+avail payment through TReDS are required to be registered with at least one TReDS exchange in
+which the buyer is registered.
+1. Preference to Make In India products (For bids < 200 Crore):Preference shall be given to 
+Class 1 local supplier
+as defined in public procurement (Preference to Make in India), Order 2017 as amended from time to time and its
+subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products. The minimum
+4 / 12
+local content to qualify as a Class 1 local supplier is denoted in the bid document. If the bidder wants to avail the
+Purchase preference, the bidder must upload a certificate from the OEM regarding the percentage of the local
+content and the details of locations at which the local value addition is made along with their bid, failing which
+no purchase preference shall be granted. In case the bid value is more than Rs 10 Crore, the declaration relating
+to percentage of local content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than companies as per the Public
+Procurement (preference to Make-in -India) order 2017 dated 
+04.06.2020. Only Class-I and Class-II Local suppliers
+as per MII 
+order dated 4.6.2020 will be eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are
+not eligible to participate. However, eligible micro and small enterprises will be allowed to participate .The
+buyers are advised to refer the 
+OM No.F.1/4/2021-PPD dated 18.05.2023.
+OM_No.1_4_2021_PPD_dated_18.05.2023
+ 
+for compliance of Concurrent application of Public Procurement Policy
+for Micro and Small Enterprises Order, 2012 and Public Procurement (Preference to Make in India) Order, 2017. 
+2. Purchase preference will be given to MSEs having valid Udyam Registration and whose credentials are
+validated online through Udyam Registration portal as defined in Public Procurement Policy for Micro and Small
+Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and
+its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail themselves of the
+Purchase preference, the bidder must be the manufacturer / OEM of the offered product on GeM. Traders are
+excluded from the purview of Public Procurement Policy for Micro and Small Enterprises and hence resellers
+offering products manufactured by some other OEM are not eligible for any purchase preference. In respect of bid
+for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in
+this regard shall be uploaded along with the bid in respect of the offered product or service and Buyer will decide
+eligibility for purchase preference based on documentary evidence submitted, while evaluating the bid. If L-1 is
+not an MSE and MSE Seller (s) has / have quoted price within L-1+ 15% (Selected by Buyer) of margin of
+purchase preference /price band defined in relevant policy, such MSE Seller shall be given opportunity to match
+L-1 price and contract will be awarded for 100% (selected by Buyer) percentage of total quantity. The buyers are
+advised to refer the OM No. F.1/4/2021-PPD dated 18.05.2023 
+OM_No.1_4_2021_PPD_dated_18.05.2023
+ 
+for
+compliance of Concurrent application of Public Procurement Policy for Micro and Small Enterprises Order, 2012
+and Public Procurement (Preference to Make in India) Order, 2017. Benefits of MSE will be allowed only if seller is
+validated on-line in GeM profile as well as validated and approved by Buyer after evaluation of documents
+submitted. 
+3. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and
+for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.
+This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any
+impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of
+quoted prices which would be determined by the buyer based on its own assessment of reasonableness and
+based on competitive prices received in Bid / RA process. 
+एIसेल
+एIसेल
+ 
+ 
+म)
+म)
+ 
+ 
+अपलोड
+अपलोड
+ 
+ 
+@कए
+@कए
+ 
+ 
+जाने
+जाने
+ 
+ 
+क
+क
+ 
+ 
+आवQयकता
+आवQयकता
+ 
+ 
+/Excel Upload Required :
+Price bid format for NTPC JVs requirement - 
+1778675195.xlsx
+मूUयांकन
+मूUयांकन
+ 
+ 
+विध
+विध
+(
+(
+मदवार
+मदवार
+ 
+ 
+मूUयांकन
+मूUयांकन
+ 
+ 
+विध
+विध
+)
+)
+ / 
+Evaluation Method 
+( Item Wise Consignee Wise Evaluation Method )
+Contract will be awarded schedule wise and the determination of L1 will be done separately for each schedule.
+The details of item-consignee combination covered under each schedule are as under:
+मूUयांकन
+ 
+अनुसूिचयां
+/ 
+Evaluation
+Schedules
+व&तु
+/
+'ेणी
+ /
+Item/Categ
+ory
+Consignee Address
+मा ा
+ 
+/
+Quan
+tity
+Schedule 1
+98 Inch Led
+Tv With
+Hdmi Earc
+Power management institute, Plot 5-14, Sector-16A, Film City, Noida
+(UP)-201301 201301
+2
+Schedule 2
+98 Inch Led
+Tv With
+Hdmi Earc
+NTPC Energy Technology Research Alliance(NETRA), E-3, Ecotech-II,
+Udyog Vihar, Greater Noida, District- Gautam Budh Nagar (U.P.) -
+201306 201306
+1
+5 / 12
+Schedule 3
+98 Inch Led
+Tv With
+Hdmi Earc
+Rihand Super Thermal Power Station P.O RIHANDNAGAR, DIST.
+SONEBHADR 231223 
+SONEBHADRA 231223
+2
+Schedule 4
+98 Inch Led
+Tv With
+Hdmi Earc
+Feroz Gandhi Unchahar 
+Thermal Power Station P.O,UNCHAHAR
+RAEBARELI 229406
+2
+Schedule 5
+98 Inch Led
+Tv With
+Hdmi Earc
+Tanda Thermal Power Project P.O. VIDYUT NAGAR AMBEDKARNAGAR
+224238 
+AMBEDKARNAGAR 224238
+7
+Schedule 6
+98 Inch Led
+Tv With
+Hdmi Earc
+National Capital Power Project 
+P.O. VIDYUT NAGAR GAUTAM BUDH
+NAGAR(U.P.) 201008
+8
+Schedule 7
+98 Inch Led
+Tv With
+Hdmi Earc
+NTPC Korba, Jamnipali, District Korba, Chattisgarh 495450
+9
+Schedule 8
+98 Inch Led
+Tv With
+Hdmi Earc
+Vindhyachal Super Thermal Power Station P.O. Vindhyanagar District
+Singrauli 486885 
+Vindhyanagar 486885
+7
+Schedule 9
+98 Inch Led
+Tv With
+Hdmi Earc
+Sipat Super Thermal Power Project, PO Ujwal Nagar, District Bilaspur,
+Chhattisgarh 495555
+1
+Schedule 10
+98 Inch Led
+Tv With
+Hdmi Earc
+JHANOR GANDHAR GAS 
+POWER P.O. URJANAGAR,JHANOR 392215
+DISTT 
+BHARUCH 392215
+1
+Schedule 11
+98 Inch Led
+Tv With
+Hdmi Earc
+Talcher Super Thermal Power Station P.O. DEEPSHIKHA ANGUL
+759147 ANGUL 759147
+6
+Schedule 12
+98 Inch Led
+Tv With
+Hdmi Earc
+Barh Super Thermal Power Project P.O. BARH PATNA 803213 
+BARH
+803213
+3
+Schedule 13
+98 Inch Led
+Tv With
+Hdmi Earc
+Ramagundam Super Thermal Power Station PO JYOTINAGAR 505215
+DISTRICT PEDDAPALLI 505215
+2
+Schedule 14
+98 Inch Led
+Tv With
+Hdmi Earc
+Bongaigaon Thermal Power Project PO Salakati, Dist Kokrajhar
+783369 
+Salakati 783369
+6
+Schedule 15
+98 Inch Led
+Tv With
+Hdmi Earc
+Kudgi Super Thermal Power Project 
+BASAVANA BAGEWADI, 586121
+BIJAPUR 586121
+4
+Schedule 16
+98 Inch Led
+Tv With
+Hdmi Earc
+RAMMAM HYDRO POWER PROJECT(3x40MW) 
+JAL VIDUT BIHAR,
+Sajbotey. 
+Sub. PO: Kolbong, Bijanbari. 
+Distt.: Darjeeling, West
+Bengal 
+Pin Code: 734201 734201
+2
+Schedule 17
+98 Inch Led
+Tv With
+Hdmi Earc
+Darlipali STPP P.O. Darlipali Sundargarh 770072 
+Odisha 770072
+4
+Schedule 18
+98 Inch Led
+Tv With
+Hdmi Earc
+Shivanpur PO-Ankhora Railway Station Bihar Aurangabad 824303
+3
+Schedule 19
+98 Inch Led
+Tv With
+Hdmi Earc
+Barauni 
+Thermal Power Plant Project NH31, Barauni Begusarai
+851116 
+Begusarai 851116
+1
+6 / 12
+98 Inch LED TV With HDMI EARC ( 71 pieces ) 
+(
+=मशः
+=मशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+lप
+lप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+5ाm
+5ाm
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवQयक
+आवQयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशWयाँ
+विशWयाँ
+ 
+ 
+/Technical Specifications
+=ेता
+ 
+विशW
+ 
+द&तावेज़
+ 
+/Buyer
+Specification Document
+Download
+परेषती
+परेषती
+/
+/
+/रपो@टnग
+/रपो@टnग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+=.सं.
+=.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो@टnग
+/रपो@टnग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+@डलीवर
+@डलीवर
+ 
+के
+के
+ 
+@दन
+@दन
+/Delivery
+Days
+1
+Santosh Kumar
+Vishwakarma
+201301,Power management
+institute, Plot 5-14, Sector-16A,
+Film City, Noida (UP)-201301
+2
+90
+2
+Shanta Kumar
+201306,NTPC Energy
+Technology Research
+Alliance(NETRA), E-3, Ecotech-
+II, Udyog Vihar, Greater Noida,
+District- Gautam Budh Nagar
+(U.P.) -201306
+1
+90
+3
+Bharath N
+231223,Rihand Super Thermal
+Power Station P.O
+RIHANDNAGAR, DIST.
+SONEBHADR 231223
+SONEBHADRA
+2
+90
+4
+Alok Sharma
+229406,Feroz Gandhi Unchahar
+Thermal Power Station
+P.O,UNCHAHAR RAEBARELI
+2
+90
+5
+Abhimanyu
+224238,Tanda Thermal Power
+Project P.O. VIDYUT NAGAR
+AMBEDKARNAGAR 224238
+AMBEDKARNAGAR
+7
+90
+6
+Uma Shanker Yadav
+201008,National Capital Power
+Project 
+P.O. VIDYUT NAGAR
+GAUTAM BUDH NAGAR(U.P.)
+8
+90
+7
+Priyanshu
+Srivastava
+495450,NTPC Korba, Jamnipali,
+District Korba, Chattisgarh
+9
+90
+8
+Sajal Dwivedi
+486885,Vindhyachal Super
+Thermal Power Station P.O.
+Vindhyanagar District Singrauli
+486885 
+Vindhyanagar
+7
+90
+9
+Kapil Dev Sharma
+495555,Sipat Super Thermal
+Power Project, PO Ujwal Nagar,
+District Bilaspur, Chhattisgarh
+1
+90
+7 / 12
+10
+Pravinkumar Patel
+392215,JHANOR GANDHAR GAS
+POWER P.O.
+URJANAGAR,JHANOR 392215
+DISTT 
+BHARUCH
+1
+90
+11
+Ramesh Chandra
+Pradhan
+759147,Talcher Super Thermal
+Power Station P.O.
+DEEPSHIKHA ANGUL 759147
+ANGUL
+6
+90
+12
+Puran Pandit
+803213,Barh Super Thermal
+Power Project P.O. BARH
+PATNA 803213 
+BARH
+3
+90
+13
+Jayaraju Pagi
+505215,Ramagundam Super
+Thermal Power Station PO
+JYOTINAGAR 505215 
+DISTRICT
+PEDDAPALLI
+2
+90
+14
+Siddharth Kumar
+Sarkar
+783369,Bongaigaon Thermal
+Power Project PO Salakati, Dist
+Kokrajhar 783369 
+Salakati
+6
+90
+15
+Doraiah Naidu Karri
+586121,Kudgi Super Thermal
+Power Project 
+BASAVANA
+BAGEWADI, 586121 
+BIJAPUR
+4
+90
+16
+Neeraj Jain
+734201,RAMMAM HYDRO
+POWER PROJECT(3x40MW) 
+JAL
+VIDUT BIHAR, Sajbotey. 
+Sub.
+PO: Kolbong, Bijanbari. 
+Distt.:
+Darjeeling, West Bengal 
+Pin
+Code: 734201
+2
+90
+17
+ANIRUDHA NAIK
+770072,Darlipali STPP P.O.
+Darlipali Sundargarh 770072
+Odisha
+4
+90
+18
+Bidyasagar
+Sawaiyan
+824303,Shivanpur PO-Ankhora
+Railway Station Bihar
+Aurangabad
+3
+90
+19
+Bijaya Kumar Sahoo
+851116,Barauni 
+Thermal Power
+Plant Project NH31, Barauni
+Begusarai 851116 
+Begusarai
+1
+90
+=.सं.
+=.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो@टnग
+/रपो@टnग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+@डलीवर
+@डलीवर
+ 
+के
+के
+ 
+@दन
+@दन
+/Delivery
+Days
+=ेता
+=ेता
+ 
+ 
+Lारा
+Lारा
+ 
+ 
+जोड़
+जोड़
+ 
+ 
+गई
+गई
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+वशेष
+वशेष
+ 
+ 
+शतp
+शतp
+/Buyer Added Bid Specific Terms and Conditions
+1
+. 
+Generic
+OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up
+to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to
+increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at
+the contracted rates. The delivery period of quantity shall commence from the last date of original
+delivery order and in cases where option clause is exercised during the extended delivery period the
+additional time shall commence from the last date of extended delivery period. The additional delivery
+time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to
+8 / 12
+minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the
+original delivery period. The Purchaser may extend this calculated delivery duration up to the original
+delivery period while exercising the option clause. Bidders must comply with these terms.
+2
+. 
+Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+        
+Special Note
+:-For any schedule (requirement of any station) Oﬀer of one OEM or it’s  a
+uthorized dealer with tender specific authorization is allowed.
+(a)
+         
+In case, oﬀer of multiple dealers from same OEM for same schedule is recei
+ved, based on discretion of OEM only single dealer oﬀer shall be considered
+.
+(b)
+   
+In case, offer of OEM and dealer for same schedule is received offer of only OE
+M shall be considered.
+Special Instruction for submission of Price bid for NTPC Joint Venture requirements:
+1. Requirement for NTPC Joint ventures
+(1) Bhartiya Rail Bijlee Co Ltd (2) Aravali Power Co Pvt Ltd (3) Patratu power plant, has been kept in t
+his tender only for price discovery purpose. Accordingly, option for financial document upload has
+been enabled.
+2. Bidders are requested to refer format suggested in the tender attachment 
+“Price Bid format for NTP
+C JVs-BRBCL,APCPL,Patratu.xls”
+ and shall upload FOR destination rate inclusive of GST and all oth
+er charges in 
+Price Bid Envelope as pdf attachment
+ for NTPC JV requirement indicated in the refer
+red format as 
+“Financial document”
+.
+3. Technical speciﬁcations and other terms and condition for NTPC JVs shall be as per this gem tender
+. Evaluation for NTPC JVs schedule will be done as per criteria stipulated in this Gem tender.
+4. No Gem PO shall be issued to L1 bidders for NTPC JVs requirements. Separate Purchase Order shall 
+be placed by NTPC JVs on L1 rate/Negotiated rate subject to establishment of rate reasonability.
+5. Vendor shall co-ordinate with respective NTPC JVs, for all Post Purchase Order activities.
+6. Detailed Address for the JVs is as below:-
+1.BRBCL:-Bhartiya Rail Bijlee Co. Ltd,Thana-Khaira Nabinagar, Auranagabd, Bihar 824203
+2.APCPL:-Aravali Power Company Private Limited,Indira Gandhi Super Thermal Power Station (IGS
+TPS) Jharli, Dist - Jhajjar, PIN-124141, Haryana (India)
+3. 
+PVUNL:-Patratu Vidyut Utpadan Nigam Limited,Patratu, Ramgarh, Jhark
+hand - 829119.
+CHECK LIST FOR BIDDERS BEFORE SUBMISSION OF OFFER
+ 
+Bidder(s) are requested to ensure that following documents have been sub
+mitted online before submission of their bid:
+ 
+1.
+   
+For Non-MSE bidders:-
+(a) For those EMD is applicable - Only NTPC format (Annexure-I) is to be use
+d for preparation of EMD BG (EMD BG submitted in any other format shall n
+ot be accepted & bid shall be liable for rejection). EMD BG to be submitted i
+n e-BG form preferably and scanned copy of e-BG to be uploaded with tech
+no-commercial bid at GEM portal.
+(b) For those EMD is exempted as per latest GEM GTC:-Bidder to provide rel
+9 / 12
+evant document (eg. BIS license/Valid Vendor Assessment report etc.) alon
+g with their bid on gem portal.
+2.
+ 
+For MSE bidders- Udyam registration copy along with ﬁlled sealed and signe
+d copy of Annexure-III is submitted.
+ 
+(MSE Beneﬁts is applicable only for the 
+Manufacturer of the Tendered Items).
+3.
+   
+Nil Deviation certificate (Annexure-II)
+4.
+   
+Format for BIDDER’S QUALIFICATIONS as per QR (If applicable) (Annexure-
+IV)
+5.
+   
+Balance Sheets for last three financial years with UDIN (Annexure-V)
+6.
+   
+MLC declaration from OEM strictly as per NTPC format.
+ (
+Annexure-VI)
+7.
+   
+Compliance to “Conﬂict of Interest” provisions as per format suggested in t
+his ATC document.
+ 
+(Annexure-VII)
+8.
+ 
+PO submitted in support of QR must be accompanied with execution proof in
+from of completion certiﬁcate/ payment advice from client/ material accept
+ance (CRAC) etc.
+9.
+ 
+Digitally signed TPIA/ Statutory auditor Undertaking attached (strictly as per 
+format attached in ATC document Appendix-I/II) along with PO & execution 
+proof.
+10.
+Sealed and signed copy of the Tech_Specs & Quality Plan if any.
+11.
+NTPC JV price bid against “ﬁnancial document required” option in the price 
+bid envelope.
+ 
+.
+3
+. 
+Buyer Added Bid Specific ATC
+Buyer uploaded ATC document 
+Click here to view the file
+.
+अ&वीकरण
+अ&वीकरण
+/Disclaimer
+The Additional Terms and Conditions (ATC) have been incorporated by the Buyer after approval of their
+Competent Authority. The Buyer ,is solely responsible for the impact of these clauses on the bidding process, its
+outcome, and consequences thereof including any restriction arising in the bidding process due to these ATCs
+and including the modification of technical specifications and / or terms and conditions governing the bid.All
+representations / grievances pertaining to the ATC clauses shall be raised with the buyer organization directly
+and not with GeM.If any of the clause(s) is/are incorporated by the Buyer regarding the following, the bid &
+resultant contract shall be treated as null & void. Further, GeM reserves the right, at its sole discretion, to cancel
+the bid forthwith, without issuance of any prior notice or intimation :-
+10 / 12
+1
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available (unless such
+Custom / BOQ item is bunched with the major regular product Category Item).
+2
+. 
+Mandating procurement of / from specific Brand / Make / Model / Manufacturer / Dealer except in case of
+Single Bid / Proprietary Article Certificate (PAC) Buying.
+3
+. 
+Inclusion of disqualification criteria related to suspension of seller / service provider, where such
+suspension period has already expired.
+4
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+5
+. 
+Publishing bids on GeM for procurement of works.
+6
+. 
+Procurement of Goods by creating a Service bid on GeM & vice-versa.
+7
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. However, trial / sample, as
+the case may be, shall be permitted in cases where trial / sample are allowed as per approved and
+published procurement policy of the Buyers’ controlling 
+Ministry / Department / State / Public Sector
+Enterprises Headquarters. If there is any violation of trial / sample clause with regard to approved policy
+of the Buyers’ Ministry / Department / State / Public Sector Enterprises Headquarters, then this is to be
+determined and redressed by the concerned Buyer Organisation only.
+8
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+9
+. 
+Creating bid for items from incorrect categories.
+10
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+11
+. 
+Asking for any Tender fee / Bid Participation fee, as the case may be.
+12
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined in bid detail section, including
+specifications, EMD Detail, ePBG Detail and MII and MSE Purchase Preference sections of the bid, unless
+otherwise allowed by the applicable GeM GTC.
+13
+. 
+Any ATC clause in contravention with GeM GTC Clause 4 (xiii) (h) will be invalid. In case of multiple L1
+bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1
+bidders through a Random Algorithm executed by GeM system.
+14
+. 
+In a category based bid, adding additional items, through buyer added, additional scope of work/
+additional terms and conditions/or any other document. If buyer needs more items along with the main
+item, the same must be added through bunching category based items or by bunching custom catalogues
+or bunching a BoQ with the main category based item, the same must not be done through ATC or Scope
+of Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller. Buyer is duty bound to reply to all such
+representations and would not be allowed to open bids if he fails to reply to such representations.
+All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws,
+including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code
+on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working
+Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into
+force by the Government of India.
+For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or
+notifications, the corresponding provisions of the pre-existing labour enactments (such as The
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The
+Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules)
+shall continue to remain applicable.
+The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:
+All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove;
+and
+All operative provisions of the erstwhile Labour Laws until their complete substitution.
+All obligations relating to wages, social security, safety, working conditions, industrial relations etc.
+and any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-
+compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate
+action in accordance with the contract and applicable law.
+11 / 12
+This Bid is governed by the General Terms and Conditions, conditions stipulated in Bid and Service
+Level Agreement specific to the Service, as the case may be, as provided in the Marketplace.
+However, in case of Service, if any condition specified in General Terms and Conditions is
+contradicted by the conditions stipulated in Service Level Agreement specific to said Service, then it
+will over-ride the conditions in the General Terms and Conditions.
+यह
+ 
+बड
+ 
+सामाqय
+ 
+शत8
+ 
+के
+ 
+अंतग%त
+ 
+भी
+ 
+शािसत
+ 
+है
+ 
+/This Bid is also governed by the General Terms and Conditions
+जेम
+ 
+क
+ 
+सामाqय
+ 
+शत8
+ 
+के
+ 
+खंड
+ 26 
+के
+ 
+संदभ%
+ 
+म)
+ 
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+के
+ 
+बडर
+ 
+से
+ 
+खरद
+ 
+पर
+ 
+5ितबंध
+ 
+के
+ 
+संबंध
+ 
+म)
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+का
+ 
+कोई
+ 
+भी
+ 
+बडर
+ 
+इस
+ 
+िनवदा
+ 
+म)
+ 
+बड
+ 
+देने
+ 
+के
+ 
+िलए
+ 
+तभी
+ 
+पा 
+ 
+होगा
+ 
+जब
+ 
+वह
+ 
+बड
+ 
+देने
+ 
+वाला
+सXम
+ 
+5ािधकार
+ 
+के
+ 
+पास
+ 
+पंजीकृत
+ 
+हो
+।
+बड
+ 
+म)
+ 
+भाग
+ 
+लेते
+ 
+समय
+ 
+बडर
+ 
+को
+ 
+इसका
+ 
+अनुपालन
+ 
+करना
+ 
+होगा
+ 
+और
+ 
+कोई
+ 
+भी
+ 
+गलत
+ 
+घोषणा
+ 
+@कए
+ 
+जाने
+व
+ 
+इसका
+ 
+अनुपालन
+ 
+न
+ 
+करने
+ 
+पर
+ 
+अनुबंध
+ 
+को
+ 
+तsकाल
+ 
+समाm
+ 
+करने
+ 
+और
+ 
+कानून
+ 
+के
+ 
+अनुसार
+ 
+आगे
+ 
+क
+ 
+कानूनी
+ 
+कार%वाई
+ 
+का
+ 
+आधार
+ 
+होगा
+।
+/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---
+धqयवाद
+धqयवाद
+/Thank You---
+12 / 12

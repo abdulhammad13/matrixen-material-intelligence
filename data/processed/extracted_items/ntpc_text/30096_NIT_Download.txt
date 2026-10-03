@@ -1,0 +1,1797 @@
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+बड
+बड
+ 
+ 
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid End Date/Time
+17-08-2026 16:00:00
+बड
+बड
+ 
+ 
+खुलने
+खुलने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid Opening
+Date/Time
+17-08-2026 16:30:00
+बड
+बड
+ 
+ 
+पेशकश
+पेशकश
+ 
+ 
+वैधता
+वैधता
+ (
+ (
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+ 
+ 
+से
+से
+)
+)
+/Bid Offer
+Validity (From End Date)
+180 (Days)
+मं ालय
+मं ालय
+/
+/
+रा!य
+रा!य
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Ministry/State Name
+Ministry Of Power
+वभाग
+वभाग
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Department Name
+Ntpc Sail Power Company Ltd
+संगठन
+संगठन
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Organisation Name
+Ntpc Sail Power Company Ltd
+काया%लय
+काया%लय
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Office Name
+Nspcl Ssc Bhilai
+िशकायत
+िशकायत
+ 
+ 
+िनवारण
+िनवारण
+ 
+ 
+के
+के
+ 
+ 
+संपक%
+संपक%
+ 
+ 
+ववरण
+ववरण
+/ Contact details of
+Grievance redressal
+HOD Email id :ak.sahoo@nspcl.co.in 
+Buyer Email id: r.k.verma@nspcl.co.in
+कुल
+कुल
+ 
+ 
+मा ा
+मा ा
+/Total Quantity
+2
+व'तु
+व'तु
+ 
+ 
+(ेणी
+(ेणी
+ 
+ 
+/Item Category
+M3400080006: COMP: HEAD 7-8KSC: FLOW> 150 CFM,
+SCREW COMP , M3400030007: COMP: HEAD 2-3KSC:
+FLOW> 500 CFM, COMPRES
+GeMARPTS
+ 
+ 
+म*
+म*
+ 
+ 
+खोजी
+खोजी
+ 
+ 
+गई
+गई
+ 
+ 
+-'.ं/स
+-'.ं/स
+ / Searched
+Strings used in GeMARPTS
+M3400030007 COMP:HEAD 2-3KSC:FLOW> 500 CFM,
+COMPRES
+GeMARPTS
+ 
+ 
+म*
+म*
+ 
+ 
+खोजा
+खोजा
+ 
+ 
+गया
+गया
+ 
+ 
+प0रणाम
+प0रणाम
+ / Searched
+Result generated in GeMARPTS
+Air Compressor of Capacity 5000 Nm3/Hr (IOCL), Parallel Bar
+- Outdoor Gym Equipment, Resin Treated Compressed
+Wood Laminates (COMPREGS) for Chemical Purposes
+Marked to IS 3513 (Part 2), Flow Cytometer, Precast
+Concrete Pipes (With And Without Reinforcement) (V2) As
+Per Is 458, Mechanically Woven, Double - Twisted,
+Hexagonal Wire Mesh Gabions, Revet Mattresses and Rock
+Fall Netting as per IS 16014, Portable Toilet, MTP Cannula
+(V2), Inflatable Tent, Electronic Weighing Scales
+अिधसूचना
+अिधसूचना
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+चयिनत
+चयिनत
+ 
+ 
+5ासंिगक
+5ासंिगक
+ 
+ 
+(े-णयाँ
+(े-णयाँ
+ / Relevant
+Categories selected for notification
+Screw Compressor
+एमएसएमई
+एमएसएमई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष8
+वष8
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+5दान
+5दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+/MSE Relaxation for Years of
+Experience and Turnover
+No
+'टाट%अप
+'टाट%अप
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष8
+वष8
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+5दान
+5दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+ /Startup Relaxation for Years of
+Experience and Turnover
+No
+ 
+बड
+ 
+सं=या
+/
+Bid
+ 
+Number
+: 
+GEM/2026/B/7799109
+>दनांक
+ /
+Dated
+: 27-07-2026
+बड
+बड
+ 
+ 
+द'तावेज़
+द'तावेज़
+ / Bid Document
+1 / 8
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+ 
+ 
+सीमा
+सीमा
+ 
+ 
+'वतः
+'वतः
+ 
+ 
+नहं
+नहं
+ 
+ 
+बढ़ाने
+बढ़ाने
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+आवIयक
+आवIयक
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+सं=या
+सं=या
+।
+।
+ / Minimum number of
+bids required to disable automatic bid
+extension
+3
+>दनK
+>दनK
+ 
+ 
+क
+क
+ 
+ 
+सं=या
+सं=या
+, 
+, 
+-जनके
+-जनके
+ 
+ 
+िलए
+िलए
+ 
+ 
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+बढ़ाई
+बढ़ाई
+ 
+ 
+जाएगी
+जाएगी
+। / 
+। / 
+Number
+ 
+ 
+of
+ 
+ 
+days
+ 
+ 
+for
+ 
+ 
+which
+ 
+ 
+Bid
+would
+ 
+ 
+be
+ 
+ 
+auto
+-
+-
+extended
+7
+ऑटो
+ऑटो
+ 
+ 
+एNसट*शन
+एNसट*शन
+ 
+ 
+अिधकतम
+अिधकतम
+ 
+ 
+>कतनी
+>कतनी
+ 
+ 
+बार
+बार
+ 
+ 
+>कया
+>कया
+ 
+ 
+जाना
+जाना
+ 
+ 
+है
+है
+। /
+। /
+Number
+ 
+ 
+of
+ 
+ 
+Auto
+ 
+ 
+Extension
+ 
+ 
+count
+3
+बड
+बड
+ 
+ 
+से
+से
+ 
+ 
+0रवस%
+0रवस%
+ 
+ 
+नीलामी
+नीलामी
+ 
+ 
+स>Oय
+स>Oय
+ 
+ 
+>कया
+>कया
+/Bid to RA enabled
+No
+बड
+बड
+ 
+ 
+का
+का
+ 
+ 
+5कार
+5कार
+/Type of Bid
+Two Packet Bid
+5ाथिमक
+5ाथिमक
+ 
+उRपाद
+उRपाद
+ 
+(ेणी
+(ेणी
+/Primary product category
+M3400080006: COMP: HEAD 7-8KSC: FLOW> 150 CFM,
+SCREW COMP
+तकनीक
+तकनीक
+ 
+ 
+मूSयांकन
+मूSयांकन
+ 
+ 
+के
+के
+ 
+ 
+दौरान
+दौरान
+ 
+ 
+तकनीक
+तकनीक
+ 
+ 
+'पUीकरण
+'पUीकरण
+ 
+ 
+हेतु
+हेतु
+अनुमत
+अनुमत
+ 
+ 
+समय
+समय
+ 
+ 
+/Time allowed for Technical
+Clarifications during technical evaluation
+5 Days
+िनरVण
+िनरVण
+ 
+आवIयक
+आवIयक
+ (
+सूचीबW
+सूचीबW
+ 
+िनरVण
+िनरVण
+ 
+5ािधकरण
+5ािधकरण
+ /
+जेम
+जेम
+ 
+के
+के
+ 
+साथ
+साथ
+पूव%
+पूव%
+ 
+पंजीकृत
+पंजीकृत
+ 
+एज*िसयK
+एज*िसयK
+ 
+Yारा
+Yारा
+)/Inspection Required (By
+Empanelled Inspection Authority / Agencies
+pre-registered with GeM)
+No
+Payment Timelines
+Payments shall be made to the Seller within 
+30
+ days of
+issue of 
+consignee receipt-cum-acceptance certificate
+(CRAC) 
+and on-line submission of bills (This is in
+supersession of 10 days time as provided in clause 12 of
+GeM GTC)
+मूSयांकन
+मूSयांकन
+ 
+ 
+पWित
+पWित
+/Evaluation Method
+Total value wise evaluation
+वZीय
+वZीय
+ 
+ 
+द'तावेज
+द'तावेज
+ 
+ 
+क
+क
+ 
+ 
+आवIयकता
+आवIयकता
+ 
+ 
+है
+है
+ / Financial
+Document Required
+Yes
+म[य'थता
+म[य'थता
+ 
+खंड
+खंड
+/Arbitration Clause
+No
+सुलह
+सुलह
+ 
+खंड
+खंड
+/Mediation Clause
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+ईएमड
+ईएमड
+ 
+ 
+ववरण
+ववरण
+/EMD Detail
+एडवाईजर
+ 
+ब\क
+/Advisory Bank
+State Bank of India
+ईएमड
+ 
+रािश
+/EMD Amount
+200000
+ईपीबीजी
+ईपीबीजी
+ 
+ 
+ववरण
+ववरण
+ 
+ 
+/ePBG Detail
+एडवाइजर
+ 
+ब\क
+/Advisory Bank
+State Bank of India
+ईपीबीजी
+ 
+5ितशत
+ (%)
+/ePBG Percentage(%)
+5.00
+2 / 8
+ईपीबीजी
+ 
+क
+ 
+आवIयक
+ 
+अविध
+ (
+माह
+) 
+/Duration of ePBG
+required (Months).
+21
+(a). 
+जेम
+ 
+क
+ 
+शत8
+ 
+के
+ 
+अनुसार
+ 
+ईएमड
+ 
+छू ट
+ 
+के
+ 
+इ_छु क
+ 
+बडर
+ 
+को
+ 
+संबंिधत
+ 
+केटेगर
+ 
+के
+ 
+िलए
+ 
+बड
+ 
+के
+ 
+साथ
+ 
+वैध
+ 
+समिथ%त
+ 
+द'तावेज़
+ 
+5'तुत
+ 
+करने
+ 
+है
+।
+ 
+एमएसई
+केटेगर
+ 
+के
+ 
+अंतग%त
+ 
+केवल
+ 
+व'तुओं
+ 
+के
+ 
+िलए
+ 
+विनमा%ता
+ 
+तथा
+ 
+सेवाओं
+ 
+के
+ 
+िलए
+ 
+सेवा
+ 
+5दाता
+ 
+ईएमड
+ 
+से
+ 
+छू ट
+ 
+के
+ 
+पा 
+ 
+ह\
+।
+ 
+`यापा0रयK
+ 
+को
+ 
+इस
+ 
+नीित
+ 
+के
+ 
+दायरे
+ 
+से
+बाहर
+ 
+रखा
+ 
+गया
+ 
+है
+।
+/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document
+for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and
+Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this
+Policy.
+(b).
+ईएमड
+ 
+और
+ 
+संपादन
+ 
+जमानत
+ 
+रािश
+, 
+जहां
+ 
+यह
+ 
+लागू
+ 
+होती
+ 
+है
+, 
+लाभाथa
+ 
+के
+ 
+पV
+ 
+म*
+ 
+होनी
+ 
+चा>हए
+।
+ / EMD & Performance security should be
+in favour of Beneficiary, wherever it is applicable.
+(c).
+ईएमड
+ 
+और
+ 
+संपादन
+ 
+जमानत
+ 
+रािश
+ 
+लाभाथa
+ 
+के
+ 
+पV
+ 
+म*
+ 
+होनी
+ 
+चा>हए
+।
+ / Earnest Money Deposit (EMD) shall also be accepted by
+the buyer in the form of a surety bond. 
+लाभाथa
+लाभाथa
+ 
+ 
+/Beneficiary :
+ 
+NTPC SAIL Power Company Ltd, BHILAI, SECTOR-1 BRANCH. IFSC Code:- SBIN0000330
+NTPC SAIL Power Company Ltd, BHILAI, SECTOR-1 BRANCH. IFSC Code:- SBIN0000330
+(Ntpc Sail Power Conpany Ltd.)
+बोली
+ 
+वभाजन
+ 
+लागू
+ 
+नहं
+ 
+>कया
+ 
+गया
+/ 
+Bid splitting not applied.
+एमआईआई
+एमआईआई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आर-Vत
+आर-Vत
+ / Reserved for Make In India products
+एमआईआई
+ 
+के
+ 
+िलए
+ 
+आर-Vत
+ / Reserved for Make In
+India products
+Yes
+एमएसई
+एमएसई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MSE Purchase Preference
+एमएसई
+ 
+खरद
+ 
+वरयता
+/MSE Purchase Preference
+Yes
+सूbम
+ 
+और
+ 
+लघु
+ 
+उdम
+ 
+मूल
+ 
+उपकरण
+ 
+िनमा%ताओं
+/
+सेवा
+ 
+5दाता
+को
+ 
+खरद
+ 
+म*
+ 
+5ाथिमकता
+, 
+य>द
+ 
+उनका
+ 
+मूSय
+ 
+L
+1+
+X
+%
+ /
+Purchase Preference to MSE OEMs/ Service
+Provider available upto price within L1+X%
+15
+सूbम
+ 
+और
+ 
+लघु
+ 
+उdम
+ 
+मूल
+ 
+उपकरण
+ 
+िनमा%ता
+/
+सेवा
+ 
+5दाता
+ 
+को
+खरद
+ 
+म*
+ 
+5ाथिमकता
+ 
+के
+ 
+िलए
+ 
+बड
+ 
+क
+ 
+मा ा
+ 
+का
+ 
+अिधकतम
+5ितशत
+ / Percentage of Bid quantity/amount for
+MSE OEMs/ Service Provider Purchase preference
+25
+.ेgस
+.ेgस
+ 
+ 
+भुगतान
+भुगतान
+ 
+ 
+संबंधी
+संबंधी
+ 
+ 
+ववरण
+ववरण
+/TReDS Payment Details
+This Bid provides for Trade Receivables Discounting System (TReDS) as Preferred mode of payment.
+For MSME sellers, payments may be processed through a TReDS exchange in which the Buyer is
+registered, subject to applicable policy and regulatory guidelines. Accordingly, sellers intending to
+avail payment through TReDS are required to be registered with at least one TReDS exchange in
+which the buyer is registered.
+1. Bid reserved for Make In India products: : Procurement under this bid is reserved for purchase from Class 1
+local supplier as defined in public procurement (Preference to Make in India), Order 2017 as amended from time
+to time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products.
+However, eligible micro and small enterprises will be allowed to participate. The minimum local content to
+3 / 8
+qualify as a class 1 local supplier is denoted in the bid document. All bidders must upload a certificate from the
+OEM regarding the percentage of the local content and the details of locations at which the local value addition is
+made along with their bid, failing which the bid is liable to be rejected. In case the bid value is more than Rs 10
+Crore, the declaration relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered accountant for OEMs other
+than companies as per the Public Procurement (preference to Make-in -India) order 2017 dated 04.06.2020 . In
+case Buyer has selected Purchase preference to Micro and Small Enterprises clause in the bid, the same will get
+precedence over this clause. 
+2. 
+Purchase preference to Micro and Small Enterprises (MSEs):
+ Purchase preference will be given to MSEs
+having valid Udyam Certificate and whose credentials are validated online through Udyam Registration portal as
+defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued
+by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned
+Ministry. If the bidder wants to avail themselves of the Purchase preference, the bidder must be the
+manufacturer / OEM of the offered product on GeM. In respect of bid for Services, the bidder must be the Service
+provider of the offered Service. Traders are excluded from the purview of Public Procurement Policy for Micro and
+Small Enterprises and hence resellers offering products manufactured by some other OEM are not eligible for any
+purchase preference. Relevant documentary evidence in this regard shall be uploaded along with the bid in
+respect of the offered product or service, and Buyer will decide eligibility for purchase preference based on
+documentary evidence submitted in case of product bids, whereas in case of services the eligibility is
+automatically validated. If L-1 is not an MSE and MSE Seller (s) has / have quoted price within L-1+ 15% (Selected
+by Buyer) of margin of purchase preference /price band defined in relevant policy, such MSE Seller shall be given
+opportunity to match L-1 price and contract will be awarded for 25% (selected by Buyer) percentage of total
+quantity. The buyers are advised to refer the 
+OM_No.1_4_2021_PPD_dated_18.05.2023
+ 
+for compliance of
+Concurrent application of Public Procurement Policy for Micro and Small Enterprises Order, 2012 and Public
+Procurement (Preference to Make in India) Order, 2017. Benefits of MSE will be allowed only if seller is validated
+on-line in GeM profile as well as validated and approved by Buyer after evaluation of documents submitted. 
+एNसेल
+एNसेल
+ 
+ 
+म*
+म*
+ 
+ 
+अपलोड
+अपलोड
+ 
+ 
+>कए
+>कए
+ 
+ 
+जाने
+जाने
+ 
+ 
+क
+क
+ 
+ 
+आवIयकता
+आवIयकता
+ 
+ 
+/Excel Upload Required :
+Evaulation Criteria-DGP - 
+1784357952.xlsx
+M3400080006: COMP: HEAD 7-8KSC: FLOW> 150 CFM, SCREW COMP ( 1 pieces ) 
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशUयाँ
+विशUयाँ
+ 
+ 
+/Technical Specifications
+Oेता
+ 
+विशU
+ 
+द'तावेज़
+ 
+/Buyer
+Specification Document
+Download
+परेषती
+परेषती
+/
+/
+0रपो>टhग
+0रपो>टhग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+O.सं.
+O.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+0रपो>टhग
+0रपो>टhग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+>डलीवर
+>डलीवर
+ 
+के
+के
+ 
+>दन
+>दन
+/Delivery
+Days
+1
+Sk Jawed Iqbal
+713203,NSPCL Store CPP II
+Durgapur Steel Plant Complex
+Durgapur West Bengal
+1
+180
+M3400030007: COMP: HEAD 2-3KSC: FLOW> 500 CFM, COMPRES ( 1 pieces ) 
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशUयाँ
+विशUयाँ
+ 
+ 
+/Technical Specifications
+4 / 8
+Oेता
+ 
+विशU
+ 
+द'तावेज़
+ 
+/Buyer
+Specification Document
+Download
+परेषती
+परेषती
+/
+/
+0रपो>टhग
+0रपो>टhग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+O.सं.
+O.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+0रपो>टhग
+0रपो>टhग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+>डलीवर
+>डलीवर
+ 
+के
+के
+ 
+>दन
+>दन
+/Delivery
+Days
+1
+Sk Jawed Iqbal
+713203,NSPCL Store CPP II
+Durgapur Steel Plant Complex
+Durgapur West Bengal
+1
+180
+Oेता
+Oेता
+ 
+ 
+Yारा
+Yारा
+ 
+ 
+जोड़
+जोड़
+ 
+ 
+गई
+गई
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+वशेष
+वशेष
+ 
+ 
+शतk
+शतk
+/Buyer Added Bid Specific Terms and Conditions
+1
+. 
+Generic
+OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up
+to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to
+increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at
+the contracted rates. The delivery period of quantity shall commence from the last date of original
+delivery order and in cases where option clause is exercised during the extended delivery period the
+additional time shall commence from the last date of extended delivery period. The additional delivery
+time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to
+minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the
+original delivery period. The Purchaser may extend this calculated delivery duration up to the original
+delivery period while exercising the option clause. Bidders must comply with these terms.
+2
+. 
+Generic
+Bidder shall submit the following documents along with their bid for Vendor Code Creation:
+ a. Copy of PAN Card.
+ b. Copy of GSTIN.
+ c. Copy of Cancelled Cheque.
+ d. Copy of EFT Mandate duly certified by Bank.
+3
+. 
+Generic
+Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only.
+4
+. 
+Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+1.Inspection clause: Pre-Dispatch Inspection shall be done at Vendor's Works as per the approved Quality 
+Plan and Supporting Data Sheet. NSPCL will depute its representative at vendor's works (after confirmatio
+n from the vendor) for witnessing the mechanical run test, performance test and any other tests as per QP
+of the package before dispatch of the unit. Visual Inspection shall be done at NSPCL Durgapur Site/Store al
+ong with the submitted documents.
+5 / 8
+2.Guarantee/ warranty Clause: The Complete package should be guaranteed against poor workmanship/m
+anufacturing defect for a period of 18/12 months from the date of supply/ commissioning of system, which
+ever is earlier. Warranty will be limited to repair/replace of defective parts against manufacturing defects. 
+Bidder has to comply the Performance/ Functional Guarantee. Also, it is the sole responsibility of the suppli
+er of Compressor to address any O&M related issues post-delivery as well as spares requirement within wa
+rranty period.
+3.PBG Clause: PBG is Applicable in this case. Vendor has to submit PBG @5% of PO value for a period of en
+tire Guarantee period plus claim period i.e. (18+3 months) 21 months.
+4.Interchangeability/ Fitment Guarantee: Fitment to the available space needs to be ensured by the Agenc
+y.
+5.Documents required with Bid for Technical Bid evaluation: Vendors are requested to submit following do
+cument with their technical Bid:
+5.1 Unpriced Techno-commercial offer
+5.2 Technical Data Sheet
+5.3 G.A./ C.S Drawing and/ OR Assembly Drawing
+5.4 Related Technical Spec sheets (Containing Exclusion List, commissioning procedure and requirement fr
+om Customer)
+5.5 Mandatory Spare Parts List (If any)
+5.6 Endorsed Nil-Deviation certificate, tender document and SPC.
+6.Documents required along with material Supply:
+a. Guarantee/ warranty certificate.
+b. MDCC
+c. O&M Manual (Hard or Soft)
+7.Drawing and QP Approval by NSPCL:
+7.1 Successful bidder shall submit Civil Foundation details along with weight of the compressor package, di
+mensions of the unit within 15 days from receipt of firm order.
+7.2 Successful bidder has to submit their manufacturing quality plan for NSPCL approval and all major com
+ponents are to be included in quality plan. The Quality Plan should also have performance test procedure.
+8.Payment Terms: 90% payment within 30 days after receipt and acceptance of the material and documen
+ts at NSPCL Site Stores, subject to submission of PBG (otherwise 5% of the payment shall be held for BG).R
+emaining 10% payment after successful commissioning and trial run of the compressor. If commissioning n
+ot done within 3 months from the date receipt of compressor at site due to reasons pertaining to NSPCL th
+en 10 % payment will be released with submission of BG of equivalent amount. Validity of the BG will be fo
+r next 6 Months. No additional Payment shall be reimbursed for deputation of Vendor's representative atSit
+e during supervision of erection, commissioning and trial run.
+9.Delivery period and Schedule: Delivery to be completed preferably within 6 months from award. Howeve
+r, the vendor must endeavor to supply material at the earliest.
+10. Bid Evaluation Criteria: Evaluation shall be done on overall L1 basis.
+11.Additional Information:
+11.1 Bidder has to provide supervision of erection, commissioning and trial run. Deputation charges of the
+supplier's technical representatives for supervision of installation and commissioning of the supplied air co
+mpressor package shall be included in the quoted price. Lodging & Boarding expenses for supplier's techni
+cal representatives shall be borne by the vendor.
+11.2 Any variation in material specifications have to be clarified prior to bid submission, any clarificationsp
+ost bid opening will not be acceptable.
+.
+6 / 8
+5
+. 
+Buyer Added Bid Specific ATC
+Buyer uploaded ATC document 
+Click here to view the file
+.
+अ'वीकरण
+अ'वीकरण
+/Disclaimer
+The Additional Terms and Conditions (ATC) have been incorporated by the Buyer after approval of their
+Competent Authority. The Buyer ,is solely responsible for the impact of these clauses on the bidding process, its
+outcome, and consequences thereof including any restriction arising in the bidding process due to these ATCs
+and including the modification of technical specifications and / or terms and conditions governing the bid.All
+representations / grievances pertaining to the ATC clauses shall be raised with the buyer organization directly
+and not with GeM.If any of the clause(s) is/are incorporated by the Buyer regarding the following, the bid &
+resultant contract shall be treated as null & void. Further, GeM reserves the right, at its sole discretion, to cancel
+the bid forthwith, without issuance of any prior notice or intimation :-
+1
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available (unless such
+Custom / BOQ item is bunched with the major regular product Category Item).
+2
+. 
+Mandating procurement of / from specific Brand / Make / Model / Manufacturer / Dealer except in case of
+Single Bid / Proprietary Article Certificate (PAC) Buying.
+3
+. 
+Inclusion of disqualification criteria related to suspension of seller / service provider, where such
+suspension period has already expired.
+4
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+5
+. 
+Publishing bids on GeM for procurement of works.
+6
+. 
+Procurement of Goods by creating a Service bid on GeM & vice-versa.
+7
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. However, trial / sample, as
+the case may be, shall be permitted in cases where trial / sample are allowed as per approved and
+published procurement policy of the Buyers’ controlling 
+Ministry / Department / State / Public Sector
+Enterprises Headquarters. If there is any violation of trial / sample clause with regard to approved policy
+of the Buyers’ Ministry / Department / State / Public Sector Enterprises Headquarters, then this is to be
+determined and redressed by the concerned Buyer Organisation only.
+8
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+9
+. 
+Creating bid for items from incorrect categories.
+10
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+11
+. 
+Asking for any Tender fee / Bid Participation fee, as the case may be.
+12
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined in bid detail section, including
+specifications, EMD Detail, ePBG Detail and MII and MSE Purchase Preference sections of the bid, unless
+otherwise allowed by the applicable GeM GTC.
+13
+. 
+Any ATC clause in contravention with GeM GTC Clause 4 (xiii) (h) will be invalid. In case of multiple L1
+bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1
+bidders through a Random Algorithm executed by GeM system.
+14
+. 
+In a category based bid, adding additional items, through buyer added, additional scope of work/
+additional terms and conditions/or any other document. If buyer needs more items along with the main
+item, the same must be added through bunching category based items or by bunching custom catalogues
+or bunching a BoQ with the main category based item, the same must not be done through ATC or Scope
+of Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller. Buyer is duty bound to reply to all such
+representations and would not be allowed to open bids if he fails to reply to such representations.
+All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws,
+including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code
+on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working
+Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into
+force by the Government of India.
+7 / 8
+For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or
+notifications, the corresponding provisions of the pre-existing labour enactments (such as The
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The
+Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules)
+shall continue to remain applicable.
+The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:
+All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove;
+and
+All operative provisions of the erstwhile Labour Laws until their complete substitution.
+All obligations relating to wages, social security, safety, working conditions, industrial relations etc.
+and any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-
+compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate
+action in accordance with the contract and applicable law.
+This Bid is governed by the General Terms and Conditions, conditions stipulated in Bid and Service
+Level Agreement specific to the Service, as the case may be, as provided in the Marketplace.
+However, in case of Service, if any condition specified in General Terms and Conditions is
+contradicted by the conditions stipulated in Service Level Agreement specific to said Service, then it
+will over-ride the conditions in the General Terms and Conditions.
+यह
+ 
+बड
+ 
+सामाlय
+ 
+शत8
+ 
+के
+ 
+अंतग%त
+ 
+भी
+ 
+शािसत
+ 
+है
+ 
+/This Bid is also governed by the General Terms and Conditions
+जेम
+ 
+क
+ 
+सामाlय
+ 
+शत8
+ 
+के
+ 
+खंड
+ 26 
+के
+ 
+संदभ%
+ 
+म*
+ 
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+के
+ 
+बडर
+ 
+से
+ 
+खरद
+ 
+पर
+ 
+5ितबंध
+ 
+के
+ 
+संबंध
+ 
+म*
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+का
+ 
+कोई
+ 
+भी
+ 
+बडर
+ 
+इस
+ 
+िनवदा
+ 
+म*
+ 
+बड
+ 
+देने
+ 
+के
+ 
+िलए
+ 
+तभी
+ 
+पा 
+ 
+होगा
+ 
+जब
+ 
+वह
+ 
+बड
+ 
+देने
+ 
+वाला
+सVम
+ 
+5ािधकार
+ 
+के
+ 
+पास
+ 
+पंजीकृत
+ 
+हो
+।
+बड
+ 
+म*
+ 
+भाग
+ 
+लेते
+ 
+समय
+ 
+बडर
+ 
+को
+ 
+इसका
+ 
+अनुपालन
+ 
+करना
+ 
+होगा
+ 
+और
+ 
+कोई
+ 
+भी
+ 
+गलत
+ 
+घोषणा
+ 
+>कए
+ 
+जाने
+व
+ 
+इसका
+ 
+अनुपालन
+ 
+न
+ 
+करने
+ 
+पर
+ 
+अनुबंध
+ 
+को
+ 
+तRकाल
+ 
+समाn
+ 
+करने
+ 
+और
+ 
+कानून
+ 
+के
+ 
+अनुसार
+ 
+आगे
+ 
+क
+ 
+कानूनी
+ 
+कार%वाई
+ 
+का
+ 
+आधार
+ 
+होगा
+।
+/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---
+धlयवाद
+धlयवाद
+/Thank You---
+8 / 8

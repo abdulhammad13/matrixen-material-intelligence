@@ -1,0 +1,181 @@
+NTPC Limited eProcurement Portal
+Tender Details
+Date : 01-Aug-2025 10:56 AM
+ Print
+Basic Details
+Organisation Chain NTPC Limited||Corporate Centre||USSC||CPG-1
+Tender Reference
+Number NTPC/USSC-CPG1/9900307445
+Tender ID 2025_NTPC_99000_1 Withdrawal Allowed Yes
+Tender Type Open Tender Form of contract Works
+Tender Category Works No. of Covers 3
+General Technical
+Evaluation Allowed Yes [Compliance Required] ItemWise Technical Evaluation
+Allowed No
+Payment Mode Online Is Multi Currency Allowed For
+BOQ No
+Is Multi Currency
+Allowed For Fee No Allow Two Stage Bidding No
+ 
+Payment Instruments
+Online
+Bankers
+S.No Bank Name
+1 SBI Bank
+Cover Details, No. Of Covers - 3
+Cover No Cover Document Type Description
+1 Fee .pdf Tender Fee
+Details
+.pdf EMD details
+2 PreQual/Technical .pdf
+Documents-1
+in support of
+meeting QR
+.pdf
+Documents-2
+in support of
+meeting QR
+.pdf Other
+documents
+3 Finance .xls Price Bid
+ 
+Tender Fee Details, [Total Fee in ₹ * - 2,655]
+Tender Fee in ₹ 2,655
+Fee Payable To Nil Fee Payable At Nil
+Tender Fee
+Exemption Allowed
+No
+EMD Fee Details
+EMD Amount in ₹ 2,00,000 EMD Exemption
+Allowed
+No
+EMD Fee Type fixed EMD Percentage NA
+EMD Payable To Nil EMD Payable At Nil
+BG Required No
+Minimum Direct
+EMD Payment in ₹
+0.00
+ 
+Click to view modification history
+ 
+Work /Item(s)
+Title Manufacturing of Cement fly Ash bricks through Automatic Brick Machines at VSTPS, NTPC Vindhyachal
+Work Description Manufacturing of Cement fly Ash bricks through Automatic Brick Machines at VSTPS, NTPC Vindhyachal
+Pre Qualification
+Details
+As per tender documents 
+Independent External
+Monitor/Remarks
+NA 
+Show Tender Value in
+Public Domain
+Yes 
+Tender Value in ₹ 1,43,25,000 Product Category Civil
+Works
+Sub category NA 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work(Days) 270 
+Location NTPC Vindhyachal,
+Vindhyanagar - Waidhan Rd,
+NTPC
+Pincode 486885 Pre Bid Meeting Place NA 
+Pre Bid Meeting
+Address
+NA Pre Bid Meeting Date NA Bid Opening Place Western Region
+Head QuartersII
+
+Should Allow NDA
+Tender
+No Allow Preferential
+Bidder
+No
+ 
+Critical Dates
+Publish Date 01-Aug-2025 11:30 AM Bid Opening Date 19-Aug-2025 03:00 PM
+Document Download / Sale Start
+Date
+01-Aug-2025 11:30 AM Document Download / Sale End
+Date
+18-Aug-2025 03:00 PM
+Clarification Start Date 01-Aug-2025 11:30 AM Clarification End Date 08-Aug-2025 11:00 AM 
+Bid Submission Start Date 01-Aug-2025 11:30 AM Bid Submission End Date 18-Aug-2025 03:00 PM
+ 
+ 
+Tender Documents
+NIT
+Document S.No Document Name Description Document Size
+(in KB)
+1 Tendernotice_1.pdf NIT 616.59
+ 
+Work Item
+Documents S.No Document Type Document Name Description Document Size
+(in KB)
+1 Tender Documents Tender_doc.rar Tender Doc 5543.18
+2 BOQ BOQ_102199.xls Price Bid 327.00
+3 Tender Documents SBD.rar SBD 14712.40
+ 
+ 
+View GTE Details - SERVICE GTE (OT- SINGLE STAGE-MLC-LAND BORDER CLAUSE)
+S.No Particulars Expected Value Mandatory
+1.0
+Confirm that you are a LOCAL SUPPLIER, and the LOCAL CONTENT included in the
+PACKAGE FOR COMPLETE SCOPE OF WORK meets the MINIMUM LOCAL CONTENT
+requirements of the Tender. - [ MLC Declaration for Services]
+Yes Yes
+2.0 Do you accept NTPC Safety Rules - [ SAFETY RULES COMPLIANCE] Yes Yes
+3.0 Do you accept the Fraud Prevention Policy of NTPC - [ FRAUD PREVENTION] Yes Yes
+4.0 Do you accept Withholding and Banning of Business Dealing Policy of NTPC - [
+BANNING POLICY DECLARATION] Yes Yes
+5.0
+Do you certify full compliance on clause as per tender documents on Restrictions
+on procurement from a Bidder of a country which shares a land border with India -
+[ LAND BORDER CLAUSE COMPLIANCE]
+Yes Yes
+6.0 Do you certify full compliance on Qualifying Requirements - [ QR COMPLIANCE] Yes Yes
+7.0 Do you certify full compliance to all provisions of Bid documents - [ NO DEVIATION
+CERTIFICATION] Yes Yes
+ 
+Auto Extension Corrigendum Properties for Tender
+Iteration No. of bids required for bid opening a tender Tender gets extended to No. of days
+1. 1 4
+2. 1 4
+3. 1 4
+ 
+Bid Openers List
+S.No Bid Opener Login Id Bid Opener Name Certificate Name
+1. kkarora@ntpc.co.in Keshav Krishana Arora KESHAV KRISHANA ARORA
+2. rishikshukla@ntpc.co.in RISHI KUMAR SHUKLA RISHI KUMAR SHUKLA
+3. pankajkumar07@ntpc.co.in PANKAJ KUMAR PANKAJ KUMAR
+4. pramodkumar04@ntpc.co.in Pramod Kumar PRAMOD KUMAR
+ 
+Tender Properties
+Auto Tendering Process
+allowed
+No Show Technical bid status No
+Show Finance bid
+status
+Yes Stage to disclose Bid Details in
+Public Domain
+Technical Bid Opening
+BoQ Comparative Chart
+model
+Normal BoQ Compartive chart decimal
+places
+2
+BoQ Comparative Chart
+Rank Type
+L Form Based BoQ No
+ 
+TIA Undertaking
+S.No Undertaking to Order Tender complying with Order Reason for non compliance of Order
+1 PPP-MII Order 2017 Agree
+2 MSEs Order 2012 Agree Being works case, it is not applicable
+ 
+Tender Inviting Authority
+Name PRAMOD KUMARDGM CnM
+Address Western Region Head QuartersII Plot No. -87, Sector-24, Atal RAIPUR 492018
+ 
+Tender Creator Details
+Created By Pramod Kumar
+Designation DGM
+Created Date 01-Aug-2025 10:23 AM
+ 

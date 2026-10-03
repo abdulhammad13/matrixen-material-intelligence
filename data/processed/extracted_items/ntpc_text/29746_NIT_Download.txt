@@ -1,0 +1,116 @@
+Government eProcurement System
+Tender Details
+Date : 23-Apr-2026 09:24 AM
+ Print
+Basic Details
+Organisation Chain Anushakti Vidhyut Nigam Limited (ASHVINI)||Mahi Banswara Rajasthan Atomic Power Project (MBRAPP) -
+Banswara
+Tender Reference
+Number MBRAPP/CMM/2026/Civil/10
+Tender ID 2026_ASHVI_272808_1 Withdrawal Allowed Yes
+Tender Type Open Tender Form of contract Item Rate
+Tender Category Works No. of Covers 3
+General Technical
+Evaluation Allowed No ItemWise Technical Evaluation
+Allowed No
+Payment Mode Offline Is Multi Currency Allowed For
+BOQ No
+Is Multi Currency
+Allowed For Fee No Allow Two Stage Bidding No
+ 
+Payment Instruments
+Offline S.No Instrument Type
+1 NEFT
+2 R-T-G-S
+Cover Details, No. Of Covers - 3
+Cover
+No Cover Document
+Type Description
+1 Fee .pdf EMD/Bid Security with
+supporting documents
+2 PreQual/Technical .pdf Tender Document
+.pdf GCC
+.xls TechnocommercialBidFormats.xls
+.rar Other supporting
+3 Finance .xls BOQ
+ 
+Tender Fee Details, [Total Fee in ₹ * - 0.00]
+Tender Fee in ₹ 0.00
+Fee Payable To Nil Fee Payable At Nil
+Tender Fee
+Exemption Allowed
+No
+EMD Fee Details
+EMD Amount in ₹ 9,18,904 EMD Exemption
+Allowed
+No
+EMD Fee Type percentage EMD Percentage 2.0%
+EMD Payable To Anushakti
+Vidhyut
+Nigam
+Limited
+EMD Payable At Anushakti
+Vidhyut
+Nigam
+Limited
+ 
+ 
+Work /Item(s)
+Title Construction of temporary office at MBRAPP site
+Work Description Construction of temporary office at MBRAPP site
+Pre Qualification
+Details
+As per Tender Document 
+Independent External
+Monitor/Remarks
+As per Tender Document 
+Tender Value in ₹ 4,59,45,181 Product Category Civil
+Works
+Sub category NA 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work(Days) 365 
+Location Mahi Banswara Rajasthan Atomic
+Power Project
+Pincode 327001 Pre Bid Meeting Place NA 
+Pre Bid Meeting
+Address
+NA Pre Bid Meeting Date NA Bid Opening Place MBRAPP
+Should Allow NDA
+Tender
+No Allow Preferential
+Bidder
+No
+ 
+Critical Dates
+Publish Date 16-Apr-2026 10:00 AM Bid Opening Date 08-May-2026 03:00 PM
+
+Document Download / Sale Start
+Date
+16-Apr-2026 10:00 AM Document Download / Sale End
+Date
+07-May-2026 03:00 PM
+Clarification Start Date 16-Apr-2026 10:00 AM Clarification End Date 23-Apr-2026 03:00 PM 
+Bid Submission Start Date 30-Apr-2026 10:00 AM Bid Submission End Date 07-May-2026 03:00 PM
+ 
+ 
+Tender Documents
+NIT
+Document S.No Document Name Description Document Size
+(in KB)
+1 Tendernotice_1.pdf TenderNotice 1516.10
+ 
+Work Item
+Documents S.No Document Type Document Name Description Document Size
+(in KB)
+1 Tender Documents 4_GCC_Ashvini.pdf GCC 2438.36
+2 Tender Documents 00_TD_TOB_MB_r3wp.pdf Tender Document 10006.59
+3 Tender Documents TechnocommercialBidFormats.xls TechnocommercialBidFormats.xls 223.00
+4 BOQ BOQ_318354.xls BOQ 434.00
+ 
+ 
+ 
+ 
+Tender Inviting Authority
+Name Senior Manager CMM
+Address Mahi Banswara Rajasthan Atomic Power Project, ASHVINI, PO Napla, Tehsil Chotti Sarwan, Distt Banswara,
+Rajasthan-327001
+ 

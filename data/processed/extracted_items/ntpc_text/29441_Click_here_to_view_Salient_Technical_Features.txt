@@ -1,0 +1,45 @@
+Salient Technical Features  
+for  
+EPC Package  for Development of 1000 MWh BESS Capacity  at NTPC 
+REL Bikaner Solar Plant 
+ 
+“Salient Technical Features of the equipment/ systems/ services covered in IFB No.               
+ NREL-CS-5800-004(BESS1)-9 are mentioned below. These Salient Technical Features 
+are mentioned only to facilitate the prospective bidders to prima -facie understand the 
+requirements under the tender and shall not in any way limit or alter the scope of work 
+and technical features/specification of equipment/ systems/ services covered in the 
+Bidding Documents. Detailed provisions in regard of scope of work and technical 
+features/specification of equipment/ systems/ services, contained in the Bidding 
+Document shall be final and binding.” 
+Name of the Project EPC Package  for Development of 1000 MWh BESS 
+Capacity  at NTPC REL Bikaner Solar Plant 
+Project capacity Project is in a single block as follows: 
+Block-1: 250 MW / 1000 MWh  (Single cycle 4 -hour 
+discharge) at NTPC REL Bikaner Solar Plant. 
+BESS Service Life Design life of BESS (with degraded capacity) shall be of 25 
+years for daily single cycle operation. 
+ 
+Comprehensive O&M along with augmentation for 15 years 
+to meet performance parameters as mentioned in Technical 
+specifications is included in the scope of this project.  
+ 
+Degradation As mentioned in Technical Specifications 
+ Design, Engineering, Supply, Packing and Forwarding, Transportation, Unloading, 
+Storage, Installation and Commissioning of grid connected Battery Energy Storage 
+System (BESS) on turnkey basis. 
+ Unloading at respective site, Erection, Testing, Commissioning, Integration of 
+above equipment with existing 33 kV System to commission a complete BESS  
+integrated with owner’s Solar plant and grid shall be included in scope of bidder.  
+ Comprehensive Operation and Maintenance (O&M) works of BESS system for 
+period of 15  years  from the date of commissioning shall be included in scope of bidder.  
+ Augmentation of BESS required for meeting performance criteria mentioned in 
+Technical Specifications shall be included in scope of bidder.  
+ BESS shall be handed over to owner at the end of period of 15 years in working 
+condition meeting the requirement mentioned in technical specifications. 
+ The BE SS shall comprise  of BESS containers with Battery Racks, Battery 
+Management System (BMS), Energy Management System (EMS) and SCADA, Power 
+Conversion System (PCS), Inverter Duty  Transformers , Protection system, Power 
+Evacuation system  upto owner’s 33 KV pooling switchgear , Cables, Communication 
+System, HT & LT System, Auxiliary power system, Monitoring & Control system, Fire 
+Fighting, remote control and monitoring, any other associated materials and services 
+necessary for trouble free operation and maintenance of the BESS. 

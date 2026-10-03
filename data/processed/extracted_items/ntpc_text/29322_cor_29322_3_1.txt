@@ -1,0 +1,1655 @@
+The following corrigendum is being issued to BOQ sheet: 
+“The total bid price in figures computed in Cell BA30 shall be taken as the final bid price for 
+evaluation and L1 determination, and the total bid price in words appearing in Cell C32 
+shall not be considered.” 
+Sr No Pg. No. Clause Requirement Specification Bidder Query/Responses NTPC Response
+1 156 Enterprise Storage Memory Storage must be configured with minimum 2 or more 100 Gbps 
+Interconnect ports per controller to ensure high speed inter-
+controller communication. 
+Dear Technical Committee, requesting you to kindly ammend the same 
+ever OEM has different design in going for inter-controller 
+communication. This clause is restriting us to participate however we can 
+provide Scale-out cluster to 65 Storage appliance in one cluster. 
+Revised Clause : 
+Storage must be configured with minimum 2 or more 100 Gbps 
+Interconnect Dedicated ports per controller to ensure high speed inter-
+controller communication for Scale-out cluster. Storage should support 
+minimum 20 Controllers in scale-out cluster configuration. 
+As per Amendment-2
+2 157 Enterprise Storage Memory Offered Storage must be configured  with minimum 128GB DRAM 
+based Global / Federated Cache / Memory per controller. Writes in 
+the cache must be protected in the event of unplanned power 
+outage by de-staging to persistent storage/ non-volatile storage or 
+battery backed cache.
+Dear Technical Committee, Requesting you to kindly seek 512GB Cache 
+per controller as it will provide better IOPS and safeguards future 
+investment. 
+Change Request:
+Offered Storage must be configured  with minimum 512GB DRAM based 
+Global / Federated Cache / Memory per controller. Writes in the cache 
+must be protected in the event of unplanned power outage by de-staging to 
+persistent storage/ non-volatile storage or battery backed cache.
+No change. Tender specifications with Amendment-1 
+shall prevail.
+3 157 Enterprise Storage Replication Offered Storage must be configured with required Licenses 
+to configure:
+1)  Synchronous  and  Asynchronous  Replication between 2 
+DCs.  DC sites can be >1000km away for block Protocols.
+Offered Storage replication should be secured by end-to-
+end       encryption       and       bandwidth
+optmization over a WAN link.
+Dear Technical Committee, Recommendation is to have FCIP routers over 
+such distance to ensure Replication consistency and commited RPO/ RTO 
+with out-of-band intransit encryption with ensuring to offload the network 
+optimization and secuity from the storage controller to ensure front-end IO 
+perfomance is met.
+Change Request :
+Synchronous and Asynchronous Replication between 2 DCs.  DC sites can 
+be >1000km away for block Protocols should be supported. Vendor to 
+ensure include FCIP Router to ensure out-of-band bandwith optimization 
+along with secuity and commited RPO/RTO for replication
+No change. Tender specifications with Amendment-1 
+shall prevail.
+4 158 Enterprise Storage High availability ii)Storage system must be offered in a NoSingle-Point of Failure
+offering upto 99.999 of availability with scale up and scale out 
+architecture for all protocols asked . 
+Dear Technical Committee, Requesting you to kindly seek At least 6 9's of 
+Availability to ensure industry standards for enterprises storage.
+Change Request:
+ii)Storage system must be offered in a NoSingle-Point of Failure offering 
+upto 99.9999% of availability with scale up and scale out architecture for 
+all protocols asked . 
+No change. Tender specifications with Amendment-1 
+shall prevail.
+RFP Reference: NTPC/EOC/9900316646  Technical Clarification_2
+5 158 Enterprise Storage Secutiry and 
+compliance
+Should offer :
+Autonomous ransomware detection and protection.
+Multifactor admin access .
+Secure multitenant shared storage.
+Data-at-rest encryption.
+Regulatory-compliant data retention.
+Multi-admin verification before executing sensitive commands.
+Dear Technical Committee, Ransomware detection has been indentified as 
+out-of-band solution WRT data storage by Cert-in guidelines . Ransomware 
+detection solution needs to be configured out of storage to ensure proper 
+protection and design. from Storage, Immutable snapshots has been 
+suggested and included ensuring even storage admins cannot change the 
+defined policy natively without backend OEM support.
+Change Request:
+Should have Immutable snapshots ensuring highest level of security in 
+changing the policies restricting even storage admin to change to safeguard 
+against ransomware attacks. 
+No change. Tender specifications with Amendment-1 
+shall prevail.
+1 156 Enterprise Storage Memory Storage must be configured with minimum 2 or more 100 Gbps 
+Interconnect ports per controller to ensure high speed inter-
+controller communication. 
+Dear Technical Committee, requesting you to kindly ammend the same 
+ever OEM has different design in going for inter-controller 
+communication. This clause is restriting us to participate however we can 
+provide Scale-out cluster to 65 Storage appliance in one cluster. 
+Revised Clause : 
+Storage must be configured with minimum 2 or more 100 Gbps 
+Interconnect Dedicated ports per controller to ensure high speed inter-
+controller communication for Scale-out cluster. Storage should support 
+minimum 20 Controllers in scale-out cluster configuration. 
+As per Amendment-2
+2 157 Enterprise Storage Memory Offered Storage must be configured  with minimum 128GB DRAM 
+based Global / Federated Cache / Memory per controller. Writes in 
+the cache must be protected in the event of unplanned power 
+outage by de-staging to persistent storage/ non-volatile storage or 
+battery backed cache.
+Dear Technical Committee, Requesting you to kindly seek 512GB Cache 
+per controller as it will provide better IOPS and safeguards future 
+investment. 
+Change Request:
+Offered Storage must be configured  with minimum 512GB DRAM based 
+Global / Federated Cache / Memory per controller. Writes in the cache 
+must be protected in the event of unplanned power outage by de-staging to 
+persistent storage/ non-volatile storage or battery backed cache.
+No change. Tender specifications with Amendment-1 
+shall prevail.
+3 157 Enterprise Storage Replication Offered Storage must be configured with required Licenses 
+to configure:
+1)  Synchronous  and  Asynchronous  Replication between 2 
+DCs.  DC sites can be >1000km away for block Protocols.
+Offered Storage replication should be secured by end-to-
+end       encryption       and       bandwidth
+optmization over a WAN link.
+Dear Technical Committee, Recommendation is to have FCIP routers over 
+such distance to ensure Replication consistency and commited RPO/ RTO 
+with out-of-band intransit encryption with ensuring to offload the network 
+optimization and secuity from the storage controller to ensure front-end IO 
+perfomance is met.
+Change Request :
+Synchronous and Asynchronous Replication between 2 DCs.  DC sites can 
+be >1000km away for block Protocols should be supported. Vendor to 
+ensure include FCIP Router to ensure out-of-band bandwith optimization 
+along with secuity and commited RPO/RTO for replication
+No change. Tender specifications with Amendment-1 
+shall prevail.
+4 158 Enterprise Storage High availability ii)Storage system must be offered in a NoSingle-Point of Failure 
+offering upto 99.999 of availability with scale up and scale out 
+architecture for all protocols asked . 
+Dear Technical Committee, Requesting you to kindly seek At least 6 9's of 
+Availability to ensure industry standards for enterprises storage.
+Change Request:
+ii)Storage system must be offered in a NoSingle-Point of Failure offering 
+upto 99.9999% of availability with scale up and scale out architecture for 
+all protocols asked . 
+No change. Tender specifications with Amendment-1 
+shall prevail.
+5 158 Enterprise Storage Secutiry and 
+compliance
+Should offer :
+Autonomous ransomware detection and protection.
+Multifactor admin access .
+Secure multitenant shared storage.
+Data-at-rest encryption.
+Regulatory-compliant data retention.
+Multi-admin verification before executing sensitive commands.
+Dear Technical Committee, Ransomware detection has been indentified as 
+out-of-band solution WRT data storage by Cert-in guidelines . Ransomware 
+detection solution needs to be configured out of storage to ensure proper 
+protection and design. from Storage, Immutable snapshots has been 
+suggested and included ensuring even storage admins cannot change the 
+defined policy natively without backend OEM support.
+Change Request:
+Should have Immutable snapshots ensuring highest level of security in 
+changing the policies restricting even storage admin to change to safeguard 
+against ransomware attacks. 
+No change. Tender specifications with Amendment-1 
+shall prevail.
+6 170 SCOPE OF WORK List of items for buyback Kindly provide the serial number and configuration of components 
+proposed for buyback.
+Details are provided in the Annexure. Refer Annexure-1 to 
+Clarification-2
+7 146 SCOPE OF WORK The system spare parts, as and when required, and complete 
+maintenance of the system in future, shall be guaranteed for a 
+period not less than 6 years from the date of acceptance of the 
+system by the Owner.
+Kindly clarify the details and quantity of spare parts required to be covered 
+under the above clause, so that all bidders have a common understanding 
+and are aligned on the scope of spares during the 6-year support and 
+maintenance period.
+It is clarified that all spares required for the complete 
+maintenance of the system for the period 6 years from the date 
+of acceptance , shall be guaranteed and made available from 
+OEM. 
+8 148 SCOPE OF WORK The provision of earthing/grounding system if required for new 
+equipment in addition to present earthing/grounding facility shall 
+be in the scope of the bidder. NTPC shall provide 42U rack for the 
+installation. However, PDUs , cable manager or any other 
+accessories for the rack shall be in the scope of bidder.
+Kindly clarify the following:
+1.Kindly confirm gthat rack provided by NTPC is equipped with Fans for 
+cooling or bidder needs to provide the same.
+2.The exact dimensions andof the 42U rack to be provided by NTPC (height, 
+width, depth, make/model, and load capacity).
+Detail for racks is as below :
+1. Racks are equipped with fans.
+2. DC-Noida : President Smart rack 42U, Load capacity 700KG, 
+Outer dimension(appox.) : W - 52cm, H-225cm, D-125cm. 
+3. DR-Hyderabad : Netrack 42-RF, Load capacity 700KG, Outer 
+dimension(appox.) W-80cm, H-200cm, d-100cm
+Annexure – 1 to Clarification-2 
+List of items for buyback (on as-is-where-is basis)  at DC-Noida 
+Sno Item Description Configuration  
+(Indicative) 
+Year of 
+purchase 
+Qty 
+1 HP 3 PAR Storage System  
+(HP 3PAR Store Serv 7400N -1No-Sno. 4C13446294 
+HP 3PAR M6710-3No-Sno. 4C13446805, 4C13446806,  
+HP 3PAR Store Serv M6720 -1 No-Sno 4C13446818 
+HP DL320E G8 – 1No – Sno. SGH34306DG 
+HP MSL 4048 -1 No – Sno. MXA342Z00Y 
+HP DL360e G8 – 2Nos – Sno. SGH3447K14, SGH3457RCM 
+HP  Store Easy 3830-2Nos- Sno. SGH3447K66, SGH3447K67 
+HP 5500 HI Network Switches-2Nos Sno. CN39FGG0K7, CN39FGG0M2 
+HP Storage Work 8/24 SAN Switches – 2 Nos – Sno. CZC340UGSD , 
+CZC340UGPT ) 
+Unified storage 
+system with 25TB 
+SAS and 22TB NL-
+SAS capacity,  
+Dual SAN switches  
+, dual Network 
+switches and tape 
+library  
+2014 1 Set 
+2 Dell Power Edge R630 Rack Servers 
+( Single  CPU / Dual CPU Servers ) ( Sno. 
+6JLJ862,1NQ9S62,1NPCS62,6NYZT72,6NZYT72, 
+6NZ1V72,6NZ4V72,48l2v72,16KDS62, 
+6JLH862,16LBS62,16N9S62,16M9S6, 
+48k3v72,16MJS62,16MBS62,16JDS62 , 6JLGH62) 
+Single CPU/Dual  
+intel xeon, 
+32/64GB RAM 
+,8x300GB SAS 
+10K RPM HDD  
+ 
+2015 18 Nos 
+3 Acer Altos R380 F3 Dual CPU Rack Servers ( Sno. BQWL64954033, 
+BQWL64954112, BQWL64954300, BQWL64954063 ) 
+Dual Intel E5 2630 
+Processors, 64GB 
+RAM, 8*600GB 
+SAS Disks 
+2017 4 Nos 
+4 Acer Altos R380 F3 Dual CPU Rack Servers (USRAASI016I0768435, 
+USRAASI016I0768439 ) 
+Dual Inter E5 
+2620, 64GB RAM, 
+8*600GB SAS 
+disks 
+2018 2 Nos 
+5 Fujitsu Primergy RX 300 Dual CPU, 2U Rack Servers, Sno. 
+YLAR038013, YLAR038015,  YLAR038014, YLAR038017, YLAR038018,  
+) 
+2 x Intel Xeon E5 
+Family processor, 
+96GB RAM, 
+6x300GB SAS 
+disks 
+2014 6 Nos 
+6 Fujitsu Primergy RX 600 ( Quad CPU, 4U Rack Servers Sno. 
+YLCE005654, YLCE005655) 
+4 x Intel Xeon E7 
+Family processor, 
+256GB RAM, 6 x 
+300GB SAS disks  
+2014 2 Nos 
+7 KVM Switch  
+( Dlink KVM-440 and Austin Hughes N117e Display ) 
+ 2014 1 No 
+8 HP ProLiant ML350 Rack Servers ( Sno. SGH301JS4R, SGH301JS4P, 
+SGH301JS4N, SGH116X23X, SGH116X240 ) 
+2 x Intel Xeon 
+5640 CPU, 16GB 
+RAM, 6 x 146GB 
+SAS disks  
+2012 5 Nos 
+ 
+List of items for buyback (on as-is-where-is basis)  at DRC-Hyderabad 
+Sno Item Description Configuration Year of 
+purchase 
+Qty 
+1 HP 3 PAR Storage System : 
+( HP 3PAR Store Serv 7400N -1No – Sno-4C13446302 
+HP DL320E G8 – 1No – Sno. SGH34306DJ ,  
+Unified storage 
+system with 15TB 
+SAS disks, Dual SAN 
+2014 1 Set 
+HP  Store Easy 3830-2Nos -  Sno SGH3447K63, SGH3447K64,   
+HP 5500 HI Network Switches-2Nos – Sno. CN39FGG0D5, 
+CN39FGG0P0  
+HP Storage Work 8/24 SAN Switches – 2 Nos- CZC341UGZT, 
+CZC341UGZY) 
+switches  , dual 
+Network switches 
+2 Dell Power Edge R630 Rack Servers ( Sno. 16KHS62, 16JJS62) Single CPU intel xeon, 
+32GB RAM ,6x300GB 
+SAS 10K RPM HDD  
+ 
+2016 2 No. 
+3 Array Network  Load balancer ( APV 5200 Sno. 1211D1192)  Array APV 5200 2013 1 No 
+ 
+ 
+Sr No Pg. No. Clause Requirement Existing specification Amended specification
+1 156 Enterprise Storage  Controller 
+Storage must be configured with minimum 2 or more 100 Gbps 
+Interconnect ports per controller to ensure high speed inter-
+controller communication. 
+Storage must be configured with minimum 2 Nos of  Interconnect 
+ports(100 Gbps ) or dedicated ports  per controller for  inter-controller 
+communication. 
+2 164 Backup software Sno. 13 Online Backup agent for Databases such MS SQL and Oracle 
+backup shall be provided.
+Online Backup agent for Databases such MS SQL, SAP Sybase and 
+Oracle backup shall be provided.
+RFP Reference: NTPC/EOC/9900316646                                                                                                                                   Technical Amendment_2
+Sr No Pg. No. Clause Requirement Specification Bidder Query/Responses NTPC Response
+1 154 Servers System Processors (i)    Intel Xeon Gold 6442Y or AMD EPYC 9254 or higher (i)    Intel Xeon Gold 6542Y or AMD EPYC 9255 or higher Refer Tender specs. Higher specification is also acceptable.
+2 154 Servers System RAM 1 TB (DDR5 RDIMM ECC) 1 TB (DDR5 RDIMM ECC). Same Server should be able to scale 
+twice the current memory without removing provided Memory 
+Modules.
+No change. Tender specifications shall prevail.
+3 154 Servers System Network iii.  Dual 1GbE  Ports iii.  Quad 1GbE  Copper Ports As per Amendment-1
+4 154 Servers System Network vi.  All transceivers should be from same OEM of servers. vi.  All transceivers should be provided from same OEM of 
+servers. Server should be offered with 6x PCI-e Gen5.0 slots to 
+achieve higher performance for populated Network cards.
+As per Amendment-1
+5 155 Servers System Security Features A) Secure Boot(Firmware and Bios Level Security),Provision to lock 
+the system on breach, Hardware root of trust/Dual Root of Trust, 
+Server should provide policy based security, Server should provide 
+server intrusion detection, "Malicious Code Free design" (to be 
+certified by OEM)
+A) Secure Boot(Firmware and Bios Level Security),Provision to 
+lock the system on breach, Hardware root of trust/Dual Root of 
+Trust, Server should provide policy based security, Server 
+should provide server intrusion detection, "Malicious Code Free 
+design" (to be certified by OEM), FIPS 140-2, EAL4+, OEM 
+security Bezel and Lock kit, NIST and PCI-DSS 
+No change. Tender specifications shall prevail.
+6 155 Servers System        i.    Should be connected to access Enterprise Storage through 
+redundant SAN paths. 
+       i.    Should be connected to access Enterprise Storage 
+through redundant Adapters.
+As per Amendment-1
+7 155 Servers System      ii.    Should be connected to Network through redundant 10G LAN 
+paths. 
+     ii.    Should be connected to Network through redundant 10G 
+Adapters. 
+As per Amendment-1
+8 156 Enterprise Storage Architecture Offered Storage must have scale-up and scale- out  architecture  for  
+SAN,  it  must  scale  to  8  or more  controllers  for  future  
+expansion.  It  must support   mixing   of   controllers   within   same 
+generation  and  across  generation  of  controller models,   it   must   
+also   support   data   in   place upgrades  for  the  Storage  controllers  
+to  higher generation of controllers while data is intact in old
+NVMe media.
+Offered Storage must have scale-up and scale- out  architecture  
+for  SAN,  it  must  scale  to  4  controllers  for  future  expansion 
+& all LUN's and drives should be accessible through all 
+controllers. it   must   also   support   data   in   place upgrades  
+for  the  Storage  controllers  to  higher generation of 
+controllers while data is intact in old NVMe media.
+As per Amendment-1
+9 156 Enterprise Storage Memory Offered   Storage   must   be   configured      with minimum    128GB    
+DRAM    based    Global    / Federated Cache / Memory per 
+controller. Writes in  the  cache  must  be protected  in  the  event  of 
+unplanned   power   outage   by   de-staging   to persistent storage/ 
+non-volatile storage or battery backed cache.
+Offered   Storage   must   be   configured      with minimum    
+512 GB    DRAM    based    Global    / Federated Cache / Memory 
+per controller. Writes in  the  cache  must  be protected  in  the  
+event  of unplanned   power   outage   by   de-staging   to 
+persistent storage/ non-volatile storage or battery backed 
+cache.
+No change. Tender specifications shall prevail.
+10 157 Enterprise Storage Deduplication and 
+Compression
+Offered  Storage  must  provide  Inline  as  well  as Post-Process  
+deduplication,  compression.  Data reduction must be maintained 
+while Tiering and
+replicating the data.
+Offered  Storage  must provide inline deduplication,  
+compression.  
+As per Amendment-1
+11 157 Enterprise Storage Replication Offered Storage must be configured with required Licenses to 
+configure:
+1)  Synchronous  and  Asynchronous  Replication between 2 DCs.  DC 
+sites can be >1000km away for block Protocols.
+Offered Storage replication should be secured by end-to-end       
+encryption       and       bandwidth
+optmization over a WAN link.
+Offered Storage must be configured with required Licenses to 
+configure:
+1)  Synchronous  and  Asynchronous  Replication between 2 
+DCs.  DC sites can be >1000km away for block Protocols.
+As per Amendment-1
+Connectivity to 
+Storage and Network
+RFP Reference: NTPC/EOC/9900316646                                                                                                                                                                                                            Technical Clarification_1
+12 158 Enterprise Storage Storage efficiency i.    Inline data compression, deduplication, and compaction
+ii.   Space-efficient LUN and volume cloning
+iii.  Automatic data tiering
+i.    Inline data compression, deduplication, and compaction
+ii.   Space-efficient LUN and volume cloning
+As per Amendment-1
+13 159 Backup Storage Controller Should   have   dual   (   Active-Active   controller architecture).
+Storage must be configured with minimum 2 or more 100 Gbps 
+Interconnect ports per controller to      ensure      high      speed      
+inter-controller
+communication.
+Backup hardware should be a purpose-built backup appliance. 
+The backup solution should not be any single point of failure it 
+should have redundant power supply, cooling fans, NIC card 
+and FC ports. 
+As per Amendment-1
+14 159 Backup Storage Capacity Usable capacity of 50 TB using SAS or NL-SAS disks ( Usage capacity - 
+should be achieved :
+a.   after concurrent dual drive failure protection
+b.   using RAID 5/6 configuration
+c.   using each disk capacity not more than 16TB).
+ii.         Minimum one disk should be configured as hot spare.
+iii.        Expandable to minimum usable capacity of 350TB using same 
+capacity disks by adding only disks.
+Usable capacity of 50 TB using SAS or NL-SAS disks ( Usage 
+capacity - should be achieved :
+a.   after concurrent dual drive failure protection
+b.   using RAID 5/6 configuration
+c.   using each disk capacity not more than 16TB).
+ii.        Expandable to minimum usable capacity of 200TB using 
+same capacity disks by adding only disks.
+As per Amendment-1
+15 159 Backup Storage Memory Offered   Storage   must   be   configured      with minimum 64GB 
+DRAM based Global/Federated Cache/Memory per controller. 
+Writes in the cache must  be  protected  in  the  event  of  unplanned 
+power   outage    by    de-staging   to    persistent
+storage/  non-volatile  storage  or  battery  backed cache.
+Must be offered with battery backed up RAM / NVRAM for 
+protection against data loss in power failure scenario and 
+continuous automated file system check to ensure data 
+integrity
+As per Amendment-1
+16 160 Backup Storage Storage networking The storage operating system must provide  FC, iSCSI       protocols  
+natively  to support heterogeneous application environment.
+Offered purpose built backup appliance shall support emulation 
+of both VTL and NAS target like NFS and CIFS.
+As per Amendment-1
+17 160 Backup Storage High availability i.  Nondisruptive maintenance, upgrade, and scale-out clustering
+ii.  Storage system must be offered in a No-
+Single-Point of Failure
+The backup solution should not be any single point of failure it 
+should have redundant power supply, cooling fans, NIC card 
+and FC ports. 
+As per Amendment-1
+18 160 Backup Storage Compression & 
+deduplication
+Offered Storage must support  Inline as well as Post-Process 
+deduplication, compression on Block data. Data reduction must be 
+maintained
+while Tiering and replicating the data.
+Offered Storage must support both source & target based 
+deduplication & compression. Data reduction must be 
+maintained while replicating the data.
+As per Amendment-1
+19 160 Backup Storage Security and 
+compliance
+Should offer :
+Autonomous ransomware detection and protection.
+Multifactor admin access .
+Secure multitenant shared storage. Data-at-rest encryption.
+Regulatory-compliant data retention. Multi-admin verification before 
+executing sensitive commands.
+The backup solution along with backup software should offer :
+Autonomous ransomware detection and protection.
+Multifactor admin access .
+Secure multitenant shared storage. Data-at-rest encryption.
+Regulatory-compliant data retention. Multi-admin verification 
+before executing
+sensitive commands.
+As per Amendment-1
+20 161 Network Switch Make To be specified by the bidder (Preferably of same make as Controller & APs)Remove this clause As per Amendment-1
+21 161 Network Switch Switching Backplane 
+Bandwidth
+At least 6400 Gbps or more At least 700 Gbps or more As per Amendment-1
+22 161 Network Switch RAM & Flash Additional Pointer "8GB DDR4 & 32GB Flash" No change. Tender specifications shall prevail.
+23 161 Network Switch Packet Buffer Additional Pointer "16MB or more" No change. Tender specifications shall prevail.
+24 164 Backup Server Processor   i.    Intel Xeon Silver 4309Y or AMD EPYC 7313P or higher   i.    Intel Xeon Silver 4509Y or AMD EPYC 9115 or higher As per Amendment-1
+25 164 Backup Server Processor iv.    Base Frequency of processor >= 2.8Ghz iv.    Base Frequency of processor >= 2.6Ghz As per Amendment-1
+26 165 Backup Server Network iii.             Dual 1GbE  Copper Ports iii.             Quad 1GbE  Copper Ports No change. Tender specifications shall prevail.
+27 165 Backup Server Network v.      All transceivers should be from same OEM of servers. vi.     All transceivers should be provided from same OEM of 
+servers. Server should be offered with 6x PCI-e Gen5.0 slots to 
+achieve higher performance for populated Network cards.
+As per Amendment-1
+28 165 Backup Server Management 
+Features
+Remote power On/ Shutdown of server, Remote Management of 
+Server over LAN & WAN with SSL encryption through gigabit 
+management port, ,Should have virtual Media support with all 
+required licenses. Remote KVM ,Server Health Logging, Out of Band 
+Management. . Server OEM’s Management software to be provided. 
+Real-time power meter, temperature monitoring,  Monitoring of 
+fans, power supply, memory, CPU, RAID, NIC for failures.
+Remote power On/ Shutdown of server, Remote Management 
+of Server over LAN & WAN with SSL encryption through gigabit 
+management port, ,Should have virtual Media support with all 
+required licenses. Remote KVM ,Server Health Logging, Out of 
+Band Management. . Server OEM’s Management software to 
+be provided. Monitoring of fans, power supply, memory, CPU, 
+RAID, NIC for failures.
+As per Amendment-1
+29 165 Backup Server Security Features i) Secure Boot(Firmware and Bios Level Security),Provision to lock 
+the system on breach, Hardware root of trust/Dual Root of Trust, 
+Server should provide policy based security, Server should provide 
+server intrusion detection, "Malicious Code Free design" (to be 
+certified by OEM)
+A) Secure Boot(Firmware and Bios Level Security),Provision to 
+lock the system on breach, Hardware root of trust/Dual Root of 
+Trust, Server should provide policy based security, Server 
+should provide server intrusion detection, "Malicious Code Free 
+design" (to be certified by OEM), FIPS 140-2, EAL4+, OEM 
+security Bezel and Lock kit, NIST and PCI-DSS.
+No change. Tender specifications shall prevail.
+30 165 Backup Server On site OEM 
+Warranty 
+Minimum 6 years. OEM Warranty Support on 24x7 365 days ( highest 
+level of support). 
+Minimum 6 years. OEM Warranty Support on 24x7 365 days 
+(highest level of support) , maximum six (06) hours resolution 
+time.
+As per Amendment-1
+31 166 Backup Server Network Connectivity Should be connected to Network through redundant 10G LAN paths.      ii.    Should be connected to Network through redundant 10G 
+Adapters. 
+No change. Tender specifications shall prevail.
+32
+33 154 Servers System Processors (i)    Intel Xeon Gold 6442Y or AMD EPYC 9254 or higher (i)    Intel Xeon Gold 6542Y or AMD EPYC 9255 or higher Refer Tender specs. Higher specification is also acceptable .
+34 154 Servers System RAM 1 TB (DDR5 RDIMM ECC) 1 TB (DDR5 RDIMM ECC). Same Server should be able to scale 
+twice the current memory without removing provided Memory 
+Modules.
+No change. Tender specifications shall prevail.
+35 154 Servers System Network iii.  Dual 1GbE  Ports iii.  Quad 1GbE  Copper Ports As per Amendment-1
+36 154 Servers System Network vi.  All transceivers should be from same OEM of servers. vi.  All transceivers should be provided from same OEM of 
+servers. Server should be offered with 6x PCI-e Gen5.0 slots to 
+achieve higher performance for populated Network cards.
+As per Amendment-1
+37 155 Servers System Security Features A) Secure Boot(Firmware and Bios Level Security),Provision to lock 
+the system on breach, Hardware root of trust/Dual Root of Trust, 
+Server should provide policy based security, Server should provide 
+server intrusion detection, "Malicious Code Free design" (to be 
+certified by OEM)
+A) Secure Boot(Firmware and Bios Level Security),Provision to 
+lock the system on breach, Hardware root of trust/Dual Root of 
+Trust, Server should provide policy based security, Server 
+should provide server intrusion detection, "Malicious Code Free 
+design" (to be certified by OEM), FIPS 140-2, EAL4+, OEM 
+security Bezel and Lock kit, NIST and PCI-DSS 
+No change. Tender specifications shall prevail.
+38 155 Servers System        i.    Should be connected to access Enterprise Storage through 
+redundant SAN paths. 
+       i.    Should be connected to access Enterprise Storage 
+through redundant Adapters.
+As per Amendment-1
+39 155 Servers System      ii.    Should be connected to Network through redundant 10G LAN 
+paths. 
+     ii.    Should be connected to Network through redundant 10G 
+Adapters. 
+As per Amendment-1
+Connectivity to 
+Storage and Network
+40 156 Enterprise Storage Architecture Offered Storage must have scale-up and scale- out  architecture  for  
+SAN,  it  must  scale  to  8  or more  controllers  for  future  
+expansion.  It  must support   mixing   of   controllers   within   same 
+generation  and  across  generation  of  controller models,   it   must   
+also   support   data   in   place upgrades  for  the  Storage  controllers  
+to  higher generation of controllers while data is intact in old
+NVMe media.
+Offered Storage must have scale-up and scale- out  architecture  
+for  SAN,  it  must  scale  to  4  controllers  for  future  expansion 
+& all LUN's and drives should be accessible through all 
+controllers. it   must   also   support   data   in   place upgrades  
+for  the  Storage  controllers  to  higher generation of 
+controllers while data is intact in old NVMe media.
+As per Amendment-1
+41 156 Enterprise Storage Memory Offered   Storage   must   be   configured      with minimum    128GB    
+DRAM    based    Global    / Federated Cache / Memory per 
+controller. Writes in  the  cache  must  be protected  in  the  event  of 
+unplanned   power   outage   by   de-staging   to persistent storage/ 
+non-volatile storage or battery backed cache.
+Offered   Storage   must   be   configured      with minimum    
+512 GB    DRAM    based    Global    / Federated Cache / Memory 
+per controller. Writes in  the  cache  must  be protected  in  the  
+event  of unplanned   power   outage   by   de-staging   to 
+persistent storage/ non-volatile storage or battery backed 
+cache.
+No change. Tender specifications shall prevail.
+42 157 Enterprise Storage Deduplication and 
+Compression
+Offered  Storage  must  provide  Inline  as  well  as Post-Process  
+deduplication,  compression.  Data reduction must be maintained 
+while Tiering and
+replicating the data.
+Offered  Storage  must provide inline deduplication,  
+compression.  
+As per Amendment-1
+43 157 Enterprise Storage Replication Offered Storage must be configured with required Licenses to 
+configure:
+1)  Synchronous  and  Asynchronous  Replication between 2 DCs.  DC 
+sites can be >1000km away for block Protocols.
+Offered Storage replication should be secured by end-to-end       
+encryption       and       bandwidth
+optmization over a WAN link.
+Offered Storage must be configured with required Licenses to 
+configure:
+1)  Synchronous  and  Asynchronous  Replication between 2 
+DCs.  DC sites can be >1000km away for block Protocols.
+As per Amendment-1
+44 158 Enterprise Storage Storage efficiency i.    Inline data compression, deduplication, and compaction
+ii.   Space-efficient LUN and volume cloning
+iii.  Automatic data tiering
+i.    Inline data compression, deduplication, and compaction
+ii.   Space-efficient LUN and volume cloning
+As per Amendment-1
+45 159 Backup Storage Controller Should   have   dual   (   Active-Active   controller architecture).
+Storage must be configured with minimum 2 or more 100 Gbps 
+Interconnect ports per controller to      ensure      high      speed      
+inter-controller
+communication.
+Backup hardware should be a purpose-built backup appliance. 
+The backup solution should not be any single point of failure it 
+should have redundant power supply, cooling fans, NIC card 
+and FC ports. 
+As per Amendment-1
+46 159 Backup Storage Capacity Usable capacity of 50 TB using SAS or NL-SAS disks ( Usage capacity - 
+should be achieved :
+a.   after concurrent dual drive failure protection
+b.   using RAID 5/6 configuration
+c.   using each disk capacity not more than 16TB).
+ii.         Minimum one disk should be configured as hot spare.
+iii.        Expandable to minimum usable capacity of 350TB using same 
+capacity disks by adding only disks.
+Usable capacity of 50 TB using SAS or NL-SAS disks ( Usage 
+capacity - should be achieved :
+a.   after concurrent dual drive failure protection
+b.   using RAID 5/6 configuration
+c.   using each disk capacity not more than 16TB).
+ii.        Expandable to minimum usable capacity of 200TB using 
+same capacity disks by adding only disks.
+As per Amendment-1
+47 159 Backup Storage Memory Offered   Storage   must   be   configured      with minimum 64GB 
+DRAM based Global/Federated Cache/Memory per controller. 
+Writes in the cache must  be  protected  in  the  event  of  unplanned 
+power   outage    by    de-staging   to    persistent
+storage/  non-volatile  storage  or  battery  backed cache.
+Must be offered with battery backed up RAM / NVRAM for 
+protection against data loss in power failure scenario and 
+continuous automated file system check to ensure data 
+integrity
+As per Amendment-1
+48 160 Backup Storage Storage networking The storage operating system must provide  FC, iSCSI       protocols  
+natively  to support heterogeneous application environment.
+Offered purpose built backup appliance shall support emulation 
+of both VTL and NAS target like NFS and CIFS.
+As per Amendment-1
+49 160 Backup Storage High availability i.  Nondisruptive maintenance, upgrade, and scale-out clustering
+ii.  Storage system must be offered in a No-
+Single-Point of Failure
+The backup solution should not be any single point of failure it 
+should have redundant power supply, cooling fans, NIC card 
+and FC ports. 
+As per Amendment-1
+50 160 Backup Storage Compression & 
+deduplication
+Offered Storage must support  Inline as well as Post-Process 
+deduplication, compression on Block data. Data reduction must be 
+maintained
+while Tiering and replicating the data.
+Offered Storage must support both source & target based 
+deduplication & compression. Data reduction must be 
+maintained while replicating the data.
+As per Amendment-1
+51 160 Backup Storage Security and 
+compliance
+Should offer :
+Autonomous ransomware detection and protection.
+Multifactor admin access .
+Secure multitenant shared storage. Data-at-rest encryption.
+Regulatory-compliant data retention. Multi-admin verification before 
+executing sensitive commands.
+The backup solution along with backup software should offer :
+Autonomous ransomware detection and protection.
+Multifactor admin access .
+Secure multitenant shared storage. Data-at-rest encryption.
+Regulatory-compliant data retention. Multi-admin verification 
+before executing
+sensitive commands.
+As per Amendment-1
+52 161 Network Switch Make To be specified by the bidder (Preferably of same make as Controller & APs)Remove this clause As per Amendment-1
+53 161 Network Switch Switching Backplane 
+Bandwidth
+At least 6400 Gbps or more At least 700 Gbps or more As per Amendment-1
+54 161 Network Switch RAM & Flash Additional Pointer "8GB DDR4 & 32GB Flash" No change. Tender specifications shall prevail.
+55 161 Network Switch Packet Buffer Additional Pointer "16MB or more" No change. Tender specifications shall prevail.
+56 164 Backup Server Processor   i.    Intel Xeon Silver 4309Y or AMD EPYC 7313P or higher   i.    Intel Xeon Silver 4509Y or AMD EPYC 9115 or higher As per Amendment-1
+57 164 Backup Server Processor iv.    Base Frequency of processor >= 2.8Ghz iv.    Base Frequency of processor >= 2.6Ghz As per Amendment-1
+58 165 Backup Server Network iii.             Dual 1GbE  Copper Ports iii.             Quad 1GbE  Copper Ports No change. Tender specifications shall prevail.
+59 165 Backup Server Network v.      All transceivers should be from same OEM of servers. vi.     All transceivers should be provided from same OEM of 
+servers. Server should be offered with 6x PCI-e Gen5.0 slots to 
+achieve higher performance for populated Network cards.
+As per Amendment-1
+60 165 Backup Server Management 
+Features
+Remote power On/ Shutdown of server, Remote Management of 
+Server over LAN & WAN with SSL encryption through gigabit 
+management port, ,Should have virtual Media support with all 
+required licenses. Remote KVM ,Server Health Logging, Out of Band 
+Management. . Server OEM’s Management software to be provided. 
+Real-time power meter, temperature monitoring,  Monitoring of 
+fans, power supply, memory, CPU, RAID, NIC for failures.
+Remote power On/ Shutdown of server, Remote Management 
+of Server over LAN & WAN with SSL encryption through gigabit 
+management port, ,Should have virtual Media support with all 
+required licenses. Remote KVM ,Server Health Logging, Out of 
+Band Management. . Server OEM’s Management software to 
+be provided. Monitoring of fans, power supply, memory, CPU, 
+RAID, NIC for failures.
+As per Amendment-1
+61 165 Backup Server Security Features i) Secure Boot(Firmware and Bios Level Security),Provision to lock 
+the system on breach, Hardware root of trust/Dual Root of Trust, 
+Server should provide policy based security, Server should provide 
+server intrusion detection, "Malicious Code Free design" (to be 
+certified by OEM)
+A) Secure Boot(Firmware and Bios Level Security),Provision to 
+lock the system on breach, Hardware root of trust/Dual Root of 
+Trust, Server should provide policy based security, Server 
+should provide server intrusion detection, "Malicious Code Free 
+design" (to be certified by OEM), FIPS 140-2, EAL4+, OEM 
+security Bezel and Lock kit, NIST and PCI-DSS.
+No change. Tender specifications shall prevail.
+62 165 Backup Server On site OEM 
+Warranty 
+Minimum 6 years. OEM Warranty Support on 24x7 365 days ( highest 
+level of support). 
+Minimum 6 years. OEM Warranty Support on 24x7 365 days 
+(highest level of support) , maximum six (06) hours resolution 
+time.
+As per Amendment-1
+63 166 Backup Server Network Connectivity Should be connected to Network through redundant 10G LAN paths.      ii.    Should be connected to Network through redundant 10G 
+Adapters. 
+No change. Tender specifications shall prevail.
+64 164 Backup Software Clause 13 Online Backup agent for Databases such MS SQL and Oracle backup 
+shall be provided.
+Please confirm if transactional consistent backup and granular 
+backup and recovery is required for MS SQL and Oracle in 
+standalone and cluster deployment.
+No change. Tender specifications shall prevail.
+65 164 Backup Software Clause 16 The proposed backup software has certified “hot-online” backup 
+solution for different type of databases like MS SQL, Oracle and DB2
+Please confirm if transactional consistent backup and granular 
+backup and recovery is required for MS SQL and Oracle in 
+standalone and cluster deployment.
+No change. Tender specifications shall prevail.
+66 154 Servers System Processors (i)    Intel Xeon Gold 6442Y or AMD EPYC 9254 or higher (i)    Intel Xeon Gold 6542Y or AMD EPYC 9255 or higher Refer Tender specs. Higher specification is also acceptable .
+67 154 Servers System RAM 1 TB (DDR5 RDIMM ECC) 1 TB (DDR5 RDIMM ECC). Same Server should be able to scale 
+twice the current memory without removing provided Memory 
+Modules.
+No change. Tender specifications shall prevail.
+68 154 Servers System Network iii.  Dual 1GbE  Ports iii.  Quad 1GbE  Copper Ports As per Amendment-1
+69 154 Servers System Network vi.  All transceivers should be from same OEM of servers. vi.  All transceivers should be provided from same OEM of 
+servers. Server should be offered with 6x PCI-e Gen5.0 slots to 
+achieve higher performance for populated Network cards.
+As per Amendment-1
+70 155 Servers System Security Features A) Secure Boot(Firmware and Bios Level Security),Provision to lock 
+the system on breach, Hardware root of trust/Dual Root of Trust, 
+Server should provide policy based security, Server should provide 
+server intrusion detection, "Malicious Code Free design" (to be 
+certified by OEM)
+A) Secure Boot(Firmware and Bios Level Security),Provision to 
+lock the system on breach, Hardware root of trust/Dual Root of 
+Trust, Server should provide policy based security, Server 
+should provide server intrusion detection, "Malicious Code Free 
+design" (to be certified by OEM), FIPS 140-2, EAL4+, OEM 
+security Bezel and Lock kit, NIST and PCI-DSS 
+No change. Tender specifications shall prevail.
+71 155 Servers System        i.    Should be connected to access Enterprise Storage through 
+redundant SAN paths. 
+       i.    Should be connected to access Enterprise Storage 
+through redundant Adapters.
+As per Amendment-1
+72 155 Servers System      ii.    Should be connected to Network through redundant 10G LAN 
+paths. 
+     ii.    Should be connected to Network through redundant 10G 
+Adapters. 
+As per Amendment-1
+73 156 Enterprise Storage Architecture Offered Storage must have scale-up and scale- out  architecture  for  
+SAN,  it  must  scale  to  8  or more  controllers  for  future  
+expansion.  It  must support   mixing   of   controllers   within   same 
+generation  and  across  generation  of  controller models,   it   must   
+also   support   data   in   place upgrades  for  the  Storage  controllers  
+to  higher generation of controllers while data is intact in old
+NVMe media.
+Offered Storage must have scale-up and scale- out  architecture  
+for  SAN,  it  must  scale  to  4  controllers  for  future  expansion 
+& all LUN's and drives should be accessible through all 
+controllers. it   must   also   support   data   in   place upgrades  
+for  the  Storage  controllers  to  higher generation of 
+controllers while data is intact in old NVMe media.
+As per Amendment-1
+74 156 Enterprise Storage Memory Offered   Storage   must   be   configured      with minimum    128GB    
+DRAM    based    Global    / Federated Cache / Memory per 
+controller. Writes in  the  cache  must  be protected  in  the  event  of 
+unplanned   power   outage   by   de-staging   to persistent storage/ 
+non-volatile storage or battery backed cache.
+Offered   Storage   must   be   configured      with minimum    
+512 GB    DRAM    based    Global    / Federated Cache / Memory 
+per controller. Writes in  the  cache  must  be protected  in  the  
+event  of unplanned   power   outage   by   de-staging   to 
+persistent storage/ non-volatile storage or battery backed 
+cache.
+No change. Tender specifications shall prevail.
+75 157 Enterprise Storage Deduplication and 
+Compression
+Offered  Storage  must  provide  Inline  as  well  as Post-Process  
+deduplication,  compression.  Data reduction must be maintained 
+while Tiering and
+replicating the data.
+Offered  Storage  must provide inline deduplication,  
+compression.  
+As per Amendment-1
+76 157 Enterprise Storage Replication Offered Storage must be configured with required Licenses to 
+configure:
+1)  Synchronous  and  Asynchronous  Replication between 2 DCs.  DC 
+sites can be >1000km away for block Protocols.
+Offered Storage replication should be secured by end-to-end       
+encryption       and       bandwidth
+optmization over a WAN link.
+Offered Storage must be configured with required Licenses to 
+configure:
+1)  Synchronous  and  Asynchronous  Replication between 2 
+DCs.  DC sites can be >1000km away for block Protocols.
+As per Amendment-1
+Connectivity to 
+Storage and Network
+77 158 Enterprise Storage Storage efficiency i.    Inline data compression, deduplication, and compaction
+ii.   Space-efficient LUN and volume cloning
+iii.  Automatic data tiering
+i.    Inline data compression, deduplication, and compaction
+ii.   Space-efficient LUN and volume cloning
+As per Amendment-1
+78 159 Backup Storage Controller Should   have   dual   (   Active-Active   controller architecture).
+Storage must be configured with minimum 2 or more 100 Gbps 
+Interconnect ports per controller to      ensure      high      speed      
+inter-controller
+communication.
+Backup hardware should be a purpose-built backup appliance. 
+The backup solution should not be any single point of failure it 
+should have redundant power supply, cooling fans, NIC card 
+and FC ports. 
+As per Amendment-1
+79 159 Backup Storage Capacity Usable capacity of 50 TB using SAS or NL-SAS disks ( Usage capacity - 
+should be achieved :
+a.   after concurrent dual drive failure protection
+b.   using RAID 5/6 configuration
+c.   using each disk capacity not more than 16TB).
+ii.         Minimum one disk should be configured as hot spare.
+iii.        Expandable to minimum usable capacity of 350TB using same 
+capacity disks by adding only disks.
+Usable capacity of 50 TB using SAS or NL-SAS disks ( Usage 
+capacity - should be achieved :
+a.   after concurrent dual drive failure protection
+b.   using RAID 5/6 configuration
+c.   using each disk capacity not more than 16TB).
+ii.        Expandable to minimum usable capacity of 200TB using 
+same capacity disks by adding only disks.
+As per Amendment-1
+80 159 Backup Storage Memory Offered   Storage   must   be   configured      with minimum 64GB 
+DRAM based Global/Federated Cache/Memory per controller. 
+Writes in the cache must  be  protected  in  the  event  of  unplanned 
+power   outage    by    de-staging   to    persistent
+storage/  non-volatile  storage  or  battery  backed cache.
+Must be offered with battery backed up RAM / NVRAM for 
+protection against data loss in power failure scenario and 
+continuous automated file system check to ensure data 
+integrity
+As per Amendment-1
+81 160 Backup Storage Storage networking The storage operating system must provide  FC, iSCSI       protocols  
+natively  to support heterogeneous application environment.
+Offered purpose built backup appliance shall support emulation 
+of both VTL and NAS target like NFS and CIFS.
+As per Amendment-1
+82 160 Backup Storage High availability i.  Nondisruptive maintenance, upgrade, and scale-out clustering
+ii.  Storage system must be offered in a No-
+Single-Point of Failure
+The backup solution should not be any single point of failure it 
+should have redundant power supply, cooling fans, NIC card 
+and FC ports. 
+As per Amendment-1
+83 160 Backup Storage Compression & 
+deduplication
+Offered Storage must support  Inline as well as Post-Process 
+deduplication, compression on Block data. Data reduction must be 
+maintained
+while Tiering and replicating the data.
+Offered Storage must support both source & target based 
+deduplication & compression. Data reduction must be 
+maintained while replicating the data.
+As per Amendment-1
+84 160 Backup Storage Security and 
+compliance
+Should offer :
+Autonomous ransomware detection and protection.
+Multifactor admin access .
+Secure multitenant shared storage. Data-at-rest encryption.
+Regulatory-compliant data retention. Multi-admin verification before 
+executing sensitive commands.
+The backup solution along with backup software should offer :
+Autonomous ransomware detection and protection.
+Multifactor admin access .
+Secure multitenant shared storage. Data-at-rest encryption.
+Regulatory-compliant data retention. Multi-admin verification 
+before executing
+sensitive commands.
+As per Amendment-1
+85 161 Network Switch Make To be specified by the bidder (Preferably of same make as Controller & APs)Remove this clause As per Amendment-1
+86 161 Network Switch Switching Backplane 
+Bandwidth
+At least 6400 Gbps or more At least 700 Gbps or more As per Amendment-1
+87 161 Network Switch RAM & Flash Additional Pointer "8GB DDR4 & 32GB Flash" No change. Tender specifications shall prevail.
+88 161 Network Switch Packet Buffer Additional Pointer "16MB or more" No change. Tender specifications shall prevail.
+89 164 Backup Server Processor   i.    Intel Xeon Silver 4309Y or AMD EPYC 7313P or higher   i.    Intel Xeon Silver 4509Y or AMD EPYC 9115 or higher As per Amendment-1
+90 164 Backup Server Processor iv.    Base Frequency of processor >= 2.8Ghz iv.    Base Frequency of processor >= 2.6Ghz As per Amendment-1
+91 165 Backup Server Network iii.             Dual 1GbE  Copper Ports iii.             Quad 1GbE  Copper Ports No change. Tender specifications shall prevail.
+92 165 Backup Server Network v.      All transceivers should be from same OEM of servers. vi.     All transceivers should be provided from same OEM of 
+servers. Server should be offered with 6x PCI-e Gen5.0 slots to 
+achieve higher performance for populated Network cards.
+As per Amendment-1
+93 165 Backup Server Management 
+Features
+Remote power On/ Shutdown of server, Remote Management of 
+Server over LAN & WAN with SSL encryption through gigabit 
+management port, ,Should have virtual Media support with all 
+required licenses. Remote KVM ,Server Health Logging, Out of Band 
+Management. . Server OEM’s Management software to be provided. 
+Real-time power meter, temperature monitoring,  Monitoring of 
+fans, power supply, memory, CPU, RAID, NIC for failures.
+Remote power On/ Shutdown of server, Remote Management 
+of Server over LAN & WAN with SSL encryption through gigabit 
+management port, ,Should have virtual Media support with all 
+required licenses. Remote KVM ,Server Health Logging, Out of 
+Band Management. . Server OEM’s Management software to 
+be provided. Monitoring of fans, power supply, memory, CPU, 
+RAID, NIC for failures.
+As per Amendment-1
+94 165 Backup Server Security Features i) Secure Boot(Firmware and Bios Level Security),Provision to lock 
+the system on breach, Hardware root of trust/Dual Root of Trust, 
+Server should provide policy based security, Server should provide 
+server intrusion detection, "Malicious Code Free design" (to be 
+certified by OEM)
+A) Secure Boot(Firmware and Bios Level Security),Provision to 
+lock the system on breach, Hardware root of trust/Dual Root of 
+Trust, Server should provide policy based security, Server 
+should provide server intrusion detection, "Malicious Code Free 
+design" (to be certified by OEM), FIPS 140-2, EAL4+, OEM 
+security Bezel and Lock kit, NIST and PCI-DSS.
+No change. Tender specifications shall prevail.
+95 165 Backup Server On site OEM 
+Warranty 
+Minimum 6 years. OEM Warranty Support on 24x7 365 days ( highest 
+level of support). 
+Minimum 6 years. OEM Warranty Support on 24x7 365 days 
+(highest level of support) , maximum six (06) hours resolution 
+time.
+As per Amendment-1
+96 166 Backup Server Network Connectivity Should be connected to Network through redundant 10G LAN paths.      ii.    Should be connected to Network through redundant 10G 
+Adapters. 
+No change. Tender specifications shall prevail.
+97 148 SITE PREPARATION 2.7.2 Bidder should indicate the power and space requirement of the 
+system. The normal and maximum operating temperature and 
+humidity levels tolerated by the system shall be indicated by the 
+bidder. The power connections of the supplied system are to be 
+done by the bidder. These connections should be done using FRLS 
+cable and industrial sockets. Equipment used and cabling scheme 
+shall be subject to NTPC approval. The provision of 
+earthing/grounding system if required for new equipment in addition 
+to present earthing/grounding facility shall be in the scope of the 
+bidder. NTPC shall provide 42U rack for the installation. However, 
+PDUs , cable manager or any other accessories for the rack shall be 
+in the scope of bidder.
+Please clarify whether bidder is required to extend power 
+cabling only from NTPC-provided industrial sockets to 
+racks/equipment, or from UPS distribution board up to racks
+Clarified that  bidder is required to extend power cabling only 
+from NTPC-provided industrial sockets to racks/equipment and 
+PDUs , cable manager or any other accessories for the rack shall 
+be in the scope of bidder.
+98 146 SCOPE OF WORK Detailed Scope Any software updates, upgrades released till the completion of 
+warranty period shall be supplied free of cost and installed and 
+commissioned free of cost as per instructions from engineer in 
+charge.
+With reference to the clause on free software 
+updates/upgrades during the warranty period, please clarify 
+whether Microsoft Software Assurance (SA) is required to be 
+provided to comply with this requirement.
+Clarified that Microsoft Software Assurance (SA) is not required.
+99 159 INSTALLATION & 
+COMMISSIONING
+Bidder is required to install and configure the OS, Virtualisation, 
+Backup Hardware Systems and Backup Software.
+Please confirm whether Hyper-V virtualization will be used. Yes
+100 General Please clarify whether this is a greenfield project or if existing 
+applications and data migration are within the scope of work; if 
+yes, kindly share the detailed scope of work.
+Clarified that this is a greenfield project 
+101 152 WORK COMPLETION 
+SCHEDULE
+Delivery at site: Delivery at site: The delivery of all hardware, software media and 
+licenses should be made within 2 months from the date of  purchase 
+order. The supply  shall be supported by part numbers of the items 
+and a confirmation from OEMs that all factory tests have been 
+successfully completed on the system/parts.
+Request for Delivery  period 4-5 months as globally  shipment 
+delayed due to Memory & SSD short shipment accordingly 
+installation & commissioning within 1 month from delivery
+As per Amendment-1
+102 156 Enterprise Storage Capacity b.using RAID 6 configuration Request for change RAID 6 or equivalent configuration As per Amendment-1
+103 159 Backup Storage Capacity b.using RAID 5/6 configuration Request for change RAID 5/6 or equivalent configuration As per Amendment-1
+104 152 SCOPE OF WORK Delivery at site: Delivery at site: The delivery of all hardware, software media and 
+licenses should be made within 2 months from the date of  purchase 
+order. The supply  shall be supported by part numbers of the items 
+and a confirmation from OEMs that all factory tests have been 
+successfully completed on the system/parts.
+The delivery of all hardware, software media and licenses 
+should be made within 4 months from the date  of purchase 
+order.
+As per Amendment-1
+105 152 SCOPE OF WORK Completion of 
+Installation: 
+Completion of Installation: 
+Within 3 months  from the date of  purchase order.
+Completion of Installation: 
+Within 5 months  from the date of  purchase order.
+As per Amendment-1
+106 152 SCOPE OF WORK Payment Terms ( Refer payment clause) 75% on delivery & 25% on Signoff/Installation Commissioning. 
+As PBG already asked to submit valid during the contract 
+period.
+No change. Tender specifications shall prevail.
+107 156 Enterprise Storage Capacity b.using RAID 6 configuration S. No. 04 Capacity: b. using RAID 6 configuration or equivalent As per Amendment-1
+108 159 Backup Storage Capacity b.using RAID 5/6 configuration Backup Storage: S. No. 03 Capacity: b. b. using RAID 5/6 
+configuration.
+As per Amendment-1
+109 152 SCOPE OF WORK Delivery, Installation & Commissioning Request to amend 24 Weeks for delivery and installation. As per Amendment-1
+110 156 Enterprise Storage Capacity b.using RAID 6 configuration we request for amendment the in asked RAID Configuration 
+using RAID 5/6 OR RAID-DP configuration and RAID 6 OR RAID-
+DP configuration. 
+As per Amendment-1
+111 159 Backup Storage Capacity b.using RAID 5/6 configuration we request for amendment the in asked RAID Configuration 
+using RAID 5/6 OR RAID-DP configuration and RAID 6 OR RAID-
+DP configuration. 
+As per Amendment-1
+112 152 SCOPE OF WORK Payment Terms ( Refer payment clause) Request to emend 80% payment on delivery, 15% after 
+installation and 5% on submission of PBG.
+No change. Tender specifications shall prevail.
+113 164 Backup Server Processor   i.    Intel Xeon Silver 4309Y or AMD EPYC 7313P or higher i.Intel Xeon Gold 5515+ or AMD EPYC 9015 or higher As per Amendment-1
+114 154 Servers System Processors (i)    Intel Xeon Gold 6442Y or AMD EPYC 9254 or higher (i)    Intel Xeon Gold 6542Y or AMD EPYC 9255 or higher Refer Tender specs. Higher specification is also acceptable.
+115 154 Servers System RAM 1 TB (DDR5 RDIMM ECC) 1 TB (DDR5 RDIMM ECC). Same Server should be able to scale 
+twice the current memory without removing provided Memory 
+Modules.
+No change. Tender specifications shall prevail.
+116 154 Servers System Network iii.  Dual 1GbE  Ports iii.  Quad 1GbE  Copper Ports As per Amendment-1
+117 154 Servers System Network vi.  All transceivers should be from same OEM of servers. vi.  All transceivers should be provided from same OEM of 
+servers. Server should be offered with 6x PCI-e Gen5.0 slots to 
+achieve higher performance for populated Network cards.
+As per Amendment-1
+118 155 Servers System Security Features A) Secure Boot(Firmware and Bios Level Security),Provision to lock 
+the system on breach, Hardware root of trust/Dual Root of Trust, 
+Server should provide policy based security, Server should provide 
+server intrusion detection, "Malicious Code Free design" (to be 
+certified by OEM)
+A) Secure Boot(Firmware and Bios Level Security),Provision to 
+lock the system on breach, Hardware root of trust/Dual Root of 
+Trust, Server should provide policy based security, Server 
+should provide server intrusion detection, "Malicious Code Free 
+design" (to be certified by OEM), FIPS 140-2, EAL4+, OEM 
+security Bezel and Lock kit, NIST and PCI-DSS 
+No change. Tender specifications shall prevail.
+119 155 Servers System        i.    Should be connected to access Enterprise Storage through 
+redundant SAN paths. 
+       i.    Should be connected to access Enterprise Storage 
+through redundant Adapters.
+As per Amendment-1
+120 155 Servers System      ii.    Should be connected to Network through redundant 10G LAN 
+paths. 
+     ii.    Should be connected to Network through redundant 10G 
+Adapters. 
+As per Amendment-1
+121 156 Enterprise Storage Architecture Offered Storage must have scale-up and scale- out  architecture  for  
+SAN,  it  must  scale  to  8  or more  controllers  for  future  
+expansion.  It  must support   mixing   of   controllers   within   same 
+generation  and  across  generation  of  controller models,   it   must   
+also   support   data   in   place upgrades  for  the  Storage  controllers  
+to  higher generation of controllers while data is intact in old
+NVMe media.
+Offered Storage must have scale-up and scale- out  architecture  
+for  SAN,  it  must  scale  to  4  controllers  for  future  expansion 
+& all LUN's and drives should be accessible through all 
+controllers. it   must   also   support   data   in   place upgrades  
+for  the  Storage  controllers  to  higher generation of 
+controllers while data is intact in old NVMe media.
+As per Amendment-1
+122 156 Enterprise Storage Memory Offered   Storage   must   be   configured      with minimum    128GB    
+DRAM    based    Global    / Federated Cache / Memory per 
+controller. Writes in  the  cache  must  be protected  in  the  event  of 
+unplanned   power   outage   by   de-staging   to persistent storage/ 
+non-volatile storage or battery backed cache.
+Offered   Storage   must   be   configured      with minimum    
+512 GB    DRAM    based    Global    / Federated Cache / Memory 
+per controller. Writes in  the  cache  must  be protected  in  the  
+event  of unplanned   power   outage   by   de-staging   to 
+persistent storage/ non-volatile storage or battery backed 
+cache.
+No change. Tender specifications shall prevail.
+123 157 Enterprise Storage Deduplication and 
+Compression
+Offered  Storage  must  provide  Inline  as  well  as Post-Process  
+deduplication,  compression.  Data reduction must be maintained 
+while Tiering and
+replicating the data.
+Offered  Storage  must provide inline deduplication,  
+compression.  
+As per Amendment-1
+124 157 Enterprise Storage Replication Offered Storage must be configured with required Licenses to 
+configure:
+1)  Synchronous  and  Asynchronous  Replication between 2 DCs.  DC 
+sites can be >1000km away for block Protocols.
+Offered Storage replication should be secured by end-to-end       
+encryption       and       bandwidth
+optmization over a WAN link.
+Offered Storage must be configured with required Licenses to 
+configure:
+1)  Synchronous  and  Asynchronous  Replication between 2 
+DCs.  DC sites can be >1000km away for block Protocols.
+As per Amendment-1
+125 158 Enterprise Storage Storage efficiency i.    Inline data compression, deduplication, and compaction
+ii.   Space-efficient LUN and volume cloning
+iii.  Automatic data tiering
+i.    Inline data compression, deduplication, and compaction
+ii.   Space-efficient LUN and volume cloning
+As per Amendment-1
+126 159 Backup Storage Controller Should   have   dual   (   Active-Active   controller architecture).
+Storage must be configured with minimum 2 or more 100 Gbps 
+Interconnect ports per controller to      ensure      high      speed      
+inter-controller
+communication.
+Backup hardware should be a purpose-built backup appliance. 
+The backup solution should not be any single point of failure it 
+should have redundant power supply, cooling fans, NIC card 
+and FC ports. 
+As per Amendment-1
+127 159 Backup Storage Capacity Usable capacity of 50 TB using SAS or NL-SAS disks ( Usage capacity - 
+should be achieved :
+a.   after concurrent dual drive failure protection
+b.   using RAID 5/6 configuration
+c.   using each disk capacity not more than 16TB).
+ii.         Minimum one disk should be configured as hot spare.
+iii.        Expandable to minimum usable capacity of 350TB using same 
+capacity disks by adding only disks.
+Usable capacity of 50 TB using SAS or NL-SAS disks ( Usage 
+capacity - should be achieved :
+a.   after concurrent dual drive failure protection
+b.   using RAID 5/6 configuration
+c.   using each disk capacity not more than 16TB).
+ii.        Expandable to minimum usable capacity of 200TB using 
+same capacity disks by adding only disks.
+As per Amendment-1
+Connectivity to 
+Storage and Network
+128 159 Backup Storage Memory Offered   Storage   must   be   configured      with minimum 64GB 
+DRAM based Global/Federated Cache/Memory per controller. 
+Writes in the cache must  be  protected  in  the  event  of  unplanned 
+power   outage    by    de-staging   to    persistent
+storage/  non-volatile  storage  or  battery  backed cache.
+Must be offered with battery backed up RAM / NVRAM for 
+protection against data loss in power failure scenario and 
+continuous automated file system check to ensure data 
+integrity
+As per Amendment-1
+129 160 Backup Storage Storage networking The storage operating system must provide  FC, iSCSI       protocols  
+natively  to support heterogeneous application environment.
+Offered purpose built backup appliance shall support emulation 
+of both VTL and NAS target like NFS and CIFS.
+As per Amendment-1
+130 160 Backup Storage High availability i.  Nondisruptive maintenance, upgrade, and scale-out clustering
+ii.  Storage system must be offered in a No-
+Single-Point of Failure
+The backup solution should not be any single point of failure it 
+should have redundant power supply, cooling fans, NIC card 
+and FC ports. 
+As per Amendment-1
+131 160 Backup Storage Compression & 
+deduplication
+Offered Storage must support  Inline as well as Post-Process 
+deduplication, compression on Block data. Data reduction must be 
+maintained
+while Tiering and replicating the data.
+Offered Storage must support both source & target based 
+deduplication & compression. Data reduction must be 
+maintained while replicating the data.
+As per Amendment-1
+132 160 Backup Storage Security and 
+compliance
+Should offer :
+Autonomous ransomware detection and protection.
+Multifactor admin access .
+Secure multitenant shared storage. Data-at-rest encryption.
+Regulatory-compliant data retention. Multi-admin verification before 
+executing sensitive commands.
+The backup solution along with backup software should offer :
+Autonomous ransomware detection and protection.
+Multifactor admin access .
+Secure multitenant shared storage. Data-at-rest encryption.
+Regulatory-compliant data retention. Multi-admin verification 
+before executing
+sensitive commands.
+As per Amendment-1
+133 161 Network Switch Make To be specified by the bidder (Preferably of same make as Controller & APs)Remove this clause As per Amendment-1
+134 161 Network Switch Switching Backplane 
+Bandwidth
+At least 6400 Gbps or more At least 700 Gbps or more As per Amendment-1
+135 161 Network Switch RAM & Flash Additional Pointer "8GB DDR4 & 32GB Flash" No change. Tender specifications shall prevail.
+136 161 Network Switch Packet Buffer Additional Pointer "16MB or more" No change. Tender specifications shall prevail.
+137 164 Backup Server Processor   i.    Intel Xeon Silver 4309Y or AMD EPYC 7313P or higher   i.    Intel Xeon Silver 4509Y or AMD EPYC 9115 or higher As per Amendment-1
+138 164 Backup Server Processor iv.    Base Frequency of processor >= 2.8Ghz iv.    Base Frequency of processor >= 2.6Ghz As per Amendment-1
+139 165 Backup Server Network iii.             Dual 1GbE  Copper Ports iii.             Quad 1GbE  Copper Ports No change. Tender specifications shall prevail.
+140 165 Backup Server Network v.      All transceivers should be from same OEM of servers. vi.     All transceivers should be provided from same OEM of 
+servers. Server should be offered with 6x PCI-e Gen5.0 slots to 
+achieve higher performance for populated Network cards.
+As per Amendment-1
+141 165 Backup Server Management 
+Features
+Remote power On/ Shutdown of server, Remote Management of 
+Server over LAN & WAN with SSL encryption through gigabit 
+management port, ,Should have virtual Media support with all 
+required licenses. Remote KVM ,Server Health Logging, Out of Band 
+Management. . Server OEM’s Management software to be provided. 
+Real-time power meter, temperature monitoring,  Monitoring of 
+fans, power supply, memory, CPU, RAID, NIC for failures.
+Remote power On/ Shutdown of server, Remote Management 
+of Server over LAN & WAN with SSL encryption through gigabit 
+management port, ,Should have virtual Media support with all 
+required licenses. Remote KVM ,Server Health Logging, Out of 
+Band Management. . Server OEM’s Management software to 
+be provided. Monitoring of fans, power supply, memory, CPU, 
+RAID, NIC for failures.
+As per Amendment-1
+142 165 Backup Server Security Features i) Secure Boot(Firmware and Bios Level Security),Provision to lock 
+the system on breach, Hardware root of trust/Dual Root of Trust, 
+Server should provide policy based security, Server should provide 
+server intrusion detection, "Malicious Code Free design" (to be 
+certified by OEM)
+A) Secure Boot(Firmware and Bios Level Security),Provision to 
+lock the system on breach, Hardware root of trust/Dual Root of 
+Trust, Server should provide policy based security, Server 
+should provide server intrusion detection, "Malicious Code Free 
+design" (to be certified by OEM), FIPS 140-2, EAL4+, OEM 
+security Bezel and Lock kit, NIST and PCI-DSS.
+No change. Tender specifications shall prevail.
+143 165 Backup Server On site OEM 
+Warranty 
+Minimum 6 years. OEM Warranty Support on 24x7 365 days ( highest 
+level of support). 
+Minimum 6 years. OEM Warranty Support on 24x7 365 days 
+(highest level of support) , maximum six (06) hours resolution 
+time.
+As per Amendment-1
+144 166 Backup Server Network Connectivity Should be connected to Network through redundant 10G LAN paths.      ii.    Should be connected to Network through redundant 10G 
+Adapters. 
+No change. Tender specifications shall prevail.
+145 156 Enterprise Storage Capacity iii. Expandable to minimum usable capacity of 250TB using same 
+capacity disks by adding only disks.
+Expandable to minimum usable capacity of 250TB using same 
+capacity disks by adding disks and expansion enclosures.
+As per Amendment-1
+146 157 Enterprise Storage Deduplication and 
+Compression
+Offered  Storage  must  provide  Inline  as  well  as Post-Process  
+deduplication,  compression.  Data reduction must be maintained 
+while Tiering and replicating the data.
+Offered Storage must provide Inline deduplication, 
+compression. Data reduction must be maintained while Tiering 
+and replicating the data.
+As per Amendment-1
+147 158 Enterprise Storage Host/client OS 
+supported
+Windows Server, Linux, IBM AIX, VMware ESXi Windows Server, Linux, VMware ESXi No change. Tender specifications shall prevail.
+148 157 Enterprise Storage Snapshots Offered Storage must support minimum of 100 Redirect on write 
+snapshots per volume, Production SAN must be protected with point-
+in-time copies. Administrator must be able to setup a policy to take 
+snapshots every 1 hour and retaining it for one month without any 
+performance impact to host IO.
+Offered Storage should be configured with 10% additional usable 
+capacity for Snapshot capacity.
+The system shall provide immutable and secure snapshots 
+(cannot be modified or deleted within a retention window) with 
+support for at least 150,000 secure snapshots per appliance
+No change. Tender specifications shall prevail.
+149 158 Enterprise Storage High availability i.  Nondisruptive maintenance, upgrade, and scale-out clustering
+ii.  Storage system must be offered in a No-Single-Point of Failure
+Non-disruptive maintenance, Single drive upgrades, and scale-
+out clustering.
+As per Amendment-1
+150 158 Enterprise Storage ( New Clause) The solution shall include native, license ‑inclusive migration 
+tools for both block and file data from third‑party arrays, with 
+minimal downtime and no external appliances.
+No change. Tender specifications shall prevail.
+151 159 Backup Storage Controller Storage must be configured with minimum 2 or more 100 Gbps 
+Interconnect ports per controller to ensure high speed inter-
+controller communication.
+Storage must be configured with minimum 2 or more 100 Gbps 
+/ internal PCIe interconnect(s) per controller to ensure high 
+speed inter-controller communication.
+As per Amendment-1
+152 160 Backup Storage Capacity Usable capacity of 50 TB using SAS or NL-SAS disks ( Usage capacity - 
+should be achieved :
+a.   after concurrent dual drive failure protection
+b.   using RAID 5/6 configuration
+c.   using each disk capacity not more than 16TB).
+ii.         Minimum one disk should be configured as hot spare.
+iii.        Expandable to minimum usable capacity of 350TB using same 
+capacity disks by adding only disks.
+b.     using RAID 5/6/equivalent configuration 
+ii.              Minimum one disk should be configured as hot spare -  
+- to be removed
+iii.  Expandable to minimum usable capacity of 350TB using 
+same capacity disks by adding only disks and expansion 
+enclosures.
+As per Amendment-1
+153 160 Backup Storage Host/client OS 
+supported
+Windows Server, Linux, IBM AIX, VMware ESXi Windows Server, Linux, VMware ESXi No change. Tender specifications shall prevail.
+154 160 Backup Storage High availability i.     Nondisruptive maintenance, upgrade, and scale-out clustering i.     Nondisruptive maintenance, upgrade, and scale-out / scale-
+up clustering
+As per Amendment-1
+155 160 Backup Storage Compression & 
+deduplication
+Offered Storage must support  Inline as well as Post-Process 
+deduplication, compression on Block data. Data reduction must be 
+maintained while Tiering and replicating the data.
+Offered Storage must support  Inline deduplication, 
+compression on Block data. Data reduction must be maintained 
+while Tiering and replicating the data.
+As per Amendment-1
+156 160 Backup Storage Security and 
+compliance
+Should offer :
+Autonomous ransomware detection and protection.
+Multifactor admin access .
+Secure multitenant shared storage. Data-at-rest encryption.
+Regulatory-compliant data retention. Multi-admin verification before 
+executing sensitive commands.
+Autonomous ransomware detection and protection - to be 
+removed
+Multifactor admin access  - To be removed
+As per Amendment-1
+157 164 Backup Software SN 2 License for 50 TB front-end capacity should be provided. Support 
+subscription for 6 years should be provided, which should be 
+verifiable from OEM website) The licenses shall support unlimited 
+clients(VM/Physical systems)
+License for 50 TB front-end capacity should be provided. Support 
+subscription for 5 years should be provided, which should be 
+verifiable from OEM website) The licenses shall support unlimited 
+clients(VM/Physical systems)
+No change. Tender specifications shall prevail.
+158 165 Backup Software SN 4  
+Backup server software should be installable on Windows 2025 and 
+should support backup from clients system of various OS such as 
+Windows 2019, Windows 2022, Windows 2025, RHEL, Ubuntu
+Backup server software should be installable on Windows 2025 / 
+Linux based OS and should support backup from clients system 
+of various OS such as Windows 2019, Windows 2022, Windows 
+2025, RHEL, Ubuntu
+As per Amendment-1
+159 165 Backup Software SN  9 Should allow creating tape clone facility after the backup process. Should allow creating tape clone facility after the backup process 
+or Should support archiving the backup data in Object based 
+storage.
+As per Amendment-1
+160 165 Backup Software SN 16 The proposed backup software has certified “hot-online” backup 
+solution for different type of databases like MS SQL, Oracle and DB2
+The proposed backup software has certified “hot-online” backup 
+solution for different type of databases like MS SQL /Oracle / DB2 
+/ PostgreSQL / MySQL.
+No change. Tender specifications shall prevail.
+161 165 Backup Software SN 18 Support backup to disk  and  Tape Library  via Fiber channel. Support backup to disk  /  Tape Library  via Fiber channel and 
+should support backup tiering to object based storage for long 
+term retention.
+As per Amendment-1
+Sr No Pg. No. Clause Requirement Existing specification Amended specification
+1 154 Servers System Network iii. Dual 1GbE  Ports iii. Minimum 2 No 1GbE  Copper Ports 
+2 154 Servers System Network vi. All transceivers should be from same OEM of servers. All Transceivers should be from the same OEM of the server or All 
+Transceivers should duly certified and warranted by OEM of the server for 
+Full functionality.
+3 155 Servers System Connectivity to Storage 
+and Network
+ i.  Should be connected to access Enterprise Storage through
+redundant SAN paths. 
+ i.  Should be connected to access Enterprise Storage through redundant
+Adapters.
+4 155 Servers System Connectivity to Storage 
+and Network
+ii. Should be connected to Network through redundant 10G LAN
+paths. 
+ii. Should be connected to Network through redundant 10G Adapters. 
+5 156 Enterprise Storage Architecture Offered Storage must have scale-up and scale- out  architecture  for  SAN,  
+it  must  scale  to  8  or more  controllers  for  future  expansion.  It  must 
+support   mixing   of   controllers   within   same generation  and  across  
+generation  of  controller models,   it   must   also   support   data   in   
+place upgrades  for  the  Storage  controllers  to  higher generation of 
+controllers while data is intact in old
+NVMe media.
+Offered Storage must have scale-up and scale- out  architecture  for  SAN, it  
+must  scale  to  4  or more  controllers  for  future  expansion. It   must   also   
+support   data   in   place upgrades  for  the  Storage  controllers  to  higher 
+generation of controllers while data is intact in old
+NVMe media.
+6 156 Enterprise Storage Capacity  i.Usable capacity of 100 TB using NVMe SSD Enterprise grade TLC Disks (
+Usage capacity - should be achieved : 
+ a.aŌer concurrent dual drive failure protecƟon
+ b.using RAID 6 conﬁguraƟon 
+ c.without considering the De-DuplicaƟon and Compression
+ d.using each disk capacity not more than 16TB). 
+ ii.Minimum one disk should be conﬁgured as hot spare.
+ iii.Expandable to minimum usable capacity of 250TB using same 
+capacity disks by adding only disks.storage or battery backed cache.
+ i.Usable capacity of 100 TB using NVMe SSD Enterprise grade TLC Disks (
+Usage capacity - should be achieved : 
+ a.aŌer concurrent dual drive failure protecƟon
+ b.using RAID 6 or equivalent conﬁguraƟon
+ c.without considering the De-DuplicaƟon and Compression
+ d.using each disk capacity not more than 16TB). 
+ ii.Minimum one disk should be conﬁgured as hot spare.
+iii.Expandable to minimum usable capacity of 250TB using same capacity
+disks by adding disks and enclosure.
+7 157 Enterprise Storage Deduplication and 
+Compression
+Offered  Storage  must  provide  Inline  as  well  as Post-Process  
+deduplication,  compression.  Data reduction must be maintained while 
+Tiering and
+replicating the data.
+Offered  Storage  must provide inline deduplication,  compression.  
+8 157 Enterprise Storage Replication Offered Storage must be configured with required Licenses to configure:
+1) Synchronous  and  Asynchronous  Replication between 2 DCs.  DC sites 
+can be >1000km away for block Protocols.
+Offered Storage replication should be secured by end-to-end
+encryption       and       bandwidth
+optmization over a WAN link.
+Offered Storage must be configured with required Licenses to configure:
+1) Synchronous  and  Asynchronous  Replication between 2 DCs.  DC sites 
+can be >1000km away for block Protocols.
+RFP Reference: NTPC/EOC/9900316646 Technical Amendment_1
+9 158 Enterprise Storage Storage efficiency i.    Inline data compression, deduplication, and compaction
+ii.   Space-efficient LUN and volume cloning
+iii.  Automatic data tiering
+i.    Inline data compression, deduplication, and compaction
+ii.   Space-efficient LUN and volume cloning
+iii. (deleted)
+10 159 Backup Storage Controller Should   have   dual   (   Active-Active   controller architecture).
+Storage must be configured with minimum 2 or more 100 Gbps 
+Interconnect ports per controller to      ensure      high      speed      inter-
+controller
+communication.
+Should   have   dual   (   Active-Active   controller architecture).  Storage must 
+be configured with minimum 2 or more 100 Gbps Interconnect ports / 
+internal PCIe interconnect(s) per controller to      ensure      high      speed      
+inter-controller communication.  
+( or ) 
+Backup hardware should be a purpose-built backup appliance. The backup 
+solution should not be any single point of failure it should have redundant 
+power supply, cooling fans, NIC card and FC ports,should be configured for 
+backup using FC ports.
+11 159 Backup Storage Capacity Usable capacity of 50 TB using SAS or NL-SAS disks ( Usage capacity - 
+should be achieved :
+a.   after concurrent dual drive failure protection
+b.   using RAID 5/6 configuration
+c.   using each disk capacity not more than 16TB).
+ii.         Minimum one disk should be configured as hot spare.
+iii.        Expandable to minimum usable capacity of 350TB using same 
+capacity disks by adding only disks.
+Usable capacity of 50 TB using SAS or NL-SAS disks ( Usage capacity - should 
+be achieved :
+a.   after concurrent dual drive failure protection
+b.   using RAID 5/6 or equivalent configuration
+c.   using each disk capacity not more than 16TB).
+ii.        Expandable to minimum usable capacity of 200TB using same capacity 
+disks by adding only disks.
+12 159 Backup Storage Memory Offered   Storage   must   be   configured      with minimum 64GB DRAM 
+based Global/Federated Cache/Memory per controller. Writes in the 
+cache must  be  protected  in  the  event  of  unplanned power   outage    
+by    de-staging   to    persistent
+storage/  non-volatile  storage  or  battery  backed cache.
+Offered   Storage   must   be   configured      with minimum 64GB DRAM 
+based Global/Federated Cache/Memory per controller. Writes in the cache 
+must  be  protected  in  the  event  of  unplanned power   outage    by    de-
+staging   to    persistent storage/  non-volatile  storage  or  battery  backed 
+cache. 
+( or ) 
+Must be offered with battery backed up RAM / NVRAM for protection 
+against data loss in power failure scenario and continuous automated file 
+system check to ensure data integrity
+13 160 Backup Storage Storage networking The storage operating system must provide  FC, iSCSI       protocols  
+natively  to support heterogeneous application environment.
+The storage operating system must provide  FC, iSCSI       protocols  natively  
+to support heterogeneous application environment, should be configured for 
+backup using FC ports.
+(or)
+Offered backup appliance shall support emulation of both VTL and NAS 
+target like NFS and CIFS.
+14 160 Backup Storage High availability i.  Nondisruptive maintenance, upgrade, and scale-out clustering
+ii.  Storage system must be offered in a No-
+Single-Point of Failure
+i.  Nondisruptive maintenance, upgrade, and scale-out/scale-up clustering
+ii.  Storage system must be offered in a No-
+Single-Point of Failure 
+Or 
+The backup solution should not be any single point of failure it should have 
+redundant power supply, cooling fans, NIC card and FC ports. 
+15 160 Backup Storage Compression & 
+deduplication
+Offered Storage must support  Inline as well as Post-Process 
+deduplication, compression on Block data. Data reduction must be 
+maintained while Tiering and replicating the data.
+Offered Storage must support deduplication & compression. Data reduction 
+must be maintained while replicating the data.
+16 160 Backup Storage Security and compliance Should offer :
+Autonomous ransomware detection and protection.
+Multifactor admin access .
+Secure multitenant shared storage. Data-at-rest encryption.
+Regulatory-compliant data retention. Multi-admin verification before 
+executing sensitive commands.
+the storage  or  backup appliance alongwith offered backup software should 
+offer :
+Autonomous ransomware detection and protection.
+Multifactor admin access .
+Secure multitenant shared storage. Data-at-rest encryption.
+Regulatory-compliant data retention. Multi-admin verification before 
+executing sensitive commands.
+17 161 Network Switch Make To be specified by the bidder (Preferably of same make as Controller & 
+APs)
+To be specified by the bidder 
+18 161 Network Switch Switching Backplane 
+Bandwidth
+At least 6400 Gbps or more At least 700 Gbps or more
+19 164 Backup Server Processor   i.    Intel Xeon Silver 4309Y or AMD EPYC 7313P or higher   i.    Intel Xeon Silver 4509Y or AMD EPYC 9015 or higher
+20 164 Backup Server Processor iv.    Base Frequency of processor >= 2.8Ghz iv.    Base Frequency of processor >= 2.6Ghz
+21 165 Backup Server Network v.      All transceivers should be from same OEM of servers. (v) All Transceivers should be from the same OEM/make of the server or All 
+Transceivers should duly certified and warranted by Server OEM for Full 
+functionality.
+22 165 Backup Server Management Features Remote power On/ Shutdown of server, Remote Management of Server 
+over LAN & WAN with SSL encryption through gigabit management port, 
+,Should have virtual Media support with all required licenses. Remote 
+KVM ,Server Health Logging, Out of Band Management. . Server OEM’s 
+Management software to be provided. Real-time power meter, 
+temperature monitoring,  Monitoring of fans, power supply, memory, 
+CPU, RAID, NIC for failures.
+Remote power On/ Shutdown of server, Remote Management of Server over 
+LAN & WAN with SSL encryption through gigabit management port, ,Should 
+have virtual Media support with all required licenses. Remote KVM ,Server 
+Health Logging, Out of Band Management. . Server OEM’s Management 
+software to be provided. Monitoring of fans, power supply, memory, CPU, 
+RAID, NIC for failures.
+23 165 Backup Server On site OEM Warranty Minimum 6 years. OEM Warranty Support on 24x7 365 days ( highest 
+level of support). 
+Minimum 6 years. OEM Warranty Support on 24x7 365 days (highest level of 
+support) , maximum six (06) hours resolution time.
+24 165 Backup Software SN 4  
+Backup server software should be installable on Windows 2025 and 
+should support backup from clients system of various OS such as 
+Windows 2019, Windows 2022, Windows 2025, RHEL, Ubuntu
+Backup server software should be installable on Windows 2025 / Linux based 
+OS. If installed on VM of Linux OS, then all required License and support for 
+Linux OS are to be included in the scope. The backup software should 
+support backup from clients system of various OS such as Windows 2019, 
+Windows 2022, Windows 2025, RHEL, Ubuntu. 
+25 165 Backup Software SN 9 Should allow creating tape clone facility after the backup process. Should allow creating tape clone facility or Should support archiving the 
+backup data in Object based storage.
+26 165 Backup Software SN 18 Support backup to disk  and  Tape Library  via Fiber channel. Support backup to disk / Tape Library  via Fiber channel.
+27 159 WORK COMPLETION 
+SCHEDULE
+Delivery at site: Delivery at site: The delivery of all hardware, software media and licenses 
+should be made within 2 months from the date of  purchase order. The 
+supply  shall be supported by part numbers of the items and a 
+confirmation from OEMs that all factory tests have been successfully 
+completed on the system/parts.
+Delivery at site: The delivery of all hardware, software media and licenses 
+should be made within 4 months from the date of  purchase order. The 
+supply  shall be supported by part numbers of the items and a confirmation 
+from OEMs that all factory tests have been successfully completed on the 
+system/parts.
+28 159 WORK COMPLETION 
+SCHEDULE
+Completion of Installation Completion of Installation: 
+Within 3 months  from the date of  purchase order.
+Completion of Installation: 
+Within 5 months  from the date of  purchase order.
+Sr No Pg. No. Clause Requirement Specification Bidder Query/Responses NTPC Response
+162 8 BID DOCUMENT EMD, Experience and Turnover Exemption for STARTUPs 
+and MSEs Bidder
+We "X" is registered under MSE and 
+Startup. Our request here to allow 
+relaxation on submitting EMD, Experience 
+and Turnover for the bidder.
+Refer clause 4.0 of Special Purchase Condition of the tender.  
+The bidder should be manufacturer of any item of the BOQ for getting MSE 
+benefit of EMD exemption.
+MSE benefits shall be given to eligible MSEs based on the URC details as verified 
+on Udyam Verify portal, as on date of actual Techno-commercial bid opening.
+Exemption from submission of EMD is not applicable to Start-ups.
+Further, the experience and Turnover criteria shall be as per clause 9.0 of Special 
+Purchase Condition (SPC) of the tender.  
+There shall be no relaxation in the Experience and Turnover criteria for any 
+category of bidder, including MSEs and Start-ups.
+163 BID DOCUMENT Clause 24.0
+Contract performance
+Guarantee (CPG)/PBG
+d. FOR WARRANTY PERIOD
+The Contractor/Supplier/Successful Bidder shall be 
+required to furnish the Contract Performance Guarantee 
+(CPG) for an amount equal to 5% of total order value. CPG 
+should be valid for a period of three months (3 months) 
+beyond the expiry of warranty period.
+e.FOR AMC / CMS PERIOD
+The Contractor/Supplier/Successful Bidder shall be 
+required to furnish a CPG equivalent to 5% of the total 
+order value towards AMC/CMS valid for AMC/CMS Period 
+plus a period of 3 months beyond the Annual Maintenance 
+/Comprehensive Maintenance Services Contract period.
+This CPG shall be furnished before the expiry date of 5% 
+CPG submitted earlier covering the warranty period of one 
+year.
+Requesting you to change Contract 
+Performance Guarantee (CPG)    for 
+WARRANTY PERIOD and AMC/CMS Period 
+with an amount equal to 5% of total order 
+value to 3% of Total Order Value.
+Reasoning: This is to bring to your kind 
+attention that the current RFP stipulates a 
+Performance Bank Guarantee (PBG) of 
+5%(WARRANTY PERIOD and AMC/CMS 
+Period), which is considerably higher than 
+the prevailing standard. In RFPs.the PBG 
+requirement in government tenders has 
+been revised to 3%. Most recent RFPs 
+across departments are adhering to this 
+guideline.
+In light of this, we kindly request you to 
+amend the relevant clause in the RFP and 
+revise the PBG requirement from 5% to 3% 
+in alignment with the GFR norms.
+No change. Tender conditions shall prevail.
+RFP Reference: NTPC/EOC/9900316646                                                                                                                                                                                       Comml. Clarification_1

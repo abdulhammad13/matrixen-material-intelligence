@@ -1,0 +1,301 @@
+NTPC LTD 
+Vendor Development Cell (VDC), CPG-1 Raipur 
+ 
+ 
+A MEG 
+Details 
+  
+1.0 MEG No. 56MEG-12 
+2.0 MEG Description supply of “Bottom Ash Hopper Feed Gates & 
+its spares” 
+3.0 MEG Responsibility VDC 
+ 
+B 
+ 
+Technical Criteria of QR:  
+ 
+1. The applicant should be a fabricator/manufacturer of 
+hydraulically/pneumatically /electrically operated ‘gate/damper/flap isolator’ 
+and should have supplied the same in last 5 years from the date of application 
+for enlistment. 
+ 
+2. The applicant should have in house testing facilities for leakage test as per 
+attached QP. 
+ 
+ 
+3. The applicant should have in house testing facilities for no load test as per 
+attached QP. 
+ 
+C 
+ 
+Documents to be submitted as proof of meeting the stipulated Qualifying 
+Requirements as stated at B) above 
+1. Latest annual report OR  Udyam registration / NSIC / SSI / MSME registration 
+certificate / BIS license / ISO certificate / Certificate of registration from the 
+concerned excise department / any other statutory document as a proof of being 
+manufacturer of the required material. 
+ 
+2. PO copies for supply orders 
+ 
+3. Proof of in-house testing facilities for no leakage test (valid instrument calibration 
+certificate, invoice of ownership(optional), picture of the testing facility). 
+ 
+4. Proof of in -house testing facilities for no load test (valid instrument calibration 
+certificate, invoice of ownership(optional), picture of the testing facility) 
+ 
+NTPC can ask more documents if felt necessary. 
+ 
+ 
+D 
+ 
+Documents to be submitted to find executed value of orders:  
+ 
+In addition to the documents required in support of meeting technical requirements as 
+stated above, following documents are required to be submitted by the Applicants  
+applying for enlistment: - 
+ 
+1. Three POs of the highest executed values of similar works during previous five 
+years from the date of application. Copy of Invoice / Completion certificate from 
+the concerned buyer/s in support of successful execution of supply against the 
+POs to be submitted. 
+ 
+2. Audited balance sheet including Profit & Loss state ment for the previous three 
+completed financial years reckoned from the date of application. In case the 
+audited result for the preceding financial year is not available, certification of 
+financial statements from a practicing-chartered accountant is to be uploaded. In 
+case, applicant is not able to submit the certificate from practicing chartered 
+accountant certifying its financial parameters, the audited results of the three 
+consecutive financial years preceding the last financial years shall be considered 
+for evaluating the financial parameters. Further, a certificate would be required 
+from the CEO/CFO stating that the financial results are under audit as on date of 
+application and certificate from the practicing chartered certifying the financial 
+parameters are not available 
+ 
+3. NTPC can request for other documents as necessary during the course of 
+evaluation. 
+ 
+ 
+E 
+ 
+NOTE-1 
+ 
+Similar works means: ‘Supply of gate(s)/damper(s)/flap isolator(s) with 
+or without actuator’ complete assembly and/or its spares in last 5 years 
+from the date of application for enlistment. 
+ 
+  
+ 
+ NOTE-2 
+ 
+The executed value means Basic value of quantity of similar works 
+executed/supplied against the reference PO (also  applicable to partly 
+executed POs as on date of application). Where PO value is composite 
+(i.e. including Taxes etc.), the applicant to give item -wise break-up of 
+Composite PO value mentioning Basic Value, Taxes etc. 
+ 
+   
+ NOTE-3 
+GSTIN certificate ,PAN ,Power of attorney, Letter of undertaking 
+,works information etc. as mentioned in enlistment application pages of 
+website www.vendor.ntpc.co.in 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANUFACTURING QUALITY PLAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item: -DISCHARGE GATE 
+FOR BAH (FEED GATE) 
+QP NO: 
+  P 1/2   
+Rev. 00 Date   
+SL. 
+NO. 
+COMPONENT/ 
+OPERATION 
+CHARAC-
+TERISTICS 
+QUANTUM OF 
+CHECK 
+REFERENCE 
+DOUMENT 
+ACCEPTANCE 
+NORM 
+FORMAT 
+OF 
+RECORD 
+D 
+AGENCY REMARKS 
+M N  M N 
+ 
+A) Raw material Inspection & Bought-out Items 
+1 Housing, Gate, Guide 
+Plate, Wedge, Liner 
+Composition & 
+Mechanical 
+Properties (as 
+applicable) 
+1/ Heat          Tender Spec./ PO 
+Spec./Approved Drg. / DS 
+TC / IR  P V 
+ 
+Visual, Dimensional 100 %  TC/IR  P   
+2 
+Rollers. Roller axle, 
+Shaft / Piston Rod (as 
+applicable) 
+Chemical 
+Composition & 
+Mechanical 
+Properties 
+1/ Heat Tender Spec./ PO 
+Spec./Approved Drg. / DS TC / IR  P V 
+ 
+UT for dia. ≥ 50 mm 100 % ASTM A 388 Note 4 TC / IR  P V  
+B) In-process Inspection 
+1 
+Welding (if applicable) 
+a) WPS, PQR & WPQ Welding 100%  
+ASME Sec IX / AWS D 1.1 
+WQR/WPS
+/PQR 
+Record 
+ P  
+ 
+b) NDT  DPT 100% / 10 % * ASTM E 165 ASME Sec 
+VIII IR  P V 
+*100 % on 
+Butt Weld & 
+10 % on 
+Fillet weld 
+2 Machining (if 
+applicable) DPT 10 % 10 % ASTM E 165 ASME Sec 
+VIII IR  P V  
+3 Pneumatic Cylinder (if 
+applicable)  
+Operational / 
+Functional TC 100% Tender Spec./ PO 
+Spec./Approved Drg. / DS TC/IR Y P V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANUFACTURING QUALITY PLAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item: -DISCHARGE GATE 
+FOR BAH (FEED GATE) 
+QP NO: 
+  P 2/2   
+Rev. 00 Date   
+SL. 
+NO. 
+COMPONENT/ 
+OPERATION 
+CHARAC-
+TERISTICS 
+QUANTUM OF 
+CHECK 
+REFERENCE 
+DOUMENT 
+ACCEPTANCE 
+NORM 
+FORMAT 
+OF 
+RECORD 
+D 
+AGENCY REMARKS 
+M N  M N 
+C) Final Inspection 
+1 Spares & Complete 
+Assembly 
+Overall Dimension & 
+Completeness & (For 
+complete assembly 
+only) 
+100% 10 % 
+ 
+Tender Spec./ PO 
+Spec./Approved Drg. / DS 
+ 
+ 
+ 
+ 
+Tender Spec./ PO 
+Spec./Approved Drg. / DS 
+IR V P W  
+2 Complete Assembly 
+Leakage Test of 
+sealing area & No 
+Load operation test 
+(10 Cycles)  
+ 
+100% 10 % IR V P W  
+ 
+Notes:- 
+ 
+1. Y mark in Column ‘D’ means such document shall be furnished by the manufacturer / supplier. 
+2. Calibrated equipment’s required for performing the tests in presence of NTPC or authorized representative, shall be arranged by the supplier without 
+any extra cost. 
+3. Reference and Acceptance norms shall be derived from following in the same sequence  
+a.) NTPC Approved drawing / data sheet; b.) NTPC tech specs; c.) Purchase Order; d.) Relevant national standard ;                                                              
+e.) Relevant International standard; f) Manufacturer's standard ; g.) Good Engineering practices 
+4. when Back Wall Echo (BWE) set to 100% Full Screen Height (FSH) in sound area of the material , a defect echo > 20% FSH is not acceptable. Also loss of 
+BWE > 20% is not acceptable. 
+ 
+Abbreviations: - 
+ 
+M  Manufacturer  P Perform  IR Inspection Record / Report 
+N  NTPC Ltd or authorized representative  W Witness  TC Test Certificate 
+CoC  Certificate of Conformance  V Review of records  MTC Manufacturer’s Test Certificate 
+ 
+Technical Specifications for “Bottom Ash Hopper Feed Gates & its spares” 
+ 
+(a) Bottom Ash Hopper Feed Gate complete assembly  - It covers following 
+make/models: 
+a. Tecpro - 36"x36", 900X900 MM, 1118X1225 MM, 1300X1200 MM 
+b. INDURE - 600X600, 900X900, 600X900MM 
+c. VC - 3'X3' 
+d. DCIPS - 36"X36", 3000X1800 MM 
+e. BSBK - 900X900 
+f. BURN STANDARD - 5052X2860 MM 
+g. Melco - 36''X36'' 
+h. UCC - 914X914 
+i. Any other similar model 
+ 
+(b) BAH Feed gate spares includes  – Door, Gate frame, Gate wear liner, 
+Replaceable liner, Bush, fixing clamp, Pin for block of Feed Gate, Tension 
+plate, Block, Roller of Feed gate, Shaft, Locking plate, Wedge, Valve disc, 
+disc liner, disc arm, spring, drive gear, Roll & teeth, shaft sleev e, Roller 
+cover assembly, access door, connector rod, end pin, connector pin, view 
+glass and its fixtures and other similar components.  
+Complete specifications shall  be as per the drawings & data sheet enclosed in 
+the tender by  the Individual Sites or the  drawings must be developed by the 
+vendor along with material specification from samples/ equipment at site. 
+ 
+ 

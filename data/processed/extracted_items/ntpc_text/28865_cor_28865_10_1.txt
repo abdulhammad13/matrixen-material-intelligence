@@ -1,0 +1,140 @@
+Skip to Main Content  |  A+ A A-  |  A A  |  Screen Reader  |  Accessibility Statement
+Allied Corporate Activities | Core Tendering Activities | e-SecureAuction Activities | Allied Activities | General Activities Logout: sandhip 
+Tender Overview
+?Page HelpOverview of Tender specific Events and Activities
+Important: Users not familiar with the system must read the General Guidelines and Page-Help, which can be viewed by clicking on 'Page Help' given above. 
+ETS Customer Support - Help Desk: +91-124-4229071, 4229072; support@isn-ets.com
+Tender Reference/ Classification
+(Important) Where a user is handling multiple tenders, the user is advised to 'enter data' and/or 'execute activities' for only one tender at a time. This is to avoid 
+accidental/ inadverdant entry of incorrect data/ data-corruption. In case this advice is ignored, the concerned user will be responsible for any consequent errors.
+Tender Search Code (TSC) NVVNL-2025-TN000020
+Buyer's Tender Reference Number (B-TRN) NVVN/C&M/RE-435/2025-26
+Tendering Objective/ Method Bidding
+Number of Envelopes (Bid-Parts)
+Two Envelopes --
+Envelope-1: Technical-Part 
+ Envelope-2: Financial-Part
+Category of Tender Open - Global
+Tender Documents Online/ Offline
+Associated ElectronicRequisition Note (RAN/ C-RAN, I-RAN) Field Not Filled
+ITFP® Submission (Date and Time) 24-Jul-2025 11:49:00 RTZ
+View Summary of ITFP® View Summary of Associated S&TPA® View NIT/ Corrigendum View RTZ
+Local Time Zone and Schedule of Events  
+Bid-submission in ETS can consist of submission of multiple bid-components, which vary depending upon the situation and requirements of the Buyer. Successful
+receipt of a bid in an e-tendering scenario takes place if all the required bid-components are successfully ‘received and validated’ in the system(ETS) within the 
+scheduled date and time of closure of bidding.
+Further, validation involves multiple steps and varying aspects depending upon the situation. For example, one of the checks done at the server-end in ETS, is to 
+validate the digital-signature of the authorized bidder when the bidder submits a bid-component. If the signature verification fails, the submission is rejected.
+Whether a bid-component receipt is successful, or has failed (under specific conditions only), is recorded in the ETS Audit Trail, which is generated by ETS. Finally, the 
+overall bid submission is complete when all the required bid-components relevant to that stage of bid submission of that tender have been successfully completed in
+ETS.
+It is emphasized that ETS/ Service Provider is not responsible for what happens at an end-user’s end, or while a submission made by an end-user is in transit, until the
+submission is received and validated in ETS as outlined above.
+In case of any doubt, the ETS Audit Trail Report will be the final record/ evidence for reference regarding successful bid-submission.
+Local Time Zone
+Display of Local Time with corresponding Deviation  Not Applicable
+Tender Documents
+Tender Documents in Current Stage Composite Tender Documents
+Date and Time of Start of Procurement of Tender Documents 24-Jul-2025 14:00:00 RTZ
+Corresponding Local Date and Time Not Applicable
+Date and Time of Closure of Procurement of Tender Documents 31-Oct-2025 11:59:00 RTZ
+Corresponding Local Date and Time Not Applicable
+Pre-Bid Meeting
+Date and Time of Pre-Bid Meeting Not Applicable
+Corresponding Local Date and Time Not Applicable
+Attending Pre-Bid Meeting for bidders Not Applicable
+Queries pertaining Tender Documents
+Last Date and Time of Queries pertaining Tender Documents 31-Jul-2025 17:00:00 RTZ
+Corresponding Local Date and Time Not Applicable
+Bids
+Submission of Bids in Current Stage Tecnical-Part (Envelope-1) and Financial-Part (Envelope-2)
+Last Date and Time of Receipt of Bids
+31-Oct-2025 12:00:00 RTZ
+Corresponding Local Date and Time Not Applicable
+Tender Opening Event (TOE) 
+Type of TOE Closed Online TOE
+Bids to be Opened in TOE Technical-Part
+Date and Time of Start of TOE 31-Oct-2025 15:00:00 RTZ
+Corresponding Local Date and Time Not Applicable
+Tentative Target Date for Completion of Planned Activities on ETS (TTD for CPA)
+Tentative Target Date for Completion of Planned Activities on ETS (TTD for CPA) 
+for this Tender 14-Aug-2026 17:00:00 RTZ
+NIT/ Corrigenda
+Activity Description Current Status Authorized User
+  NIT/ Corrigenda
+Create\Create\ Edit NIT Edit NIT NIT Posted sandhip
+ApproveApprove NIT NIT NIT Posted sandhip
+Create\Create\ Edit Corrigendum Edit Corrigendum Corrigendum Request does not exist sandhip
+Page 1 of 3ElectronicTender System (ETS)
+27-10-2025https://www.bharat-electronictender.com/EtsHome/TenderOverview/TenderOverviewS1....
+ApproveApprove Corrigendum  Corrigendum  Corrigendum not available for Approval sandhip
+  Corresponding Print Media Publication (PMP)
+Add/ Remove PMP Available sandhip
+Approve/ Reject PMP Available sandhip
+  Generate XML for Central Public Procurement Portal (CPPP)
+Generate XML document for transfer of NIT data to CPP
+Portal Available sandhip
+Generate XML document for transfer of Corrigendum data to
+CPP Portal Available sandhip
+Number of Corrigenda Issued  10
+Hit Count of NIT 520
+Buyer Data-Room Tender-Specific (BDR-TS)
+Activity Description Current Status Authorized User
+Manage BDR-TS Available sandhip
+View BDR-TS Available Not Applicable
+ElectronicForms®
+Activity Description Current Status Authorized User
+Create\ EditCreate\ Edit ElectronicForms ElectronicForms Created sandhip
+ApproveApprove ElectronicForms ElectronicForms Approved sandhip
+View ElectronicForms Available sandhip
+Tender Documents/ Addendum
+Upload Tender Document to be procured online by the Bidders  Yes
+Activity Description Current Status Authorized User
+  Tender Documents/ Addendum
+Upload TenderUpload Tender Documents Documents Tender Documents Uploaded sandhip
+UploadUpload Addendum Addendum Addendum Request does not exist sandhip
+View Uploaded Tender Documents/ Addenda Tender Documents Uploaded sandhip
+  Clarification of Tender Documents
+Respond toRespond to Queries pertaining Tender Documents Queries pertaining Tender Documents Query does not exist sandhip
+Respond to Queries pertainingRespond to Queries pertaining  Tender Documents by users  Tender Documents by users 
+underunder Light Light--RegistrationRegistration
+Query does not exist sandhip
+View Clarification of TenderView Clarification of Tender  Documents Documents Query does not exist Not Applicable
+Number of Addenda Issued 5
+Tender Announcement
+Activity Description Current Status Authorized User
+Inform Suppliers about a recently floated Tender Available sandhip
+List ofList of Organizations Informed Organizations Informed Not Available Not Applicable
+Tender-Specific Reports
+Tender Specific Reports
+ElectronicTender Openning Event ® - (E-TOE)
+Count of Bids Received (27-Oct-2025 10:56:05 RTZ)  : 1
+Tender OpeningTender Opening Event (TOE) Event (TOE)
+Self-Archiving
+Page 2 of 3ElectronicTender System (ETS)
+27-10-2025https://www.bharat-electronictender.com/EtsHome/TenderOverview/TenderOverviewS1....
+Activity Description Current Status Authorized User
+Self-Archiving : Download Tender related Data/ Reports Available sandhip
+Tender Administration
+CTA Authorization
+Core Tendering Activities Authorization Authorization Done
+TOE Authorization 
+TOE Authorization To be Authorized
+NIT and Corrigendum
+Request for Corrigendum Available
+Edit Pending Request forEdit Pending Request for  Corrigendum Corrigendum Not Available
+Request for Emergency CorrigendumRequest for Emergency Corrigendum Not Available
+Request for Expunging NITRequest for Expunging NIT Not Available
+Tender Document and Addendum
+Request for Addendum Available
+Expunge TenderExpunge Tender Documents Documents Not Available
+Request for ExpungingRequest for Expunging  Tender Documents Tender Documents Not Available
+Emergency StatusEmergency Status  Update (Tender Document Procurement) Update (Tender Document Procurement) Not Available
+Tentative Target Date for Completion of Planned Activities on ETS (TTD for CPA)
+Extend the TTD for CPA for this Tender Available
+Termination of Tender
+Termination of Tender - on Aborting Planned Activities (TOT-OAPA)
+Close
+  Best viewed with IE 6.x, or Edge in IE mode, and 1024x768 resolution  Home Copyright © ElectronicTender Pvt. Ltd. All rights reserved   
+Page 3 of 3ElectronicTender System (ETS)
+27-10-2025https://www.bharat-electronictender.com/EtsHome/TenderOverview/TenderOverviewS1....

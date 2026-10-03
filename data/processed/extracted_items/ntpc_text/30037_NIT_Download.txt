@@ -1,0 +1,224 @@
+ 
+NTPC LTD 
+Unified Shared Service Centre (USSC), Raipur  
+ 
+1 CEG No. MTP-01 
+2 Brief description of 
+CEG 
+Enlistment for Assistance in Vibration analysis and condition monitoring jobs -
+CAT-1 
+3 Responsibility Centre Vendor Enlistment Cell (VEC) 
+4 Brief scope of work Scope of Work (SOW) : 
+Item 10. Vibration Analysis  
+The SOW includes three parts: 
+i) 10.10 MPDEP00GN621 DEPTT <> MAN DEP-INDIAN EXPRT 
+Deployment of Vibration Analyst  for Vibration Analysis and 
+resolving high vibration AND/OR balancing problems of rotating 
+equipment.  
+ii) 10.20 MPCMI00GN979 Cond Monitor Instt (<>) DATA 
+COLLEC. 
+Deployment of Data Collector  for Condition Monitoring data 
+collection involving vibration measurement and assistance for 
+Vibration analysis. The data collector has to collect any data related to 
+condition monitoring on instructions of Engineer in charge. 
+iii) 10.30 MPSMD05GN155 SPL.M/P.DEP (MOBILISATION) 
+DATA ANLYS&RE. Vibration Expert for Turbogenerator (TG) 
+for Vibration Analysis and resolving vibration related problems of 
+Turbo-generator as per Station requirement & a detailed report to be 
+submitted.  
+Coverage:  
+The SOW includes Machines in Main Plant (Boiler / Turbogenerator / 
+Transformer Yard), Off sites, CHP -Coal Handling Plant, Ash Handling 
+Plant, DM/PT Plant, CWPH, CT Fans, and other machines inside and 
+outside plant premises of NTPC station. 
+10.10 MPDEP00GN621 Deployment of Vibration Analyst &   
+10.20 Cond Monitor Instt (<>) DATA COLLEC. 
+A: Vibration Measurement and Analysis: 
+1. The Plant equipment will be categorized as Critical & Non -Critical; 
+accordingly Vibration Data collection Schedule will be prepared by EIC. 
+2. For each equipment Vibration measurement points will be defined and 
+measurement will be done in three directions (H/V/A) to collect Vibration 
+Amplitude-Displacement Pk -Pk, Velocity m/sec. (Pk/RMS) and 
+Acceleration mm/Sec.2, High frequency component for detecting Bearing 
+condition. 
+3. Vibration data will be collected by data collector through analyzer in 
+frequency Domain (FFT) and Time Domain (Time Wave Form) and 
+stored in Analysis software. Vibration analysts may also be deputed for 
+data collection as per requirement. 
+4. High Vibration Analysis includes Spectrum Analysis, Cross Phase 
+Analysis through Dual Channel or key phasor imbibed with dual channel. 
+5. Based upon the Vibration measurement, Vibration  analyst will 
+report machine condition as 'Normal' 'Marginal' & 'Critical' as per ISO 
+10816. 
+B: In-situ balancing of rotary machines: 
+1. Based upon equipment condition vibration analyst should be capable to 
+diagnose unbalance problems and should be able of carrying out in situ 
+balancing of equipment. 
+2. Balancing may be required in single plane or double plane. 
+3. Vibration Analyst will specify the Balancing weight and point of 
+addition of the weight. 
+4. NTPC shall provide the balancing weights and necessary fitters / 
+welders with required tools to carry out balancing services under the 
+supervision of the Vibration Analyst. 
+5. Mobilization of expert within 72 hrs or less depending upon the 
+criticality of the equipment or as directed by EIC, if site deployed analyst 
+is unable to do required work. 
+6. The Vibration Analyst job will be deemed to be completed only when 
+the normal vibration level (to the satisfaction of Engineer -In-Charge) is 
+achieved. 
+C: To maintain vibration level to a normal level 
+1)  Based on Condition/health of equipment Vibration analyst will 
+submit suitable recommendations for carrying out corrective action for 
+reducing the vibration level to a normal level. 
+2) As per his recommendation, Maintenance will be carried out and 
+Vibration Analyst must check vibration of equipment to ensure 
+Vibration has reduced to normal level as per ISO 10186 and prepare 
+action taken report. 
+3) The Vibration Analyst job will be deemed to be completed only when 
+the normal vibration level (to the satisfaction of Engineer -In-Charge) 
+is achieved. 
+4)  Data collectors and Vibration Analyst will be required for scheduled 
+data (routine data) collection, generally in day shift and in normal 
+working hours. However, EIC or MTP executives can extend the 
+retention of manning provided up to completion of work as and when 
+required. 
+5)  Unscheduled data collection as per instruction of EIC on holidays, 
+Sundays, beyond normal working time, trial runs during overhauling, 
+turbine rolling. No extra payment will be paid for such work. 
+6) The contractor must depute the vibration analyst & Data collectors for 
+complete duration of the work and for round -the-clock service. Party 
+must intimate and take acceptance for the persons  deputing for the 
+subject work. If for any reason Contractor replaces the person, then 
+the acceptance for the same is to be taken from EIC. 
+ 
+10.30 MPSMD05GN155 SPL.M/P.DEP (MOBILISATION) DATA 
+ANLYS&RE  
+1. Turbine Vibration Measurement in triaxial direction using 16 Channel 
+Vibration Analyzer during pre-overhaul/post overhaul survey or in case of 
+requirement as per EIC instruction. 
+2. The deployed expert should be capable of fetching (Buffer output) data 
+from NTPC installed Turbo-Supervisory system to 16 channel analyzers. 
+3. Deployed expert must be capable of understanding & analyzing all -
+important diagnostic plots including trend plot, bode plot, polar plot, full 
+spectrum, Shaft centerline plots, cascade plots etc. 
+4. He should be aware of TSI parameters, online vibration monitoring 
+system GE 3500, Shinkawa, Infosys, Maggitt VM600 or any other system. 
+ 
+General Technical Requirement: 
+i. For 10.10 Deployment of Vibration Analyst (01 NO.) Graduate 
+Mechanical/Electrical Engineer with Category -II /ISO Level -II 
+certified, Vibration Analyst with minimum 3 years’ experience in 
+vibration analysis will be stationed at site.  
+ii. For 10.20 Vibration data collector  (HSW/SSW/USW): (Site 
+may specify, no. of data collectors, skill required, qualification & 
+experience) 
+Ex: A Diploma Engineer (Mechanical/Electrical) with 
+minimum Two years’ experience in Vibration data collection 
+on field will be stationed at site 
+iii. For 10.30 Turbo -Generator Vibration Analysis (01 no .) 
+Graduate Mechanical/Electrical Engineer with Category -III /ISO 
+Level -III certified Vibration Analyst with minimum 05 Year 
+experience in Turbine Vibration Analysis.  
+iv. Deputed persons should be able to communicate in English or 
+Hindi to site persons. 
+v. Contractor has to provide two numbers of calibrated Dual Channel 
+Vibration Analyzers having route-based data collection capability 
+to collect vibration data in Time domain and Frequency domain. 
+The Contractor should mobilize more than two Dual Channel 
+Vibration Analyzer as per work requirement/EIC instructions at no 
+extra cost. 
+vi. The Dual Analyzer should have-  
+a. at least 16-bit A/D converter with Dynamic range greater than 
+90dB,  
+b. Spectral resolution with selectable number of FFT lines with 
+the highest no. of lines not less than 12800 and should be 
+capable of selecting linear and logarithmic scales for amplitude 
+and frequency.  The Dual channel to be used for data collection 
+and analysis should be acceptable to Engineer In Charge. 
+vii. The calibration certificate of Dual Channel Analyzer should be 
+valid and traceable to National Accredited Lab. 
+viii. Contractor should provide Computer System/Laptop of minimum 
+specification to support analysis software of vibration analyzer for 
+analysis and report preparation. The Analysis software should be 
+capable of producing trend of collected data. It should be abl e to 
+store two years data-Spectrum and Amplitude for each equipment 
+at each measurement location in triaxial direction. 
+ix. The availability of Vibration analyst is be ensured in line with 
+instructions of EIC. In the event of absence of deputed Engineer 
+from site alternate engineer shall be deputed during the period of 
+such absence with the acceptance of EIC. 
+x. For Turbo -Generator Vibration Analysis, Contractor should 
+provide 16 channel Vibration Analyzer, capable of fetching 
+(Buffer output) data from NTPC installed Turbo -Supervisory 
+system to 16 channel analyzer. The Vibration Expert must be 
+capable of understan ding & analyzing all -important diagnostic 
+plots including trend plot, bode plot, polar plot, full spectrum, 
+Shaft centerline plots, cascade plots etc 
+xi. Payment for the Turbo -Generator Vibration Analysis expert 
+(ITEM NO: 10.30) shall be on Lumpsum basis. “To and fro” 
+journey/ Conveyance accommodation charges are in contractor’s 
+scope. NTPC guest house may be provided subject to availability 
+on chargeable basis. 
+ 
+5  Technical Qualifying 
+requirements 
+Technical Criteria: 
+ 
+The applicant should have executed the works of " Vibration 
+analysis/Balancing" of Turbine/Turbogenerator in a Thermal Power 
+generating unit of capacity 195MW or above during the preceding five (5) 
+years from the last date of submission of application.  
+6 Document to be 
+submitted by Vendor in 
+support of meeting QR 
+ 
+Relevant and legible PO copies with detailed scope of work, terms and  
+conditions, BOQ POs (executed within last Five (5) years reckoned as on 
+the last date of submission of application in support of award and copy of 
+Client's Completion certificate/RA Bill/ final deviation statement from the 
+concerned client /copies of invoice to establish successful execution as per 
+QR. 
+NTPC may ask for shortfall documents if felt necessary. 
+7 Additional Documents 
+to be submitted 
+ 
+In addition to the documents required in support of meeting technical  
+requirements as stated above, following documents are required to be  
+submitted by the applicants applying for enlistment: 
+ 
+1. Three POs with BOQ of the highest executed values of similar  work 
+during previous five years from the last date of submission of application 
+and Copy of Completion Certificate /RA Bill/Final  Deviation Statement 
+from the concerned client in support of successful  execution of jobs 
+against each of the POs to be submitted. 
+2. Audited balance sheet including Profit & Loss statement for the  
+previous three completed financial years reckoned from the date of  
+application. In case the audited documents are not ready / available 
+/applicable, then certified copy by a registered practicing 
+Charteredaccountant may be submitted. 
+3. UDYAM Registration / NSIC / SSI / MSME registration  certificate if 
+applicable. 
+4. PF and GST registration certificate 
+5. Any other documents in addition to the above which the applicantwants 
+to submit. 
+ 
+NTPC may ask more documents if felt necessary. Also, all 
+documents/facilities can be verified/ assessed if required. 
+ 
+8 Notes  
+1. Similar work means ‘the works including Vibration  analysis/condition 
+monitoring jobs and in situ dynamic balancing jobs  for Rotary 
+machines/Turbine/Turbogenerator in Thermal/Hydro/Nuclear Power 
+Plant within the preceding five years from the  last date of submission of 
+application. 
+2.Value means basic value of the PO. Where PO value is composite  (i.e. 
+including taxes etc.), the applicant has to give break -up of composite PO 
+value mentioning basic value, taxes etc. Any separate reimbursement/ 
+escalation will not be considered. 
+3. The word “Executed" mentioned above means that the applicant should 
+have achieved the criteria specified above, even if the total  contract is 
+started earlier and/or is not completed/closed.  
+4. All other terms & conditions of enlistment are as per the Special  terms 
+& conditions (STC) available at VDC portal vdc.ntpc.co.in 
+"https://vdc.ntpc.co.in/Uploaded Files/Documents/STC.pdf” 
+ 

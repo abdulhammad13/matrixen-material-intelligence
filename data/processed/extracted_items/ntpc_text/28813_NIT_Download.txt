@@ -1,0 +1,6767 @@
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+बड
+बड
+ 
+ 
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid End Date/Time
+31-07-2025 16:00:00
+बड
+बड
+ 
+ 
+खुलने
+खुलने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid Opening
+Date/Time
+31-07-2025 16:30:00
+बड
+बड
+ 
+ 
+पेशकश
+पेशकश
+ 
+ 
+वैधता
+वैधता
+ (
+ (
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+ 
+ 
+से
+से
+)
+)
+/Bid Offer
+Validity (From End Date)
+120 (Days)
+मं ालय
+मं ालय
+/
+/
+रा!य
+रा!य
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Ministry/State Name
+Ministry Of Power
+वभाग
+वभाग
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Department Name
+Na
+संगठन
+संगठन
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Organisation Name
+Ntpc Limited
+काया%लय
+काया%लय
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Office Name
+Cg
+कुल
+कुल
+ 
+ 
+मा ा
+मा ा
+/Total Quantity
+728
+व&तु
+व&तु
+ 
+ 
+'ेणी
+'ेणी
+ 
+ 
+/Item Category
+M9717369731_NRHQ , M9717369732_NRHQ ,
+M9717369731_Singrauli , M9717369732_Singrauli ,
+M9717369734_Singrauli , M9717369731_Rihand ,
+M9717369732_Rihand , M9717369734_Rihand ,
+M9717369734_Unchahar , M9717369731_Tanda ,
+M9717369733_Auraiya , M9717369734_Auraiya ,
+M9717369731_Anta , M9717369732_Anta ,
+M9717369734_Vindhyachal , M9717369732_Sipat ,
+M9717369733_ER1HQ , M9717369734_ER1HQ ,
+M9717369733_Kolkata , M9717369734_Kolkata ,
+M9717369731_Talcher , M9717369732_Talcher ,
+M9717369734_Talcher , M9717369732_Barh ,
+M9717369732_SRHQ , M9717369732_Ramagundam ,
+M9717369732_Kayamkulam , M9717369733_Koldam ,
+M9717369734_Koldam , M9717369731_Mouda ,
+M9717369732_Mouda , M9717369731_Lara ,
+M9717369734_Lara , M9717369732_Gadarwara ,
+M9717369732_Kanti , M9717369733_Kanti
+GeMARPTS
+ 
+ 
+म)
+म)
+ 
+ 
+खोजी
+खोजी
+ 
+ 
+गई
+गई
+ 
+ 
+,&-ं.स
+,&-ं.स
+ / Searched
+Strings used in GeMARPTS
+Printer Multi Function
+GeMARPTS
+ 
+ 
+म)
+म)
+ 
+ 
+खोजा
+खोजा
+ 
+ 
+गया
+गया
+ 
+ 
+प/रणाम
+प/रणाम
+ / Searched
+Result generated in GeMARPTS
+Multi function Calibrators, Connector Mounting Hardware -
+Multi Plug, Multi Function Meter (BHEL), function generator,
+PVC Copper Cable Single Core and Multi Core Circular
+Sheathed Cable with Rigid Conductor (V2) as per IS 694,
+Label Printer / Barcode Printer, PVC Insulated Copper Cable
+Single and Multi - Core Circular Sheathed Cable with Flexible
+Conductor (V2) as per IS 694, Multi Station Gym (V3),
+Ferrule Printer, PVC Copper Cable Single Core and Multi
+Core Circular Sheathed Cord with Flexible Conductor (V2) as
+per IS 694
+ 
+बड
+ 
+सं0या
+/
+Bid
+ 
+Number
+: 
+GEM/2025/B/6436079
+1दनांक
+ /
+Dated
+: 10-07-2025
+बड
+बड
+ 
+ 
+द&तावेज़
+द&तावेज़
+ / Bid Document
+1 / 32
+अिधसूचना
+अिधसूचना
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+चयिनत
+चयिनत
+ 
+ 
+?ासंिगक
+?ासंिगक
+ 
+ 
+'े,णयाँ
+'े,णयाँ
+ / Relevant
+Categories selected for notification
+Computer Printer (V2)
+बीओBयू
+बीओBयू
+ 
+ 
+शीष%क
+शीष%क
+ 
+ 
+/BOQ Title
+Consolidated Procurement of MFM and Network Printers
+एमएसएमई
+एमएसएमई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वषD
+वषD
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+?दान
+?दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+/MSE Exemption for Years of
+Experience and Turnover
+No
+&टाट%अप
+&टाट%अप
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वषD
+वषD
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+?दान
+?दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+ /Startup Exemption for Years of
+Experience and Turnover
+No
+वHेता
+वHेता
+ 
+ 
+से
+से
+ 
+ 
+मांगे
+मांगे
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़
+द&तावेज़
+/Document required
+from seller
+Experience Criteria,Certificate (Requested in ATC),OEM
+Authorization Certificate,Additional Doc 1 (Requested in
+ATC),Additional Doc 2 (Requested in ATC),Compliance of
+BoQ specification and supporting document
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by
+the buyer
+Bया
+Bया
+ 
+ 
+आप
+आप
+ 
+ 
+िनवदाकारJ
+िनवदाकारJ
+ 
+ 
+Kारा
+Kारा
+ 
+ 
+अपलोड
+अपलोड
+ 
+ 
+1कए
+1कए
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़J
+द&तावेज़J
+ 
+ 
+को
+को
+िनवदा
+िनवदा
+ 
+ 
+म)
+म)
+ 
+ 
+भाग
+भाग
+ 
+ 
+लेने
+लेने
+ 
+ 
+वाले
+वाले
+ 
+ 
+सभी
+सभी
+ 
+ 
+िनवदाकारJ
+िनवदाकारJ
+ 
+ 
+को
+को
+ 
+ 
+1दखाना
+1दखाना
+चाहते
+चाहते
+ 
+ 
+हL
+हL
+? 
+? 
+संदभ%
+संदभ%
+ 
+ 
+मेनू
+मेनू
+ 
+ 
+है
+है
+/Do you want to show
+documents uploaded by bidders to all
+bidders participated in bid?
+No
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+ 
+ 
+बढ़ाने
+बढ़ाने
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+आवOयक
+आवOयक
+ 
+ 
+Pयूनतम
+Pयूनतम
+सहभागी
+सहभागी
+ 
+ 
+वHेताओं
+वHेताओं
+ 
+ 
+क
+क
+ 
+ 
+सं0या
+सं0या
+।
+।
+ / Minimum number of
+bids required to disable automatic bid
+extension
+3
+1दनJ
+1दनJ
+ 
+ 
+क
+क
+ 
+ 
+सं0या
+सं0या
+, 
+, 
+,जनके
+,जनके
+ 
+ 
+िलए
+िलए
+ 
+ 
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+बढ़ाई
+बढ़ाई
+ 
+ 
+जाएगी
+जाएगी
+। / 
+। / 
+Number
+ 
+ 
+of
+ 
+ 
+days
+ 
+ 
+for
+ 
+ 
+which
+ 
+ 
+Bid
+would
+ 
+ 
+be
+ 
+ 
+auto
+-
+-
+extended
+7
+बड
+बड
+ 
+ 
+से
+से
+ 
+ 
+/रवस%
+/रवस%
+ 
+ 
+नीलामी
+नीलामी
+ 
+ 
+स1Hय
+स1Hय
+ 
+ 
+1कया
+1कया
+/Bid to RA enabled
+No
+बड
+बड
+ 
+ 
+का
+का
+ 
+ 
+?कार
+?कार
+/Type of Bid
+Two Packet Bid
+?ाथिमक
+?ाथिमक
+ 
+उUपाद
+उUपाद
+ 
+'ेणी
+'ेणी
+/Primary product category
+M9717369731_NRHQ
+तकनीक
+तकनीक
+ 
+ 
+मूVयांकन
+मूVयांकन
+ 
+ 
+के
+के
+ 
+ 
+दौरान
+दौरान
+ 
+ 
+तकनीक
+तकनीक
+ 
+ 
+&पXीकरण
+&पXीकरण
+ 
+ 
+हेतु
+हेतु
+अनुमत
+अनुमत
+ 
+ 
+समय
+समय
+ 
+ 
+/Time allowed for Technical
+Clarifications during technical evaluation
+3 Days
+िनरYण
+िनरYण
+ 
+आवOयक
+आवOयक
+ (
+सूचीबZ
+सूचीबZ
+ 
+िनरYण
+िनरYण
+ 
+?ािधकरण
+?ािधकरण
+ /
+जेम
+जेम
+ 
+के
+के
+ 
+साथ
+साथ
+पूव%
+पूव%
+ 
+पंजीकृत
+पंजीकृत
+ 
+एज)िसयJ
+एज)िसयJ
+ 
+Kारा
+Kारा
+)/Inspection Required (By
+Empanelled Inspection Authority / Agencies
+pre-registered with GeM)
+No
+मूVयांकन
+मूVयांकन
+ 
+ 
+पZित
+पZित
+/Evaluation Method
+Item wise evaluation/
+म\य&थता
+म\य&थता
+ 
+खंड
+खंड
+/Arbitration Clause
+No
+सुलह
+सुलह
+ 
+खंड
+खंड
+/Mediation Clause
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+ईएमड
+ईएमड
+ 
+ 
+ववरण
+ववरण
+/EMD Detail
+2 / 32
+एडवाईजर
+ 
+बLक
+/Advisory Bank
+ICICI
+Schedule 1 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+580
+Schedule 2 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+5452
+Schedule 3 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+1161
+Schedule 4 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+18536
+Schedule 5 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+27572
+Schedule 6 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+2321
+Schedule 7 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+11994
+Schedule 8 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+12283
+Schedule 9 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+12533
+Schedule 10 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+581
+Schedule 11 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+984
+Schedule 12 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+4512
+Schedule 13 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+1161
+Schedule 14 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+5452
+Schedule 15 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+5013
+Schedule 16 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+14720
+Schedule 17 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+984
+Schedule 18 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+752
+Schedule 19 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+492
+Schedule 20 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+251
+Schedule 21 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+1742
+Schedule 22 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+4089
+Schedule 23 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+5765
+Schedule 24 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+10903
+Schedule 25 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+1363
+Schedule 26 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+12266
+Schedule 27 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+1908
+Schedule 28 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+492
+3 / 32
+Schedule 29 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+2507
+Schedule 30 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+2322
+Schedule 31 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+17446
+Schedule 32 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+2322
+Schedule 33 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+2507
+Schedule 34 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+2726
+Schedule 35 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+3816
+Schedule 36 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+492
+ईपीबीजी
+ईपीबीजी
+ 
+ 
+ववरण
+ववरण
+ 
+ 
+/ePBG Detail
+एडवाइजर
+ 
+बLक
+/Advisory Bank
+ICICI
+ईपीबीजी
+ 
+?ितशत
+ (%)
+/ePBG Percentage(%)
+5.00
+ईपीबीजी
+ 
+क
+ 
+आवOयक
+ 
+अविध
+ (
+माह
+) 
+/Duration of ePBG
+required (Months).
+67
+(a). 
+जेम
+ 
+क
+ 
+शतD
+ 
+के
+ 
+अनुसार
+ 
+ईएमड
+ 
+छू ट
+ 
+के
+ 
+इ_छु क
+ 
+बडर
+ 
+को
+ 
+संबंिधत
+ 
+केटेगर
+ 
+के
+ 
+िलए
+ 
+बड
+ 
+के
+ 
+साथ
+ 
+वैध
+ 
+समिथ%त
+ 
+द&तावेज़
+ 
+?&तुत
+ 
+करने
+ 
+है
+।
+ 
+एमएसई
+केटेगर
+ 
+के
+ 
+अंतग%त
+ 
+केवल
+ 
+व&तुओं
+ 
+के
+ 
+िलए
+ 
+विनमा%ता
+ 
+तथा
+ 
+सेवाओं
+ 
+के
+ 
+िलए
+ 
+सेवा
+ 
+?दाता
+ 
+ईएमड
+ 
+से
+ 
+छू ट
+ 
+के
+ 
+पा 
+ 
+हL
+।
+ 
+`यापा/रयJ
+ 
+को
+ 
+इस
+ 
+नीित
+ 
+के
+ 
+दायरे
+ 
+से
+बाहर
+ 
+रखा
+ 
+गया
+ 
+है
+।
+/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document
+for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and
+Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this
+Policy.
+(b). The EMD Amount will be applicable for each schedule/group selected during Bid creation.
+(c).
+ईएमड
+ 
+और
+ 
+संपादन
+ 
+जमानत
+ 
+रािश
+, 
+जहां
+ 
+यह
+ 
+लागू
+ 
+होती
+ 
+है
+, 
+लाभाथa
+ 
+के
+ 
+पY
+ 
+म)
+ 
+होनी
+ 
+चा1हए
+।
+ / EMD & Performance securityshould be
+in favour of Beneficiary, wherever it is applicable. 
+लाभाथa
+लाभाथa
+ 
+ 
+/Beneficiary :
+ 
+NTPC LTD
+NTPC Limited, 
+Unified Shared Service Centre, Central Procurement Group-1, 
+Western Region-II Head Quarter, Plot
+No.-87, Sector-24, Atal Nagar Nava Raipur, Raipur, Chhattisgarh, Pin Code-492101
+(Ntpc Ltd)
+UIN Number NCTGC2415P
+वभाजन
+वभाजन
+/Splitting
+बोली
+ 
+वभाजन
+ 
+लागू
+ 
+नहं
+ 
+1कया
+ 
+गया
+/ 
+Bid splitting not applied.
+एमआईआई
+एमआईआई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MII Purchase Preference
+4 / 32
+एमआईआई
+ 
+खरद
+ 
+वरयता
+/MII Purchase Preference
+Yes
+एमएसई
+एमएसई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MSE Purchase Preference
+एमएसई
+ 
+खरद
+ 
+वरयता
+/MSE Purchase Preference
+Yes
+1. Preference to Make In India products (For bids < 200 Crore):Preference shall be given to 
+Class 1 local supplier
+as defined in public procurement (Preference to Make in India), Order 2017 as amended from time to time and its
+subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products. The minimum
+local content to qualify as a Class 1 local supplier is denoted in the bid document. If the bidder wants to avail the
+Purchase preference, the bidder must upload a certificate from the OEM regarding the percentage of the local
+content and the details of locations at which the local value addition is made along with their bid, failing which
+no purchase preference shall be granted. In case the bid value is more than Rs 10 Crore, the declaration relating
+to percentage of local content shall be certified by the statutory auditor or cost auditor, if the OEM is a company
+and by a practicing cost accountant or a chartered accountant for OEMs other than companies as per the Public
+Procurement (preference to Make-in -India) order 2017 dated 
+04.06.2020. Only Class-I and Class-II Local suppliers
+as per MII 
+order dated 4.6.2020 will be eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are
+not eligible to participate. However, eligible micro and small enterprises will be allowed to participate .The
+buyers are advised to refer the 
+OM No.F.1/4/2021-PPD dated 18.05.2023.
+OM_No.1_4_2021_PPD_dated_18.05.2023
+ 
+for compliance of Concurrent application of Public Procurement Policy
+for Micro and Small Enterprises Order, 2012 and Public Procurement (Preference to Make in India) Order, 2017. 
+2. Purchase preference will be given to MSEs having valid Udyam Registration and whose credentials are
+validated online through Udyam Registration portal as defined in Public Procurement Policy for Micro and Small
+Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and
+its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail themselves of the
+Purchase preference, the bidder must be the manufacturer / OEM of the offered product on GeM. Traders are
+excluded from the purview of Public Procurement Policy for Micro and Small Enterprises and hence resellers
+offering products manufactured by some other OEM are not eligible for any purchase preference. In respect of bid
+for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in
+this regard shall be uploaded along with the bid in respect of the offered product or service and Buyer will decide
+eligibility for purchase preference based on documentary evidence submitted, while evaluating the bid. If L-1 is
+not an MSE and MSE Seller (s) has / have quoted price within L-1+ 15% (Selected by Buyer) of margin of
+purchase preference /price band defined in relevant policy, such MSE Seller shall be given opportunity to match
+L-1 price and contract will be awarded for 25% (selected by Buyer) percentage of total quantity. The buyers are
+advised to refer the OM No. F.1/4/2021-PPD dated 18.05.2023 
+OM_No.1_4_2021_PPD_dated_18.05.2023
+ 
+for
+compliance of Concurrent application of Public Procurement Policy for Micro and Small Enterprises Order, 2012
+and Public Procurement (Preference to Make in India) Order, 2017. Benefits of MSE will be allowed only if seller is
+validated on-line in GeM profile as well as validated and approved by Buyer after evaluation of documents
+submitted. 
+3. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and
+for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.
+This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any
+impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of
+quoted prices which would be determined by the buyer based on its own assessment of reasonableness and
+based on competitive prices received in Bid / RA process. 
+मूVयांकन
+मूVयांकन
+ 
+ 
+विध
+विध
+(
+(
+मदवार
+मदवार
+ 
+ 
+मूVयांकन
+मूVयांकन
+ 
+ 
+विध
+विध
+)
+)
+ / 
+Evaluation Method 
+( Item Wise Evaluation Method )
+Contract will be awarded schedulewise and the determination of L1 will be done separately for each schedule.
+The details of item-consignee combination covered under each schedule are as under:
+मूVयांकन
+ 
+अनुसूिचयां
+ / 
+Evaluation Schedules
+व&तु
+/
+'ेणी
+ / 
+Item/Category
+मा ा
+ 
+/ 
+Quantity
+Schedule 1
+M9717369731_nrhq
+1
+5 / 32
+Schedule 2
+M9717369732_nrhq
+20
+Schedule 3
+M9717369731_singrauli
+2
+Schedule 4
+M9717369732_singrauli
+68
+Schedule 5
+M9717369734_singrauli
+110
+Schedule 6
+M9717369731_rihand
+4
+Schedule 7
+M9717369732_rihand
+44
+Schedule 8
+M9717369734_rihand
+49
+Schedule 9
+M9717369734_unchahar
+50
+Schedule 10
+M9717369731_tanda
+1
+Schedule 11
+M9717369733_auraiya
+2
+Schedule 12
+M9717369734_auraiya
+18
+Schedule 13
+M9717369731_anta
+2
+Schedule 14
+M9717369732_anta
+20
+Schedule 15
+M9717369734_vindhyachal
+20
+Schedule 16
+M9717369732_sipat
+54
+Schedule 17
+M9717369733_er1hq
+2
+Schedule 18
+M9717369734_er1hq
+3
+Schedule 19
+M9717369733_kolkata
+1
+Schedule 20
+M9717369734_kolkata
+1
+Schedule 21
+M9717369731_talcher
+3
+Schedule 22
+M9717369732_talcher
+15
+Schedule 23
+M9717369734_talcher
+23
+Schedule 24
+M9717369732_barh
+40
+Schedule 25
+M9717369732_srhq
+5
+Schedule 26
+M9717369732_ramagundam
+45
+Schedule 27
+M9717369732_kayamkulam
+7
+Schedule 28
+M9717369733_koldam
+1
+Schedule 29
+M9717369734_koldam
+10
+Schedule 30
+M9717369731_mouda
+4
+Schedule 31
+M9717369732_mouda
+64
+Schedule 32
+M9717369731_lara
+4
+Schedule 33
+M9717369734_lara
+10
+Schedule 34
+M9717369732_gadarwara
+10
+Schedule 35
+M9717369732_kanti
+14
+Schedule 36
+M9717369733_kanti
+1
+6 / 32
+M9717369731_NRHQ
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Javed Ahmad
+Samdani
+226010,TC-33/V-1, Vibhuti
+Khand
+1
+120
+M9717369732_NRHQ
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Javed Ahmad
+Samdani
+226010,TC-33/V-1, Vibhuti
+Khand
+20
+120
+7 / 32
+M9717369731_Singrauli
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Sanjeev Kumar
+Singh
+231222,Singrauli Super
+Thermal Power Station P.O.
+SHAKTINAGAR, SONEBHADRA
+231222 
+SONEBHADRA
+2
+120
+M9717369732_Singrauli
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+8 / 32
+1
+Sanjeev Kumar
+Singh
+231222,Singrauli Super
+Thermal Power Station P.O.
+SHAKTINAGAR, SONEBHADRA
+231222 
+SONEBHADRA
+68
+120
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+M9717369734_Singrauli
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Sanjeev Kumar
+Singh
+231222,Singrauli Super
+Thermal Power Station P.O.
+SHAKTINAGAR, SONEBHADRA
+231222 
+SONEBHADRA
+110
+120
+M9717369731_Rihand
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+9 / 32
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Anshul Goel
+231223,Rihand Super Thermal
+Power Station P.O
+RIHANDNAGAR, DIST.
+SONEBHADR 231223
+SONEBHADRA
+4
+120
+M9717369732_Rihand
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Anshul Goel
+231223,Rihand Super Thermal
+Power Station P.O
+RIHANDNAGAR, DIST.
+SONEBHADR 231223
+SONEBHADRA
+44
+120
+M9717369734_Rihand
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+10 / 32
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Anshul Goel
+231223,Rihand Super Thermal
+Power Station P.O
+RIHANDNAGAR, DIST.
+SONEBHADR 231223
+SONEBHADRA
+49
+120
+M9717369734_Unchahar
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Alok Sharma
+229406,Feroz Gandhi Unchahar
+Thermal Power Station
+P.O,UNCHAHAR RAEBARELI
+50
+120
+M9717369731_Tanda
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+11 / 32
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Abhimanyu
+224238,Tanda Thermal Power
+Project P.O. VIDYUT NAGAR
+AMBEDKARNAGAR 224238
+AMBEDKARNAGAR
+1
+120
+M9717369733_Auraiya
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Radhey Shyam
+206244,Auraiya Gas Power
+Station, P.O. Dibiyapur, Distt.
+Auraiya (U.P.) Pin code -
+206244, (India)
+2
+120
+M9717369734_Auraiya
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+12 / 32
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Radhey Shyam
+206244,Auraiya Gas Power
+Station, P.O. Dibiyapur, Distt.
+Auraiya (U.P.) Pin code -
+206244, (India)
+18
+120
+M9717369731_Anta
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Mithu Lal Khatik
+325209,Anta Gas Power St P.O.
+ANTA BARAN 325209 Anta
+2
+120
+M9717369732_Anta
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+13 / 32
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Mithu Lal Khatik
+325209,Anta Gas Power St P.O.
+ANTA BARAN 325209 Anta
+20
+120
+M9717369734_Vindhyachal
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Avijeet Kumar
+486885,Vindhyachal Super
+Thermal Power Station P.O.
+Vindhyanagar District Singrauli
+486885 
+Vindhyanagar
+20
+120
+M9717369732_Sipat
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+14 / 32
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Kapil Dev Sharma
+495555,Sipat Super Thermal
+Power Project, PO Ujwal Nagar,
+District Bilaspur, Chhattisgarh
+54
+120
+M9717369733_ER1HQ
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Sritam Saha
+800001,Loknayak Jaiprakash
+Bhawan, Dak Bungalow Chowk,
+Patna, Bihar - 800001
+2
+120
+M9717369734_ER1HQ
+15 / 32
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Sritam Saha
+800001,Loknayak Jaiprakash
+Bhawan, Dak Bungalow Chowk,
+Patna, Bihar - 800001
+3
+120
+M9717369733_Kolkata
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+BABLU ROY
+CHOWDHURY
+700091,NTPC TNCC Office,
+Infinity IT Lagoon. Block-
+EP&GP, 10th Floor, Sector-V,
+Salt Lake
+1
+120
+16 / 32
+M9717369734_Kolkata
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+BABLU ROY
+CHOWDHURY
+700091,NTPC TNCC Office,
+Infinity IT Lagoon. Block-
+EP&GP, 10th Floor, Sector-V,
+Salt Lake
+1
+120
+M9717369731_Talcher
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+17 / 32
+1
+Ramesh Chandra
+Pradhan
+759147,Talcher Super Thermal
+Power Station P.O.
+DEEPSHIKHA ANGUL 759147
+ANGUL
+3
+120
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+M9717369732_Talcher
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Pradhan
+759147,Talcher Super Thermal
+Power Station P.O.
+DEEPSHIKHA ANGUL 759147
+ANGUL
+15
+120
+M9717369734_Talcher
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+18 / 32
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Ramesh Chandra
+Pradhan
+759147,Talcher Super Thermal
+Power Station P.O.
+DEEPSHIKHA ANGUL 759147
+ANGUL
+23
+120
+M9717369732_Barh
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Sneha Suman
+803213,Barh Super Thermal
+Power Project P.O. BARH
+PATNA 803213 
+BARH
+40
+120
+M9717369732_SRHQ
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+19 / 32
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Vinay Kumar
+500080,NTPC Intelligent
+Building, Lower Tank Bund,
+Kavadiguda Main Road,
+Secunderabad
+5
+120
+M9717369732_Ramagundam
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Jayaraju Pagi
+505215,Ramagundam Super
+Thermal Power Station PO
+JYOTINAGAR 505215 
+DISTRICT
+PEDDAPALLI
+45
+120
+M9717369732_Kayamkulam
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+20 / 32
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Rakesh Kumar
+Agrawal
+690506,Rajiv Gandhi Combined
+Cycle Choolatheruvu-690506,
+Dt. Alappuzha, Kerala
+7
+120
+M9717369733_Koldam
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Neeraj Jain
+174013,KOLDAM HYDRO
+POWER PROJECT PO-Jamthal,
+Tehsil-Sadar, Distt- Bilaspur,
+Himachal Pradesh, 174013
+1
+120
+M9717369734_Koldam
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+21 / 32
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Neeraj Jain
+174013,KOLDAM HYDRO
+POWER PROJECT PO-Jamthal,
+Tehsil-Sadar, Distt- Bilaspur,
+Himachal Pradesh, 174013
+10
+120
+M9717369731_Mouda
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Ekta Kohle
+441104,Mouda Super Thermal
+Power Project Mouda -Ramtek
+Road ,Mouda District Nagpur
+441104 
+Mouda
+4
+120
+M9717369732_Mouda
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+22 / 32
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Ekta Kohle
+441104,Mouda Super Thermal
+Power Project Mouda -Ramtek
+Road ,Mouda District Nagpur
+441104 
+Mouda
+64
+120
+M9717369731_Lara
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Suresh
+Paranthaman
+496440,NTPC Lara, Village -
+Chhapora, Tehsil - Pussore,
+Distt - Raigarh (CG) - 496440
+4
+120
+M9717369734_Lara
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+23 / 32
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Suresh
+Paranthaman
+496440,NTPC Lara, Village -
+Chhapora, Tehsil - Pussore,
+Distt - Raigarh (CG) - 496440
+10
+120
+M9717369732_Gadarwara
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Basant Kumar Jha
+487770,Gadarwara, District:
+Narshingpur, State: Madhya
+Pradesh
+10
+120
+M9717369732_Kanti
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+24 / 32
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Hem Chandra Roy
+843130,PO Kanti, Distt.
+Muzaffarpur, Bihar- 843130,
+India
+14
+120
+M9717369733_Kanti
+(
+Hमशः
+Hमशः
+ 
+'ेणी
+'ेणी
+ 1 
+और
+और
+ 
+'ेणी
+'ेणी
+ 2 
+के
+के
+ 
+&थानीय
+&थानीय
+ 
+आपूित%कता%
+आपूित%कता%
+ 
+के
+के
+ 
+cप
+cप
+ 
+म)
+म)
+ 
+अह%ता
+अह%ता
+ 
+?ाd
+?ाd
+ 
+करने
+करने
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आवOयक
+आवOयक
+/Minimum 50% and 20% Local
+Content required for qualifying as Class 1 and Class 2 Local Supplier respectively)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो1टeग
+/रपो1टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+1डलीवर
+1डलीवर
+ 
+के
+के
+ 
+1दन
+1दन
+/Delivery
+Days
+1
+Hem Chandra Roy
+843130,PO Kanti, Distt.
+Muzaffarpur, Bihar- 843130,
+India
+1
+120
+25 / 32
+Hेता
+Hेता
+ 
+ 
+Kारा
+Kारा
+ 
+ 
+जोड़
+जोड़
+ 
+ 
+गई
+गई
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+वशेष
+वशेष
+ 
+ 
+शतh
+शतh
+/Buyer Added Bid Specific Terms and Conditions
+1
+. 
+Generic
+OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up
+to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to
+increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at
+the contracted rates. The delivery period of quantity shall commence from the last date of original
+delivery order and in cases where option clause is exercised during the extended delivery period the
+additional time shall commence from the last date of extended delivery period. The additional delivery
+time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to
+minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the
+original delivery period. The Purchaser may extend this calculated delivery duration up to the original
+delivery period while exercising the option clause. Bidders must comply with these terms.
+2
+. 
+Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+ 
+   NTPC LIMITED
+(A GOVERNMENT OF INDIA ENTERPRISE)
+ 
+     UNIFIED SHARED SERVICE CENTRE, CENTRAL PROCUREMENT GROUP-1, R
+AIPUR
+ 
+     CONTRACT & MATERIAL DEPARTMENT
+ 
+     NOTICE INVITING TENDER (NIT)
+ 
+FOR
+ 
+PROCUREMENT OF MULTI FUNCTION DEVICES FOR NTPC- S
+TATIONS/ PROJECTS/OFFICE
+ 
+(Domestic Competitive Bidding)
+ 
+ 
+NIT No:   
+9900297826
+                                                                                                   
+BIDDING DOCUMENT NO: 
+M-CPG1-3243
+ 
+1.
+             
+   NTPC invites on-line bids on 
+Single Stage Two Envelope Bidding basis
+ (Envelope-I: Tec
+hno-commercial Bid & Envelope-II: Price Bid) from Eligible Bidders for aforesaid package
+, as per the scope briefly mentioned hereinafter.
+ 
+26 / 32
+2.
+             
+   Brief Scope of Work
+The scope under this contract includes:
+Supply of A4 Multifunction Machine (MFM) - (Color Printing facility, A4 Multifunction Mac
+hine (MFM)- (Mono printing Facility), Network A4 Color printer and Network A4 Mono
+printer
+The detailed scope and description covered under this package has been speciﬁed in th
+e relevant clause of Detailed Technical Specification/Technical Data Sheet.
+NTPC intends to ﬁnance subject Package through Domestic Commercial Borrowings/Ow
+n sources.
+ 
+3.
+             
+   Detailed Specification,
+ Scope of Work/Supply and Terms and Conditions are given in t
+he bidding document, which are available for examination at GeM Portal and as per the 
+following schedule:
+ 
+Source of IFB/NIT
+Central 
+Procurement Group-1, Raipur
+Form of Contract/Tender Category
+SUPPLY
+Integrity Pact
+Not 
+Applicable
+EMD
+INR 2,00,000/- (Rupees Two Lakhs onl
+y)
+“No Queries from Bidders, whatsoever, shall be entertained by the Employer 
+beyond the last date of receipt of Queries/ Pre-Bid Conference (if applicable) 
+as specified above.”
+4.
+   
+     
+Qualifying Requirements for Bidders
+:
+The bidders who wish to participate in the bidding shall satisfactorily establish that they 
+fulfill the following Qualifying Requirements.
+4.1
+          
+  Technical Criteria:
+ 
+4.1.1
+      
+   
+The bidder should be a manufacturer/OEM of MFD’s/Printers.
+ 
+OR
+ 
+The bidder should be subsidiary/dealer/channel partner of the manufacturer/OEM as abo
+ve as on the date of opening of techno-commercial bid. 
+Such bidder should be duly a
+uthorized by the manufacturer/ OEM as above for this tender.
+ 
+4.1.2
+      
+   The bidder should have executed work(s) which includes supply of MFDs/ Printers/ lap
+tops/ AIOs/ Servers/ Workstations for any NTPC station/ SEB/Govt. Semi-Govt./PSUs/Educ
+ational Institute/NSE or BSE enlisted company in India, within preceding 07 (seven) year
+s prior to the date of Techno-commercial bid opening in any of the following manner: -
+ 
+                          
+I.
+       
+Executed value not less than 
+Rs 129 
+Lakhs in a single contract.
+ 
+OR
+ 
+                         
+II.
+       
+Executed value not less than 
+Rs 81 Lakhs 
+each in two contracts.
+ 
+27 / 32
+OR
+ 
+                        
+III.
+        
+Executed value not less than 
+Rs 65 Lakhs 
+each in three contracts.
+ 
+   
+Notes for 4.1.2:
+Note-1
+: The word “Executed" mentioned above means that the bidder should have achi
+eved the criteria speciﬁed above, even if the total contract is started earlier and/or is no
+t completed/closed.
+Note-2
+: In case of orders under execution, the value of work executed till the date of Te
+chno commercial bid opening duly certified by owner shall be considered acceptable.
+Note-3
+: 
+For arriving at the executed value of work speciﬁed above, basic amo
+unt only shall be considered. In case contract is inclusive of taxes, bidder sho
+uld provide the break – up of basic value and taxes.
+4.2
+          
+Financial Criteria:
+4.2.1
+  
+The average annual turnover of the bidder, in the preceding three (3) ﬁnancial years as o
+n the date of Techno-Commercial bid opening, shall not be less than 
+Rs. 162 Lakhs (Ru
+pees One Hundred Sixty Two lakhs Only).
+4.2.2
+   
+In case a bidder does not satisfy the ﬁnancial criteria, stipulated at Cl. 4.2.1 above on its 
+own, its Holding Company would be required to meet the stipulated turnover requirement
+s at Cl. 4.2.1 above, provided that the Net Worth of such Holding Company as on the last 
+day of the preceding financial year is at least equal to or more than the paid-up share cap
+ital of the Holding Company. In such an event, the Bidder would be requested to furnish al
+ong with its Techno-Commercial bid, a Letter of Undertaking from the Holding Company, 
+supported by the Holding Company’s Board Resolution, as per the format enclosed in the 
+Bid Documents, pledging unconditional & irrevocable financial support for the execution o
+f the Contract by the Bidder in case of award.
+4.2.3
+  
+In case the bidder is not able to furnish its audited ﬁnancial statements on stand-alone e
+ntity basis, the unaudited unconsolidated financial statements of the bidder can be consid
+ered acceptable provided the bidder further furnishes the following documents for substa
+ntiation of its qualification:
+·
+         
+Copies of the unaudited unconsolidated ﬁnancial statements of the bidder along with
+copies of the audited consolidated financial statements of its Holding Company.
+·
+         
+A Certiﬁcate from the CEO/CFO of the Holding Company, as per the format enclosed 
+in the bidding documents, stating that the unaudited unconsolidated ﬁnancial statem
+ents form part of the Consolidated Annual Report of the company.
+4.2.4  In cases where audited results for the last preceding ﬁnancial year as on the date of tech
+no commercial bid opening are not available, the ﬁnancial results certiﬁed by a practicing
+Chartered Accountant shall be considered acceptable. In case, Bidder is not able to submi
+t the certiﬁcate from practicing Chartered Accountant certifying its ﬁnancial parameters, 
+the audited results for the three consecutive ﬁnancial years preceding the last ﬁnancial y
+ear shall be considered for evaluating the ﬁnancial parameters. Further, a Certiﬁcate wou
+ld be required from the CEO/CFO as per the format enclosed in the bidding documents sta
+ting that the ﬁnancial results of the Company are under audit as on the date of Techno co
+mmercial bid opening and the Certiﬁcate from the practicing Chartered Accountant certif
+ying the financial parameters is not available.
+NOTES:
+ 
+1.
+ 
+Other income shall not be considered for arriving at annual turnover.
+2.
+ 
+“Holding Company" and “Subsidiary Company” shall have the meaning ascribed t
+28 / 32
+o them as per Companies Act of India, in vogue.
+3.
+ 
+Net worth means the sum total of the paid-up share capital and free reserves. Fre
+e reserve means all reserves credited out of the profits and share premium accoun
+t but does not include reserves credited out of the revaluation of the assets, write 
+back of depreciation provision and amalgamation. Further, any debit balance of Pr
+oﬁt and Loss account and miscellaneous expenses to the extent not adjusted or wr
+itten off, if any, shall be reduced from reserves and surplus.
+4.
+ 
+MSE -SC/ST & MSE-Women bidders are exempted from meeting the Average Annu
+al Turnover (AATO) requirement of ﬁnancial QR. Accordingly, for these bidders Eva
+luation shall be carried out only based on Technical Criteria of Qualiﬁcation Requir
+ements.
+ 
+5.
+         
+Notwithstanding anything stated above, the Employer reserves the right to assess the ca
+pabilities and capacity of the Bidder/ his collaborators /associates/ subsidiaries / group co
+mpanies to perform the contract, should the circumstances warrant such assessment in t
+he overall interest of the Employer. The physical assessment shall include but not be limit
+ed to the assessment of oﬃce/facilities/banker's/reference workers by Employer. A negati
+ve determination of such assessment of capacity and capabilities may result in rejection 
+of the bid.
+ 
+6.
+         
+UDIN: It is mandatory to mention UDIN (Unique Document Identiﬁcation Numbe
+r) by the bidders while submitting audited financial statements, other CA certifi
+cates etc. w.e.f. date as mentioned in ICAI gazette notification dt. 02.08.2019
+ 
+Any Certiﬁcate(s) / Financial Statement(s) / Audited Balance Sheet and P&L Acc
+ount (wherever applicable) undertaken/ signed by a Member of Institute of Char
+tered Accountant of India (ICAI), which Bidders submit in support of compliance
+to Qualifying Requirements (QR), will carry Unique Document Identiﬁcation Nu
+mber (UDIN) generated in line with the Gazette Notiﬁcation of Council of Institu
+te of Chartered Accountant of India (ICAI).
+ 
+7.
+         
+This is a NO DEVIATION TENDER, which means no deviation, whatsoever, is permitted by 
+the employer to any provisions of bidding documents.
+ 
+8.
+         
+Any ‘Bidder from a country which shares a land border with India’, as speciﬁed in the Bid
+ding Documents, will be eligible to bid in this tender only if bidder is registered with the C
+ompetent Authority as mentioned in the Bidding Documents.
+ 
+        Further, any bidder (including bidder from India) having speciﬁed Transfer of Technology
+(ToT) arrangement with an entity from a country which shares a land border with India, wi
+ll be eligible to bid only if the bidder is registered with the same competent authority.
+ 
+However, the said requirement of registration will not apply to bidders from those countri
+es (even if sharing a land border with India) to which the Government of India has extend
+ed lines of credit or in which the Government of India is engaged in development projects
+.
+ 
+9.
+         
+Issuance of bid documents to any Bidder shall not construe that such bidder is qualiﬁed. 
+Bids shall be submitted online and opened at the address given below in the presence of 
+Bidder’s representatives who choose to attend the bid opening.
+ 
+10.
+      
+NTPC reserves the right to reject any or all bids or cancel/withdraw the NIT for the subject
+package without assigning any reason whatsoever and in such case no bidder/intending b
+idder shall have any claim arising out of such action. Further, NTPC reserves right to ame
+29 / 32
+nd any bid/tender conditions through appropriate CORRIGENDA published in the portal at 
+any time. NTPC also reserves the right to extend/change the bidding schedule through pu
+blishing necessary corrigenda in the portal if the situation demand so at any time. The cor
+rigendum as decided by NTPC and deemed ﬁt would be published in the portal as per pro
+visions therein. This prevails over the relevant provisions elsewhere in the bid document. 
+The corrigendum/amendment as published/posted in the portal will be binding on Bidders
+and it will be assumed that the information contained therein will have been taken into a
+ccount by the Bidder in its bid. Bidders are advised to regularly check the tender regardin
+g posting of Amendments/Corrigenda, if any
+       
+11.
+      
+Transfer of Bidding Documents downloaded by one intending Bidder to another is not per
+missible.
+ 
+12.
+      
+Address for Communication
+DGM/AGM (Contracts & Materials)
+NTPC Limited,
+Unified Shared Service Centre,
+Central Procurement Group-1,
+Western Region-II Head Quarter, Plot No.-87, Sector-24, Atal Nagar
+Nava Raipur, Raipur, Chhattisgarh, Pin Code-492101
+Tel. No.: 0771-2515362/0771-2515267
+Email: 
+sunnyagarwal@ntpc.co.in /
+amitksingh@ntpc.co.in
+ 
+13.
+      
+Registered Office
+:
+NTPC Limited
+NTPC Bhawan, SCOPE Complex,
+7, Institutional Area, Lodi Road,
+New Delhi – 110003
+Corporate Identification Number: L40101DL1975GOI007966.
+Website: 
+www.ntpc.co.in
+ 
+14.
+      
+Checklist of Documents to be mandatorily submitted with the offer
+ 
+a.
+     
+EMD BG/e-BG (if applicable) in Buyer/NTPC format only duly prepared as
+per BG preparation checklist.
+b.
+    
+Integrity Pact (if applicable), pre singed by Buyer
+c.
+     
+Udyam Registration Certiﬁcate (if availing SME beneﬁts) along with Und
+ertaking by the MSE Bidder for availing Beneﬁts/ Exemptions as per PPP 
+2012 (Annexure-A of Formats under Buyer uploaded ATC)
+d.
+    
+Declaration of Local Content as per Buyer’s Format (Annexure-C of Forma
+ts under Buyer uploaded ATC)
+e.
+     
+Compliance on “Anti-Bribery and Anti-Corruption (ABAC) Policy" of Buyer 
+(Annexure-D of Formats under Buyer uploaded ATC)
+f.
+      
+Compliance to Clause “Conﬂict of Interest” (Annexure-E of Formats under
+Buyer uploaded ATC)
+g.
+    
+Certiﬁcate for Compliance to all provisions of bidding documents (Annexu
+re-F of Formats under Buyer uploaded ATC)
+h.
+    
+Duly ﬁlled format for Bidder’s Qualiﬁcations as per QR along with Appen
+dix-I (Undertaking by ISA) or Appendix-II (Undertaking by TPIA) whicheve
+r is applicable.
+ 
+30 / 32
+Bidders may necessarily refer “Buyer uploaded ATC d
+ocument” hyperlinked below for Special Purchase Con
+ditions, Employer’s format and other terms and condit
+ions.
+ 
+The format of the Bank Guarantee shall be in accordance
+with the form of Bank Guarantee towards Bid Security/ E
+MD/ Performance security/ *Security for the Deed of Join
+t Undertaking (if applicable) /*Advance payment (if appli
+cable) included in the Employer’s Bidding Documents onl
+y (Refer Buyer uploaded ATC document for Employer’s fo
+rmat). EMD submitted in GeM format, or any other form 
+at shall be outrightly rejected.
+.
+3
+. 
+Buyer Added Bid Specific ATC
+Buyer uploaded ATC document 
+Click here to view the file
+.
+अ&वीकरण
+अ&वीकरण
+/Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+bidding process without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+Category item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+attached categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+31 / 32
+case may be.
+15
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+16
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the
+same must be added through bunching category based items or by bunching custom catalogs or
+bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+such representations.
+All GeM Sellers / Service Providers are mandated to ensure compliance with all the applicable laws /
+acts / rules including but not limited to all Labour Laws such as The Minimum Wages Act, 1948, The
+Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The Equal Remuneration Act, 1976,
+The Payment of Gratuity Act, 1972 etc. Any non-compliance will be treated as breach of contract
+and Buyer may take suitable actions as per GeM Contract.
+यह
+ 
+बड
+ 
+सामाPय
+ 
+शतD
+ 
+के
+ 
+अंतग%त
+ 
+भी
+ 
+शािसत
+ 
+है
+ 
+/This Bid is also governed by the General Terms and Conditions
+जेम
+ 
+क
+ 
+सामाPय
+ 
+शतD
+ 
+के
+ 
+खंड
+ 26 
+के
+ 
+संदभ%
+ 
+म)
+ 
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+के
+ 
+बडर
+ 
+से
+ 
+खरद
+ 
+पर
+ 
+?ितबंध
+ 
+के
+ 
+संबंध
+ 
+म)
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+का
+ 
+कोई
+ 
+भी
+ 
+बडर
+ 
+इस
+ 
+िनवदा
+ 
+म)
+ 
+बड
+ 
+देने
+ 
+के
+ 
+िलए
+ 
+तभी
+ 
+पा 
+ 
+होगा
+ 
+जब
+ 
+वह
+ 
+बड
+ 
+देने
+ 
+वाला
+सYम
+ 
+?ािधकार
+ 
+के
+ 
+पास
+ 
+पंजीकृत
+ 
+हो
+।
+बड
+ 
+म)
+ 
+भाग
+ 
+लेते
+ 
+समय
+ 
+बडर
+ 
+को
+ 
+इसका
+ 
+अनुपालन
+ 
+करना
+ 
+होगा
+ 
+और
+ 
+कोई
+ 
+भी
+ 
+गलत
+ 
+घोषणा
+ 
+1कए
+ 
+जाने
+व
+ 
+इसका
+ 
+अनुपालन
+ 
+न
+ 
+करने
+ 
+पर
+ 
+अनुबंध
+ 
+को
+ 
+तUकाल
+ 
+समाd
+ 
+करने
+ 
+और
+ 
+कानून
+ 
+के
+ 
+अनुसार
+ 
+आगे
+ 
+क
+ 
+कानूनी
+ 
+कार%वाई
+ 
+का
+ 
+आधार
+ 
+होगा
+।
+/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---
+धPयवाद
+धPयवाद
+/Thank You---
+32 / 32

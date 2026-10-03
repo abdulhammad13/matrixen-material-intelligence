@@ -1,0 +1,186 @@
+Government eProcurement System
+Tender Details
+Date : 13-May-2026 12:33 PM
+ Print
+Basic Details
+Organisation Chain Aravali Power Company Pvt. Ltd - IGSTPP||Contract and Materials - APCPL
+Tender Reference
+Number IGSTPP/CS/26-27/CRN-4608
+Tender ID 2026_APCPL_277348_1 Withdrawal Allowed Yes
+Tender Type Open Tender Form of contract Works
+Tender Category Works No. of Covers 3
+General Technical
+Evaluation Allowed Yes ItemWise Technical Evaluation
+Allowed No
+Payment Mode Offline Is Multi Currency Allowed For
+BOQ No
+Is Multi Currency
+Allowed For Fee No Allow Two Stage Bidding No
+ 
+Payment Instruments
+Offline S.No Instrument Type
+1 Bank Guarantee
+2 NEFT
+3 R-T-G-S
+Cover Details, No. Of Covers - 3
+Cover No Cover Document Type Description
+1 Fee .pdf fee
+2 PreQual/Technical .pdf NIT
+3 Finance .xls BOQ
+ 
+Tender Fee Details, [Total Fee in ₹ * - 0.00]
+Tender Fee in ₹ 0.00
+Fee Payable To Nil Fee Payable At Nil
+Tender Fee
+Exemption Allowed
+No
+EMD Fee Details
+EMD Amount in ₹ 2,00,000 EMD Exemption
+Allowed
+No
+EMD Fee Type fixed EMD Percentage NA
+EMD Payable To APCPL EMD Payable At JHARLI
+ 
+ 
+Work /Item(s)
+Title Design Supply Erection Testing and Commissioning of 5 Meter height Lighting Poles for illumination of all 4 No
+of Wagon Tippler Inhaul and Outhaul Area at IGSTPP Jharli Jhajjar
+Work Description Design Supply Erection Testing and Commissioning of 5 Meter height Lighting Poles for illumination of all 4 No
+of Wagon Tippler Inhaul and Outhaul Area at IGSTPP Jharli Jhajjar
+Pre Qualification
+Details
+Please refer Tender documents. 
+Independent External
+Monitor/Remarks
+NA 
+Tender Value in ₹ NA Product Category Miscellaneous Works Sub category NA 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work(Days) 365 
+Location IGSTPP JHARLI Pincode 124141 Pre Bid Meeting Place NA 
+Pre Bid Meeting
+Address
+NA Pre Bid Meeting Date NA Bid Opening Place IGSTPP JHARLI
+Should Allow NDA
+Tender
+No Allow Preferential
+Bidder
+No
+ 
+Critical Dates
+Publish Date 13-May-2026 12:00 PM Bid Opening Date 03-Jun-2026 03:00 PM
+Document Download / Sale Start
+Date
+13-May-2026 12:00 PM Document Download / Sale End
+Date
+02-Jun-2026 03:00 PM
+Clarification Start Date 13-May-2026 12:00 PM Clarification End Date 15-May-2026 03:00 PM 
+Bid Submission Start Date 13-May-2026 12:00 PM Bid Submission End Date 02-Jun-2026 03:00 PM
+ 
+ 
+Tender Documents
+NIT
+Document S.No Document Name Description Document Size
+(in KB)
+
+1 Tendernotice_1.pdf NIT 205.35
+ 
+Work Item
+Documents S.No Document Type Document Name Description Document Size
+(in KB)
+1 Tender Documents td4608.rar Tender Documents 7230.90
+2 BOQ BOQ_323917.xls boq 287.00
+3 Additional Documents DebarrementPolicy.pdf Debarment Policy 3449.97
+ 
+ 
+View GTE Details - GTE 2024 OT
+S.No Particulars Description Expected
+Value Mandatory
+1.0 GTE for OT General technical evaluation for open tenders Yes
+1.01    Do you accept Fraud Prevention Policy
+   We have read the contents of the Fraud
+Prevention Policy of APCPL/NTPC displayed on NTPC
+tender website and undertake that we along with
+our associate / collaborator / sub_contractors / sub-
+vendors / consultants / service providers shall
+strictly abide by the provision of the Fraud
+Prevention Policy of APCPL/NTPC
+Yes Yes
+1.02    Do you accept our Policy for Debarment from
+Business Dealings
+   We confirm that we have read the provisions of
+the Debarment from Business Dealings of
+APCPL/NTPC and declare to adhere and compliance
+to all conditions mentioned in the Debarment from
+Business Dealings
+Yes Yes
+1.03    Do You accept Price Variations GTE
+   We confirm that the prices quoted by us are firm
+and shall not be subject to any variation for the
+entire period of the contract. We confirm that the
+prices quoted by us in the Price Bid include all
+taxes, duties and levies payable by us.
+Yes Yes
+1.04    Do You accept Technical Suitability criteria of bid
+   We understand that in case the Products and/or
+Services offered do not meet the Technical
+requirements, then our bid shall be rejected as
+technically non-responsive.
+Yes Yes
+1.05    Do you accept Vallidity of bid clause
+   Our proposal shall remain valid for acceptance for
+a period of days as mentioned in Bid Documents
+from the date of opening of the Techno Commercial
+Bid by APCPL.
+Yes Yes
+1.06    Do you certify full compliance of all provisions of
+Bid Document
+   We hereby confirm that we have read the
+provisions of bidding documents along with its
+subsequent Amendment(s) / Clarification(s) /
+Addenda/Errata and further confirm that we are not
+taking any deviation from Bid document conditions
+Yes Yes
+1.07    Do you certify full compliance on Qualifying
+Requirements
+   Acceptance of above condition shall be considered
+as bidder s confirmation to the following a. The
+number of reference Plants/Orders quoted by
+Bidder in Attachment 3A of the bid, for establishing
+compliance to the specified Qualifying Requirement
+, are in accordance with the provision specified
+above. b. The reference Plants/ Orders/ declared,
+shall only be considered for evaluation/ establishing
+compliance to Qualifying Requirement . Any
+reference Orders declared more than as specified
+above shall not be considered for
+evaluation/establishing compliance to Qualifying
+Requirements. c. No change or substitution in
+respect of reference Plants/Orders for meeting the
+specified Qualifying Requirement shall be offered by
+the bidder.
+Yes Yes
+1.08    Do you comply of GFR rules of GOI
+   We agree to comply with the provisions under
+rule 144 xi of the GFR and its subsequent
+amendments or clarification
+Yes Yes
+1.09    Do You Comply to local content
+   We have submitted our bids for only those items
+for which we are eligible for participation as per
+provisions of the bidding documents and we are
+class 1 local supplier for all such items. Further we
+hereby confirm that we are presently not debarred
+banned by any other procuring entity for violation of
+public procurement preference to make in india
+order 2017 PPP MII order dated 15 June 2017 and
+its subsequent revisions or amendments issued by
+department of industrial policy and promotion DIPP.
+We Further Comply with all the relevant provisions
+of Local content issued by DIPP and its further
+clarification /amendments
+Yes Yes
+ 
+ 
+Tender Inviting Authority
+Name HOD CNM
+Address IGSTPP JHARLI
+ 

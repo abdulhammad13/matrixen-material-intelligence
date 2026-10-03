@@ -1,0 +1,181 @@
+NTPC Limited eProcurement Portal
+Tender Details 
+Date : 15-Jul-2025 03:34 PM
+ Print
+Basic Details
+Organisation Chain NTPC Limited||Corporate Centre||Consultancy Wing
+Tender Reference 
+Number NTPC/Consultancy/9900306803
+Tender ID 2025_NTPC_98586_1 Withdrawal Allowed Yes
+Tender Type Open Tender Form of contract Works
+Tender Category Works No. of Covers 3
+General Technical 
+Evaluation Allowed Yes [Compliance Required] ItemWise Technical 
+Evaluation Allowed No
+Payment Mode Online Is Multi Currency Allowed For 
+BOQ No
+Is Multi Currency 
+Allowed For Fee No Allow Two Stage Bidding No
+Payment Instruments
+Online 
+Bankers S.No Bank Name
+1 SBI Bank
+Cover Details, No. Of Covers - 3
+Cover 
+No Cover Document Type Description
+1 Fee .pdf
+Scanned Fee 
+Details 
+Tender fee, 
+EMD details
+2 PreQual/Technical .pdf
+Technical 
+Details, other 
+documents
+.pdf QR 
+documents
+.pdf
+PoA of Bid 
+Signatory JV-
+JDU, 
+Affidavit of 
+Local 
+Content, 
+other 
+formats
+3 Finance .xls Price Bid
+.rar
+Details as 
+per bid 
+documents
+Tender Fee Details, [Total Fee in ₹ * - 22,500]
+Tender Fee in ₹ 22,500
+Fee Payable To Nil Fee Payable At Nil
+Tender Fee 
+Exemption 
+Allowed
+No
+EMD Fee Details
+EMD Amount in ₹ 1,13,46,200 EMD Exemption 
+Allowed
+No
+EMD Fee Type fixed EMD Percentage NA
+EMD Payable To Nil EMD Payable At Nil
+BG Required Yes
+Minimum Direct 
+EMD Payment in ₹
+0.00
+Click to view modification history
+Page 1 of 3NTPC Limited eProcurement Portal
+15-07-2025https://www.eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=Publishe...
+Work /Item(s)
+Title RDSS ED-REASI
+Work Description As per bid doc
+Pre Qualification 
+Details
+As per tender documents 
+Independent 
+External 
+Monitor/Remarks
+Details as per bid documents 
+Show Tender Value 
+in Public Domain
+No 
+Tender Value in ₹ 66,94,30,000 Product Category Miscellaneous 
+Works 
+Sub category NA 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work
+(Days)
+540 
+Location Consultancy Wing EOC 
+Annexe BUILDING, A-8A 
+SECT NO
+Pincode 201301 Pre Bid Meeting 
+Place
+Jammu 
+Pre Bid Meeting 
+Address
+Jammu Pre Bid Meeting Date 23-Jul-2025 
+11:00 AM 
+Bid Opening Place Consultancy 
+Wing
+Should Allow NDA 
+Tender
+No Allow Preferential 
+Bidder
+No
+Critical Dates
+Publish Date 15-Jul-2025 06:00 PM Bid Opening Date 12-Aug-2025 03:30 PM
+Document Download / Sale Start 
+Date
+16-Jul-2025 09:00 AM Document Download / Sale End 
+Date
+11-Aug-2025 03:00 PM
+Clarification Start Date 16-Jul-2025 09:00 AM Clarification End Date 27-Jul-2025 05:00 PM 
+Bid Submission Start Date 02-Aug-2025 09:00 AM Bid Submission End Date 11-Aug-2025 03:00 PM
+Tender Documents
+NIT 
+Document S.No Document 
+Name Description Document 
+Size (in KB)
+1 Tendernotice_1.pdf Bid Documents for ED-REASI. 4617.74 
+Work Item 
+Documents S.No Document Type Document Name Description Document 
+Size (in KB)
+1 Tender Documents Technical_specifications.pdf Technical Documents 33079.13
+2 BOQ BOQ_101783.xls BOQ sheet 366.00
+3 Tender Documents CommercialDocsReasi.pdf Commercial Documents 4600.58
+View GTE Details - PURCHASE GTE(OT-COMMON-LAND BORDER CLAUSE-INTEGRITY PACT)
+S.No Particulars Expected Value Mandatory
+1.0 Do you accept the Fraud Prevention Policy of NTPC Yes Yes
+2.0 Do you accept Withholding and Banning of Business Dealing Policy of NTPC Yes Yes
+3.0 Do You certify full compliance of Integrity Pact Yes Yes
+4.0
+Do you certify full compliance on clause as per tender documents on 
+Restrictions on procurement from a Bidder of a country which shares a land 
+border with India 
+Yes Yes
+5.0 Do you certify full compliance on Qualifying Requirements Yes Yes
+6.0 Do you certify full compliance to all provisions of Bid documents Yes Yes
+Auto Extension Corrigendum Properties for Tender
+Page 2 of 3NTPC Limited eProcurement Portal
+15-07-2025https://www.eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=Publishe...
+Iteration No. of bids required for bid opening a tender Tender gets extended to No. of days
+1. 1 4
+2. 1 4
+3. 1 4
+Bid Openers List
+S.No Bid Opener Login Id Bid Opener Name Certificate Name
+1. abhisheksingh03@ntpc.co.in Abhishek Singh ABHISHEK SINGH
+2. abhishekjain02@ntpc.co.in Abhishek Kumar Jain ABHISHEK KUMAR JAIN
+3. rinkukumaragarwal@ntpc.co.in Rinku Kumar Agarwal RINKU KUMAR AGARWAL
+Tender Properties
+Auto Tendering 
+Process allowed
+No Show Technical bid status No
+Show Finance bid 
+status
+Yes Stage to disclose Bid Details in 
+Public Domain
+Technical Bid Opening 
+BoQ Comparative 
+Chart model
+Normal BoQ Compartive chart decimal 
+places
+2
+BoQ Comparative 
+Chart Rank Type
+L Form Based BoQ No
+TIA Undertaking
+S.No Undertaking to Order Tender complying with Order Reason for non compliance of Order 
+1 PPP-MII Order 2017 Agree
+2 MSEs Order 2012 Not Applicable it is a works contract.
+Tender Inviting Authority
+Name DGM (CnM)
+Address Consultancy Wing EOC Annexe BUILDING, A-8A SECT NOIDA 201301
+Tender Creator Details
+Created By Rinku Kumar Agarwal
+Designation Dy. General Manager/CnM
+Created Date 15-Jul-2025 11:08 AM
+Page 3 of 3NTPC Limited eProcurement Portal
+15-07-2025https://www.eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=Publishe...

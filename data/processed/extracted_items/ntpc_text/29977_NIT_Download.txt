@@ -1,0 +1,851 @@
+         INVITATION FOR EXPRESSION OF INTEREST 
+1 | Page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NTPC Limited 
+ (A Government of India Enterprise)  
+ 
+ 
+ 
+ 
+ 
+ 
+Invites 
+EXPRESSION OF INTEREST (EOI) 
+For 
+Exploring the OEMs/ Expert Agency/Research Institute for design of Steam Turbine at 55% 
+TMCR Load as best efficiency point for New Upcoming sub-critical & super-critical Units 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+         INVITATION FOR EXPRESSION OF INTEREST 
+2 | Page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DOCUMENTS OF EOI 
+ 
+This EOI document comprises the following sections: 
+ 
+(i) Section I : EOI Information 
+(ii) Section II : Introduction 
+(iii) Section III : Instructions to the Applicants 
+(iv) Section IV : Consideration of Response 
+(v) Section V : Application Form and Annexures 
+         INVITATION FOR EXPRESSION OF INTEREST 
+3 | Page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section - I 
+ 
+ 
+EOI Information 
+         INVITATION FOR EXPRESSION OF INTEREST 
+4 | Page 
+ 
+ 
+ 
+ 
+DETAILED NOTICE INVITING EXPRESSION OF INTEREST (EOI) 
+ 
+ 
+EOI No.: NTPC/EOC/EOI/STMTUR/2026-27                                            Date: 12.06.2026 
+ 
+NTPC Limited is Inviting an Expression of INTEREST (EOI) exploring the OEMs/ Expert 
+Agency/Research Institute from India for design of Steam Turbine at 55% TMCR Load as best 
+efficiency point for New Upcoming sub-critical & super-critical Units. 
+ 
+1. NTPC Limited (A Government of India Enterprise) intends to explore the Expert 
+Agency/OEMs for design of Steam Turbine at 55% TMCR Load as best efficiency point 
+for New Upcoming sub-critical & super-critical Units . In this regard, NTPC Limited 
+invites Expression of Interest (EOI). (Hereinafter called APPLICANT).  
+ 
+Note: This EOI is to assess prospects of OEMs/ Expert Agency/Research Institute 
+from India for design of Steam Turbine at 55% TMCR Load as best efficiency point for 
+New Upcoming sub-critical & super-critical Units . After identifying the APPLICANTs 
+through EOI who are interested in design of Steam Turbine at 55% TMCR Load as best 
+efficiency point for New Upcoming sub-critical & super-critical Units and fulfilling all 
+technical requirements, “Applicant” base shall be prepared. 
+ 
+2. DOWNLOAD AND TIMELINES FOR SUBMISSION OF EOI 
+ 
+a. Interested APPLICANTs may download the documents of EOI free of cost 
+from www.ntpctender.com & https://eprocurentpc.nic.in 
+ 
+b. Last date for submission of EOI : 15.07.2026 
+c. Response Validity :     2 months from 
+Last Date of 
+EOI Submission 
+3. NTPC Limited encourages submission of EOI in soft copy. For consideration of 
+EOI, APPLICANTs are required to e-mail softcopy of EOI, completed in all respect, 
+through e- mail mentioned hereunder. If APPLICANTS also wish to submit hard 
+copies of the EOI, the same can be submitted either in person or by registered/ 
+speed post till the last date of submission of EOI to the following address: - 
+ 
+To: Satyendra Kumar Singh, DGM (PEM-Mech/TG) 
+Email: satyendraksingh@ntpc.co.in 
+Project Engineering (Mechanical), 
+NTPC Limited, SRHQ, NTPC Bhavan, Kavadiguda, Secunderabad-500080 
+ 
+4. NTPC Limited reserves the right to reject or accept any or all applications, 
+cancel/withdraw the EOI process without assigning any reason whatsoever and in 
+such case, APPLICANT shall not have any claim arising out of such action. NTPC 
+bears no responsibility or liability of any kind in reference to the EOI. 
+         INVITATION FOR EXPRESSION OF INTEREST 
+5 | Page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section - II 
+ 
+ 
+Introduction 
+         INVITATION FOR EXPRESSION OF INTEREST 
+6 | Page 
+ 
+ 
+ 
+ 
+1. INTRODUCTION 
+ 
+i. NTPC Limited is a Govt. of India Enterprise. NTPC group produces electricity 
+through its cluster of gas, coal, hydro and RE based power stations of more than 
+90 GW capacity spanning across the country. 
+ 
+ii. NTPC Limited, in keeping focus on evolving power market, intends to explore for 
+OEMs/ Expert Agency/Research Institute for design of Steam Turbine at 55% TMCR 
+Load as best efficiency point for New Upcoming sub-critical & super-critical Units. 
+ 
+ 
+iii. NTPC Limited intends to engage a technically competent and experienced OEMs/ 
+Expert Agency/Research Institute  to undertake a comprehensive study for 
+recommending Steam turbine design with best efficiency/cycle heat rate at 55% 
+of maximum continuous rating (MCR) load. The study will involve identification, 
+evaluation, and recommendation of design modifications and advanced 
+technologies for improving the heat rate and efficiency of new upcoming sub-
+critical & supercritical steam turbine units at 55% TMCR load, while maintaining 
+operational flexibility, reliability, and grid support requirements. Study aims to 
+cover the upcoming entire fleets of sub-critical units 200 MW, 500 MW, 600 MW 
+and super-critical units of 660 MW & 800 MW capacity. 
+ 
+ 
+iv. Based on response in EOI, NTPC Limited intends to consolidate the interested 
+‘Applicant’ base and get the said study done. Tendering process and associated 
+modalities in this regard shall be subsequently finalized. ‘Applicant’ are 
+requested to submit their budgetary offer also with this EOI for conducting said 
+study.  
+v. The essential data to be submitted with the EOI application and experience of 
+the ‘Applicant’ for this EOI is detailed in subsequent sections of this document. 
+         INVITATION FOR EXPRESSION OF INTEREST 
+7 | Page 
+ 
+ 
+ 
+ 
+2. INTENT OF THE EXPRESSION OF INTEREST (EOI) 
+ 
+The purpose of this Expression of Interest (EOI) is to identify and engage reputed Steam 
+turbine OEMs, Research institutions and Expert Agencies from India possessing proven 
+expertise in steam turbine design and thermal performance optimization for utility-scale 
+power plants. 
+ 
+For design of Steam Turbine at 55% Load as best efficiency point, the study is intended but 
+not limited to: 
+ 
+i. Identify innovative steam turbine design features and technologies capable of 
+improving heat rate and efficiency at 55% Load. 
+ii. Evaluate global best practices adopted in sub-critical steam turbine units and 
+supercritical steam turbine units for flexible and efficient low-load operation. 
+iii. Assess opportunities for optimization of HP, IP, and LP turbine steam paths to 
+minimize efficiency degradation at 55% Load. 
+iv. Examine advanced blade profiles, sealing technologies, exhaust hood designs, 
+moisture management systems, and other turbine improvements for enhanced 
+performance at 55% Load. 
+v. Study thermodynamic cycle modifications and regenerative cycle optimization 
+measures that can improve overall plant heat rate at 55% Load. 
+vi. Identify design provisions that may be incorporated to achieve superior operating 
+efficiency at part load of 55% and without much attention at full load performance 
+i.e., at 100% Load. However, unit capability for 105% shall be also ensured with 
+respect to grid requirements. 
+vii. Evaluate advanced control philosophies, sliding pressure operation strategies, 
+Overload valve use strategy, Control stages design (If applicable), Governing 
+system design and flexible operation features suitable for upcoming thermal power 
+stations. Further, operational strategies to reduce the start-up time of Steam Turbine 
+in view of two-shift operation.  
+viii. Benchmark domestic and international technologies, research findings, and 
+operating experiences relevant to part load steam turbine efficiency enhancement. 
+ix. Quantify the potential heat rate improvement achievable through recommended 
+design interventions. 
+x. Develop technical guidelines and design recommendations for incorporation in 
+future 200/500/600 MW sub-critical, 660 MW and 800 MW supercritical steam 
+turbine procurement specifications. 
+xi. Support NTPC in developing next-generation thermal power units capable of 
+meeting future grid flexibility requirements while maintaining best in class efficiency 
+at 55% Load with reliability. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         INVITATION FOR EXPRESSION OF INTEREST 
+8 | Page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section - III 
+ 
+ 
+Instructions to the Applicants 
+         INVITATION FOR EXPRESSION OF INTEREST 
+9 | Page 
+ 
+ 
+ 
+ 
+1. The Applicants should note that: 
+ 
+i. Applicants shall submit their Expression of Interest (EOI) along with all relevant 
+supporting documents demonstrating their technical expertise and experience. 
+ii. Applicants shall clearly indicate their understanding of the design study objectives 
+and proposed approach for achieving heat rate improvement in upcoming 
+200/500/600 MW sub-critical, 660 MW and 800 MW super-critical steam turbine 
+units at 55% Load. 
+iii. Applicants shall provide details of relevant assignments, studies, research work, or 
+projects executed in the field of steam turbine design, thermal performance 
+improvement and cycle optimization. 
+iv. Applicants shall furnish details of key technical personnel proposed for the study, 
+including their qualifications, experience, and areas of specialization. 
+v. Applicants shall provide details of analytical tools, software, modelling capabilities, 
+laboratories, testing facilities, and proprietary technologies available with them. 
+vi. Applicants shall submit details of publications, patents, technical papers, research 
+activities, or technology developments relevant to steam turbine performance 
+enhancement, as applicable. 
+vii. Applicants shall highlight their experience in subcritical and supercritical steam 
+turbine technologies, particularly for utility-scale units of 200/500 MW and above. 
+viii. Applicants shall indicate their experience in low-load operation, flexible operation, 
+part-load efficiency improvement, and advanced turbine cycle optimization. 
+ix. Applicants shall furnish documentary evidence in support of all claims regarding 
+technical expertise, project experience, and their capabilities. 
+x. All information submitted shall be complete, accurate, and duly authenticated by an 
+authorized representative of the applicant. 
+xi. NTPC reserves the right to seek additional information, clarifications or technical 
+discussions from any applicant during the evaluation process. 
+xii. Submission of an EOI shall not constitute any commitment by NTPC for issuance of 
+a tender, award of work, or reimbursement of any costs incurred by the applicant. 
+xiii. NTPC reserves the right to accept or reject any or all EOIs without assigning any 
+reason thereof. 
+xiv. Applicant shall make themself duly aware with CEA & CERC regulations which shall 
+be taken care while performing the above Steam Turbine design at 55% Load and 
+propose their recommendation. Design study shall also include the key 
+recommendation which needs to taken up with regulatory bodies in respect of heat 
+rate improvement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         INVITATION FOR EXPRESSION OF INTEREST 
+10 | Page 
+ 
+ 
+ 
+ 
+2. Enquiries and clarifications 
+ 
+Any clarifications on the EOI may be sought to the following via email:  
+ 
+To: Satyendra Kumar Singh, DGM (PEM-Mech/TG & System) 
+Email: satyendraksingh@ntpc.co.in 
+Project Engineering (Mechanical), 
+NTPC Limited, SRHQ, NTPC Bhavan, Kavadiguda, Secunderabad-500080 
+ 
+3. Corrigendum 
+ 
+At any time before the last date of submission of EOIs, NTPC may, for any 
+reason, whether at its own initiative or in response to a clarification requested by 
+an Applicant, modify the EOI document. The amendment will be posted on the 
+website and will be binding on the Applicants and the Applicant will give due 
+consideration to the same, while they submit their EOIs, and would invariably 
+enclose documents/ information, as required, on account of the amendment, as a 
+part of the EOI. NTPC may, at its discretion, extend the deadline for the 
+submission of EOIs. 
+ 
+ 
+4. Preparation of the response to EOI 
+The application of EOI consists of the following: 
+(a) Annexure 1,2, & 3 of Section-V 
+ 
+5. Validity of the responses 
+ 
+The Applicant shall submit the responses which shall remain valid up to two (2) 
+months after the response Deadline (“Response Validity”). NTPC reserve the right 
+to reject any response, which does not meet the aforementioned validity 
+requirement. 
+ 
+NTPC may solicit the Applicant’s consent for an extension of the period of validity 
+of the response. The request and the response in this regard shall be in writing. In 
+the event any Applicant refuses to extend its response validity as requested by 
+NTPC, NTPC shall terminate processing of such Applicant’s responses. An 
+Applicant accepting NTPC request for validity extension shall not be permitted to 
+modify its response. 
+ 
+ 
+ 
+ 
+         INVITATION FOR EXPRESSION OF INTEREST 
+11 | Page 
+ 
+ 
+ 
+ 
+6. Submission of the response to EOI 
+ 
+The responses to the EOI are to be submitted in soft copy via below e-mail format  
+ 
+To: satyendraksingh@ntpc.co.in 
+ 
+Ref. EoI No.  Dated 
+ 
+Submitted to: 
+To: Satyendra Kumar Singh, DGM (PEM-TG & System) 
+Email: satyendraksingh@ntpc.co.in 
+Project Engineering (Mechanical), 
+NTPC Limited, SRHQ, NTPC Bhavan, Kavadiguda, Secunderabad-500080 
+ 
+Submitted by: 
+Name, address & contact no. of the Applicant 
+ 
+All the pages of the response should be duly stamped and signed by the authorized 
+signatory in whose favour the Power of Attorney is issued. 
+ 
+The responses to the EOI should be submitted within the Deadline as mentioned 
+in this document. 
+ 
+ 
+7. Costs and expenses towards response to EOI 
+ 
+The Applicants shall be responsible for all the costs associated with the preparation 
+of the response and participation in discussions and finalization & execution of the 
+documents related with this EOI, NTPC shall not be responsible in any way for 
+such costs, regardless of the conduct or outcome of this short-listing/ selection 
+process. 
+ 
+8. Confidentiality 
+ 
+The Applicants undertake to hold in confidence this EOI and any document related 
+or pursuant to this EOI and not to disclose the terms and conditions of the 
+transaction contemplated hereby to third parties, except: 
+ 
+(a) To their professional advisors. 
+ 
+(b) To their officers, contractors, employees, agents or representatives, financiers, 
+who need to have access to such information for the proper performance of their 
+         INVITATION FOR EXPRESSION OF INTEREST 
+12 | Page 
+ 
+ 
+ 
+ 
+activities. 
+ 
+(c) Disclosures required under applicable Law, without the prior written consent of the 
+other parties of the concerned agreements. 
+ 
+Provided that the Applicant(s) agrees and acknowledges that NTPC may at any 
+time, disclose the terms and conditions of this EOI and any document related or 
+pursuant to this EOI to any person, to the extent stipulated under the applicable 
+Law. 
+ 
+9. Disclaimer 
+ 
+(a) This Expression of Interest (EOI) has been prepared by NTPC Ltd. to 
+consolidate the interested “Applicant” base for the OEMs/ Expert 
+Agency/Research Institute for design of Steam Turbine at 55% TMCR Load as 
+best efficiency point for New Upcoming sub-critical & super-critical Units. 
+ 
+ 
+(b) In submitting an expressed EOI in response to the EOI, the Applicants certify 
+that it understands, accepts and agrees to the disclaimers on this page. Nothing 
+contained in any other provision of the EOI nor any statements made orally or in 
+writing by any person or party shall have the effect of negating or superseding 
+any of the disclaimers set forth herewith. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         INVITATION FOR EXPRESSION OF INTEREST 
+13 | Page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section-IV 
+ 
+ 
+ 
+Consideration of Response 
+         INVITATION FOR EXPRESSION OF INTEREST 
+14 | Page 
+ 
+ 
+ 
+ 
+RESPONSIVENESS/EVALUATION METHODOLOGY 
+ 
+1. Responsiveness check 
+ 
+The responses submitted by Applicants shall be scrutinized to establish expertise 
+in Steam Turbine design and thermal performance optimization for utility-scale 
+power plants. 
+ 
+a. Responses that are incomplete, i.e. not accompanied by any of the applicable 
+formats inter alia covering letter, applicable undertakings, provided in more 
+details at annexure in Section-V. 
+ 
+b. Responses not accompanied by Essential Information as prescribed in Annexure 
+3 in Section-V. 
+ 
+c. Responses not signed by authorized signatory and / or stamped in the manner 
+indicated in this EOI. 
+ 
+d. Material inconsistencies in the information/ documents submitted by the 
+Applicant. 
+ 
+e. An Applicant submitting more than one response to this EOI either itself or 
+through an affiliate or subsidiary company. 
+ 
+f. Response validity being less than that required as per Clause 5 of section-III of 
+this EOI. 
+ 
+g. Response being conditional in nature. 
+ 
+h. Response not received by the response Deadline. 
+ 
+i. Response having Conflict of Interest. 
+ 
+j. Applicant delaying in submission of additional information or clarifications 
+sought by NTPC, as applicable. 
+ 
+All response to the EOI that shall meet the responsive check requirements set out 
+above in this section of the EOI document shall be considered as responsive. In 
+case of non- submission of relevant details as above, the responses may be 
+considered as “non-responsive”, at the sole discretion of NTPC and will not be 
+considered further. 
+         INVITATION FOR EXPRESSION OF INTEREST 
+15 | Page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section-V 
+ 
+ 
+Application Form & Annexures 
+         INVITATION FOR EXPRESSION OF INTEREST 
+16 | Page 
+ 
+ 
+ 
+ 
+Annexure-1 
+ 
+FORMAT FOR COVERING LETTER CUM UNDERTAKING 
+(The covering letter should be on the Letter Head of the Applicant) 
+Date  :    
+Place :    
+ 
+To, 
+……………………………. 
+ 
+Sub.: (INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+ 
+Ref.:  EoI No.  , dated  (the “EOI”) 
+ 
+Dear Sir, 
+ 
+We, the undersigned ……. [insert name of the “Applicant”] having read, examined 
+and understood in detail the (INVITATION FOR EXPRESSION OF INTEREST). 
+We confirm that neither we nor any of our Parent Company/ Affiliate/ Ultimate 
+Parent Company has submitted response other than this response directly or 
+indirectly in response to the aforesaid EOI. 
+ 
+1. We give our unconditional acceptance to the EOI, issued by NTPC Limited, as 
+amended. In token of our acceptance to the EOI, the same have been signed 
+& stamped by us and enclosed to the response. We hereby confirm that the 
+provisions of the EOI shall be binding on us. 
+ 
+2. We are not from a country sharing land border with India. 
+ 
+3. We have submitted our response strictly as per provisions and formats of the 
+EOI, without any deviations, conditions and without mentioning any 
+assumptions or notes. 
+ 
+4. We hereby unconditionally and irrevocably agree and accept that the decision 
+made by NTPC Limited in respect of any matter regarding or arising out of the 
+EOI shall be binding on us. We hereby expressly waive any and all claims in 
+respect of EOI process. We confirm that there are no litigations or disputes 
+against us, which materially affect our ability to participate or function under the 
+obligations with regard to EOI. 
+         INVITATION FOR EXPRESSION OF INTEREST 
+17 | Page 
+ 
+ 
+ 
+ 
+5. Details of the contact person are furnished as below: 
+Name: 
+Designation: 
+Address: 
+Contact numbers: 
+email id: 
+6. We are enclosing herewith the entire response containing duly signed formats 
+in electronic format sent via email to: -------------------- as per the EOI for 
+consideration. 
+ 
+7. It is confirmed that our response is consistent with all the requirements of sub- 
+mission as stated in the EOI and subsequent communications from NTPC 
+Limited, if any. 
+ 
+8. The information submitted in our response is complete, strictly as per the 
+requirements stipulated in the EOI and is correct to the best of our knowledge 
+and understanding. We would be solely responsible for any errors or omissions 
+in our response. 
+ 
+9. We confirm that all the terms and conditions of our response are valid for 
+acceptance for a period of two (2) months from the response Deadline. 
+ 
+10. We confirm that we have not taken any deviation so as to be deemed “ Non- 
+Responsive” as stipulated in Section-IV of this EOI. 
+ 
+11. We understand that you are not bound to accept any response you receive. 
+ 
+We remain, 
+ 
+Yours sincerely 
+ 
+ 
+ 
+(Name, Designation and Signature of Authorized Person in whose name Power of 
+Attorney is issued) 
+         INVITATION FOR EXPRESSION OF INTEREST 
+18 | Page 
+ 
+ 
+ 
+ 
+ 
+Annexure-2 
+ 
+INFORMATION TO BE SUBMITTED BY APPLICANT 
+ 
+ 
+(Note: Documents in support of meeting the respective requirement shall be sub- 
+mitted by the Applicant.) 
+1. Name of the Company/ Research institute/ Expert agency/OEM: 
+ 
+2. Legal status of the Company / Research institute/ Expert agency / OEM: 
+ 
+3. Brief description of the Company / Research institute/ Expert agency / OEM 
+including details of its business groups/subsidiaries/ affiliates: 
+ 
+4. Existing design office / R&D office / R&D Lab facility / Manufacturing facilities (If 
+any) – Locations (Country name): 
+ 
+NOTE: Strikethrough wherever not applicable 
+5. Date of Incorporation: 
+6. Date of Commencement of Business: 
+7. Full address including Telephone nos. / Fax nos.: 
+a. Registered Office: 
+b. Head Office: 
+c. Address for communication: 
+d. Contact Details: 
+e. Office Address in India, if any: 
+ 
+8. Documents to be enclosed: 
+ 
+Credentials – Relevant Product/System catalogues, Research papers published, 
+Experience /Reference List, Copies of Customer Certificates, collaborations/tie-
+ups with designers and manufacturers (as applicable), Supporting document for 
+technology ownership (as applicable), details of manufacturing facility including 
+location and country name, quality accreditations, etc. 
+ 
+9. Any other documents considered relevant. 
+ 
+(Sign & Seal) 
+Authorized signatory 
+         INVITATION FOR EXPRESSION OF INTEREST 
+19 | Page 
+ 
+ 
+ 
+ 
+Annexure-3 
+ 
+INFORMATION TO BE SUBMITTED BY APPLICANT SEPARATELY FOR 
+THEIR DESIGN AND EFFICIENCY OPTIOMISATION EXPERIENCE AT PART 
+LOAD FOR 200/500 MW AND ABOVE UNIT SIZES (Sub-critical/Super-
+critical) 
+ 
+Essential Information: 
+ 
+1. Details of past Steam Turbine Performance Improvement design studies performed at 
+part load. The details of design study to be submitted as per table below: 
+ 
+Sl. No. Particulars Details to be Furnished by Applicant 
+a)  Project Name Name of Power Plant / Utility 
+b)  Client Name Owner/Utility Name 
+c)  Country Country where study was performed 
+d)  Year of Completion Year of study completion 
+e)  Unit Rating MW Capacity of Unit 
+f)  Steam Turbine Type Subcritical / Supercritical / Ultra-
+supercritical 
+g)  Turbine Configuration Tandem Compound / Cross Compound / 
+Single Reheat / Double Reheat 
+h)  Condenser Cooling System Water cooled condenser / Air cooled 
+condenser 
+i)  Scope of Study 
+Heat Rate Improvement / Flexible 
+Operation / Steam Path Optimization / 
+Cycle Optimization 
+j)  Minimum Unit Load 
+Considered for Heat rate 
+optimization point 
+Minimum load (% TMCR) covered under 
+study 
+k)  Baseline Gross Heat Rate kcal/kWh before implementation 
+l)  Improved Gross Heat Rate kcal/kWh after 
+implementation/recommendation 
+m)  Net Heat Rate Improvement 
+Achieved kcal/kWh 
+n)  Percentage Heat Rate 
+Improvement % 
+o)  Turbine Areas Studied 
+HP / IP / LP Turbine / Governing System / 
+Seals / Exhaust Hood / Cycle components 
+modified etc. 
+         INVITATION FOR EXPRESSION OF INTEREST 
+20 | Page 
+ 
+ 
+ 
+ 
+p)  Major Recommendations 
+Proposed Brief description 
+q)  Steam Path Modifications 
+Recommended Yes / No (Provide details) 
+r)  Blade Path Redesign 
+Involved Yes / No (Provide details) 
+s)  Advanced Sealing 
+Technology Proposed Yes / No (Provide details) 
+t)  Exhaust Hood Optimization 
+Proposed Yes / No (Provide details) 
+u)  Variable Pressure Operation 
+Evaluated Yes / No (Provide details) 
+v)  Flexible Operation 
+Assessment Conducted Yes / No (Provide details) 
+w)  CFD Analysis Performed Yes / No (Provide details) 
+x)  Thermodynamic Cycle 
+Modelling Performed Yes / No (Provide details) 
+y)  Capital Investment incurred 
+in efficiency improvement at 
+part load 
+INR/Applicable currency 
+z)  Estimated Payback Period Years 
+aa)  Recommendations 
+Implemented by Client Fully / Partially / Not Implemented 
+bb)  Verified Performance 
+Improvement After 
+Implementation 
+Yes / No 
+cc)  Client Reference Contact 
+Details Name, Designation, Email, Phone No. 
+dd)  Supporting Documents 
+Enclosed 
+Completion Certificate / Client Letter / 
+Performance Report 
+ee)  Any adverse experience 
+after implementation of 
+recommendation 
+Yes / No (Provide details) 
+ff)  
+Any specific Steam Turbine 
+based plant included in 
+design study for efficiency 
+improvement at part load 
+Yes / No (Provide details) 
+gg)  
+Implementation time of 
+proposed recommendation 
+including shutdown period 
+required of plant (If any) 
+Months 
+Note: Applicants shall submit documentary evidence substantiating the claimed 
+efficiency improvement at part load, including performance test reports (If available), 
+client certificates, published papers, completion certificates, or equivalent technical 
+documents. 
+         INVITATION FOR EXPRESSION OF INTEREST 
+21 | Page 
+ 
+ 
+ 
+ 
+ 
+2. Budgetary offer: 
+Applicants shall submit a budgetary offer for carrying out the said study, including details 
+of the study methodology, deliverables, estimated man-month deployment, travel 
+requirements (if any), and validity of the budgetary offer.  
+ 

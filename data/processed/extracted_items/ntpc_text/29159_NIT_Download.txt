@@ -1,0 +1,129 @@
+NTPC LTD 
+CC-OS 
+EOC NOIDA 
+ 
+Sub: Qualifying Requirement for Vendor Enlistment for supply of Bag filter. 
+ 
+ 
+A)  MEG DETAILS    
+  1.0  MEG NO.  56MEC‐08 
+  2.0  MEG DESCRIPTION  Bag filter 
+  3.0  RESPONSIBILITY CENTRE  CC 
+B)  Technical Criteria of QR:  
+1. The applicant should be a manufacturer of Bag filters. 
+2. The applicant should have supplied Bag filters to Thermal Power Plants for Fly ash Handling 
+System. 
+ 
+ 
+C)  Other Documents to be submitted: In addition to the documents required in support of meeting technical 
+requirements as stated above, following documents are required to be submitted by the Applicants 
+applying for enlistment:‐ 
+1. Three POs of the highest executed values of similar work during previous five years from the date of 
+application. Copy of  Invoice / Completion  certificate from the concerned buyer/s in support of 
+successful execution of supply against the POs to be submitted. 
+2. Audited balance sheet including Profit & Loss statement for the previous three completed financial years 
+reckoned from the date of application. In case the audited documents are not ready / available, then 
+certified copy by a registered practicing Chartered accountant may be submitted. 
+3. Latest annual report OR NSIC / SSI / MSME registration certificate / BIS license / ISO certificate / 
+Certificate of registration from the concerned excise department / any other statutory document as a proof 
+of being manufacturer of the required material. 
+4. Any other documents in addition to the above which the applicant wants to submit. 
+D)  NOTE‐1  Similar works means: Supply of Bag filters to Thermal Power Plants or Main package contractors 
+for Ash handling /Dry Ash Extraction & Transportation system. 
+  NOTE‐2  The executed value means Basic value of quantity of similar works executed/supplied against the 
+reference PO(also applicable to partly executed POs as on date of application).Where PO value is 
+composite(i.e. including Taxes etc.),the applicant to give item‐wise break‐up of Composite PO 
+value mentioning Basic Value, Taxes etc. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+NTPC LTD 
+CC-OS 
+EOC NOIDA 
+ 
+Sub: Technical Specifications for Vendor Enlistment for supply of Bag Filters. 
+ 
+ 
+A)  MEG DETAILS    
+  1.0  MEG NO.  56MEC‐08 
+  2.0  MEG DESCRIPTION  Bag Filters 
+  3.0  RESPONSIBILITY CENTRE  CC 
+B)  Technical Specifications: For filter bags (Fabric only) for buffer hopper & silo bag 
+filter applications 
+S.NO.  SPECIFICATION  BUFFER HOPPER  SILO 
+1  Safe Operating temperature    
+  Continuous (deg C)  180  140 
+  Peak (deg C)  200  150 
+2  Site data    
+  Drag to be attached (if any)    
+  Length    
+  Diameter    
+3 a  Fabric Composition MOC  100% META‐ ARAMID  100% POLYESTER‐ PES 
+3 b   SCRIM MOC  100% High temp fibre 
+glass 
+100% PES‐ Filament 
+Scrim 
+4  Fabric Structure (Woven or non woven)  NONWOVEN NEEDLE 
+FELT 
+NONWOVEN NEEDLE 
+FELT 
+a.  Fabric Weight (gm/m2)  560 GSM  575 GSM 
+4 b  Fabric thickness(mm) (minimum)  2  2 
+5  Tensile Strength sample size (200mmX 
+50mm) 
+  
+5 a  Machine direction (KGS)  60 KGS  100KGS 
+5 b  Cross direction (KGS)  65 KGS  110 KGS 
+6  Bursting strength (kg)  25kg  35 kg 
+7  Elongation at break (%)    
+7 a  Lengthwise  25%  30% 
+7 b  Crosswise  25%  35% 
+8  Air permeability @ 20mm wc  160 Liters/dm2/min  160 Liters/dm2/min 
+9a  Bag filter should be Calendered, Heat set, 
+flame singed 
+  
+9b  Egg shell finish  NA  Yes 
+9 c  Oil & water repellent chemical treatment   Deep bath 
+fluorocarbon (PTFE) 
+treatment 
+Deep bath 
+fluorocarbon (PTFE) 
+treatment  
+10  For fabric above details to be complied. For other details, GA of bag filters assembly of OEM 
+to be enclosed by site. 
+11  Testing Requirements 
+  Filter bags from each production batch shall be tested for the following properties by the 
+manufacturer prior to dispatch 
+1) Type of polymer : Test method ASTM D276 
+2) Weight : Test Method ASTM D 3776/IS 14716 
+3) Thickness: Test Method ASTM D 5199 
+4) Air Permeability : Test Method ASTM D 737 
+5) Tensile (Machine Direction & Cross Direction) and Elongation at Break (Lengthwise 
+& crosswise) : Test Method ASTM D 5035/IS 1969 
+6) Bursting strength : Test Method ASTM D 3786/IS 1966 
+7) Dimensional, Finish & Treatment on each filter bag 
+NTPC RIO shall review manufacturer test certificate/ test record and shall select (at 
+random) one bag of each type for each inspection lot for re‐ confirming the test result 
+as per manufacturer test certificate/ test record at 3rd party specialized fabric testing 
+labs like 
+• The Bombay Textile Research Association (BTRA) 
+• Indian Jute Industries Research Association (IJIRA) 
+• Dept. of Jute & Fibre Technology (University of Calcutta) 
+• Ahmedabad textile Industry’s Research Association (ATIRA) 
+“Test Certificate” from the third party lab will be directly mailed/ dispatched to NTPC 
+RIO. 
+If the randomly selected sample fails in testing, then re –testing will be allowed only 
+once on double sampling basis (i.e. 2 bags of each type for each inspection lot, shall be 
+selected at random), in the same third party lab in which original sample was tested. 
+The lot shall be accepted only when both the samples selected pass the test in the third 
+party lab. 
+ 
+ 
+ 
+ 

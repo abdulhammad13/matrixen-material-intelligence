@@ -1,0 +1,300 @@
+ 
+NTPC LTD 
+CORPORATE OPERATION SERVICES, EOC, NOIDA 
+VENDOR ENLISTMENT FOR O&M WORKS PACKAGE ON PAN NTPC 
+BASIS 
+1 CEG No.   BMD-24 
+2 Brief description of 
+CEG 
+Residual Life Assessment Study of Boiler & Auxiliaries of One Unit of 200 
+MW or above 
+3 Responsibility Centre CPC 
+4 Brief scope of work Residual Life Assessment Study of Boiler & Auxiliaries of One Unit Of 
+200 MW or above 
+1. The necessary condition assessment/component damage assessment 
+& studies to evaluate the remaining life of different componentsof 
+1.1 Boiler Namely - Boiler Drum, Water Walls & Extended Water 
+Walls, Platen Water Walls, Economizer, Low Temperature SH, 
+Platen SH, Final SH, Re-Heater, Steam Cooled Walls, Extended 
+Steam Cooled Walls, Steam Cooled Spacer Tubes, Screen Tubes, 
+Ceiling SH, Water Wall Ring Header / Mud Drum, & Water-Wall 
+Outlet Headers, Economizer - Inlet, Intermediate & Outlet Headers, 
+Economizer Link Pipes To Boiler Drum, Water Platen Inlet Headers 
+& Outlet Headers, Steam Cooled Wall Headers, LTSH Inlet & Outlet 
+Header, Platen SH Inlet & Outlet Headers, Final SH Inlet & Outlet 
+Headers, De-SH, Link Headers From LTSH Outlet Header To Platen 
+SH Inlet Header and Platen SH Outlet Header to Final SH Inlet 
+Header, De-SH In Cold Reheat Pipe Line Critical Piping (From 
+Boiler End to Turbine End)-Main Steam (Left and Right), Hot Reheat 
+(Left & Right), Cold Reheat (Left &Right), Feed Water Piping 
+from BFP to Economizer Inlet and Aux.PRDS. 
+1.2 Oxide scale thickness measurement of all tubes of all Super-
+heater and Re-heater coils.(Approx 1500 points) perunit. 
+2 Inspect the De- super heater spray nozzles and liner in the LTSH outlet 
+header and in cold reheatlines. 
+3 This includes all necessary and appropriate NDT techniques, 
+in-situ tests, lab tests and software requirements for the 
+abovepurpose. 
+4 Components life expectancy with sufficient supporting 
+documentation / analysis reports, etc and recommendations 
+regarding subsequent inspections and any change in operating 
+conditions. The summary shall be furnished in the 
+attachedPerforma. 
+5 Necessary component damage assessment for all critical 
+components showing evidence of damage like crack, breakage etc. 
+the component damage assessment shall necessarily include detailed 
+analysis of the crack initiation, growth and recommendations 
+regarding run / repair / replacedecision. 
+6 Furnishing of detailed repair procedure for all components 
+recommended forrepair. 
+7 Furnishing of detailed report on the studies and remaining life 
+of different components including test data, analysis and 
+recommendations in minimum 12sets. 
+8 The location and no. of samples / tests and the nature of tests / 
+inspection which will be done for conducting various condition 
+assessment / component damage assessment studies and for 
+prediction of life of different components shall be to the owner's 
+approval. The nos. and locations of sampling / testing shall be 
+appropriately chosen to be able to make reliable assessment. Bidder 
+shall give all such details before start of studies. Any additional 
+sampling / testing / inspection if required by the owner shall also be 
+carried out by the bidder at no extracost. 
+9 The bidder shall provide and deploy all the requisite 
+consumables , tools and tackles, instruments & diagnostic 
+equipment / software required for comprehensive condition 
+assessment, component damage assessment and for evaluation of 
+remaining life. 
+It is not the intent of the specification to specify each and every item of work 
+and any other job though notspecifically mentioned but required for successful 
+completion of the work shall be included in bidder's scope. 
+DETAILS OF SPECIFICATIONS & PROECEDURES FOR 200 MW 
+BOILER (TECHNICAL BID) 
+In Technical bid the bidder should agree with the scope of work and it 
+should contain a write up on the methodology of RLA studies on major 
+components indicated in scope of work shall be provided with method of 
+calculation of residual life. The codes and practices followed for conducting 
+RLA studies may also be furnished. The bidder is requested to submit the 
+write up on the method of testing with testing instruments / equipment 
+details and standard codes for the following tests. 
+1. Visualinspection 
+2. DPT/LPI 
+3. Fluorescent DPT 
+4. MPI 
+5. Fluorescent MPI 
+6. Ultrasonic test inspection 
+7. Radiography 
+8. Wall thicknessmeasurement 
+9. Insitu Micro Structure (Replica)test 
+10. Dimensional measurement for creepdeformation 
+11. Boroscopic test 
+12. Oxide scale thick. measurement. 
+13. Drum depositanalysis 
+14. Internal depositanalysis. 
+15. External depositanalysis 
+16. Check for hydrogendamage 
+17. Metallurgical analysis and creep rupline test 
+18. Header internalinspection 
+19. Header ligament crackinginspection 
+20. Micro etching of weldments 
+21. Any other test required for completion of the RLAstudy 
+22. Post exposure laboratorytests. 
+Summary of the total tests to be con ducted for boiler & auxiliary, piping may 
+also be submitted.We are enclosing a list of components and sub- components 
+and various RLA tests in Annexure - I for reference. 
+The list of the tests are only indicative & not a comprehensive one, 
+therefore any other tests required to complete the RLA studies on any of the 
+component as per IBR requirement shall be indicated& executed by the 
+bidder 
+ 
+NAME OF WORK: RESIDUAL LIFE ASSESSMENT STUDY OF 
+BOILER & AUXILIARIES OF TWO UNITS OF 200 MW BOILER  
+ 
+Thefollowingisalistoftestswhichareonlyindicativeandnotexhaustiveoneands
+hallbetakenasareference only. Bidder shall provide a detailed list of test for 
+each component required to complete the RLA studies as per scope ofwork. 
+1. BOILER DRUM 
+1. visualinspection 
+2. Internalchecking. 
+3. Drum depositanalysis. 
+4. NDT on circular seam & long seam welds and fillet welds 
+indrum. 
+5. Replica 
+2. WATER WALL 
+1. Visualinspection 
+2. Dimensional measurement in burner and soot blowerzone. 
+3. Hopper zone tubes. 
+ 
+4. Sampling for depositanalysis. 
+5. External depositanalysis. 
+6. NDT on attachment welds (Burner zone and water impound 
+hopper seal plate scalloped barweld.) 
+7. Random checks for hydrogendamage. 
+8. Rear water wall NDT checks on forged reducer. 
+3. WATER PLATENS 
+1. NDT on stub joints (inlet header and outlet header) at 
+accessiblelocation. 
+2. Sampling for internal depositanalysis. 
+4.ECONOMIZER 
+1. visualinspection. 
+2. Dimensional measurement (inlet & outletheader). 
+3. NDT checks on stub joints (inlet & outletheader) 
+4. Sample tube at inlet section for checking internalcondition. 
+5. LOW TEMPERATURESUPER-HEATER 
+1. Visualinspection. 
+2. Dimensional measurement. 
+3. Attachment welds (NDT at accessiblelocation). 
+4. Hanger tube saddle weld checks at accessiblelocations. 
+5. Tube sample for metallurgicalanalysis. 
+6. PLATENSUPER-HEATER 
+1. Visualinspection. 
+2. Dimensionalmeasurement. 
+3. External depositanalysis. 
+4. Dissimilar weld checks (LPI &MPI). 
+5. Dissimilar weld piece sample foranalysis. 
+6. LPI on roof seal band weld. 
+7. Oxide scale thick.Measurement 
+7. FINAL SUPER-HEATER 
+1. Visual inspection. 
+2. Dimensionalmeasurement. 
+3. Sample tube at outlet section for metallurgical analysis and 
+creep rupturetest. 
+4. NDT on roof seal band attachmentweld. 
+5. Oxide scale thicknessMeasurement. 
+8. SCREENTUBES 
+8.1. Visualinspection. 
+8.2. Dimensionalmeasurement. 
+9. STEAM COOLED WALL & EXTENDED SIDE WATER WALL & 
+EXTENDED STEAM COOLEDWALL 
+9.1 Visualinspection. 
+9.2 NDT on attachmentweld. 
+10. RE-HEATER 
+10.1 Visualinspection 
+10.2 Dimensionalmeasurement. 
+10.3 NDT on roof seal band attachmentweld. 
+10.4 Sample tube at out let section for 
+metallurgical analysis and creep 
+rupture test. 
+NDT on dissimilar weldjoints. 
+10.5 Squeezed bend sample & dissimilar weld spoolpiece. 
+10.6 Oxide scale thick measurement. 
+11. WATER WALL RING HEADER &WATER WALL 
+STEAMHEADERS 
+11.1. NDT checks on stubjoints. 
+11.2. Inspection header internal surface through fibroscope 
+12. WATER PLATENHEADERS 
+12.1.    Internal inspection by fibro scope through stubhole. 
+12.2. Ligament crack inspection in the stub hole 
+13.      LTSH INLET HEADER 
+13.1. NDT on welds. 
+13.2. Dimensionalmeasurements. 
+13.3. Ligament crack inspection in the stub hole and internal 
+inspection through fibroscope. 
+13.4. Replica 
+13.5. Hardness 
+14. LTSH OUTLET HEADER 
+14.1. NDT on welds. 
+14.2. Dimensionalmeasurements. 
+14.3. Hardnessmeasurements 
+14.4. Replica. 
+14.5. Ligament crack inspection in the stub hole and internal 
+inspection through fibroscope. 
+15. DE SUPER-HEATERHEADER 
+15.1. Visual 
+15.2. NDT checks onwelds. 
+15.3. Nozzle and linerinspection. 
+15.4. Replica (outlet headeronly) 
+15.5. Header internal inspection using fibroscope 
+15.6. Header support checking. 
+15.7. Ligament crack inspection in the stub hole 
+15.8. Hardness 
+ 
+16. PLATEN SUPER-HEATER HEADERS 
+16.1. NDT checks on welds and in stub joints atrandom 
+16.2. Dimensional measurements. 
+16.3. Hardnessmeasurements. 
+16.4. Replica (outlet & inlet headersonly). 
+16.5. Header internal inspection using fibroscope 
+16.6. Header supportchecking. 
+16.7. Ligament crack inspection in the stub hole 
+17. FINAL SUPER-HEATER AND RE HEATERHEADERS 
+17.1. Visualinspection 
+17.2. NDT checks on welds and in stub joints atrandom 
+17.3. Dimensionalmeasurements. 
+17.4. Hardnesstest. 
+17.5. Replica (outlet & inlet headersonly). 
+17.6. Header internal inspection using fibroscope 
+17.7. Header support checking. 
+17.8. Ligament crack inspection in the stub hole 
+18. PIPING 
+(a) Main steampiping 
+(b) Hot reheatpiping 
+(c) Cold reheatpiping 
+(d) PRDSpiping 
+(e) Feed waterpiping 
+(f) Soot blower systempiping 
+18.1. Visualinspection. 
+18.2. Cold walk down and hot walkdown. 
+18.3. Check onhangers. 
+18.4. NDT checks on specific weldjoints. 
+18.5. Replicationandhardnesstestinbendsandinspecificbuttweld
+locationsonhightemppipingonly. 
+18.6. Vent and drain lines (headers andpipes). 
+ 
+The vendor should have following persons: 
+(i)- One metallurgist deployed for in-situ metallography, 
+(ii)- Two persons having at least Ultrasonic Testing (UT) Level 2      
+certification by ISNT / ASNT 
+(iii)- At least 01 (One) Level 2 certified person in the individual NDT 
+method. 
+(iv) All the equipment to be deployed should have valid calibration from 
+approved NABL lab. 
+Other details of works shall be given in tender document. 
+2.  Technical Qualifying 
+requirements 
+(i) The Applicant must be recognized by Central Boiler Board as Well-
+Known ‘Remnant Life Assessment’ Organisation. 
+(ii) The applicant should have executed the  Residual Life Assessment (RLA) 
+of at least two numbers of boiler (Unit) with rating 200 MW or above during 
+last five years from the date of application. 
+Note- The RLA of Two Units/Boilers should be executed in one or multiple 
+Work Orders. 
+Document to be 
+submitted by Vendor 
+in support  of 
+meeting QR 
+Relevant PO copy and Client’s Completion Certificate/RA bill/Final 
+Deviation Statement and other certificate/documents as mentioned 
+elsewhere 
+ 
+NTPC LTD 
+CORPORATE OPERATION SERVICES, EOC, NOIDA 
+VENDOR ENLISTMENT FOR O&M WORKS PACKAGE ON PAN NTPC 
+BASIS 
+CEG No. BMD-24 
+6 Additional 
+Documents to be 
+submitted 
+In addition to the documents required in support of meeting Technical 
+Qualifying Requirements as stated above, following documents are required to 
+be submitted by the Applicants applying for enlistment:- 
+i . Three POs with BOQ of the highest executed values of similar work during 
+previous five years from the date of ap plication and Copy of Completion 
+Certificate /RA Bill/Final Deviation Statement from the concerned client in 
+support of successful execution of work against each of the POs to 
+besubmitted. 
+i i . Audited balance sheet including Profit & Loss statement for the previous 
+three completed financial years reckoned from the date of application. In 
+case,  the audited documents are not ready/available, then certified copy of 
+financial statement by a registered practicing chartered accountant may be 
+submitted. 
+i i i . NSIC / SSI / MSME registrationcertificate 
+i v . PF and GST/Service Tax registrationcertificate 
+v . Any other documents in addition to the above which the applicant wants 
+to submit. 
+7 NOTES: 1.0  Similar work means: Residual Life Assessment (RLA) of boiler (Unit) with 
+rating 200 MW or above 
+2.0 Value means basic value of the PO. Where PO value is composite (i.e. 
+including Service taxes etc.), the applicant has to give break-up of composite
+PO value mentioning basic value, taxes etc. Executed value of contracts shall 
+include escalation amount because of price adjustment, if any, in thecontract. 
+ 

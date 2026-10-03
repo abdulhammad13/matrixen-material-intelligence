@@ -1,0 +1,1653 @@
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+बड
+बड
+ 
+ 
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid End Date/Time
+27-02-2026 15:00:00
+बड
+बड
+ 
+ 
+खुलने
+खुलने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid Opening
+Date/Time
+27-02-2026 15:30:00
+बड
+बड
+ 
+ 
+पेशकश
+पेशकश
+ 
+ 
+वैधता
+वैधता
+ (
+ (
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+ 
+ 
+से
+से
+)
+)
+/Bid Offer
+Validity (From End Date)
+120 (Days)
+मं ालय
+मं ालय
+/
+/
+रा!य
+रा!य
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Ministry/State Name
+Ministry Of Power
+वभाग
+वभाग
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Department Name
+Na
+संगठन
+संगठन
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Organisation Name
+Ntpc Limited
+काया%लय
+काया%लय
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Office Name
+Cc-eoc Noida
+कुल
+कुल
+ 
+ 
+मा ा
+मा ा
+/Total Quantity
+1
+व&तु
+व&तु
+ 
+ 
+'ेणी
+'ेणी
+ 
+ 
+/Item Category
+Digital Storage Oscilloscope (Q3) 
+( PAC Only )
+एमएसएमई
+एमएसएमई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष.
+वष.
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+4दान
+4दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+/MSE Relaxation for Years of
+Experience and Turnover
+No
+&टाट%अप
+&टाट%अप
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष.
+वष.
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+4दान
+4दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+ /Startup Relaxation for Years of
+Experience and Turnover
+No
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+ 
+ 
+सीमा
+सीमा
+ 
+ 
+&वतः
+&वतः
+ 
+ 
+नहं
+नहं
+ 
+ 
+बढ़ाने
+बढ़ाने
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+आव8यक
+आव8यक
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+सं9या
+सं9या
+।
+।
+ / Minimum number of
+bids required to disable automatic bid
+extension
+1
+;दन<
+;दन<
+ 
+ 
+क
+क
+ 
+ 
+सं9या
+सं9या
+, 
+, 
+>जनके
+>जनके
+ 
+ 
+िलए
+िलए
+ 
+ 
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+बढ़ाई
+बढ़ाई
+ 
+ 
+जाएगी
+जाएगी
+। / 
+। / 
+Number
+ 
+ 
+of
+ 
+ 
+days
+ 
+ 
+for
+ 
+ 
+which
+ 
+ 
+Bid
+would
+ 
+ 
+be
+ 
+ 
+auto
+-
+-
+extended
+3
+ऑटो
+ऑटो
+ 
+ 
+एBसटCशन
+एBसटCशन
+ 
+ 
+अिधकतम
+अिधकतम
+ 
+ 
+;कतनी
+;कतनी
+ 
+ 
+बार
+बार
+ 
+ 
+;कया
+;कया
+ 
+ 
+जाना
+जाना
+ 
+ 
+है
+है
+। /
+। /
+Number
+ 
+ 
+of
+ 
+ 
+Auto
+ 
+ 
+Extension
+ 
+ 
+count
+3
+बड
+बड
+ 
+ 
+से
+से
+ 
+ 
+Dरवस%
+Dरवस%
+ 
+ 
+नीलामी
+नीलामी
+ 
+ 
+स;Eय
+स;Eय
+ 
+ 
+;कया
+;कया
+/Bid to RA enabled
+No
+बड
+बड
+ 
+ 
+का
+का
+ 
+ 
+4कार
+4कार
+/Type of Bid
+Single Packet Bid
+तकनीक
+तकनीक
+ 
+ 
+मूFयांकन
+मूFयांकन
+ 
+ 
+के
+के
+ 
+ 
+दौरान
+दौरान
+ 
+ 
+तकनीक
+तकनीक
+ 
+ 
+&पHीकरण
+&पHीकरण
+ 
+ 
+हेतु
+हेतु
+अनुमत
+अनुमत
+ 
+ 
+समय
+समय
+ 
+ 
+/Time allowed for Technical
+Clarifications during technical evaluation
+2 Days
+ 
+बड
+ 
+सं9या
+/
+Bid
+ 
+Number
+: 
+GEM/2026/B/7249096
+;दनांक
+ /
+Dated
+: 17-02-2026
+बड
+बड
+ 
+ 
+द&तावेज़
+द&तावेज़
+ / Bid Document
+1 / 7
+िनरPण
+िनरPण
+ 
+आव8यक
+आव8यक
+ (
+सूचीबR
+सूचीबR
+ 
+िनरPण
+िनरPण
+ 
+4ािधकरण
+4ािधकरण
+ /
+जेम
+जेम
+ 
+के
+के
+ 
+साथ
+साथ
+पूव%
+पूव%
+ 
+पंजीकृत
+पंजीकृत
+ 
+एजCिसय<
+एजCिसय<
+ 
+Uारा
+Uारा
+)/Inspection Required (By
+Empanelled Inspection Authority / Agencies
+pre-registered with GeM)
+No
+मूFयांकन
+मूFयांकन
+ 
+ 
+पRित
+पRित
+/Evaluation Method
+Total value wise evaluation
+वVीय
+वVीय
+ 
+ 
+द&तावेज
+द&तावेज
+ 
+ 
+क
+क
+ 
+ 
+आव8यकता
+आव8यकता
+ 
+ 
+है
+है
+ / Financial
+Document Required
+Yes
+मWय&थता
+मWय&थता
+ 
+खंड
+खंड
+/Arbitration Clause
+No
+सुलह
+सुलह
+ 
+खंड
+खंड
+/Mediation Clause
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+ईएमड
+ईएमड
+ 
+ 
+ववरण
+ववरण
+/EMD Detail
+आव8यकता
+/Required
+No
+ईपीबीजी
+ईपीबीजी
+ 
+ 
+ववरण
+ववरण
+ 
+ 
+/ePBG Detail
+आव8यकता
+/Required
+No
+बोली
+ 
+वभाजन
+ 
+लागू
+ 
+नहं
+ 
+;कया
+ 
+गया
+/ 
+Bid splitting not applied.
+एमएसई
+एमएसई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MSE Purchase Preference
+एमएसई
+ 
+खरद
+ 
+वरयता
+/MSE Purchase Preference
+No
+एमएसई
+एमएसई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+सPम
+सPम
+ 
+4ािधकार
+4ािधकार
+ 
+का
+का
+ 
+ववरण
+ववरण
+:/Details of the Competent Authority for MSE
+सPम
+ 
+4ािधकार
+ 
+का
+ 
+नाम
+/Name of Competent
+Authority
+AGM
+सPम
+ 
+4ािधकार
+ 
+का
+ 
+पदनाम
+/Designation of Competent
+Authority
+AGM
+सPम
+ 
+4ािधकार
+ 
+का
+ 
+काया%लय
+/
+वभाग
+/
+4भाग
+/Oﬃce /
+Department / Division of Competent Authority
+CC&M
+सीए
+ 
+अनुमोदन
+ 
+सं9या
+/CA Approval Number
+EOC/CONTRACTS/2025-26/1000018781/321495
+सPम
+ 
+4ािधकार
+ 
+अनुमोदन
+ 
+ितिथ
+/Competent Authority
+Approval Date
+17-02-2026
+सPम
+ 
+4ािधकार
+ 
+Uारा
+ 
+4दान
+ 
+क
+ 
+गई
+ 
+&वीकृित
+ 
+का
+ 
+सं>PX
+ववरण
+//Brief Description of the Approval Granted
+by Competent Authority
+Bid is reserved for M/s Convergent Technologies India Pvt
+Ltd authorized representative of M/s Tektronix, USA, for the
+subject case on PAC basis. Any bid other than M/s
+Convergent Technologies India Pvt Ltd shall be outrightly
+rejected.
+Competent Authority Approval for not opting Micro and Small Enterprises Preference : 
+View Document
+एमआईआई
+एमआईआई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MII Purchase Preference
+2 / 7
+एमआईआई
+ 
+खरद
+ 
+वरयता
+/MII Purchase Preference
+No
+एमआईआई
+एमआईआई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+सPम
+सPम
+ 
+4ािधकार
+4ािधकार
+ 
+का
+का
+ 
+ववरण
+ववरण
+:/Details of the Competent Authority for MII
+सPम
+ 
+4ािधकार
+ 
+का
+ 
+नाम
+/Name of Competent
+Authority
+AGM
+सPम
+ 
+4ािधकार
+ 
+का
+ 
+पदनाम
+/Designation of Competent
+Authority
+AGM
+सPम
+ 
+4ािधकार
+ 
+का
+ 
+काया%लय
+/
+वभाग
+/
+4भाग
+/Oﬃce /
+Department / Division of Competent Authority
+CC&M
+सीए
+ 
+अनुमोदन
+ 
+सं9या
+/CA Approval Number
+EOC/CONTRACTS/2025-26/500005961/554831
+सPम
+ 
+4ािधकार
+ 
+अनुमोदन
+ 
+ितिथ
+/Competent Authority
+Approval Date
+17-02-2026
+सPम
+ 
+4ािधकार
+ 
+Uारा
+ 
+4दान
+ 
+क
+ 
+गई
+ 
+&वीकृित
+ 
+का
+ 
+सं>PX
+ववरण
+/Brief Description of the Approval Granted
+by Competent Authority
+Bid is reserved for M/s Convergent Technologies India Pvt
+Ltd authorized representative of M/s Tektronix, USA, for the
+subject case on PAC basis. Any bid other than M/s
+Convergent Technologies India Pvt Ltd shall be outrightly
+rejected.
+Competent Authority Approval for not opting Make In India Preference : 
+View Document
+Single Tender
+Single Tender Applicable
+Yes
+Reason
+The sources of supply are definitely known and possibility of
+fresh source(s) beyond those being tapped is remote.
+List of Seller Organization for participation
+CONVERGENT TECHNOLOGIES INDIA PRIVATE LIMITED
+मWय&थता
+मWय&थता
+ 
+खंड
+खंड
+ 
+के
+के
+ 
+समावेश
+समावेश
+ 
+को
+को
+ 
+मंजूर
+मंजूर
+ 
+देने
+देने
+ 
+वाले
+वाले
+ 
+सPम
+सPम
+ 
+4ािधकार
+4ािधकार
+ 
+का
+का
+ 
+ववरण
+ववरण
+:/Details of the Competent Authority approval
+for PAC
+Competent Authority Approval document for PAC : 
+View Document
+सPम
+ 
+4ािधकार
+ 
+का
+ 
+नाम
+/Name of Competent
+Authority
+AGM
+सPम
+ 
+4ािधकार
+ 
+का
+ 
+पद
+/Designation of Competent
+Authority
+AGM
+सPम
+ 
+4ािधकार
+ 
+का
+ 
+काया%लय
+/
+वभाग
+/
+4भाग
+/Oﬃce /
+Department / Division of Competent Authority
+CC&M
+सीए
+ 
+अनुमोदन
+ 
+सं9या
+/CA Approval Number
+EOC/CONTRACTS/2025-26/500005961/554831
+सPम
+ 
+4ािधकार
+ 
+अनुमोदन
+ 
+ितिथ
+/Competent Authority
+Approval Date
+2026-02-17 00:00:00
+सPम
+ 
+4ािधकार
+ 
+Uारा
+ 
+4दान
+ 
+क
+ 
+गई
+ 
+&वीकृित
+ 
+का
+ 
+सं>PX
+ववरण
+/Brief Description of the Approval Granted
+by Competent Authority
+Bid is reserved for M/s Convergent Technologies India Pvt
+Ltd authorized representative of M/s Tektronix, USA, for the
+subject case on PAC basis. Any bid other than M/s
+Convergent Technologies India Pvt Ltd shall be outrightly
+rejected.
+3 / 7
+एBसेल
+एBसेल
+ 
+ 
+मC
+मC
+ 
+ 
+अपलोड
+अपलोड
+ 
+ 
+;कए
+;कए
+ 
+ 
+जाने
+जाने
+ 
+ 
+क
+क
+ 
+ 
+आव8यकता
+आव8यकता
+ 
+ 
+/Excel Upload Required :
+BOQ.xls - 
+1771310205.xlsx
+Digital Storage Oscilloscope ( 1 pieces ) 
+( Under PAC )
+Make
+tektronix
+Model
+mso242-bw-500t3
+तकनीक
+तकनीक
+ 
+ 
+विशHयाँ
+विशHयाँ
+ 
+ 
+/Technical Specifications
+* 
+जेम
+ 
+केटेगर
+ 
+विशH
+ 
+के
+ 
+अनुसार
+ / 
+As
+ 
+per
+ 
+GeM
+ 
+Category
+ 
+Speciﬁcation
+ववरण
+ववरण
+/Speciﬁcation
+विशH
+विशH
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+ 
+ 
+/Specification
+Name
+बड
+बड
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+आव8यक
+आव8यक
+ 
+ 
+अनुमत
+अनुमत
+ 
+ 
+मूFय
+मूFय
+ 
+ 
+/Bid Requirement
+(Allowed Values)
+INPUT CHANNELS
+Type of input channels
+Analog
+Number of Analog Channels
+4
+Record Length Per Analog
+Channel Simultaneously
+10M points
+Sampling Rate Per Analog
+Channel Simultaneously
+1 GS/sec
+Digital Channels
+no
+Number 
+of Digital Channels
+NA
+Record Length Per Digital
+Channel Simultaneously
+NA
+Sampling Rate Per Digital
+Channel Simultaneously
+2GS/sec, NA
+PERFORMANCE
+FEATURES
+Bandwidth
+500.0 
+(megaHertz)
+Bandwidth Upgradability
+no
+Operating System
+Non -Windows
+DISPLAY
+Display Type
+colour TFT
+Minimum Display Size
+10.0 
+(inch)
+MEASUREMENTS
+FEATURES
+Time Base Accuracy
+25.0 
+(parts per million)
+SERVICE
+Warranty
+3, 4, 5 Or higher 
+(year)
+TEST REPORT
+DETAILS & TESTS
+Availability of Test Reports
+from Central Govt / NABL
+approved / ILAC acredited
+lab to prove conformity to
+the specification
+NO
+4 / 7
+परेषती
+परेषती
+/
+/
+Dरपो;टZग
+Dरपो;टZग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+E.सं.
+E.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Dरपो;टZग
+Dरपो;टZग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+;डलीवर
+;डलीवर
+ 
+के
+के
+ 
+;दन
+;दन
+/Delivery
+Days
+1
+Satish Chand
+201306,E-3, Ecotech-II, Udyog
+Vihar, Greater Noida
+1
+120
+Buyer added Bid Specific 
+Additional Scope of Work
+E.सं.
+E.सं.
+/S.N
+o.
+Document Title
+Description
+Dरवस%
+Dरवस%
+ 
+4भार
+4भार
+ 
+के
+के
+ 
+अनुसार
+अनुसार
+जीएसट
+जीएसट
+/Applicable i.r.o. Items
+1
+SOW
+View
+SOW
+Digital Storage Oscilloscope(1)
+The uploaded document only contains Buyer specific Additional Scope of Work and / or Drawings for the bid items added
+with due approval of Buyer’s competent authority. Buyer has certified that these additional scope and drawings are
+generalized and would not lead to any restrictive bidding.
+Eेता
+Eेता
+ 
+ 
+Uारा
+Uारा
+ 
+ 
+जोड़
+जोड़
+ 
+ 
+गई
+गई
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+वशेष
+वशेष
+ 
+ 
+शत]
+शत]
+/Buyer Added Bid Specific Terms and Conditions
+1
+. 
+Generic
+OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up
+to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to
+increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at
+the contracted rates. The delivery period of quantity shall commence from the last date of original
+delivery order and in cases where option clause is exercised during the extended delivery period the
+additional time shall commence from the last date of extended delivery period. The additional delivery
+time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to
+minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the
+original delivery period. The Purchaser may extend this calculated delivery duration up to the original
+delivery period while exercising the option clause. Bidders must comply with these terms.
+2
+. 
+Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+- All the communication shall happen in GeM.
+- 
+Bid is reserved for M/s 
+Convergent Technologies India Pvt Ltd 
+authorized representative of 
+M/s Tektronix, USA
+, for the subject case on PAC basis. Any bid other than M/s 
+Convergent Tec
+hnologies India Pvt Ltd 
+shall be outrightly rejected.
+.
+3
+. 
+Buyer Added Bid Specific ATC
+Buyer uploaded ATC document 
+Click here to view the file
+.
+अ&वीकरण
+अ&वीकरण
+/Disclaimer
+5 / 7
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+bidding process without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+Category item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+attached categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+case may be.
+15
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+16
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the
+same must be added through bunching category based items or by bunching custom catalogs or
+bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+such representations.
+All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws,
+including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code
+on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working
+Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into
+force by the Government of India.
+For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or
+notifications, the corresponding provisions of the pre-existing labour enactments (such as The
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The
+Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules)
+shall continue to remain applicable.
+The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:
+All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove;
+6 / 7
+and
+All operative provisions of the erstwhile Labour Laws until their complete substitution.
+All obligations relating to wages, social security, safety, working conditions, industrial relations etc.
+and any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-
+compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate
+action in accordance with the contract and applicable law.
+यह
+ 
+बड
+ 
+सामा^य
+ 
+शत.
+ 
+के
+ 
+अंतग%त
+ 
+भी
+ 
+शािसत
+ 
+है
+ 
+/This Bid is also governed by the General Terms and Conditions
+जेम
+ 
+क
+ 
+सामा^य
+ 
+शत.
+ 
+के
+ 
+खंड
+ 26 
+के
+ 
+संदभ%
+ 
+मC
+ 
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+के
+ 
+बडर
+ 
+से
+ 
+खरद
+ 
+पर
+ 
+4ितबंध
+ 
+के
+ 
+संबंध
+ 
+मC
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+का
+ 
+कोई
+ 
+भी
+ 
+बडर
+ 
+इस
+ 
+िनवदा
+ 
+मC
+ 
+बड
+ 
+देने
+ 
+के
+ 
+िलए
+ 
+तभी
+ 
+पा 
+ 
+होगा
+ 
+जब
+ 
+वह
+ 
+बड
+ 
+देने
+ 
+वाला
+सPम
+ 
+4ािधकार
+ 
+के
+ 
+पास
+ 
+पंजीकृत
+ 
+हो
+।
+बड
+ 
+मC
+ 
+भाग
+ 
+लेते
+ 
+समय
+ 
+बडर
+ 
+को
+ 
+इसका
+ 
+अनुपालन
+ 
+करना
+ 
+होगा
+ 
+और
+ 
+कोई
+ 
+भी
+ 
+गलत
+ 
+घोषणा
+ 
+;कए
+ 
+जाने
+व
+ 
+इसका
+ 
+अनुपालन
+ 
+न
+ 
+करने
+ 
+पर
+ 
+अनुबंध
+ 
+को
+ 
+तbकाल
+ 
+समाX
+ 
+करने
+ 
+और
+ 
+कानून
+ 
+के
+ 
+अनुसार
+ 
+आगे
+ 
+क
+ 
+कानूनी
+ 
+कार%वाई
+ 
+का
+ 
+आधार
+ 
+होगा
+।
+/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---
+ध^यवाद
+ध^यवाद
+/Thank You---
+7 / 7

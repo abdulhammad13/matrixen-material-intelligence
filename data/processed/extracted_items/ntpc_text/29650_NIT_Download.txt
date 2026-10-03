@@ -1,0 +1,1716 @@
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+बड
+बड
+ 
+ 
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid End Date/Time
+06-04-2026 14:00:00
+बड
+बड
+ 
+ 
+खुलने
+खुलने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid Opening
+Date/Time
+06-04-2026 14:30:00
+बड
+बड
+ 
+ 
+पेशकश
+पेशकश
+ 
+ 
+वैधता
+वैधता
+ (
+ (
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+ 
+ 
+से
+से
+)
+)
+/Bid Offer
+Validity (From End Date)
+180 (Days)
+मं ालय
+मं ालय
+/
+/
+रा!य
+रा!य
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Ministry/State Name
+Ministry Of Power
+वभाग
+वभाग
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Department Name
+Ntpc Sail Power Company Ltd
+संगठन
+संगठन
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Organisation Name
+Ntpc Sail Power Company Ltd
+काया%लय
+काया%लय
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Office Name
+Nspcl Ssc Bhilai
+व&तु
+व&तु
+ 
+ 
+'ेणी
+'ेणी
+ 
+ 
+/Item Category
+Custom Bid for Services - OUTSOURCING OF JOBS RELATED
+TO OCCUPATIONAL HEALTH CENTRE (OHC), AT NSPCL -
+DURGAPUR
+समान
+समान
+ 
+ 
+'ेणी
+'ेणी
+/Similar Category
+Operation and Maintenance Power House / Power
+Plant
+अनुबंध
+अनुबंध
+ 
+ 
+अविध
+अविध
+ 
+ 
+/Contract Period
+ 2 Year(s)
+एमएसएमई
+एमएसएमई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष.
+वष.
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+4दान
+4दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+/MSE Relaxation for Years of
+Experience and Turnover
+No
+&टाट%अप
+&टाट%अप
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष.
+वष.
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+4दान
+4दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+ /Startup Relaxation for Years of
+Experience and Turnover
+No
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+ 
+ 
+सीमा
+सीमा
+ 
+ 
+&वतः
+&वतः
+ 
+ 
+नहं
+नहं
+ 
+ 
+बढ़ाने
+बढ़ाने
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+आव8यक
+आव8यक
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+सं9या
+सं9या
+।
+।
+ / Minimum number of
+bids required to disable automatic bid
+extension
+3
+;दन<
+;दन<
+ 
+ 
+क
+क
+ 
+ 
+सं9या
+सं9या
+, 
+, 
+>जनके
+>जनके
+ 
+ 
+िलए
+िलए
+ 
+ 
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+बढ़ाई
+बढ़ाई
+ 
+ 
+जाएगी
+जाएगी
+। / 
+। / 
+Number
+ 
+ 
+of
+ 
+ 
+days
+ 
+ 
+for
+ 
+ 
+which
+ 
+ 
+Bid
+would
+ 
+ 
+be
+ 
+ 
+auto
+-
+-
+extended
+5
+ऑटो
+ऑटो
+ 
+ 
+एBसटCशन
+एBसटCशन
+ 
+ 
+अिधकतम
+अिधकतम
+ 
+ 
+;कतनी
+;कतनी
+ 
+ 
+बार
+बार
+ 
+ 
+;कया
+;कया
+ 
+ 
+जाना
+जाना
+ 
+ 
+है
+है
+। /
+। /
+Number
+ 
+ 
+of
+ 
+ 
+Auto
+ 
+ 
+Extension
+ 
+ 
+count
+3
+बड
+बड
+ 
+ 
+से
+से
+ 
+ 
+Dरवस%
+Dरवस%
+ 
+ 
+नीलामी
+नीलामी
+ 
+ 
+स;Eय
+स;Eय
+ 
+ 
+;कया
+;कया
+/Bid to RA enabled
+No
+बड
+बड
+ 
+ 
+का
+का
+ 
+ 
+4कार
+4कार
+/Type of Bid
+Two Packet Bid
+ 
+बड
+ 
+सं9या
+/
+Bid
+ 
+Number
+: 
+GEM/2026/B/7304606
+;दनांक
+ /
+Dated
+: 16-03-2026
+बड
+बड
+ 
+ 
+द&तावेज़
+द&तावेज़
+ / Bid Document
+1 / 6
+तकनीक
+तकनीक
+ 
+ 
+मूMयांकन
+मूMयांकन
+ 
+ 
+के
+के
+ 
+ 
+दौरान
+दौरान
+ 
+ 
+तकनीक
+तकनीक
+ 
+ 
+&पOीकरण
+&पOीकरण
+ 
+ 
+हेतु
+हेतु
+अनुमत
+अनुमत
+ 
+ 
+समय
+समय
+ 
+ 
+/Time allowed for Technical
+Clarifications during technical evaluation
+2 Days
+अनुमािनत
+अनुमािनत
+ 
+ 
+बड
+बड
+ 
+ 
+मूMय
+मूMय
+ 
+ 
+/ Estimated Bid Value
+7102994.26
+मूMयांकन
+मूMयांकन
+ 
+ 
+पPित
+पPित
+/Evaluation Method
+Total value wise evaluation
+मQय&थता
+मQय&थता
+ 
+खंड
+खंड
+/Arbitration Clause
+No
+सुलह
+सुलह
+ 
+खंड
+खंड
+/Mediation Clause
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+ईएमड
+ईएमड
+ 
+ 
+ववरण
+ववरण
+/EMD Detail
+एडवाईजर
+ 
+बSक
+/Advisory Bank
+State Bank of India
+ईएमड
+ 
+रािश
+/EMD Amount
+100000
+ईपीबीजी
+ईपीबीजी
+ 
+ 
+ववरण
+ववरण
+ 
+ 
+/ePBG Detail
+एडवाइजर
+ 
+बSक
+/Advisory Bank
+State Bank of India
+ईपीबीजी
+ 
+4ितशत
+ (%)
+/ePBG Percentage(%)
+5.00
+ईपीबीजी
+ 
+क
+ 
+आव8यक
+ 
+अविध
+ (
+माह
+) 
+/Duration of ePBG
+required (Months).
+24
+(a). 
+जेम
+ 
+क
+ 
+शत.
+ 
+के
+ 
+अनुसार
+ 
+ईएमड
+ 
+छू ट
+ 
+के
+ 
+इVछु क
+ 
+बडर
+ 
+को
+ 
+संबंिधत
+ 
+केटेगर
+ 
+के
+ 
+िलए
+ 
+बड
+ 
+के
+ 
+साथ
+ 
+वैध
+ 
+समिथ%त
+ 
+द&तावेज़
+ 
+4&तुत
+ 
+करने
+ 
+है
+।
+ 
+एमएसई
+केटेगर
+ 
+के
+ 
+अंतग%त
+ 
+केवल
+ 
+व&तुओं
+ 
+के
+ 
+िलए
+ 
+विनमा%ता
+ 
+तथा
+ 
+सेवाओं
+ 
+के
+ 
+िलए
+ 
+सेवा
+ 
+4दाता
+ 
+ईएमड
+ 
+से
+ 
+छू ट
+ 
+के
+ 
+पा 
+ 
+हS
+।
+ 
+WयापाDरय<
+ 
+को
+ 
+इस
+ 
+नीित
+ 
+के
+ 
+दायरे
+ 
+से
+बाहर
+ 
+रखा
+ 
+गया
+ 
+है
+।
+/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document
+for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and
+Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this
+Policy.
+(b).
+ईएमड
+ 
+और
+ 
+संपादन
+ 
+जमानत
+ 
+रािश
+, 
+जहां
+ 
+यह
+ 
+लागू
+ 
+होती
+ 
+है
+, 
+लाभाथX
+ 
+के
+ 
+पY
+ 
+मC
+ 
+होनी
+ 
+चा;हए
+।
+ / EMD & Performance securityshould be
+in favour of Beneficiary, wherever it is applicable. 
+लाभाथX
+लाभाथX
+ 
+ 
+/Beneficiary :
+ 
+sr Manager(SSC)
+NSPCL SSC Bhilai, NTPC SAIL Power Company Ltd, NTPC SAIL Power Company Ltd, Ministry of Power
+(Arti Choure)
+बोली
+ 
+वभाजन
+ 
+लागू
+ 
+नहं
+ 
+;कया
+ 
+गया
+/ 
+Bid splitting not applied.
+एमआईआई
+एमआईआई
+ 
+ 
+अनुपालन
+अनुपालन
+/MII Compliance
+एमआईआई
+ 
+अनुपालन
+/MII Compliance
+Yes
+एमएसई
+एमएसई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MSE Purchase Preference
+2 / 6
+एमएसई
+ 
+खरद
+ 
+वरयता
+/MSE Purchase Preference
+Yes
+सू[म
+ 
+और
+ 
+लघु
+ 
+उ^म
+ 
+मूल
+ 
+उपकरण
+ 
+िनमा%ताओं
+ 
+को
+ 
+खरद
+ 
+मC
+4ाथिमकता
+, 
+य;द
+ 
+उनका
+ 
+मूMय
+ 
+L
+1+
+X
+% 
+तक
+ 
+क
+ 
+सीमा
+ 
+मC
+ 
+हो
+ /
+Purchase Preference to MSE OEMs available upto
+price within L1+X%
+15
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as
+defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued
+by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned
+Ministry. If the bidder wants to avail the Purchase preference for services, the bidder must be the Service
+provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the
+bid in respect of the offered service. If L-1 is not an MSE and MSE Service Provider (s) has/have quoted price
+within L-1+ 15% of margin of purchase preference /price band as defined in the relevant policy, then 100% order
+quantity will be awarded to such MSE bidder 
+subject to acceptance of L1 bid price. The buyers are advised to
+refer to the 
+OM_No.1_4_2021_PPD_dated_18.05.2023
+ for compliance of Concurrent application of Public
+Procurement Policy for Micro and Small Enterprises Order, 2012 and Public Procurement (Preference to Make in
+India) Order, 2017. 
+Benefits of MSE will be allowed only if the credentials of the service provider are validated on-
+line in GeM profile as well as validated and approved by the Buyer after evaluation of submitted documents. 
+2. If L-1 is not an MSE and MSE Service Provider (s) has/have quoted price within L-1+ 15% of margin of purchase
+preference /price band as defined in the relevant policy, then 100% order quantity will be awarded to such MSE
+bidder subject to acceptance of L1 bid price. 
+3. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and
+for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.
+This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any
+impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of
+quoted prices which would be determined by the buyer based on its own assessment of reasonableness and
+based on competitive prices received in Bid / RA process. 
+एBसेल
+एBसेल
+ 
+ 
+मC
+मC
+ 
+ 
+अपलोड
+अपलोड
+ 
+ 
+;कए
+;कए
+ 
+ 
+जाने
+जाने
+ 
+ 
+क
+क
+ 
+ 
+आव8यकता
+आव8यकता
+ 
+ 
+/Excel Upload Required :
+boq - 
+1772258078.xlsx
+अितDर`
+अितDर`
+ 
+ 
+योaयता
+योaयता
+ /
+ /
+आव8यक
+आव8यक
+ 
+ 
+डेटा
+डेटा
+/Additional Qualification/Data Required
+Introduction about the project /services being proposed for procurement using custom bid
+functionality:
+1772258084.pdf
+Instruction To Bidder:
+1772258089.pdf
+Pre Qualification Criteria ( PQC ) etc if any required:
+1772258093.pdf
+Scope of Work:
+1772258098.pdf
+Payment Terms:
+1772258101.pdf
+GEM Availability Report ( GAR):
+1772258107.pdf
+Undertaking of Competent Authority is mandatory to create Custom Bid for Services. Please
+download standard format document and upload:
+1772258111.pdf
+Any other Documents As per Specific Requirement of Buyer -1:
+1772258565.pdf
+Any other Documents As per Specific Requirement of Buyer -2:
+1772258636.pdf
+Custom Bid For Services - OUTSOURCING OF JOBS RELATED TO OCCUPATIONAL
+HEALTH CENTRE (OHC), AT NSPCL -DURGAPUR ( 1 
+)
+तकनीक
+तकनीक
+ 
+ 
+विशOयाँ
+विशOयाँ
+ 
+ 
+/Technical Specifications
+3 / 6
+ववरण
+ववरण
+/ Specification
+मूMय
+मूMय
+/ Values
+कोर
+कोर
+ / Core
+Description /Nomenclature of Service Proposed for
+procurement using custom bid functionality
+OUTSOURCING OF JOBS RELATED TO OCCUPATIONAL
+HEALTH CENTRE (OHC), AT NSPCL -DURGAPUR
+Regulatory/ Statutory Compliance of Service
+YES
+Compliance of Service to SOW, STC, SLA etc
+YES
+एडऑन
+एडऑन
+ 
+ 
+/Addon(s)
+Eेता
+Eेता
+ 
+ 
+cारा
+cारा
+ 
+ 
+िनधा%Dरत
+िनधा%Dरत
+ 
+ 
+dयूनतम
+dयूनतम
+ 
+ 
+मूMय
+मूMय
+/Minimum Floor Price defined by Buyer
+Eेता
+ 
+cारा
+ 
+िनधा%Dरत
+ 
+dयूनतम
+ 
+मूMय
+/Minimum Floor Price
+defined by Buyer
+No
+अितDर`
+अितDर`
+ 
+ 
+विशO
+विशO
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+परेषती
+परेषती
+/
+/
+Dरपो;टeग
+Dरपो;टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+/Consignees/Reporting Officer and Quantity
+E.सं.
+E.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Dरपो;टeग
+Dरपो;टeग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+Quantity
+अितDर`
+अितDर`
+ 
+आव8यकता
+आव8यकता
+/Additional
+Requirement
+1
+Sk Jawed Iqbal
+713203,NSPCL Store CPP II
+Durgapur Steel Plant Complex
+Durgapur West Bengal
+Project /
+Lumpsum
+Based
+N/A
+Eेता
+Eेता
+ 
+ 
+cारा
+cारा
+ 
+ 
+जोड़
+जोड़
+ 
+ 
+गई
+गई
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+वशेष
+वशेष
+ 
+ 
+शतh
+शतh
+/Buyer Added Bid Specific Terms and Conditions
+1
+. 
+Generic
+OPTION CLAUSE: The buyer can increase or decrease the contract quantity or contract duration up to 25
+percent at the time of issue of the contract. However, once the contract is issued, contract quantity or
+contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised
+quantity or duration
+अ&वीकरण
+अ&वीकरण
+/Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+bidding process without any notice:-
+4 / 6
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+Category item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+attached categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+case may be.
+15
+. 
+Any ATC clause in contravention with GeM GTC Clause 4 (xiii)(h) will be invalid. In case of multiple L1
+bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1
+bidders through a Random Algorithm executed by GeM system.
+16
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+17
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the
+same must be added through bunching category based items or by bunching custom catalogs or
+bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+such representations.
+All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws,
+including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code
+on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working
+Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into
+force by the Government of India.
+For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or
+notifications, the corresponding provisions of the pre-existing labour enactments (such as The
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The
+Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules)
+shall continue to remain applicable.
+The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:
+All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove;
+and
+All operative provisions of the erstwhile Labour Laws until their complete substitution.
+All obligations relating to wages, social security, safety, working conditions, industrial relations etc.
+and any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-
+5 / 6
+compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate
+action in accordance with the contract and applicable law.
+This Bid is governed by the 
+सामाdय
+ 
+िनयम
+ 
+और
+ 
+शतh
+/General Terms and Conditions
+, conditions stipulated in Bid and
+Service Level Agreement
+ specific to this Service as provided in the Marketplace. 
+However in case if any condition
+specified in 
+सामाdय
+ 
+िनयम
+ 
+और
+ 
+शतh
+/General Terms and Conditions is contradicted by the conditions stipulated in
+Service Level Agreement, then it will over ride the conditions in the General Terms and Conditions.
+जेम
+ 
+क
+ 
+सामाdय
+ 
+शत.
+ 
+के
+ 
+खंड
+ 26 
+के
+ 
+संदभ%
+ 
+मC
+ 
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+के
+ 
+बडर
+ 
+से
+ 
+खरद
+ 
+पर
+ 
+4ितबंध
+ 
+के
+ 
+संबंध
+ 
+मC
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+का
+ 
+कोई
+ 
+भी
+ 
+बडर
+ 
+इस
+ 
+िनवदा
+ 
+मC
+ 
+बड
+ 
+देने
+ 
+के
+ 
+िलए
+ 
+तभी
+ 
+पा 
+ 
+होगा
+ 
+जब
+ 
+वह
+ 
+बड
+ 
+देने
+ 
+वाला
+सYम
+ 
+4ािधकार
+ 
+के
+ 
+पास
+ 
+पंजीकृत
+ 
+हो
+।
+बड
+ 
+मC
+ 
+भाग
+ 
+लेते
+ 
+समय
+ 
+बडर
+ 
+को
+ 
+इसका
+ 
+अनुपालन
+ 
+करना
+ 
+होगा
+ 
+और
+ 
+कोई
+ 
+भी
+ 
+गलत
+ 
+घोषणा
+ 
+;कए
+ 
+जाने
+व
+ 
+इसका
+ 
+अनुपालन
+ 
+न
+ 
+करने
+ 
+पर
+ 
+अनुबंध
+ 
+को
+ 
+तkकाल
+ 
+समाl
+ 
+करने
+ 
+और
+ 
+कानून
+ 
+के
+ 
+अनुसार
+ 
+आगे
+ 
+क
+ 
+कानूनी
+ 
+कार%वाई
+ 
+का
+ 
+आधार
+ 
+होगा
+।
+/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---
+धdयवाद
+धdयवाद
+/Thank You---
+6 / 6
+NSPCL (A joint Venture of NTPC & SAIL) 
+ 
+SHARED SERVICE CENTRE, Bhilai  CONTRACT & MATERIAL DEPTT  
+Section-I  
+NOTICE INVITING TENDER (NIT)  FOR” OUTSOURCING OF JOBS RELATED TO OCCUPATIONAL 
+HEALTH CENTRE (OHC), AT NSPCL -DURGAPUR  
+ (Domestic Competitive Bidding) 
+Tender Ref: NSPCL-Bhilai/  
+GEM Bid no. GEM/2026/B/7304606  
+1.0 NTPC SAIL POWER COMPANY LIMITED (NSPCL)  invites online bids through GeM Portal on 
+“Single Stage Two Envelope Bidding basis (Envelope-I: Techno-commercial Bid & Envelope-II: 
+Price Bid) ” from eligible bidders for aforesaid package, as pe r the scope of work briefly mentioned 
+hereinafter.  
+ 
+2.0 BRIEF SCOPE OF WORK  
+ 
+The scope of work comprises of OUTSOURCING OF JOBS RELATED TO OCCUPATIONAL 
+HEALTH CENTRE (OHC), AT NSPCL -DURGAPUR  
+ 
+               NSPCL intends to finance subject Package through Internal Resources. 
+3.0 Detailed Specification, Scope of Work and Terms & Con ditions are given in the Bidding Documents, 
+which are available for examination and Sale at our  eProcurement Portal 
+(https://eprocurentpc.nic.in/nicgep/app) GeM Portal  and as per the following schedule:  
+ 
+Form of Contract/Tender Category  Services * 
+Source of IFB/NIT  NSPCL -SSC -Bhilai 
+Mode of Tendering  Custom Bid Service on GeM Portal 
+NIT Date   
+As per details at GeM Portal 
+Document sale Commencement Date  
+Last date for receipt of queries from bidders 
+(if any) 
+Last Date & time for Bid submission  
+Technical Bid Opening Date & Time  
+Price bid Opening Date & time  Shall be intimated separately.  
+Bid Security  / EMD  Rs. 1,00,000 /- 
+Benefit to MSME  Applicable .  
+Contract Period  24 Months  
+Pre -Bid Conference Date & Time (if any)  Not Applicable  
+Reverse Auction Not Applicable 
+Integrity Pact NOT Applicable 
+ 
+“No Queries from Bidders, whatsoever, shall be entertained by the Employer beyond the last 
+date of receipt of Queries/ Pre-Bid Conference (if applicable) as specified on online portal”. 
+ 
+Corrigendum (if any) shall be available on GeM  Portal only. 
+ 
+As per provisions of Bidding Documents, the Bidders s hall submit “Techno-Commercial Proposal” 
+and “Price Proposal” online (https://gem.gov.in), wi thin the bid submission date and time as 
+mentioned on Gem Portal. Only Techno-Commercial proposals will be opened on the date and timed 
+mentioned on Gem Portal. 
+ 
+Note: For any corrigendum and extension of date of bid submission, please visit the website 
+https://gem.gov.in. 
+  
+4.0 All bids must be accompanied by Bid Security for an amount (as mentioned at Clause 3.0 above) and 
+Integrity Pact. Integrity Pact shall be submitted as per instruction mentioned in ITB/SCC. 
+"ANY BID NOT ACCOMPANIED BY AN ACCEPTABLE BID SECURI TY  SHALL BE REJECTED BY 
+THE EMPLOYER AS BEING NON-RESPONSIVE AND SHALL NOT BE OPENED.  
+5.0 BIDDER PARTICIPATION CRITERIA: 
+                                                          QUALIFYING REQUIREMENT 
+Name of Work: OUTSOURCING OF JOBS RELATED TO OCCUPATIONAL HEALTH CENTRE 
+(OHC), AT NSPCL -DURGAPUR  
+The Bidders who wish to participate in the bidding shall satisfactorily establish that they 
+fulfil the following qualifying Requirements: 
+1.0 Technical Requirement  
+1.1  The bidder should have executed Similar Work(s) during the preceding 7 (Seven) years  
+reckoned as on the date of technical bid opening having,: 
+a) Executed value not less thanRs. 51.00 Lakh in a Single Order (Excl. Taxes & Duties) 
+b) Executed value not less than Rs. 31.88 Lakhs in two Orders each (Excl. Taxes & Duties)  
+OR 
+c) Executed value not less than Rs. 25.50 Lakhs in three Orders each (Excl. Taxes & 
+Duties)  
+2.0 Financial Requirement  
+2.1 The average annual turnover of the Bidder in the preceding three (3) financial years as 
+on the date of techno commercial bid opening should not be less than Rs 31.88 lakhs 
+(Excl. Taxes & Duties; ltnOian Rupees Thirty One Lakh and Eighty Eight Thousand Only) 
+Notes:  i) Values as per clause 1.1 and 2.1 shall be considered exclusive of taxes & duties. 
+ii) The word "Executed" means the bidder should have achieved the criterion specified in 
+Qualifying Requirements, even if the total contract is not completed/closed. A work 
+executed in the preceding seven (7) years reckoned as on the date of technical bid 
+opening, even if it has been started earlier, will also be considered for meeting the 
+requirementagainst Clause 1.1 above. Agency has to furnish proof of executed v'alue of 
+the work in the form of copies of RA Bills, Relevant PO copy and client's completion 
+certificate/RA bill/Final Deviation Statement etc. in support of meeting Qualifying 
+Requirement. 
+iii) fne phrase "similar Work(s)" means "Work involving deployment of Nurse and 
+Dresser Cum Compounder/,Attendant". 
+iv) ln case where audited results for the last preceding financial year as on the date of 
+Techno-Commercial bid opening are not available, the financial results certified by a 
+practicing Chartered Accountant shall be considered acceptable. ln case, Bidder is not 
+able to submit the certificate from practicing Chartered Accountant certifying its 
+financial parameters, the audited results of three consecutive financial years preceding 
+the last financial year shall be considered for evaluating,the financial parameter3. 
+Further, a certificate would be required from the CEO/CFo/Proprietor/partners as per 
+the format enclosed in the bidding docurnents stating that the financial results of the 
+company are under audit as on the date of Techno-Compercial bid opening and 
+certificate from the practicing chartered accountant ce(ifying the financial parameters is 
+not available. 
+v) Other income shall not be considered for arriving at annual turnover.  
+ 
+ 
+6.0 Any Certificate(s) / Financial Statement(s) / Audit ed Balance Sheet and P&L Account (wherever 
+applicable) undertaken/ signed by a Member of Institu te of Chartered Accountant of India (ICAI), 
+which Bidders submit in support of compliance to Qua lifying Requirements (QR), will carry Unique 
+Document Identification Number (UDIN) generated in line with the Gazette Notification of Council 
+of Institute of Chartered Accountant of India (ICAI). 
+ 
+7.0 Notwithstanding anything stated above, the Employer reserves the right to assess the 
+credentials/capabilities/capacity of the Bidder/ his collaborators / associates/ subsidiaries / group 
+companies to perform the contract, should the circum stances warrant such assessment in the 
+overall interest of the Employer. 
+ 
+The physical or any mode of assessment/verifications  by Employer shall include but not be limited 
+to the assessment/verifications of office/ faciliti es/ banker's/ submitted reference works in lieu of 
+credentials. A negative determination of such asses sment of credentials/capacity/capabilities may 
+result in rejection of the bid.  
+ 
+8.0 “ Bidders are required to furnish the details of the past experience like authentic Work 
+Orders/Purchase Orders/Letter of Awards/Contract Ag reements, client certificates, 
+completion certificate, Financial Details   etc. in  support of meeting the Qualifying 
+Requirements based on which selection is to be made  as per format in Attachment -3 
+FORM FOR QUALIFICATION DETAILS .( mandatory)   
+9.0       No change in the price or substance of the bi d including substitution of Purchase        
+Orders/Contracts declared in Attachment-3 of the bi d with new/additional Purchase 
+Orders/Contracts for conforming to Qualifying Requirement shall be sought, offered or permitted.  
+10.0 The reference works whose details have been declare d in their bid shall only be considered to 
+ascertain the bidder’s compliance to the specified qu alifying Requirement (QR). The Employer at its 
+discretion may seek any clarification and/or docume ntary evidence only for the reference works as 
+mentioned above. However, no change or substitution  of the reference works by new/additional plant for 
+conforming to the specified qualifying Requirement shall be sought, offered or permitted”. 
+ 
+“Bidders are required to furnish the details of the  past experience like authentic Work 
+Orders/Purchase Orders/Letter of Awards/Contract Ag reements, client certificates, completion 
+certificate, etc. in support of meeting the Qualify ing Requirements based on which selection is to be 
+made as per format. However, if any of the Work Ord ers/Purchase Orders/Letter of 
+Awards/Contract Agreements pertains to the work exe cuted by Bidder for NSPCL/NTPC  in the past, 
+then in respect of such Work Orders/Purchase Orders /Letter of Awards/Contract Agreements, 
+Bidder shall not be required to enclose Client Certificate along with its Bid.” 
+ 
+    i) All the  bidders are required to submit the details of the past experiences, shall submit all t he 
+documents, in support of Technical Qualification Re quirements (such as copy of Purchase Orders/ 
+Work Orders/ Contract Agreements/ Client Certificat es etc.), duly certified and verified for 
+authenticity from Independent Statutory Auditor of their Company or specified Third-Party 
+Inspection Agency (TPIA).  
+ 
+Further, wherever information can be drawn from boo ks of accounts, records and other relevant 
+documents, Bidders can also submit a certificate is sued by their Independent Statutory Auditor 
+certifying the data required for meeting the Technical Qualification Requirements.  
+ 
+ ii) Such bidder shall be required to submit duly certified and verified documents from their Statutory 
+Auditors or specified TPIA in support of meeting Te chnical QR along with a certificate regarding 
+verification of authenticity of documents as per th e format placed at Annexure-II (Appendix-1 to 
+Attachment-3 - Undertaking from Statutory Auditor) and/ or Annexure-III (Appendix-2 to 
+Attachment-3 - Undertaking from TPIA). All the docu ments submitted by the bidder in support of 
+meeting Technical QR shall be digitally signed by the Statutory Auditor and/ or specified TPIA.  
+ 
+       iii) In case documents are certified & verif ied for authenticity through TPIA, the verification  and 
+certification of authenticity of documents is acceptable from any of the following TPIAs:  
+1) SGS India Pvt. Ltd 
+2) International Certification Services Pvt. Ltd. 
+3) TUV Rheinland (India) Pvt. Ltd 
+4) TÜV SÜD South Asia Pvt. Ltd.         
+5) TUV India Pvt. Ltd. (TÜV Nord Group)                 
+6) Intertek India Pvt. Ltd.                                  
+7)  Competent Inspectorate and Consultants Pvt. Ltd.    
+8) KBS Certification Services Pvt. Ltd. 
+9) ICS India Pvt. Ltd. 
+10) Assure Quality Management Certification Services Pvt. Ltd. 
+11) Hertz Inspection & Services Pvt. Ltd. 
+12) Industrial Inspection and Verification Services (I) Pvt. Ltd.      
+13) IRCLASS Systems & Solutions Private Limited    
+14) Quality Services & Solutions Pvt. Ltd.                  
+15) Phistream Consulting Pvt. Ltd.       
+16) Conformity India International Pvt. Ltd.        
+17) Dr. Amin Controllers Pvt. Ltd. (Amin)          
+18) RSJ Inspection Service Limited (RSJ)   
+ 
+The following website may be referred for contact details of above eighteen (18) TPIAs:  
+ 
+http://nabcb.qci.org.in/accreditation/reg_bod_inspection_bodies.php  
+Any document pertaining to reference works/ plants in support of Technical QR, which is not 
+certified by specified TPIA or Statutory Auditor of  the bidder, as per the format enclosed with the 
+bidding documents, shall not be considered verified / certified for the purpose of evaluation, and the 
+bid shall be liable for rejection. 
+ 
+    iv) The Bidder shall be responsible to get thei r documents/ credentials in support of Qualifying 
+Requirements verified & certified by their Statutor y Auditor(s) and/ or specified TPIAs. All the costs  
+pertaining to third party verification and certific ation (including those by statutory auditors) shall  be 
+borne by the Bidder. Employer shall have no liabili ty (financial or otherwise) towards the same and 
+shall not be liable for any claim/ dispute between the bidder and TPIA and/ or Statutory Auditor. 
+ 
+11.0 'Class-I local suppliers’ only are eligible to partici pate in this tender, as defined in the bidding 
+documents/ Public Procurement (Preference to Make i n India), Order 2017 and its subsequent 
+amendments/ revisions issued by DPIIT. The bidders may apprise themselves of the relevant 
+provisions of bidding documents in this regard before submission of their bids. 
+ 
+12.0 Any ‘Bidder from a country which shares a land bord er with India’, as specified in the Bidding 
+Documents, will be eligible to bid in this tender o nly if bidder is registered with the Competent 
+Authority as mentioned in the Bidding Documents. 
+ 
+However, the said requirement of registration will not apply to bidders from those countries (even 
+if sharing a land border with India) to which the Government of India has extended lines of credit or 
+in which the Government of India is engaged in development projects. 
+ 
+13.0 NSPCL reserves the right to reject any or all bids or cancel / withdraw the Invitation for Bids/NIT 
+without assigning any reason whatsoever and in such  case no bidder / intending bidder shall have 
+any claim arising out of such action. 
+ 
+14.0 The bidding document is available online. A complete set of Bidding Documents may be downloaded 
+by any interested Bidder from the GeM  Portal (https://gem.gov.in). The Bidder would be r equired 
+to register on the website.  
+First time users are required to register themselves on GeM Portal only. First time users not allotted 
+any vendor code by NSPCL, should send a copy of the  registration details to the e-mail address 
+specified in this NIT under Address for Communication with following details at least three working 
+days prior to Technical Opening Date: 
+a)  Request on the letter head of the Company 
+b)  Address Proof 
+c)  Copy of GST Registration Certificate & PAN Card, 
+d)  Email ID and Contact No. 
+e)  Name and Designation of the contact person 
+f)  Cancelled cheque & E.F.T form duly verified by bank  
+Note: No Hard Copy of bidding documents shall be issued. 
+ 
+15.0 Address for communication: 
+ 
+AGM/DGM (Contracts & Materials) 
+NTPC SAIL POWER COMPANY LIMITED (NSPCL),  
+Shared Service Centre, Bhilai  
+Expansion Site, Near Purena Village, Bhilai (East) , PO-Dist:Durg(C.G.) 
+Pin Code-490021 
+Tel. No.: 0788-2282435 
+Email: ak.sahoo@nspcl.co.in/ , arti.choure@nspcl.co.in  
+ 
+ Websites: https://gem.gov.in  or www.ntpctender.ntpc.co.in  or www.nspcl.co.in  
+ 
+16.0 Registered Office: 
+NSPCL,, 4 TH  Floor, NBCC Tower,  
+15, Bhikaji Cama Place,  
+New Delhi 
+ 

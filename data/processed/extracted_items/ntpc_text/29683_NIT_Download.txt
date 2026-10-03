@@ -1,0 +1,446 @@
+NTPC LTD 
+Vendor Development Cell (VDC), Raipur 
+Sub: Qualifying Requirement for Vendor Enlistment for supply of Instrumentation 
+Cables (Type - A, B, F and G - PVC / FRLS Type - 0.5 Sqmm.) 
+A) MEG DETAILS   
+ 1.0 MEG NO. 81 MEG-05 
+ 2.0 MEG DESCRIPTION Instrumentation Cables (Type - A, B, F and G - PVC / FRLS Type 
+- 0.5 Sqmm.) 
+ 3.0 RESPONSIBILITY CENTRE VDC 
+B) Technical Criteria of QR: 
+1. The bidder should have manufactured and supplied during last five (5) years from the date 
+of application: 
+a) Minimum one (1) km of PVC insulated, PVC sheathed Instrumentation cables. 
+b) Minimum one (1) km of Flame retardant low smoke Instrumentation cables. 
+ 
+Documents to be submitted in support of meeting Technical QR: 
+1. Latest annual report OR NSIC / SSI / MSME registration certificate / BIS license / ISO    
+certificate / Certificate of registration from the concerned excise department / any other 
+statutory document as a proof of being manufacturer of the Instrumentation cables. Brief 
+details of manufacturing facilities or Standard published catalogue for Instrumentation 
+cables also to be given. 
+2. The PO in support of award and completion certificate/copies of invoice to establish 
+successful execution of the supply of Instrumentation cables as per QR. 
+ 
+C) Documents to be submitted to find executed value of orders: 
+In addition to the documents required in support of meeting technical requirements as stated 
+above, following documents are required to be submitted by the Applicants applying for 
+enlistment: - 
+1. Three (3) POs of the highest executed values of similar work (see definition at point E: 
+Note- 1 below) during previous five (5) years from the date of application. Copy of Invoice / 
+Completion certificate from the concerned buyer/s in support of successful execution of 
+supply against the POs to be submitted. These will be required for calculation of execution 
+capability. 
+2. Audited balance sheet including Profit & Loss statement for the previous three (3) 
+completed financial year’s reckoned from the date of application. In case where the 
+audited results for the last financial years as on the date of application are not available, 
+the financial result certified by a practicing Chartered accountant shall be considered 
+acceptable. 
+3. GSTIN certificate, PAN, Power of attorney, Letter of undertaking, works information etc. as 
+mentioned in enlistment application pages of website www.vendor.ntpc.co.in 
+4. NTPC can request for other documents as necessary during the course of evaluation. 
+ 
+ 
+ 
+ 
+ 
+Similar works means:  
+ 
+NOTE-1: Supply of Instrumentation cables to any Power Plants / Petroleum 
+Refinery / Fertilizer Plants/ Steel / Aluminum Industry within last five (5) years from the date of 
+application for enlistment. 
+ 
+NOTE-2: The executed value means Basic value of quantity of similar works executed/supplied 
+against the reference PO (also applicable to partly executed POs as on date of application). Where 
+PO value is composite (i.e. including Taxes etc.), the applicant to give item-wise break-up of 
+Composite PO value mentioning Basic Value, Taxes etc. 
+In case PO submitted contains other types of cables also, then the applicant has to give item-wise 
+break up for similar work as per Note-1 above. 
+ 
+ 
+ 
+ 
+  SPECIFICATION OF INSTRUMENTATION CABLE 
+ 
+1.01.00 Common Requirements  
+S. No. Property Requirement  
+1 Operating Voltage 225 V (peak value) 
+ 
+2. Codes and standard  All instrumentation cables shall comply with VDE 
+0815, VDE 0207, Part 4, Part 5, Part 6, VDE 0816, 
+VDE 0472, SEN 4241475, ANSI MC 96.1, IS-8784, 
+IS-10810 (latest editions) and their amendments 
+read along with this specification. 
+ 
+3. Continuous operation 
+suitability  
+At 205 Deg C for heat resistant cables, at 70 Deg C 
+for all other type of cables. 
+ 
+ 
+ 
+4. Marking :- a.Progressive automatic on-line   sequential marking of length in 
+meters to be provided at every one meter on outer sheath. 
+b.Marking to read ‘FRLS’ to be provided at every 5 meters on outer sheath  
+c.Durable marking at intervals not exceeding 625 mm shall include manufacturer’s 
+name, insulation material, conductor’s size, number of pairs, voltage rating, type 
+of cable, year of manufacturer to be provided on outer sheath. 
+5. Allowable Tolerance on 
+overall diameter  
++/- 2 mm (maximum) over the declared value in data 
+sheet 
+6. Variation in diameter Not more than 1.0 mm throughout the length of 
+cable. 
+7. Ovality at any cross-
+section 
+Not more than 1.0 mm 
+8. CAGE-CLAMP suitability To be provided 
+9. Color The outer sheath shall be of blue color. 
+10. Others Repaired cables shall not be acceptable. 
+ 
+ 
+ 
+ 
+ 
+1.02.00 Specific Requirements 
+Specification 
+Requirements 
+Type-A 
+cable 
+Type-B 
+cable 
+Type F & G cable 
+A. CONDUCTORS  
+Cross section area 0.5 sq. mm 
+Conductor material ANSI type 
+KX 
+ANSI type 
+SX 
+Annealed bare copper 
+Colour code  Yellow-Red Black-Red As per VDE-815  
+Conductor Grade  As per ANSI MC 96.1 
+ 
+Electrolytic 
+No &  dia of strands 7x0.3 mm (nom) 
+No. of Pairs 2 2 2/4/8/12/16/24/ 48 
+ 
+Max. conductor loop 
+resistance per Km (in 
+ohm) at 20 deg. C 
+As per ANSI MC 96.1 73.4  
+Reference Standard As per ANSI MC 96.1 VDE : 0815 
+B.  INSULATION  
+Material Extruded PVC type YI 3 
+  
+Thickness in mm 
+(Min/Max) 
+0.25/0.35 
+Volume Resistivity 
+(Min) in ohm-cm 
+1 x 1014 at 20 deg. C & 1x1011 at 70 deg. C. 
+C. PAIRING & TWISTING 
+Max. lay of pairs (mm) 50 
+Single layer of binder 
+tape on each pair 
+provided 
+ 
+Each core printed with 
+number or Numbered 
+binder tape to be 
+provided on each pair  
+Yes 
+Specification 
+Requirements 
+Type-A 
+cable 
+Type-B 
+cable 
+Type F & G cable 
+Bunch ( Unit 
+Formation) for more 
+than 4P 
+N.A To be provided 
+Conductor /pair 
+identification as per 
+VDE0815 
+N.A. 
+ 
+To be provided 
+D. SHIELDING  
+Type of shielding Al-Mylar tape 
+Individual pair 
+shielding 
+No To be provided for F-type cable 
+Minimum thickness of 
+Individual pair 
+shielding 
+No 0.028mm (28 micron) 
+Overall cable 
+assembly shielding 
+To be provided 
+Minimum thickness of 
+Overall cable 
+assembly shielding 
+0.055 mm (55 micron) 
+ 
+Coverage / 
+Overlapping 
+100% / 20%  
+Drain wire provided for 
+individual shield 
+N.A. 
+ 
+ 
+Yes (for F - type ) 
+Size -  0.5 sqm m 
+No of strands - 7 
+Dia of strands -  0.3m m 
+Annealed Tin coated coppe r 
+Drain wire provided for 
+overall shield 
+Yes, Size - 0.5 sqmm,No of strands -7,Dia of strands - 
+0.3mm,Annealed Tin coated copper 
+E.  FILLERS (if applicable) 
+Non-hygroscopic, 
+flame retardant 
+To be provided 
+F. OUTER SHEATH  
+Material Extruded PVC compound YM1 with FRLS properties 
+Minimum Thickness at 
+any point 
+1.8 mm 
+Specification 
+Requirements 
+Type-A 
+cable 
+Type-B 
+cable 
+Type F & G cable 
+Nominal Thickness at 
+any point 
+>1.8 mm 
+Resistant to water, 
+fungus, termite & 
+rodent attack 
+Required 
+Minimum Oxygen 
+index as per ASTMD-
+2863  
+29 % 
+Minimum Temperature 
+index as per ASTMD-
+2863 
+250 deg.C 
+Maximum Acid gas 
+generation by weight 
+as per IEC-60754-1  
+20% 
+Maximum Smoke 
+Density Rating as per 
+ASTMD-2843  
+60% 
+(defined as the average area under the curve when the results of 
+smoke density test plotted on a curve indicating light absorption 
+vs. time as per ASTMD-2843) 
+Reference standard VDE207 Part 5,VDE-816 
+G. Electrical 
+Parameters 
+ 
+Mutual Capacitance 
+Between Conductors 
+At 0.8 Khz (Max.) 
+200 nF/km  120 nF/km for F type 
+100 nF/km for G-type 
+Insulation Resistance 
+(Min.) 
+100 M Ohm/Km 
+Cross Talk Figure 
+(Min.) At 0.8 Khz 
+60 dB 60 dB 
+Characteristic 
+Impedance (Max) At 1 
+Khz 
+N.A. 320 ohm for F-type 340 ohm for G-
+type 
+Attenuation Figure At 1 
+Khz (Max) 
+N.A. 1.2 db/km 
+Specification 
+Requirements 
+Type-A 
+cable 
+Type-B 
+cable 
+Type F & G cable 
+H. COMPLETE 
+CABLE 
+ 
+ 
+ 
+Complete Cable 
+assembly 
+Shall pass Swedish Chimney test as per SEN -SS 4241475 class 
+F3. 
+Flammability Shall pass flammability as per IEEE-383 read in conjunction to 
+this specification 
+I. CABLE DRUM  
+Type Non-returnable wooden drum (wooden drum to be constructed 
+from seasoned wood free from defects with wood preservative 
+applied to entire drum) or steel drum. 
+Length 1000 m + 5% for up to & including 12 pairs  
+ 500 m + 5% for above12 pairs  
+ 
+Note: Heat resistant instrumentation cable shall have same specification as of G/F type 
+instrumentation cable as specified above, except that insulation and outer sheath material 
+shall be Teflon and cable shall be suitable for continuous operation at 205 Deg. C  
+1.03.00 TESTS 
+All equipments to be supplied shall be of type tested design. During detailed engineering, 
+the contractor shall submit for Owner’s approval the reports of all the type tests as listed in 
+this specification and carried out within last ten years from the date of bid opening. These 
+reports should be for the test conducted on the equipment similar to those proposed to be 
+supplied under this contract and the test(s) should have been either conducted at an 
+independent laboratory or should have been witnessed by a client. 
+However if the contractor is not able to submit report of the type test(s) conducted within 
+last ten years from the date of bid opening, or in the case of type test report(s) are not found 
+to be meeting the specification requirements, the contractor shall conduct all such tests 
+under this contract at no additional cost to the owner either at third party lab or in presence 
+of client /owners representative and submit the reports for approval. 
+All acceptance and routine tests as per the speci fication and relevant standards shall be 
+carried out. Charges for these shall be deemed to be included in the equipment price 
+The type test reports once approved for any projects shall be treated as reference. For 
+subsequent projects of NTPC, an endorsement sheet will be furnished by the manufacturer 
+confirming similarity and “No design Change”. Minor changes if any shall be highlighted on 
+the endorsement sheet. 
+1.03.01 TYPE TESTS 
+The reports for the following type tests shall be submitted for one size of Instrumentation 
+cable. Size shall be decided by the employer during detailed engineering 
+TYPE TEST REQUIREMENT FOR INSTRUMENTATION CABLE 
+ 
+Sl.No        Item Test 
+Requirement 
+Standard Test To Be 
+Specifically 
+Conducted 
+NTPC’s 
+Approval Req. 
+On Test 
+Certificate 
+Instrumentation Cables Twisted & Shielded 
+1 -Conductor Resistance test VDE-0815 No No 
+ Diameter test IS-10810 No No 
+Tin Coating test 
+(Persul-phate 
+test) 
+IS-8130 No No 
+2 -Insulation Loss of mass VDE 0472 No No 
+ Heat shock VDE 0472 No No 
+Hot deformation VDE 0472 No No 
+Shrinkage VDE 0472 No No 
+Bleeding & 
+blooming 
+IS-10810 No No 
+3 -Outer 
+sheath 
+Loss of mass VDE 0472 No No 
+Heat shock VDE 0472 No No 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hot deformation VDE 0472 No No 
+Shrinkage VDE 0472 No No 
+Bleeding & 
+blooming 
+IS-10810 No No 
+Colour fastness 
+to water 
+IS-5831 No No 
+Cold bend/ cold 
+impact test 
+VDE-0472 No No 
+Oxygen index 
+test 
+ASTMD-
+2863 
+No No 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Smoke Density 
+Test 
+ASTMD-
+2843 
+No No 
+Acid gas 
+generation test 
+IEC-
+60754-1 
+No No 
+4 -fillers Oxygen index 
+test 
+ASTMD-
+2863 
+No No 
+Acid gas 
+generation test 
+IEC-
+60754-1 
+No No 
+5 -AL-
+MYLAR 
+shield 
+Continuity test  No No 
+Shield thickness  No No 
+Overlap test  No No 
+6 
+ 
+-Over all 
+cable 
+ 
+ 
+Flammability 
+Test 
+IEEE 383 No No 
+Swedish 
+Chimney Test  
+SEN 
+4241475 
+No No 
+Noise 
+interference 
+IEEE 
+Trans-
+actions 
+No No 
+Dimensional 
+checks 
+IS 10810 No No 
+Cross talk VDE-0472 No No 
+Mutual 
+capacitance 
+VDE-0472 No No 
+HV test VDE-0815 No No 
+Drain wire 
+continuity 
+ No No 
+Drain wire 
+continuity 
+ No No 
+ 
+
+
+
+

@@ -1,0 +1,2074 @@
+Sl No Document Section 
+Reference Existing Clause Query / Clarification sought NTPC Reply (Read As / 
+Clarification)
+1
+Section: General 
+Platform Features
+Point #2, Page # 241
+ZTNA / Secure Remote Access for Private application access in DC, DR & Cloud : Min. 8000 users with 
+at least 100 App Segments. The ZTNA / Secure Remote Access solution must include a minimum of 05 
+pairs ( 05 + 05 in HA) of Connectors from Day 1. These 8000 Users are in addition to the above SSE 
+users.
+One App segment can manage multiple applications. 10 segments can cator organizations 
+with 100s of applications acceesible by up to 30K users. Therefore we recommend to 
+modify the clause as below:
+ZTNA / Secure Remote Access for Private application access in DC, DR & Cloud : Min. 8000 
+users with 10 App segments scalable up to 100 App Segments. The ZTNA / Secure Remote 
+Access solution must include a minimum of 05 pairs ( 05 + 05 in HA) of Connectors from 
+Day 1. These 8000 Users are in addition to the above SSE users.
+REFER Corrigendum - 1 
+(Amendment) SL. No 1
+2
+Section: A- General 
+Platform Features
+Point #7, Page # 241
+The proposed solution must have CSA STAR, SOC 2, SOC2-type2/SOC3/CIS certifications.
+SOC 2 has versions like SOC2 type l and type 2. SOC2 type 2 is more comprehensive, 
+detailed in comparison to type l. So, please do modifications as below for better security 
+controls and clarifications to participants:
+The proposed solution must have CSA STAR, SOC 2/SOC2-type2/SOC3/CIS certifications.
+REFER Corrigendum - 1 
+(Amendment) SL. No 2
+3
+Section: B- Secure 
+Web Gateway
+Point #3, Page # 241
+The proposed solution should be able to provide URL Filtering for at least 80+ URL categories and must 
+have capability to enforce granular advance activity control as mentioned below:
+a. Webmail Category: Upload, Download, & Attach
+b. File Sharing / Cloudstorage category: Upload, Download, & Post.
+c. Collaboration Category: Upload, Download, & Post
+Activity controls with respect to webmail and collaboration categories are varied from 
+vendor to vendor. Please consider below changes for wider participation:
+The proposed solution should be able to provide URL Filtering for at least 80+ URL 
+categories and must have capability to enforce granular advance activity control as 
+mentioned below:
+a. Webmail Category: Upload/Download/Attach/Allow/Block
+b. File Sharing / Cloudstorage category: Upload, Download/Post.
+c. Collaboration Category: Upload/Download/Post/Allow/Block
+REFER Corrigendum - 1 
+(Amendment) Sl. No 4
+4
+Section: l- DIGITAL 
+EXPEREINCE 
+MANAGEMENT
+Point #1, Page # 243
+The Solution must have DEM (Digital Experience Management) License for atleast 05 SaaS 
+Apps/Probes to find out issues related with Applications, Hop-by-Hop Latency and Network path 
+tracing including hop by hop analysis of all internal and external hops on every probe with ISP/AS 
+Number & Geo details for each hop, User Device Stats (CPU, Memory, Network, Storage) and 
+effectively reduce mean time to identify root cause of experience/performance issues and help in 
+resolution.
+The Licenses for atleast 1000 Users should be provided. There should be a provision for providing and 
+revoking the DEM Licenses to any users in the same or a seperate tenant / group.
+DEM solution analyse system CPU and Memory, not storage because storage utilization 
+does not impact user experience related to application access. Please accept the change 
+requested below:
+The Solution must have DEM (Digital Experience Management) License for atleast 05 SaaS 
+Apps/Probes to find out issues related with Applications, Hop-by-Hop Latency and 
+Network path tracing including hop by hop analysis of all internal and external hops on 
+every probe with ISP/AS Number & Geo details for each hop, User Device Stats (CPU, 
+Memory/storage, Process/ Network) and effectively reduce mean time to identify root 
+cause of experience/performance issues and help in resolution.
+The Licenses for atleast 1000 Users should be provided. There should be a provision for 
+providing and revoking the DEM Licenses to any users in the same or a seperate tenant/ 
+group.
+REFER Corrigendum - 1 
+(Amendment) Sl.No 5
+5
+Section: H- Zero 
+Trust Network 
+Access (For Internal 
+Private Apps)
+Additional Point Recommendation:
+The Zero Trust solution must provide the access of the applications to the user even if 
+ZTNA cloud is not reachable. User must be able to authenticate in case of unavailability of 
+internet or ZTNA cloud. Bidder must factor any hardware or software require to achieve 
+this functionality from day-1 as per recommendation of OEM. ZTNA must have complete 
+DR workflow and architecture to achieve this functionalities from day-1.
+For ZTNA authentication and access of critical applications during any disruptive event or 
+emergency scenarios, it is critical for solution to function without any dependency on 
+ZTNA cloud. This also ensure the business continuity plan for critical application acces 
+through on-premises broker for ZTNA.
+NO CHANGE
+6
+Section: I- 
+Authentication
+Point #1, Page #243
+The solution must be able to integrate with any SAML 2.0 IdP (ex. Azure AD, Okta and ADFS etc.) and 
+on-premise AD with ADFS without any inbound exposure to AD from Internet. Please confirm that NTPC will provide AD and ADFS licenses.
+NO CHANGE. Bidder has 
+to provide items as per 
+BoQ and Scope of Work
+7
+Section: L- IdP 
+(Identity Provider) 
+For 3rd Party , 
+Associates & Guest 
+Users Point #3 page 
+#244
+The solution must allow end users to self-register and manage authentication devices through a 
+secure portal, including lost device recovery.
+The solution must allow end users to self-register and manage authentication devices 
+through a secure portal, including lost device recovery. NO CHANGE
+8
+Section: L- IdP 
+(Identity Provider) 
+For 3rd Party , 
+Associates & Guest 
+Users Point #4 page 
+#244
+The IdP solution must have policy enforcement based on Granular per-user/group policies and 
+Conditional access rules (e.g., block login if outside country) .
+The IdP solution must have policy enforcement based on Granular per-user/group policies 
+and Conditional access to applications (e.g., disable access if outside country) . NO CHANGE
+9
+Section: L- IdP 
+(Identity Provider) 
+For 3rd Party , 
+Associates & Guest 
+Users Point #5 page 
+#244
+The IdP solution must support integrations with SAML, OAuth, OIDC support, LDAP, Active Directory, 
+Azure AD, REST APIs for custom apps and SIEM integration. It must also have risk-based silent 
+authentication support.
+Please modify the clause for wider participation as below:
+The IdP solution must support integrations with SAML, SCIM, Active Directory Federation 
+Service, Azure AD and SIEM integration.
+NO CHANGE
+10
+Section: L- IdP 
+(Identity Provider) 
+For 3rd Party , 
+Associates & Guest 
+Users Point #6 page 
+#244
+The IdP solution admin console must have real-time authentication logs, Policy configurations, and 
+Risk analytics dashboard.
+IdP audit logs should cover wide range of activitties like configuration changes, newly 
+created users, deleted users, authentication setting adjustment etc. So, kindly update the 
+clause as below:
+The IdP solution admin console must have real-time authentication logs, Policy 
+configurations, configuration change/ Risk analytics, authentication setting etc.
+NO CHANGE
+11
+Section: L- IdP 
+(Identity Provider) 
+For 3rd Party , 
+Associates & Guest 
+Users Point #7 page 
+#244
+The IdP solution mut have native self-service MFA (Multi-Factor Authentication) setup / reset and 
+MFA must have options including soft tokens, mobile-based tokens, SMS-based tokens, Push 
+Notifications etc
+There are many more ways for users to authenticate using MFA, like TOTP, Fasy Identity 
+Online (FIDO) etc. Please modify the clause inlcuding those options: The IdP solution mut 
+have native self-service MFA (Multi-Factor Authentication) setup / reset and MFA must 
+have options including FIDO/soft tokens, TOTP/mobile-based tokens, SMS-based 
+tokens/Push Notifications etc
+REFER Corrigendum - 1 
+(Amendment) Sl.No 12
+12
+Section: L- IdP 
+(Identity Provider) 
+For 3rd Party , 
+Associates & Guest 
+Users Point #8 page 
+#244
+The IdP/MFA solution must be able to enforce access from only trusted endpoints on the basis of 
+MDM presence/device id etc.
+There are many other ways to identify trusted endpoints like Device fingertpring, AV 
+presence, EDR presence, Process check, device disk encryption etc. Request you to kindly 
+include them and consider below updated clause:
+The IdP/MFA solution must be able to enforce access from only trusted endpoints on the 
+basis of MDM presence/device id/process check/disk encryption etc.
+NO CHANGE
+13
+Section: L- IdP 
+(Identity Provider) 
+For 3rd Party , 
+Associates & Guest 
+Users Point #9 page 
+#244
+The solution must support enforcing access policies based on the of the user’s device trust, even if the 
+device is unmanaged.
+For Device trust, agent installed on the user system is mandatory. Once agent is installed 
+device is no longer an unmanaged device, rather it becomes a managed device. Please 
+modify the clause as below:
+The solution must support enforcing access policies based on the of the user’s device 
+trust.
+NO CHANGE
+14
+Section: L- IdP 
+(Identity Provider) 
+For 3rd Party , 
+Associates & Guest 
+Users Point #10 
+page #244
+The solution must provide offline authentication options, allowing users to verify access without an 
+active internet connection.
+Since the IdP solution is a SaaS-based cloud-native platform (as per #1 of IdP 
+requirement), users cannot access the IdP URL when offline. Please clarify how offline 
+authentication is expected to work in this scenario, as this flow is applicable only when 
+authenticating to devices. Or delete the clause.
+REFER Corrigendum - 1 
+(Amendment) Sl. No 13
+GEM/2025/B/6835803      Corrigendum No - 1 ( Clarification)
+15
+Section: Scope of 
+Supply / Services
+Point #5.1, Page # 
+229
+If any on-premise hardware at NTPC DC/DR or any other location is required to be setup for entire 
+duration of the contract to meet the technical requirement, the same shall be delivered on revenue 
+model basis. After expiry of the contract period of 05 years the ownership of the same shall be 
+transferred to NTPC without any cost to NTPC. The insurance for the equipment ( i.e Fire, all risk and 
+other insurance of Electronics item etc) at NTPC premise is required to be done by the bidder for the 
+period of the contract from time to time.
+In this clause, we understand the on-premise hardware is referred to purpose built 
+appliance from OEM and not the commodity servers.
+Request NTPC to elaborate the revenue model basis expectation. Since no OEM provide 
+their solution on OPEX model.
+Insurance to supplied hardware is provided from transit till delivered to NTPC data 
+centres. Once the hardwares are installed at NTPC data centres devices should be covered 
+under NTPC insurance instead of bidder insurance as this will only increase operational 
+complexity.
+Request NTPC to kindly look into the same and amend the clauses.
+If any equipment/ 
+Hardware / perpetual 
+Licenses etc are required 
+as per Technical 
+requirements / Scope of 
+Work, the same is in 
+bidder's scope with 
+ownership of the bidder 
+till the currency of this 
+contract. After expiry of 
+the contract, ownership 
+of all such equipment 
+shall be transferred to 
+NTPC without any extra 
+cost to NTPC.
+16
+Section: Scope of 
+Supply / Services
+Point #5.1, Page # 
+229
+b) Special tools and Tackles
+The bidder’s proposal shall include the list of tools comprising of following:
+* 02 Nos of Mobile Wi Fi Notebook Computer (Metal Body/ Prof.Win OS/ i5 / 16GB RAM/01TB SSD / 
+Latest Version MS Office Pro) with integrated Camera
+* Handheld Wireless Tablet / Terminal at least 10” – Running Operating Systems 02Nos - Apple IOS, 01 
+Nos Latest Android and 01 Nos - Microsoft Windows
+* Report Printing Device - A3 & A4 Size Laser Jet Business Report Printing Device with Duplex - 
+Print/Copy Scan function for generating and putting up reports along with 01 lot of Consumable 
+Toners each year with 05 years of warranty and Support
+Kindly confirm if bidder has to supply all the components mentioned in this clause, as 
+there is no line items mentioned in commercial bid format / BOQ
+All equipment, tools & 
+tackles, licenses etc (for 
+testing and report 
+generation etc.) required 
+to be supplied under the 
+contract or as per Scope 
+of Work or to meet the 
+functional ot technical 
+requirements should be 
+included in the offer.
+17
+Page 227
+Delivery, 
+Installation & 
+Configuration 
+schedule:
+Delivery, Installation & Configuration schedule:
+The delivery of licenses for the first year, along with the installation and configuration of the 
+completesolution, must be completed within four (4) months from the date of issuance of the 
+Purchase Order.Renewals of licenses for the subsequent subscription years shall be carried out prior to 
+the expiration ofeach preceding license year.
+Please extens the completion timeline by 6 months.The delivery of licenses for the first 
+year, along with the installation and configuration of the completesolution, must be 
+completed within four (6) months from the date of issuance of the Purchase 
+Order.Renewals of licenses for the subsequent subscription years shall be carried out prior 
+to the expiration ofeach preceding license year.
+NO CHANGE
+18
+236, 14 Payment 
+terms
+License Subscription Charges
+(Refer to Sl. No (A): Security Service Edge (SSE) and ZTNA SaaS Licenses in the BoQ for the SSE Package)
+a) First Year License Subscription Charges
+100% of the license subscription charges for the first year shall be released upon successful completion 
+of the following milestones:
+ Acceptance and successful handover of the SSE solution to NTPC.
+ Handover of the requisite number of subscribed licenses for the first year (as specified in the BoQ) to 
+NTPC. These details must be verifiable on the Licenses page of the SSE dashboard / confirmation from 
+the OEM
+ Completion of a successful inspection of the implemented solution.
+b) License/Subscription Charges for Subsequent Years (2nd to 5th Year)
+100% of the license/subscription charges for each subsequent year (2nd, 3rd, 4th, and 5th) shall be 
+released after:
+ Renewal and handover of the requisite number of subscribed licenses (as per BoQ) to NTPC for the 
+respective subscription year.
+ The license details must be available on the Licenses page of the SSE dashboard or confirmation 
+from the OEM, showing a validity of at least one year from the date of expiry of the previous year 
+subscription.
+The conditions for project acceptance and successful handover for release of 100 % first 
+year license subscription charges payment when bidder fulfills the conditions stated under 
+clause 8.3 page 231. Kindly confirm our understanding.
+Requesting for relexation in payment terms as below for better cash flow:
+a) First Year License Subscription Charges shall be released as follows:
+i. 70% Payment – Acceptance and successful handover of the SSE solution to NTP.
+ii. 15% Payment – Payable upon successful deployment of 50% of the SSE solution and 
+successful inspection by NTPC.
+iii. Balance 15% Payment – Payable upon completion of deployment of the remaining 50% 
+of the SSE solution, along with successful inspection, acceptance, and handover of the 
+fully implemented solution to NTPC.
+Please confirm that payment term is yearly advance for respective years on completion 
+milestone defined in the RFP.
+We request NTPC to change the payment terms to Yearly in advance for 1st & 2nd to 5th 
+Year.
+We request that 100% of the license subscription charges for the first year should be 
+payable on delivery.
+REFER Corrigendum - 1 
+(Amendment) Sl. No 16
+19
+236,14,4 Annual True-Up for Additional Licenses
+NTPC may conduct an annual true-up for additional licenses of the required solution(s) as per the RFP, 
+in multiples of 200 units, if the consumption of licenses exceeds 10% of the subscribed quantity in the 
+previous license year. The minimum threshold for triggering a true-up is 10%, unless the OEM's default 
+allowance is higher, in which case that higher threshold will apply. The true-up will only apply if the 
+excess license usage continues for more than 60 consecutive days.
+Payment for additional licenses will be calculated on a prospective basis after the annual true-up, in 
+multiples of 200 units. For example, if the subscribed license count in the previous year was 20,000 
+and the actual usage is up to 22,000, no additional licenses will be required. However, if the usage 
+reaches 22,100, the total number of licenses will be trued-up to 22,200.
+All payments, including those for additional licenses in the first and subsequent years, shall be made in 
+accordance with the agreed Payment Terms.
+In the event of license/subscription usage exceeding the subscribed count, the OEM or its 
+representative shall notify the NTPC Engineering-in-Charge at least 30 days in advance, to enable 
+timely corrective measures and manage any temporary license spikes.
+ALL qualified OEM should agree to this point. This points is not under authorization of SI.
+WE request NTPC that any increase from the committed quantity to be done only with 
+mutual consent and revised market prevailing rates. Also these licenses cost should be 
+paid as and when they are deployed in the system.
+REFER Corrigendum - 1 
+(Amendment) Sl. No 19
+20
+point #8.3 page 
+#231
+Acceptance / Handover Criteria –
+Date of Start of Licenses (Day 01) – Following should be completed as a prerequisite to be declared as 
+Day 01 of Start of Licenses / Subscription)
+. All services (SWG, IPSec, ZTNA, DEM, RBI etc.) are ready to be used by NTPC and agents / SWG 
+services on at least 10000 NTPC users / Guests have been onboard onto the SSE platform by the 
+bidder . At least 10 IPSec / Tunnel Connections have been enabled / configured by the Bidder from at 
+least 05 NTPC Locations / DC DR / Sites. (Router / Firewall Hardware shall be provided by NTPC at NTPC 
+Premises. Configuration assistance shall be provided by the Bidder)
+. Although Bidder may provide initial installation / configuration / users onboard assistance from DC 
+Noida / DR Hyderabad, however, If the bidder’s installation team is required to visit to complete or 
+achieve the installation schedule, the bidder may have to arrange travel, boarding and lodging 
+arrangements for their project personnels at sites. NTPC may provide guesthouse accommodation at 
+few locations subject to availability.
+. An Undertaking by the OEM that requisite number of irrevocable Licenses has been enabled on the 
+OEM platform for the required period.
+With respect to point #8.3 on page #231 and point #6.1 on page #230, our understanding 
+is that for 10000 users all license validity should be 5 years and 4 months (5 years validity 
+from Day 01 and 4 months license during implementation of all licenses for 10,000 users).
+Please confirm if this understanding is correct.
+This clause is Acceptance 
+/ Handover Criteria. - 
+Refer BoQ and 
+Specificatios for Licenses 
+& validity Requirements 
+Also - REFER 
+Corrigendum - 1 
+(Amendment) Sl. No 17
+21
+236, 14.2 Payment 
+Terms
+Implementation & Management and Training Charges:Each 20% of the Implementation, Management 
+& Training Charges shall be released annually at the end of each Calendar Year (along with 
+4th,8th,12th,16th & 20th Qtr) on certification by Engineer-in-Charge
+We request NTPC to change the payment terms as follows:-
+Implementation & Management and Training Charges: 100% on completiom of 
+implemenation & training rescpectively.
+FMS Service and SaaS Applications Charges: Quaterly in advance or monthly in advance as 
+manpower will be paid every month.
+Request you to revise the payment terms for Implementation, Management & Training 
+charges to 'shall be released quarterly at the end of each quarter.
+Request NTPC not to retain this amount for work which will be done at the beginning of 
+the project.
+We request that the implementation cost and traning cost should be paid 100% post 
+completion of the respective milestones.
+NO CHANGE
+22
+General Platform 
+Features
+Page No 241, Point 
+No 2
+The SSE solution shall have the following component wise licensing requirements:
+1) SWG, CASB, Threat Protection, DLP, Cloud Firewall, DNS Security for Min.18,000 users from Day 1.
+2) ZTNA / Secure Remote Access for Private application access in DC, DR & Cloud : Min. 8000 users with 
+at least 100 App Segments. The ZTNA / Secure Remote Access solution must include a minimum of 05 
+pairs ( 05 + 05 in HA) of Connectors from Day 1. These 8000 Users are in addition to the above SSE 
+users.
+We require clarification regarding the scaling and licensing of the ZTNA/Secure Remote 
+Access Connectors, specifically for the provision of 100 Application Segments and 8,000 
+concurrent users.
+The current requirement specifies a minimum of 05 pairs (05 + 05 in HA) of Connectors 
+from Day 1.
+Justification for Increased Scalability:
+Given the high number of application segments, potential geographical distribution of 
+resources (DC, DR, and multiple cloud environments), and the need to guarantee low 
+latency for 8,000 users, a minimum of five pairs may be insufficient to ensure optimal load 
+balancing and operational resilience across all environments.
+We request to change the clause as
+"The SSE solution shall have the following component wise licensing requirements:
+1) SWG, CASB, Threat Protection, DLP, Cloud Firewall, DNS Security for Min.18,000 users 
+from Day 1.
+2) ZTNA / Secure Remote Access for Private application access in DC, DR & Cloud : Min. 
+8000 users with at least 100 App Segments. The ZTNA/Secure Remote Access solution 
+must include a minimum of 05 pairs (05 + 05 in HA) of Connectors at deployment, and the 
+license must be inherently scalable to a minimum of 10 pairs (10 + 10 in HA) without 
+requiring an increase in the base license cost.
+Justification for above change:
+Given the high number of application segments, potential geographical distribution of 
+resources (DC, DR, and multiple cloud environments), and the need to guarantee low 
+latency for 8,000 users, a minimum of five pairs may be insufficient to ensure optimal load 
+balancing and operational resilience across all environments.
+REFER Corrigendum - 1 
+(Amendment) SL. No 1
+23
+Section: General 
+Platform Features
+Point #2, Page # 241
+ZTNA / Secure Remote Access for Private application access in DC, DR & Cloud : Min. 8000 users with 
+at least 100 App Segments. The ZTNA / Secure Remote Access solution must include a minimum of 05 
+pairs ( 05 + 05 in HA) of Connectors from Day 1. These 8000 Users are in addition to the above SSE 
+users.
+One App segment can manage multiple applications. 10 segments can cator organizations 
+with 100s of applications acceesible by up to 30K users. Therefore we recommend to 
+modify the clause as below:
+ZTNA / Secure Remote Access for Private application access in DC, DR & Cloud : Min. 8000 
+users with 10 App segments scalable up to 100 App Segments. The ZTNA / Secure Remote 
+Access solution must include a minimum of 05 pairs ( 05 + 05 in HA) of Connectors from 
+Day 1. These 8000 Users are in addition to the above SSE users.
+REFER Corrigendum - 1 
+(Amendment) SL. No 1
+24
+B.Secure Web 
+Gateway
+Page No 241, Point 
+No 1
+The solution must operate in a full-proxy architecture (hide the user IP address with SSE vendor IP 
+address to external world) and should perform 100% SSL inspection at scale.
+Following Modes of SWG should be available in the System
+a. User Agent - The solution must have single light weight user agent and supported on Windows, 
+MAC, Linux, ChromeOS, iOS, and Android.
+b. Encypted Phase 1 and Encrypted Phase 2 IPSec Tunnel- NTPC will create / configure the web 
+gateway firewall or router to send web traffic to the cloud SWG through an IPsec tunnel for policy 
+compliance and security. It should not require an agent on the client device.
+This requiement is for unauthenticated users and is in addition to the total users requirement of 
+20,000 Licenses (i.e 18000 users + 2000 Guest users)
+Licenses for 100+100 nos of such simultaneous IPSec Tunnels of 400 Mbps each OR if Licenses are 
+based on Bandwidth then the solution should be licensed for atleast agreegated 05 Gbps of Traffic 
+handling capacity originated from this forwarding mechanism. This agreggation shall be summation of 
+raffic from all sites at any given point of time. NTPC will provide Router and/or Thrid party Firewall at 
+such locations. If any additional on-site harware is required for establising the same or meeting the 
+functionality, then the bidder may consider the same in their offer for 50 such locations. Considering 
+02 ISP at each Locations.
+The solution must provide protection for users connecting via IPSEC tunnels even if the agent is not 
+installed on the devices like laptops/desktops/Mobile devices/IOT/OT devices/Guest users.
+c. Explicit Over Cloud SWG IPsec - Install PAC files on browsers that route to the Cloud SWG.
+The proposed solution must provide secure and controlled internet access to the guest users who 
+would connect to NTPC guest Wi-Fi network for internet browsing. The traffic of guest users must be 
+controlled without any dependency of an endpoint agent or any changes on the user endpoints.
+Using the Solution in the hybrid mode i.e any of the modes can be deployed simultaneously 
+depending upon the site, security and other requirements of NTPC.
+Need clarification - Why 100+tunnels required for the guest users? There should not be 
+any bandwidth limitation on total aggregated bandwidth why only 5 Gbps or 400 Mbps 
+mentioned. Tunel can be IPSEC and GRE based on the performance factors.
+Number of IPSec Tunnels 
+are a per NTPC network 
+architecture and 
+requirements. 
+Also REFER Corrigendum 
+- 1 (Amendment)
+25
+D.Threat Protection
+Page No 242, Point 
+No 4
+The sandbox must perform detonation of archives, executables (on Server/endpoint/mobile 
+platforms), MS Office files, and other risky file types. The detailed analysis reports detailing the attack 
+lifecycle and event killchain, malware behavior, and payload intent and mapping with MITRE ATT&CK 
+framework shall be available for log analysis. The sandbox action shall allow administrator to define 
+actions like monitor/allow/block.
+You have mentioned "The sandbox must perform detonation of archives, executables (on 
+servers/endpoints/mobile platforms),MS Office files, and other risky file types. but in an 
+SSE solution, threat sandboxing for files and URLs is executed within the vendor's secure 
+data centers, not on customer-side servers or endpoints."
+Please clarify the statement.
+NO CHANGE - 
+As per sepecifications 
+sandboxing is required 
+in the SSE cloud infra 
+with capbility of 
+detonating archives, 
+executables, MS Office 
+Files and other risky files 
+in cloud sandbox.
+26
+H.Zero Trust 
+Network Access 
+(For Internal Private 
+Apps)
+Page No 242, Point 
+No 3
+SSE solution is intended to bring uniformity in policies for allowing access to applications/servers 
+hosted anywhere including NTPC DC/DR, Cloud IaaS or PaaS. The Bidder shall include licenses for at 
+least a minimum of 05 pairs ( 05 + 05 in HA) of Application Connector. All hardware / VMs along with 
+all required softwares, applications etc ( in HA) required at DC Noida & DR Hyd is in the Scope of 
+bidder. VMs required for Iaas cloud deployments shall be provided by NTPC.
+Need clarification - This is also same as point no 2 page No. 242, Given the high number of 
+application segments, potential geographical distribution of resources (DC, DR, and 
+multiple cloud environments), and the need to guarantee low latency for 8,000 users, a 
+minimum of five pairs may be insufficient to ensure optimal load balancing and 
+operational resilience across all environments.To ensure optimal performance,low 
+latency, and high availability for 8,000 users across 100 application segments, the ZTNA 
+solution will require more than the five pairs of connectors specified.
+Please change as requested below "SSE solution is intended to bring uniformity in policies 
+for allowing access to applications/servers hosted anywhere including NTPC DC/DR, Cloud 
+IaaS or PaaS. The Bidder shall include licenses for minimum of 05 pairs (05 + 05 in HA) of 
+Connectors at deployment, and the license must be inherently scalable to a minimum of 
+10 pairs (10 + 10 in HA) without requiring an increase in the base license cost.. All 
+hardware / VMs along with all required softwares, applications etc ( in HA) required at DC 
+Noida & DR Hyd is in the Scope of bidder. VMs required for Iaas cloud deployments shall 
+be provided by NTPC."
+NO CHANGE
+27
+H.Zero Trust 
+Network Access 
+(For Internal Private 
+Apps)
+Page No 242, Point 
+No 9
+"The ZTNA Solution must provide access to any TCP & UDP based Internal Applications including 
+Browser based and Thick Client Applications using the single SSE Agent installed on User Machines
+The ZTNA solution must have both server-to-client and client-to-server applications. SMB File share, 
+AD GPO update, Pushing patch form server to user machine must be supported. If any additional 
+Licenses / functionality is required to be provided, the same should be included for all ZTNA users in 
+the offer."
+Need Clarification -
+Please help to know at how many locations you have these applications (which need to 
+initiate connection towards user/s)?
+Number of DC / DR, 
+Cloud IaaS or PasS 
+Locations where 
+application ZTNA 
+connectors will be 
+deployed (05 Location in 
+HA Mode) has to be 
+considered.
+28
+H.Zero Trust 
+Network Access 
+(For Internal Private 
+Apps)
+Page No 242, Point 
+No 12
+The ZTNA solution must also allow the NTPC to provide third-parties (vendors, contractors, suppliers), 
+IT administrators, and remote employees controlled access to its servers and applications via a 
+clientless remote desktop gateway that enables end-users to securely connect to servers, or desktops 
+using Remote Desktop Protocol (RDP), Secure Shell (SSH), or Virtual Network Computing (VNC) from 
+the end user’s modern browser ( Remote Browser Isolation or Enterprise Browser) without installing 
+ZTNA endpoint agent or any browser plugins.
+The ZTNA solution uses its own browser-based terminal client to enable the required 
+access, making it independent of third-party isolation or browser technologies.Since the 
+entire session rendering and policy enforcement occurs on the secure ZTNA gateway,there 
+is no technical need for a Enterprise Browser (EB) or Remote Browser Isolation (RBI) to 
+fulfill the requirement of secure clientless access to internal applications.
+Please clarify the statement.
+There will be a limited number of users who may need SSH / RDP type of access over web. 
+With current clause it will be considered for all 8000 ZTNA users which will impact the 
+overall budget heavily. As Enterprise Browser / RBI has been asked for only 1000 users 
+hence we request to match it with the same quanitity and modify the clause as per 
+following:
+The ZTNA solution must also allow the NTPC to provide third-parties (vendors, 
+contractors, suppliers), IT administrators, and remote employees controlled access to its 
+servers and applications via a clientless remote desktop gateway that enables end-users 
+to securely connect to servers, or desktops using Remote Desktop Protocol (RDP), Secure 
+Shell (SSH), or Virtual Network Computing (VNC) from the end user’s modern browser ( 
+Remote Browser Isolation or Enterprise Browser) without installing ZTNA endpoint agent 
+or any browser plugins for Minimum of 1000 Users.
+REFER Corrigendum - 1 
+(Amendment) Sl. No 10
+29 Additional 
+Recommendation
+There should not be any limitation in number of policy rules for the entire solution for 
+features like SWG,CASB,CFW,DNS Security.Please mention it clearly as there are vendors 
+who are providing limited set of policies in their solution for the requested ask.
+Hence requesting to add the same so that NTPC must not face this challange after 
+procuring of any solution.
+NO CHANGE
+30 Additional 
+Recommendation
+The proposed solution (including all components) should have direct OEM 24x7x365 
+support with following Initial Response Time SLA's: P1 (Urgent) <= 30 Min P2 (High) <= 2 
+hour P3 (Normal) <= 8 hour P4 (Low) <= 24 hour "
+NO CHANGE
+31 Additional 
+Recommendation
+Solution must provide secure access to users for private applications hosted in Data 
+Centre through On-prem Broker/Exchange and application connector/gateway without 
+making tunnel outside of NTPC environment. On-Premise user traffic towards internal 
+applications must be through Zero Trust On-Premise broker and it must not connect OEM 
+cloud to access their intranet applications
+NO CHANGE
+32
+Period Extension 
+Clause for Licenses, 
+Subscriptions, and 
+FMS Services
+14.6
+NTPC reserves the right to extend the initial contract period of five (5) years by an additional one (1) 
+year, under the same terms and conditions. For the extended period beyond the fifth year, the 
+maximum permissible increase in the rates of the respective BoQ items shall be limited to the 
+weighted average percentage increase applied over the initial five-year period.
+Over a five-year period, market conditions may change significantly. Extending the 
+contract on the same commercial and legal terms may not reflect the prevailing market 
+realities at the time of extension, potentially leading to financial unviability for the service 
+provider hence we request NTPC to mutually discuss and agree upon the terms and 
+commercials at the time of extension or renewal.
+NO CHANGE
+33
+14.9 Minimum / 
+Maximum Price 
+Component:
+238
+14.9 Minimum / Maximum Price Component: We request the removal of the mandatory requirement under clause 14.9.This fixed 
+percentage limits flexibility in proposal structuring and may not align with actual service 
+needs or industry practices.
+NO CHANGE
+34
+Clause No -Section 
+C point no 1 Page-
+242
+The solution should support both Inline CASB and out of band CASB API for minimum 10 SaaS Apps 
+capabilities from day 1. In addition, the solution must have SSPM (SaaS Security Posture Management) 
+for minimum of 10 SaaS apps to protect misconfigurations , and compliances with security 
+standards.The solution should support real-time
+visibility sanctioned and unsanctioned applications with dynamic risk score based on Cloud Security 
+Alliance Standards. The solution must be able to report the security
+compliances and certifications achieved by these apps..
+Change Requested -
+The solution should support both Inline CASB and out of band CASB API for minimum 10 
+SaaS Apps capabilities from day 1.The solution should support real-time visibility 
+sanctioned and unsanctioned applications with dynamic risk score based on Cloud 
+Security Alliance Standards. The solution must be able to report the security
+compliances and certifications achieved by these apps.
+SSPM is a dedicated product in itself - if the intent is SSPM also then NTPC should add 
+specs of full blown SSPM product which is also SAAS delivered, however if the keyword 
+SSPM is removed from the specs the features can be delivered by SSE itself.
+REFER Corrigendum - 1 
+(Amendment) Sl. No 6
+35
+Clause No -Section 
+E point no 11 Page-
+242
+The solution should support sending alerts to admins whenever there is confidential data match Requesting to make OR for admin and user, violation email goes to User and DLP event is 
+generated for Admins.
+Changes Requested
+The solution should support sending alerts to admins / User whenever there is 
+confidential data match
+The solution should support sending email alerts to User whenever there is confidential 
+data match and create an Event for Admin's review in the Solution Dashboard.
+REFER Corrigendum - 1 
+(Amendment) Sl. No 7
+36 Clause No -Section I 
+Page-243
+The solution must have Remote Browser Isolation (RBI) / Enterprise Browser feature for 1000 licensed 
+users which enables NTPC to have protection from any risky/uncategorized Web traffic which blocks 
+any real data transfer between Application and users.
+RBI should be used for all users for critical and vulnerable internet applications. Solution 
+supports RBI for all Internet traffic as well without any latency and more Security.
+Changes Requested -
+The solution must have Remote Browser Isolation (RBI) / Enterprise Browser feature for 
+All licensed users which enables NTPC to have protection from any risky/uncategorized 
+Web traffic which blocks any real data transfer between Application and users.
+NO CHANGE
+37
+Section: General 
+Platform Features
+Point #6, Page # 241
+The solution must have single light weight user agent and supported on Windows, MAC, Linux, 
+ChromeOS, iOS, and Android. This Agent must be tamperproof and the User must not be able to 
+disable or uninstall it even if the User has local system Admin Rights. The system should have provision 
+for allowing user to uninstall / disabling the agent from the dashboard itself or may provide / generate 
+a one time key or single use password specific to the user for allowing user to disable/uninstall the 
+agent.
+The solution must have single light weight user agent and supported on Windows, MAC, 
+Linux, ChromeOS, iOS, and Android. This Agent must be tamperproof and the User must 
+not be able to disable agent service. The system should have provision for allowing user to 
+uninstall / disabling the agent from the dashboard itself or may provide / generate a one 
+time key or single use password specific to the user for allowing user to disable/uninstall 
+the agent.
+If there is Admin rights on the endpoint then it is practically not possible to prevent 
+modifications to agent - with root access and admin rights all modifications are possible.
+NO CHANGE
+38 Clause No -2 Page-
+224 The bidder has to integrate its SSE with the existing ITSM tool deployed at NTPC. Please share the ITSM solution that is deployed at NTPC. Currently used ITSM toll 
+is Service Now
+39 Clause No -11.3 1. 
+Page 233 Ensure scalability and integration with existing infrastructure (e.g., Identity Providers, SIEM, SDWAN) Kindly provide the existing vendor solutions of Identity provider, SIEM and SDWAN.
+Current vendors are 
+Microsoft, Mcafee and 
+Cisco
+40 Clause No -11.3 4. 
+Page233 Deploy endpoint agents (if applicable) with support of the system integrator. Please let us know whether any agent deployment tool or centralized agent push option is 
+available in NTPC to deploy the agents in all the machines as per the RFP scope.
+NTPC is using AD / 
+SCCM, which may be 
+used for agents update 
+and also Agent 
+installation / 
+configuration support 
+may be provided 
+remotely from NTPC 
+DC/DR.however, If the 
+bidder’s installation 
+team is required to visit 
+to complete or achieve 
+the installation 
+schedule, the bidder 
+may have to arrange 
+travel, boarding and 
+lodging arrangements 
+41 Clause No -12.10 
+Page-235
+For network equipment not supplied by the bidder, the FMS team shall coordinate with respective 
+team/group for deploying the latest upgrades, updates, patches and hotfixes as and when released by 
+respective OEMs.
+This scope is on high level and need broader level understanding. Please specify the 
+complete list of equipments that will be under the scope of the bidder for this 
+coordination work.
+Required Information /  
+Details to be shared with  
+the FMS team as per  
+requirement from time 
+to time.
+42 Clause No 14.9- 
+Page-238
+Installation and Training component must not exceed 2.5% of the total bid price. If exceeds, then they 
+will deduct and pay and release the rest of the amount at the end of the 5 year contract period.
+Installation and Training component must not exceed 5% of the total bid price. If exceeds, 
+then they will deduct and pay and release the rest of the amount at the end of the 5 year 
+contract period.
+Request to make Installation and Training component 5% of the total bid price
+REFER Corrigendum - 1 
+(Amendment) Sl. No 18
+43
+Section: Scope of 
+Work: 2.0 page 
+#224
+Bidder will work with Central NOC / SOC team and based on their inputs, necessary changes, patches, 
+bug fixing shall be done by the bidder
+Based on inputs NTPC inputs the changes to be done during the deployment phase in the 
+proposed solution components only, and Bidder is not responsible for the NTPC 
+equipment's and end user devices etc. kindly confirm.
+necessary changes, 
+patches, bug fixing etc as 
+required from time to 
+time during the curency 
+of the contract shall be 
+required to be carried 
+out by the Bidder in 
+solution. Equipments. 
+Softwares provided 
+under this contract.
+44
+Section: Scope of 
+Work: 2.0 page 
+#224
+If required, NTPC may ask for Proof of Concept (POC) to demonstrate the technical compliance for the 
+specifications mentioned prior to evaluation of bids / opening of price bid. When asked, the bidder 
+shall demonstrate the capability through POC within 7 days of receiving the request from NTPC, failing 
+which, the solution proposed by the bidder shall be deemed as technically non-compliant
+Kindly share the details in which condition POC will be applicable and exempted, and 
+Assuming POC / Demonstrate the capability would be remotely only. REFER Corrigendum - 1 
+(Amendment) Sl. No 20
+45
+Section: Scope of 
+Work: 2.0 page 
+#224
+Bidder shall install, configure and provision the SSE & ZTNA solution across all the endpoints as per the 
+technical specifications & functional requirements on a hybrid infrastructure as made available by 
+NTPC to the bidder. All installations of the SSE to be carried out by the bidder from NTPC Data Centres 
+(Centrally / Remotely)
+Implementation and configuration of remote access to NTPC offices applications, desktop 
+PCs/Workstations/Servers over RDP, File servers, standalone, legacy and web applications
+Please suggest for SSE & ZTNA solution rollout on the NTPC all endpoints, NTCP will 
+provide the required rollout environment, tools, Bandwidth and connectivity etc. as 
+needed.
+Also in case of any required patching, configuration and fixes etc. to be done in the 
+existing NTPC environment / endpoints the same will be done by the NTCP or Their 
+partners team only please confirm.
+ZTNA to private or intranet applications is used to access the servers in DC or colocated DC 
+or applications hosted on cloud. This clause has desktops as well. Please elaborate the use 
+case of accessing the desktops. Also if it is the requirement, then how many locations are 
+there where this type of desktop access needed.
+NO CHANGE
+46 Section: Scope of 
+Work: 2.0 page The Bidder shall deploy ALL resources, who should be in their OWN PAYROLL. Request you to allow Partner resource in place on Bidder Payroll NO CHANGE
+47
+Section: Scope of 
+Work: 2.0 page 
+#224
+The bidder has to integrate its SSE with the existing ITSM tool deployed at NTPC. All configuration in 
+the SSE platform, and the ITSM tool required shall be done to the bidder. Please share the integration scope and ITSM tools OEMs and Version details Currently used ITSM toll 
+is Service Now
+48
+Section: Scope of 
+Work: 2.0 page 
+#226
+OTHER TERMS & 
+CONDITIONS FOR 
+FMS Resources
+The bidder shall provide the resources accordingly to run the above-specified schedule of services. In 
+case of any resource on leave, adequate arrangement shall be provided so that the services are 
+available as per schedule.
+Penalty for Non-availability of FMS resource:
+In case the non-availability of any FMS resource services without the permission of the EIC or without 
+suitable replacement being provided by the bidder, penalty shall be applicable per day per resource 
+which shall be calculated on prorate basis.
+During the on-prem resource on leave or Emergence, we can provide the support services 
+remotely and backup it hope it ok to NTPC.
+Please relax the Penalty for FSM and will provide the Remote support to provide the 
+required support NO CHANGE
+49
+Section: Scope of 
+Work: 4.1 page 
+#228
+Site Preparation
+Rack space in NTPC data center and DR Center.
+ For on-Premises Infra / Servers connectivity, Interfaces in Network switches, Routers and other 
+equipment to connect the solution components to NTPC internal network, DMZ and Internet links. 
+However, any other network related requirements for achieving the functionality of the solution are in 
+the scope of the bidder.
+Since the Rack space, Power, Cooling etc. is provided by NTCP and I assuming the request 
+Network ports etc. for the proposed equipment's will be provided by NTCP and only 
+bidder to bring the Cables etc. for the proposed equipment's.
+Also Hand and Feet support for the deployed equipment's will be provided by the NTPC 
+team only as needed.
+Pleases confirm.
+NO CHANGE
+50
+Section: OTHER 
+TERMS AND 
+CONDITIONS page 
+#244
+Annual True-Up for 
+Additional Licenses
+NTPC may conduct an annual true-up for additional licenses of the required solution(s) as per the RFP, 
+in multiples of 200 units, if the consumption of licenses exceeds 10% of the subscribed quantity in the 
+previous license year. The minimum threshold for triggering a true-up is 10%, unless the OEM's default 
+allowance is higher, in which case that higher threshold will apply. The true-up will only apply if the 
+excess license usage continues for more than 60 consecutive days.
+Will that True-Up in multiples of 200 units applicable only on the Secure Web 
+Gateway(SWG) Cloud Bases SaaS Services single components only and no other 
+components part of True-up scope. And rest others will be increase as per change 
+management process
+In any other components also part of scope true-up then share the each components wise 
+qtys details
+licenses clause is 
+applicable for all SaaS 
+based Licenses. 
+Also REFER Corrigendum 
+- 1 (Amendment) SL. No 
+19
+51
+Clause - A-General 
+Platform Features- 
+2 Page-241
+The SSE solution shall have the following component wise licensing requirements:
+1) SWG, CASB, Threat Protection, DLP, Cloud Firewall, DNS Security for Min.18,000 users from Day 1.
+2) ZTNA / Secure Remote Access for Private application access in DC, DR & Cloud : Min. 8000 users with 
+at least 100 App Segments. The ZTNA / Secure Remote Access solution must include a minimum of 05 
+pairs ( 05 + 05 in HA) of Connectors from Day 1. These 8000 Users are in addition to the above SSE 
+users.
+Request to modify it to ask for a dedicated separate management tenant for 8000 ZTNA 
+users or remove the clause (These 8000 Users are in addition to the above SSE users). 
+With the current clause, it will add-up to the total count (20K + 8K = 26K users) and will 
+impact the overall budget. We request to modify the clause as per any of the below 
+request (Option 1 or 2):
+Option 1: The SSE solution shall have the following component wise licensing 
+requirements:
+1) SWG, CASB, Threat Protection, DLP, Cloud Firewall, DNS Security for Min.18,000 users 
+from Day 1.
+2) ZTNA / Secure Remote Access for Private application access in DC, DR & Cloud : Min. 
+8000 users with at least 100 App Segments. The ZTNA / Secure Remote Access solution 
+must include a minimum of 05 pairs ( 05 + 05 in HA) of Connectors from Day 1. These 
+8000 Users are in addition to the above SSE users and must be provided on a separate 
+dedicated management tenant.
+OR
+Option 2: The SSE solution shall have the following component wise licensing 
+requirements:
+1) SWG, CASB, Threat Protection, DLP, Cloud Firewall, DNS Security for Min.18,000 users 
+from Day 1.
+2) ZTNA / Secure Remote Access for Private application access in DC, DR & Cloud : Min. 
+8000 users with at least 100 App Segments. The ZTNA / Secure Remote Access solution 
+must include a minimum of 05 pairs ( 05 + 05 in HA) of Connectors from Day 1. These 
+8000 Users are in addition to the above SSE users.
+REFER Corrigendum - 1 
+(Amendment) SL. No 1
+52
+Clause - B-Secure 
+Web Gateway - 2 
+Page-241
+ZTNA / Secure Remote Access for Private application access in DC, DR & Cloud : Min. 8000 users with 
+at least 100 App Segments. The ZTNA / Secure Remote Access solution must include a minimum of 05 
+pairs ( 05 + 05 in HA) of Connectors from Day 1. These 800
+As NTPC is looking for cloud-native SSE, we request removing the requirement for routing 
+by backhauling traffic through NTPC’s egress IPs, as this increases the risk of attack surface 
+as NTPC IP's will be directly visible over the dark web defeating the purpose of SSE Zero 
+Trust Architecture as well as impact the end user experience with backhaulling. Using 
+cloud-provided dedicated egress IPs by SSE OEM's for NTPC it ensures a fully NTPC's Data 
+center is completely dark and hidden from the outside world and doesn't impact end user 
+experience. Hence we request to modify the clause as:
+The Secure Web Gateway must provide an option to redirect specific Government/Other 
+Internet Websites via dedicated NTPC Egress IPs provided by SSE OEM provide Dedicated 
+Egress IPv4 addresses in atleast 02 of the SSE Cloud Data Centres. Any software / 
+hardware / license required must be included in pairs for DC and DR.
+REFER Corrigendum - 1 
+(Amendment) Sl. No 8
+53
+Clause - C - CASB 
+(Cloud Access 
+Security Broker) 
+Services - 1 Page-
+242
+The solution should support both Inline CASB and out of band CASB API for minimum 10 SaaS Apps 
+capabilities from day 1. In addition, the solution must have SSPM (SaaS Security Posture Management) 
+for minimum of 10 SaaS apps to protect misconfigurations, and compliances with security 
+standards.The solution should support real-time visibility sanctioned and unsanctioned applications 
+with dynamic risk score based on Cloud Security Alliance Standards. The solution must be able to 
+report the security compliances and certifications achieved by these apps..
+We believe all of these feature licenses (Inline CASB, CASB API for minimim 10 Apps, and 
+SSPM for minimum of 10 SaaS Apps) are required from day 1 to minimize unified SaaS 
+risk. Does NTPC need Advance DLP (OCR, EDM, fingerprinting etc) and Advance Threat 
+Protection (Sandbox for Zero Day Protection) capabilities for CASB APIs to protect data at 
+rest traffic to ensure unified security for both data-in-motion and data-at-rest? Pls clarify 
+and confirm.
+REFER Corrigendum - 1 
+(Amendment) Sl. No 6
+54
+Clause - E- Web DLP 
+(Data Loss 
+Prevention) - 2 Page-
+242
+The solution must be able identify and protect pre-defined file types based on true file type detection 
+for DLP solution.
+Request to add advance DLP capabilites to ensure advance data exfiltration risk are well 
+covered in this prestigeous proect. Hence, we request to modify the clause as:
+The solution must be able identify and protect pre-defined file types based on true file 
+type detection for DLP solution and must have EDM, fingerprinting and OCR capabilities 
+from day 1.
+NO CHANGE
+55
+Clause - H- Zero 
+Trust Network 
+Access (For Internal 
+Private Apps) - 11 
+Page-243
+The solution must have the capability to authenticate users and enrol/log using their personal email 
+addresses for 3rd party users or non-domain joined machines. SSE admin user must be able to send 
+invite links to the end user’s personal email to on-board the users with end user agent for authorized 
+application accesses.
+Request to modify the clause as per folllowing as it's part of the solution and onboarding 
+can be completed via IDP or enforcing RBI or Enterprise Browser redirection:
+The solution must have the capability to authenticate users and enrol/log using their 
+personal email addresses for 3rd party users or non-domain joined machines. The solution 
+SSE admin user must be able to send invite links to the end user’s personal email to on-
+board the users with end user agent for authorized application accesses.
+REFER Corrigendum - 1 
+(Amendment) Sl. No 9
+56 10 The solution must allow to add / ingest IOCs to the SSE system.
+Does NTPC require the capability to ingest IOCs and block based on file hashes (e.g., MD5, 
+SHA1, SHA256) as recommended by Cert-in and other regulatory bodies? Kindly confirm 
+as it is not elaborated in the RFP.
+NO CHANGE
+57 Scope of 
+Supply/Service SOW Point 8.3 , page 11, Acceptance/ Handover Criteria, Point No.3-
+This clause is a very Grey Area -If the Bidder's installation team is required to visit NTPC 
+locations to complete installation we would need a specific number of sites , with number 
+of endpoints so as to arrive at the cost of travel boarding and lodging and the number of 
+personnel and mandays required to address this specific issue. We would request you 
+specify the states, the number of locations and endpoints at such locations where the 
+bidder would need to travel so that we can make an intelligent estimate of the costing of 
+the same.
+Refer Carification at SL. 
+No 40 above. 
+Also REFER Corrigendum 
+- 1 (Amendment) Sl. No 
+17
+58 Scope of 
+Supply/Service SOW Point 12.4, page 13, Service Desk and Service Management - Please Clarify if the ITSM application would be NTPC inhouse or bidder has to use their 
+own ITSM application.
+NTPC is already using 
+Service Now ITSM Tools.
+59 Clause -2 Page 241
+The proposed sandbox solution must be natively in-line, enabling to quarantine files and inspect 
+before delivery to the user.
+Please change the wording as "The proposed sandbox solution must be natively in-line 
+and inspect before delivery to the user." NO CHANGE
+60
+Clause -4 Page 241
+The sandbox must perform detonation of archives, executables (on Server/endpoint/mobile 
+platforms), MS Office files, and other risky file types. The detailed analysis reports detailing the attack 
+lifecycle and event killchain, malware behavior, and payload intent and mapping with MITRE ATT&CK 
+framework shall be available for log analysis. The sandbox action shall allow administrator to define 
+actions like monitor/allow/block.
+Request you to remove this point as Sandboxing In-line will block the risky content 
+NO CHANGE - 
+Also refer Clarification as 
+per Sl. No 25 Above
+61 Clause No -Section I 
+Page-243
+The solution must have Remote Browser Isolation (RBI) / Enterprise Browser feature for 1000 licensed 
+users which enables NTPC to have protection from any risky/uncategorized Web traffic which blocks 
+any real data transfer between Application and users.
+Please change the clause as "The solution must have  Remote Browser Isolation (RBI) / 
+Enterprise Browser feature for all licensed users which enables NTPC to have protection 
+from any risky/uncategorized Web traffic which blocks any real data transfer between 
+Application and users without extra cost"
+NO CHANGE
+62
+Section: B- Secure 
+Web Gateway
+Point #3, Page # 241
+The Solution must have DEM (Digital Experience Management) License for atleast 05 SaaS 
+Apps/Probes to find out issues related with Applications, Hop-by-Hop Latency and Network path 
+tracing including hop by hop analysis of all internal and external hops on every probe with ISP/AS 
+Number & Geo details for each hop, User Device Stats (CPU, Memory, Network, Storage) and 
+effectively reduce mean time to identify root cause of experience/performance issues and help in 
+resolution. The Licenses for atleast 1000 Users should be provided. There should be a provision for 
+providing and revoking the DEM Licenses to any users in the same or a seperate tenant / group.
+Requesting to remove DEM as this terminology is coined by gartner and this has nothing 
+to do with either SWG/DLP/Threat protection/SSE. or change the wording as "Solution 
+should support Service-side telemetry such as application transactions visibility, 
+processing times, responsiveness metrics, including bandwidth-related insights
+Client-side telemetry such as user device CPU, memory, storage, network utilization, Wi-Fi 
+signal quality, and ISP/network latency."
+the solution to meet the 
+technnical / Services 
+requirements as per 
+Specs and Scope of 
+Work even if the the 
+services are called by 
+some other technical 
+name.
+63
+Clause -1 -G - 
+Advanced DNS 
+Security Page 242
+The Solution must proxy all internet bound DNS traffic to cloud SSE engine for inspection at scale and 
+inline protection against DNS tunnels used to control malware and exfiltrate data and enforce policies 
+based on DNS Record Types, Destination, Tunnels etc
+Need Clarity - 
+Is it fine to deploy DNS server within NTPC network (Hardware/Virtual - as prefered by 
+NTPC) to have DNS security asked & same DNS server would help to do traffic engineering 
+for Internal & Internet based domains (FQDN) on conditional forwarder ?
+The bidder has to 
+provide Solution as per 
+Technical Specs and 
+Scope of Work
+64 Bid Eligibility Criteria Page No-4; Clause No-7.1.2 Bidder’ Query:
+We understand that, the entire PO/executed value will be considered for eligibility, 
+provided that the scope includes the required services viz. Cloud Secure Service Edge OR 
+Secure Web Gateway OR Zero Trust Network Access ZTNA Services /VPN component and 
+not the executed value of the individual components (Cloud Secure Service Edge OR 
+Secure Web Gateway OR Zero Trust Network Access ZTNA Services /VPN). Kindly confirm.
+Yes
+65 Others Page No-4; Notes; Bidder’s Query:
+We understand a project will be counted as "similar work" if the scope includes any one of 
+the required services (Cloud Secure Service Edge” OR Secure Web Gateway OR Zero Trust 
+Network Access ZTNA Services /VPN), even if the project includes additional other 
+components. Kindly confirm.
+Yes
+66 Others Page No-4; Clause No-7.1.3; Bidder’s Query: For wider participation we request you to kindly accept separate PO copies against this 
+clause irrespective of value of project. No 
+67
+47.1. Termination 
+of Contract (Page 
+107)
+If at any time after award of Contract, the Employer shall decide to abandon or reduce the scope of 
+the Works for any reason whatsoever and hence not require the whole or any part of the Works to be 
+carried out by the Contractor, the Engineer - in- Charge shall give notice in writing to that effect to the 
+Contractor and the Contractor except as herein under provided, shall have no claim to any payment of 
+compensation or otherwise whatsoever, on account of any profit or advantage which he might have 
+derived from the execution of the Works in full but which he did not derive in consequence of the said 
+termination of the whole or part of the Works.
+We request that in the event of termination for convenience, the Bidder, apart from the 
+payments made for the work already done, also be compensated/paid for the orders 
+already placed with OEMs/ Licensors, which orders cannot be cancelled with the 
+OEMs/Licensors, cancellation costs, if any, levied by the OEMs/Licensors, and logistical 
+and administrative expenses, if any, incurred by by the Bidder on account of such 
+cancellations, which expenses shall be billed on actuals. Further, if the bidder is supplying 
+any products/licenses on on opex model, then the NTPC shall pay the bidder the residual 
+value of such products/ licenses.
+No change 
+68
+47.3. Termination 
+for Contractor’s 
+Default (page 108)
+47.3. Termination for Contractor’s Default It is requested that in the event of termination for default, the NTPC shall pay to the 
+Bidder for work done successfully till the date of payment. Further, NTPC shall also pay to 
+the selected Bidder for orders already placed with OEMs/Software Licensors, which Orders 
+cannot be cancelled with the OEMs/Software Licensors or pay cancellation costs, if any, 
+levied by the OEMs/Software Licensors, which shall be billed on actuals.
+No change 
+69
+12. Price Basis The Contract price shall remain FIRM throughout the contract period and will be NOT be
+subject to adjustment for price escalation during the performance of the Contract until
+unless specified otherwise in the SCC.
+The Commercial Offer shall be on a fixed price basis, inclusive of all taxes and levies. No price increases 
+due to increases in customs duty, excise, tax, dollar price variation etc. will be permitted.
+Bidder will quote based on the current cost price of the quoted products and current 
+exchange rate. Due to the current global uncertainty concerning the proposed US tariffs, 
+and the fluctuating foreign exchange rates, our quoted price will subject to change based 
+on the then current exchange rate and any associated vendor price increases at the time 
+of invoicing.
+Not accptable
+70
+14.9 Minimum / 
+Maximum Price 
+Component:
+14.9 Minimum / Maximum Price Component: We request the removal of the mandatory requirement under clause 14.9.This fixed 
+percentage limits flexibility in proposal structuring and may not align with actual service 
+needs or industry practices.
+NO CHANGE
+71
+46.5-Suspension of 
+Works
+If for any reason other than for reasons of Contractor’s default as per GCC Sub - Clause 46.1(i) above, 
+if the Contract remains suspended for a continuous period exceeding ninety ( 90) days, then the 
+Employer and the Contractor shall mutually discuss and agree for a suitable course of
+action regarding the recommencement/ reinstatement of the suspended work or alternatively treat 
+the suspension as termination / abandonment of the Works by the Employer as per GCC Sub -
+Clause 47.1 herein.
+We request that in the event of termination of thr works, the Contractor, apart from the 
+payments made for the work already done, will also be compensated/paid for the orders 
+already placed with OEMs/Licensors, which orders cannot be cancelled with the 
+OEMs/Licensors, cancellation costs, if any, levied by the OEMs/Licensors, and logistical 
+and administrative expenses, if any, incurred by by the Contractor on account of such 
+cancellations, which expenses shall be billed on actuals. Further, if the bidder is supplying 
+any products/licenses on on opex model, then the Employer shall pay the bidder the 
+residual value of such products/licenses.
+No change 
+72
+47.1-Termination 
+by the employwer
+If at any time after award of Contract, the Employer shall decide to abandon or reduce the scope of 
+the Works for any reason whatsoever and hence not require the whole or any part of the Works to be 
+carried out by the Contractor, the Engineer - in- Charge shall give notice in writing to that effect to the 
+Contractor and the Contractor except as herein under provided, shall have no claim to any payment of 
+compensation or otherwise whatsoever, on account of any profit or advantage which he might have 
+derived from the execution of the Works in full but which he did not derive in consequence of the said 
+termination of the whole or part of the Works.
+We request that a notice period of atleast 90 days be provided to the Contractor in case 
+of termination for convenience or any abandonment or reduction in the scope of work. In 
+the event of termination/reduction in scope, NTPC shall pay the Contractor for work done 
+successfully till the date of payment. Further, NTPC shall also pay the Contractor for 
+orders already placed with OEMs/Software Licensors, which Orders cannot be cancelled 
+with the OEMs/Software Licensors or pay cancellation costs, if any, levied by the 
+OEMs/Software Licensors. Further, if the Contractor is providing licenses or products on 
+opex model or on lease, then in case of termination, NTPC will have to pay for the entire 
+pre-agreed duration of the contract.
+No change 
+73
+47.3-Termination 
+for Contractor's 
+Default
+The entire clause We request that a notice period of atleast 30 days be provided to the Contractor to 
+rectify/cure any breach. No change 
+74
+54.2-No claim for 
+Interest or Damage
+No claim for interest or damage will be entertained or be payable by the Employer in respect of any 
+amount or balance which may be lying with the Employer or may become due upon 
+settlement/adjudication of any dispute, difference or misunderstanding between the parties by way 
+of arbitration or court proceedings or otherwise or in respect of any delay or omission on the part of 
+the Employer in making intermediate or final payment or in respect of any amount/damage which 
+may be claimed through arbitration or court proceedings or in any other respect whatsoever.
+We request changes in the clause to indicate that the bidder will be entitled to seek 
+interest or damages on any non-payment or delayed payments or any guarantee/ 
+security/retention money or payments in arrears or any balance payments or any 
+settlement amounts. No change 
+75
+1.5-Arbitration Notwithstanding any reference to the Independent Engineer or Mediation or Conciliation or 
+Arbitration herein,
+(a) the parties shall continue to perform their respective obligations under the Contract unless they 
+otherwise agree.
+(b) the Employer shall pay the Contractor any monies due to the Contractor.
+Settlement of Dispute clause cannot be invoked by the Contractor, if the Contract has been mutually 
+closed or ‘No Demand Certificate’ has been furnished by the Contractor or any Settlement Agreement 
+has been signed between the Employer and the Contractor.
+It is clarified that the Bidder will perform its obligations/services only to the extent they 
+are not a subject matter of or are impacted by the arbitration.
+No change 
+76
+Other Terms And 
+Conditions Page 
+number 3; 
+QUALIFYING 
+REQUIREMENTS 
+FOR BIDDERS
+List of documents to be submitted by vendor to Qualify this QR; Copies of Purchase order(s) / 
+LOA(s)/Contract Agreement(s) and installation / commissioning/ acceptance certificate from the 
+client(s) clearly indicating period of execution along with value (Excl.Taxes & duties) and scope of work 
+executed as on/before date of Techno-commercial bid opening duly certified and digitally signed by 
+specified TPIA/ Independent Statutory Auditor.
+Request NTPC to allow invoivces raised to the client for Completion certificate or project 
+closure document initiated by the bidder and countersigned by the customer;
+No change 
+77
+GEM Bidding 
+document Page 
+Number 4
+MSE Purchase Preference; Purchase Preference to MSE OEMs available upto
+price within L1+X%
+Requesting NTPC to provide clarity as to MSE preference will only be given to OEM or to 
+the bidder
+MSE Clause will be 
+applicable as per GeM 
+Bid
+78
+46.5-Suspension of 
+Works
+107
+If for any reason other than for reasons of Contractor’s default as per GCC Sub - Clause 46.1(i) above, 
+if the Contract remains suspended for a continuous period exceeding ninety ( 90) days, then the 
+Employer and the Contractor shall mutually discuss and agree for a suitable course of action regarding 
+the recommencement/ reinstatement of the suspended work or alternatively treat the suspension as 
+termination / abandonment of the Works by the Employer as per GCC Sub - Clause 47.1 herein.
+We request that in the event of termination of thr works, the Contractor, apart from the 
+payments made for the work already done, will also be compensated/paid for the orders 
+already placed with OEMs/Licensors, which orders cannot be cancelled with the 
+OEMs/Licensors, cancellation costs, if any, levied by the OEMs/Licensors, and logistical 
+and administrative expenses, if any, incurred by by the Contractor on account of such 
+cancellations, which expenses shall be billed on actuals. Further, if the bidder is supplying 
+any products/licenses on on opex model, then the Employer shall pay the bidder the 
+residual value of such products/licenses.
+No change 
+79
+47.1-Termination 
+by the employwer
+107
+If at any time after award of Contract, the Employer shall decide to abandon or reduce the scope of 
+the Works for any reason whatsoever and hence not require the whole or any part of the Works to be 
+carried out by the Contractor, the Engineer - in- Charge shall give notice in writing to that effect to the 
+Contractor and the Contractor except as herein under provided, shall have no claim to any payment of 
+compensation or otherwise whatsoever, on account of any profit or advantage which he might have 
+derived from the execution of the Works in full but which he did not derive in consequence of the said 
+termination of the whole or part of the Works.
+We request that a notice period of atleast 90 days be provided to the Contractor in case 
+of termination for convenience or any abandonment or reduction in the scope of work. In 
+the event of termination/reduction in scope, NTPC shall pay the Contractor for work done 
+successfully till the date of payment. Further, NTPC shall also pay the Contractor for 
+orders already placed with OEMs/Software Licensors, which Orders cannot be cancelled 
+with the OEMs/Software Licensors or pay cancellation costs, if any, levied by the 
+OEMs/Software Licensors. Further, if the Contractor is providing licenses or products on 
+opex model or on lease, then in case of termination, NTPC will have to pay for the entire 
+pre-agreed duration of the contract.
+No change 
+80
+47.3-Termination 
+for Contractor's 
+Default 108
+The entire clause We request that a notice period of atleast 30 days be provided to the Contractor to 
+rectify/cure any breach. No change 
+81
+54.2-No claim for 
+Interest or Damage
+112
+No claim for interest or damage will be entertained or be payable by the Employer in respect of any 
+amount or balance which may be lying with the Employer or may become due upon 
+settlement/adjudication of any dispute, difference or misunderstanding between the parties by way
+of arbitration or court proceedings or otherwise or in respect of any delay or omission on the part of 
+the Employer in making intermediate or final payment or in respect of any amount/damage which 
+may be claimed through arbitration or court proceedings or in any other respect whatsoever.
+We request changes in the clause to indicate that the bidder will be entitled to seek 
+interest or damages on any non-payment or delayed payments or any 
+guarantee/security/retention money or payments in arrears or any balance payments or 
+any settlement amounts. No change 
+82
+1.5-Arbitration
+205
+Notwithstanding any reference to the Independent Engineer or Mediation or Conciliation or 
+Arbitration
+herein,
+(a) the parties shall continue to perform their respective obligations under the Contract unless they 
+otherwise agree.
+(b) the Employer shall pay the Contractor any monies due to the Contractor.
+Settlement of Dispute clause cannot be invoked by the Contractor, if the Contract has been mutually 
+closed or ‘No Demand Certificate’ has been furnished by the Contractor or any Settlement Agreement 
+has been signed between the Employer and the Contractor.
+It is clarified that the Bidder will perform its obligations/services only to the extent they 
+are not a subject matter of or are impacted by the arbitration.
+No change 
+83 Bid Validity Period 120 Days We request capping the bid validity to 30 days to ensure predictability in resource and 
+pricing commitments. No change 
+84
+47.1. Termination 
+of Contract
+107
+If at any time after award of Contract, the Employer shall decide to abandon or reduce the scope of 
+the Works for any reason whatsoever and hence not require the whole or any part of the Works to be 
+carried out by the Contractor, the Engineer - in- Charge shall give notice in writing to that effect to the 
+Contractor and the Contractor except as herein under provided, shall have no claim to any payment of 
+compensation or otherwise whatsoever, on account of any profit or advantage which he might have 
+derived from the execution of the Works in full but which he did not derive in consequence of the said 
+termination of the whole or part of the Works.
+We request that in the event of termination for convenience, the Bidder, apart from the 
+payments made for the work already done, also be compensated/paid for the orders 
+already placed with OEMs/Licensors, which orders cannot be cancelled with the 
+OEMs/Licensors, cancellation costs, if any, levied by the OEMs/Licensors, and logistical 
+and administrative expenses, if any, incurred by by the Bidder on account of such 
+cancellations, which expenses shall be billed on actuals. Further, if the bidder is supplying 
+any products/licenses on on opex model, then the NTPC shall pay the bidder the residual 
+value of such products/licenses.
+No change 
+85
+47.3. Termination 
+for Contractor’s 
+Default
+108
+47.3. Termination for Contractor’s Default It is requested that in the event of termination for default, the NTPC shall pay to the 
+Bidder for work done successfully till the date of payment. Further, NTPC shall also pay to 
+the selected Bidder for orders already placed with OEMs/Software Licensors, which Orders 
+cannot be cancelled with the OEMs/Software Licensors or pay cancellation costs, if any, 
+levied by the OEMs/Software Licensors, which shall be billed on actuals.
+No change 
+86
+12. Price Basis
+18
+The Contract price shall remain FIRM throughout the contract period and will be NOT be
+subject to adjustment for price escalation during the performance of the Contract until
+unless specified otherwise in the SCC.
+The Commercial Offer shall be on a fixed price basis, inclusive of all taxes and levies. No price increases 
+due to increases in customs duty, excise, tax, dollar price variation etc. will be permitted.
+Bidder will quote based on the current cost price of the quoted products and current 
+exchange rate. Due to the current global uncertainty concerning the proposed US tariffs, 
+and the fluctuating foreign exchange rates, our quoted price will subject to change based 
+on the then current exchange rate and any associated vendor price increases at the time 
+of invoicing.
+No change 
+87
+QUALIFYING 
+REQUIREMENTS 
+FOR BIDDERS:
+7.1 Technical Criteria - 7.1.2, page 4
+Notes for clause 7.1 (Technical criteria) of QR:
+1. ‘Similar’ work means works which inter alia include Supply and Installation or Implementation and 
+operations of at least one of the following:
+a. Secure Service Edge (SSE)
+b. Secure Web Gateway (SWG)
+c. Zero Trust Network Access (ZTNA) / VPN
+Kindly clarify if reference of Web Proxy experience will be considerded similar to Secure 
+Web gateway experience No change 
+88
+QUALIFYING 
+REQUIREMENTS 
+FOR BIDDERS:
+7.1 Technical Criteria - 7.1.2, page 4
+a) One Work of executed value not less than Rs. 491/- Lakhs
+OR
+b) Two works of executed value not less than Rs. 306/- Lakhs each
+OR
+c) Three works of executed value not less than of Rs. 245/- Lakhs each.
+Please clarify if the executed value mentioned is total project value consisting of product 
+cost, implementation cost, AMC / ATS including manpower. Yes
+89
+QUALIFYING 
+REQUIREMENTS 
+FOR BIDDERS:
+7.1 Technical Criteria - 7.1.2, page 4
+The word “executed” means the bidder should have achieved the criteria specified above, even if the 
+contract has been started earlier and / or is not completed / closed.
+We understand, even if the Purchase order for the project was placed earlier, but the 
+priject was running / is running and supported including renewal during the mentioned 
+duration, it will be considered.
+Please confirm.
+In case of contract(s) 
+under execution as on 
+the date of techno-
+commercial bid opening, 
+the value of
+‘similar’ work(s) 
+executed till the date of 
+techno-commercial bid 
+opening shall be 
+considered subject to 
+submission of certificate 
+from End-user duly 
+certifying the executed 
+value of ‘similar’ work in  
+Contract/PO/Work.
+Sl. No Document Ref. Existing Clause Read As / Clarification
+1
+Section: General Platform 
+Features
+Point #2, Page # 241
+The SSE solution shall have the following component wise licensing requirements: 
+1) SWG, CASB, Threat Protection, DLP, Cloud Firewall, DNS Security for Min.18,000 users from 
+Day 1.
+2) ZTNA / Secure Remote Access for Private application access in DC, DR & Cloud : Min. 8000 
+users with at least 100 App Segments. The ZTNA / Secure Remote Access  solution must 
+include a minimum of 05 pairs ( 05 + 05 in HA) of  Connectors  from Day 1. These 8000 Users 
+are in addition to the above SSE users.
+The SSE solution shall have the following component wise licensing requirements: 
+1) SWG, CASB, Threat Protection, DLP, Cloud Firewall, DNS Security for Min.18,000 users + 2000 Guest Users 
+from Day 1.
+2) ZTNA / Secure Remote Access for Private application access in DC, DR & Cloud : Min. 8000 users with at least 
+100 App Segments. The ZTNA / Secure Remote Access  solution must include a minimum of 05 pairs ( 05 + 05 in 
+HA) of  Connectors  from Day 1. 1000 ZTNA users (i.e  contractors, vendors etc, non-employee users) shall be in 
+addition to the above SSE users.
+3) Each licensed user must be allowed to connect a minimum of four (04) distinct devices (e.g., laptop, mobile 
+phone, tablet, Desktop Computer) under a single user license without requiring additional licenses. The solution 
+must provide a process for de-registering or replacing devices.
+2
+Section: A- General 
+Platform Features
+Point #7, Page # 241
+The proposed solution must have CSA STAR, SOC 2, SOC2-type2/SOC3/CIS certifications. The proposed solution must have CSA STAR, SOC 2/SOC2-type2/SOC3/CIS certifications.
+3
+Section: B- Secure Web 
+Gateway
+Point #1(b), Page # 241
+b. Encypted Phase 1 and Encrypted Phase 2 IPSec Tunnel- NTPC will create / configure the 
+web gateway firewall or router to send web traffic to the cloud SWG through an IPsec tunnel 
+for policy compliance and security. It should not require an agent on the client device. 
+This requiement is for unauthenticated users and is in addition to the total users requirement 
+of 20,000 Licenses (i.e 18000 users + 2000 Guest users)
+Licenses for 100+100 nos of such simultaneous IPSec Tunnels of 400 Mbps each OR if Licenses 
+are based on Bandwidth then the solution should be licensed for atleast agreegated 05 Gbps 
+of Traffic handling capacity originated from this forwarding mechanism. This agreggation shall 
+be summation of raffic from all sites at any given point of time. NTPC will provide Router 
+and/or Thrid party Firewall at such locations. If any additional on-site harware is required for 
+establising the same or meeting the functionality, then the bidder may consider the same in 
+their offer for 50 such locations. Considering 02 ISP at each Locations.
+The solution must provide protection for users connecting via IPSEC tunnels even if the agent 
+is not installed on the devices like laptops/desktops/Mobile devices/IOT/OT devices/Guest 
+users.
+b. Encypted Phase 1 and Encrypted Phase 2 IPSec Tunnel- NTPC will create / configure the web gateway firewall 
+or router to send web traffic to the cloud SWG through an IPsec tunnel for policy compliance and security. It 
+should not require an agent on the client device.
+The solution must provide protection for users connecting via IPSEC tunnels even if the agent is not installed on 
+the devices like laptops/desktops/Mobile devices/IOT/OT devices/Guest users.
+This requiement is for unauthenticated users and is in addition to the total users requirement of 20,000 Licenses 
+(i.e 18000 users + 2000 Guest users).
+Licenses for 100+100 nos of such simultaneous IPSec Tunnels of 400 Mbps each 
+OR 
+if Licenses are based on Bandwidth then the solution should be licensed for atleast agreegated 05 Gbps of 
+Traffic handling capacity originated from this forwarding mechanism. This agreggation shall be summation of 
+traffic from all sites at any given point of time. NTPC will provide Router and/or Thrid party Firewall at such 
+locations. If any additional on-site harware is required for establising the same or meeting the functionality, 
+then the bidder may consider the same in their offer for 50 such locations. Considering 02 ISP at each Locations.
+OR
+if the Licenses are based on Number of Users / devices that can access SWG thru IPSec Tunnels, then licenses 
+provision for 20,000 licenses (18000 users + 2000 Guest Users) is to be offered by the bidder.
+4
+Section: B- Secure Web 
+Gateway
+Point #3, Page # 241
+The proposed solution should be able to provide URL Filtering for at least 80+ URL categories 
+and must have capability to enforce granular advance activity control as mentioned below:
+a. Webmail Category: Upload, Download, & Attach
+b. File Sharing / Cloudstorage category: Upload, Download, & Post.
+c. Collaboration Category: Upload, Download, & Post
+The proposed solution should be able to provide URL Filtering for at least 80+ URL categories and must have 
+capability to enforce activity control as mentioned below:
+a. Webmail Category: Allow & Block ( uploading Attachments, sending Mail)
+b. File Sharing / Cloudstorage category: Upload, Allow, Block
+c. Collaboration Category: Allow, Block 
+5
+Section: l- DIGITAL 
+EXPEREINCE 
+MANAGEMENT
+Point #1, Page # 243
+The Solution must have DEM (Digital Experience Management) License for atleast 05 SaaS 
+Apps/Probes to find out issues related with Applications, Hop-by-Hop Latency and Network 
+path tracing including hop by hop analysis of all internal and external hops on every probe 
+with ISP/AS Number & Geo details for each hop, User Device Stats (CPU, Memory, Network, 
+Storage) and effectively reduce mean time to identify root cause of experience/performance 
+issues and help in resolution.
+The Licenses for atleast 1000 Users should be provided. There should be a provision for 
+providing and revoking the DEM Licenses to any users in the same or a seperate tenant/ 
+group.
+The Solution must have DEM (Digital Experience Management) License for atleast 05 SaaS Apps/Probes to find 
+out issues related with Applications, 
+Service Side Telemetry - 
+Latency and Network path tracing 
+internal and external hops with ISP/AS Number 
+Cliend Side Telemerty - 
+User Device Stats (CPU, Memory etc) & Network Utilization & Quality
+The Licenses for atleast 1000 Users should be provided. 
+6 Clause No -Section C point 
+no 1 Page-242
+The solution should have both Inline CASB and out of band CASB API for minimum 10 SaaS 
+Apps capabilities from day 1. In addition, the solution must have SSPM (SaaS Security Posture 
+Management) for minimum of 10 SaaS apps to protect misconfigurations, and compliances 
+with security standards.The solution should support real-time visibility sanctioned and 
+unsanctioned applications with dynamic risk score based on Cloud Security Alliance 
+Standards. The solution must be able to report the security compliances and certifications 
+achieved by these apps.
+The solution should have both Inline CASB and out of band CASB API for minimum 10 SaaS Apps capabilities 
+from day 1. In addition the solution should deliver SSPM / SSE based SaaS Security compiance with security 
+standards for minimum 10 SaaS apps, which includes real-time visibtity for sanctioned / un-sanctioned 
+applications with dynamic risk score based on cloud security alliance standards. The solution must be able to 
+report the security complainces and certifications achived by these applications.
+7 Clause No -Section E point 
+no 11 Page-242
+The solution should support sending alerts to admins whenever there is confidential data 
+match
+The solution should support sending alerts to user / admin whenever there is confidential data match. The 
+event details should also be available on solution dasboard for admin's review
+8 Clause - B-Secure Web 
+Gateway - 2 Page-241
+The Secure Web Gateway must provide an option to redirect specific Government/Other 
+Internet Websites via NTPC Engress IPs or provide Dedicated Egress IPv4 addresses in atleast 
+02 of the Data Centres. Any software / hardware / license required must be included in pairs 
+for DC and DR.
+The Secure Web Gateway must provide an option to redirect specific Government/Other Internet Websites via 
+dedicated Egress IPs provided by SSE OEM exclusively for NTPC in atleast 02 of the SSE Cloud Data Centres (total 
+04 IPv4). 
+Aditionally the solution should be able to redirect internet Traffic ( for 1000 Nodes) via NTPC Public IPs from 
+DC/DR.
+Any software / hardware / license required must be included.
+9
+Clause - H- Zero Trust 
+Network Access (For 
+Internal Private Apps) - 11 
+Page-243
+The solution must have the capability to authenticate users and enrol/log using their personal 
+email addresses for 3rd party users or non-domain joined machines. SSE admin user must be 
+able to send invite links to the end user’s personal email to on-board the users with end user 
+agent for authorized application accesses.
+The solution must have the capability to authenticate users and enrol/log using their non-NTPC email addresses 
+for 3rd party users or non-domain joined machines. The solution must be able to send invite links to the end 
+user’s personal email to on-board the users with end user agent for authorized application accesses.
+10
+H.Zero Trust Network 
+Access (For Internal Private 
+Apps)
+Page No 242, Point No 12
+The ZTNA solution must also allow the NTPC to provide third-parties (vendors, contractors, 
+suppliers), IT administrators, and remote employees controlled access to its  servers and 
+applications via a clientless remote desktop gateway that enables end-users to securely 
+connect to servers, or desktops using Remote Desktop Protocol (RDP), Secure Shell (SSH), or 
+Virtual Network Computing (VNC) from the end user’s modern browser ( Remote Browser 
+Isolation or Enterprise Browser)  without installing ZTNA endpoint agent or any browser 
+plugins.
+The ZTNA solution must also allow the NTPC to provide third-parties (vendors, contractors, suppliers), IT 
+administrators, and remote employees controlled access to its servers and applications via a clientless remote 
+desktop gateway that enables end-users to securely connect to servers, or desktops using Remote Desktop 
+Protocol (RDP), Secure Shell (SSH), or Virtual Network Computing (VNC) from the 1000 end user without 
+installing ZTNA endpoint agent. The same may be achieved using modern browser (RBI or EB) or any browser 
+plugins or using any other secure method.
+11
+Section: L- IdP (Identity 
+Provider) For 3rd Party , 
+Associates & Guest Users 
+Point #3 page #244
+The solution must have SaaS based (Cloud-Native) Identity Provider (IdP) platform designed 
+to seamlessly connect with any Service Provider (SP)-based application.
+The solution must have SaaS based (Cloud-Native) Identity Provider (IdP) platform designed to seamlessly 
+connect with any Service Provider (SP)-based application. The Offered IdP solution should be able to integrate 
+with atleast 50 Applications and atleast 04 other IdP Service Providers
+12
+Section: L- IdP (Identity 
+Provider) For 3rd Party , 
+Associates & Guest Users 
+Point #7 page #244
+The IdP solution mut have native self-service MFA (Multi-Factor Authentication) setup / reset 
+and MFA must have options including soft tokens, mobile-based tokens, SMS-based tokens, 
+Push Notifications etc
+The IdP solution mut have native self-service MFA (Multi-Factor Authentication) setup / reset and MFA must 
+have options including soft tokens, mobile-based tokens, SMS-based tokens, TOTP, Push Notifications etc
+13
+Section: L- IdP (Identity 
+Provider) For 3rd Party , 
+Associates & Guest Users 
+Point #10 page #244
+The solution must provide offline authentication options, allowing users to verify access 
+without an active internet connection.
+The solution must provide offline authentication options, allowing users to verify access without an active 
+internet or Mobile connection.
+14
+Section: G- Advanced DNS 
+Security  Point #5 page 
+#242
+The proposed DNS security solution should allow to a separate recursive DNS system for 
+identifying internal / Local applications for LAN connected nodes, so as traffic destined to 
+Applications / Servers in local LAN / WAN should not be routed thru the cloud SWG / Internet. 
+The proposed solution should include secure Public recursive DNS services for the SSE clients, agents and un-
+auntheticated users. The system must be able to identify internal / Local applications for LAN connected nodes, 
+so as traffic destined to Applications / Servers in local LAN / WAN should not be routed thru the cloud SWG / 
+Internet. 
+15
+Section: E-Web DLP (Data 
+Loss Prevention)  Point #6 
+page #242
+The solution must have the capability to use new-age technologies like Artifical Intelligence 
+and Machine Learning to understand sensitive documents and protect against data leakages 
+over web channel from day 1. The solution should should have capability to use the AI and ML 
+Engines to detect and prevent data leakages happening over Web Channel via Screenshots, 
+Images etc.
+The solution must have the capability to use new-age technologies like Artifical Intelligence and Machine 
+Learning to understand sensitive documents and protect against data leakages over web channel from day 1. 
+The solution should should have capability to use the AI and ML Engines to detect and prevent data leakages 
+happening over Web Channel via Screenshots, Images etc.
+The solution should be able to do real-time monitoring of prompts, file uploads, and copy/paste actions, using 
+AI/ML to detect sensitive data (PII, code, IP) and enforcing policies to block, redact, or alert before data leaves 
+the organization, covering endpoints, networks, and cloud thru SSE solution.
+GEM/2025/B/6835803                Corrigendum No - 1 ( Amendment)
+Sl. No Document Ref. Existing Clause Read As / Clarification
+GEM/2025/B/6835803                Corrigendum No - 1 ( Amendment)
+16 Scope of Work, 14.0 
+Payment Terms - 14.1 9(a)
+License Subscription Charges
+(Refer to Sl. No (A): Security Service Edge (SSE) and ZTNA SaaS Licenses in the BoQ for the SSE 
+Package)
+a) First Year License Subscription Charges
+100% of the license subscription charges for the first year shall be released upon successful 
+completion of the following milestones:
+* Acceptance and successful handover of the SSE solution to NTPC.
+* Handover of the requisite number of subscribed licenses for the first year (as specified in 
+the BoQ) to NTPC. These details must be verifiable on the Licenses page of the SSE dashboard 
+/ confirmation from the OEM
+* Completion of a successful inspection of the implemented solution.
+License Subscription Charges
+(Refer to Sl. No (A): Security Service Edge (SSE) and ZTNA SaaS Licenses in the BoQ for the SSE Package)
+a) First Year License Subscription Charges
+100% of the license subscription charges for the first year shall be released upon successful installation and 
+commisioning of the solution:
+*Successfull installation and Comissioning of the SSE solution shall be as per Clause 8.3 (page 231).
+* Provisioining for requisite number of subscribed licenses for the first year (as specified in the BoQ) to NTPC. 
+These details must be verifiable on the Licenses page of the SSE dashboard / confirmation from the OEM
+17
+Scope of Work, 8.3 - 
+Acceptance and handing 
+over:  Page 231
+Acceptance / Handover Criteria –
+Date of Start of Licenses (Day 01) – Following should be completed as a prerequisite to be 
+declared as Day 01 of Start of Licenses / Subscription)
+. All services (SWG, IPSec, ZTNA, DEM, RBI etc.) are ready to be used by NTPC and agents / 
+SWG services on at least 10000 NTPC users / Guests have been onboard onto the SSE 
+platform by the bidder . At least 10 IPSec / Tunnel Connections have been enabled / 
+configured by the Bidder from at least 05 NTPC Locations / DC DR / Sites. (Router / Firewall 
+Hardware shall be provided by NTPC at NTPC Premises. Configuration assistance shall be 
+provided by the Bidder)
+. Although Bidder may provide initial installation / configuration / users onboard assistance 
+from DC Noida / DR Hyderabad, however, If the bidder’s installation team is required to visit 
+to complete or achieve the installation schedule, the bidder may have to arrange travel, 
+boarding and lodging arrangements for their project personnels at sites. NTPC may provide 
+guesthouse accommodation at few locations subject to availability.
+. An Undertaking by the OEM that requisite number of irrevocable Licenses has been enabled 
+on the OEM platform for the required period.
+Solution Installation & Commisioning Criteria –
+Date of Start of Licenses (Day 01) – Following should be completed as a prerequisite to be declared as Day 01 of 
+Start of Licenses / Subscription)
+. All services (SWG, IPSec, ZTNA, DEM, RBI etc.) are ready to be used by NTPC and agents / SWG services on at 
+least 10000 NTPC users / Guests have been onboard onto the SSE platform by the bidder . At least 10 IPSec / 
+Tunnel Connections have been enabled / configured by the Bidder from at least 05 NTPC Locations / DC DR / 
+Sites. (Router / Firewall Hardware shall be provided by NTPC at NTPC Premises. Configuration assistance shall be 
+provided by the Bidder)
+. Although Bidder may provide initial installation / configuration / users onboard assistance from DC Noida / DR 
+Hyderabad, however, If the bidder’s installation team is required to visit to complete or achieve the installation 
+schedule, the bidder may have to arrange travel, boarding and lodging arrangements for their project 
+personnels at sites. NTPC may provide guesthouse accommodation on chargeable basis at few locations subject 
+to availability.
+. An Undertaking by the OEM that requisite number of irrevocable Licenses has been enabled on the OEM 
+platform for the required period.
+18
+Clause 14.9 - Minimum / 
+Maximum Price Component 
+(b)
+Page 238
+(b) Installation and Training component must not exceed 2.5% of the total bid price. If 
+exceeds, then they will deduct and pay and release the rest of the amount at the end of the 5 
+year contract period.
+(b) - DELETED
+19
+Section: OTHER TERMS 
+AND CONDITIONS page 
+#244
+Annual True-Up for 
+Additional Licenses
+Annual True-Up for Additional Licenses
+NTPC may conduct an annual true-up for additional licenses of the required solution(s) as per 
+the RFP, in multiples of 200 units, if the consumption of licenses exceeds 10% of the 
+subscribed quantity in the previous license year. The minimum threshold for triggering a true-
+up is 10%, unless the OEM's default allowance is higher, in which case that higher threshold 
+will apply. The true-up will only apply if the excess license usage continues for more than 60 
+consecutive days.
+Payment for additional licenses will be calculated on a prospective basis after the annual true-
+up, in multiples of 200 units. For example, if the subscribed license count in the previous year 
+was 20,000 and the actual usage is up to 22,000, no additional licenses will be required. 
+However, if the usage reaches 22,100, the total number of licenses will be trued-up to 22,200. 
+All payments, including those for additional licenses in the first and subsequent years, shall be 
+made in accordance with the agreed Payment Terms.
+In the event of license/subscription usage exceeding the subscribed count, the OEM or its 
+representative shall notify the NTPC Engineering-in-Charge at least 30 days in advance, to 
+enable timely corrective measures and manage any temporary license spikes.
+Annual True-Up for Additional Licenses
+NTPC may conduct an annual true-up for additional licenses of the required solution(s) as per the RFP, in 
+multiples of 200 units, if the consumption of licenses exceeds 10% of the subscribed quantity in the previous 
+license year. The minimum threshold for triggering a true-up is 10%, unless the OEM's default allowance is 
+higher, in which case that higher threshold will apply. The true-up will only apply if the excess license usage 
+continues for more than 30 consecutive days.
+Payment for additional licenses will be calculated on a prospective basis after the annual true-up, in multiples of 
+200 units. For example, if the subscribed license count in the previous year was 20,000 and the actual usage is 
+up to 22,000, no additional licenses will be required. However, if the usage reaches 22,100, the total number of 
+licenses will be trued-up to 22,200. 
+All payments, including those for additional licenses in the first and subsequent years, shall be made in 
+accordance with the agreed Payment Terms.
+In the event of license/subscription usage exceeding the subscribed count, the OEM or its representative shall 
+notify the NTPC Engineering-in-Charge at least 30 days in advance, to enable timely corrective measures and 
+manage any temporary license spikes.
+Also if any bidder / OEM is offering any bundle licenses with SSE licences for DEM or RBI or ZTNA or any other 
+component, then true up for such components shall be applicable over and above the bundled offered licenses.
+20 Section: Scope of Work: 2.0 
+page #224
+If required, NTPC may ask for Proof of Concept (POC) to demonstrate the technical 
+compliance for the specifications mentioned prior to evaluation of bids / opening of price bid. 
+When asked, the bidder shall demonstrate the capability through POC within 7 days of 
+receiving the request from NTPC, failing which, the solution proposed by the bidder shall be 
+deemed as technically non-compliant
+NTPC shall have the right to inspect, test, and verify the goods, either by itself or through a third party, at any 
+stage of the procurement process, including during technical evaluation of bids, as well as after supply, 
+installation, commissioning, and during the operational period, to confirm conformity with the specifications 
+and functional requirements stipulated in the bid documents.
+In case the goods are found non-compliant with the prescribed technical specifications or functional 
+requirements during bid evaluation, the bid shall be treated as non-responsive and rejected. If any non-
+conformity is detected after award of contract, including during operation, the bidder/contractor shall, at its 
+own cost and risk, promptly replace or rectify the non-compliant goods to the satisfaction of NTPC within the 
+stipulated time frame.
+Failure to comply with the above shall attract action as per the applicable General Conditions of Contract (GCC), 
+including imposition of penalties/liquidated damages as per SLA, and any other remedies available to NTPC 
+under the contract, including but not limited to risk purchase, encashment of Performance Security, and 
+termination of contract
+Sl No Document Section 
+Reference Existing Clause Query / Clarification sought NTPC Reply (Clarification)
+1 General Platform Features
+Page No 241, Point No 2
+The SSE solution shall have the following component wise licensing requirements: 
+ 1)SWG, CASB, Threat ProtecƟon, DLP , Cloud Firewall, DNS Security for Min.18,000 users + 
+2000 Guest Users from Day 1.
+ 2)ZTNA / Secure Remote Access for Private applicaƟon access in DC, DR & Cloud : Min. 8000 
+users with at least 
+100 App Segments. The ZTNA / Secure Remote Access  solution must include a minimum of 05 
+pairs ( 05 + 05 in HA) of  Connectors  from Day 1. 1000 ZTNA users (i.e  contractors, vendors 
+etc, non-employee users) shall be in addition to the above SSE users.
+3) Each licensed user must be allowed to connect a minimum of four (04) distinct devices 
+(e.g., laptop, mobile phone, tablet, Desktop Computer) under a single user license without 
+requiring additional licenses. The solution must provide a process for de-registering or 
+replacing devices.
+We understand that as we are provisioning 8000 users for ZTNA/Remote Access for 
+Private Application, The additional 1000 ZTNA users  for contractors, vendors etc, non-
+employee users will be not required in this case as same can be catered from 8000 users 
+ask. Also for the solution to process the licensing the de-registering or disable is same 
+thing. Please confirm.
+1000 ZTNA users (i.e contractors, vendors etc, non-employee users) shall be in addition 
+to the above SSE users: Will these 1000 ZTNA users be over and above 8000 ZTNA users? 
+And these users will access the private apps over which protocol: HTTP/HTTPS or 
+RDP/SSH/VNC?
+Total ZTNA Licenses requirement is 
+for 8000 SSE users. 
+Also in addition 1000 ZTNA users (i.e  
+contractors, vendors etc, non-
+employee users) who will not be SSE 
+/ SWG users and will be using a 
+seperate identity for authetication. 
+ 
+Deregistering or disabling or 
+replacing devices will be considered 
+at par.
+2 B.Secure Web Gateway 
+Page No 241, Point No 2
+The Secure Web Gateway must provide an option to redirect specific Government/Other 
+Internet Websites via dedicated Egress IPs provided by SSE OEM exclusively for NTPC in 
+atleast 02 of the SSE Cloud Data Centres (total 04 IPv4). 
+Aditionally the solution should be able to redirect internet Traffic ( for 1000 Nodes) via NTPC 
+Public IPs from DC/DR.
+Any software / hardware / license required must be included.
+As per NTPC requirement for the user traffic working from remote the NTPC require a 
+Dedicated IP for the specific URLS and hence its critical to have the Dedicated IP across 
+the all DC in India ,so that their traffic has to jump over to one of the two data centers 
+where dedicated egress IP are provisoned before it can reach the internet.
+Please change this as requested 
+"The Secure Web Gateway must provide an option to redirect specific 
+Government/Other Internet Websites via dedicated Egress IPs provided by SSE OEM 
+exclusively for NTPC in all of the SSE Cloud Data Centres in India.
+Aditionally the solution should be able to redirect internet Traffic ( for 1000 Nodes) via 
+NTPC Public IPs from DC/DR.
+Any software / hardware / license required must be included."
+REFER Corrigendum - 2 (Amendment) 
+SL. No 1
+3
+E. Web DLP (Data Loss 
+Prevention)
+Page No 242, Point No 6
+The solution must have the capability to use new-age technologies like Artifical Intelligence 
+and Machine Learning to understand sensitive documents and protect against data leakages 
+over web channel from day 1. The solution should should have capability to use the AI and ML 
+Engines to detect and prevent data leakages happening over Web Channel via Screenshots, 
+Images etc.
+The solution should be able to do real-time monitoring of prompts, file uploads, and 
+copy/paste actions, using AI/ML to detect sensitive data (PII, code, IP) and enforcing policies 
+to block, redact, or alert before data leaves the organization, covering endpoints, networks, 
+and cloud thru SSE solution.
+Real-time monitoring of prompts, copy/paste action and redact are functionality of AI 
+Security solution which is altogether a different solution form SSE and also language 
+need to be rephrased to cover the Data Risk use case of AI apps. 
+Hence we request to modify this specification.
+Please change this as requested
+"The solution must have the capability to use new-age technologies like Artifical 
+Intelligence and Machine Learning to understand sensitive documents and protect 
+against data leakages over web channel from day 1. The solution should should have 
+capability to use the AI and ML Engines to detect and prevent data leakages happening 
+over Web Channel via Screenshots, Images etc.
+The solution should be able to do real-time monitoring of prompts for sensitive 
+information uploaded via file or text uploads, using AI/ML to detect sensitive data 
+enforcing policies to monitor ,block or alert before data leaves the organization, covering 
+endpoints, networks, and cloud thru SSE solution from all browsers "
+REFER Corrigendum - 2 (Amendment) 
+SL. No 2
+4
+H.Zero Trust
+Network Access
+(For Internal Private
+Apps)
+Page No 242, Point
+No 9
+The ZTNA Solution must provide access to any TCP & UDP based Internal Applications 
+including Browser based and Thick Client Applications using the single SSE Agent installed on 
+User Machines.The ZTNA solution must have both server-to-client and client-to-server 
+applications. SMB File share,
+AD GPO update, Pushing patch form server to user machine must be supported. If any 
+additional Licenses / functionality is required to be provided, the same should be included for 
+all ZTNA users in the offer."
+We understand that there are 2 locations (DC and DR) where applications are hosted and 
+compute needed to be provisioned. Later, if NTPC has more private applications added in 
+IaaS, there should not additional licence for ZTNA Private Access as 5 pair of connector is 
+the ask.Please confirm. NO CHANGE. 
+5 Additional Point
+The Solution must have option to apply granular control on  Generative AI apps & Gen AI 
+category based on the Granular Activities performed along with dlp control within the 
+Generative Applications and Gen AI category like:
+1. ChatGPT: Upload, Download, post etc.
+2. Gemini: Upload, Download, post etc.
+As NTPC manages critical national power infrastructure, unmonitored Generative AI use 
+risks exposing sensitive power generation and infrastructure data to public models. This 
+could lead to a critical operational security compromise or the theft of high-value 
+Intellectual Property, directly impacting national power supply. Therefore, strict control 
+and clear visibility over how these AI tools are used are mandatory to protect the 
+nation's power supply.
+REFER Corrigendum - 2 (Amendment) 
+SL. No 2
+6
+The proposed solution must support user-to-devices restriction to monitor the number of 
+devices single user can login simultaneously at one time. Solution should be capable of 
+unregistering the user if the device limit is exceeded.
+Automated unregistration ensures that only limited number of devices are used to 
+access private applications. This minimizes the digital footprints of users and attack 
+surface. For large organization with 1800 users, keeping a manual watch on number of 
+devices registered per user is imposssible, hence soltuion should unregister the user 
+automatically. 
+NO CHANGE. 
+7
+Section:J Logging and 
+Dashboard. Point number 
+1 Page #244
+The proposed solution must have capability for End-User trasactions log retention for atleast 
+180 Days for all SSE, DNS, ZTNA, DLP and other solution. All the transaction logs must be 
+stored in India.
+The solution must be integrated with on-prem and cloud based SIEM solution (NTPC SIEM) for 
+longer log retention and forensic analysis. There should be provision for download of raw end-
+user transaction logs for providing the same to statutary agencies.
+Data soveregnty as NTPC is a critical public sector unit managing critical information 
+infrastructure. All the logs should be stored in geographical boundaries of India.
+REFER Corrigendum - 2 (Amendment) 
+SL. No 3
+8
+Section: A- General 
+Platform Features
+Point #9, Page # 241
+The solution must be a part of Microsoft Active Protections Program (MAPP).
+MAPP is a 3rd party certification which has no relevance with SSE platform. Requesting 
+you to remove this clause or If this point is to protect NTPC from small vendors, please 
+add pre-qualification criteria that SSE vendors must have a minimum of 500+ customers 
+globally. Skyhigh is amongst the top performers and offers strong protection against 
+Windows threat which has been certified by AV Test, where we are detecting 99.7% 
+Windows Threats against an industry average of 86.8%. AV Test results can be shared for 
+your reference.
+This Query is not addressed in the corrigendum. Kindly remove the clause or Change as 
+following: MAPP is a 3rd party certification which has no relevance with SSE platform. 
+Requesting you to remove this clause or If this point is to protect NTPC from small 
+vendors, please add pre qualification criteria that SSE vendors must have a minimum of 
+500+ customers globally. Skyhigh is amongst the top performers and offers strong 
+protection against Windows threat which has been certified by AV Test, where we are 
+detecting 99.7% Windows Threats against an industry average of 86.8%. AV Test results 
+can be shared for your reference.
+NO CHANGE. 
+9
+Section: D- Threat 
+Protection
+Point #1(b), Page # 242
+b. Web IPS (for Advanced Threat Protection against C&C Servers, DGA botnet attacks, 
+malicious active content, P2P anonymizers)
+Please change the wording as "The proposed sandbox solution must be natively in-line 
+and inspect before delivery to the user." as Skyhigh Security protects against botnets and 
+C&C servers using heuristic, anti-malware rules, and signature updates without needing 
+an IPS
+Web IPS is part of separate solution and not part of SSE, Requesting you to remove sub 
+clause "b. Web IPS (for Advanced Threat Protection against C&C Servers, DGA botnet 
+attacks, malicious active content, P2P anonymizers)"
+REFER Corrigendum - 2 (Amendment) 
+SL. No 4
+GeM Bid: GEM/2025/B/6835803// Bid Corrigendum -2 (Clarification)
+10
+Section: l- DIGITAL 
+EXPEREINCE 
+MANAGEMENT
+Point #1, Page # 243
+The Solution must have DEM (Digital Experience Management) License for at least 05 SaaS 
+Apps/Probes to find out issues related with Applications, Hop-by-Hop Latency and Network 
+path tracing including hop by hop analysis of all internal and external hops on every probe 
+with ISP/AS Number & Geo details for each hop, User Device Stats (CPU, Memory, Network, 
+Storage) and effectively reduce mean time to identify root cause of experience/performance 
+issues and help in resolution. The Licenses for atleast 1000 Users should be provided. There 
+should be a provision for providing and revoking the DEM Licenses to any users in the same or 
+a separate tenant / group.
+DEM is not part of SSE, however as it is a BOQ item, Please rephrase as or accepted as 
+'Solution should support Service-side telemetry such as application transaction visibility, 
+processing times, responsiveness metrics, and bandwidth-related insights as well as 
+Client-side telemetry such as user device CPU, memory, storage, network utilization, Wi-
+Fi signal quality, and ISP/network latency'.
+This clause is favouring a particular OEM as DEM is not part of SSE, however as it is a 
+BOQ item, Please rephrase as or accepted as 'Solution should support service-side 
+telemetry such as application transaction visibility, processing times, responsiveness 
+metrics, and bandwidth-related insights as well as Client-side telemetry such as user 
+device CPU, memory, storage, network utilization, Wi-Fi signal quality, and ISP/network 
+latency'.
+REFER Earlier Corrigendum - 1 
+(Amendment) SL. No 5
+11
+Scope of Work:
+FMS services & Support 
+Workforce Requirement 
+and Deployment Plan
+Clause No. 2.1 Page 225
+Level NSA (Network and Security Administrator) –
+· Engineering Graduate in Computer Science / IT / ECE or MCA / M. Sc. (IT) / M. Sc. (Computer 
+Science) from recognized University /Institute, with minimum 10 years of post-minimum 
+Qualification experience out of which at least 05 Years of Experience of managing security 
+infrastructure that includes products like next Generation Firewall, SSE, VPN, SWG, etc.,
+Level NSA (Network and Security Administrator) –
+· Engineering Graduate in Computer Science / IT / ECE or MCA / M. Sc. (IT) / M. Sc. 
+(Computer Science) from recognized University /Institute, with minimum 5 to 8 years of 
+post-minimum Qualification experience out of which at least 05 Years of Experience of 
+managing security infrastructure that includes products like next Generation Firewall, 
+SSE, VPN, SWG, etc.,
+Justification:- As the product is also backline with OEM for complete 5 years and hence 
+asking 10 Year exp. resource is very costly and it will load the cost overall and price 
+would be very high.
+NO CHANGE. 
+12 New Requirement
+The proposed SSE OEM must not have been blacklisted by any State, Central, or Public 
+Sector Unit of the Government within the last one year." An undertaking in this regard 
+should be provided by the OEM
+GeM Conditions will prevail
+Sl. 
+No Document Ref. Existing Clause
+1 Clause - B-Secure Web 
+Gateway - 2 Page-241
+The Secure Web Gateway must provide an option to redirect specific 
+Government/Other Internet Websites via dedicated Egress IPs provided by SSE OEM 
+exclusively for NTPC in atleast 02 of the SSE Cloud Data Centres (total 04 IPv4). 
+Aditionally the solution should be able to redirect internet Traffic ( for 1000 Nodes) 
+via NTPC Public IPs from DC/DR.
+Any software / hardware / license required must be included.
+2
+Section: E-Web DLP 
+(Data Loss Prevention)  
+Point #6 page #242
+The solution must have the capability to use new-age technologies like Artifical 
+Intelligence and Machine Learning to understand sensitive documents and protect 
+against data leakages over web channel from day 1. The solution should should have 
+capability to use the AI and ML Engines to detect and prevent data leakages 
+happening over Web Channel via Screenshots, Images etc.
+The solution should be able to do real-time monitoring of prompts, file uploads, and 
+copy/paste actions, using AI/ML to detect sensitive data (PII, code, IP) and enforcing 
+policies to block, redact, or alert before data leaves the organization, covering 
+endpoints, networks, and cloud thru SSE solution.
+3
+Section:J Logging and 
+Dashboard. Point number 
+1 Page #244
+The proposed solution must have capability for End-User trasactions log retention for 
+atleast 180 Days for all SSE, DNS, ZTNA, DLP and other solution.
+The solution must be integrated with on-prem and cloud based SIEM solution (NTPC 
+SIEM) for longer log retention and forensic analysis. There should be provision for 
+download of raw end-user transaction logs for providing the same to statutary 
+agencies.
+4
+Section: D- Threat 
+Protection
+Point #1(b), Page # 242
+b. Web IPS (for Advanced Threat Protection against C&C Servers, DGA botnet attacks, 
+malicious active content, P2P anonymizers)
+5
+Section: L- IdP (Identity 
+Provider) For 3rd Party , 
+Associates & Guest 
+Users Point #2 page 
+#244
+The proposed IdP solution must have ISO 27001, ISO 27017, ISO 27018 & SOC 2 
+compliances.
+6
+Section: L- IdP (Identity 
+Provider) For 3rd Party , 
+Associates & Guest 
+Users Point #8 page 
+#244
+The IdP/MFA solution must be able to enforce access from only trusted endpoints on 
+the basis of MDM presence/device id etc.
+The proposed solution must have capability for End-User trasactions log retention for atleast 180 Days for all SSE, 
+DNS, ZTNA, DLP and other solution. Transaction Logs must be stored in OEM owned / Co-locted data centres in 
+India.
+The solution must be integrated with on-prem and cloud based SIEM solution (NTPC SIEM) for longer log retention 
+and forensic analysis. There should be provision for download of raw end-user transaction logs for providing the 
+same to statutary agencies.
+b. The solution must have threat protection against against C&C Servers, DGA botnet attacks, malicious active 
+content, P2P anonymizers
+The proposed IdP solution must have ISO 27001/ ISO 27017/ISO 27018/ SOC 2 compliances.
+The IdP/MFA solution must be capable of enforcing access controls based on trusted endpoints through intergation 
+with device Management or endpoint security platforms. 
+GEM/2025/B/6835803                Bid Corrigendum - 2 (Amendment)
+Read As / Clarification
+The Secure Web Gateway must provide an option to redirect specific Government/Other Internet Websites via 
+dedicated Egress IPs provided by SSE OEM exclusively for NTPC in all of  its SSE Cloud Data Centres in India. 
+Aditionally the solution should be able to redirect internet Traffic ( for 1000 Nodes) via NTPC Public IPs from DC 
+Noida and DR Hyderabad.
+Any software, hardware & license etc required to meet the functionality must be included in the offer
+The solution must have the capability to use new-age technologies like Artifical Intelligence and Machine Learning 
+to understand sensitive documents and protect against data leakages over web channel from day 1. 
+The solution should have capability to use the AI and ML Engines to detect and prevent data leakages happening 
+over Web Channel via Screenshots, Images etc. 
+The Solution should be able to do real-time monitoring of prompts for sensitive information uploaded via file or text 
+uploads and detect sensitive data enforcing policies to monitor, block or alert before data leaves the organization, 
+covering endpoints, networks, and cloud thru SSE solution.
+Considering the increased usage of Generative AI, all existing and future capabilities as available in the Solution 
+must be able to apply control on Generative AI Applications ( i.e ChatGPT, Gemini and similar platforms.)
+Note: Further any requests thru email, shall not be entertained

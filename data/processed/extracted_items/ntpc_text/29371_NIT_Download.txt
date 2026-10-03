@@ -1,0 +1,1512 @@
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+बड
+बड
+ 
+ 
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid End Date/Time
+13-02-2026 16:00:00
+बड
+बड
+ 
+ 
+खुलने
+खुलने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid Opening
+Date/Time
+13-02-2026 16:30:00
+बड
+बड
+ 
+ 
+पेशकश
+पेशकश
+ 
+ 
+वैधता
+वैधता
+ (
+ (
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+ 
+ 
+से
+से
+)
+)
+/Bid Offer
+Validity (From End Date)
+120 (Days)
+मं ालय
+मं ालय
+/
+/
+रा!य
+रा!य
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Ministry/State Name
+Ministry Of Power
+वभाग
+वभाग
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Department Name
+Contracts And Materials
+संगठन
+संगठन
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Organisation Name
+Ntpc Tamilnadu Energy Company Ltd
+काया%लय
+काया%लय
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Office Name
+Chennai
+कुल
+कुल
+ 
+ 
+मा ा
+मा ा
+/Total Quantity
+700
+व&तु
+व&तु
+ 
+ 
+'ेणी
+'ेणी
+ 
+ 
+/Item Category
+M6813620001: IS 15683: 2018 WATER EXT 9 L: CAPACITY
+9LT , M6813586001: IS: 15683: 2018-FOAM: 9LTR ,
+M6813576003: DCP, IS: 15683: 2018, WITH CO2 CATRIDGE,
+6KG , M6813610001: IS 15683: 2018 CO2 EXTÂ # 4.5 KG:
+CAPACITY
+GeMARPTS
+ 
+ 
+म)
+म)
+ 
+ 
+खोजी
+खोजी
+ 
+ 
+गई
+गई
+ 
+ 
+,&-ं.स
+,&-ं.स
+ / Searched
+Strings used in GeMARPTS
+CO2 FIRE EXTINGUISHER 4.5 KG IS15683
+GeMARPTS
+ 
+ 
+म)
+म)
+ 
+ 
+खोजा
+खोजा
+ 
+ 
+गया
+गया
+ 
+ 
+प/रणाम
+प/रणाम
+ / Searched
+Result generated in GeMARPTS
+PVC Insulated Copper Cable Single and Multi - Core Circular
+Sheathed Cable with Flexible Conductor (V2) as per IS 694,
+Digital Electronic Spirit Level (Digi level or Digital
+inclinometer), Automatic Fire Ball for Fire - Extinguishing,
+Portable Fire Extinguishers (V3) ISI Marked to IS 15683,
+Rubberized Weight Dumbbells, Rubberized Weight Plates,
+Fire Breathing Apparatus SCBA as per IS 10245 (Part 2),
+Stacker (V2), Leather Gauntlets and Mittens (V2)
+Conforming to IS 2573, Wheeled Fire Extinguishers (V3) ISI
+Marked to Is 16018
+अिधसूचना
+अिधसूचना
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+चयिनत
+चयिनत
+ 
+ 
+5ासंिगक
+5ासंिगक
+ 
+ 
+'े,णयाँ
+'े,णयाँ
+ / Relevant
+Categories selected for notification
+Portable Fire Extinguishers (V2) ISI Marked to IS 15683
+एमएसएमई
+एमएसएमई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष8
+वष8
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+5दान
+5दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+/MSE Relaxation for Years of
+Experience and Turnover
+No
+&टाट%अप
+&टाट%अप
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष8
+वष8
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+5दान
+5दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+ /Startup Relaxation for Years of
+Experience and Turnover
+No
+ 
+बड
+ 
+सं=या
+/
+Bid
+ 
+Number
+: 
+GEM/2026/B/7127589
+>दनांक
+ /
+Dated
+: 23-01-2026
+बड
+बड
+ 
+ 
+द&तावेज़
+द&तावेज़
+ / Bid Document
+1 / 7
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+ 
+ 
+सीमा
+सीमा
+ 
+ 
+&वतः
+&वतः
+ 
+ 
+नहं
+नहं
+ 
+ 
+बढ़ाने
+बढ़ाने
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+आवJयक
+आवJयक
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+सं=या
+सं=या
+।
+।
+ / Minimum number of
+bids required to disable automatic bid
+extension
+3
+>दनL
+>दनL
+ 
+ 
+क
+क
+ 
+ 
+सं=या
+सं=या
+, 
+, 
+,जनके
+,जनके
+ 
+ 
+िलए
+िलए
+ 
+ 
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+बढ़ाई
+बढ़ाई
+ 
+ 
+जाएगी
+जाएगी
+। / 
+। / 
+Number
+ 
+ 
+of
+ 
+ 
+days
+ 
+ 
+for
+ 
+ 
+which
+ 
+ 
+Bid
+would
+ 
+ 
+be
+ 
+ 
+auto
+-
+-
+extended
+7
+ऑटो
+ऑटो
+ 
+ 
+एOसट)शन
+एOसट)शन
+ 
+ 
+अिधकतम
+अिधकतम
+ 
+ 
+>कतनी
+>कतनी
+ 
+ 
+बार
+बार
+ 
+ 
+>कया
+>कया
+ 
+ 
+जाना
+जाना
+ 
+ 
+है
+है
+। /
+। /
+Number
+ 
+ 
+of
+ 
+ 
+Auto
+ 
+ 
+Extension
+ 
+ 
+count
+2
+बड
+बड
+ 
+ 
+से
+से
+ 
+ 
+/रवस%
+/रवस%
+ 
+ 
+नीलामी
+नीलामी
+ 
+ 
+स>Pय
+स>Pय
+ 
+ 
+>कया
+>कया
+/Bid to RA enabled
+No
+बड
+बड
+ 
+ 
+का
+का
+ 
+ 
+5कार
+5कार
+/Type of Bid
+Two Packet Bid
+5ाथिमक
+5ाथिमक
+ 
+उSपाद
+उSपाद
+ 
+'ेणी
+'ेणी
+/Primary product category
+M6813620001: IS 15683: 2018 WATER EXT 9 L: CAPACITY
+9LT
+तकनीक
+तकनीक
+ 
+ 
+मूTयांकन
+मूTयांकन
+ 
+ 
+के
+के
+ 
+ 
+दौरान
+दौरान
+ 
+ 
+तकनीक
+तकनीक
+ 
+ 
+&पVीकरण
+&पVीकरण
+ 
+ 
+हेतु
+हेतु
+अनुमत
+अनुमत
+ 
+ 
+समय
+समय
+ 
+ 
+/Time allowed for Technical
+Clarifications during technical evaluation
+3 Days
+िनरWण
+िनरWण
+ 
+आवJयक
+आवJयक
+ (
+सूचीबX
+सूचीबX
+ 
+िनरWण
+िनरWण
+ 
+5ािधकरण
+5ािधकरण
+ /
+जेम
+जेम
+ 
+के
+के
+ 
+साथ
+साथ
+पूव%
+पूव%
+ 
+पंजीकृत
+पंजीकृत
+ 
+एज)िसयL
+एज)िसयL
+ 
+Zारा
+Zारा
+)/Inspection Required (By
+Empanelled Inspection Authority / Agencies
+pre-registered with GeM)
+No
+मूTयांकन
+मूTयांकन
+ 
+ 
+पXित
+पXित
+/Evaluation Method
+Total value wise evaluation
+म[य&थता
+म[य&थता
+ 
+खंड
+खंड
+/Arbitration Clause
+No
+सुलह
+सुलह
+ 
+खंड
+खंड
+/Mediation Clause
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+ईएमड
+ईएमड
+ 
+ 
+ववरण
+ववरण
+/EMD Detail
+आवJयकता
+/Required
+No
+ईपीबीजी
+ईपीबीजी
+ 
+ 
+ववरण
+ववरण
+ 
+ 
+/ePBG Detail
+आवJयकता
+/Required
+No
+बोली
+ 
+वभाजन
+ 
+लागू
+ 
+नहं
+ 
+>कया
+ 
+गया
+/ 
+Bid splitting not applied.
+एमआईआई
+एमआईआई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आर,Wत
+आर,Wत
+ / Reserved for Make In India products
+एमआईआई
+ 
+के
+ 
+िलए
+ 
+आर,Wत
+ / Reserved for Make In
+India products
+Yes
+एमएसई
+एमएसई
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+आर,Wत
+आर,Wत
+ / Reserved for MSE
+2 / 7
+एमएसई
+ 
+के
+ 
+िलए
+ 
+आर,Wत
+ / Reserved for MSE
+Yes
+1. Bid reserved for Make In India products: : Procurement under this bid is reserved for purchase from Class 1
+local supplier as defined in public procurement (Preference to Make in India), Order 2017 as amended from time
+to time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products.
+However, eligible micro and small enterprises will be allowed to participate. The minimum local content to
+qualify as a class 1 local supplier is denoted in the bid document. All bidders must upload a certificate from the
+OEM regarding the percentage of the local content and the details of locations at which the local value addition is
+made along with their bid, failing which the bid is liable to be rejected. In case the bid value is more than Rs 10
+Crore, the declaration relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered accountant for OEMs other
+than companies as per the Public Procurement (preference to Make-in -India) order 2017 dated 04.06.2020 . In
+case Buyer has selected Purchase preference to Micro and Small Enterprises clause in the bid, the same will get
+precedence over this clause. 
+2. Procurement under this bid is reserved for purchase from Micro and Small Enterprises having valid Udyam
+Registration and whose credentials are validated online through Udyam Registration portal. If the bidder wants to
+avail themselves of the reservation benefit, the bidder must be the manufacturer / OEM of the offered product on
+GeM. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises and
+hence resellers offering products manufactured by some other OEM are not eligible to participate in this bid. In
+respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary
+evidence in this regard shall be uploaded along with the bid in respect of the offered product or service, and
+Buyer will decide eligibility based on documentary evidence submitted, while evaluating the bid. Benefits of MSE
+will be allowed only if seller is validated on-line in GeM profile as well as validated and approved by Buyer after
+evaluation of documents submitted. 
+3. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and
+for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.
+This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any
+impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of
+quoted prices which would be determined by the buyer based on its own assessment of reasonableness and
+based on competitive prices received in Bid / RA process. 
+M6813620001: IS 15683: 2018 WATER EXT 9 L: CAPACITY 9LT ( 200 the number pi ) 
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Pेता
+ 
+विशV
+ 
+द&तावेज़
+ 
+/Buyer
+Specification Document
+Download
+परेषती
+परेषती
+/
+/
+/रपो>ट\ग
+/रपो>ट\ग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो>ट\ग
+/रपो>ट\ग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+>डलीवर
+>डलीवर
+ 
+के
+के
+ 
+>दन
+>दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+200
+90
+3 / 7
+M6813586001: IS: 15683: 2018-FOAM: 9LTR ( 200 the number pi ) 
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Pेता
+ 
+विशV
+ 
+द&तावेज़
+ 
+/Buyer
+Specification Document
+Download
+परेषती
+परेषती
+/
+/
+/रपो>ट\ग
+/रपो>ट\ग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो>ट\ग
+/रपो>ट\ग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+>डलीवर
+>डलीवर
+ 
+के
+के
+ 
+>दन
+>दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+200
+90
+M6813576003: DCP, IS: 15683: 2018, WITH CO2 CATRIDGE, 6KG ( 200 the number pi ) 
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Pेता
+ 
+विशV
+ 
+द&तावेज़
+ 
+/Buyer
+Specification Document
+Download
+परेषती
+परेषती
+/
+/
+/रपो>ट\ग
+/रपो>ट\ग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो>ट\ग
+/रपो>ट\ग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+>डलीवर
+>डलीवर
+ 
+के
+के
+ 
+>दन
+>दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+200
+90
+M6813610001: IS 15683: 2018 CO2 EXTÂ # 4.5 KG: CAPACITY ( 100 the number pi ) 
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+4 / 7
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Pेता
+ 
+विशV
+ 
+द&तावेज़
+ 
+/Buyer
+Specification Document
+Download
+परेषती
+परेषती
+/
+/
+/रपो>ट\ग
+/रपो>ट\ग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो>ट\ग
+/रपो>ट\ग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+>डलीवर
+>डलीवर
+ 
+के
+के
+ 
+>दन
+>दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+100
+90
+Pेता
+Pेता
+ 
+ 
+Zारा
+Zारा
+ 
+ 
+जोड़
+जोड़
+ 
+ 
+गई
+गई
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+वशेष
+वशेष
+ 
+ 
+शत_
+शत_
+/Buyer Added Bid Specific Terms and Conditions
+1
+. 
+Generic
+OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up
+to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to
+increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at
+the contracted rates. The delivery period of quantity shall commence from the last date of original
+delivery order and in cases where option clause is exercised during the extended delivery period the
+additional time shall commence from the last date of extended delivery period. The additional delivery
+time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to
+minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the
+original delivery period. The Purchaser may extend this calculated delivery duration up to the original
+delivery period while exercising the option clause. Bidders must comply with these terms.
+2
+. 
+Buyer Added Bid Specific ATC
+Buyer uploaded ATC document 
+Click here to view the file
+.
+3
+. 
+Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+ITEMS ARE RESERVED FOR MSE BIDDERS
+ 
+Bidder shall be a manufacturer of all the items specified in the bidding document.
+ 
+In support of above claim regarding manufacturing of each of the speciﬁed Item(s), bidder shall furnish ne
+cessary details of Stores/ Category of items etc. as mentioned in the ‘Udyam Registration Certiﬁcate’. Bidd
+er shall also submit valid BIS Certificate for the tendered products, along with the bid.
+In case documents submitted are not found to be in order by NTECL, at any stage of Bid Evaluation, then it
+s bid shall not be considered for evaluation and shall be rejected.
+In case, Bidder is not a manufacturer of all such items, its bid shall be rejected
+.
+5 / 7
+.
+अ&वीकरण
+अ&वीकरण
+/Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+bidding process without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+Category item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+attached categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+case may be.
+15
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+16
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the
+same must be added through bunching category based items or by bunching custom catalogs or
+bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+such representations.
+All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws,
+including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code
+on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working
+Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into
+force by the Government of India.
+For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or
+6 / 7
+notifications, the corresponding provisions of the pre-existing labour enactments (such as The
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The
+Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules)
+shall continue to remain applicable.
+The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:
+All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove;
+and
+All operative provisions of the erstwhile Labour Laws until their complete substitution.
+All obligations relating to wages, social security, safety, working conditions, industrial relations etc.
+and any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-
+compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate
+action in accordance with the contract and applicable law.
+यह
+ 
+बड
+ 
+सामा`य
+ 
+शत8
+ 
+के
+ 
+अंतग%त
+ 
+भी
+ 
+शािसत
+ 
+है
+ 
+/This Bid is also governed by the General Terms and Conditions
+जेम
+ 
+क
+ 
+सामा`य
+ 
+शत8
+ 
+के
+ 
+खंड
+ 26 
+के
+ 
+संदभ%
+ 
+म)
+ 
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+के
+ 
+बडर
+ 
+से
+ 
+खरद
+ 
+पर
+ 
+5ितबंध
+ 
+के
+ 
+संबंध
+ 
+म)
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+का
+ 
+कोई
+ 
+भी
+ 
+बडर
+ 
+इस
+ 
+िनवदा
+ 
+म)
+ 
+बड
+ 
+देने
+ 
+के
+ 
+िलए
+ 
+तभी
+ 
+पा 
+ 
+होगा
+ 
+जब
+ 
+वह
+ 
+बड
+ 
+देने
+ 
+वाला
+सWम
+ 
+5ािधकार
+ 
+के
+ 
+पास
+ 
+पंजीकृत
+ 
+हो
+।
+बड
+ 
+म)
+ 
+भाग
+ 
+लेते
+ 
+समय
+ 
+बडर
+ 
+को
+ 
+इसका
+ 
+अनुपालन
+ 
+करना
+ 
+होगा
+ 
+और
+ 
+कोई
+ 
+भी
+ 
+गलत
+ 
+घोषणा
+ 
+>कए
+ 
+जाने
+व
+ 
+इसका
+ 
+अनुपालन
+ 
+न
+ 
+करने
+ 
+पर
+ 
+अनुबंध
+ 
+को
+ 
+तSकाल
+ 
+समाd
+ 
+करने
+ 
+और
+ 
+कानून
+ 
+के
+ 
+अनुसार
+ 
+आगे
+ 
+क
+ 
+कानूनी
+ 
+कार%वाई
+ 
+का
+ 
+आधार
+ 
+होगा
+।
+/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---
+ध`यवाद
+ध`यवाद
+/Thank You---
+7 / 7

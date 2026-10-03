@@ -1,0 +1,117 @@
+-- -
+"'.;•-•---� .. ... l"I.,... - -- - --
+NTPC Limited eProcurement Portal ........... .,,.,.
+l'I I I Tender Details -
+le1 IUt:1 ::t 
+I\ Maharntm1 Companv Date : 18-Mar-2026 06:37 PM 
+� Print 
+Basic Details 
+Organisation Chain 
+Tender Reference Number 
+TenderID Withdrawal Allowed Yes 
+TenderType Form of contract Works 
+Tender Category 
+NTPC Limited! !Corporate Centre! 1ussq JCPG-1 
+NTPC/USSC-CPGl/9900321703
+2026 NTPC 106289 1 
+Open Tender 
+Works No. of Covers 3 
+General Technical Evaluation Yes [Compliance Required] ItemWise Technical Evaluation Allowed No Allowed 
+Payment Mode Online Is Multi Currency Allowed For BOQ No 
+Is Multi Currency Allowed For No Allow Two Stage Bidding No Fee 
+PaY.ment Instruments Cover Details, No. Of Covers - 3 
+Pnline IIS.No Bank Name Cover No Cover Document Type Description 
+Bankers 111 ISBI Bank Scanned EMD 1 Fee .pdf Details 
+.pdf Integrity Pact 
+2 PreQual/Technical .pdf Technical / QR 
+Details 
+.pdf Attachment-3 
+.pdf Power of Attorney 
+Declaration 
+regarding 
+.pdf insolvency, 
+bankruptcy and 
+Liquidation 
+(Attachment-3L) 
+3 Finance .xis Price Bid / BOQ 
+Tender Fee Details,_[Total Fee in if* - 0.00] EMO Fee Details 
+Tender Fee in f 0.00 EMO Amount in f 1,00,00,000 EMO Exemption Allowed No 
+Fee Payable To Nil Fee Payable At !Nil EMO Fee Type fixed EMO Percentage NA 
+Tender Fee Exemption No EMO Payable To Nil EMO Payable At Nil 
+Allowed BG Required Yes 
+Minimum Direct EMO 0.00 
+Payment inf 
+Click to view modification history 
+Work Litem(s). 
+Title Supply, Erection, Testing and Commissioning including Freight and Insurance ervice of Modified Intake Water Piping System of North 
+Karanpura (3x660 MW) 
+Work Description Supply, Erection, Testing and Commissioning including Freight and Insurance service of Modified Intake Water Piping System of North 
+Karanpura (3x660MW) 
+Pre Qualification Details As per tender documents 
+Independent External Applicable 
+Monitor/Remarks 
+Show Tender Value in Public No 
+Domain 
+Tender Value in f 0.00 Product category Miscellaneous Sub category NA 
+Works 
+Contract Type Tender Bid Validity(Days} 120 Period Of Work(Days} 450 
+Location Western Region Head QuartersII Pincode 492018 Pre Bid Meeting Place Online at TEAMS 
+Plot No. -87, Secto Portal 
+Pre Bid Meeting Address Online at TEAMS Portal Pre Bid Meeting Date 25-Mar-2026 Bid Opening Place Western Region 
+04:30 PM Head Quartersll 
+Should Allow NOA Tender No Allow Preferential Bidder No 
+I Critical Dates I 
+Publish Date 18-Mar-2026 06:55 PM Bid Opening Date 09-Apr-2026 04:30 PM 
+Document Download / Sale Start Date 18-Mar-2026 06:55 PM Document Download / Sale End Date 07-Apr-2026 04:30 PM 
+Clarification Start Date 18-Mar-2026 06:55 PM Clarification End Date 02-Apr-2026 06:20 PM 
+Bid Submission Start Date 27-Mar-2026 09:20 AM Bid Submission End Date 07-Apr-2026 04:30 PM 
+Tender Documents 
+NIT Document 
+I Description Document Size (in S.No Document Name KB) 
+1 trendernotice 1.odf INIT 176.42 
+Work Item Document Size (in Documents S.No Document Type Document Name Description KB) 
+1 �dditional Documents Pre-sianed Intearitv Pact 397.2( 
+2 irender Documents Tender Documents 21622.33 
+3 BOQ 
+PreSianedintearitvPact.odf  
+RevisedTenderDocument.rar 
+1B00 109524.xls BOQ 404.0C 
+View GTE Details - SERVICE GTE (OT- SINGLE STAGE-MLC-LAND BORDER CLAUSE). 
+S.No Particulars Expected Value Mandatory 
+tonfirm that you are a LOCAL SUPPLIER, and the LOCAL CONTENT included in the PACKAGE FOR 
+1.0 �OMPLETE SCOPE OF WORK meets the MINIMUM LOCAL CONTENT requirements of the Tender. - [ Yes Yes 
+MLC Declaration for Services l 
+2.0 Do YOU accept NTPC Safety Rules - r SAFETY RULES COMPLIANCEl Yes Yes 
+3.0 Do YOU accept the Fraud Prevention Policv of NTPC - r FRAUD PREVENTIONl Yes Yes 
+4.0 Do you accept Withholding and Banning of Business Dealing Policy of NTPC - [ BANNING POLICY Yes Yes DECLARATIONl 
+5.0 Do you certify full compliance on clause as per tender documents on Restrictions on procurement from Yes Yes a Bidder of a countrv which shares a land border with India - r LAND BORDER CLAUSE COMPLIANCEl 
+5.0 Do you certify full compliance on Oualifvina Reauirements - r OR COMPLIANCEl •es •es 
+7,0 Do YOU certify full compliance to all provisions of Bid documents - r NO DEVIATION CERTIFICATIONl •es •es 
+Auto Extension Corrigendum ProRerties for Tender 
+Iteration No. of bids required for bid opening a tender Tender gets extended to No. of days 
+1. 1 4 
+2. 1 4 
+3. 1 4 
+Bid OReners List 
+S.No Bid Opener Login Id Bid Opener Name Certificate Name 
+1. harshmamodia@ntpc.co.in Harsh Mamodia Harsh Mamodia 
+2. vkbhoiwani@ntoc.co.in Vikas Kumar Bhoiwani Vikas Kumar Bhoiwani 
+3. anandshanker@ntpc.co.in ANAND SHANKER ANAND SHANKER 
+4. cpsinah@ntoc.co.in Chandra Prakash Sinah Chandra Prakash Sinah 
+Tender ProRerties 
+Auto Tendering Process No Show Technical bid status No 
+allowed 
+Show Finance bid status Yes �tage to disclose Bid Details in Public Domain Technical Bid Opening 
+BoQ Comparative Chart model Normal BoQ Compartive chart decimal places 2 
+BoQ Comparative Chart Rank L Form Based BoQ No 
+Tvoe 
+Undertakin to Order with Order Reason for non com liance of Order 
+PPP-MIi Order 2017 
+MSES Order 2012 
+Tender Inviting Authoritv. 
+Name IDGM 
+Address I western Region Head Quarters II Plot No. -87, Sector-24, Atal RAIPUR 492018 
+Tender Creator Details 
+Created By ANAND SHANKER 
+Designation DGM 
+Created Date 18-Mar-2026 05:49 PM 

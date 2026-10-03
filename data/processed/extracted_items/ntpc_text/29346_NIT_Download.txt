@@ -1,0 +1,264 @@
+NTPC VIDYUT VYAPAR NIGAM LIMITED 
+(A wholly owned Subsidiary of NTPC Limited) 
+ 
+ 
+ 
+BIDDING DOCUMENTS 
+FOR 
+DEVELOPMENT OF 7,000 KW ROOFTOP SOLAR 
+POWER PROJECT FOR NALCO AT ANGUL & 
+DAMANJODI. 
+BIDDING DOCUMENT NO.: NVVN/C&M/RE-431/2025-26 
+ 
+OWNER/ EMPLOYER: NALCO LIMITED 
+ 
+PROJECT MANAGEMENT CONSULTANT (PMC): NVVN LIMITED 
+ 
+ 
+ 
+ 
+ 
+(This Document is meant for the exclusive purpose of bidding against this Bid Document 
+No./ Specification and shall not be transferred, reproduced or otherwise used for purposes 
+other than that for which it is specifically issued) 
+
+NTPC VIDYUT VYAPAR NIGAM LIMITED 
+(A wholly owned Subsidiary of NTPC Limited) 
+ 
+ 
+CONTRACTS & MATERIALS 
+INVITATION FOR BIDS (IFB) 
+FOR 
+DEVELOPMENT OF 7000 KW ROOFTOP SOLAR POWER PROJECT FOR 
+NALCO AT ANGUL & DAMANJODI 
+BID DOCUMENT NO: NVVN/C&M/RE-431/2025-26 DATE: As per NIT in GEPNIC portal 
+ 
+NTPC VIDYUT VYAPAR NIGAM LIMITED (NVVN) invites online Bids from eligible bidders 
+on 'Single Stage Two Envelope' bidding basis (Envelope -I: Techno-Commercial Bid & 
+Envelope- II: Price Bid) for aforesaid Package on behalf of NALCO Limited. 
+ 
+For the detailed IFB and Bidding Documents please visit at e -procurement portal 
+https://eprocurentpc.nic.in or may contact Sr. Manager (Contracts), NTPC VIDYUT VYAPAR 
+NIGAM LIMITED, Engineering Office Complex, Plot No. A -8A Sector 24, Block A,  Noida, 
+Uttar Pradesh 201301, Email: nvvncontracts@ntpc.co.in; Tel No: 0120-497239 
+Registered office: NTPC Bhawan, Scope Complex, 7, Institutional Area, Lodhi Road, New 
+Delhi-110003, Corporate Identification Number: U40108DL2002GOI117584, Website: 
+www.nvvn.co.in 
+
+ 
+BIDDING DOCUMENTS 
+FOR 
+DEVELOPMENT OF 7000 KW ROOFTOP SOLAR POWER PROJECT FOR NALCO AT 
+ANGUL & DAMANJODI 
+BID DOCUMENT NO.: NVVN/C&M/ RE-431/2025-26 
+ 
+CONTENTS 
+ 
+Section I : Invitation for Bids (IFB)  
+Section II : Instructions to Bidders  
+Section III  :  Bid Data Sheets (BDS) 
+Section IV : General Conditions of Contract (GCC) 
+Section V  : Special Conditions of  Contract (SCC) 
+Section VI  :  Technical Specifications (TS) 
+Section VII  :   Forms and Procedures (FP) 
+Section-VII (Part 1 of 2) 
+1a. Envelope-I (Techno-Commercial) 
+(Bid Form along with Attachments) 
+ 
+1b. Envelope-II (Price) 
+(Price attachments and Price Schedules) 
+ 
+ 
+Section-VII (Part 2 of 2) 
+Other Standard Forms & Procedures 
+ 
+ Acronyms 
+BDS Bid Data Sheet 
+CIF Cost, Insurance and Freight 
+CIP Carriage and Insurance paid to (place) 
+CPM Critical Path Method 
+EDI Electronic Data Interchange 
+EXW Ex factory, ex works or ex warehouse 
+FCA Free Carrier 
+FOB Free on Board 
+FOR Free on Rail / Road 
+FP Bid Forms, Procedures & attachments 
+GCC General Conditions of Contract 
+ICC International Chamber of Commerce 
+IFB Invitation for Bids 
+ITB Instructions to Bidders 
+SCC Special Conditions of Contract 
+TS Technical Specifications and Drawings 
+UNCITRAL United Nations Commission on International Trade Law 
+INCOTERMS International Rules for interpreting Trade Terms. 
+Note : The terms EXW, CIF, etc. shall be governed by the rules prescribed in the current 
+edition of INCOTERMS, published by the international chambers of commerce, 38, 
+Cours Atbert 1er. 75008, Paris, France. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION - I 
+INVITATION FOR BIDS (IFB) 
+INVITATION FOR BIDS 
+ 
+ 
+ 
+ 
+INVITATION FOR BIDS (IFB) 
+FOR 
+DEVELOPMENT OF 7000 KW ROOFTOP SOLAR POWER PROJECT FOR 
+NALCO AT ANGUL & DAMANJODI  
+(Domestic Competitive Bidding) 
+ 
+Bidding Document No.: NVVN/C&M/RE-431/2025-26 Date: As per NIT in GEPNIC portal 
+ 
+1.0 NTPC VIDYUT VYAPAR NIGAM LTD (NVVN) invites on-line bids at Government e-procurement portal of 
+NIC (GePNIC) at website- https://eprocurentpc.nic.in/ on Single Stage Two Envelope Basis (i.e. Envelope-
+I: Techno-Commercial Bid and Envelope-II: Price Bid) from eligible Bidders for aforesaid package on behalf 
+of National Aluminum Company Limited (herein after called as Owner/ employer), as per the scope of work 
+briefly mentioned hereinafter. 
+ 
+2.0 BRIEF SCOPE OF WORK 
+ 
+The work includes EPC works for development of 7 MW Rooftop solar PV project for NALCO Limited and 
+05 year of O&M subsequent to the date of Completion of Facilities . Detailed Scope of work shall be as 
+per Section VI. 
+ 
+3.0 NALCO intends to  finance subject Package through Own sources. NVVN shall act as a Project 
+Management consultant for implementation of the project. NVVN shall publish, evaluate the bids and the 
+work shall be awarded to the successful bidder by NALCO. 
+All payments shall be released to the successful bidder by NALCO Limited. NVVN shall certify all the works 
+executed by the successful bidder for onward release of payment by NALCO Limited during project 
+construction period and during the 5 years of O&M period. Bid security shall be in favour of ‘NVVN Limited’ 
+whereas the Performance security and other Bank guarantees shall be in favour of ‘NALCO Limited’. 
+ 
+4.0 Detailed specification, scope of work and terms & conditions are given in the Bidding Documents, which 
+are available at the GePNIC (e-tender) portal at https://eprocurentpc.nic.in/. The Bidding Schedule* for the 
+Tender is as under: 
+ 
+Issuance of IFB As per NIT in GEPNIC portal 
+Bidding Document Sale Date & Time As per NIT in GEPNIC portal 
+Last Date for receipt of queries from 
+bidders (if any) ** As per NIT in GEPNIC portal 
+Pre-Bid Conference date & time As per NIT in GEPNIC portal 
+Bid Submission Start As per NIT in GEPNIC portal 
+Bid Submission End Date & Time* As per NIT in GEPNIC portal 
+Bid Opening Date &
+ Time for Techno-Commercial 
+Bid* 
+As per NIT in GEPNIC portal 
+Price Bid Opening Date & Time Shall be intimated by NVVN/System Generated Email. 
+Cost of Bidding Document Not applicable 
+ 
+*Bidders are advised to visit the GePNIC (e-tender) portal of NTPC for updated bidding schedule of 
+the Tender. 
+**It is to be noted that “No Queries from Bidders, whatsoever, shall be entertained by the Employer/PMC 
+beyond the last date of receipt of Queries/ Pre-Bid Conference (if applicable) as specified at GePNIC portal 
+of NTPC”. 
+INVITATION FOR BIDS 
+ 
+ 
+Note: 
+Site survey is mandatory for all the bidders who are willing to participate in this tender. Submission of 
+undertaking for site visit on bidder’s letter head is mandatory. Without this undertaking, bids shall be 
+outright rejected. Bidders shall visit the si te as per the timelines given in NIT. Last minute request for site 
+visit will not be entertained. 
+ 
+5.0 All bids must be accompanied by Bid Security for an amount of INR 50,00,000.00 (Indian Rupees Fifty 
+Lakhs only) in the form as stipulated in the Bidding Documents. 
+ 
+ANY BID NOT ACCOMPANIED BY AN ACCEPTABLE BID SECURITY SHALL BE REJECTED BY THE 
+PMC AS BEING NON -RESPONSIVE AND SHALL NOT BE OPENED. BIDDER SHALL SUBMIT THE 
+PROOF OF E-PAYMENT IN SEPARATE SEALED ENVELOPE OR IN THE E-TENDERING PORTAL, IF 
+BID SECURITY IS SUBMITTED THROUGH ELECTRONIC FUND TRANSFER 
+ 
+BANK DETAILS FOR EFT PAYMENT 
+ 
+(i) Bank Name: ICICI Bank Limited 
+(ii) Branch: CONNAUGHT PLACE BRANCH 
+(iii) Bank Address: 9A, PHELPS BUILDING, CONNAUGHT PLACE, NEW DELHI- 110001 
+(iv) IFSC Code: ICIC0000007 
+(iv)Account No.: 000705008910 
+ 
+Bid security in the form of Bank guarantee or insurance surety bond is to be submitted in the name of 
+NTPC VIDYUT VYAPAR NIGAM LIMITED. 
+ 
+6.0 QUALIFYING REQUIREMENTS FOR BIDDERS: AS ATTACHED AS ANNEXURE 01 TO IFB 
+   
+7.0    A complete set of Bidding Documents may be downloaded by any interested Bidder from the e -Tender 
+Portal as per specified schedule. The tender is invited under e -tendering process. The bidders can enroll 
+themselves on the website https://eprocurentpc.nic.in/. The use of Digital Signature Certificate (DSC) Class-
+3 key is mandatory for e-tendering activities. Accordingly, bidders should have Digital Signature Certificate 
+(DSC) key of Class 3 to participate in e-tendering. Bidders, if required, can obtain DSC Class-3 key from 
+agencies authorized by Govt. of India. The e-Tender Portal also has the user manuals with detailed 
+guidelines on enrolment and participation in the bidding process. 
+No hard copy of Bidding Documents shall be issued. Bids shall be submitted ONLY at the e- 
+Tender Portal i.e. https://eprocurentpc.nic.in/ 
+ 
+8.0 ‘ Class-I local suppliers’ and ‘Class-II local suppliers’ only are eligible to participate in this tender, as 
+defined in the bidding documents/ Public Procurement (Preference to Make in India), Order 2017 and its 
+subsequent amendments/ revisions issued by DPIIT. The bidders may apprise themselves of the relevant 
+provisions of bidding documents in this regard before submission of their bids."  
+ 
+9.0.  Any ‘Bidder from a country which shares a land border with India’, as specified in the Bidding Documents, 
+will be eligible to bid in this tender only if bidder is registered with the Competent Authority as mentioned 
+in the Bidding Documents. 
+ 
+Further, any bidder (including bidder from India) having specified Transfer of Technology (ToT) 
+arrangement with an entity from a country which shares a land border with India, will be eligible to bid only 
+if the bidder is registered with the same competent authority. 
+However, the said requirement of registration will not apply to bidders from those countries (even if sharing 
+a land border with India) to which the Government of India has extended lines of credit or in which the 
+Government of India is engaged in development projects. 
+ 
+ 
+ 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+ 
+10.0 Transfer of Bidding Documents by one intending Bidder to another is not permissible. 
+11.0 Downloading/Issuance of Bidding Documents and /or submission of Bid shall not construe that bidder is 
+considered qualified. 
+ 
+12.0 NVVN reserves the right to reject any or all bids or cancel/withdraw the Invitation for Bids (IFB) without 
+assigning any reason whatsoever and in such case no bidder/intending bidder shall have any claim 
+arising out of such action. 
+ 
+13.0 Address for communication: 
+Sr. Manager (C&M) 
+NTPC VIDYUT VYAPAR NIGAM LIMITED 
+Engineering Office Complex, Plot No. A-8A Sector 24, Block A, 
+Noida, Uttar Pradesh 201301 
+Email: nvvncontracts@ntpc.co.in 
+Corporate Identification Number: U40108DL2002GOI117584, 
+website: www.eprocurentpc.nic.n 
+Phone No: 0120-4947239 
+ 
+14.0 Registered Office 
+ 
+NTPC VIDYUT VYAPAR NIGAM LIMITED, 
+NTPC Bhawan, Core-7, SCOPE Complex, 
+7, Institutional Area, Lodhi Road, 
+New Delhi – 110003 
+Corporate Identification Number: U40108DL2002GOI117584. 
+Website: www.nvvn.co.in 
+ 
+15.0 Other Instructions 
+ 
+i. Please use ‘Online Bidder Enrollment’ link provided on portal https://eprocurentpc.nic.in (GePNIC) to 
+register 
+ii. Go through Help, FAQ etc. as provided on the above portal. 
+iii. Class III digital signature (DSC) is required for submission of BID on above portal. 
+iv. Important Note: It is strongly recommended that all authorized users of Supplier organizations should 
+thoroughly peruse the information provided under the relevant links, and take appropriate action. This 
+will prevent hiccups, and minimize teething problems during the use of GePNIC.  
+ 
+ 
+GePNIC Helpdesk Telephone: 24X7 Customer Support +91-120-4001 002/+91-120-4200 462/ +91-120- 
+4001 005/+91-120-6277 787 

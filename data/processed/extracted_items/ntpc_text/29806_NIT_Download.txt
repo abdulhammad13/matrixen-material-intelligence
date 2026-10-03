@@ -1,0 +1,167 @@
+NTPC LTD 
+EOC, NOIDA 
+Sub: Qualifying Requirement for Vendor Enlistment for supply of Pressure Transmitter 
+(Electronic Transmitter for Pressure, Diff Press and DP based Flow / Level Measurements)   
+A) MEG DETAILS   
+ 1.0 MEG NO. 94 MEG-01 
+ 2.0 MEG DESCRIPTION Pressure Transmitter (Electronic Transmitter for Pressure, Diff 
+Press and dp based FLOW / Level measurements)   
+ 3.0 RESPONSIBILITY CENTRE CPC 
+B) Technical Criteria of QR: 
+1. The Applicant should be a manufacturer of Pressure Transmitter (Electronic Transmitter for Pressure, Diff 
+Pressure and DP based Flow / Level measurements)  meeting the Technical Specification requirement.  
+2. The Applicant should have successfully executed the supply of pressure transmitter during the last seven 
+(07) years, as on the date of bid opening.  
+ 
+Documents to be submitted in support of meeting Technical QR: 
+1. Latest annual report OR NSIC / SSI / MSME registration certificate / BIS license / ISO certificate / 
+Certificate of registration from the concerned excise department / any other statutory document as 
+a   proof of being manufacturer of Pressure Transmitter. 
+2. The PO (issued within last seven years from the date of application for enlistment) in support of 
+award and completion certificate/copies of invoice to establish successful execution of the supply of 
+Pressure transmitter as per QR. 
+3. Standard Published catalogue.   
+ 
+ 
+C) Documents to be submitted to find executed value of orders: 
+1. Three POs of the highest executed values of similar work during previous seven years from the date 
+of application. Copy of Invoice / Completion certificate from the concerned buyer/s in support of 
+successful execution of supply against the POs to be submitted 
+2. Audited balance sheet including Profit & Loss statement for the previous three completed financial 
+years reckoned from the date of application. In case the audited documents are not ready / available, 
+then certified copy by a registered practicing Chartered accountant may be submitted. 
+3. GSTIN certificate, PAN, Power of Attorney, Letter of Undertaking, works information etc as 
+mentioned in enlistment application pages of website www.vendor.ntpc.co.in 
+ 
+Similar works means: Supply of Pressure Transmitter (Electronic Transmitter for Pressure, Diff Press and 
+DP based FLOW / Level measurements) to power plant.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TECHNICAL SPECIFICATION FOR ELECTRONIC TRANSMITTER FOR PRESSURE, DIFF 
+PRESS AND DP BASED FLOW / LEVEL MEASUREMENTS   
+   
+         
+Sl.No.   
+   
+Features   Essential/Minimum Requirements   
+1.   
+   
+Type of Transmitter    Microprocessor based 2 wire type (loop powered), Hart protocol 
+compatible.    
+ 
+2   Output signal    4-20 mA DC (Analog) along with superimposed digital signal based 
+on HART protocol.   
+ 
+3   Accuracy   ± 0.060 % of calibrated range (minimum) for calibrated range 
+greater than 400 mmwc.   
+±0.065% of calibrated range (minimum) for calibrated range 
+greater than 250 kg/cm2.   
+± 0.10 % of calibrated range (minimum) for calibrated range less 
+than 400 mmwc.   
+ 
+4.   Turn down    
+(minimum)   
+50:1 for greater than or equal to span of 400mmwcl.    
+20:1 for span below 400mmwcl.     
+10:1 for span greater than 250 kg/cm2   
+ 
+5.   Stability   
+   
+0.25 % of calibrated range for 10 years for calibrated range greater 
+than equal to 400 mmwc on standard conditions of manufacturer.    
+0.2 % of calibrated range for 1 years for calibrated range less than 
+400 mmwc on standard conditions of manufacturer.   
+0.15% of calibrated range for 5 years for static pressure greater than 
+250 kg/cm2.   
+   
+6.a.   
+   
+Zero and span drift   
+   
++/- 0.015% per degC at max span   
++/-0.11% per degC at min. Span   
+6.b.   Power Supply    24V DC ± 10%.   
+7.   Load impedance   500 ohm (minimum)   
+8.   Housing   Weather proof as per IP-67, metallic housing with durable corrosion 
+resistant coating   
+9.   Over Pressure   150% of max. Operating pressure   
+10.   Electrical   
+Connection    
+Plug and socket type except in hazardous area   
+11.   Process connection   1/2 inch NPT (F)   
+12.   Span and Zero   Continuous, tamper proof, Remote as well as manual 
+adjustability from instrument with zero suppression and 
+elevation facility.   
+ 
+13.   Accessories   Diaphragm seal, pulsation dampeners, syphon etc. as required by 
+service and operating condition.   
+ 
+14.   Diagnostics and   
+Display   
+Self-Indicating feature and digital display    
+15.   
+   
+Accessories   
+   
+2 valve manifold for absolute & Gauge pressure transmitters,    
+3-valve manifold for Differential Pressure and 5 valve manifold for 
+Level /Flow applications.    
+The valve manifold shall be non-integral type (except Fuel Oil area). 
+-For hazardous area, enclosure as described in NEC article 500   
+-2 inch pipe mounting clamp   
+16.   Certification    SIL 2 or Better   
+17.   Adjustment/calibratio 
+n/maintenance   
+ 
+From hand held HART calibrator   
+Notes   
+1. LVDT type is not acceptable.   
+2. Where the process fluids are corrosive, viscous, solid bearing or slurry type, diaphragm seals shall be 
+provided. Parts below the diaphragm shall be removable for cleaning. The entire volume above the 
+diaphragm shall be completely filled with an inert liquid suitable for the application.    
+3. All the supplied transmitter should have valid calibration certificates from manufacturer and offered 
+model should have type test certificate as per standard IEC-60770 / BS6447.   
+4. Above mentioned (3,4,5 ) parameters/features of offered models shall be strictly as defined in standard 
+published catalogue of the manufacturer only   
+5.  All instruments envisaged for sea water applications, shall be provided with wetted parts made of Monel/ 
+Hastelloy C or any other material (if provenance experience of the proposed material for such 
+applications is established by contractor).  For Chlorine application:  Instruments shall be provided 
+with wetted parts (e.g.  diaphragm seal, etc.) made of Hastelloy C. Also, filled liquid shall be 
+Fluorolube oil/ Inert Hydrocarbon / CTFE etc., for these applications.   
+   
+For applications of FECL3 solution: Instruments shall be provided with wetted parts (e.g. diaphragm 
+seal, etc.) made of Tantalum.   
+6. For coastal areas, all instruments shall be provided with durable epoxy/ polyurethane coating for housings 
+and all exposed surfaces of the instruments.    
+7. Vendor shall furnish their Environmental stress screening test process/procedure, including but not 
+limited to Burn-In Test and Elevated Temp test processes for eliminating infant mortile electronics 
+components used in manufacturing of items under consideration as a part of vendor enlistment process.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

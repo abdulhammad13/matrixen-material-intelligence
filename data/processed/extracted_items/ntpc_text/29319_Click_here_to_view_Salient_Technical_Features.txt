@@ -1,0 +1,78 @@
+ 
+ 
+ 
+Brief Scope of Work for Solar + BESS Package for at ABVTPS 
+Project of CSPGCL 
+ 
+Design, Engineering, Supply, Packing and Forwarding, Transportation, Unloading, 
+Storage, Installation and Commissioning of grid connected 6 MW floating solar PV project 
+coupled with 6 MW /24 MWhr Battery Energy Storage System  (BESS) on turnkey basis. 
+Further the bidder has to obtain site-specific data from the owner in preparation for 
+developing installation and implementation plans. 
+Detailed provisions in regard of scope of work and technical features/specification of 
+equipment/ systems/ services, contained in the Bidding Document shall be final and 
+binding. 
+ 
+1.0 SCOPE OF WORK FOR Solar + BESS: 
+ 
+Successful Bidder shall be responsible for providing all equipment, component, and 
+services necessary to install a fully functional floating solar PV plant with BESS.  
+ 
+1.01 Design, Engineering, Supply, Packaging and Forwarding, Transportation, 
+Unloading, Storage, Construction, Erection, Testing, Commissioning of grid 
+connected 6 MW floating solar PV project coupled with 6 MW /24 MWhr Battery 
+Energy Storage System (BESS) on turnkey basis. BESS capacity to be considered 
+is the rated AC discharge capacity at Point of injection/Metering. Power evacuation 
+system and equipment including integration in existing 11 kV Station Bus is 
+considered in the scope of Bidder along with any modification with all material and 
+service in the switchgear if required. 
+1.02 Performance conditions of Solar + ESS Project, such as Annual Peak Hour Energy 
+Availability, Off-peak hour capacity utilization factor etc. will be mentioned in 
+detailed specifications. 
+1.03 Bidder has to bid for the complete project including Floating solar , BESS and power 
+evacuation works. 
+1.04 Designed life of BESS system including that of battery shall be of minimum 15 years 
+(considering daily single cycle operation) from the date of successful completion of 
+trial run.  
+1.05 Comprehensive Operation and Maintenance (O&M) works of FSPV along with 
+BESS system for 5 years from the date of successful completion of trial run shall be 
+in scope of Bidder. 
+1.06 Bidder has to provide the 10 year AMC and LTSA of the BESS for performance 
+after 5 year O&M. 
+1.07 Grid compliance study, Reactive power compensations and power quality 
+compliance for entire solar + BESS system upto grid interconnection point shall be 
+in scope of bidder. 
+1.08 Project shall comprise of Floating Solar PV, BESS containers, Battery Management 
+System (BMS), Energy Management System (EMS) and SCADA, Power 
+Conversion System (PCS), Protection system, Communication System, HT & LT 
+System, Auxiliary power system, Monitoring & Control system, Fire Fighting, remote 
+control and monitoring, HT & LT Transformers, Power evacuation Infrastructure, 
+and all other associated materials and accessories necessary for trouble free 
+operation and maintenance of the solar + BESS system. 
+1.09 BMS and EMS of the BESS should comply with the latest IS or/and IEC or/and IEEE 
+standards. Fire safety of the Battery and container should be in line with latest 
+Indian or/and international standards. 
+1.10 Floating solar PV plant should be as per Technical Specification of Contract and 
+latest guidelines of CEA, CERC and LDC. 
+1.11 Bidder has to ensure the Minimum Guaranteed generation from floating Solar PV 
+plant. 
+1.12 Site-grading, clearing of vegetation, as required. 
+1.13 Providing power supply and water supply for construction purposes. 
+1.14 Construction of control room with switchgear room, with all electrical fitting and 
+furniture, security cabin etc. 
+1.15 All associated electrical and civil works required for interfacing with grid (i.e. 
+transformer(s), switchgear, protection system, cables, etc). 
+1.16 Metering philosophy should be as per site requirement and metering system will be 
+in the scope of bidder. 
+1.17  Provide documentation for design and expected performance through design 
+calculations, software, design drawings, equipment drawings, and modifications to 
+the existing drawings.  
+1.18  Develop detailed start up and site acceptance plan. 
+1.19  Provide training for the operators, engineers, technicians and maintenance 
+personnel.  
+1.20  Supply any special equipment and tools required for the operation and maintenance 
+of the project.  
+1.21  Provide a warranty for the battery energy storage system (BESS) and its 
+constituents equipment as per technical specification. 
+1.22 All other details will be provided in the IFB.  
+ 

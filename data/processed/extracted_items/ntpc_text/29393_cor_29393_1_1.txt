@@ -1,0 +1,673 @@
+Sl No Page No /Section /Tender clause Queries /Changes Remarks  NTPC  Response
+1 Page 13/Annexure II/ AIO Technical Specification 
+/A) Processor & Chipset-Intel Q870 / AMD B 650
+Pls allow Intel B 860 Chipset also Intel B860 and Q870 both are commercial class chipset . 
+We have technically qualifed  Make In India  product with 
+intel B860 chipset only hence please allow intel B860 
+Chipset also.Further  Intel Q and B chipset have main 
+difference in terms of Out of band management which is 
+Vpro .Vpro is not asked in your tender ,Moreover only one 
+OEM has Make In India qualified product with intel Q 870  
+and which may restrict participation .  
+No change . Tender Specifications shall 
+prevail. Requirement is for Q series 
+chipset which is for enterprise class 
+segment
+2 Page 14/Annexure II/ AIO Technical Specification 
+/Secuirty -Others -BIOS should be from the OEM 
+(i.e PC manufacturer) of the AIO PC
+Please ask OEM approved /Validiated  BIOS As non of OEM manufacture of BIOS only they buy from 
+vendor , validiate & customize as per their requirement 
+.Which is only called OEM BIOS . 
+Refer Amendment -I
+3 Page 129/Special Purchase Conditions  (SPC)/Point 
+No 8 /Spllitting of Tender Qty -Non Splitable 
+Please clairfy as MII and MSE purchase preference 
+mentioned in bid 
+Please clarify if splitting is not allowed the how Make In 
+India and MSE purchase preferences should be given . 
+As per clause 8.0 of SPC, the tender is 
+"Not Splitable". Please refer SPC clause 
+12.0 & 13.0 read in conjunction with 
+Annexure – I to ITB for detailed 
+methodology of providing purchase 
+preference.
+4 Validity of RC for two years Please make it for 45 days Currently industry facing a huge supply and costing 
+challenges for memory and it is not possible to maintain 
+any price for more than 45 days . Hence we request you to 
+kindly provide price validation option after every 45 days . 
+Else it would be tough to particapte in your tender . 
+No change . Tender Specifications shall 
+prevail. However, it may be noted that 
+majority of the PC requirements are 
+anticipated in the first year of the rate 
+contract. Please refer Attachment -I for 
+indicative quantity  details .
+5 Page 15/Annexure II/ AIO Technical Specification 
+/Note 6 For Specification against : I) SL no (N), i) 
+Speaker bar/sound bar/grill should be on the front 
+side
+integrated with the display unit
+Please allow speaker bar/grill in bottom or front both 
+side of AIO Brazil 
+Our Make In india Complied AIO design  have 2*3 watt  
+speakers bars in back side of AIO screen brazil  . We 
+request you to kindly allow as it would not going to effect 
+any of your operations and not allowing both options may 
+make it restrictive for us . 
+Refer Amendment -I
+Bid  no : NTPC/EOC/ 9900317704 dated 03.2.2026                                                                                         Clarification-1
+6 ii) Page 15/Annexure II/ AIO Technical 
+Specification /Note 6  AI based noise 
+cancellation/reduction options and features should
+be available and verifiable through any of the 
+following options : a) PC system audio control 
+software
+menu options /audio conference tools OR b) OEM 
+software in the PC which uses AI for optimizing the
+audio /providing intelligent audio / for noise 
+cancellation OR c) Any other application Software 
+for this
+purpose (i.e AI based noise cancellation/reduction) 
+which should be licensed software only
+Please ask for AI based camera with microphone for 
+AI enable feature . Please do not restrict it through 
+OEM specific softwares 
+We are providing AI enabled camera with microphone , 
+which can provide AI based noise cancellation in  any 
+application  either OEM specific or third party .We request 
+you to kindly ask for AI based noise cancellation through 
+hardware camera and mic .So that you can achive this 
+feature irrespective of OEM software . Further asking for 
+OEM own software is restrictive in nature . We rqeuest 
+you to kindly remove it . 
+No change . Tender specifications shall 
+prevail. However, Refer the options 
+given at Note no 6 ,ii (c) of Annexure -II 
+of scope of work , technical 
+specifications as per which this feature 
+can be provided through any other 
+licensed application software also and 
+features should be available and 
+verifiable through the software audio 
+console options.  
+7 Clause 7.1 & 7.2 – Experience Criteria 7.1. (a) The bidder should be an Original Equipment 
+Manufacturer (OEM) of the offered All-in-one (AIO) 
+Personal Computers (PCs) OR
+(b) The bidder should be an authorized Dealer/ 
+Channel Partner/ System Integrator of the above.
+7.2 The bidder should have executed any one of the 
+following orders for supply and installation of 
+Desktops and/or All-in-one (AIO) PCs and/or Laptops 
+and/or Notebooks and/or Workstations and/or 
+Servers and/or Tablet computers in preceding 07 
+years as on date of techno-commercial bid opening:
+(a) One executed order of cumulative quantity of 
+7500 Nos. in any combination OR
+(b) Two executed orders each of cumulative quantity 
+of 4700 Nos. in any combination OR
+(c) Three executed orders each of cumulative quantity 
+of 3700 Nos. in any combination
+RRequest to amend "preceding 07 years" to "preceding 10 
+years":
+7.1. (a) The bidder should be an Original Equipment 
+Manufacturer (OEM) of the offered All-in-one (AIO) 
+Personal Computers (PCs) OR
+(b) The bidder should be an authorized Dealer/ Channel 
+Partner/ System Integrator of the above.
+7.2. The bidder should have executed any one of the 
+following orders for supply and installation of Desktops 
+and/or All-in-one (AIO) PCs and/or Laptops and/or 
+Notebooks and/or Workstations and/or Servers and/or 
+Tablet computers in preceding 10 years as on date of 
+techno-commercial bid opening:
+(a) One executed order of cumulative quantity of 7500 
+Nos. in any combination OR
+(b) Two executed orders each of cumulative quantity of 
+4700 Nos. in any combination OR
+(c) Three executed orders each of cumulative quantity of 
+3700 Nos. in any combination
+No change . Tender specifications shall 
+prevail
+8 Page 13/Annexure II/ AIO Technical Specification Processor & Chipset-Intel Q870 / AMD B 650 Intel B860 and Q870 are both commercial-class chipsets. 
+We have technically qualified a Make in India product with 
+Intel B860 chipset, hence request that the same may be 
+allowed.
+The key difference between Intel Q and B series is vPro 
+(Out-of-Band Management), which is not specified in the 
+tender. Other specifications and performance remain 
+comparable.
+Further, only one OEM currently offers a Make in 
+India–qualified product with Intel Q870 chipset, which 
+may restrict participation. Allowing Intel B860 will 
+promote wider competition without affecting technical 
+requirements.
+No change . Tender Specifications shall 
+prevail. Requirement is for Q series 
+chipset which is for enterprise class 
+segment
+9 Page 14/Annexure II/ AIO Technical Specification / Security -Others -BIOS should be from the OEM (i.e 
+PC manufacturer) of the AIO PC
+OEM develops BIOS independently. BIOS is procured from 
+specialized BIOS vendors and is validated, customized, and 
+integrated by the OEM as per their product requirements, 
+which is commonly referred to as OEM BIOS.
+Refer Amendment -I
+10 Page 129/Special Purchase Conditions  (SPC)/Point No 8 /Spllitting of Tender Qty -Non Split able Please clarify how the Make in India and MSE 
+procurement preferences should be applied if the order 
+cannot be split.
+As per clause 8.0 of SPC, the tender is 
+"Not Splitable". Please refer SPC clause 
+12.0 & 13.0 read in conjunction with 
+Annexure – I to ITB for detailed 
+methodology of providing purchase 
+preference.
+11 Page 12/Scope of Work/Point No. 21 Validity of RC for two years Due to ongoing supply and price volatility of memory 
+components, it is not feasible to hold prices for long 
+durations. We request you to kindly allow price validation 
+every 45 days. Without this provision, participation in the 
+tender may be difficult.
+No change . Tender Specifications shall 
+prevail. However, it may be noted that 
+majority of the PC requirements are 
+anticipated in the first year of the rate 
+contract. Please refer Attachment -I for 
+indicative quantity details .
+12 Clause 7.1 & 7.2 – Experience Criteria 7.1: The bidder should be an Original Equipment 
+Manufacturer (OEM) of the offered All-in-one (AIO) 
+Personal Computers (PCs) OR
+(b) The bidder should be an authorized Dealer/ 
+Channel Partner/ System Integrator of the above.
+7.2 : The bidder should have executed any one of the 
+following orders for supply and installation of 
+Desktops and/or All-in-one (AIO) PCs and/or Laptops 
+and/or Notebooks and/or Workstations and/or 
+Servers and/or Tablet computers in preceding 07 
+years as on date of techno-commercial bid opening:
+(a) One executed order of cumulative quantity of 
+7500 Nos. in any combination OR
+(b) Two executed orders each of cumulative quantity 
+of 4700 Nos. in any combination OR
+(c) Three executed orders each of cumulative quantity 
+of 3700 Nos. in any combination.
+At present, Clause 7.2 stipulates that the bidder should 
+have executed the specified orders in the preceding 07 
+years. We request that this may please be amended to 
+“preceding 10 years” as on the date of techno-commercial 
+bid opening, for wider participation and healthy 
+competition.
+The revised clause may kindly be considered as under:
+7.2. The Bidder/OEM should have executed any one of the 
+following orders for supply and installation of Desktops 
+and/or All-in-one (AIO) PCs and/or Laptops and/or 
+Notebooks and/or Workstations and/or Servers and/or 
+Tablet computers in preceding 10 years as on date of 
+techno-commercial bid opening:
+(a) One executed order of cumulative quantity of 7500 
+Nos. in any combination OR
+(b) Two executed orders each of cumulative quantity of 
+4700 Nos. in any combination OR
+(c) Three executed orders each of cumulative quantity of 
+3700 Nos. in any combination
+Extending the experience period to 10 years will enable 
+participation of more capable and experienced bidders 
+without compromising on technical or financial capability, 
+thereby ensuring competitive pricing and better value to 
+the procuring organization.
+We request you to kindly examine the above and issue a 
+No change. Tender Specifications shall 
+prevail
+13 Page 13/Annexure II/ AIO Technical Specifcation /A) 
+Processor & Chipset-Intel Q870 / AMD B 650
+Pls allow Intel B 860 Chipset also Intel B860 and Q870 both are commercial class chipset . 
+We have techncially qualifed  Make In India  product with 
+intel B860 chipset only hence please allow intel B860 
+Chipset also.Further  Intel Q and B chipset have main 
+difference in terms of Out of band management which is 
+Vpro .Vpro is not asked in your tender ,Moreover only one 
+OEM has Make In India qualified prodcut with intel Q 870  
+and which may restrict participation .  
+NO change . Tender Specifications shall 
+prevail. Requirement is for Q series 
+chipset which is for enterprise class 
+segment.
+14 Page 14/Annexure II/ AIO Technical Specifcation 
+/Secuirty -Others -BIOS should be from the OEM (i.e 
+PC manufacturer) of the AIO PC
+Please ask OEM approved /Validiated  BIOS As non of OEM manufacture of BIOS only they buy from 
+vendor , validiate & customize as per their requirement 
+.Which is only called OEM BIOS . 
+Refer Amendment -I
+15 Page 129/Special Purchase Conditions  (SPC)/Point 
+No 8 /Spllitting of Tender Qty -Non Splitable 
+Please clairfy as MII and MSE purchase preference 
+mentioned in bid 
+Please clarify if splitting is not allowed the how Make In 
+India and MSE purchase preferences should be given . 
+As per clause 8.0 of SPC, the tender is 
+"Not Splitable". Please refer SPC clause 
+12.0 & 13.0 read in conjunction with 
+Annexure – I to ITB for detailed 
+methodology of providing purchase 
+preference.
+16 Validity of RC for two years Please make it for 45 days Currently industry facing a huge supply and costing 
+challenges for memory and it is not possible to maintain 
+any price for more than 45 days . Hence we request you to 
+kindly provide price validation option after every 45 days . 
+Else it would be tough to particapte in your tender . 
+No change . Tender Specifications shall 
+prevail. However, it may be noted that 
+majority of the PC requirements are 
+anticipated in the first year of the rate 
+contract. Please refer Attachment -I for 
+details 
+17 Contract Performance Guarantee (GPC Clause 24) 
+Page No-134
+The supplier shall submit contract performance 
+guarantee for 5 % of total RC value (excluding GST).
+Validity of the CPG should be for 66 months (36 
+months warranty period + 24 months RC validity 
+period +3 months’ supply & installation period +3 
+months).
+Kindly confirm whether we have to give single Bank 
+Guarantee or against each purchase order which we will 
+receive.
+Refer Clause 18.0 of SPC. 
+The CPG BG is to be submitted against 
+RC. 
+18 Scope of Work (Page No. 6) Resident qualified manpower to be posted at the 
+owner’s site/offices/regions/projects for providing 
+the warranty services if the cumulative number of PCs 
+installed and accepted in any location at any point of 
+time is 100 (hundred) nos or more at that location 
+.Only One resident manpower to be posted for the 
+total duration of warranty at each of the 
+location/site/office of the organization from the time 
+whenever the cumulative number of PCs is 100 nos or 
+more at that respective location/site/office.
+The resident manpower should be posted from the 
+time the cumulative number of PCs
+which are installed and accepted are 100 PCs or more 
+(in case of procurement in different lots) for the 
+entire duration of the warranty period till such time 
+their warranty period gets completed successfully
+Kindly confirm total quantity of Machine in each location 
+so that we can calculate the costing of Resident Engineer
+Refer Attachment -I
+19 Scope of Work (PAYMENT TERMS) - Page No 11 i. 65% of supply value within 30 days of receipt and 
+acceptance of materials at NTPC store/office location 
+and submission of online invoice in vendors payment 
+portal.
+(Acceptance will be given after successful completion 
+of the inspection process as per clause 7.0 of the 
+scope of work document at the respective 
+sites/projects/all office locations of the owner).
+ii. Balance 30% of supply value within 30 days of 
+successful completion of installation of all PCs and 
+submission of 3-year OEM warranty certificate. 
+However, in case of non-availability of site for 
+installation, balance 30% of supply amount of those 
+items shall be released within 30 days on receipt of 
+site not ready (SNR) certificate from concerned 
+Engineer-in-charge & submission of 3 years OEM 
+warranty certificate.
+iii. Balance 5 % of supply value will be released after 
+successful completion of the warranty period of all 
+the PCs and after accounting for any deductions on 
+account of penalty if any due to non-meeting of SLAs 
+and other criteria as per Clauses 8.1,10.7,11.1 11.2 
+and 12.1 of the scope of work.
+Request you to change 80% of supply value and 20% after 
+completion of installation
+NO change. Tender Specifications shall 
+prevail
+20 Delivery & Installtion (SOW)  The PCs shall be delivered in full at site within SIX 
+(06) weeks from the
+date of the E-Mail sent to the supplier enclosing the 
+purchase order for the specific location/s.
+ Request you to increase delivery time by 12-14 weeks. Refer Amendment -I
+21  Period of Validity of Bids (Techno- Commercial Bid 
+and Price Bid)
+ 120 (Days) Request to reduce bid validity to 90 days. No change. Tender Provisions shall 
+prevail.
+22  Earnest Money Deposit (EMD) / Bid Security (ITB 
+Cl. 14.0)
+ Applicable
+Amount of Bid Security/EMD (in favour of NTPC Ltd., 
+payable at NOIDA):
+INR 2,00,00,000/- (Indian Rupees Two Crores only).
+EMD is too high, Request you to reduce it to 50 Lakh only. No change. Tender Provisions shall 
+prevail.
+23  Rate Contract Duration  Two years As the prices have gone up and increasing on a daily basis . 
+Request you to reduce the RC period to 6 months.
+No change . Tender Specifications shall 
+prevail. However, it may be noted that 
+majority of the PC requirements are 
+anticipated in the first year of the rate 
+contract. Please refer Attachment -I for 
+details
+24   PAYMENT TERMS(Supply){GPC Clause 21.0}  The payments will be released from individual sites 
+according to their respective purchase order as 
+mentioned below :
+i. 65% of supply value within 30 days of receipt and 
+acceptance of materials at NTPC store/office location 
+and submission of online invoice in vendors payment 
+portal.
+ii. Balance 30% of supply value within 30 days of 
+successful completion of installation of all PCs and 
+submission of 3-year OEM warranty certificate. 
+However, in case of non-availability of site for 
+installation, balance 30% of supply amount of those 
+items shall be released within 30 days on receipt of 
+site not ready (SNR) certificate from concerned 
+Engineer-in-charge & submission of 3 years OEM 
+warranty certificate.
+iii. Balance 5 % of supply value will be released after 
+successful completion of the warranty period of all 
+the PCs and after accounting for any deductions on 
+account of penalty if any due to non-meeting of SLAs 
+and other criteria as per Clauses 8.1,10.7,11.1 11.2 
+and 12.1 of the scope of work
+Request you to amend payment terms as:
+75% against the supply of material.
+20% against  successful completion of installation of all 
+PCs and submission of 3-year OEM warranty certificate.
+Balance 5% on submission of PBG.
+No change .Tender terms shall prevail
+25 Additional Clause  Exchange Rate VariaƟon Request you to include ERV clause:The rate of exchange 
+variation if it is within +/- 3% then no normalisation of 
+price otherwise normalise of price to be made.
+Dollar rate should be taken from RBI on the date of 
+contract.
+No change. Tender Provisions shall 
+prevail.
+26 Page 14 / Annexure II / AIO Technical Specification Security – Others – BIOS should be from the OEM 
+(i.e., PC manufacturer)
+We request clarification that BIOS sourced from 
+specialized BIOS vendors but validated, customized, 
+digitally signed, and fully supported by the OEM as part of 
+its standard product build shall be considered compliant 
+as OEM BIOS, as this aligns with prevailing global OEM 
+manufacturing practices.
+Refer Amendment -I
+27 Page 129 / Special Purchase Conditions (SPC) / 
+Point No. 8
+Splitting of Tender Quantity – Non-Splittable Kindly clarify how procurement preferences under Make 
+in India and MSE policies will be applied in the event the 
+tender quantity is not split among multiple bidders.
+As per clause 8.0 of SPC, the tender is 
+"Not Splitable". Please refer SPC clause 
+12.0 & 13.0 read in conjunction with 
+Annexure – I to ITB for detailed 
+methodology of providing purchase 
+preference.
+28 Clause 7.1 & 7.2 – Experience Criteria Experience to be demonstrated for executed orders 
+within preceding 07 years
+Considering the extended lifecycle and execution span of 
+large government IT projects, we request that the 
+Bidder/OEM experience period be revised to the 
+preceding 10 years (without any change in quantity 
+criteria). This will allow participation of experienced 
+bidders while maintaining technical capability and 
+enhancing competition.
+No change .Tender terms shall prevail
+29 Page 13 / Annexure II / AIO Technical Specification Processor & Chipset – Intel Q870 / AMD B650 Intel B860 is also a commercial-class chipset with 
+comparable performance. Since vPro (Out-of-Band 
+Management) is not mandated, we request inclusion of 
+Intel B860 chipset as an acceptable alternative. This will 
+enable participation of additional Make in India–qualified 
+products without impacting technical compliance.
+No change . Tender Specifications shall 
+prevail. Requirement is for  Q series 
+chipset which is for enterprise class 
+segment
+30 Page 12 / Scope of Work / Point No. 21 Validity of Rate Contract for two years Considering ongoing volatility in the pricing of key 
+components such as memory, maintaining fixed prices for 
+the entire RC duration may not be commercially feasible. 
+We request that the purchaser kindly allow price 
+validation at periodic intervals (e.g., every 60 days) based 
+on prevailing market conditions.
+No change .Tender terms shall prevail
+31 Processor and chipset-Intel core Ultra 5-235t or 
+AMD Ryzen Ai 5 PRO 340 or higher
+Intel core Ultra 5-235t or AMD Ryzen 5 8600GE or 
+higher
+The department has evaluated AMD laptop processors in 
+comparison with Intel desktop processors which is 
+technically incorrect and does not allow OEMs to offer 
+compliant platforms. We respectfully request that this 
+discrepancy be rectified in line with the proposed 
+approach. AMD Ryzen 5 8600 should be conisdered in 
+coparison with Intel core Ultra 235
+No change. Tender specifications shall 
+prevail                              
+32 Launch date - Q1' 25 or above Q1' 24 or above The processor launch date has no direct relevance to the 
+performance or technological capability of a product. This 
+clasue appears to have been included in a manner that 
+restricts AMDs particiaption. AMD launched CPUs with an 
+in built NPU (16 TOPS) prior to intel's offering (13 TOPs) . 
+AMD intoduced this technology in Q1 2024 , earlier than 
+intel ; therefore specifying a launch year of Q1 25 should 
+not be used as a qualfying criterion or result in any 
+penalization
+No change . Tender specs shall prevail.
+33 Chip set-Intel Q870 /AMD B 650 Intel Q870/AMD Pro600 Requesting the dept to include the correct chipset which is 
+available with the product OEM (No product available 
+with AMD B650)
+No change . Tender specs shall prevail. 
+However,Equivalent or higher chip set 
+vis-à-vis the tender techncial 
+specification is technically acceptable 
+34 RAM- Type DDR5, 5600MHZ DDR 5 , 5200MHZ Requesting the dept to change the memory frequency so 
+that OEM have coice to particiapte with INTEL or AMD
+ No change.Tender specifications  shall 
+prevail                               
+35 Delivery Schedule — Scope of Work Clause 5.0 Clause 5.0 of the Scope of Work provides 4 weeks for 
+installation after delivery. Under the current global 
+memory and storage supply disruptions, lead times for 
+key components such as RAM and HDD/SSD have 
+extended substantially, with major OEMs reporting 
+allocations booked out and longer delivery timelines 
+needed for consumer-grade memory products.
+In view of the current industry-wide production and supply 
+constraints impacting IT hardware components, we 
+respectfully request NTPC to kindly consider extending the 
+delivery timeline to a minimum period of 16 weeks, in order 
+to ensure smooth procurement from OEMs and authorised 
+suppliers and timely execution of the order.
+Refer Amendment -I
+36 Payment Terms — Warranty Retention (Clause 19.3, 
+Page 11 of SOW)
+As per Clause 19.3 of the SOW, a payment retention of 
+5% is stipulated against warranty obligations. While we 
+fully appreciate NTPC’s intent to safeguard project 
+deliverables and performance, such a retention 
+amount in a large-volume tender may have a significant 
+impact on bidders’ working capital and overall project 
+costing.
+In this regard, we respectfully request NTPC to kindly 
+consider allowing submission of a separate Bank Guarantee 
+equivalent to the retention amount, in lieu of actual cash 
+retention, over and above the Performance Security.
+Alternatively, we request NTPC to consider releasing the 
+retained amount on a yearly basis, as may be deemed 
+appropriate by NTPC, so as to reduce the financial burden 
+on bidders. Otherwise, the cost implication of retention is 
+likely to be factored into the bid pricing.
+Either of the above options would help bidders maintain 
+healthier cash flows and reduce financing costs, while 
+continuing to adequately address NTPC’s risk and warranty 
+requirements.
+No change. Tender terms  shall prevail                              
+37 Validity & Modus Operandi of Rate Contract — SOW 
+Clause 21.0
+As per Clause 21.0 of the SOW, the tender stipulates a 
+rate contract validity of two (2) years. In the current 
+market scenario, especially for IT hardware which is a 
+commodity item, OEMs are unable to commit to 
+holding prices for such an extended duration due to 
+frequent price revisions, component shortages, and 
+volatility in foreign exchange and supply chains.
+IIn this context, we respectfully request NTPC to kindly 
+consider limiting the price validity to a period of six (6) 
+months from the date of RC award
+Alternatively, NTPC may consider sharing an indicative 
+delivery projection for the first six months, including an 
+estimated maximum quantity, against which bidders would 
+be able to hold prices more realistically with OEM support.
+Either of the above options would enable bidders to manage 
+OEM commitments effectively and submit more competitive 
+and sustainable pricing, while ensuring timely execution of 
+the contract.
+No change . Tender Specifications shall 
+prevail. However, it may be noted that 
+majority of the PC requirements are 
+anticipated in the first year of the rate 
+contract. Please refer Attachment -I for 
+details
+38 1 of scope of work , clause no 5 The PCs shall be delivered in full at site within SIX (06) 
+weeks from the date date of the E-Mail sent to the 
+supplier enclosing the purchase order for the specific 
+location/s.
+We request you to increase the delivery timelines from 
+existing 6 weeks to 12-14 weeks minimum as currently 
+there are lot of supply restrictions on components like 
+RAM/SSD causing delays in production 
+Refer Amendment -I
+39 Page no 5 of additional T&C ,page no 14, We request you to change the validity of RC period 
+from 2 years to the maximum 6 months with ERV 
+Clause and excahnge rate variation clause . and also 
+help provide the delivery schedule unit wise   covering 
+80% of over all requirement and release the PO with 
+in 15 days from the actual award date for all those 
+units 
+No change . Tender Specifications shall 
+prevail. However, it may be noted that 
+majority of the PC requirements are 
+anticipated in the first year of the rate 
+contract. Please refer Attachment -I for 
+details
+40 Annexure-II - AIO Technical specifications - SOW Recommend BIOS should be from the same OEM as 
+PC manufacturer as it helps in Central BIOS 
+management including the BIOS Updates, bios 
+settings and BIOS password 
+Refer Amendment -I
+41 Annexure-II - AIO Technical specifications - SOW 
+,page no 13 , memory 16GB
+Kindly allow to quote both 1 X16 or 2X 8 GB RAM 
+because of the suplly challenges.
+Refer Amendment -I
+Sl no Site name
+AIO-PCs (nos) for Yr 2026-27  AIO -PCs (nos) For Yr 27-28 Total AIO PC Qty (nos) for 2 years 
+1 Ramagundam 100 100 200
+2 Telangana 0 40 40
+3 NVVN 61 60 121
+4 Mouda 254 295 549
+5 NSTPS (Nabhinagar) 100 160 260
+6 TTPS 150 0 150
+7 FGUTPP (Unchahar) 252 0 252
+8 WR1 HQ 31 0 31
+9 CMHQ (coal mining HQ) 50 50 100
+10 DSTPS (Darlipalli) 50 229 279
+11 NTECL ,Vallur 234 140 374
+12 Solapur 59 50 109
+13 NORTH KARANPURA 250 0 250
+14 Rihand 100 280 380
+15 Tapovan Vishnugad 124 40 164
+16 SIPAT 296 127 423
+17 Rammam 65 10 75
+18 Dadri 230 130 360
+19 ER-2HQs 30 22 52
+20 kayamkulam 40 0 40
+21 Jhajjar 0 250 250
+22 TANDA 10 0 10
+23 Lara 350 190 540
+24 Talaipalli coal mining project 102 98 200
+25 Khargone 78 120 198
+26 KUDGI 0 120 120
+27 Koldam 97 0 97
+ATTACHEMNT-1
+                                                                        RATE CONTRACT FOR AIO PCs-PROJECTED PC QUANTITIES (Indicative qty)
+         Projected Rate contract quantities (Indicative only )
+28 NGEL 130 360 490
+29 PBCMP (pakri) 50 130 180
+30 SR-HQ &CC Hyderabad 443 40 483
+31 EOC, R&D NETRA office, Noida 830 100 930
+32 Gadarwara 220 160 380
+33 Kahalgaon 211 342 553
+34 Bongaigaon 178 219 397
+35 Singrauli 60 60 120
+36 Auraiya 154 45 199
+37 CC-Scope 250 0 250
+38 Vindhyachal 690 0 690
+39 NTPC KANIHA 167 0 167
+40 Barh 550 50 600
+41 CBCMP 25 25 50
+42 JHANOR 205 105 310
+43 NRHQ 51 0 51
+44 Kawas 30 138 168
+45 Anta 30 30 60
+46 Kerandari Coal mining project 120 50 170
+47 Consultancy -noida 63 0 63
+48 Ratnagiri 15 15 30
+49 CCIT 0 4 4
+50 Kanti 280 0 280
+51 Farakka 400 0 400
+52 wr2 hq 267 120 387
+53 simhadri 400 119 519
+54 korba 350 0 350
+55 barauni 200 0 200
+Total 9482 4623 14105
+Note: Above is only an indicative /tentative list of PC reqmnt quantity subject to changes as required  and is given/shared for information purpose 
+only 
+Sr No Tender document 
+reference
+Pg. No. Clause Existing specification/Description Amended specification/description
+1 Scope of work 1 5 The PCs shall be delivered in full at site within SIX (06) weeks from the date of the E-
+Mail sent to the supplier enclosing the purchase order for the specific
+location/s.
+The PCs shall be delivered in full at site within 12 (Twelve) weeks  from the
+date of the E-Mail sent to the supplier enclosing the individual purchase order for the specific 
+location/s /site/s.
+2 Scope of work 14 Annexure II/ AIO 
+Technical Specification 
+/Secuirty -Others BIOS should be from the OEM (i.e PC manufacturer) of the AIO PC
+BIOS should be from the OEM (i.e PC manufacturer) of the AIO PC                                                                                  
+OR                                                                                                                                                                                                             
+The BIOS in the AIO PC should be duly approved  by the OEM of the AIO PC . A certification to 
+this effect should be provided from  the OEM  by the bidder with the technical bid for the 
+quoted model .
+3 Scope of work 15 Annexure II/ AIO 
+Technical Specification 
+/Note 6
+For Specification against : I) SL no (N), i) Speaker bar/sound bar/grill should be on the 
+front side integrated with the display unit and 
+ii) AI based noise cancellation/reduction options and features should
+be available and verifiable through any of the following options : a) PC system audio 
+control software menu options /audio conference tools OR b) OEM software in the PC 
+which uses AI for optimizing the audio /providing intelligent audio / for noise 
+cancellation OR c) Any other application Software for this purpose (i.e AI based noise 
+cancellation/reduction) which should be licensed software only . Availability of such 
+software in the PC should be demonstrated and Such software should be provided with 
+each AIO
+PC with no extra cost to the owner and should be licensed . II) SL No N: Camera should 
+be built in and integral part of the display unit and should be front facing and on the 
+top of the unit and at the center of the display unit . (Clamping of any external camera 
+on the display unit will not be accepted )
+For Specification against : I) SL no (N), i) Speaker bar/sound bar/grill should be on the front 
+side integrated with the display unit or a  front facing  sound bar integrated with the display 
+unit  with no cables visible outside/external to the unit and having  minimum Wattage 
+rating as per clause no   (N)  of technical specs at annexure-II of scope of work can be 
+provided. and ii) AI based noise cancellation/reduction options and features should be 
+available and verifiable through any of the following options : a) PC system audio control 
+software menu options /audio conference tools OR b) OEM software in the PC which uses AI 
+for optimizing the audio /providing intelligent audio / for noise cancellation OR c) Any other 
+application Software for this purpose (i.e AI based noise cancellation/reduction) which should 
+be licensed software only . Availability of such software in the PC should be demonstrated 
+and Such software should be provided with each AIO PC with no extra cost to the owner and 
+should be licensed . II) SL No N: Camera should be built in and integral part of the display unit 
+and should be front facing and on the top of the unit and at the center of the display unit . 
+(Clamping of any external camera on the display unit will not be accepted )
+4 Scope of work 13 Annexure-II , SL no (B) Installed memory : 16 GB Total Installed memory : 16 GB (1 x16 GB or 2 x8GB DIMM modules)
+5 Scope of work 13 Annexure-II , SL no (B) Number of DIMM slots populated - ONE Number of DIMM slots Populated - ONE or TWO 
+Bid  no : NTPC/EOC/ 9900317704 dated 03.2.2026                                                                                                                                     Amendment NO- 1   

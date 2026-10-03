@@ -1,0 +1,157 @@
+NTPC Limited eProcurement Portal
+Tender Details 
+Date : 29-Jul-2025 09:59 AM
+ Print
+Basic Details
+Organisation Chain NTPC Limited||Corporate Centre||USSC||CPG-1
+Tender Reference 
+Number NTPC/USSC-CPG1/9900307075
+Tender ID 2025_NTPC_98911_1 Withdrawal Allowed Yes
+Tender Type Open Tender Form of contract Service
+Tender Category Services No. of Covers 2
+General Technical 
+Evaluation Allowed Yes [Compliance Required] ItemWise Technical 
+Evaluation Allowed No
+Payment Mode Online Is Multi Currency Allowed 
+For BOQ No
+Is Multi Currency 
+Allowed For Fee No Allow Two Stage Bidding No
+Payment Instruments
+Online 
+Bankers S.No Bank Name
+1 SBI Bank
+Cover Details, No. Of Covers - 2
+Cover 
+No Cover Document Type Description
+1 Fee/PreQual/Technical .rar Tech Bid
+2 Finance .xls Price bid
+Tender Fee Details, [Total Fee in ₹ * - 9,293]
+Tender Fee in ₹ 9,293
+Fee Payable To Nil Fee Payable At Nil
+Tender Fee 
+Exemption 
+Allowed
+Yes
+EMD Fee Details
+EMD Amount in ₹ 20,00,000 EMD Exemption 
+Allowed
+Yes
+EMD Fee Type fixed EMD Percentage NA
+EMD Payable To Nil EMD Payable At Nil
+BG Required Yes
+Minimum Direct 
+EMD Payment in ₹
+0.00
+Click to view modification history
+Work /Item(s)
+Title Comprehensive Operation and Maintenance of 92MW Floating Solar at NTPC
+Work Description Comprehensive Operation and Maintenance of 92MW Floating Solar at NTPCKayamkulam for 3 years 
+n 5 MWp Ground based Solar PV Project at SriVijaya Puram (Port Blair) AnN Islands for 2 Years 9 
+Months.
+Pre Qualification 
+Details
+As per tender documents 
+Independent 
+External 
+Monitor/Remarks
+NA 
+Show Tender Value 
+in Public Domain
+Yes 
+Tender Value in ₹ 0.00 Product Category Serv -
+Others 
+Sub category NA 
+Contract Type Tender Bid Validity(Days) 180 Period Of Work
+(Days)
+90 
+Location Western Region Head 
+QuartersII Plot No. -87, 
+Secto
+Pincode 492018 Pre Bid Meeting 
+Place
+NA 
+Pre Bid Meeting NA Pre Bid Meeting Date NA Bid Opening Place Western 
+Page 1 of 3NTPC Limited eProcurement Portal
+29-07-2025https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=Published...
+Region Head 
+QuartersII
+Allow Preferential 
+Bidder
+No
+Critical Dates
+Publish Date 28-Jul-2025 06:30 PM Bid Opening Date 20-Aug-2025 04:00 PM
+Document Download / Sale 
+Start Date
+28-Jul-2025 06:30 PM Document Download / Sale End 
+Date
+18-Aug-2025 04:00 PM
+Clarification Start Date 28-Jul-2025 06:30 PM Clarification End Date 08-Aug-2025 04:00 PM 
+Bid Submission Start Date 28-Jul-2025 06:30 PM Bid Submission End Date 18-Aug-2025 04:00 PM
+Tender Documents
+NIT 
+Document S.No Document 
+Name Description Document 
+Size (in KB)
+1 Tendernotice_1.pdf NIT 296.11
+Work Item 
+Documents S.No Document Type Document Name Description Document 
+Size (in KB)
+1 Tender Documents TD.rar Tender document 8079.3 3
+2B O Q BOQ_102110.xls Price Bid 299.5 0
+View GTE Details - SERVICE GTE (OT-SINGLE STAGE-MLC)
+S.No Particulars Expected Value Mandatory
+1.0
+Confirm that you are a LOCAL SUPPLIER, and the LOCAL CONTENT 
+included in the PACKAGE FOR COMPLETE SCOPE OF WORK meets the 
+MINIMUM LOCAL CONTENT requirements of the Tender. 
+Yes Yes
+2.0 Do you accept NT PC Safety Rules Ye s Yes
+3.0 Do you accept the Fraud Prevention Policy of NTPC Ye s Yes
+4.0 Do you accept Withholding and Banning of Business Dealing Policy of 
+NTPC Yes Yes
+5.0 Do you certify full compliance on Qualifyin g Requirements Ye s Yes
+6.0 Do you certify full compliance to all provisions of Bid documents Ye s Yes
+Auto Extension Corrigendum Properties for Tender
+Iteration No. of bids required for bid opening a tender Tender gets extended to No. of days
+1. 1 4
+2. 1 4
+3. 1 4
+Bid Openers List
+S.No Bid Opener Login Id Bid Opener Name Certificate Name
+1. anil gupta03@ntpc.co.in Anil Gupta ANIL GUPTA
+2. bhupesh gupta@ntpc.co.in Bhupesh Gupta BHUPESH KUMAR GUPTA
+3. hariomkumar@nt pc.co.in HARIOM KUMAR HARIOM KUMAR
+4. srikark@ntpc.co.i n J.V.R.Srikar Kale JAYA VENU RAGAVA 
+SRIKAR KALE
+GeMARPTS Details
+GeMARPTS ID 3P46DQQ89Q88
+Description solar
+Report Initiated On 26-Apr-2025
+Valid Until 26-May-2025
+Page 2 of 3NTPC Limited eProcurement Portal
+29-07-2025https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=Published...
+Show Technical bid status No
+Stage to disclose Bid Details in 
+Public Domain
+Technical Bid Opening 
+BoQ Comparative 
+Chart model
+Normal BoQ Compartive chart decimal 
+places
+2
+BoQ Comparative 
+Chart Rank Type
+L Form Based BoQ No
+TIA Undertaking
+S.No Undertakin g to Order Tender complying with Order Reaso n for non compliance of Order 
+1 PPP-MII Order 2017 Agree
+2 MSEs Order 2012 Agree
+Tender Inviting Authority
+Name DGM(CNM) CPG1
+Address Western Region Head QuartersII Plot No. -87, Sector-24, Atal RAIPUR 492018
+Tender Creator Details
+Created By HARIOM KUMAR
+Designation Dy General Manager
+Created Date 28-Jul-2025 05:46 PM
+Page 3 of 3NTPC Limited eProcurement Portal
+29-07-2025https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=Published...

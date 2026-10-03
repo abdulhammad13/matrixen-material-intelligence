@@ -1,0 +1,699 @@
+Corrigendum 
+ 
+Source of NIT 
+ 
+Corporate Contracts 
+State 
+ 
+Uttar Pradesh 
+Region 
+ 
+Corporate Center 
+NIT No. 
+ 
+NTPC/EOC/9900323823 
+Brief NIT Description 
+ 
+Procurement of Endpoint Detection and Response (EDR) Services 
+Contracts Classification 
+ 
+Services 
+Bid Submission End Date 
+ 
+23.07.2026 at 15:00 Hrs. 
+Bid Opening Date 
+ 
+24.07.2026 at 15:00 Hrs. 
+ 
+S No Clause  Ref No Existing Clause Revised Clause
+1 SPC
+16.0 (BENEFITS TO MSEs for Purchase 
+preference)
+In case of Service Contracts, the benefits to the
+participating Service Providers under PPP 2012
+shall be applicable irrespective of product
+(Goods / Services) categories for which bidder
+is registered as MSE as per Udyam Registration
+Certificate.
+Note:
+i. Traders are excluded from the purview
+of this Policy. MSEs registered for availing
+benefits of Primary Sector Lending (PSL) only
+shall also not be considered eligible for MSE
+EMD exemption and purchase preference.
+ii. (MSE benefits shall be given to eligible
+MSEs based on the URC details as verified on
+Udyam Verify portal, as on date of actual
+Techno- commercial bid opening................
+The scope of work under this tender is predominantly OEM-driven and includes OEM-
+owned/managed EDR platform and cloud services, OEM licensing, OEM threat intelligence, and 
+24x7 OEM support. Further, key compliance and service delivery requirements are intrinsically 
+linked to the OEM’s infrastructure and capabilities.
+Accordingly, the primary responsibility for technology ownership, technical compliance, and 
+service delivery rests with the OEM.
+Hence the  benefits towards Purchase Preference under PPP 2012 shall be applicable only to 
+bidders who are OEMs of the offered EDR solution/ platform and possess valid Udyam Registration 
+for the relevant product/service category.
+Note:
+i. Traders are excluded from the purview
+of this Policy. MSEs registered for availing
+benefits of Primary Sector Lending (PSL) only shall also not be considered eligible for MSE EMD 
+exemption and purchase preference.
+ii. (MSE benefits shall be given to eligible
+MSEs based on the URC details as verified on Udyam Verify portal, as on date of actual Techno- 
+commercial bid opening..............
+Bidder shall submit documentary evidence in support of OEM status and valid Udyam Registration, 
+failing which applicable MSE benefits shall not be considered
+2 SPC
+6.1 (EMD Exemption)
+The bidder seeking EMD exemption must submit the valid supporting 
+document with the bid. MSE benefits shall be given to eligible MSEs 
+based on the URC details as verified on Udyam Verify portal, as on 
+date of actual Techno-commercial bid opening.
+Being Service Contract, the MSE benefits shall be applicable 
+irrespective of product (Goods / Services) categories for which 
+bidder is registered as MSE.
+However, traders are excluded from the purview of this Policy & 
+MSEs registered for availing benefits of Primary Sector Lending (PSL) 
+only shall also not be considered eligible for MSE EMD exemption 
+and purchase preference."
+The  benefits towards EMD exemption under PPP 2012 shall be applicable only to bidders who are 
+OEMs of the offered EDR solution/ platform and possess valid Udyam Registration for the relevant 
+product/service category.
+Any bidder submitting a Manufacturer's Authorization Form (MAF) from another OEM shall not be 
+entitled to claim EMD exemption and shall be required to submit EMD as per the tender provisions.
+AMENDMENT-1-COMMERCIAL
+Sl No Clause No Clause Description Request for Change NTPC Reply
+1 Annexure-I to ITB Preference to Make In India and Eligibility for 
+Participation/ granting of Purchase Preference to 
+Class-I local suppliers- regarding: 
+2.0 Eligibility for Participation:
+A. @APPLICABLE FOR TENDERS WHERE ONLY 
+CLASS-I LOCAL SUPPLIERS ARE ELIGIBLE TO BID, 
+a) *For tenders having lump sum evaluation:
+Only Class-I local suppliers are eligible to Bid. Bids 
+received (if any) from Class-II Local Supplier / Non Local 
+Supplier shall be out rightly rejected.
+b) *For tenders having item wise evaluation:
+Only Class-I local suppliers are eligible to Bid for 
+specified items in Bidding documents. Bids received (if 
+any) for specified item(s) from Class-II Local Supplier / 
+Non Local Supplier shall be considered non-responsive 
+and shall not be evaluated in respect of such item(s).
+B. @APPLICABLE FOR TENDERS WHERE ONLY 
+CLASS-I AND CLASS-II LOCAL SUPPLIERS ARE 
+ELIGIBLE TO BID, 
+a) *For tenders having lump sum evaluation:
+Only Class-I and Class-II Local Suppliers are eligible to 
+Bid. Bids received (if any) from Non Local Supplier shall 
+be out rightly rejected.
+b) *For tenders having item wise evaluation:
+Request to relax the Make in India Class-1/Class-2 
+requirement for the EDR solution to ensure wider OEM 
+participation, access to globally recognized advanced 
+threat detection technologies, improved competition, better 
+technical evaluation options, and availability of mature 
+cybersecurity capabilities required for protection against 
+evolving cyber threats
+Tender Conditions shall prevail.
+CLARIFICATION-1-COMMERCIAL
+2 14.4.1 If the process of mutual consultation and IE (if 
+applicable)and/or Mediation (if applicable) and/or ESC 
+fails to arrive at a settlement between the parties, 
+Employer or the Contractor may, within Thirty (30) days of 
+such failure, give notice to the other party, of its intention 
+to commence arbitration, as hereinafter provided, as to 
+the matter in dispute, and no arbitration in respect of this 
+matter may be commenced unless such notice is given. 
+The mechanism of settling the disputes through 
+arbitration shall be applicable only in cases where the 
+disputed amount (i.e. Claim/ Counter claim, whichever is 
+higher, excluding interest) is less than Rs. 10 crores.
+If the claim/ counter claim is in foreign currency, the SBI 
+Bills Selling Exchange rate prevailing on the date of claim 
+shall be used for the purpose of converting the claim in 
+Indian Rupee. In case the disputed amount (Claim/ 
+counter claim, whichever is higher, excl. interest) exceeds 
+Rs. 10 Crores, the parties shall be within their rights to 
+take recourse to remedies as may be available to them 
+under the applicable laws other than Arbitration after prior 
+intimation to the other party. There shall be no arbitration 
+where the disputed amount (Claim/ counter claim, 
+whichever is higher) is only up to Rs. 5 lakhs.
+We request that the bidder be allowed to refer any dispute 
+to arbitration, irrespective of the claim amount.
+Tender Conditions shall prevail.
+3 14.5 Notwithstanding any reference to the Independent 
+Engineer or Mediation or Conciliation or Arbitration 
+herein,
+(a) the parties shall continue to perform their respective 
+obligations under the Contract unless they otherwise 
+agree.
+(b) the Employer shall pay the Contractor any monies due 
+to the Contractor.
+It is clarified that the Bidder will perform its 
+obligations/services only to the extent they are not a 
+subject matter of or are impacted by the arbitration.
+Tender conditions are amply clear & shall 
+prevail.
+4 30 The Contractor/Supplier shall warrant that the Goods 
+shall be free from defects arising from any act or 
+omission of the Contractor/Supplier or arising from 
+design, materials, and workmanship, under normal use in 
+the conditions.
+Being an authorized reseller of goods/software, we can 
+only warrant that the goods will be new and unused. All 
+remaining warranties shall be passed on to NTPC from the 
+applicable OEMs.
+The warranty requirements shall remain as 
+per the tender provisions.
+Since the contract is being executed with 
+the Contractor/Supplier, the warranty 
+obligations shall remain the responsibility 
+of the Contractor/Supplier in line with the 
+tender provisions. 
+However, OEM warranty, wherever 
+applicable, shall also be passed on to 
+NTPC without prejudice to the 
+Contractor’s/Supplier’s obligations under 
+the contract.
+5 42 The Employer may terminate the Order/Contract, by not 
+less than sixty (60) days if the Employer, at its sole 
+discretion, decides to terminate this Contract.
+We request that a notice period of atleast 90 days be 
+provided to the Contractor in case of termination for 
+convenience or any abandonment or reduction in the 
+scope of work. In the event of termination/reduction in 
+scope, NTPC shall pay the Contractor for work done 
+successfully till the date of payment. Further, NTPC shall 
+also pay the Contractor for orders already placed with 
+OEMs/Software Licensors, which Orders cannot be 
+cancelled with the OEMs/Software Licensors or pay 
+cancellation costs, if any, levied by the OEMs/Software 
+Licensors. Further, if the Contractor is providing licenses 
+or products on opex model or on lease, then in case of 
+termination, NTPC will have to pay for the entire pre-
+agreed duration of the contract.
+Tender Conditions shall prevail.
+6 47 No claim for interest or damage will be entertained or be 
+payable by the Employer in respect of any amount or 
+balance which may be lying with the Employer or may 
+become due upon settlement/adjudication of any dispute, 
+difference or misunderstanding between the parties by 
+way of arbitration or court proceedings or otherwise or in 
+respect of any delay or omission on the part of the 
+Employer in making intermediate or final payment or in 
+respect of any amount/damage which may be claimed 
+through arbitration or court proceedings or in any other 
+respect whatsoever.
+We request changes in the clause to indicate that the 
+bidder will be entitled to seek interest or damages on any 
+non-payment or delayed payments or any 
+guarantee/security/retention money or payments in arrears 
+or any balance payments or any settlement amounts.
+Tender Conditions shall prevail.
+7 17 Bids shall remain valid for a period of 120 days from the 
+closing date prescribed by EMPLOYER for the receipt of 
+bids, unless otherwise specified in Special Purchase 
+Conditions (SPC). A bid valid for a shorter period shall be 
+rejected by EMPLOYER as being nonresponsive.
+We request capping the bid validity to 30 days to ensure 
+predictability in resource and pricing commitments.
+Tender Conditions shall prevail.
+8 43 Risk purchase in the event of Supplier’s/Contractor’s 
+failure to execute the contract as per technical 
+specifications/ scope of work of acceptable quality and 
+within the scheduled contract period, NTPC reserves the 
+right to procure the balance material / complete the 
+balance services from any other source at the Supplier’s / 
+Contractor’s risk and cost and the difference in cost shall 
+be borne by the Supplier / Contractor. Further, NTPC 
+shall retain the right of forfeiture of CPG and or any other 
+action as deemed fit.
+We request NTPC to delete this clause Tender Conditions shall prevail.
+9 42 The Employer may terminate the Order/Contract, by not 
+less than sixty (60) days if the Employer, at its sole 
+discretion, decides to terminate this Contract.
+We request that a notice period of atleast 90 days be 
+provided to the Contractor in case of termination for 
+convenience or any abandonment or reduction in the 
+scope of work. In the event of termination/reduction in 
+scope, NTPC shall pay the Contractor for work done 
+successfully till the date of payment. Further, NTPC shall 
+also pay the Contractor for orders already placed with 
+OEMs/Software Licensors, which Orders cannot be 
+cancelled with the OEMs/Software Licensors or pay 
+cancellation costs, if any, levied by the OEMs/Software 
+Licensors. Further, if the Contractor is providing licenses 
+or products on opex model or on lease, then in case of 
+termination, NTPC will have to pay for the entire pre-
+agreed duration of the contract.
+Tender Conditions shall prevail.
+10 Clause 31.0 Patents Bidder proposes to modify the existing clause with the 
+below mentioned clause :In the event of a third party claim 
+of intellectual property infringement, bidder may, at its sole 
+option, (i) obtain for customer the right to continue using 
+the services, (ii) modify the services so that the services 
+are non-infringing, (iii) replace the services with a 
+functionally equivalent, non-infringing service, or (iv) if the 
+alternatives (i)-(iii) are not available, bidder may so notify 
+customer and terminate such infringing services without 
+penalty to either party. notwithstanding anything in the 
+agreement to the contrary, this section is customer s sole 
+remedy for any intellectual property infringement claims.
+Tender Conditions shall prevail.
+11 Clause 32.0 Indemnification Bidder suggests to replace the existing clause with the 
+below clause:Each party shall indemnify the other from 
+and against any claims by third parties (including any 
+governmental authority) and expenses (including legal fees 
+and court costs) arising from damage to tangible property, 
+personal injury or death caused by such party s negligence 
+or wilful misconduct. Customer shallalso indemnify, defend 
+and hold supplier harmless from any and all third-party 
+claims (including claims by any governmental authority 
+seeking to impose penal or criminal sanctions) (i) relating 
+to customer s or its end users use of the services in 
+breach of this RFP; and/or (ii) arising from customer s 
+breach of applicable law and regulations. The overall 
+liability including any indemnity claims of the bidder shall 
+be capped to the most recent twelve (12) months of 
+charges collected by the bidder pursuant to the applicable 
+ordering document giving rise to the said liability.
+Tender Conditions shall prevail.
+12 Clause 41.0 Force majeure Bidder suggests that the current clause shall be replaced 
+by the following clause: Except for Customer’s payment 
+obligations accruing under this Agreement up to the date 
+of a bona fide Force Majeure Event, neither Party shall be 
+liable, nor shall any credit allowance or other remedy be 
+extended, for any performance that is prevented or 
+hindered due to a Force Majeure Event.  If during the 
+Service Term Supplier is unable to provide Services for a 
+period in excess of sixty (60) consecutive days due to a 
+Force Majeure Event, then either Party may terminate the 
+affected Service(s) upon thirty (30) days written notice to 
+the other Party, and both Parties shall be released from 
+any further future liability in relation to such Service(s).
+Tender Conditions shall prevail.
+13 Clause 42.0 (a) Termination for Default Bidder proposed to make this clause mutual for both 
+parties. Bidder to also have a right to terminate the 
+agreement for Customer's default for non-payment of 
+undisputed invoices. Additionally, incase of non-
+performance or material breach of services, a thirty (30) 
+days cure period shall be provided to TC to cure the 
+defect. Customer is liable to pay early termination charges 
+to bidder in the event of terminating the contract before 
+expiry of the contract term. 
+Tender Conditions shall prevail.
+14 Clause 42.0 (b) Termination for Insolvency Bidder proposed to make this clause mutual for both 
+parties and either party shall have a right of immediate 
+termination of contract in the event of bankruptcy, 
+liquidation, insolvency etc. 
+Tender Conditions shall prevail.
+15 Clause 42 ( c ) Termination due to Force Majeure Event Bidder suggests that the current clause shall be replaced 
+by the following clause: Except for Customer’s payment 
+obligations accruing under this Agreement up to the date 
+of a bona fide Force Majeure Event, neither Party shall be 
+liable, nor shall any credit allowance or other remedy be 
+extended, for any performance that is prevented or 
+hindered due to a Force Majeure Event.  If during the 
+Service Term Supplier is unable to provide Services for a 
+period in excess of sixty (60) consecutive days due to a 
+Force Majeure Event, then either Party may terminate the 
+affected Service(s) upon thirty (30) days written notice to 
+the other Party, and both Parties shall be released from 
+any further future liability in relation to such Service(s).
+Tender Conditions shall prevail.
+16 Clause 42 ( e ) Termination for convenience Bidder proposes deletion of this clause Tender Conditions shall prevail.
+17 Clause 43 Risk Purchase Bidder proposes deletion of this clause Tender Conditions shall prevail.
+18 Clause 44  Limitation of Liability Bidder suggests to replace the existing clause with the 
+below mentioned clause:                                                                                                                                                                                                                                              
+Notwithstanding anything contained in the RFP or any 
+other place, the bidder shall not be liable for any indirect, 
+incidental, consequential, special exemplary or punitive 
+damages or for any loss of profit, loss of data, loss of 
+business / revenue, loss of goodwill, loss of customer, cost 
+of purchasing replacement services for any reason 
+whatsoever. further, in case of service-related matters the 
+sole liability of the bidder and sole remedy of customer 
+shall be the limited to the applicable credit allowance and / 
+or right to terminate the contract as mentioned in the 
+applicable service schedule. For any other loss or 
+damage, the overall liability of the bidder shall be capped 
+to the most recent twelve (12) months of charges collected 
+by the bidder pursuant to the applicable purchase order 
+giving rise to the said liability, provided that nothing 
+contained herein shall be construed as limiting the liability 
+of either party for (a) personal injury or death resulting 
+from the negligence of a party or its employees, (b) fraud 
+or fraudulent misrepresentation, or (c) wilful misconduct.
+Tender Conditions shall prevail.
+19 QUALIFYING 
+REQUIREMENTS 
+- Finance
+To allow Bidder along with its affiliate including its 
+subsidiaries  to participate in the Financial Qualification 
+as well
+Request customer to allow 100% subsidiary of Parent 
+organisation as a bidding entity.  Requesting credentials of 
+the Parent Group entity to be considered for Financial 
+Criteria: financial statements to be considered for the 
+purpose of meeting the eligibility criteria. 
+This is in line to the Ministry Of Finance notification 
+No.F.8/78/2023-PPD DATED 12.10.23 attached for your 
+further ready reference which allow the aforementioned 
+arrangement.
+Tender Conditions are amply clear & shall 
+prevail.
+20 SPC 11.0 VOLUME – II: SPECIAL PURCHASE CONDITIONS 11.0 
+QUALIFYING REQUIREMENTS Point No. 2
+(Page No.7)
+The bidder should have successfully executed, through a 
+single order, at least one of the following IT Security 
+Solutions/ Services covering at least 8,000 endpoints for 
+a continuous period of not less than 12 months, in 
+preceding seven (7) years as on the date of Techno-
+Commercial Bid Opening:(i) “Endpoint Detection and 
+Response (EDR)” OR (ii) Managed Detection and 
+Response (MDR) OR (iii) Extended Detection and 
+Response (XDR) OR (iv) Anti-Virus/ Endpoint Protection 
+Platform (EPP)
+"XYZ" is a Make in India OEM providing an advanced EDR-
+enabled XDR solution. The solution has been successfully 
+deployed across multiple government organizations and is 
+currently operational at esteemed institutions such as the 
+Telangana High Court, CSIR, NHDC, and the Indian Army. 
+The solution is well-proven in the market and is actively 
+utilized in critical environments.
+In view of the above, we request the authority to kindly 
+modify the clause as follows:
+Proposed Clause:
+The OEM must have a proven track record of successful 
+deployments in the BFSI / Government / PSU sector, with 
+a minimum cumulative deployment of 2,000 licenses 
+across multiple customer sites
+Tender Conditions shall prevail.
+21 EMD We would like to seek clarification regarding the EMD 
+exemption applicability for MSME bidders.
+As per the tender documents, there appears to be 
+contradictory information related to EMD exemption. We 
+have attached the relevant screenshot for your reference. 
+Kindly clarify whether MSME bidders are exempted from 
+submitting the EMD for this tender.
+Looking forward to your clarification.
+Refer Clause 6.1 of Special Purchase 
+Conditions (SPC) read in conjunction with 
+Amendment-1-Commercial. 
+22 MSE Purchase 
+preference
+In case of Service Contracts, the benefits to the
+participating Service Providers under PPP 2012
+shall be applicable irrespective of product
+(Goods / Services) categories for which bidder
+is registered as MSE as per Udyam Registration
+Certificate.
+Note:
+i. Traders are excluded from the purview
+of this Policy. MSEs registered for availing
+benefits of Primary Sector Lending (PSL) only
+shall also not be considered eligible for MSE
+EMD exemption and purchase preference.
+ii. (MSE benefits shall be given to eligible
+MSEs based on the URC details as verified on
+Udyam Verify portal, as on date of actual
+Techno- commercial bid opening................
+Considering the procurement structure of the present 
+tender, we respectfully request NTPC to kindly clarify the 
+following:
+a) Whether eligible MSE bidders registered as Service 
+Providers shall be entitled to full MSE Purchase Preference 
+benefits under Clause 4.1.3 of the ITB and SPC Clause 16.0, 
+despite the underlying OEM-driven software solution neither 
+being owned nor manufactured by such bidders.
+b) Whether NTPC has considered the substantive nature of 
+this procurement, wherein the major contract value pertains 
+to the supply, subscription, implementation, and support of 
+an OEM-owned software platform, while participating 
+bidders primarily provide incidental coordination and 
+support services without substantial value addition to the 
+core solution.
+c) In case NTPC intends to extend MSE Purchase Preference 
+benefits to Service Providers, kindly clarify the specific legal, 
+policy, and clause basis for such interpretation, particularly 
+in view of: i. the OEM-centric nature of the procurement; ii. 
+mandatory OEM authorization and back-to-back support 
+requirements. iii. And the fact that no bidder, other than the 
+OEM itself, can ordinarily be regarded as the manufacturer 
+of the procured solution. 
+d) Alternatively, if NTPC considers the tender to be 
+predominantly related to supply of an OEM software 
+solution, kindly clarify whether MSE Purchase Preference 
+benefits shall be restricted only to bidders who are 
+themselves the OEM / manufacturer directly participating in 
+Refer Amendment-1-Commercial.
+Corrigendum 
+ 
+Source of NIT 
+ 
+Corporate Contracts 
+State 
+ 
+Uttar Pradesh 
+Region 
+ 
+Corporate Center 
+NIT No. 
+ 
+NTPC/EOC/9900323823 
+Brief NIT Description 
+ 
+Procurement of Endpoint Detection and Response (EDR) Services 
+ 
+Contracts Classification 
+ 
+Services 
+Bid Submission End Date 
+ 
+16.07.2026 at 15:00 Hrs. 
+Bid Opening Date 
+ 
+17.07.2026 at 15:00 Hrs. 
+ 
+Corrigendum 
+ 
+Source of NIT 
+ 
+Corporate Materials (EOC, Scope, PMI, NETRA) 
+State 
+ 
+Uttar Pradesh 
+Region 
+ 
+Corporate Center 
+NIT No. 
+ 
+NTPC/EOC/9900323823 
+Brief NIT Description 
+ 
+Procurement of Endpoint Detection and Response (EDR) Services 
+ 
+Contracts Classification 
+ 
+Services 
+Bid Submission End Date 
+ 
+09.07.2026 at 15:00 Hrs. 
+Bid Opening Date 
+ 
+10.07.2026 at 15:00 Hrs. 
+ 
+Corrigendum 
+ 
+Source of NIT 
+ 
+Corporate Contracts 
+State 
+ 
+Uttar Pradesh 
+Region 
+ 
+Corporate Center 
+NIT No. 
+ 
+NTPC/EOC/9900323823 
+Brief NIT Description 
+ 
+Procurement of Endpoint Detection and Response (EDR) Services 
+Contracts Classification 
+ 
+Services 
+Bid Submission End Date 
+ 
+29.06.2026 at 15:00 Hrs. 
+Bid Opening Date 
+ 
+30.06.2026 at 15:00 Hrs. 
+ 
+Corrigendum 
+ 
+Source of NIT 
+ 
+Corporate Contracts 
+State 
+ 
+Uttar Pradesh 
+Region 
+ 
+Corporate Center 
+NIT No. 
+ 
+NTPC/EOC/9900323823 
+Brief NIT Description 
+ 
+Procurement of Endpoint Detection and Response (EDR) Services 
+Contracts Classification 
+ 
+Services 
+Bid Submission End Date 
+ 
+18.06.2026 at 15:00 Hrs. 
+Bid Opening Date 
+ 
+19.06.2026 at 15:00 Hrs. 
+ 
+Sr No Main 
+Clause No
+Description of 
+Clause
+Sub Clause Existing specification Amended specification
+1 12 Architecture, 
+Deployment & 
+Management
+12.1.2.4 -c The proxy/broker appliance shall be:
+i) Supplied, installed, configured by the bidder.
+ii) Deployed at DC Noida and DR Hyderabad.
+iii) The required hardware & software shall be 
+supplied ,Maintained and supported by the bidder 
+with comprehensive OEM warranty and support for 
+the entire contract duration
+The proxy/broker appliance shall be:
+i) Supplied, installed, configured by the bidder.
+ii) Deployed at DC Noida and DR Hyderabad.
+iii) The required hardware & software shall be supplied ,Maintained and supported by the bidder 
+with comprehensive OEM warranty and support for the entire contract duration.
+iv) Upon completion of the contract (including extensions, if any), the Bidder shall be 
+responsible for decommissioning and removal of the supplied hardware from NTPC 
+premises, without any additional cost to NTPC.Prior to removal, the Bidder shall ensure 
+secure sanitization/removal of all NTPC data from the hardware and shall submit a data 
+sanitization certificate to NTPC.
+The hardware shall be removed from NTPC premises only after obtaining  approval from the 
+Engineer-in-Charge (EIC) .
+AMENDMENT-2-TECHNICAL
+Sl No Clause No Clause Description Request for Change NTPC Reply
+1 7.2
+Clause 7.2.1 f
+F) Migration from Existing EPP to Cloud-based EDR 
+Solution
+Bidder shall install & configure on premise Proxy/ 
+Broker appliance at DC Noida & DR Hyderabad for 
+forwarding the telemetry of endpoints/Servers with no 
+access to internet
+Query:
+The scope mentions installation and configuration of On-Premises Proxy/Broker 
+Appliances at the DC (Noida) and DR (Hyderabad) locations.
+Kindly confirm the number of endpoints/users that will not have direct internet access and 
+are expected to communicate through the Proxy/Broker Appliance.
+This information is required for accurate sizing and design of the On-Premises Proxy/Broker 
+Appliances, including compute, storage, and throughput requirements at both DC and DR 
+locations.
+No Change, Requested Clarification is already 
+available in existing Clause 12.1.2.4 -d
+2 7.2
+Clause 7.2.1 f
+F) Migration from Existing EPP to Cloud-based EDR 
+Solution
+Bidder shall install & configure on premise Proxy/ 
+Broker appliance at DC Noida & DR Hyderabad for 
+forwarding the telemetry of endpoints/Servers with no 
+access to internet
+Query:
+The RFP specifies deployment of the solution at the DC and DR locations, which may 
+require provisioning of virtual machines and associated compute, storage, hypervisor, 
+and other infrastructure resources.
+Kindly clarify whether the required infrastructure for hosting the solution will be provided 
+by NTPC or is expected to be supplied by the bidder.
+In case the infrastructure is within the bidder's scope, it is requested to note that the 
+current industry lead time for procurement and delivery of enterprise-grade servers is 
+typically a minimum of 120 days due to global manufacturing and supply chain 
+constraints. This may significantly impact the implementation timeline stipulated in the 
+RFP (90 days).
+Accordingly, if the bidder is required to supply the compute infrastructure, we request 
+NTPC to revise the Delivery/ assignment of required licenses, Deployment of EDR agent on 
+endpoints & Server, configuration & policy setup   timeline from 90 days to 180 days to 
+accommodate procurement, delivery, installation, and commissioning activities.
+Further, kindly confirm whether:
+Delays attributable solely to procurement and delivery of compute infrastructure 
+supplied by the bidder shall be excluded from the implementation timeline for the 
+purpose of calculating Liquidated Damages (LD) or penalties; or
+NTPC will provide the required compute, storage, hypervisor, and related infrastructure 
+based on the sizing recommendations submitted by the successful bidder, thereby 
+enabling adherence to the implementation timeline specified in the RFP.
+No Change, Requested clarification already 
+available in  Amendment-I already issued for 
+Clause 12.1.2.4 -c
+CLARIFICATION-2-TECHNICAL
+3 7.2
+Clause 7.2.1 f
+Contract Period Duration/Warranty; Durtaion : 5Years
+The period of services shall be Five years (05 years) 
+from the installation completion date (successful 
+Configuration/ Onboarding of EDR agents as 
+confirmed by EIC or his authorized representative).
+Query
+Our Technical team has raised the following observation requiring clarification:
+Query: Asset/Licence Ownership at the End of the 5-Year Contract Period
+ 1. Software Licences: As per our understanding, upon completion of the 5-year contract 
+period, the software licences/subscriptions will expire and become inactive.
+ 2.Hardware Assets: The RFP does not explicitly specify the ownership or disposition of the 
+hardware infrastructure (servers) deployed by the bidder at the end of the contract period.
+We kindly request you to clarify the following:
+ •What will be the ownership status of the hardware assets (servers) after completion of the 
+5-year contract period? Pls Confirm 
+ •Will the deployed servers be returned to the bidder, Transferred to NTPC, or handled 
+through any other mechanism Confirm 
+Further, after receiving the clarification to the above query, we will require adequate time 
+to finalize the proposed solution, commercials, and associated contractual commitments 
+in accordance with the RFP requirements and clarifications issued by NTPC.
+In view of the above, we sincerely request you to kindly extend the bid submission date by 
+an additional 15 days from the current due date to enable us to submit a comprehensive 
+and fully compliant proposal.
+We shall be grateful for your kind consideration and support.
+Refer Amendment-2-Technical
+For the best experience, open this PDF portfolio in
+ 
+Acrobat X or Adobe Reader X, or later.
+ 
+Get Adobe Reader Now! 
+Corrigendum-1 
+Source of NIT 
+ Corporate Contracts 
+ 
+State 
+ Uttar Pradesh 
+ 
+Region 
+ Corporate Center 
+ 
+NIT No. 
+ NTPC/EOC/9900323823 
+ 
+Brief NIT Description 
+ Procurement of Endpoint Detection and Response (EDR) 
+Services 
+Bid Submission end Date 
+ 09.06.2026 at 03:00 PM 
+ 
+Bid Opening Date 
+ 10.06.2026 at 03:30 PM 
+ 
+ 
+ 

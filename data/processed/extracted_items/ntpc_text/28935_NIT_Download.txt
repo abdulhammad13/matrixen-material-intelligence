@@ -1,0 +1,134 @@
+NTPC Limited eProcurement Portal
+Tender Details
+Date : 11-Aug-2025 10:44 AM
+ Print
+Basic Details
+Organisation Chain NTPC Limited||Corporate Centre||Corporate Materials
+Tender Reference
+Number NTPC/EOC/9900307775
+Tender ID 2025_NTPC_99183_1 Withdrawal Allowed Yes
+Tender Type Open Tender Form of contract Works
+Tender Category Works No. of Covers 3
+General Technical
+Evaluation Allowed Yes [Compliance Required] ItemWise Technical Evaluation
+Allowed No
+Payment Mode Both(Online/Offline) Is Multi Currency Allowed For
+BOQ No
+Is Multi Currency
+Allowed For Fee No Allow Two Stage Bidding No
+ 
+Payment Instruments
+Online
+Bankers
+S.No Bank Name
+1 SBI Bank
+Offline S.No Instrument Type
+1 DD
+Cover Details, No. Of Covers - 3
+Cover No Cover Document Type Description
+1 Tender Fee and EMD .pdf Scanned Fee
+Details
+2 Tech Bid with QR .pdf Technical
+Details
+3 Finance .xls Price Bid
+ 
+Tender Fee Details, [Total Fee in ₹ * - 4,500]
+Tender Fee in ₹ 4,500
+Fee Payable To NTPC
+Limited
+Fee Payable At NOIDA
+Tender Fee
+Exemption Allowed
+Yes
+EMD Fee Details
+EMD Amount in ₹ 10,00,000 EMD Exemption
+Allowed
+No
+EMD Fee Type fixed EMD Percentage NA
+EMD Payable To NTPC
+Limited
+EMD Payable At NOIDA
+BG Required Yes
+Minimum Direct
+EMD Payment in ₹
+0.00
+ 
+ 
+Work /Item(s)
+Title Renovation work at Core 4 Scope APTEL
+Work Description Renovation work at Core 4 APTEL office
+Pre Qualification
+Details
+As per tender documents 
+Independent External
+Monitor/Remarks
+NA 
+Tender Value in ₹ NA Product Category Civil
+Works
+Sub category NA 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work(Days) 365 
+Location EOC Noida Office EOC, SECTOR-
+24, NOIDA 201301
+Pincode 201301 Pre Bid Meeting Place NA 
+Pre Bid Meeting
+Address
+NA Pre Bid Meeting Date NA Bid Opening Place EOC Noida
+Office
+Should Allow NDA
+Tender
+No Allow Preferential
+Bidder
+No
+ 
+Critical Dates
+Publish Date 09-Aug-2025 09:00 AM Bid Opening Date 01-Sep-2025 05:30 PM
+Document Download / Sale Start
+Date
+09-Aug-2025 09:00 AM Document Download / Sale End
+Date
+30-Aug-2025 03:00 PM
+Clarification Start Date 09-Aug-2025 09:00 AM Clarification End Date 19-Aug-2025 03:00 PM 
+Bid Submission Start Date 09-Aug-2025 09:00 AM Bid Submission End Date 30-Aug-2025 03:00 PM
+8/11/25, 10:54 AM NTPC Limited eProcurement Portal
+https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndTenderDetails&service=direct&session=T&sp=S%2BtVCRsGG… 1/2
+ 
+ 
+Tender Documents
+NIT
+Document S.No Document Name Description Document Size
+(in KB)
+1 Tendernotice_1.pdf IFB 146.11
+ 
+Work Item
+Documents S.No Document Type Document Name Description Document Size
+(in KB)
+1 Tender Documents TenderDocs.rar Complete Tender Documents 23867.16
+2 BOQ BOQ_102380.xls Price Bid 526.00
+ 
+ 
+View GTE Details - SERVICE GTE (LT-COMMON-MLC-LAND BORDER CLAUSE)
+S.No Particulars Expected Value Mandatory
+1.0
+Confirm that you are a LOCAL SUPPLIER, and the LOCAL CONTENT included in the
+PACKAGE FOR COMPLETE SCOPE OF WORK meets the MINIMUM LOCAL CONTENT
+requirements of the Tender. - [ MLC Declaration for Services]
+Yes Yes
+2.0 Do you accept NTPC Safety Rules - [ SAFETY RULES COMPLIANCE] Yes Yes
+3.0 Do you accept the Fraud Prevention Policy of NTPC - [ FRAUD PREVENTION] Yes Yes
+4.0 Do you accept Withholding and Banning of Business Dealing Policy of NTPC - [
+BANNING POLICY DECLARATION] Yes Yes
+5.0
+Do you certify full compliance on clause as per tender documents on Restrictions
+on procurement from a Bidder of a country which shares a land border with India -
+[ LAND BORDER CLAUSE COMPLIANCE]
+Yes Yes
+6.0 Do you certify full compliance to all provisions of Bid documents - [ NO DEVIATION
+CERTIFICATION] Yes Yes
+ 
+ 
+Tender Inviting Authority
+Name DGM CM
+Address EOC Noida Office EOC, SECTOR-24, NOIDA 201301
+ 
+8/11/25, 10:54 AM NTPC Limited eProcurement Portal
+https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndTenderDetails&service=direct&session=T&sp=S%2BtVCRsGG… 2/2

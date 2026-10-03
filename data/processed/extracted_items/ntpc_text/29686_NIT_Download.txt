@@ -1,0 +1,101 @@
+NTPC LTD 
+Vendor Development Cell (VDC), Raipur 
+Sub: Qualifying Requirement for Vendor Enlistment for supply of Ultrasonic Flow 
+Meter 
+A) MEG DETAILS   
+ 1.0 MEG NO. 94 MEG-07 
+ 2.0 MEG DESCRIPTION Ultrasonic Flow Meter 
+ 3.0 RESPONSIBILITY CENTRE VDC 
+B) Technical Criteria of QR: 
+1. The Applicant should be a Manufacturer or subsidiary company of Manufacturer of 
+Ultrasonic Flow Meter. 
+2. The Applicant should have successfully executed the supply of Ultrasonic Flow Meter during 
+the last five (5) years as on the date of application. The Ultrasonic Flow Meter supplied 
+should have been in satisfactory operation for at least one (1) year prior to the date of 
+application. 
+Documents to be submitted in support of meeting Technical QR: 
+1. Latest annual report OR NSIC / SSI / MSME registration certificate / BIS license / ISO 
+certificate /certificate of registration from the concerned excise department / any other 
+statutory document as a proof of being manufacturer of Ultrasonic Flow Meter. Brief details 
+of manufacturing facilities or Standard published catalogue for Ultrasonic Flow Meter also 
+to be given. 
+2. The PO in support of award and completion certificate/copies of invoice to establish 
+successful execution of the supply of Ultrasonic Flow Meter as per QR. 
+ 
+C) Documents to be submitted to find executed value of orders: 
+In addition to the documents required in support of meeting technical requirements as stated 
+above, following documents are required to be submitted by the Applicants applying for 
+enlistment: - 
+1. Three (3) POs of the highest executed values of similar work (see definition at point E: Note- 
+1 below) during previous five (5) years from the date of application. Copy of Invoice / 
+Completion certificate from the concerned buyer/s in support of successful execution of 
+supply against the POs to be submitted. These will be required for calculation of execution 
+capability. 
+2. Audited balance sheet including Profit & Loss statement for the previous three (3) 
+completed financial year’s reckoned from the date of application. In case where the audited 
+results for the last financial years as on the date of application are not available, the 
+financial result certified by a practicing Chartered accountant shall be considered 
+acceptable. 
+3. GSTIN certificate ,PAN ,Power of attorney, Letter of undertaking ,works information etc. as 
+mentioned in enlistment application pages of website www.vendor.ntpc.co.in 
+4. NTPC can request for other documents as necessary during the course of evaluation. 
+ 
+ 
+ 
+ 
+ 
+Similar works means:  
+NOTE-2:- Supply of Ultrasonic Flow / Ultrasonic Level Meter to any Power 
+Plants / Petroleum Refinery / Fertilizer Plants / Steel / Aluminum Industry within last five (5) years 
+from the date of application for enlistment. 
+ 
+NOTE-2:-The executed value means Basic value of quantity of similar works executed/supplied 
+against the reference PO (also applicable to partly executed POs as on date of application). Where 
+PO value is composite (i.e. including Taxes etc.), the applicant to give item-wise break-up of 
+Composite PO value mentioning Basic Value, Taxes etc. 
+ 
+ 
+ 
+ 
+DUAL PATH TRANSIT TIME CLAMP-ON ULTRASONIC FLOW METER 
+ 
+TECHNICAL REQUIREMENTS: 
+ 
+Type Transit time Clamp On Ultrasonic meter 
+Mounting Style Dual path with two sets of transducers on the   same pipe 
+Flow measurement Instantaneous Flow rate as well as totalized flow 
+Power supply 230 V AC from UPS. 
+Outputs: Analog 
+Current Binary 
+ 
+Communication ports 
+ 
+Isolated 4-20mA linear outputs for each path  Contact 
+relay outputs, 2 NO + 2 NC for alarm 
+ 
+RS 232 C digital 
+Hand held terminal port 
+Display/Indication  Flow meter with LCD screen backlight based local display and 
+keypad If required, transmitter shall be suitably located away 
+from the sensor for better access and visibility. 
+Recording / Totalizing/Logging  
+Facilities 
+Yes. Should be able to compute cumulative flow  over 
+intervals selectable by owner i.e., daily, weekly, monthly etc. 
+The data shall be stored in  the memory of flow computer for 
+access  in future 
+Software features Compensation for any cross path errors. Programming,  
+configuration, shall be possible from front panel. 
+Diagnostics False signal tolerance , power supply failure etc 
+Protection class IP-65 'or better, Weather protection against direct sunlight, 
+rain etc for Flow .' meter and  suitable for Cooling water for 
+Transducer 
+Accuracy +/- 1% 
+Electrical connection Plug and socket 
+Accessories All mounting hardware required like clamping fixtures, 
+mechanism to remove the transducers  online, 
+interconnecting cables etc. 
+All weather canopy for protection from direct sunlight and 
+direct rain. 
+Material of all fittings shall be SS 316. 
+ 

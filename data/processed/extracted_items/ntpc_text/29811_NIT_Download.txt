@@ -1,0 +1,144 @@
+NTPC LTD 
+Vendor Enlistment Cell (VEC)- CPG-1 
+Naya Raipur 
+ 
+ 
+Sub: Qualifying Requirement for Vendor Enlistment for supply of Thermocouples on PAN 
+NTPC Basis. 
+ 
+A) MEG DETAILS   
+ 1.0 MEG NO. 94MEG-10 
+ 2.0 MEG DESCRIPTION Enlistment for Supply of Thermocouples on PAN NTPC Basis 
+ 
+ 3.0 RESPONSIBILITY CENTRE Vendor Enlistment Cell 
+B) Technical Criteria of QR: 
+ 
+a. The Applicant should be a manufacturer of Thermocouples 
+b. The Applicant should have executed the supply of Thermocouples to “Thermal Power Plant” during 
+        preceding five (05) years from the last date of submission of application. 
+C) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+D) 
+ 
+Documents required in support of meeting QR: 
+ 
+(1) Supporting Documents for QR. 
+ 
+      (a) Latest annual report OR Udyam Registration / NSIC / SSI / MSME registration certificate / BIS license / 
+            ISO certificate / Certificate of registration from the concerned excise department / any other statutory 
+           document as a proof of being manufacturer of Thermocouples. 
+      (b) The credential work order(s) executed within last five years from the last date of submission of 
+            application for enlistment and completion certificate/copies of invoice(s) to establish the execution of 
+            the supply as per the QR. 
+ 
+Documents to be submitted to establish the Execution Capability (EC): 
+ 
+In addition to the documents required in support of meeting technical requirements as stated above, 
+following documents are required to be submitted by the applicants applying for enlistment: - 
+ 
+1. Three (3) POs of the highest executed values of supply of Thermocouples, during preceding five (05) 
+years from the last date of submission of application. Copy of Invoice / Completion certificate from 
+the concerned buyer/s in support of successful execution of supply against the POs to be submitted.  
+ 
+ 
+ 
+E) Financials: 
+ 
+1.Audited balance sheet including Profit & Loss statement for the previous three completed 
+financial years reckoned from the last date of submission of application. In case the audited result 
+for the preceding financial year is not available, certification of financial statements from a 
+practicing-charted accountant is to be uploaded. In case, applicant is not able to submit the 
+certificate from practicing chartered accountant certifying its financial parameters, the audited 
+results of the three consecutive financial years preceding the last financial years shall be 
+considered for evaluating the financial parameters. Further, a certificate would be required from 
+the CEO/CFO stating that the financial results are under audit as on last date of submission of 
+application and certificate from the practicing Chartered Accountant certifying the financial 
+parameters are not available. 
+ 
+2.In case the applicant is not able to furnish its audited financial statements on stand-alone entity 
+basis, the unaudited unconsolidated financial statements of the applicant can be considered 
+acceptable provided the applicant further furnishes the following documents for substantiation of 
+its qualification. 
+ 
+(a)Copies of the unaudited unconsolidated financial statements of the applicant along with copies 
+of the Audited consolidated financial statements of its Holding Company. 
+ 
+(b)A Certificate from the CEO/CFO of the Holding Company, as per the format enclosed in the 
+bidding documents, stating that the unaudited unconsolidated financial statements form part of 
+the Consolidated Annual Report of the company. 
+ 
+3.GSTIN certificate, PAN, Power of Attorney, Letter of Undertaking, works information etc. as 
+mentioned in enlistment application pages of website. www.vdc.ntpc.co.in 
+ 
+Note: 
+(i) Maximum Three Credential Order(s) shall be considered for calculation of the EC. 
+(ii) The word “Executed” mentioned above means that the bidder should have achieved the 
+criteria specified above, even if the contract is started earlier and / or is not completed / closed 
+TECHNICAL SPECIFICATION FOR THERMOCOUPLES 
+ 
+ 
+ 
+ 
+Sl.No. 
+Features Essential/Minimum Requirements 
+ 
+ 
+1 
+Type of Thermocouple  
+DUPLEX WITH SEPARATE HOT JUNCTION, UNGROUNDED 
+ 
+2 Type  Type K/Type B/Type E/Type J/Type N/Type R/Type S/Type T 
+ 
+3 Application Temperature monitoring  & Control of:  boilers metal / steam / Exhaust 
+gas / heat exchangers / cooling water / Flue gas temperature / feedwater 
+/ generator winding / Bearing temperature measurement / Metal 
+Temperature measurement 
+4 Accuracy CLASS-1 AS PER ANSI MC 96.1 
+5 Characteristics of 
+thermocouple 
+Special limits of error : AS PER ANSI MC 96.1 
+6 Insulation resistance At ambient temperature: > 100 MOHM tested at 500 VDC 
+7 Insulation Magnesium oxide (mineral insulated) 
+8 Cold end sealing & 
+termination 
+Stainless steel pot seal with colour coded PTFE insulated flexible 
+fly off leads 
+9 Response 
+Time 
+ 
+Less than 10 Seconds 
+10 Temperatur
+e Range 
+Application Specific / between 0 Deg C to 800 Deg C 
+11 Sheath 
+Materials 
+Stainless Steel / Inconel ; as per specific requirement 
+12 Extension Wires: Chromel-Alumel or compensation grade wires 
+13  
+Physical Dimensions 
+ 
+Probe Dia & Probe length: As per Application 
+Thermocouple wire Dia: 20 AWG / As per Application 
+Protective sheath diameter: 6 MM / As per Application 
+14 Environmental 
+Conditions 
+ 
+Suitable for use in a wide range of industrial environments, including 
+those with vibration, moisture, and varying temperatures 
+15 Construction Material 
+(Typical as per Type) 
+Chromel/Alumel / Iron/Constantan / Copper/Constantan / 
+Chromel/Constantan / Nicrosil/Nisil / Platinum-Rhodium 
+10%/Platinum / Platinum-Rhodium 13%/Platinum / Platinum-Rhodium 
+30%/Platinum-Rhodium 6% / Tungsten 5% Rhenium/Tungsten 26% 
+Rhenium / Nickel-Molybdenum/Nickel-Cobalt 
+ 

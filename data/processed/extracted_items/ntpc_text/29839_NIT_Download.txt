@@ -1,0 +1,196 @@
+Government eProcurement System
+Tender Details
+Date : 11-May-2026 10:48 AM
+ Print
+Basic Details
+Organisation Chain NTECL||Vallur Thermal Power Project||Contracts and Materials
+Tender Reference
+Number CS6053
+Tender ID 2026_NTECL_277074_1 Withdrawal Allowed Yes
+Tender Type Open Tender Form of contract Works
+Tender Category Works No. of Covers 2
+General Technical
+Evaluation Allowed Yes [Compliance Required] ItemWise Technical Evaluation
+Allowed No
+Payment Mode Offline Is Multi Currency Allowed For
+BOQ No
+Is Multi Currency
+Allowed For Fee No Allow Two Stage Bidding No
+ 
+Payment Instruments
+Offline S.No Instrument Type
+1 Demand Draft
+Cover Details, No. Of Covers - 2
+Cover
+No Cover Document Type Description
+1 Fee/PreQual/Technical .pdf
+TENDER FEE AND
+EMD PAYMENT
+PROOF OR
+EXEMPTION DOC
+.pdf
+POWER OF
+ATTORNEY OR
+PROPREITORSHIP
+DECLARATION
+OR PARTNERSHIP
+DEED OR COC
+.pdf
+ANNEXURE E
+BIDFORM
+BIDDERS MUST
+FILL THE
+MINIMUM LOCAL
+DECLARATION
+CONTENT
+.pdf
+ATTACHMENT8
+FILLED WITH
+RELEVANT
+DETAILS AND ESI
+PF PAN GST
+COPIES
+.pdf
+ATTACHMENT 7
+EFT FORM
+ATTACHMENT- 11
+VENDOR DATA
+FILLED WITH ALL
+DETAILS
+.pdf
+TENDER DOCS
+SIGNED AND
+STAMPED OR
+DIGITALLY
+SIGNED
+.pdf SUPPORTING
+DOCUMENTS
+2 Finance .xls BOQ SHEET
+ 
+Tender Fee Details, [Total Fee in ₹ * - 0.00]
+Tender Fee in ₹ 0.00
+Fee Payable To Nil Fee Payable At Nil
+Tender Fee
+Exemption Allowed
+No
+EMD Fee Details
+EMD Amount in ₹ 5,00,000 EMD Exemption
+Allowed
+Yes
+EMD Fee Type fixed EMD Percentage NA
+EMD Payable To Payable
+To
+EMD Payable At Payable
+At
+
+ 
+Click to view modification history
+ 
+Work /Item(s)
+Title BIENNIAL CONTRACT FOR CIVIL WORKS IN INTERNAL CHP AT NTECL AND EXTERNAL CHP AT NCTPS and KPL
+Work Description BIENNIAL CONTRACT FOR CIVIL WORKS IN INTERNAL CHP AT NTECL AND EXTERNAL CHP AT NCTPS and KPL
+Pre Qualification
+Details
+As per Tender documents 
+Independent External
+Monitor/Remarks
+not applicable 
+Show Tender Value in
+Public Domain
+No 
+Tender Value in ₹ 0.00 Product Category Civil Works Sub category na 
+Contract Type Tender Bid Validity(Days) 180 Period Of Work(Days) 730 
+Location NTECL VALLUR Pincode 600103 Pre Bid Meeting Place NA 
+Pre Bid Meeting
+Address
+NA Pre Bid Meeting Date NA Bid Opening Place NTECL VALLUR ONLINE
+Should Allow NDA
+Tender
+No Allow Preferential
+Bidder
+No
+ 
+Critical Dates
+Publish Date 11-May-2026 11:30 AM Bid Opening Date 30-May-2026 03:30 PM
+Document Download / Sale Start
+Date
+11-May-2026 11:30 AM Document Download / Sale End
+Date
+29-May-2026 03:00 PM
+Clarification Start Date 11-May-2026 11:30 AM Clarification End Date 19-May-2026 03:00 PM 
+Bid Submission Start Date 21-May-2026 09:00 AM Bid Submission End Date 29-May-2026 03:00 PM
+ 
+ 
+Tender Documents
+NIT
+Document S.No Document Name Description Document Size
+(in KB)
+1 Tendernotice_1.pdf NIT 303.32
+ 
+Work Item
+Documents S.No Document Type Document Name Description Document Size
+(in KB)
+1 Tender Documents FRAUD.pdf FRAUD PREVENTION POLICY 138.06
+2 Tender Documents BANNING.pdf BANNING POLICY 851.62
+3 Tender Documents FQPN.pdf FQP 812.14
+4 Tender Documents CS6053TDf.pdf TENDER CONDITIONS 2297.83
+5 BOQ BOQ_323600.xls boq sheet 641.50
+ 
+ 
+View GTE Details - NTECL Contracts GTE form
+S.No Particulars Description Expected
+Value Mandatory
+1.0 NTECL Contracts GTE form Contracts general technical evaluation form Yes
+1.01    Acceptance of fraud prevention policy    Do you Accept the Fraud prevention policy of
+NTECL Yes Yes
+1.02    Acceptance of GCC    Acceptance of GCC with Amendments Yes Yes
+1.03    Banning Policy    Declaration of Banning policy Yes Yes
+1.04    No Deviation Certificate    No Deviation is Acceptable to NTECL Yes Yes
+ 
+Auto Extension Corrigendum Properties for Tender
+Iteration No. of bids required for bid opening a tender Tender gets extended to No. of days
+1. 4 4
+2. 2 4
+ 
+Bid Openers List
+S.No Bid Opener Login Id Bid Opener Name Certificate Name
+1. jaideep@ntpc.co.in Jaideep - JAIDEEP
+2. vckamal@ntpc.co.in KAMALAYATHATCHI VIJAYARAMAN
+VIJAYARAMAN
+CHAMBAKAVALLI
+KAMALAYATHATCHI
+3. nithyav@ntpc.co.in NITHYA V Nithya V
+4. vinod.ntpc@rediffmail.com VINOD KUMAR VINOD KUMAR
+ 
+Tender Properties
+Auto Tendering Process
+allowed
+No Show Technical bid status Yes
+Show Finance bid
+status
+Yes Stage to disclose Bid Details in
+Public Domain
+Technical Bid Opening
+BoQ Comparative Chart
+model
+Normal BoQ Compartive chart decimal
+places
+2
+BoQ Comparative Chart
+Rank Type
+L Form Based BoQ No
+ 
+TIA Undertaking
+S.No Undertaking to Order Tender complying with Order Reason for non compliance of Order
+1 PPP-MII Order 2017 Not Applicable WORKS CONTRACT
+2 MSEs Order 2012 Not Applicable WORKS CONTRACT
+ 
+Tender Inviting Authority
+Name AGMCNM
+Address NTECL VALLUR THERMAL POWER STATION VELLIVOYAL CHAVADI CHENNAI 103
+ 
+Tender Creator Details
+Created By KAMALAYATHATCHI VIJAYARAMAN
+Designation Sr.Manager
+Created Date 11-May-2026 10:02 AM
+ 

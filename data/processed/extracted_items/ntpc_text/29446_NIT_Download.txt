@@ -1,0 +1,4217 @@
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+बड
+बड
+ 
+ 
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid End Date/Time
+24-02-2026 15:00:00
+बड
+बड
+ 
+ 
+खुलने
+खुलने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid Opening Date/Time
+24-02-2026 15:30:00
+बड
+बड
+ 
+ 
+पेशकश
+पेशकश
+ 
+ 
+वैधता
+वैधता
+ (
+ (
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+ 
+ 
+से
+से
+)
+)
+/Bid Offer
+Validity (From End Date)
+120 (Days)
+मं ालय
+मं ालय
+/
+/
+रा!य
+रा!य
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Ministry/State Name
+Ministry Of Power
+वभाग
+वभाग
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Department Name
+Na
+संगठन
+संगठन
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Organisation Name
+Ntpc Limited
+काया%लय
+काया%लय
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Office Name
+Cg
+व&तु
+व&तु
+ 
+ 
+'ेणी
+'ेणी
+ 
+ 
+/Item Category
+Handling and Transport on Lumpsum Basis - Job Contract for
+transportation of Fly ash from Ash Silos of NTPC Vindhyachal
+to abandoned pit of Gorbi Mines of NCL-Reserved for SC/ST
+MSE Bidders only
+अनुबंध
+अनुबंध
+ 
+ 
+अविध
+अविध
+ 
+ 
+/Contract Period
+ 5 Month(s) 3 Day(s)
+एमएसएमई
+एमएसएमई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष.
+वष.
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+4दान
+4दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+/MSE Relaxation for Years of
+Experience and Turnover
+No
+&टाट%अप
+&टाट%अप
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष.
+वष.
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+4दान
+4दान
+ 
+क
+क
+गई
+गई
+ 
+है
+है
+ /Startup Relaxation for Years of
+Experience and Turnover
+No
+व5ेता
+व5ेता
+ 
+ 
+से
+से
+ 
+ 
+मांगे
+मांगे
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़
+द&तावेज़
+/Document required
+from seller
+Experience Criteria,Certificate (Requested in ATC)
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by
+the buyer
+7या
+7या
+ 
+ 
+आप
+आप
+ 
+ 
+िनवदाकार9
+िनवदाकार9
+ 
+ 
+:ारा
+:ारा
+ 
+ 
+अपलोड
+अपलोड
+ 
+ 
+;कए
+;कए
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़9
+द&तावेज़9
+ 
+ 
+को
+को
+िनवदा
+िनवदा
+ 
+ 
+म<
+म<
+ 
+ 
+भाग
+भाग
+ 
+ 
+लेने
+लेने
+ 
+ 
+वाले
+वाले
+ 
+ 
+सभी
+सभी
+ 
+ 
+िनवदाकार9
+िनवदाकार9
+ 
+ 
+को
+को
+ 
+ 
+;दखाना
+;दखाना
+ 
+ 
+चाहते
+चाहते
+ह>
+ह>
+? 
+? 
+संदभ%
+संदभ%
+ 
+ 
+मेनू
+मेनू
+ 
+ 
+है
+है
+/Do you want to show documents
+uploaded by bidders to all bidders
+participated in bid?
+No
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+ 
+ 
+सीमा
+सीमा
+ 
+ 
+&वतः
+&वतः
+ 
+ 
+नहं
+नहं
+ 
+ 
+बढ़ाने
+बढ़ाने
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+आवBयक
+आवBयक
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+संCया
+संCया
+।
+।
+ / Minimum number of bids
+required to disable automatic bid extension
+5
+;दन9
+;दन9
+ 
+ 
+क
+क
+ 
+ 
+संCया
+संCया
+, 
+, 
+Fजनके
+Fजनके
+ 
+ 
+िलए
+िलए
+ 
+ 
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+ 
+ 
+बढ़ाई
+बढ़ाई
+जाएगी
+जाएगी
+। / 
+। / 
+Number
+ 
+ 
+of
+ 
+ 
+days
+ 
+ 
+for
+ 
+ 
+which
+ 
+ 
+Bid
+would
+ 
+ 
+be
+ 
+ 
+auto
+-
+-
+extended
+5
+ 
+बड
+ 
+संCया
+/
+Bid
+ 
+Number
+: 
+GEM/2026/B/7184731
+;दनांक
+ /
+Dated
+: 09-02-2026
+बड
+बड
+ 
+ 
+द&तावेज़
+द&तावेज़
+ / Bid Document
+1 / 50
+ऑटो
+ऑटो
+ 
+ 
+ए7सट<शन
+ए7सट<शन
+ 
+ 
+अिधकतम
+अिधकतम
+ 
+ 
+;कतनी
+;कतनी
+ 
+ 
+बार
+बार
+ 
+ 
+;कया
+;कया
+ 
+ 
+जाना
+जाना
+ 
+ 
+है
+है
+। /
+। /
+Number
+ 
+ 
+of
+ 
+ 
+Auto
+ 
+ 
+Extension
+ 
+ 
+count
+2
+बड
+बड
+ 
+ 
+से
+से
+ 
+ 
+Oरवस%
+Oरवस%
+ 
+ 
+नीलामी
+नीलामी
+ 
+ 
+स;5य
+स;5य
+ 
+ 
+;कया
+;कया
+/Bid to RA enabled
+No
+बड
+बड
+ 
+ 
+का
+का
+ 
+ 
+4कार
+4कार
+/Type of Bid
+Two Packet Bid
+तकनीक
+तकनीक
+ 
+ 
+मूPयांकन
+मूPयांकन
+ 
+ 
+के
+के
+ 
+ 
+दौरान
+दौरान
+ 
+ 
+तकनीक
+तकनीक
+ 
+ 
+&पRीकरण
+&पRीकरण
+ 
+ 
+हेतु
+हेतु
+ 
+ 
+अनुमत
+अनुमत
+समय
+समय
+ 
+ 
+/Time allowed for Technical
+Clarifications during technical evaluation
+2 Days
+अनुमािनत
+अनुमािनत
+ 
+ 
+बड
+बड
+ 
+ 
+मूPय
+मूPय
+ 
+ 
+/Estimated Bid Value
+49142100
+मूPयांकन
+मूPयांकन
+ 
+ 
+पSित
+पSित
+/Evaluation Method
+Total value wise evaluation
+मTय&थता
+मTय&थता
+ 
+खंड
+खंड
+/Arbitration Clause
+No
+सुलह
+सुलह
+ 
+खंड
+खंड
+/Mediation Clause
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+ईएमड
+ईएमड
+ 
+ 
+ववरण
+ववरण
+/EMD Detail
+एडवाईजर
+ 
+ब>क
+/Advisory Bank
+ICICI
+ईएमड
+ 
+रािश
+/EMD Amount
+200000
+ईपीबीजी
+ईपीबीजी
+ 
+ 
+ववरण
+ववरण
+ 
+ 
+/ePBG Detail
+एडवाइजर
+ 
+ब>क
+/Advisory Bank
+ICICI
+ईपीबीजी
+ 
+4ितशत
+ (%)
+/ePBG Percentage(%)
+2.50
+ईपीबीजी
+ 
+क
+ 
+आवBयक
+ 
+अविध
+ (
+माह
+) 
+/Duration of ePBG
+required (Months).
+8
+(a). 
+जेम
+ 
+क
+ 
+शत.
+ 
+के
+ 
+अनुसार
+ 
+ईएमड
+ 
+छू ट
+ 
+के
+ 
+इXछु क
+ 
+बडर
+ 
+को
+ 
+संबंिधत
+ 
+केटेगर
+ 
+के
+ 
+िलए
+ 
+बड
+ 
+के
+ 
+साथ
+ 
+वैध
+ 
+समिथ%त
+ 
+द&तावेज़
+ 
+4&तुत
+ 
+करने
+ 
+है
+।
+ 
+एमएसई
+केटेगर
+ 
+के
+ 
+अंतग%त
+ 
+केवल
+ 
+व&तुओं
+ 
+के
+ 
+िलए
+ 
+विनमा%ता
+ 
+तथा
+ 
+सेवाओं
+ 
+के
+ 
+िलए
+ 
+सेवा
+ 
+4दाता
+ 
+ईएमड
+ 
+से
+ 
+छू ट
+ 
+के
+ 
+पा 
+ 
+ह>
+।
+ 
+YयापाOरय9
+ 
+को
+ 
+इस
+ 
+नीित
+ 
+के
+ 
+दायरे
+ 
+से
+ 
+बाहर
+रखा
+ 
+गया
+ 
+है
+।
+/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the
+relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service
+Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.
+(b).
+ईएमड
+ 
+और
+ 
+संपादन
+ 
+जमानत
+ 
+रािश
+, 
+जहां
+ 
+यह
+ 
+लागू
+ 
+होती
+ 
+है
+, 
+लाभाथZ
+ 
+के
+ 
+प[
+ 
+म<
+ 
+होनी
+ 
+चा;हए
+।
+ / EMD & Performance securityshould be in
+favour of Beneficiary, wherever it is applicable. 
+लाभाथZ
+लाभाथZ
+ 
+ 
+/Beneficiary :
+ 
+HOD
+SM/AGM(Contracts & Materials)NTPC Limited Unified Shared Service Centre,Central Procurement Group-1,Western
+Region-II Head Quarter, Plot No 87, SEctor-24, Atal NAgar, Nava Raipur, Raipur CG Pin-492101
+(Ntpc Ltd)
+वभाजन
+वभाजन
+/Splitting
+2 / 50
+वभाजन
+/Splitting Applied
+Yes
+बोलीदाताओं
+ 
+क
+ 
+अिधकतम
+ 
+संCया
+, 
+Fजनके
+ 
+बीच
+ 
+ऑड%र
+वभाFजत
+ 
+;कया
+ 
+जा
+ 
+सकता
+ 
+है
+।
+ / Maximum No. Of Bidders
+Amongst Which Order May Be Split
+2
+वभाजन
+ 
+मानदंड
+ 
+इस
+ 
+बात
+ 
+पर
+ 
+आधाOरत
+ 
+है
+ 
+;क
+ 
+कौन
+ 
+सी
+7वां;टट
+ 
+को
+ 
+वतOरत
+ 
+;कया
+ 
+जाएगा
+ / Split Criteria based
+on which quantity will be distributed
+50:50
+एमआईआई
+एमआईआई
+ 
+ 
+अनुपालन
+अनुपालन
+/MII Compliance
+एमआईआई
+ 
+अनुपालन
+/MII Compliance
+Yes
+एमएसई
+एमएसई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MSE Purchase Preference
+एमएसई
+ 
+खरद
+ 
+वरयता
+/MSE Purchase Preference
+Yes
+सू\म
+ 
+और
+ 
+लघु
+ 
+उ_म
+ 
+मूल
+ 
+उपकरण
+ 
+िनमा%ताओं
+ 
+को
+ 
+खरद
+ 
+म<
+4ाथिमकता
+, 
+य;द
+ 
+उनका
+ 
+मूPय
+ 
+L
+1+
+X
+% 
+तक
+ 
+क
+ 
+सीमा
+ 
+म<
+ 
+हो
+ /
+Purchase Preference to MSE OEMs available upto
+price within L1+X%
+15
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined
+in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry
+of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the
+bidder wants to avail the Purchase preference for services, the bidder must be the Service provider of the offered
+Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered
+service. If L-1 is not an MSE and MSE Service Provider (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band as defined in the relevant policy, then 100% order quantity will be awarded to such
+MSE bidder 
+subject to acceptance of L1 bid price. The buyers are advised to refer to the
+OM_No.1_4_2021_PPD_dated_18.05.2023
+ for compliance of Concurrent application of Public Procurement Policy for
+Micro and Small Enterprises Order, 2012 and Public Procurement (Preference to Make in India) Order, 2017. 
+Benefits
+of MSE will be allowed only if the credentials of the service provider are validated on-line in GeM profile as well as
+validated and approved by the Buyer after evaluation of submitted documents. 
+2. The order will be split among multiple bidders as per the criteria for splitting and Public Procurement Policy for
+Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium
+Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. 
+3. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and for
+determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc. This has
+no relevance or bearing on the price to be quoted by the bidders and is also not going to have any impact on bid
+participation. Also this is not going to be used as a criteria in determining reasonableness of quoted prices which
+would be determined by the buyer based on its own assessment of reasonableness and based on competitive prices
+received in Bid / RA process. 
+अितOरb
+अितOरb
+ 
+ 
+योcयता
+योcयता
+ /
+ /
+आवBयक
+आवBयक
+ 
+ 
+डेटा
+डेटा
+/Additional Qualification/Data Required
+Any Other Documents and Requirement to be mentioned by Buyer:
+1770123238.pdf
+Scope of Work:
+1770181398.pdf
+Terms and Conditions to be mentioned by Buyer for bidders to participate:
+1770276308.pdf
+Handling And Transport On Lumpsum Basis - Job Contract For Transportation Of Fly Ash
+From Ash Silos Of NTPC Vindhyachal To Abandoned Pit Of Gorbi Mines Of NCL-Reserved
+3 / 50
+For SC/ST MSE Bidders Only ( 1 
+)
+तकनीक
+तकनीक
+ 
+ 
+विशRयाँ
+विशRयाँ
+ 
+ 
+/Technical Specifications
+ववरण
+ववरण
+/
+Specificatio
+n
+मूPय
+मूPय
+/ Values
+कोर
+कोर
+ / Core
+Category
+Job Contract for transportation of Fly ash from Ash Silos of NTPC Vindhyachal to abandoned pit of
+Gorbi Mines of NCL-Reserved for SC/ST MSE Bidders only
+एडऑन
+एडऑन
+ 
+ 
+/Addon(s)
+5ेता
+5ेता
+ 
+ 
+:ारा
+:ारा
+ 
+ 
+िनधा%Oरत
+िनधा%Oरत
+ 
+ 
+eयूनतम
+eयूनतम
+ 
+ 
+मूPय
+मूPय
+/Minimum Floor Price defined by Buyer
+5ेता
+ 
+:ारा
+ 
+िनधा%Oरत
+ 
+eयूनतम
+ 
+मूPय
+/Minimum Floor Price
+defined by Buyer
+No
+अितOरb
+अितOरb
+ 
+ 
+विशR
+विशR
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+परेषती
+परेषती
+/
+/
+Oरपो;टfग
+Oरपो;टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+/Consignees/Reporting Officer and Quantity
+5.सं.
+5.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो;टfग
+Oरपो;टfग
+ 
+ 
+अिधकार
+अिधकार
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+Quantity
+अितOरb
+अितOरb
+ 
+आवBयकता
+आवBयकता
+/Additional
+Requirement
+1
+Sumedh Bagde
+486885,Vindhyachal Super
+Thermal Power Station P.O.
+Vindhyanagar District Singrauli
+486885 Vindhyanagar
+Project /
+Lumpsum
+Based
+N/A
+5ेता
+5ेता
+ 
+ 
+:ारा
+:ारा
+ 
+ 
+जोड़
+जोड़
+ 
+ 
+गई
+गई
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+वशेष
+वशेष
+ 
+ 
+शतi
+शतi
+/Buyer Added Bid Specific Terms and Conditions
+1
+. 
+Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+ 
+ 
+ 
+ 
+ 
+ 
+4 / 50
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Additional Terms and Conditions
+(ATC)
+ 
+ 
+ 
+ 
+ 
+5 / 50
+ 
+ 
+ 
+ 
+UNIFIED SHARED SERVICE CENTRE, CPG-1, RAIPUR
+CONTRACT & MATERIAL DEPTT
+ 
+ 
+Name of Package: 
+Job Contract for transportation of Fly ash from Ash Silos of NTPC Vindhyachal to
+abandoned pit of Gorbi Mines of NCL-Reserved for SC/ST MSE Bidders only
+ 
+(Domestic Competitive Bidding-on Enlistment Basis)
+ 
+GeM Tender Reference: 
+GEM/2026/B/
+ 
+7184731
+ 
+ 
+ 
+1.
+    
+Additional Terms & Conditions (ATC) of this tender comprises the following documents:
+a.
+    
+Section-I: Invitation for Bids (IFB)/Tender Enquiry/Notice Inviting Tender (NIT).
+b.
+    
+Section-II: Instructions to Bidders (ITB)
+c.
+     
+Section-III: Bid Data Sheet (BDS)
+d.
+    
+Section-IV: General Conditions of Contract (GCC)
+e.
+    
+Section-V: Special Conditions of Contract (SCC)
+f.
+      
+Section-VI: Technical Specifications and Terms & Conditions
+g.
+    
+Section-VII: Schedule of Quantities (SOQ) / Bill of Quantities (BOQ) (As per GeM)
+h.
+    
+Section-VIII: Forms and Procedures (Part 1 of 3, Part 2 of 3 & Par3 of 3)
+ 
+2.
+    
+Qualifying Requirements
+: Refer Section-I NIT for details. This tender is
+reserved for MSE Bidders registered in SC/ST Category only who are m
+eeting the qualifying requirements of this tender.
+ 
+3.
+       
+EMD:
+ 
+ EMD is to be submitted in the form of Bank Guarantee/ Insurance Surety Bond 
+in the format speciﬁ
+ed in the Bid Document only.
+ 
+4. EMD exemption
+: Micro and Small Enterprises (MSEs) having
+UDYAM Registration, for goods produced and services rendered, shall be exempted
+from paying Earnest Money Deposit. Such registered bidders will have to submit 
+U
+DYAM Registration Certificate
+, as proof of being MSE on GeM Portal.
+6 / 50
+To avail MSE beneﬁt in respect of EMD exemption and purchase preference, Bidder
+should be a manufacturer of oﬀered product. Traders are excluded from purview of
+MSE benefit.
+ 
+EMD exemptions as per GeM GTC shall be applicable.
+ 
+ 
+4.
+    
+A complete set of tender documents as mentioned above along with QR Requirement are enclo
+sed under “Terms and Conditions to Be Mentioned by Buyer For Bidders To Participate
+”.
+5.
+    
+Safety Policy and Banning Policy along with other formats are enclosed under “Any Other Doc
+uments and Requirement To Be Mentioned By Buyer
+”.
+6.
+    
+Terms and Conditions stipulated in ATC will supersede those in GeM GTC and STC in case of any conﬂictin
+g provisions.
+ 
+7.
+    
+Bidders are required to submit the documents as mentioned in the check list appended below while submi
+tting their bid and submit the dully filled check list online on GeM portal in ‘Additional ATC documents’.
+ 
+Formats of the documents required to be submitted as per this check list can be referred from “Section-VI
+I: Forms and Procedures” enclosed under “Tender Document” and ‘
+“Terms And Conditions To Be Men
+tioned By Buyer For Bidders To Participate”.
+ 
+ 
+8.
+    
+MSEs seeking exemption for EMD and Purchase Preference shall select appropriate option on 
+GeM portal (separately for each i.e. EMD & purchase preference) and should enclose an attest
+ed/self-certiﬁed copy of UDYAM registration certiﬁcate, failing which they run the risk of their
+bid being passed over as ineligible for the benefits applicable to MSEs.
+ 
+ 
+9. 
+Evaluation and Splitting criteria:
+ 
+Ref. SOW.
+ 
+ 
+10.  Following 
+Yellow Highlighted Attachments
+ MUST be uploaded by Bidders, failing which the oﬀ
+er shall be liable to be rejected.
+ 
+Sl
+Document Required
+Action Required
+Submitte
+d   (√ )
+1
+Attachment 1: 
+Bid Security / EMD
+(as per ITB Clause No. 14.0)-
+ 
+ 
+ 
+7 / 50
+ 
+(i) 
+Bank Guarantee,
+ 
+strictly in the forma
+t provided in the tender document 
+(Not 
+as per GeM format, GeM format of E
+MD BG shall not be 
+acceptable)
+To be 
+uploaded onl
+ine and Original BG
+to be submitted ph
+ysically.
+ 
+ 
+(ii) 
+MSE (UDYAM only) 
+Certificate
+ tow
+ards exemption of Bid Security / EMD (if a
+pplicable).
+To be 
+uploaded onl
+ine
+ 
+2
+Bidder’s 
+Basic Information
+To be uploaded onl
+ine
+ 
+3
+Enlistment Certificate, PAN & GST
+To be uploaded onl
+ine
+ 
+4
+Attachment 14: Declaration regardin
+g 
+GST
+To be uploaded onl
+ine duly filled 
+in
+ 
+5
+Attachment 15: Undertaking for 
+com
+pliance of Important Conditions of Te
+nder
+To be uploaded onl
+ine dully filled in
+ 
+6
+Attachment 3B: 
+Certificate
+ Regarding Ow
+nership change
+To be uploaded onlin
+e duly filled 
+in
+ 
+7
+Attachment 6A: 
+Safety Equipment & 
+Safet
+y Personal Protective Equipment
+To be uploaded onlin
+e duly filled 
+in
+ 
+8
+Attachment 8: 
+List of Financial 
+Documents
+To be uploaded onlin
+e duly filled 
+in
+ 
+9
+Attachment 9: General Declaration of
+Bidder
+To be declared throu
+gh undertaking 
+at Att
+achment-15
+ 
+10
+Attachment 10: Details of Accidents
+To be uploaded onlin
+e duly filled 
+in
+ 
+11
+Attachment 
+11: Electronic Fund Transfer (
+EFT) Authorisation Form
+To be uploaded onlin
+e duly filled 
+in and au
+thenticated from the 
+concerned bank
+ 
+12
+Attachment 
+12: Integrity Pact 
+as per 
+Perfo
+rma (pre-signed by employer) duly signed
+& Stamped at each page 
+[if 
+applicable]
+To be accepted in att
+achment-15
+ 
+8 / 50
+13
+Declaration 
+on 
+Compliance to “Conflict of 
+Interest” provisions.
+To be uploaded onlin
+e.
+ 
+14
+Self-Declaration 
+by the Bidder on “
+“Decla
+ration regarding insolvency, bankrup
+tcy and 
+Liquidation”
+To be uploaded onlin
+e
+ 
+15
+Undertaking 
+regarding Site Visit
+To be uploaded onlin
+e
+ 
+ 
+Bidder’s Basic Information
+ 
+ 
+1.
+      
+Name of Agency:
+ 
+2.
+      
+Address:
+ 
+ 
+ 
+ 
+3.
+      
+PAN No.:
+ 
+4.
+      
+NTPC Vendor Code (If Any):
+ 
+5.
+      
+Name of Proprietor / Partners / Directors:
+ 
+a.
+      
+…………………………………………………………………….
+b.
+      
+…………………………………………………………………….
+c.
+       
+…………………………………………………………………….
+ 
+9 / 50
+6.
+      
+Dealing Person for this Tender:
+ 
+a.
+      
+Name:
+ 
+b.
+      
+Mobile No.:
+ 
+c.
+       
+Alt. Mobile No.:
+ 
+7.
+      
+Mail ID:
+ 
+ 
+Date:
+Place:                                                              
+Signature............................................     
+(Name of Authorized person having Power of attorney) 
+ 
+Designation.......................................
+Common Seal....................................
+ 
+ 
+ 
+The followings have been ensured while submitting the bid on GeM portal:
+ 
+1.
+    
+The Bid Security/EMD BG has been prepared in NTPC format and GeM format is not used for the same
+.
+2.
+    
+MSE Certiﬁcate i.e. Udyam Certiﬁcate (only if applicable) has been submitted on the designated plac
+e of GeM portal.
+3.
+    
+Purchase preference (if applicable) has been applied separately on GeM portal at designated place.
+4.
+    
+Site Visit Undertaking, Enlistment Certiﬁcate, Attachment-14, Attachment-15 & Attachment-17 have 
+been signed and uploaded on GeM portal.
+5.
+1.
+    
+Documents furnished to meet the requirements of Technical QR are duly veriﬁed and digitally signe
+d by TPIA/ISA (in case of companies only).Refer clause 11.1.1 [C] of ITB for details.
+ 
+                                                                    Bidder’s Sign & Stamp
+ 
+ 
+ 
+Place:                                                               Name of Authorized person
+                                                                           having Power
+10 / 50
+                                                                                       of attorney …. …………………………..
+Designation.......................................              C
+ommon
+ 
+ 
+Seal....................................
+Mobile …………….
+Email …………………………..
+APPENDIX-C
+TO ATTACHMENT - 3
+ 
+………… 
+PACKAGE
+FOR
+……………………………  POWER PROJECT,
+BID DOCUMENT NO. ………………
+ 
+PROFORMA OF CERTIFICATE FROM THE CEO/CFO OF THE
+COMPANY IN ACCORDANCE WITH QR
+ 
+(To be submitted by Bidder along with the Techno-Commercial Bid)
+ 
+Ref.     :                                                                                                           Date :
+ 
+To
+Central Procurement Group-I
+NTPC Ltd.,
+Plot No. 87, Sector-24, Atal Nagar
+Nava Raipur, Raipur, Chhattisgarh - 492018
+ 
+Dear Sirs,
+ 
+1.0       
+I, Mr. ............................... (CEO of the Company / CFO of the Company)* confirm 
+and undertake that the Financial results of the company for the preceding financia
+l year to be submitted in respect of the bidder as part of the bid reference no. ......
+......................... dated ........................... are under audit as on the date of Techno-
+Commercial Bid Opening for 
+“…………..Name of Package…………” and the certifica
+te from the practicing chartered accountant certifying the financial parameters for
+the preceding financial year is not available.
+11 / 50
+ 
+ 
+                                                                                                                Yours faithfully
+                                                                                                                        (Signature)
+ 
+ 
+Date    :                                                           (Name & Designation)..........................................
+ 
+Place   :                                                           (Name of the Company) ...........................
+ 
+                                                                        (Seal of Company) .....................................
+ 
+Note :              *
+Strike off whichever is not applicable.
+APPENDIX-D TO ATTACHMENT - 3
+ 
+Undertaking from Independent Statutory Auditor
+(On letter head digitally signed by a person duly authorized to Sign on behalf of the Statutory Auditor)
+ 
+Bid Ref. No:                                                                                                    DATE:
+ 
+To,
+NTPC Ltd.
+………………..
+ 
+Subject: Authentication of veracity of documents submitted by M/s ………. In support of meeting t
+he Qualifying Requirements
+ 
+Ref : IFB/Tender no. …………………..
+Name of the Package/ Tender: ………………………………………
+Dear Sir,
+M/s. ……………………………. (hereinafter called Bidder) having Registered office at……………………………………. i
+ntend to participate in above referred tender of NTPC Ltd.
+We, M/s …………………………. has been appointed as Statutory Auditor for the Bidder i.e. M/s ………………………
+… (Relevant documents on our appointment attached)
+The tender condition stipulates that the bidder shall submit supporting Documents pertaining to Technical Qual
+ifying Requirement duly verified and certified by Statutory Auditor.
+12 / 50
+In this regard, it is hereby confirmed that we have examined the following documents, which are also attached 
+with this letter. The same has been verified from the Original Documents and/ or Client for authenticity.
+We hereby confirm that the following documents are found to be genuine and authentic.
+1. Doc ref. no. ……….. dated …….. (name of Documents)
+2. Doc ref. no. ……….. dated …….. (name of Documents)
+3. ……………
+All the aforesaid documents have been digitally signed by us as a certificate of authenticity.
+*Further, we have examined the books of accounts, records, and other relevant documents, along with other n
+ecessary information and explanations furnished by M/s.____________________ (bidder) and hereby certify followi
+ng: …………………………………………….
+This certificate is issued at the request of M/s ………………. (Bidder) for the purpose of participating in tender/s.
+Thanking you,                                                                                     ………………………
+ 
+* Strike off, whichever is not applicable
+ 
+APPENDIX-E TO ATTACHMENT - 3
+ 
+Undertaking from Third Party Inspection Agency
+(on letter head digitally signed by a person duly authorized to Sign on behalf of the TPIA)
+Ref.: _______________________________________________                   Date:
+To,
+NTPC Ltd. ……………….
+Dear Sir,
+Subject: Authentication of veracity of documents submitted by M/s ……….. in support of meeting t
+he Qualifying Requirements
+Ref : IFB/Tender no. ………………….. Name of the Package/ Tender: ………………………………………
+M/s. ………………. (hereinafter called Bidder) having Registered oﬃce at ……………………… intend to participate
+in above referred tender of NTPC Ltd.
+The tender condition stipulates that the bidder shall submit supporting Documents pertaining to Qualifying Req
+uirement duly veriﬁed and certiﬁed by a speciﬁed independent Third Party Inspection Agency as per the list m
+entioned in the bidding documents.
+In this regard, it is hereby confirmed that we have examined the following documents, which are also attached 
+with this letter. The same has been verified from the Original Documents and / or Client for authenticity.
+We hereby confirm that the following documents are found to be genuine and authentic.
+1. Doc ref. no. ……….. dated …….. (name of Documents)
+13 / 50
+2. Doc ref. no. ……….. dated …….. (name of Documents)
+3. ……………
+All the aforesaid documents has been digitally signed by us as a certificate of authenticity.
+We further confirm that we neither have any vested interest in aforesaid tender nor have any conflict of interes
+t in respect of above tender.
+This certificate is issued at the request of M/s ………………. (Bidder) for the purpose of participating in the subje
+ct tender/s.
+Thanking you,                                                                                           ……………………
+* Strike off, whichever is not applicable
+ 
+ 
+ 
+ 
+ ATTACHMENT-16
+ 
+ 
+……………………………………. PACKAGE FOR ………………………………………………
+…………………. PROJECT BIDDING DOCUMENT NO. (GEM Bid no : 
+GEM/2026/
+B/7184731
+)       
+ 
+(Adherence to Employer’s Anti-Bribery and Anti-Corruption (ABAC) Policy 
+to be accepted in Attachment-15 )
+ 
+ 
+ 
+We and our employees along with our associate / collaborator/ subco
+ntractors / sub vendors / consultants / service providers shall strictly a
+bide by ‘Anti-Bribery and Anti-Corruption (ABAC) Policy’ of Employer a
+s displayed on tender website at https://ntpctender.ntpc.co.in/ under 
+section ‘policy docs’ and undertake that we represent and confirm tha
+t we are aware of, understand, and will comply with all applicable laws
+and regulations relating to anti-corruption and anti-bribery and the AB
+AC Policy of Employer. In addition, each Party agrees that so long as
+it is conducting business with the other Party or the other Party’s aﬃli
+ates, it will not, directly or indirectly, on behalf of the other Party or th
+e other Party’s aﬃliates promise, oﬀer, solicit, authorize, give or recei
+ve bribe, or other corrupt payment, item or service of value, or any ot
+her corrupt advantage, whether in cash or in kind, in relation to the pa
+rticipation in the tender.
+14 / 50
+ 
+Date          : 
+  
+                                                                                    Name of Authorized Person 
+  
+ 
+Place         : 
+  
+                                                                                    Designation 
+  
+ 
+                                                                                                          Seal & Signature:
+                                                                                                          Mobile no.:
+ 
+ 
+ 
+Page 1 of
+ 
+1
+ 
+               
+ATTACHMENT-17
+ 
+ 
+ 
+……………………………………. PACKAGE FOR
+…………………………………………………………………. PROJECT BIDDING DOCUMENT N
+O. (GEM Bid no : 
+GEM/2026/B/7184731
+)       
+ 
+(duly filled and signed format on Compliance to “Conflict of Interest” provisio
+ns to be submitted along with Bid )
+ 
+ 
+We confirm that we have read and understood the ITB Clause 3 as indicated in BDS clause 19 regardi
+ng “Conflict of Interest” and our bid is in compliance to this clause.
+ 
+In case it is established that we have provided any false information in pursuance of the aforesaid ITB* 
+Clause, while competing for this contract, then our bid shall be rejected and bid security shall be forfeite
+d.
+ 
+We also understand that in case we become successful bidder, if it is established that we have not comp
+lied with terms of aforesaid ITB Clause 3
+ 
+as indicated in BDS clause 19, during execution of contract, thi
+s would be considered as fraudulent practice as mentioned in para 5.1 (j) of “Policy for Debarment
+ 
+from
+ 
+Business
+ 
+Dealings”
+ 
+and
+ 
+shall
+ 
+be
+ 
+dealt
+ 
+accordingly.
+ 
+15 / 50
+ 
+ 
+ 
+Date          : 
+  
+                                                                                    Name of Authorized Person 
+  
+ 
+Place         : 
+  
+                                                                                    Designation 
+  
+                                                                                                           
+                                                                                                          Seal & Signature:
+                                                                                                          Mobile no.:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ATTACHMENT – 14
+PAGE 1 OF 1
+………… 
+PACKAGE
+FOR
+ 
+…………….. POWER PROJECT,
+ 
+BID DOCUMENT NO. 
+(GEM Bid no : 
+GEM/2026/B/7184731
+)       
+ 
+DECLARATION REGARDING GST
+ 
+(To be submitted with Techno Commercial Bid duly filled in and signed)
+16 / 50
+ 
+Bidder's Name and Address:                                                  To
+NTPC Ltd.
+……………………..
+……………………..
+……………………..
+Declaration regarding GST
+ 
+We hereby declare and confirm that we have considered the Following GST Rates while quoting the Price on Ge
+M portal:
+ 
+Sl. N
+o.
+Item Description
+HSN
+Code
+Mechanism
+(Basis of Charge)
+(Strike out whichever is not appli
+cable)
+1
+Transportation 
+of Ash
+ 
+Reverse Charge 
+5%
+Forward Char
+ge@18%
+ 
+ 
+ 
+Notes:
+(1)
+   
+During Execution of the Contract applicable GST shall be paid/reimbursed by the Employer on submissi
+on of (GSTIN) Invoice along with Consignment
+ Note issued by Contractor.
+(2)
+   
+The Declaration of the above Scheme shall be supported by authentic documents so that it may be est
+ablished that scheme declared above is in line with declaration given to taxation authorities.
+ 
+ 
+ 
+ 
+ 
+Date          : 
+  
+                                                                                    Name of Authorized Person 
+  
+ 
+Place         : 
+  
+                                                                                    Designation 
+  
+                                                                
+ATTACHMENT – 15
+17 / 50
+                                               (GEM Bid no :
+ 
+GEM/2026/B/7184731
+)       
+(UNDERTAKING FOR COMPLIANCE OF IMPORTANT CONDITIONS OF TENDER BY BIDDER)
+(To be uploaded online on the portal duly filled in and signed)
+ 
+To,
+ 
+NTPC Ltd.,
+CPG-1, USSC Raipur
+ 
+Dear Sirs,
+ 
+We hereby conﬁrm that, we have carefully read the provisions of the following undertakings and accep
+ting the same:
+ 
+Sl. No.
+Undertaking T
+ype
+Provisions of Undertaking
+Acceptance
+1.
+    
+ 
+Nil Deviation 
+Certificate
+No deviation, 
+whatsoever, is permitted by the E
+mployer to the provisions of Bidding 
+Doc
+uments. The Bidders are advised that wh
+ile making their Bid proposals and 
+quotin
+g prices, all conditions may appropriatel
+y be taken into consideration. 
+Bidders ar
+e required to certify their full compliance
+to the complete Bidding 
+Documents and 
+its subsequent Amendment(s) /
+Clariﬁcation(s) / Addenda / 
+Errata, if any,
+issued by the Employer by accepting the
+following condition:
+ 
+“Do you 
+certify full compliance to all Provisi
+ons of Bid Doc”
+ 
+Acceptance of above 
+condition shall be consider
+ed as Bidder's conﬁrmation that any deviation to
+the any Provisions found anywhere in their Bid Pr
+oposal, implicit or 
+explicit, shall stand unconditio
+nally withdrawn, without any cost implication 
+wh
+atsoever to the Employer, failing which the bid s
+ecurity shall be 
+forfeited. 
+Accepted
+18 / 50
+2.
+    
+ 
+Declaration o
+n 
+Qualifying 
+Requirement
+s
+Bidders are 
+required to conﬁrm acceptance of th
+e same by accepting the following 
+condition:
+ 
+“Do you certify full 
+compliance on Qualifying Re
+quirements.”
+Acceptance of 
+above condition shall be consider
+ed as bidder's confirmation to the 
+following:
+ 
+a)
+                  
+The number of reference 
+Plants/Order
+s quoted by Bidder in the bid, for establishing co
+mpliance to the 
+speciﬁed Qualifying Requiremen
+t (QR), are in accordance with the provision 
+speci
+fied above.
+ 
+b)
+          
+The reference Plants/ Orders/ 
+declared sh
+all only be considered for evaluation/ establishin
+g compliance to 
+Qualifying Requirement (QR).
+ 
+ 
+c)
+                  
+No change or substitution in 
+respect o
+f reference Plants/Orders for meeting the specifie
+d Qualifying 
+Requirement (QR) shall be oﬀered b
+y the bidder.
+Applicable
+3.
+    
+ 
+Declaration o
+n Safety Polic
+y
+Bidders are required to confirm 
+acceptance of the
+same by accepting the following condition:
+ 
+“Do you accept the Safety Policy 
+of NTPC”.
+ 
+Acceptance of 
+above condition shall be consider
+ed as bidder's conﬁrmation that they shall 
+abide 
+by Safety Policy of the Employer as per the provi
+sions of GCC 
+Sub-Clause 10.4.9.
+Accepted
+19 / 50
+4.
+    
+ 
+Declaration o
+n Banning
+Policy
+Bidders are required to confirm 
+acceptance of the
+same by accepting the following condition:
+ 
+“Do you accept Withholding and 
+Banning of Busin
+ess Dealing Policy of NTPC”
+ 
+Acceptance of above condition 
+shall be considere
+d as bidder's conﬁrmation that they shall abide b
+y Banning 
+Policy of the Employer displayed on NT
+PC’s website 
+http://www.ntpctender.ntpc.co.in in
+dicating his compliance to the provisions 
+of ITB S
+ub-Clause 32.
+ 
+The version of Policy for 
+Debarment from Busines
+s dealings presently followed by NTPC is Rev-4.
+Accepted
+5.
+    
+ 
+Declaration o
+n Fraud Preve
+ntion 
+Policy
+Bidders are required to confirm 
+acceptance of the
+same by accepting the following condition:
+ 
+“Do you accept the Fraud 
+Prevention Policy of NT
+PC”.
+ 
+Acceptance of above condition 
+shall be considere
+d as bidder's conﬁrmation that they shall abide b
+y Fraud 
+Prevention Policy of the Employer display
+ed on NTPC’s website 
+http://www.ntpctender.ntpc
+.co.in indicating his compliance to the provisions
+of ITB Sub-Clause 31.
+Accepted
+6.
+    
+ 
+Declaration o
+n Local Conte
+nt
+Bidders are required to confirm 
+acceptance of the
+same by accepting the following condition:
+ 
+“Confirm that you are a LOCAL 
+SUPPLIER, and the
+LOCAL CONTENT included in the PACKAGE FOR C
+OMPLETE SCOPE OF 
+WORK meets the MINIMUM L
+OCAL CONTENT requirements of the Tender.”
+ 
+Acceptance of above condition 
+shall be considere
+d as Bidder’s conﬁrmation that Bidder is meeting 
+the 
+requirement of fulﬁl the requirements of Loca
+l content for Class-I Local 
+Supplier.
+ 
+In case aforesaid 
+Conﬁrmation/Certiﬁcate furnish
+ed by Contractor/Vendor is not in line with 
+the de
+claration in respect of Local content in their bid, s
+ame shall be 
+treated as false declaration and will 
+be dealt in line with the Fraud 
+Prevention Policy o
+f NTPC.
+Accepted
+20 / 50
+7.
+    
+ 
+Declaration o
+n Restrictions
+   on   
+procure
+ment from a 
+Bidder of a co
+untry which s
+hares a land b
+order with 
+Ind
+ia
+Bidders are required to confirm 
+acceptance of the
+same by accepting the following condition:
+ 
+“Do you certify full compliance 
+on clause as per t
+ender documents on Restrictions on procuremen
+t from a 
+Bidder of a country which shares a land 
+border with India?” / “Do you certify 
+full complian
+ce to all provisions of Bid Documents?”
+ 
+Acceptance of above condition 
+shall be considere
+d as Bidder's conﬁrmation that Bidder has read a
+nd 
+understood the ITB Clause regarding “Restricti
+ons on procurement from a 
+Bidder of a country w
+hich shares a land border with India” and its bid i
+s in 
+compliance to this clause.
+ 
+In case it is established that 
+Bidder has provided 
+any false information in pursuance of the aforesai
+d ITB 
+Clause, while competing for this contract, t
+hen its bid shall be rejected.
+ 
+In case of a successful bidder, 
+if it is established t
+hat the Bidder has not complied with terms of afo
+resaid 
+ITB Clause, during execution of contract, t
+his would be a sufficient ground 
+for immediate ter
+mination of the contract as per GCC Clause titled 
+‘Termination 
+for Contractor’s Default’ and shall b
+e dealt accordingly.
+Accepted
+21 / 50
+8.
+    
+ 
+Anti-Bribery a
+nd Anti-Corru
+ption 
+(ABAC) 
+Policy
+The Bidder and its employees 
+along with its Assoc
+iate/ Collaborator/ Sub-Contractors / Sub-Vendors
+/ 
+Consultants / Service Providers and all other per
+sons associated with 
+business of Employer shall s
+trictly adhere to AntiBribery and Anti-Corruption 
+(
+ABAC) Policy of Employer displayed on tender we
+bsite 
+https://ntpctender.ntpc.co.in/.
+ 
+Bidders shall certify their 
+compliance on “Anti-Bri
+bery and Anti-Corruption (ABAC) Policy" of 
+Emplo
+yer by accepting the following: “Do you certify ful
+l compliance to all 
+provisions of Bidding Documen
+t?”
+ 
+Acceptance of above condition 
+shall be considere
+d as bidder's conﬁrmation that they and their em
+ployees 
+along with their associate / collaborator/ 
+subcontractors / sub vendors / 
+consultants / servi
+ce providers shall strictly abide by “Anti-Bribery a
+nd Anti-Corruption 
+(ABAC) Policy” of Employer as 
+displayed on tender website at 
+https://ntpctender
+.ntpc.co.in/ under section ‘policy docs’ and under
+take that 
+they represent and conﬁrm that they ar
+e aware of, understand, and will 
+comply with all a
+pplicable laws and regulations relating to anticorr
+uption 
+and anti-bribery and the ABAC Policy of E
+mployer.
+Accepted
+22 / 50
+9.
+    
+ 
+Complian
+ce to “Co
+nﬂict of I
+nterest” 
+provision
+s
+Bidders shall certify their compliance on
+ 
+“Do you 
+certify full compliance to 
+all provisions of Bidding Document
+?”
+ 
+Acceptance of 
+above condition shall be 
+considered as Bidder's confirmation tha
+t
+Bidder has read 
+and understood the Cla
+use regarding “Conflict of Interest” and
+its bid is in 
+compliance to this clause.
+In case it is 
+established that Bidder has
+provided any false information in
+pursuance of 
+the aforesaid Clause, whil
+e competing for this contract, then its
+bid shall be 
+rejected and EMD/bid secur
+ity shall be forfeited.
+In case of a 
+successful bidder, if it is es
+tablished that the Bidder has not
+complied with 
+terms of aforesaid Claus
+e, during execution of contract, this
+would be 
+considered as fraudulent prac
+tice as mentioned in para 5.1 (j) of
+“Policy for Debarment from Business D
+ealings” and shall be dealt 
+accordingly.
+Accepted
+10.
+  
+ 
+Acceptan
+ce to SCC 
+clause 29 
+ABNORMAL
+LY 
+LOW RA
+TED ITEMS
+If the rates/prices finalized with successful 
+Bidder
+(s) are found to be having a variation of more tha
+n (-)10% in relation 
+to Employer’s estimate of the
+cost of work to be performed under the 
+contract, 
+then such work shall be identified as “Abnormally
+Low Rate (ALR)”.
+ 
+In such case, all the successful Bidder(s) shall be
+required to furnish an ‘Additional Bank Guarantee
+(BG)’ of an amount equal to 
+50% of the ‘Cumulati
+ve Differential Amount (against all ALR Items und
+er the 
+BOQ of the Bid) as illustrated at SCC cl 29.
+Accepted
+23 / 50
+11.
+  
+ 
+Acceptanc
+e
+ of Integ
+rity Pact (
+Not Appli
+cable for 
+this case)
+Bidders are required to 
+unconditionally accept th
+e "Integrity Pact (IP)" as per 
+Attachment-12 to the
+Bidding Documents which has been pre-signed b
+y the 
+Employer and conﬁrm acceptance of the sa
+me by accepting the following 
+condition:
+ 
+“Do you accept the provisions 
+stipulated in the at
+tached Integrity Pact”.
+ 
+Acceptance of above condition shall be considere
+d as 
+bidder's confirmation that they shall abide b
+y provisions stipulated in all 
+the 9 Sections of int
+egrity pact of the Employer as per the provisions 
+of 
+ITB/GCC.
+Accepted
+24 / 50
+12.
+  
+ 
+Acceptanc
+e of
+“Declarati
+on
+regarding
+insolvency
+,
+bankruptc
+y
+and
+Liquidatio
+n”
+Bidders are 
+required to unconditionally accept th
+e "
+“Declaration regarding insolvency, 
+bankr
+uptcy and Liquidation”
+ 
+" As 
+per clause 21 of BDS and Attachment-3L (i) /
+(ii)/(iii)/(iv) to the Bidding 
+Documents and confirm
+acceptance 
+of the same by accepting the followin
+g condition:
+ 
+“
+that no 
+proceedings for insolvency or liqui
+dation under the Insolvency and Bankruptc
+y 
+Code, 2016, or any other bankruptcy proc
+eedings under any other
+applicable 
+laws (in cases where IBC, 2016 is
+not applicable) have been admitted or is 
+pe
+nding against us and/or our Parent/Holding/
+Subsidiary company , Associate 
+or Collabor
+ator or Technology Provider__________________
+____________
+_______________________ 
+(Name of Parent/
+Holding/ 
+Subsidiary Company, Associate or 
+Collaborator/ Technology provider company
+)
+from 
+whom we have taken or intend to take
+technical and/ or ﬁnancial support for 
+qualif
+ication of bid.
+It is 
+understood that if any part of this decl
+aration is found to be false, the 
+Employer s
+hall have the right to unconditionally, imme
+diately and outrightly 
+reject my/our bid and 
+forfeit the Bid Security/ EMD.
+ 
+Further, 
+in case the bid has already culmina
+ted into a Contract, the Employer shall be 
+e
+ntitled to terminate the Contract, without p
+rejudice to any other rights or remedies 
+ava
+ilable to the Employer.
+ 
+Acceptance 
+of above condition shall be
+considered 
+as bidder's confirmation that
+they 
+shall abide by provisions stipulated in
+clause 21 
+of BDS.
+Accepted
+25 / 50
+13.
+  
+ 
+Mandatory 
+Site Visit Cl
+ause
+All 
+prospective bidders must visit the NTPC Sites 
+to familiarize themselves with 
+the nature and qua
+ntum of work and loading end site conditions/Ash
+Dyke of 
+Lara  and they have to mandatory submit
+the 
+“Site Visit Undertaking” signed by Auth
+orized Representative of Agency
+ 
+along with t
+heir bid on GEM portal.
+Bidders are 
+responsible for their own travel and o
+ther expenses related to this visit and 
+no claims f
+or additional costs or extensions of time will be e
+ntertained by 
+NTPC.
+ 
+Visited the Site and 
+Undertaking 
+is enclo
+sed.
+ 
+Acceptance of above conditions shall be considered as Bidder's conﬁrmation that any deviation to the pr
+ovisions of Bidding Documents found anywhere in their Bid Proposal, implicit or explicit, shall stand unco
+nditionally withdrawn, without any cost implication whatsoever to the Employer, failing which the bid sha
+ll be rejected and bid security shall be forfeited.
+ 
+The submission of an online bid against the subject NIT will be treated as the acceptance and compliance
+of all the Bid document terms and conditions including GTC, STC and ATC and Corrigendum conditions.
+ 
+ 
+Date:                                                                              Signature............................................            
+Place                                                      Name of Authorized person
+                                                                                       having Power
+                                                                                       of attorney …. …………………………..
+Designation.......................................
+                                                                                       Common Seal....................................
+                                                                                      Mobile no & Email …………………….
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26 / 50
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Additional Terms and Conditions
+(ATC)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27 / 50
+ 
+ 
+UNIFIED SHARED SERVICE CENTRE, CPG-1, RAIPUR
+CONTRACT & MATERIAL DEPTT
+ 
+ 
+Name of Package: 
+Job Contract for transportation of Fly ash from Ash Silos of NTPC Vindhyachal to
+abandoned pit of Gorbi Mines of NCL-Reserved for SC/ST MSE Bidders only
+ 
+(Domestic Competitive Bidding-on Enlistment Basis)
+ 
+GeM Tender Reference: 
+GEM/2026/B/
+ 
+7184731
+ 
+ 
+ 
+1.
+    
+Additional Terms & Conditions (ATC) of this tender comprises the following documents:
+a.
+    
+Section-I: Invitation for Bids (IFB)/Tender Enquiry/Notice Inviting Tender (NIT).
+b.
+    
+Section-II: Instructions to Bidders (ITB)
+c.
+     
+Section-III: Bid Data Sheet (BDS)
+d.
+    
+Section-IV: General Conditions of Contract (GCC)
+e.
+    
+Section-V: Special Conditions of Contract (SCC)
+f.
+      
+Section-VI: Technical Specifications and Terms & Conditions
+g.
+    
+Section-VII: Schedule of Quantities (SOQ) / Bill of Quantities (BOQ) (As per GeM)
+h.
+    
+Section-VIII: Forms and Procedures (Part 1 of 3, Part 2 of 3 & Par3 of 3)
+ 
+2.
+    
+Qualifying Requirements
+: Refer Section-I NIT for details. This tender is
+reserved for MSE Bidders registered in SC/ST Category only who are m
+eeting the qualifying requirements of this tender.
+ 
+3.
+       
+EMD:
+ 
+ EMD is to be submitted in the form of Bank Guarantee/ Insurance Surety Bond 
+in the format speciﬁ
+ed in the Bid Document only.
+ 
+4. EMD exemption
+: Micro and Small Enterprises (MSEs) having
+UDYAM Registration, for goods produced and services rendered, shall be exempted
+from paying Earnest Money Deposit. Such registered bidders will have to submit 
+U
+DYAM Registration Certificate
+, as proof of being MSE on GeM Portal.
+To avail MSE beneﬁt in respect of EMD exemption and purchase preference, Bidder
+should be a manufacturer of oﬀered product. Traders are excluded from purview of
+MSE benefit.
+28 / 50
+ 
+EMD exemptions as per GeM GTC shall be applicable.
+ 
+ 
+4.
+    
+A complete set of tender documents as mentioned above along with QR Requirement are enclo
+sed under “Terms and Conditions to Be Mentioned by Buyer For Bidders To Participate
+”.
+5.
+    
+Safety Policy and Banning Policy along with other formats are enclosed under “Any Other Doc
+uments and Requirement To Be Mentioned By Buyer
+”.
+6.
+    
+Terms and Conditions stipulated in ATC will supersede those in GeM GTC and STC in case of any conﬂictin
+g provisions.
+ 
+7.
+    
+Bidders are required to submit the documents as mentioned in the check list appended below while submi
+tting their bid and submit the dully filled check list online on GeM portal in ‘Additional ATC documents’.
+ 
+Formats of the documents required to be submitted as per this check list can be referred from “Section-VI
+I: Forms and Procedures” enclosed under “Tender Document” and ‘
+“Terms And Conditions To Be Men
+tioned By Buyer For Bidders To Participate”.
+ 
+ 
+8.
+    
+MSEs seeking exemption for EMD and Purchase Preference shall select appropriate option on 
+GeM portal (separately for each i.e. EMD & purchase preference) and should enclose an attest
+ed/self-certiﬁed copy of UDYAM registration certiﬁcate, failing which they run the risk of their
+bid being passed over as ineligible for the benefits applicable to MSEs.
+ 
+ 
+9. 
+Evaluation and Splitting criteria:
+ 
+Ref. SOW.
+ 
+ 
+10.  Following 
+Yellow Highlighted Attachments
+ MUST be uploaded by Bidders, failing which the oﬀ
+er shall be liable to be rejected.
+ 
+Sl
+Document Required
+Action Required
+Submitte
+d   (√ )
+1
+Attachment 1: 
+Bid Security / EMD
+(as per ITB Clause No. 14.0)-
+ 
+ 
+ 
+ 
+(i) 
+Bank Guarantee,
+ 
+strictly in the forma
+t provided in the tender document 
+(Not 
+as per GeM format, GeM format of E
+MD BG shall not be 
+acceptable)
+To be 
+uploaded onl
+ine and Original BG
+to be submitted ph
+ysically.
+ 
+ 
+(ii) 
+MSE (UDYAM only) 
+Certificate
+ tow
+ards exemption of Bid Security / EMD (if a
+pplicable).
+To be 
+uploaded onl
+ine
+ 
+29 / 50
+2
+Bidder’s 
+Basic Information
+To be uploaded onl
+ine
+ 
+3
+Enlistment Certificate, PAN & GST
+To be uploaded onl
+ine
+ 
+4
+Attachment 14: Declaration regardin
+g 
+GST
+To be uploaded onl
+ine duly filled 
+in
+ 
+5
+Attachment 15: Undertaking for 
+com
+pliance of Important Conditions of Te
+nder
+To be uploaded onl
+ine dully filled in
+ 
+6
+Attachment 3B: 
+Certificate
+ Regarding Ow
+nership change
+To be uploaded onlin
+e duly filled 
+in
+ 
+7
+Attachment 6A: 
+Safety Equipment & 
+Safet
+y Personal Protective Equipment
+To be uploaded onlin
+e duly filled 
+in
+ 
+8
+Attachment 8: 
+List of Financial 
+Documents
+To be uploaded onlin
+e duly filled 
+in
+ 
+9
+Attachment 9: General Declaration of
+Bidder
+To be declared throu
+gh undertaking 
+at Att
+achment-15
+ 
+10
+Attachment 10: Details of Accidents
+To be uploaded onlin
+e duly filled 
+in
+ 
+11
+Attachment 
+11: Electronic Fund Transfer (
+EFT) Authorisation Form
+To be uploaded onlin
+e duly filled 
+in and au
+thenticated from the 
+concerned bank
+ 
+12
+Attachment 
+12: Integrity Pact 
+as per 
+Perfo
+rma (pre-signed by employer) duly signed
+& Stamped at each page 
+[if 
+applicable]
+To be accepted in att
+achment-15
+ 
+13
+Declaration 
+on 
+Compliance to “Conflict of 
+Interest” provisions.
+To be uploaded onlin
+e.
+ 
+14
+Self-Declaration 
+by the Bidder on “
+“Decla
+ration regarding insolvency, bankrup
+tcy and 
+Liquidation”
+To be uploaded onlin
+e
+ 
+15
+Undertaking 
+regarding Site Visit
+To be uploaded onlin
+e
+ 
+30 / 50
+ 
+Bidder’s Basic Information
+ 
+ 
+1.
+      
+Name of Agency:
+ 
+2.
+      
+Address:
+ 
+ 
+ 
+ 
+3.
+      
+PAN No.:
+ 
+4.
+      
+NTPC Vendor Code (If Any):
+ 
+5.
+      
+Name of Proprietor / Partners / Directors:
+ 
+a.
+      
+…………………………………………………………………….
+b.
+      
+…………………………………………………………………….
+c.
+       
+…………………………………………………………………….
+ 
+6.
+      
+Dealing Person for this Tender:
+ 
+a.
+      
+Name:
+ 
+b.
+      
+Mobile No.:
+ 
+31 / 50
+c.
+       
+Alt. Mobile No.:
+ 
+7.
+      
+Mail ID:
+ 
+ 
+Date:
+Place:                                                              
+Signature............................................     
+(Name of Authorized person having Power of attorney) 
+ 
+Designation.......................................
+Common Seal....................................
+ 
+ 
+ 
+The followings have been ensured while submitting the bid on GeM portal:
+ 
+1.
+    
+The Bid Security/EMD BG has been prepared in NTPC format and GeM format is not used for the same
+.
+2.
+    
+MSE Certiﬁcate i.e. Udyam Certiﬁcate (only if applicable) has been submitted on the designated plac
+e of GeM portal.
+3.
+    
+Purchase preference (if applicable) has been applied separately on GeM portal at designated place.
+4.
+    
+Site Visit Undertaking, Enlistment Certiﬁcate, Attachment-14, Attachment-15 & Attachment-17 have 
+been signed and uploaded on GeM portal.
+ 
+                                                                    Bidder’s Sign & Stamp
+ 
+ 
+ 
+Place:                                                               Name of Authorized person
+                                                                           having Power
+                                                                                       of attorney …. …………………………..
+Designation.......................................              C
+ommon
+ 
+ 
+Seal....................................
+Mobile …………….
+Email …………………………..
+32 / 50
+APPENDIX-C
+TO ATTACHMENT - 3
+ 
+………… 
+PACKAGE
+FOR
+……………………………  POWER PROJECT,
+BID DOCUMENT NO. ………………
+ 
+PROFORMA OF CERTIFICATE FROM THE CEO/CFO OF THE
+COMPANY IN ACCORDANCE WITH QR
+ 
+(To be submitted by Bidder along with the Techno-Commercial Bid)
+ 
+Ref.     :                                                                                                           Date :
+ 
+To
+Central Procurement Group-I
+NTPC Ltd.,
+Plot No. 87, Sector-24, Atal Nagar
+Nava Raipur, Raipur, Chhattisgarh - 492018
+ 
+Dear Sirs,
+ 
+1.0       
+I, Mr. ............................... (CEO of the Company / CFO of the Company)* confirm 
+and undertake that the Financial results of the company for the preceding financia
+l year to be submitted in respect of the bidder as part of the bid reference no. ......
+......................... dated ........................... are under audit as on the date of Techno-
+Commercial Bid Opening for 
+“…………..Name of Package…………” and the certifica
+te from the practicing chartered accountant certifying the financial parameters for
+the preceding financial year is not available.
+ 
+ 
+                                                                                                                Yours faithfully
+                                                                                                                        (Signature)
+ 
+ 
+33 / 50
+Date    :                                                           (Name & Designation)..........................................
+ 
+Place   :                                                           (Name of the Company) ...........................
+ 
+                                                                        (Seal of Company) .....................................
+ 
+Note :              *
+Strike off whichever is not applicable.
+APPENDIX-D TO ATTACHMENT - 3
+ 
+Undertaking from Independent Statutory Auditor
+(On letter head digitally signed by a person duly authorized to Sign on behalf of the Statutory Auditor)
+ 
+Bid Ref. No:                                                                                                    DATE:
+ 
+To,
+NTPC Ltd.
+………………..
+ 
+Subject: Authentication of veracity of documents submitted by M/s ………. In support of meeting t
+he Qualifying Requirements
+ 
+Ref : IFB/Tender no. …………………..
+Name of the Package/ Tender: ………………………………………
+Dear Sir,
+M/s. ……………………………. (hereinafter called Bidder) having Registered office at……………………………………. i
+ntend to participate in above referred tender of NTPC Ltd.
+We, M/s …………………………. has been appointed as Statutory Auditor for the Bidder i.e. M/s ………………………
+… (Relevant documents on our appointment attached)
+The tender condition stipulates that the bidder shall submit supporting Documents pertaining to Technical Qual
+ifying Requirement duly verified and certified by Statutory Auditor.
+In this regard, it is hereby confirmed that we have examined the following documents, which are also attached 
+with this letter. The same has been verified from the Original Documents and/ or Client for authenticity.
+We hereby confirm that the following documents are found to be genuine and authentic.
+1. Doc ref. no. ……….. dated …….. (name of Documents)
+2. Doc ref. no. ……….. dated …….. (name of Documents)
+3. ……………
+All the aforesaid documents have been digitally signed by us as a certificate of authenticity.
+34 / 50
+*Further, we have examined the books of accounts, records, and other relevant documents, along with other n
+ecessary information and explanations furnished by M/s.____________________ (bidder) and hereby certify followi
+ng: …………………………………………….
+This certificate is issued at the request of M/s ………………. (Bidder) for the purpose of participating in tender/s.
+Thanking you,                                                                                     ………………………
+ 
+* Strike off, whichever is not applicable
+ 
+APPENDIX-E TO ATTACHMENT - 3
+ 
+Undertaking from Third Party Inspection Agency
+(on letter head digitally signed by a person duly authorized to Sign on behalf of the TPIA)
+Ref.: _______________________________________________                   Date:
+To,
+NTPC Ltd. ……………….
+Dear Sir,
+Subject: Authentication of veracity of documents submitted by M/s ……….. in support of meeting t
+he Qualifying Requirements
+Ref : IFB/Tender no. ………………….. Name of the Package/ Tender: ………………………………………
+M/s. ………………. (hereinafter called Bidder) having Registered oﬃce at ……………………… intend to participate
+in above referred tender of NTPC Ltd.
+The tender condition stipulates that the bidder shall submit supporting Documents pertaining to Qualifying Req
+uirement duly veriﬁed and certiﬁed by a speciﬁed independent Third Party Inspection Agency as per the list m
+entioned in the bidding documents.
+In this regard, it is hereby confirmed that we have examined the following documents, which are also attached 
+with this letter. The same has been verified from the Original Documents and / or Client for authenticity.
+We hereby confirm that the following documents are found to be genuine and authentic.
+1. Doc ref. no. ……….. dated …….. (name of Documents)
+2. Doc ref. no. ……….. dated …….. (name of Documents)
+3. ……………
+All the aforesaid documents has been digitally signed by us as a certificate of authenticity.
+We further confirm that we neither have any vested interest in aforesaid tender nor have any conflict of interes
+t in respect of above tender.
+This certificate is issued at the request of M/s ………………. (Bidder) for the purpose of participating in the subje
+ct tender/s.
+35 / 50
+Thanking you,                                                                                           ……………………
+* Strike off, whichever is not applicable
+ 
+ 
+ 
+ 
+ ATTACHMENT-16
+ 
+ 
+……………………………………. PACKAGE FOR ………………………………………………
+…………………. PROJECT BIDDING DOCUMENT NO. (GEM Bid no : 
+GEM/2026/
+B/7184731
+)       
+ 
+(Adherence to Employer’s Anti-Bribery and Anti-Corruption (ABAC) Policy 
+to be accepted in Attachment-15 )
+ 
+ 
+ 
+We and our employees along with our associate / collaborator/ subco
+ntractors / sub vendors / consultants / service providers shall strictly a
+bide by ‘Anti-Bribery and Anti-Corruption (ABAC) Policy’ of Employer a
+s displayed on tender website at https://ntpctender.ntpc.co.in/ under 
+section ‘policy docs’ and undertake that we represent and confirm tha
+t we are aware of, understand, and will comply with all applicable laws
+and regulations relating to anti-corruption and anti-bribery and the AB
+AC Policy of Employer. In addition, each Party agrees that so long as
+it is conducting business with the other Party or the other Party’s aﬃli
+ates, it will not, directly or indirectly, on behalf of the other Party or th
+e other Party’s aﬃliates promise, oﬀer, solicit, authorize, give or recei
+ve bribe, or other corrupt payment, item or service of value, or any ot
+her corrupt advantage, whether in cash or in kind, in relation to the pa
+rticipation in the tender.
+ 
+Date          : 
+  
+                                                                                    Name of Authorized Person 
+  
+ 
+Place         : 
+  
+                                                                                    Designation 
+  
+ 
+                                                                                                          Seal & Signature:
+                                                                                                          Mobile no.:
+36 / 50
+ 
+ 
+ 
+Page 1 of
+ 
+1
+ 
+               
+ATTACHMENT-17
+ 
+ 
+ 
+……………………………………. PACKAGE FOR
+…………………………………………………………………. PROJECT BIDDING DOCUMENT N
+O. (GEM Bid no : 
+GEM/2026/B/7184731
+)       
+ 
+(duly filled and signed format on Compliance to “Conflict of Interest” provisio
+ns to be submitted along with Bid )
+ 
+ 
+We confirm that we have read and understood the ITB Clause 3 as indicated in BDS clause 19 regardi
+ng “Conflict of Interest” and our bid is in compliance to this clause.
+ 
+In case it is established that we have provided any false information in pursuance of the aforesaid ITB* 
+Clause, while competing for this contract, then our bid shall be rejected and bid security shall be forfeite
+d.
+ 
+We also understand that in case we become successful bidder, if it is established that we have not comp
+lied with terms of aforesaid ITB Clause 3
+ 
+as indicated in BDS clause 19, during execution of contract, thi
+s would be considered as fraudulent practice as mentioned in para 5.1 (j) of “Policy for Debarment
+ 
+from
+ 
+Business
+ 
+Dealings”
+ 
+and
+ 
+shall
+ 
+be
+ 
+dealt
+ 
+accordingly.
+ 
+ 
+ 
+ 
+Date          : 
+  
+                                                                                    Name of Authorized Person 
+  
+ 
+Place         : 
+  
+                                                                                    Designation 
+  
+                                                                                                           
+                                                                                                          Seal & Signature:
+37 / 50
+                                                                                                          Mobile no.:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ATTACHMENT – 14
+PAGE 1 OF 1
+………… 
+PACKAGE
+FOR
+ 
+…………….. POWER PROJECT,
+ 
+BID DOCUMENT NO. 
+(GEM Bid no : 
+GEM/2026/B/7184731
+)       
+ 
+DECLARATION REGARDING GST
+ 
+(To be submitted with Techno Commercial Bid duly filled in and signed)
+ 
+Bidder's Name and Address:                                                  To
+NTPC Ltd.
+……………………..
+……………………..
+……………………..
+Declaration regarding GST
+ 
+38 / 50
+We hereby declare and confirm that we have considered the Following GST Rates while quoting the Price on Ge
+M portal:
+ 
+Sl. N
+o.
+Item Description
+HSN
+Code
+Mechanism
+(Basis of Charge)
+(Strike out whichever is not appli
+cable)
+1
+Transportation 
+of Ash
+ 
+Reverse Charge 
+5%
+Forward Char
+ge@18%
+ 
+ 
+ 
+Notes:
+(1)
+   
+During Execution of the Contract applicable GST shall be paid/reimbursed by the Employer on submissi
+on of (GSTIN) Invoice along with Consignment
+ Note issued by Contractor.
+(2)
+   
+The Declaration of the above Scheme shall be supported by authentic documents so that it may be est
+ablished that scheme declared above is in line with declaration given to taxation authorities.
+ 
+ 
+ 
+ 
+ 
+Date          : 
+  
+                                                                                    Name of Authorized Person 
+  
+ 
+Place         : 
+  
+                                                                                    Designation 
+  
+                                                                
+ATTACHMENT – 15
+                                               (GEM Bid no :
+ 
+GEM/2026/B/7184731
+)       
+(UNDERTAKING FOR COMPLIANCE OF IMPORTANT CONDITIONS OF TENDER BY BIDDER)
+(To be uploaded online on the portal duly filled in and signed)
+ 
+To,
+ 
+NTPC Ltd.,
+39 / 50
+CPG-1, USSC Raipur
+ 
+Dear Sirs,
+ 
+We hereby conﬁrm that, we have carefully read the provisions of the following undertakings and accep
+ting the same:
+ 
+Sl. No.
+Undertaking T
+ype
+Provisions of Undertaking
+Acceptance
+1.
+    
+ 
+Nil Deviation 
+Certificate
+No deviation, 
+whatsoever, is permitted by the E
+mployer to the provisions of Bidding 
+Doc
+uments. The Bidders are advised that wh
+ile making their Bid proposals and 
+quotin
+g prices, all conditions may appropriatel
+y be taken into consideration. 
+Bidders ar
+e required to certify their full compliance
+to the complete Bidding 
+Documents and 
+its subsequent Amendment(s) /
+Clariﬁcation(s) / Addenda / 
+Errata, if any,
+issued by the Employer by accepting the
+following condition:
+ 
+“Do you 
+certify full compliance to all Provisi
+ons of Bid Doc”
+ 
+Acceptance of above 
+condition shall be consider
+ed as Bidder's conﬁrmation that any deviation to
+the any Provisions found anywhere in their Bid Pr
+oposal, implicit or 
+explicit, shall stand unconditio
+nally withdrawn, without any cost implication 
+wh
+atsoever to the Employer, failing which the bid s
+ecurity shall be 
+forfeited. 
+Accepted
+40 / 50
+2.
+    
+ 
+Declaration o
+n 
+Qualifying 
+Requirement
+s
+Bidders are 
+required to conﬁrm acceptance of th
+e same by accepting the following 
+condition:
+ 
+“Do you certify full 
+compliance on Qualifying Re
+quirements.”
+Acceptance of 
+above condition shall be consider
+ed as bidder's confirmation to the 
+following:
+ 
+a)
+                  
+The number of reference 
+Plants/Order
+s quoted by Bidder in the bid, for establishing co
+mpliance to the 
+speciﬁed Qualifying Requiremen
+t (QR), are in accordance with the provision 
+speci
+fied above.
+ 
+b)
+          
+The reference Plants/ Orders/ 
+declared sh
+all only be considered for evaluation/ establishin
+g compliance to 
+Qualifying Requirement (QR).
+ 
+ 
+c)
+                  
+No change or substitution in 
+respect o
+f reference Plants/Orders for meeting the specifie
+d Qualifying 
+Requirement (QR) shall be oﬀered b
+y the bidder.
+Applicable
+3.
+    
+ 
+Declaration o
+n Safety Polic
+y
+Bidders are required to confirm 
+acceptance of the
+same by accepting the following condition:
+ 
+“Do you accept the Safety Policy 
+of NTPC”.
+ 
+Acceptance of 
+above condition shall be consider
+ed as bidder's conﬁrmation that they shall 
+abide 
+by Safety Policy of the Employer as per the provi
+sions of GCC 
+Sub-Clause 10.4.9.
+Accepted
+41 / 50
+4.
+    
+ 
+Declaration o
+n Banning
+Policy
+Bidders are required to confirm 
+acceptance of the
+same by accepting the following condition:
+ 
+“Do you accept Withholding and 
+Banning of Busin
+ess Dealing Policy of NTPC”
+ 
+Acceptance of above condition 
+shall be considere
+d as bidder's conﬁrmation that they shall abide b
+y Banning 
+Policy of the Employer displayed on NT
+PC’s website 
+http://www.ntpctender.ntpc.co.in in
+dicating his compliance to the provisions 
+of ITB S
+ub-Clause 32.
+ 
+The version of Policy for 
+Debarment from Busines
+s dealings presently followed by NTPC is Rev-4.
+Accepted
+5.
+    
+ 
+Declaration o
+n Fraud Preve
+ntion 
+Policy
+Bidders are required to confirm 
+acceptance of the
+same by accepting the following condition:
+ 
+“Do you accept the Fraud 
+Prevention Policy of NT
+PC”.
+ 
+Acceptance of above condition 
+shall be considere
+d as bidder's conﬁrmation that they shall abide b
+y Fraud 
+Prevention Policy of the Employer display
+ed on NTPC’s website 
+http://www.ntpctender.ntpc
+.co.in indicating his compliance to the provisions
+of ITB Sub-Clause 31.
+Accepted
+6.
+    
+ 
+Declaration o
+n Local Conte
+nt
+Bidders are required to confirm 
+acceptance of the
+same by accepting the following condition:
+ 
+“Confirm that you are a LOCAL 
+SUPPLIER, and the
+LOCAL CONTENT included in the PACKAGE FOR C
+OMPLETE SCOPE OF 
+WORK meets the MINIMUM L
+OCAL CONTENT requirements of the Tender.”
+ 
+Acceptance of above condition 
+shall be considere
+d as Bidder’s conﬁrmation that Bidder is meeting 
+the 
+requirement of fulﬁl the requirements of Loca
+l content for Class-I Local 
+Supplier.
+ 
+In case aforesaid 
+Conﬁrmation/Certiﬁcate furnish
+ed by Contractor/Vendor is not in line with 
+the de
+claration in respect of Local content in their bid, s
+ame shall be 
+treated as false declaration and will 
+be dealt in line with the Fraud 
+Prevention Policy o
+f NTPC.
+Accepted
+42 / 50
+7.
+    
+ 
+Declaration o
+n Restrictions
+   on   
+procure
+ment from a 
+Bidder of a co
+untry which s
+hares a land b
+order with 
+Ind
+ia
+Bidders are required to confirm 
+acceptance of the
+same by accepting the following condition:
+ 
+“Do you certify full compliance 
+on clause as per t
+ender documents on Restrictions on procuremen
+t from a 
+Bidder of a country which shares a land 
+border with India?” / “Do you certify 
+full complian
+ce to all provisions of Bid Documents?”
+ 
+Acceptance of above condition 
+shall be considere
+d as Bidder's conﬁrmation that Bidder has read a
+nd 
+understood the ITB Clause regarding “Restricti
+ons on procurement from a 
+Bidder of a country w
+hich shares a land border with India” and its bid i
+s in 
+compliance to this clause.
+ 
+In case it is established that 
+Bidder has provided 
+any false information in pursuance of the aforesai
+d ITB 
+Clause, while competing for this contract, t
+hen its bid shall be rejected.
+ 
+In case of a successful bidder, 
+if it is established t
+hat the Bidder has not complied with terms of afo
+resaid 
+ITB Clause, during execution of contract, t
+his would be a sufficient ground 
+for immediate ter
+mination of the contract as per GCC Clause titled 
+‘Termination 
+for Contractor’s Default’ and shall b
+e dealt accordingly.
+Accepted
+43 / 50
+8.
+    
+ 
+Anti-Bribery a
+nd Anti-Corru
+ption 
+(ABAC) 
+Policy
+The Bidder and its employees 
+along with its Assoc
+iate/ Collaborator/ Sub-Contractors / Sub-Vendors
+/ 
+Consultants / Service Providers and all other per
+sons associated with 
+business of Employer shall s
+trictly adhere to AntiBribery and Anti-Corruption 
+(
+ABAC) Policy of Employer displayed on tender we
+bsite 
+https://ntpctender.ntpc.co.in/.
+ 
+Bidders shall certify their 
+compliance on “Anti-Bri
+bery and Anti-Corruption (ABAC) Policy" of 
+Emplo
+yer by accepting the following: “Do you certify ful
+l compliance to all 
+provisions of Bidding Documen
+t?”
+ 
+Acceptance of above condition 
+shall be considere
+d as bidder's conﬁrmation that they and their em
+ployees 
+along with their associate / collaborator/ 
+subcontractors / sub vendors / 
+consultants / servi
+ce providers shall strictly abide by “Anti-Bribery a
+nd Anti-Corruption 
+(ABAC) Policy” of Employer as 
+displayed on tender website at 
+https://ntpctender
+.ntpc.co.in/ under section ‘policy docs’ and under
+take that 
+they represent and conﬁrm that they ar
+e aware of, understand, and will 
+comply with all a
+pplicable laws and regulations relating to anticorr
+uption 
+and anti-bribery and the ABAC Policy of E
+mployer.
+Accepted
+44 / 50
+9.
+    
+ 
+Complian
+ce to “Co
+nﬂict of I
+nterest” 
+provision
+s
+Bidders shall certify their compliance on
+ 
+“Do you 
+certify full compliance to 
+all provisions of Bidding Document
+?”
+ 
+Acceptance of 
+above condition shall be 
+considered as Bidder's confirmation tha
+t
+Bidder has read 
+and understood the Cla
+use regarding “Conflict of Interest” and
+its bid is in 
+compliance to this clause.
+In case it is 
+established that Bidder has
+provided any false information in
+pursuance of 
+the aforesaid Clause, whil
+e competing for this contract, then its
+bid shall be 
+rejected and EMD/bid secur
+ity shall be forfeited.
+In case of a 
+successful bidder, if it is es
+tablished that the Bidder has not
+complied with 
+terms of aforesaid Claus
+e, during execution of contract, this
+would be 
+considered as fraudulent prac
+tice as mentioned in para 5.1 (j) of
+“Policy for Debarment from Business D
+ealings” and shall be dealt 
+accordingly.
+Accepted
+10.
+  
+ 
+Acceptan
+ce to SCC 
+clause 29 
+ABNORMAL
+LY 
+LOW RA
+TED ITEMS
+If the rates/prices finalized with successful 
+Bidder
+(s) are found to be having a variation of more tha
+n (-)10% in relation 
+to Employer’s estimate of the
+cost of work to be performed under the 
+contract, 
+then such work shall be identified as “Abnormally
+Low Rate (ALR)”.
+ 
+In such case, all the successful Bidder(s) shall be
+required to furnish an ‘Additional Bank Guarantee
+(BG)’ of an amount equal to 
+50% of the ‘Cumulati
+ve Differential Amount (against all ALR Items und
+er the 
+BOQ of the Bid) as illustrated at SCC cl 29.
+Accepted
+45 / 50
+11.
+  
+ 
+Acceptanc
+e
+ of Integ
+rity Pact
+Bidders are required to 
+unconditionally accept th
+e "Integrity Pact (IP)" as per 
+Attachment-12 to the
+Bidding Documents which has been pre-signed b
+y the 
+Employer and conﬁrm acceptance of the sa
+me by accepting the following 
+condition:
+ 
+“Do you accept the provisions 
+stipulated in the at
+tached Integrity Pact”.
+ 
+Acceptance of above condition shall be considere
+d as 
+bidder's confirmation that they shall abide b
+y provisions stipulated in all 
+the 9 Sections of int
+egrity pact of the Employer as per the provisions 
+of 
+ITB/GCC.
+Accepted
+46 / 50
+12.
+  
+ 
+Acceptanc
+e of
+“Declarati
+on
+regarding
+insolvency
+,
+bankruptc
+y
+and
+Liquidatio
+n”
+Bidders are 
+required to unconditionally accept th
+e "
+“Declaration regarding insolvency, 
+bankr
+uptcy and Liquidation”
+ 
+" As 
+per clause 21 of BDS and Attachment-3L (i) /
+(ii)/(iii)/(iv) to the Bidding 
+Documents and confirm
+acceptance 
+of the same by accepting the followin
+g condition:
+ 
+“
+that no 
+proceedings for insolvency or liqui
+dation under the Insolvency and Bankruptc
+y 
+Code, 2016, or any other bankruptcy proc
+eedings under any other
+applicable 
+laws (in cases where IBC, 2016 is
+not applicable) have been admitted or is 
+pe
+nding against us and/or our Parent/Holding/
+Subsidiary company , Associate 
+or Collabor
+ator or Technology Provider__________________
+____________
+_______________________ 
+(Name of Parent/
+Holding/ 
+Subsidiary Company, Associate or 
+Collaborator/ Technology provider company
+)
+from 
+whom we have taken or intend to take
+technical and/ or ﬁnancial support for 
+qualif
+ication of bid.
+It is 
+understood that if any part of this decl
+aration is found to be false, the 
+Employer s
+hall have the right to unconditionally, imme
+diately and outrightly 
+reject my/our bid and 
+forfeit the Bid Security/ EMD.
+ 
+Further, 
+in case the bid has already culmina
+ted into a Contract, the Employer shall be 
+e
+ntitled to terminate the Contract, without p
+rejudice to any other rights or remedies 
+ava
+ilable to the Employer.
+ 
+Acceptance 
+of above condition shall be
+considered 
+as bidder's confirmation that
+they 
+shall abide by provisions stipulated in
+clause 21 
+of BDS.
+Accepted
+47 / 50
+13.
+  
+ 
+Mandatory 
+Site Visit Cl
+ause
+All 
+prospective bidders must visit the NTPC Sites 
+to familiarize themselves with 
+the nature and qua
+ntum of work and loading end site conditions/Ash
+Dyke of 
+Lara  and they have to mandatory submit
+the 
+“Site Visit Undertaking” signed by Auth
+orized Representative of Agency
+ 
+along with t
+heir bid on GEM portal.
+Bidders are 
+responsible for their own travel and o
+ther expenses related to this visit and 
+no claims f
+or additional costs or extensions of time will be e
+ntertained by 
+NTPC.
+ 
+Visited the Site and 
+Undertaking 
+is enclo
+sed.
+ 
+Acceptance of above conditions shall be considered as Bidder's conﬁrmation that any deviation to the pr
+ovisions of Bidding Documents found anywhere in their Bid Proposal, implicit or explicit, shall stand unco
+nditionally withdrawn, without any cost implication whatsoever to the Employer, failing which the bid sha
+ll be rejected and bid security shall be forfeited.
+ 
+The submission of an online bid against the subject NIT will be treated as the acceptance and compliance
+of all the Bid document terms and conditions including GTC, STC and ATC and Corrigendum conditions.
+ 
+ 
+Date:                                                                              Signature............................................            
+Place                                                      Name of Authorized person
+                                                                                       having Power
+                                                                                       of attorney …. …………………………..
+Designation.......................................
+                                                                                       Common Seal....................................
+                                                                                      Mobile no & Email …………………….
+ 
+.
+2
+. 
+Buyer Added Bid Specific ATC
+Buyer uploaded ATC document 
+Click here to view the file
+.
+अ&वीकरण
+अ&वीकरण
+/Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent Authority
+in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses on the
+bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in the bidding
+process due to these ATCs and due to modification of technical specifications and / or terms and conditions
+governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and resultant
+contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of bidding process
+without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+48 / 50
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any Category
+item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for 
+attached
+categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the case
+may be.
+15
+. 
+Any ATC clause in contravention with GeM GTC Clause 4 (xiii)(h) will be invalid. In case of multiple L1 bidders
+against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1 bidders
+through a Random Algorithm executed by GeM system.
+16
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+17
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the same
+must be added through bunching category based items or by bunching custom catalogs or bunching a BoQ
+with the main category based item, the same must not be done through ATC or Scope of Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of this
+bid, they can raise their representation against the same by using the Representation window provided in the bid
+details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer is duty
+bound to reply to all such representations and would not be allowed to open bids if he fails to reply to such
+representations.
+All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws, including
+the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code on Wages,
+2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working Conditions
+Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into force by the
+Government of India.
+For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or
+notifications, the corresponding provisions of the pre-existing labour enactments (such as The Minimum
+Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The Equal
+Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules) shall
+continue to remain applicable.
+The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:
+All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove; and
+All operative provisions of the erstwhile Labour Laws until their complete substitution.
+All obligations relating to wages, social security, safety, working conditions, industrial relations etc.
+and any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-
+compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate
+action in accordance with the contract and applicable law.
+49 / 50
+This Bid is governed by the 
+सामाeय
+ 
+िनयम
+ 
+और
+ 
+शतi
+/General Terms and Conditions
+, conditons stipulated in Bid and
+Service Level Agreement
+ specific to this Service as provided in the Marketplace. 
+However in case if any condition
+specified in 
+सामाeय
+ 
+िनयम
+ 
+और
+ 
+शतi
+/General Terms and Conditions is contradicted by the conditions stipulated in Service
+Level Agreement, then it will over ride the conditions in the General Terms and Conditions.
+जेम
+ 
+क
+ 
+सामाeय
+ 
+शत.
+ 
+के
+ 
+खंड
+ 26 
+के
+ 
+संदभ%
+ 
+म<
+ 
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+के
+ 
+बडर
+ 
+से
+ 
+खरद
+ 
+पर
+ 
+4ितबंध
+ 
+के
+ 
+संबंध
+ 
+म<
+ 
+भारत
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+का
+ 
+कोई
+ 
+भी
+ 
+बडर
+ 
+इस
+ 
+िनवदा
+ 
+म<
+ 
+बड
+ 
+देने
+ 
+के
+ 
+िलए
+ 
+तभी
+ 
+पा 
+ 
+होगा
+ 
+जब
+ 
+वह
+ 
+बड
+ 
+देने
+ 
+वाला
+ 
+स[म
+4ािधकार
+ 
+के
+ 
+पास
+ 
+पंजीकृत
+ 
+हो
+।
+बड
+ 
+म<
+ 
+भाग
+ 
+लेते
+ 
+समय
+ 
+बडर
+ 
+को
+ 
+इसका
+ 
+अनुपालन
+ 
+करना
+ 
+होगा
+ 
+और
+ 
+कोई
+ 
+भी
+ 
+गलत
+ 
+घोषणा
+ 
+;कए
+ 
+जाने
+ 
+व
+ 
+इसका
+अनुपालन
+ 
+न
+ 
+करने
+ 
+पर
+ 
+अनुबंध
+ 
+को
+ 
+तlकाल
+ 
+समाm
+ 
+करने
+ 
+और
+ 
+कानून
+ 
+के
+ 
+अनुसार
+ 
+आगे
+ 
+क
+ 
+कानूनी
+ 
+कार%वाई
+ 
+का
+ 
+आधार
+ 
+होगा
+।
+/In terms of GeM GTC clause
+26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a land border with India will
+be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake compliance of this and any false
+declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in accordance with the laws.
+---
+धeयवाद
+धeयवाद
+/Thank You---
+50 / 50

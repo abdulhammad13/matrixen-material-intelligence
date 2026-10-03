@@ -1,0 +1,566 @@
+NTPC Limited
+Vendor Development Cell (VDC)
+Subject: Qualifying requirement & other details for Centralised vendor enlistment –
+A) Details of MEG (Material Enlistment Group)
+MEG No 6MEG-01B     (Category-1)
+MEG Description
+Responsibility Centre VDC
+B)
+1
+The applicant should be manufacturer of vertical type coal pulverizers and should have 
+supplied such coal pulverizers to at least two coal fired units, each of 200 MW or higher 
+capacity, located at two different power stations and which are in successful operation 
+for at least two years as on the date of application
+Option-2:
+a) The applicant should be manufacturer of grinding rolls of Raymond Bowl type
+(XRP/HP) coal pulverizers & they should have supplied at least 75 nos. (Seventy
+five nos.) of grinding  rolls of  36 inch (Thirty six inches) or higher size (& of
+same type** which applicant wants to be enlisted) with matching bull ring
+segments, for Raymond Bowl type (XRP/HP) coal pulverizers during the last five
+years in India.
+AND
+b) The applicant should have supplied 39 nos. of grinding rolls (Raymond Bowl
+type XRP/HP) of any type** & any size between 28 inch to 63 inch & they
+should have performed for 6000 hours and more in India.
+AND
+c) 12 nos. of grinding rolls supplied by the applicant of size 36 inch or higher and
+type** for which the applicant wants to get enlisted should have performed for
+6000 hours or more in India.
+AND
+d) Applicant should either himself or through a company/agency in which he has
+controlling stake, own following manufacturing & testing facility for use by the
+applicant for manufacturing of the grinding rolls
+Manufacturing facilities 
+i) Capability to manufacture Grinding rolls of size up to 43 inch.
+ii) Bull ring segments Induction / cupola /induction arc furnace for melting 
+iron two Tons or above
+iii) Machining facilities for inside bore
+iv) Centrifugal Casting machine to accommodate grinding rolls of 2000kg 
+(in case applicant wants to get enlisted for Ni-hard type rolls).
+Testing Facilities
+i) Testing Chemical composition ii) Magnetic Particle testing machine 
+Option-3
+a) The applicant should be an Indian manufacturer of grinding rolls & they should 
+have supplied at least 24 numbers of Grinding Rolls of any type & any size for 
+vertical type Coal pulverizes as on the date of application.
+And
+b) The applicant should have ongoing collaboration with a manufacturer who 
+meets all the qualifying requirements as stipulated at clause at option-2 (in 
+India or abroad)
+And
+c) The applicant s hall furnish a deed of joint undertaking (DJU) with his 
+collaborator for successful performance of the grinding rolls to be offered by him. 
+The deed of joint undertaking shall be submitted along with the enlistment 
+application, failing which enlistment application shall not be considered.
+And
+d)
+e)
+And
+f) The applicant should give a certificate that his collaborator is not applying for 
+enlistment. If it is found that his collaborator is already enlisted or the 
+collaborator is also applying for enlistment, then the application of the applicant 
+adopting this option-3 shall not be considered. 
+Notes
+i. **-Type of Grinding Roll means “Sinter Cast” / “ Duocast”/ “Xwin”/ “High 
+Performance” (“HP”) / “Ni-hard”/”High chrome”/”Carbide inserts” etc. Type 
+may be broadly defined as per the base constituents of material used for 
+production of grinding elements and process of production such as Ni-hard or 
+Sintercast or Duocast or XWIN or Carbide Inserts or High Performance or High 
+chrome type etc.
+ii. For consideration of Type of Grinding Roll against qualifying requirement 
+clauses (a) and (c)  of option-2, the type of grinding roll should be mentioned at 
+one place anywhere either in the Purchase Order or in invoice or in test certificate 
+or in Quality plan or in Performance certificate related to that PO. 
+Even if the type description is not given in PO or invoice, then also type can be 
+considered from any one of the other documents as mentioned above.
+iii. The applicant must declare the type of grinding roll for which they want to get 
+enlisted in NTPC in this enlistment group. If they want to get enlisted for more 
+than one type, then they must give separate set of documents for all those types.
+iv. Last five year as given at clause 2(a) shall be reckoned from the date of final 
+submission of online application in NTPC enlistment portal & supply invoice 
+dates should fall in this period, irrespective of the date of purchase orders.
+v. To be considered as qualified, an applicant has to meet all the requirements of either 
+of Option-1 or Option-2 or Option-3 .
+C) Documents to be submitted as proof of meeting the stipulated Qualifying 
+Requirements:
+Option-1 :- Self declaration along with documentary evidence like details of 
+manufacturing facilities/ Pulverizers supplied, details of their operation etc.
+Option-2:-
+Clause (a) - Details of Manufacturing, ISO certificate etc. along with Purchase 
+orders received from Customers, invoices/ Order completion certificate as applicable 
+etc.
+Clause (b) & Clause (c):- Purchase orders & related performance certificates 
+issued by the Customer. Performance certificate should show running hours completed 
+Clause (d):- Declaration on manufacturing & testing facilities, proof of ownership 
+of the Facilities etc. 
+Option-3
+Clause (a)- Details of manufacturing facilities, Copies of Purchase Orders & 
+related execution proofs like invoices etc.
+Clause (b) & (c):-
+i) Deed of Joint undertaking as asked ii) copy of Collaboration agreement
+ii) Proofs of Collaborator meeting the requirements given in option-2
+Clause (d) - Declaration on manufacturing & testing facilities, proof of ownership 
+of the facilities etc.
+Clause (e) & (f) :- Declarations as asked by the applicant in their letter head 
+In addition to above documents Applicant must give declaration about the type 
+of grinding roll for which they want to get enlisted in NTPC in this
+enlistment group (Notes-iii above ). This declaration must be given in 
+their letter head.
+NTPC can ask more documents if felt necessary. Also all documents/ facilities can be verified/ 
+assessed if required. 
+D) Other documents to be submitted:
+E) Other 
+Note-1
+Definition of Similar work:
+Other 
+Note-2
+The executed value means basic value of quantity of similar works executed / supplied 
+against the reference PO (also applicable to partly executed POs as on the date of 
+application). Where PO value is composite (i.e., including taxes etc.) the applicant to give 
+item-wise break up of composite PO mentioning basic value, taxes etc.
+                                                                                   
+NTPC LTD.
+TECHNICAL SPECIFICATIONS FOR PROCUREMENT 
+OF WEAR PARTS FOR RAYMOND (XRP/HP) TYPE 
+COAL PULVERISERS
+Document   No.-----------------(Rev-----------) 
+TECHNICAL SPECIFICATIONS FOR PROCUREMENT 
+OF WEAR PARTS FOR RAYMOND (XRP/HP} TYPE 
+COAL PULVERISERS
+1.0.0 Intent of the Specification
+The intent of the specification is to procure "wear parts"(Grinding Rolls and Bull Ring
+Segments) for XRP-(Mill model to be specified by the Station) type coal pulverisers of
+__________ Make(Mill  make  to  be  specified   by  the  Station)  operating  at   NTPC
+___________ (Station name to be specified by the Stations). 
+It is not the intent to specify completely herein, all aspects of material selection and 
+manufacturing process, nevertheless, the wear parts shall conform in all aspects to high 
+standards of material quality , manufacturing process and workmanship and shall be 
+capable of performing in continuous commercial operation, in a manner acceptable to 
+the Owner, who will interpret the meaning of specification, drawings and shall have right 
+to reject or accept any work or material which in his assessment isnot complete tomeet 
+the requirement of this specification. 
+Bidder is requested to carefully examine and understand the specification and. seek 
+clarifications, if required , to ensure that they have understood the specification . The 
+Bidder's offer should not carry any sections like clarifications, interpretations and/or 
+assumptions. 
+2.0.0 Project   Information
+Name of the Project 
+No. and size of Units
+Type of Coal Pulverisers
+No. of coal Pulverisers per Unit
+Total cumulative pulverizes running hours 
+for which wear parts to besupplied
+(Name to be specified by the Station)
+(Number and size of Units to be
+specified by thestation))
+XRP/HP-(Mill model to be specified by 
+the Station)
+(To be specified by the Station)
+(To be specified by the Station)
+3.0.0 Applicable Drawings
+The draw ings listed below and forming part o f the specification ar e for Bidder's
+information. All these drawings are indicative of Owner's requirement to enable the 
+Bidder to make a suitable offer . It shall, however, be responsibility of the Contractor to 
+ensure fitment of the supplied material.
+i. Drawing No
+ii. Drawing No.
+Note: (Stations to include relevant drawings)
+Any variation/alteration from the listed drawings shall be clearly brought out in the 
+technical deviation schedule with implicat ions, if any . Such variat ions may be 
+acceptable, after assessment of its implication and shall be subject to Owner's approval.
+4.0.0 Scope of the Proposal
+The scope of the proposal shall include  manufacturing ,  testing, packaging, 
+transportation, delivery on F.O.R (site) basis of wear parts of XRP/HP-( Mill model to be 
+specified by the Station) type coal Pulverisers  comprising of following: 
+i. Grinding Rolls
+ii. Bull Ring segments
+The scope of proposal shall also include superv1s1on of installation (supervision of 
+installation of 1st set of wear parts in mill) of above wear parts. 
+4.1.0 The scope of supply of Contractor shall include supply of mill wear parts that is set 
+of grinding rolls and set of bull ring segments  for  cumulative -------- hrs (to be 
+specified by station) of coal pulverisers such that these wear parts are compatible with 
+each other.
+Note 2 ;- Together three nos. g rinding rolls required for one pulveriser shall form "One set of Grinding 
+rolls" and bu ll ring segment qua ntity req uired f or one pu lveriser shall form "One set of Bull Ring 
+Segments" . 
+4.2.0 The quantity of wear parts shall be such that cumulative pulverizers running hours
+(to be specified by station) of mills can be achieved with pu lveriser capacity not less 
+than 90% of its maximum capacity at rated fineness (Refer Note - 3) for the specified 
+range of coals . The Bidder shall guarantee the life of each type of wear part (i.e. 
+grinding roll, bull ring segments) and this guaranteed life of respe ctive wear parts shall 
+be the basis for calculating the quantity of wear parts . The guarantee for wear parts life 
+shall be in line with theguarantee requirement specified in subsequent sections. 
+Note 3: The rated fineness not less than 70% through 200 mesh and 99% through 50 mesh.
+4.3.0 In the bid proposal the Bidder is required to offer the wear parts in such quantities 
+that the cumulative guaranteed wear life for each type of wear part (i.e. grinding rolls
+and bull ring segments) is not less than the number of cumulative running hours as 
+specified (to be specified by station) . The required quantity/sets of wear parts shall be 
+arrived at by rounding off the fractional part of the set to next higher whole number. 
+4.4.0 The wear life guarantee for each set and type of wear parts shall be from within 
+the range of 6000 Hrs. to 12000 Hrs. and the quantity of wear parts shall be calculated 
+based on guaranteed wear life from within the above range only. An example for 
+arriving at number of sets of wear parts for the purpose of Bidder's quotation is given 
+below at Table-1: 
+Example
+Table-I 
+S.No. Description Bidder A Bidder B
+1. Number of coal pulverisers as per specification 8 8
+2. Guaranteed Wear Life of each set of grinding 
+rolls
+6000 8000
+3. Guaranteed Wear Life of each set of bull ring 
+segments
+6000 18000
+4. Number of sets of grinding rolls required to be
+quoted for cumulative running hours of 200000 200000/6000=
+33.33 i.e. 34 sets
+200000/8000=
+25 sets
+5. Total number of sets of bull ring segment 
+required to be quoted. 200000/6000=
+33.33 i.e. 34 sets
+200000/8000=
+25 sets
+5.0.0 Evaluation Criteria
+The bids guaranteeing wear life less than 6000 Hrs. will not be considered for 
+evaluation and shall be rejected . Further no evaluation credit will be given for 
+guaranteed wear life in excess of 12000 Hrs. 
+The evaluation of the bids shall be based on the total price of (a) sets of bull ring 
+segments and (b) sets of grinding rolls quoted by the Bidder in accordance with the 
+clause 4.0.0 "Scope of the Proposal". 
+6.0.0 Material of Construction
+The material of construction of wear parts shall be selected taking into account highly 
+abrasive nature of coal resulting from coal contamination with silica sand and Alpha-
+quartz. The coal and ash data is specified elsewhere in the specification and same shall 
+be considered for selection of wear part material and offering guarantee for wear life.
+SI. No. Name of Wear Part Material
+1. Bull Ring Segments Ni Hard, High Chrome etc.
+2. Grinding Rolls Ni Hard, High Chrome
+carbide insert, sinter cast etc.
+7.0.0 Coal Characteristics
+The range of coal and ash characteristics which is likely to be supplied to the mills is 
+enclosed at Annexure-1. Bidder is requested to familiarize themselves with the detailed 
+coal and ash characteristics, if required. 
+The material of construction of wear parts shall be selected taking into account highly 
+abrasive nature of coal resulting from coal contamination with silica sand and Alpha-
+quartz. Bidders shall consider the effect of these shale , sand stone and alpha quartz 
+content for offering guaranteed wear life of Mill wear parts. 
+8.0.0 Guarantees
+The quantity of wear parts shall be such that cumulative running hours operation of mills 
+(station to specify) can be achieved. 
+The Bidder shall guarantee the wear parts for wear life and fitment of the wear parts in
+the existing mills and furnish these guarantees in Schedule-I.
+8.1.0 Guaranteed Wear Life;- The "wear parts", i.e. each set of grinding rolls and each 
+set of bull ring segments shall be guaranteed for wear life in number of hours of mill 
+operation with mill capacity not less than 90% of its maximum capacity at rated fineness 
+(refer note-3) for the specified range of coals during this period. 
+8.1.1 The guarantee on wear life shall be provided for each type of wear part separately 
+(i.e. Grinding rolls and bull ring segment) . The guaranteed wear life for each set of 
+grinding rolls, each set of bull ring segments shall be within the range of 6000 to 12000
+"Operating Hours of mill" (with mill capacity not less than 90% of its maximum capacity 
+at rated fineness (refer note-3) for the specified range of coals). Bidders offering wear 
+life guarantee less than 6000 operating hours shall not be considered for evaluation. 
+Further, Bidder's offering wear life guarantee higher than 12000 Operat ing Hours shall 
+not be given any evaluation credit beyond 12000 Hrs. The guaranteed wear life of set of 
+bull ring segments shall be 'in multiples of wear life guaranteed for set of grinding 
+rolls(i.e. If wear life of set of grinding rolls is guaranteed as 6000 Hrs , the life of set of 
+bull ring segments shall either 6000 Hrs. or12000 Hrs.).
+8.1.2 The mill wear part guarantee shall be valid for complete range of coal and ash 
+characteristics specified in this specification . No correction in guaranteed wear life 
+shall be allowed on the basis of YGP index.
+8.2.0 Wear Part Warrantee ;- The Bidder shall guaranteethe wear life of wear partsin
+number of mill operating hours(refer Note4). The guarantee/warrantee on wear life shall 
+be demonstrated on all thepulverisers.
+Note 4:Operating Hours of mill for the purpose of wear part guarantee are defined as hours of mill operation ator 
+near to itsMaximum Capacity but not less than 90% of maximum mill output at mill fineness not less than 70% thru 
+200 mesh and 99% thru 50 mesh. 
+8.3.0 Demonstration of Pulverisers Wear Part Guarantee:- 
+8.3.1 The guarantee/warrantee for the life of mill wear parts shall be demonstrated by 
+the contractor during Guarantee Trial Period (GTP). The GTP shall commence 
+after successful operation of the pulveriser is established continuously for a period 
+of not less than 12 hours at or near to its maximum capacity and fineness not less 
+than 70% thru 200 mesh and 99% thru 50 mesh with the newly installed wear 
+parts. The GTP shall end as soon as first set of grinding rolls and first set of bull 
+ring segments have completed their actual wear life or the guaranteed wear life 
+(whichever is earlier) in first fourpulverisers.
+8.3.2 Each type of wear parts (i.e. set of grinding rolls and set of bull ring segments) 
+shall be considered to have completed their guaranteed/warranted wear life when 
+during GTP the first set of these parts has successfully demonstrated their 
+capability to achieve at least 90% of the maximum pulveriser grinding capacity (at 
+Pulverised Coal Fineness not less than 70% thru 200 mesh and 99 % thru 50 
+mesh) during the guaranteed wear life of wear parts . In case the capacity of the 
+pulveriser falls by more than 10% and/or pulverized coal fineness falls below 70%
+thru 200 mesh or 99% thru 50 mesh necessitating replacement of particular type of 
+wear part (i.e. set of grinding rolls and/or set of bull ring segments) to restore the 
+capacity and/or fineness, the wear(set of wear parts) partshall be deemed to have 
+outlived its wear life. The capacity of mill shall be tested on all mills during the GTP 
+at following intervals, viz. (i) at commencement of GTP, (ii) at completion of 25% of 
+guaranteed wear life of grinding rolls, (iii) at completion of 75% of guaranteed wear 
+life of grinding rolls and (iv) at the end of wear life of grinding rolls. In case the wear 
+life of set of bull ring segments is guaranteed more than the guaranteed life of 
+grinding rolls the capacity test on mill shall continue for second set of grinding rolls 
+as per SI. No. (ii) , (iii) and (iv) above until the wear life of bull ring segments is 
+achieved.
+Note: 5:  No allowance will be given for Operation and Maintenance practices, while applying this criteria.
+8.3.3 Further, in case any of the wear parts has worn out to such an extent that either 
+the normal or safe operation of the pulveriser is jeopardized if this part is not 
+replaced/repaired or continuous use with this part may lead to exposure or wear of 
+other parts which are not meant for the purpose of checking the shortfall in wear 
+life, even if there is no reduction in pulveriser rated capacity or fineness, then the 
+part shall be deemed to have outlived its wearlife.
+8.4.0 Liquidated Damage for Shortfall in Guaranteed/Warranted Wear Life:
+8.4.1 Liquidated damages shall be levied for shortfall in wear life of wear parts for each 
+set of wear parts separately. For the purpose of ascertaining the wear life achieved 
+following method shall be adopted:
+8.4.2 The wear life of set of grinding rolls and bull ring segments shall be recorded for 
+all pulverisers. The average wear life of first sets of grinding rolls and bull ring 
+segments in four pulverisers in which the wear parts have completed their wear life 
+earlier than other pulverisers shall be considered as wear life achieved for that 
+Purchase Order.
+Table-II below gives an example where wear life of grinding rolls and bull ring 
+segments for a given Purchase Order is calculated initially for the purpose of 
+establishing Liquidated Damage.
+Table- II 
+SI.
+No.
+Description Guaranteed 
+wear life
+Life achieved for first set of 
+grinding rolls/bull ring 
+segments
+Average life
+1. 1st four sets
+of wear 
+parts whose 
+life  has 
+been
+ascertained
+11500
+Mill 1 Mill3 Mill5 Mill6
+12500 12000 10500 11000 = (12000+12000+10500+11000)/4=11375
+Table - II Shows life of first four set of grinding rolls achieved in four mills. As per 
+records in Mill Nos. 1 and 3, the first set of grinding rolls have met their guaranteed 
+life, where as in mill 5 and 6 , the life achieved by grinding rolls is only 10500 hrs. 
+and 11000 hrs. respectively , against the guaranteed life of 11,500 hrs. While 
+calculating average life , for all those sets who exceeded guaranteed life and 
+achieved life of 12000 hrs. and more , the life shall be taken as 12000 hrs . and for 
+those who have not met the guaranteed life , actual life shall be taken. Therefore 
+for the purpose of establishing the wear life achieved by the first four set of wear 
+parts, average of life achieved in mills # 1 ,3,5 and 6 shall be considered  i.e .  
+(12000 +12000 + 10500 + 11000)/4 = 11375 Hrs.). 
+8.4.3 In case the wear parts do not fulfill the guaranteed wear life the credit shall be 
+provided after the end of GTP to the Employer at the rate of one and a half times 
+the shortfall worked out for each set of grinding rolls and each set of bull ring 
+segments. For example should a wear part set has a price of Rs 100000 (Rupees 
+One lac) and the wear life guaranteed for the wear part is 11500 Hrs. When the 
+average life as calculated above is 11375 hrs, then a credit of Rs . (1,00,000 x 1.5
+x125)/ 11375 = Rs. 1648.35 would apply towards the Employer for each set of 
+wear parts. This credit shall apply to all wear parts by multiplying the credit per set 
+of wear part with total number of wear part sets and shall be considered as 
+Liquidated Damaged for shortfall in wear life. The wear part credit shall be worked
+out separately for grinding rolls and separately for bull ring segments. This shall be used for 
+computing additional BG if any, required to be taken from the   contractor.
+8.4.4 At the end of GTP ifit is found that any ofthe wear part sets have achieved life of 50 % or 
+less than the guaranteed wear life the Contractor shall replace the wear part set free of
+cost and commence the GTP again till such time the wear parts are able to achieve wear
+parts life higher than 50% of wear life. For wear life between 50% and 100% the liquidated
+damages as described above shall apply.
+It must be clearly understood thatthe calculation of averagelife during GTP is only
+for the purpose of estimating the amount BG thatis to be takenfrom the party.
+Actual L.D shall be calculated foreach set separately basedon the actual life it has 
+achieved and the amount shall be recovered. In the above case actual L.D shall be 
+(100000x1.5x500)/10500=Rs. 14285.7 for the set of rolls usedin Mill 5 
+8.4.5 In case the wear parts are supplied in more than one lot the liquidated damages as per
+the above shall be leviedfor each lot of wear parts.
+8.5.0 Fitment Guarantee
+8.5.1 Fitment of the supplied material in the identified pulverisers is the responsibility of Contractor 
+and same shall be guaranteed by the Bidder . In case it is found that the supplied material (wear 
+parts) do not fit into the pulveriser and/or the normal and safe operation of the pulveriser cannot be 
+sustained with the supplied wear parts during the GTP the Contractor shall within one week (
+Respective Projects to specify  the  desired duration) supply fresh lot of modified wear parts 
+(not less than 25% of the quantity to replace the wear parts which have failed in fitment and/or have 
+restricted normal/safe operation of pulverisers . The balance sets of such wear parts shall be 
+supplied within one month (Respective Projects to specify the desired duration ). In case the 
+normal/safe operation is jeopardized due to wear of grinding rolls and bull ring segments the same 
+shall be considered under the guarantee for wear life and not under fitment guarantee.
+9.0.0 Quality Assurance & Inspection
+9.1.0 Bidder shall provide the necessary information on Quality Assurance Program and submit 
+a manufacturing quality plan in line with reference quality plan attached with this technical 
+specification. Reference quality plan has to be followed completely. 
+Manufacturing quality plan shall be accompanied with reference standards / documents, 
+procedures and specifications.
+9.2.0 The approved quality plan shall indicate NTPC witness points (customer hold 
+points) for which the contractor shall give 15 days inspection advance notice for 
+undertaking inspection. 
+9.3.0 INSPECTION AT SUPPLIERS WORK
+Tests and inspection are to be conducted in the presence of NTPC RIO 
+representatives as per approved Quality plan. The representatives shall have 
+free access at all times while the work on the contract is being performed. The 
+supplier shall offer all reasonable facilities without charge to satisfy the 
+Inspection agency that the items are confirming to this specification.
+9.4.0 TEST CERTIFICATES:
+All the Grinding Rolls shall be identified with a serial number punched on the 
+non-wearing surface of roll. The Bull ring segments set shall be identified by paint for 
+serial number and set number on working face of each casting of the set. Supplier shall 
+supply 3 copies of test certificates with following information for rolls and bull ring 
+segments: 
+1. NTPC order number
+2. Supplier's reference and name
+3. Heat no./ Roll no.
+4. Drawing no., Material code
+5. Consignment/Identification no. 
+(NOTE FOR STATIONS)
+The technical specification includes following form which needs to be duly filled by the bidder and submitted along 
+with bid proposal: 
+Schedule-I ( Guaranteed Declaration ) , Schedule-II ( Technical data sheets), Schedule-Ill ( Information regarding 
+quality assurance program ) , Schedule-IV ( Schedule of rates and prices) . Schedule -V (Delivery schedule),
+Schedule - VI ( Qualifying requirements ). 
+Stations are requested to include these forms in the bidding documents and ensure that these formsare submitted 
+along with the bid. Stations may like to add additionalforms and other term andconditions of contract while preparing 
+the Bidding Documents. 
+(Annexure-1)
+COAL CHARACTERISTICS
+Proximate Analysis  
+Moisture 
+Ash  
+HGI 
+YGP
+Range
+------------To---------- % 
+------------To---------- % 
+------------To---------- % 
+------------To---------- %
+Ash Analysis
+Silica
+Alumina
+------------To---------- % 
+------------To---------- % 
+Note : Plant specific range of coal properties to be specified by the respective stations . 
+ AD DENDUM TO THE RQP OF GRINDING ROLL  AND RQP OF BULL RING SEGMENT 
+ The following points are to be read in conjunction  with the RQP attached below. 
+1. The c
+heck for  Hardness  test  envisaged in Clause 4.1 of the QP No: 999-QVM-P-499; REV,-0
+shall be V ( Verification of report ) in place of W (Witness) by NTPC.
+2. The check for  Hardness  test  envisaged in Clause 3.1 of the QP No: 999-QVM-P-500; REV,-0
+shall be V ( Verification of report ) in place of W (Witness) by NTPC.
+3. A note is added as follows:
+NOTE : Based on the manufacturing process adopted by the vendor the clause of  “100%
+adherence to RQP “ may be relaxed.
+
+
+
+
+SCHEDULE-I
+TECHNICAL SPECIFICATION FOR PROCUREMENT OF 
+WEAR PARTS FOR RAYMOND TYPE (HP/XRP mills) COAL PULVERISERS
+(Name of Project), Stage), (Number and Size of Units)
+Tender Document No. (To be specified by respective Projects) 
+(GUARANTEE DECLARATION)
+Bidder's Name & Address NTPC-Name and Address 
+(To be indicated by Project) 
+Dear Sir,
+We declare that the wear life of wear parts, their fitment and material specification for wear parts 
+offered in this bid are guaranteed  by us. We further declare that in the event of any deficiencies in 
+meeting the guarantees indicated below as establ ished in accordance  the bidding document s, you
+may at your discretion accept the wear parts after asse ssing the liquidated  damages  as specified in 
+clause 8.4.0 of bidding documents or reject the wear parts and recover the payments already made.
+SI.No. Guaranteed Parameter Guaranteed Figures
+1.0 Wear Life of Wear parts
+1.1 Wear life of each set ofgrinding Rolls in 
+Operating Hours asper clause8.0.0
+1.2 Wear life of each set of bull ring 
+segments inOperatingHour s 
+as per clause 8.0.0
+2.0 Guarantee for Fitment As per bidding document Clause
+8.5.0 
+Date: 
+Plate:
+(Signature)...................................
+(Printed  Name) ........................... 
+(Designation)  ..............................
+(Common Seal) ...........................
+Note : Any variation to the stipulated conditions under which guarantees are to be met will not 
+be permitted and Bids with such variation are liable to be rejected.
+SCHEDULE-II
+TECHNICAL SPECIFICATION  FOR PROCUREMENT OF
+WEAR PARTS FOR RAYMOND TYPE (HP/XRP mills) COAL  PULVERISERS
+(Name of Project), Stage), (Number and Size of Units) 
+Tender Document No.(Tobe specified byrespective Projects)
+(TECHNICAL DATA SHEETS)
+Sl. 
+No.
+Description Grinding Rolls Bull Ring Segments
+01 Name of Manufacturer
+02 Location of Manufacturing Unit
+03 Model of Coal Pulveriser
+04 Number of Pulverisers
+05 Number of sets
+06 Wear life of each set
+07 Weight of each item (Bidder to provide 
+item wise list)
+08 Weight of each set
+09 Compliance to specified dimensions
+10 Name of material Yes Yes 
+11 Surface hardness
+12 Physical properties of material
+13 Chemical composition of material
+(Broadly)
+Date: 
+Place:
+(Signature)…………………..
+(Printed Name ) ……………
+(Designation)……………….
+(Common Seal)……………..
+SCHEDULE· III
+TECHNICAL SPECIFICATION FOR PROCUREMENT OF
+WEAR PARTS FOR RAYMOND TYPE {HP/XRP mills) COAL PULVERISERS
+(Name of Project), Stage), (Number and Size of Units) 
+Tender Document No. (To be specified by respective Projects)
+(Information regarding Quality Assurance Program)
+Bidder's Name & Address NTPC-Name and Address
+(To be indicated by Projects)
+Dear Sirs, 
+We hereby provide the necessary information on Quality Assurance Program contain ing the 
+overall Quality management and Procedures, which we propose to follow during various stages of 
+manufacturing the specified wear parts. 
+Date: 
+Place:
+(Signature)………………
+(Printed Name)………….
+(Designation)…………..
+(Common Seal)............
+Note: Continuation sheets of like size and format may be used as per Bidder's requirement and 
+shall be annexed to this Attachment.
+SCHEDULE- IV
+TECHNICAL SPECIFICATION FOR PROCUREMENT OF
+WEAR PARTS FOR RAYMOND TYPE (HP/XRP mills) COAL PULVERISERS
+(Name of Project), Stage), (Number and Size of Units) 
+Tender Document No. (To be specified by respective Projects)
+(Schedule of Rates and Prices)
+Bidder's Name& Address NTPC-Name and Address
+(To be indicated by Projects)
+1. Grinding Rolls
+2. Bull Ring Segments
+Note: Number of sets shall be quoted a s per clause 4.0.0
+Date:
+Place:
+(Signature)..................
+(Printed Name) ……..
+(Designation)............ 
+(Common Seal).......... 
+SCHEDULE-V 
+TECHNICAL SPECIFICATION FOR PROCUREMENT OF
+WEAR PARTS FOR RAYMOND TYPE (HP/XRP mills) COAL PULVERISERS
+(Name of Project), Stage), (Number and Size of Units) 
+Tender Document No. (To be specified by respective Projects)
+(Delivery Schedule)
+Bidder's Name & Address NTPC-Name and Address
+(To be indicated by Projects)
+1. Grinding Rolls
+2. Bull Ring Segments
+Date:
+Place:
+(Signature)......................... 
+(Printed Name)..................
+(Designation).....................
+(Common Seal)..................

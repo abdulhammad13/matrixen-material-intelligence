@@ -1,0 +1,143 @@
+NTPC Limited eProcurement Portal
+Tender Details
+Date : 14-May-2026 12:25 PM
+ Print
+Basic Details
+Organisation Chain NTPC Renewable Energy Limited||NTPC RE Corporate Centre
+Tender Reference
+Number NREL-CS- 200153429
+Tender ID 2026_NTPCR_107660_1 Withdrawal Allowed Yes
+Tender Type Open Tender Form of contract Service
+Tender Category Services No. of Covers 3
+General Technical
+Evaluation Allowed Yes [Compliance Required] ItemWise Technical Evaluation
+Allowed No
+Payment Mode Offline Is Multi Currency Allowed For
+BOQ No
+Is Multi Currency
+Allowed For Fee No Allow Two Stage Bidding No
+ 
+Payment Instruments
+Offline S.No Instrument Type
+1 DD
+Cover Details, No. Of Covers - 3
+Cover No Cover Document Type Description
+1 Fee .pdf Attachment 1
+Bid Security
+.pdf
+Attachment 2
+Authority to
+Sign the bid
+2 PreQual/Technical .pdf
+Bid forms and
+attachment as
+per Tender
+document
+.pdf
+Documents as
+per Tender
+document
+3 Finance .xls Price Bid
+ 
+Tender Fee Details, [Total Fee in ₹ * - 0.00]
+Tender Fee in ₹ 0.00
+Fee Payable To Nil Fee Payable At Nil
+Tender Fee
+Exemption Allowed
+No
+EMD Fee Details
+EMD Amount in ₹ 1,00,000 EMD Exemption
+Allowed
+Yes
+EMD Fee Type fixed EMD Percentage NA
+EMD Payable To Online as
+per Bid
+document
+EMD Payable At Online as
+per Bid
+document
+BG Required No
+Minimum Direct
+EMD Payment in ₹
+0.00
+ 
+ 
+Work /Item(s)
+Title Centralized Rate Contract for Drone Thermography for NREL Solar Projects Across India
+Work Description Centralized Rate Contract for Drone Thermography for NREL Solar Projects Across India
+Pre Qualification
+Details
+Please refer Tender documents. 
+Independent External
+Monitor/Remarks
+NA 
+Tender Value in ₹ NA Product Category Serv -
+Others
+Sub category NA 
+Contract Type Rate Contract Bid Validity(Days) 120 Period Of Work(Days) 730 
+Location NREL PROJECTS ACROSS
+INDIA
+Pincode 201306 Pre Bid Meeting Place NA 
+Pre Bid Meeting
+Address
+NA Pre Bid Meeting Date NA Bid Opening Place greater
+noida
+
+Should Allow NDA
+Tender
+No Allow Preferential
+Bidder
+No
+ 
+Critical Dates
+Publish Date 13-May-2026 05:00 PM Bid Opening Date 29-May-2026 03:30 PM
+Document Download / Sale Start
+Date
+13-May-2026 05:00 PM Document Download / Sale End
+Date
+28-May-2026 03:00 PM
+Clarification Start Date 13-May-2026 05:00 PM Clarification End Date 23-May-2026 05:00 PM 
+Bid Submission Start Date 13-May-2026 05:00 PM Bid Submission End Date 28-May-2026 03:00 PM
+ 
+ 
+Tender Documents
+NIT
+Document S.No Document Name Description Document Size
+(in KB)
+1 Tendernotice_1.pdf nit 152.04
+ 
+Work Item
+Documents S.No Document Type Document Name Description Document Size
+(in KB)
+1 Tender Documents BIDDOCUMENT.pdf Tender Document 13719.64
+2 BOQ BOQ_110895.xls PRICE BID 377.00
+ 
+ 
+View GTE Details - SERVICE GTE(LT-COMMON-MLC-LAND BORDER CLAUSE)
+S.No Particulars Description Expected
+Value Mandatory
+1.0
+Confirm that you are a LOCAL SUPPLIER, and the
+LOCAL CONTENT included in the PACKAGE FOR
+COMPLETE SCOPE OF WORK meets the MINIMUM
+LOCAL CONTENT requirements of the Tender.
+MLC Declaration for Services Yes Yes
+2.0 Do you accept NTPC Safety Rules SAFETY RULES COMPLIANCE Yes Yes
+3.0 Do you accept the Fraud Prevention Policy of NTPC FRAUD PREVENTION Yes Yes
+4.0 Do you accept Withholding and Banning of Business
+Dealing Policy of NTPC BANNING POLICY DECLARATION Yes Yes
+5.0
+Do you certify full compliance on clause as per
+tender documents on Restrictions on procurement
+from a Bidder of a country which shares a land
+border with India
+LAND BORDER CLAUSE COMPLIANCE Yes Yes
+6.0 Do you certify full compliance to all provisions of Bid
+documents NO DEVIATION CERTIFICATION Yes Yes
+ 
+ 
+Tender Inviting Authority
+Name P K Verma
+Address 4th Floor, RE Building, NETRA Complex E-3, Ecotech II, Udyog Vihar, Greater Noida Gautam Buddha Nagar,
+Uttar Pradesh, India, Pin 201306
+ 

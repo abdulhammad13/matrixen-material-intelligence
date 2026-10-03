@@ -1,0 +1,166 @@
+ 
+Bid Number: 
+GEM/2026/B/7167036
+Dated: 
+02-03-2026
+Bid Corrigendum
+GEM/2026/B/7167036-C3
+Following terms and conditions supersede all existing “Buyer added Bid Specific Terms and conditions” given in
+the bid document or any previous corrigendum. Prospective bidders are advised to bid as per following Terms
+and Conditions:
+Buyer Added Bid Specific Additional Terms and Conditions
+1
+. 
+Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any
+responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates
+(whichever is lower), subject to the maximum of quoted GST %.
+2
+. 
+Bidder shall submit the following documents along with their bid for Vendor Code Creation:
+ a. Copy of PAN Card.
+ b. Copy of GSTIN.
+ c. Copy of Cancelled Cheque.
+ d. Copy of EFT Mandate duly certified by Bank.
+3
+. 
+Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only.
+4
+. 
+While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the
+screenshot of GST portal confirming payment of GST.
+5
+. 
+Scope of supply (Bid price to include all cost components) : Supply Installation Testing 
+and
+Commissioning of Goods
+6
+. 
+Buyer Added text based ATC clauses
+Sl.
+Buyer Added Bid 
+Specific Additional Terms & Conditions
+01.
+All terms and condition 
+& Technical speciﬁcation speciﬁed in Buyer Added Bid S
+pecific ATC 
+(Buyer Added text-based ATC clauses & Buyer uploaded ATC docum
+ent) must 
+be complied by the Bidder. In case of any deviation OR on non-compli
+ance is 
+noted in the submitted BID to any of the Speciﬁcation, terms and condit
+ions 
+speciﬁed in the Buyer Added Bid Speciﬁc ATC (Buyer Added text-based AT
+C 
+clauses & Buyer uploaded ATC document) such BID shall be summarily 
+reject
+ed.
+02.
+GEM GTC shall be 
+integral part of purchase order.
+In case of any 
+contradiction between technical Specifications mentioned in GEM
+BID & 
+Buyer Added Bid Specific ATC (Buyer Added text-based ATC clauses & Bu
+yer 
+uploaded ATC document), Technical parameters specified in Buyer Added Bi
+d 
+Specific ATC (Buyer Added text-based ATC clauses & Buyer uploaded ATC 
+doc
+ument) shall prevail in following order:
+a)
+       
+Buyer Added text-based ATC clauses
+b)
+       
+Buyer uploaded ATC document
+1 / 3
+03.
+Bid Corrigendum-I: Published
+Complete Tender 
+Documents, are attached at -
+Buyer uploaded ATC document Click here to view the file
+.
+7
+. 
+Buyer uploaded ATC document 
+Click here to view the file
+.
+Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+bidding process without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+Category item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+attached categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+case may be.
+15
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+16
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the
+same must be added through bunching category based items or by bunching custom catalogs or
+bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+such representations.
+*This document shall overwrite all previous versions of Bid Specific Additional Terms and Conditions.
+2 / 3
+This Bid is also governed by the General Terms and Conditions
+3 / 3

@@ -1,0 +1,396 @@
+{
+ "tenderCategory": [
+  [
+   "0",
+   "-Select-"
+  ],
+  [
+   "1",
+   "Goods"
+  ],
+  [
+   "2",
+   "Services"
+  ],
+  [
+   "3",
+   "Works"
+  ]
+ ],
+ "productCategory": [
+  [
+   "0",
+   "-Select-"
+  ],
+  [
+   "1",
+   "Access Control System"
+  ],
+  [
+   "2",
+   "Air-Conditioner"
+  ],
+  [
+   "3",
+   "Allotment of Space"
+  ],
+  [
+   "4",
+   "AMC/ Maintenance Contracts"
+  ],
+  [
+   "5",
+   "Animal Feed Ingredients"
+  ],
+  [
+   "6",
+   "Architecture/Interior Design"
+  ],
+  [
+   "7",
+   "Audio-Visual Equipment"
+  ],
+  [
+   "8",
+   "Chemicals/Minerals"
+  ],
+  [
+   "9",
+   "Civil Construction Goods"
+  ],
+  [
+   "10",
+   "Civil Works"
+  ],
+  [
+   "11",
+   "Civil Works - Bridges"
+  ],
+  [
+   "12",
+   "Civil Works - Buildings"
+  ],
+  [
+   "13",
+   "Civil Works - Highways"
+  ],
+  [
+   "14",
+   "Civil Works - Others"
+  ],
+  [
+   "15",
+   "Civil Works - Roads"
+  ],
+  [
+   "16",
+   "Civil Works - Water Works"
+  ],
+  [
+   "17",
+   "Coal Works"
+  ],
+  [
+   "18",
+   "Computer- Data Processing"
+  ],
+  [
+   "19",
+   "Computer- H/W"
+  ],
+  [
+   "20",
+   "Computer- S/W"
+  ],
+  [
+   "21",
+   "Construction Works"
+  ],
+  [
+   "22",
+   "Consultancy"
+  ],
+  [
+   "23",
+   "Consumables (Hospital / Lab)"
+  ],
+  [
+   "24",
+   "Consumables - Paper/Printing/Photocopy Paper"
+  ],
+  [
+   "25",
+   "Consumables- Raw materials"
+  ],
+  [
+   "26",
+   "Crop Products"
+  ],
+  [
+   "27",
+   "Drilling Works"
+  ],
+  [
+   "28",
+   "Drugs and Pharmaceutical Products"
+  ],
+  [
+   "29",
+   "Electrical Goods/Equipment"
+  ],
+  [
+   "30",
+   "Electrical Works"
+  ],
+  [
+   "31",
+   "Electronic Components And Devices"
+  ],
+  [
+   "32",
+   "Electronics Equipment"
+  ],
+  [
+   "33",
+   "Equipments (Hospital / Lab)"
+  ],
+  [
+   "34",
+   "Explosive"
+  ],
+  [
+   "35",
+   "Facility Management Services"
+  ],
+  [
+   "36",
+   "Financial and Insurance Services"
+  ],
+  [
+   "37",
+   "Fire & Safety"
+  ],
+  [
+   "38",
+   "Food Products"
+  ],
+  [
+   "39",
+   "Furniture/ Fixture"
+  ],
+  [
+   "40",
+   "Hiring of Vehicles"
+  ],
+  [
+   "41",
+   "Hotel/ Catering"
+  ],
+  [
+   "42",
+   "Housekeeping/ Cleaning"
+  ],
+  [
+   "43",
+   "Industrial/Medical GAS"
+  ],
+  [
+   "44",
+   "Information Technology"
+  ],
+  [
+   "45",
+   "Info. Tech. Services"
+  ],
+  [
+   "46",
+   "Job Works"
+  ],
+  [
+   "47",
+   "Lab Chemistry Reagents"
+  ],
+  [
+   "48",
+   "Laboratory and scientific equipment"
+  ],
+  [
+   "49",
+   "Land/Building"
+  ],
+  [
+   "50",
+   "Machineries/ Mechanical Engg Items"
+  ],
+  [
+   "51",
+   "Machinery and Machining Tools"
+  ],
+  [
+   "52",
+   "Manpower Supply"
+  ],
+  [
+   "53",
+   "Marine Works"
+  ],
+  [
+   "54",
+   "Mechanical Tools and Equipment"
+  ],
+  [
+   "55",
+   "Medical Equipments/Waste"
+  ],
+  [
+   "56",
+   "Medicines"
+  ],
+  [
+   "57",
+   "Metal Fabrication"
+  ],
+  [
+   "58",
+   "Metals - Non Ferrous"
+  ],
+  [
+   "59",
+   "Miscellaneous Goods"
+  ],
+  [
+   "60",
+   "Miscellaneous Services"
+  ],
+  [
+   "61",
+   "Miscellaneous Works"
+  ],
+  [
+   "62",
+   "Network /Communication Equipments"
+  ],
+  [
+   "63",
+   "Non Consumables (Hospital / Lab)"
+  ],
+  [
+   "64",
+   "Non-Dietery Items"
+  ],
+  [
+   "65",
+   "OFC Laying Works"
+  ],
+  [
+   "66",
+   "Oil/Gas"
+  ],
+  [
+   "67",
+   "Pipe Laying Works"
+  ],
+  [
+   "68",
+   "Pipes and Pipe related activities"
+  ],
+  [
+   "69",
+   "Plant Protection Input/Equipment Works"
+  ],
+  [
+   "70",
+   "Power/Energy Projects/Products"
+  ],
+  [
+   "71",
+   "Renting out / Licensing out"
+  ],
+  [
+   "72",
+   "Repair and Maintenance Services"
+  ],
+  [
+   "73",
+   "Scanning, Digitisation Services"
+  ],
+  [
+   "74",
+   "Shipping Services"
+  ],
+  [
+   "75",
+   "Shipping/ Transportation/ Vehicle"
+  ],
+  [
+   "76",
+   "Solid Waste Management"
+  ],
+  [
+   "77",
+   "Sports Goods/Equipments"
+  ],
+  [
+   "78",
+   "Street Lighting"
+  ],
+  [
+   "79",
+   "Supply, Erection and Commissioning"
+  ],
+  [
+   "80",
+   "Support/Maintenance Service"
+  ],
+  [
+   "81",
+   "Survey"
+  ],
+  [
+   "82",
+   "UPS"
+  ],
+  [
+   "83",
+   "Vehicles/Vehicle Spares"
+  ],
+  [
+   "84",
+   "Water Equipments/ Meter/ Drilling/ Boring"
+  ]
+ ],
+ "tenderExpire": [
+  [
+   "0",
+   "-Select-"
+  ],
+  [
+   "1",
+   "Closing Today"
+  ],
+  [
+   "2",
+   "Closing Tomorrow"
+  ],
+  [
+   "3",
+   "Closing within 7 Days"
+  ],
+  [
+   "4",
+   "Closing within 15 Days"
+  ],
+  [
+   "5",
+   "Closing within 30 Days"
+  ],
+  [
+   "6",
+   "Closing within 45 Days"
+  ],
+  [
+   "7",
+   "Closing greater than 45 Days"
+  ]
+ ]
+}

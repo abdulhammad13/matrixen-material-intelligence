@@ -1,0 +1,598 @@
+ 
+Bid Number: 
+GEM/2025/B/6987441
+Dated: 
+16-04-2026
+Bid Corrigendum
+GEM/2025/B/6987441-C23
+Following terms and conditions supersede all existing “Buyer added Bid Specific Terms and conditions” given in
+the bid document or any previous corrigendum. Prospective bidders are advised to bid as per following Terms
+and Conditions:
+Buyer Added Bid Specific Additional Terms and Conditions
+1
+. 
+Buyer Added text based ATC clauses
+Sl.
+Buyer Added Bid 
+Specific Additional Terms & Conditions
+01.
+1. Bid Corrigendum-I published
+2. Bid Corrigendum-II published
+3. Bid Corrigendum-III published
+4. Bid Corrigendum-IV published
+5. Bid Corrigendum-V published
+All terms and condition 
+& Technical speciﬁcation speciﬁed in Buyer Added Bid S
+pecific ATC 
+(Buyer Added text-based ATC clauses & Buyer uploaded ATC docum
+ent) must 
+be complied by the Bidder. In case of any deviation OR on non-compli
+ance is 
+noted in the submitted BID to any of the Speciﬁcation, terms and condit
+ions 
+speciﬁed in the Buyer Added Bid Speciﬁc ATC (Buyer Added text-based AT
+C 
+clauses & Buyer uploaded ATC document) such BID shall be summarily 
+reject
+ed.
+02.
+GEM GTC shall be 
+integral part of purchase order.
+In case of any 
+contradiction between technical Specifications mentioned in GEM
+BID & 
+Buyer Added Bid Specific ATC (Buyer Added text-based ATC clauses & Bu
+yer 
+uploaded ATC document), Technical parameters specified in Buyer Added Bi
+d 
+Specific ATC (Buyer Added text-based ATC clauses & Buyer uploaded ATC 
+doc
+ument) shall prevail in following order:
+a)
+       
+Buyer Added text-based ATC clauses
+b)
+       
+Buyer uploaded ATC document
+03.
+Complete Tender 
+Documents, are attached at -
+Buyer uploaded ATC document Click here to view the file
+.
+.
+2
+. 
+Buyer uploaded ATC document 
+Click here to view the file
+.
+Disclaimer
+1 / 2
+The Additional Terms and Conditions (ATC) have been incorporated by the Buyer after approval of their
+Competent Authority. The Buyer ,is solely responsible for the impact of these clauses on the bidding process, its
+outcome, and consequences thereof including any restriction arising in the bidding process due to these ATCs
+and including the modification of technical specifications and / or terms and conditions governing the bid.All
+representations / grievances pertaining to the ATC clauses shall be raised with the buyer organization directly
+and not with GeM.If any of the clause(s) is/are incorporated by the Buyer regarding the following, the bid &
+resultant contract shall be treated as null & void. Further, GeM reserves the right, at its sole discretion, to cancel
+the bid forthwith, without issuance of any prior notice or intimation :-
+1
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available (unless such
+Custom / BOQ item is bunched with the major regular product Category Item).
+2
+. 
+Mandating procurement of / from specific Brand / Make / Model / Manufacturer / Dealer except in case of
+Single Bid / Proprietary Article Certificate (PAC) Buying.
+3
+. 
+Inclusion of disqualification criteria related to suspension of seller / service provider, where such
+suspension period has already expired.
+4
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+5
+. 
+Publishing bids on GeM for procurement of works.
+6
+. 
+Procurement of Goods by creating a Service bid on GeM & vice-versa.
+7
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. However, trial / sample, as
+the case may be, shall be permitted in cases where trial / sample are allowed as per approved and
+published procurement policy of the Buyers’ controlling 
+Ministry / Department / State / Public Sector
+Enterprises Headquarters. If there is any violation of trial / sample clause with regard to approved policy
+of the Buyers’ Ministry / Department / State / Public Sector Enterprises Headquarters, then this is to be
+determined and redressed by the concerned Buyer Organisation only.
+8
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+9
+. 
+Creating bid for items from incorrect categories.
+10
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+11
+. 
+Asking for any Tender fee / Bid Participation fee, as the case may be.
+12
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined in bid detail section, including
+specifications, EMD Detail, ePBG Detail and MII and MSE Purchase Preference sections of the bid, unless
+otherwise allowed by the applicable GeM GTC.
+13
+. 
+Any ATC clause in contravention with GeM GTC Clause 4 (xiii) (h) will be invalid. In case of multiple L1
+bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1
+bidders through a Random Algorithm executed by GeM system.
+14
+. 
+In a category based bid, adding additional items, through buyer added, additional scope of work/
+additional terms and conditions/or any other document. If buyer needs more items along with the main
+item, the same must be added through bunching category based items or by bunching custom catalogues
+or bunching a BoQ with the main category based item, the same must not be done through ATC or Scope
+of Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller. Buyer is duty bound to reply to all such
+representations and would not be allowed to open bids if he fails to reply to such representations.
+*This document shall overwrite all previous versions of Bid Specific Additional Terms and Conditions.
+This Bid is also governed by the General Terms and Conditions
+2 / 2
+Page No. Clause No & Name Clause Description Changes/modifications proposed by the Bidders NTPC Response 
+Annexture A
+Technical 
+Complaince
+C) Storage Services Requirement 
+Serial # 5
+Block Storage service must have SLA ≥ 99.95% (Bidder to attach CSP SLA 
+URL and screenshot)] or higher (as published in the CSP’s Public Portal)
+Not all CSPs provide the SLA on Block storage either standalone or bundled with 
+VM. Therefore, request you to please remove the clause for wider participation. 
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+Corrigendum 3, 
+S. No 22
+Annexure A, Section B, SI No. 5 Cloud service should support synchronous replication of a primary database to 
+a standby replica in a separate data centres to provide data redundancy, 
+eliminate I/O freezes, and minimize latency spikes during system backups.
+Please delete the clause "to provide data redundancy, eliminate I/O freezes, and 
+minimize latency spikes during system backups." as this clause is specific to 
+one CSP and restricting others to participate.
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+Corrigendum 3, 
+S. No 30
+Annexure D, 
+Serial # G2
+Managed service/Market Place  enabling secure, scalable IoT device 
+connectivity and data processing
+We request NTPC to modify the Unit of Measurement as this metrics  is inclined 
+to a specific CSP, Kindly consider number of tags as a Unit of Measurement as 
+well.
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+14 CSP 
+Complinace/VPC‐Vnet/Networking/Security/ 
+Hybrid Connectivity requirement (D14 to D31 
+of BOQ)
+The bidder to offer vEdge router platform as a dedicated hardware or offered 
+on a virtual
+machine on all its VPN links under this contract.
+We request NTPC to confirm the number of Routers at DC and DR where VPN 
+(MPLS) links are terminating. Please also confirm the total throughput required 
+and number of virtual interfaces required.
+Routers to be in  redundant mode (minimum two 
+numbers). Each router shall be configured with a 
+minimum of two redundant virtual interfaces. As 
+detailed in  Annexure‐A, Section E‐IV, with 
+minimum throughput of 1 Gbps as detailed in  
+Annexure‐A Section E‐VIII(d).
+15 CSP Complinace The OEM of Internal NGFW and Perimeter NGFW should not be the same The specification mentioned in the RFP for internal and external NGFW is 
+specified for one OEM only, therefore, request you to please remove this clause. 
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+Third Party Compliance Minimum support for L4 5 Million or L7 1.25 million 
+concurrent sessions/connection. Ability to process at least L4 50 K or L7 20 K new 
+sessions per second 
+Our proposed OEM do not publish as this is dependent on the underlying 
+Hardware/Virtualozation used for the Virtual Firewall.
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+238 Security and Networking: D1 to D32 of BOQ The NGFW must accurately detect intrusion attempts and classify them based 
+on risk type and severity, including but not limited to: unauthorized access, 
+reconnaissance, suspicious activity, DoS, brute-force, and exploitation 
+attempts. 
+The NGFW must accurately detect intrusion attempts and classify them based on 
+Target(Client/Server), Severity, Protocol, OS, Application, Status, Action, 
+Vulnerability Type(Includes Multiple Type like DOS, Malware etc.)
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+237 Security and Networking: D1 to D32 of BOQ The solution must support operation in both routed and transparent 
+modes. In transparent mode, it should include Layer-2 anti-spoofing or 
+ARP inspection features to prevent spoofing. 
+The solution must support operation in both routed modes. Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+237 Security and Networking: D1 to D32 of BOQ The NGFW must support High Availability (HA) with Non-Stop 
+Forwarding and Graceful Restart. It should operate in both Active-Active 
+and ActiveStandby HA modes with seamless failover. 
+The NGFW must support High Availability (HA) with Non-Stop Forwarding 
+and Graceful Restart. It should operate in Active-Active modes.
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+254 Annexure D BOQ As per the Corrigendum please share the revised BOQ Format so that the 
+discription matches  the latest corrigendum 
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+Corrigendum 3, 
+S. No 29
+68 Fully Managed Data Warehouse 4 vCPU, 32 GB RAM for running 500 queries 
+per month
+with each query scanning 1TB of data OR Serverless data warehouse for 
+running 500 queries per month with each query
+scanning 1TB of data
+The current configuration seems to be inclined to a specific CSP, we request 
+NTPC to kindly amend this clause as:                                                        Propose Specs:
+"a. Cloud-based Enterprise Data Warehouse: A distributed architecture 
+consisting of at least 4 dedicated nodes (1 Leader Node and 3 Worker Nodes), 
+with each node having a minimum of 4 vCPU and 32 GB RAM, capable of 
+executing ~500 complex queries/month scanning at least 100GB per query at 
+100% utilization.
+OR
+b. Fully Managed Serverless Data Warehouse: A serverless model capable of 
+executing complex queries (approx. 500 queries/month scanning minimum 
+100GB per query) with automatic resource scaling to meet EDW performance 
+requirements."
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+Page No. Reference Document/Clause No & Name Clause Description Changes/modifications proposed by the Bidders NTPC Response 
+Corrigendum 3, S. No 22/Annexure A, Section 
+B, SI No. 5
+Cloud service should support synchronous replication of a primary database to 
+a standby replica in a separate data centres to provide data redundancy, 
+eliminate I/O  freezes, and minimize latency spikes during system backups
+The requirement for I/O freezing is not available in public documentation which 
+will not allow us to submit the compliance. We minimize the I/O freezing 
+technically.  With the language we cannot submit the bid response We cannot 
+submit the bid with this clause. Thus we request to remove the 'eliminate I/O 
+freezes' from the clause. Proposing to replace it with 'Reduce/Adjust IO Freeze'. 
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+Corrigendum 3, S. No 30/Annexure D,Serial # 
+G2
+Managed service/Market Place  enabling secure, scalable IoT device 
+connectivity and data processing
+Please modify the 'Unit of measurement' for the given service so that we can 
+quote for the service. With the current metrics we cannot submit the bid 
+response and this is inclined towards other CSP. Our Edge computing IOT 
+service unit of measurement is per 'number of tags' and there is not cap on the 
+number of devices. With the current metrics we cannot submit the bid response 
+Please allow unit of measurement as 'number of tags' or 'number of devices' You 
+may choose to allow both. 
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+Annexture A/Technical Complaince C) 
+Storage Services Requirement Serial # 5
+Block Storage service must have SLA ≥ 99.95% (Bidder to attach CSP SLA 
+URL and screenshot)] or higher (as published in the CSP’s Public Portal)
+We do not publish separate SLA for Block Storage as Block storage SLA is 
+bundled with VM SLA. Hence we do not have SLA URL and screeshot 
+seperately for Block Storage.
+With the current requirement we cannot submit the bid response as there is no 
+specfic page that shows the SLA evidence. Block Storage without VMs is not 
+useful and storage performance metrics is on durability.  With the current 
+language we cannot submit the bid response
+Please change the block storage SLA to 'durability' OR remove the ask of "SLA 
+URL and screenshot in the CSP’s Public Portal" from the requirement 
+Corrigendum 3, S. No 30/Annexure D,Serial  
+#D26
+CSP Natively Managed API Gateway ""CSP Natively Managed API Gateway 
+processing 10 million REST/HTTP API calls per month
+- Should provide a fully managed production grade service for publishing APIs 
+to external and internal consumers. The API
+Gateway must not need any provisioning of underlying compute, external 
+proxy, or cache. Must support REST/HTTP
+requests with support of rate limiting and caching Support
+- Should come with Autoscaling.
+-should come with In Built Caching
+-should support deployment across Availability zone
+- Should support security features like abuse detection, including (Brute 
+Guessor, Flooder, Robot Abuser, Static Content
+Scrapper and TorListRule)"
+Currently, the native API Gateway service is unavailable in the India region.
+While the larger API Management (APIM) platform is available, they include 
+numerous features beyond NTPC's current requirements, leading to significant 
+cost advantnage to other CSPs. Furthermore, these APIM services are only 
+offered on a commitment or reserved basis, whereas as per RFP require the 
+flexibility of Pay as you go. With the current clause we cannot submit the bid 
+response.
+We propose to allow Marketplace or 3rd party Managed API Gateway services.
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+Corrigendum 3, S. No 42/Annexure D,Serial # 
+A14
+NTPC as part of this RFP and detailed in BOQ proposes to deploy & use all 
+four services based on the above Bidder to read the as CSP-native 
+vulnerability assessment service capable of continuously scanning and 
+detecting common vulnerabilities and exposures (CVE). The service shall 
+cover, at minimum:
+a. Virtual machines and operating systems, including OS packages and 
+critical security updates. Application packages and dependencies, such as 
+language libraries, frameworks, and runtime components.
+c. Container images stored in cloud registries
+d. Serverless functions, including code and dependencies, where
+supported natively else a cloud-native scanning mechanism to be
+quoted as a bundle offering
+We have observed new clauses are added in corrigendum 3. We do not support 
+the feature "Serverless functions, including code and dependencies" un-
+containerized source code is Static Application Security Testing (SAST) on the 
+raw code which is prior to deployment. We support 'Once the code is 
+containerized and deployed on the Cloud services'. With the current clause we 
+cannot submit the bid response
+We propose to update the clause to "Once the code is containerized and 
+deployed on the Cloud services"
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+Corrigendum 3, S. No 24 /Annexure D,Serial # 
+D8
+Managed Threat Detection Service that uses intelligence, machine learning 
+and advanced features to continuously monitors for malicious activity and 
+unauthorized behaviour to monitor the cloud resources.
+Corrgd response" The requirement clearly mention (D8)per event /alert and ( D9) 
+for per GB for Log analysis as both are complimentary Requirement . The "Per
+Event" requirement applies to the generation of security findings, while the "Per 
+GB" requirement applies to the analysis of the data against any
+possible threats. Bidder can provide cost in combination of cloud services 
+meeting the requirement
+Please modify the 'Unit of measurement' for the given service so that we can 
+quote for the service. With the current metrics we cannot submit the bid 
+response and this is inclined towards other CSPs . Our Managed threat 
+detection service unit of measurement is operations per month.
+Proposed metrics:  per event per month OR per Operations per month . We 
+Don't have per event or Per GB Pricing Metrics and there is no way to translate 
+our Pricing metrics into Event and Per GB. 
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+Bid Corrigendum-IV {GeM Bid- GEM/2025/B/6987441} 
+Corrigendum 3, S. No 25/Annexure D,Serial # 
+D9
+Managed Threat Detection Service that uses intelligence, machine learning 
+and advanced features to continuously monitors for malicious activity and 
+unauthorized behaviour to monitor the cloud resources.
+Corrgd response" The requirement clearly mention (D8)per event /alert and ( D9) 
+for per GB for Log analysis as both are complimentary Requirement . The "Per
+Event" requirement applies to the generation of security findings, while the "Per 
+GB" requirement applies to the analysis of the data against any
+possible threats. Bidder can provide cost in combination of cloud services 
+meeting the requirement
+Please modify the 'Unit of measurement' for the given service so that we can 
+quote for the service. With the current metrics we cannot submit the bid 
+response and this is inclined towards other CSPs . Our Managed threat 
+detection service unit of measurement is operations per month.
+Proposed metrics:  per event per month OR per Operations per month . We 
+Don't have per event or Per GB Pricing Metrics and there is no way to translate 
+our Pricing metrics into Event and Per GB.
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+RFP/"Annexure D,Serial # D1 & D2 Next Generation Firewall he current technical specifications for the Next-Generation Firewall are drafted 
+specifically toward 2 particular OEMs. At present, only two OEMs—Palo Alto 
+and Check Point—meet these requirements. NTPC is allowing only two OEM 
+mandatory to submit the proposal on NGFW which is supporting 
+duopoly.Regulatory Alignment: This exclusivity creates a monopolistic 
+environment that restricts fair competition, potentially violating GFR and 
+procurement norms intended to ensure a level playing field.
+Procurement Intent: Given that this bid is intended for basic cloud services and 
+rate card discovery, rather than a niche, proprietary solution, the inclusion of 
+OEM-specific hardware constraints is counter-intuitive. It artificially limits the 
+pool of qualified bidders and prevents the organization from achieving true 
+market rates. With the current specification we cannot submit the bid response 
+We request you to please re visit the NGFW speciifications and relax them to 
+allow other NGFW OEMs in the market to participate in the bid
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+Corrigendum 3, S. No 28/S No 45 / RG3 Non burstabe production grade -GPU Machine - NVIDIA A100 GPU (8 Nos 
+total ) & 40 GB per GPU Memory along with total 96 vCPU & 1000 GB RAM. 
+10 G Networking to be provided as a single VM or multiple VMs in a cluster to 
+address the total requirement
+Reason : "The current configuration was modeled after the AWS pricing 
+calculator and established as the baseline for all Cloud Service Providers 
+(CSPs). However, the A100 GPU is now End of Life (EOL) and no longer 
+included in most CSP roadmaps. For training requirements, we recommend 
+specifying performance metrics—such as TFLOPs and VRAM (GB)—rather 
+than specific legacy models. This allows CSPs to quote modern equivalents like 
+the H100 or H200.
+Despite repeated feedback, the continued insistence on hardware available only 
+through a specific provider is a significant concern. This technical bias restricts 
+fair participation and prevents the organization from receiving competitive, future-
+proofed proposals from other CSPs  We request you to review the configuration 
+as-Proposed Amendment:"Non-burstable production-grade GPU Machine: 
+Provision of NVIDIA 80GB RAM/GPU or equivalent/higher latest-generation 
+GPUs which offer 80GB RAM or above GPU. Minimum Requirements: Total of 8 
+GPUs with a minimum of 80GB RAM per GPU, 384 vCPU, 1000 GB RAM, and 
+400G Networking. This requirement may be fulfilled via a single VM or a high-
+speed clustered configuration to ensure maximum performance and availability.
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+10 Corrigendum 3, S. No 29/68 Fully Managed Data Warehouse 4 vCPU, 32 GB RAM for running 500 queries 
+per month with each query scanning 1TB of data OR Serverless data 
+warehouse for running 500 queries per month with each query
+scanning 1TB of data
+Technical Observation: The current specification of "4 vCPU, 32 GB RAM" 
+describes a single-node instance that is technically incapable of functioning as 
+an Enterprise Data Warehouse (EDW) for complex queries across large 
+datasets. This configuration creates a biased bidding environment and poses a 
+high risk of system failure under production loads. The current clause acts as a 
+barrier for equal participation, limiting the pool of our qualified bidders.
+Reason : To ensure the solution supports enterprise-grade analytics, the 
+specifications should mandate a distributed architecture. We recommend clearly 
+defining the 'Managed Data Warehouse' architecture within the RFP to prevent 
+bidders from proposing a single VM configuration (e.g., 4 vCPU and 32 GB 
+RAM). As industry-standard Data Warehouse engines require distributed 
+resources for high-volume processing, a single-node specification would be 
+technically inadequate and may inadvertently bias the procurement toward 
+specific CSP services that do not meet NTPC’s long-term operational need
+Propose Specs:
+"a. Cloud-based Enterprise Data Warehouse: A distributed architecture 
+consisting of at least 4 dedicated nodes (1 Leader Node and 3 Worker Nodes), 
+with each node having a minimum of 4 vCPU and 32 GB RAM, capable of 
+executing ~500 complex queries/month scanning at least 100GB per query at 
+100% utilization.OR
+b. Fully Managed Serverless Data Warehouse: A serverless model capable of 
+executing complex queries (approx. 500 queries/month scanning minimum 
+100GB per query) with automatic resource scaling to meet EDW performance 
+requirements."
+Bidder to quote as per the RFP and corrigenda 
+issued against the RFP
+
+
+ 
+Bid Number: 
+GEM/2025/B/6987441
+Dated: 
+12-03-2026
+Bid Corrigendum
+GEM/2025/B/6987441-C12
+Following terms and conditions supersede all existing “Buyer added Bid Specific Terms and conditions” given in
+the bid document or any previous corrigendum. Prospective bidders are advised to bid as per following Terms
+and Conditions:
+Buyer Added Bid Specific Additional Terms and Conditions
+1
+. 
+Buyer Added text based ATC clauses
+Sl.
+Buyer Added Bid 
+Specific Additional Terms & Conditions
+01.
+1. Bid Corrigendum-I published
+2. Bid Corrigendum-II published
+All terms and condition 
+& Technical speciﬁcation speciﬁed in Buyer Added Bid S
+pecific ATC 
+(Buyer Added text-based ATC clauses & Buyer uploaded ATC docum
+ent) must 
+be complied by the Bidder. In case of any deviation OR on non-compli
+ance is 
+noted in the submitted BID to any of the Speciﬁcation, terms and condit
+ions 
+speciﬁed in the Buyer Added Bid Speciﬁc ATC (Buyer Added text-based AT
+C 
+clauses & Buyer uploaded ATC document) such BID shall be summarily 
+reject
+ed.
+02.
+GEM GTC shall be 
+integral part of purchase order.
+In case of any 
+contradiction between technical Specifications mentioned in GEM
+BID & 
+Buyer Added Bid Specific ATC (Buyer Added text-based ATC clauses & Bu
+yer 
+uploaded ATC document), Technical parameters specified in Buyer Added Bi
+d 
+Specific ATC (Buyer Added text-based ATC clauses & Buyer uploaded ATC 
+doc
+ument) shall prevail in following order:
+a)
+       
+Buyer Added text-based ATC clauses
+b)
+       
+Buyer uploaded ATC document
+03.
+Complete Tender 
+Documents, are attached at -
+Buyer uploaded ATC document Click here to view the file
+.
+.
+2
+. 
+Buyer uploaded ATC document 
+Click here to view the file
+.
+Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+1 / 2
+bidding process without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+Category item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+attached categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+case may be.
+15
+. 
+Any ATC clause in contravention with GeM GTC Clause 4 (xiii)(h) will be invalid. In case of multiple L1
+bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1
+bidders through a Random Algorithm executed by GeM system.
+16
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+17
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the
+same must be added through bunching category based items or by bunching custom catalogs or
+bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+such representations.
+*This document shall overwrite all previous versions of Bid Specific Additional Terms and Conditions.
+This Bid is also governed by the General Terms and Conditions
+2 / 2

@@ -1,0 +1,179 @@
+
+Tender Clause Vendor's Query /Suggestions NTPC Reply
+SPC Clause 16.0 Preference To Make in India and Granting 
+of Purchase Preference to Local Suppliers
+Local Supplier Classification:
+Kindly clarify the scope and type of supplies to be considered for eligibility under ‘Class-1 Local 
+Supplier’ and ‘Class-2 Local Supplier’ categories.
+Only Class-I Local suppliers will be eligible to bid. The local 
+content requirement to categorize a Bidder/ Supplier as 
+'Class-I local supplier' is minimum 50%. The bidder has to 
+submit the applicable MII MLC declaration for the complete 
+package (all items & services) in the format attached.
+SoW, Clause 10 (iii). Any major or minor add-
+on/modification/update/patch-up in hardware setup/ 
+software / services or support that shall be required for 
+the complete solution to work as defined in the purchase 
+order and this document shall be done without any extra 
+cost to NTPC and within justified & defined timelines as 
+agreed by NTPC. This shall include add 
+on/modification/update/patch-up/ repair/ replacements 
+in hardware setup/ software / services or support/ 
+biometric reader machines as observed from time to time 
+by NTPC and deemed necessary. This shall also include 
+add-on/modification/update/patch-up in hardware setup/ 
+software services or support as observed and pointed out 
+in audit being conducted from time to time. Any resource 
+required for the said work shall be arranged, ensured and 
+borne by the vendor itself.
+a) Need to define the major or minor add-on/modification that would be required. Any major 
+change would have to be estimated
+Any addition/modification due to change in compliance or 
+business process in the existing modules/ areas/ scope of 
+work would be carried out by bidder
+Misleneous Information Enquires by vendors Vendor's Query /Suggestions NTPC Reply
+No of Concurrent Users How many concurrent users are there. What is it in Mille sec, Micro sec etc. Expected no. of  concurrent users is 500
+Max Transaction per Day What is the number of transactions per day
+As on date, Approx 4000 registrations (OPD/IPD/Emergency) 
+and total no of transactions approx 25000 (Insert 
+transactions)
+Max Size of Write /Transaction year Need the maximum size of write transaction per year Would depend on solution provided
+Any Document Upload Permitted Is there any document upload required Yes
+Max Size of File in MB What is the file Upload size in MB Currently, max size is 20 MB per file
+Max Files per User What is the file upload per user required No limit
+Database Backup Policy What is the database back policy Reference tender technical specifications Point No. 24, it is 
+mentioned therein that full backup is to be kept
+Database Retention Policy What is database retention policy Full data is to be retained in the system
+DC - DR Policy What is Data recovery policy
+Pl refer to Sno 1 of Key technical requirement of technical 
+specs. Secured Public Cloud with high availability and 
+disaster recovery in an electronically robustdata center. 
+Operations would be shifted to DR site once in 6 months
+RPO -- Recovery Point of Object What is the required recovery Point of Object Not more than 3 hours
+RTO -- Recovery Time of Object What is the Recovery Time of Object Not more than 3 hours
+Data Archival Policy What is the current data archival policy As of now, data is not archived, policy may be formulated 
+during implementation
+Bid/ RA Section Seller Query/ Representation in GeM Portal NTPC Reply
+Request to amend QR: We request removal of the NABH requirement in the clause “Successful 
+operation (≥6 months) in ≥5 hospitals each ≥50 beds & NABH certified.” NABH accreditation pertains 
+to hospital quality processes and is not related to HMIS performance or ABDM compliance. Many 
+large public hospitals operating HMIS are not NABH certified, which unnecessarily restricts fair 
+competition and does not reflect the true capability of the software. Request to allow ≥5 hospitals of 
+≥50 beds irrespective of NABH status.
+Regarding the clause “Implementation in ≥100-bed NABH hospital, including 1 year 
+AMC/subscription” — NABH certification is for hospitals, not software. The requirement should be 
+that the HMIS is NABH compliant, and not that the hospitals themselves are NABH certified.
+SOW – Page 4 of 5 SOW – Clause 16 (BOQ) Part-I includes subscription/license/transaction charges 
+Kindly confirm whether third-party digital health transaction fees (e.g., telemedicine or ABDM 
+gateway charges, if applicable) fall under bidder scope or are to be borne by NTPC.
+FALLS UNDER BIDDER'S SCOPE(ANY SUCH CHARGES IF 
+APPLICABLE)
+Technical Spec – Page 7 of 20 Technical Specification – Voice-to-Text VTT license volume Request 
+confirmation that the VTT license quantity mentioned in the specification reflects NTPC’s baseline 
+requirement and that scalability based on approved need is acceptable. AS PER THE SCOPE OF WORK
+Support Requirement Section Technical Specification – Support 24×7 support staffing Kindly confirm 
+that 24×7 support may be provided through remote support resources deployed in shifts, with onsite 
+presence required only during rollout, stabilisation, and scheduled visits.
+As per the Scope of Work
+SOW – Page 4 of 5 SOW – Hardware Scope End-user devices Kindly confirm that end-user devices 
+(PCs, laptops, tablets, printers, LAN switches, etc.) are outside bidder scope and that only HMIS-
+linked devices (e.g., biometric, DICOM interface hardware) are required.
+Yes, its is confirmed.
+Technical Spec – Page 3 of 20 Technical Specification – Integrations Integration details Kindly confirm 
+availability of integration specifications or access credentials for SAP, AD, Sanjeevani, and CLIMS 
+during the integration phase.
+It would be shared with the successful bidder.
+SOW – Pages 1–2 of 5 SOW – Training Training headcount Request approximate user counts (or 
+ranges) per site to structure training batches and planning. 8-10 per site
+ATC – Project List Annexure List of NTPC Locations Site details Kindly provide location-wise hospital 
+details including bed count, OPD/IPD load, and available services to plan the deployment schedule 
+and infrastructure sizing.
+List of NTPC Project/Station/ Unit/ O  ice attached in SoW
+Technical Spec – Imaging/Lab Equipment Section Technical Specification – Equipment DICOM 
+connectivity Kindly confirm whether non-DICOM imaging devices, if present, will require bidder-
+provided DICOM converters.
+Yes
+SOW – Page 2 of 5 Project Management PM coordination Kindly confirm that the vendor’s project 
+manager will coordinate directly with NTPC’s designated authority as per approved escalation matrix. Yes
+Technical Spec – Page 7 of 20 Hosting Requirement CSP selection Kindly confirm whether NTPC will 
+nominate a MeitY-empanelled CSP or whether bidder may propose a suitable MeitY-empanelled 
+cloud provider.
+Bidder may propose MeitY-empanelled CSP as per scope of 
+work.
+SOW – Pages 2–3 of 5 Training Scope Training bands Kindly confirm whether bidder may propose 
+standard training user bands for approval during rollout. Yes
+TENDER CONDITION WILL PREVAIL
+Scope of Supply/Service
+Bid Corrigendum-I
+Bid Eligibility Criteria
+Technical Spec – Page 3 of 20 Telemedicine Telemedicine usage considerations Kindly confirm the 
+handling of any per-use telemedicine gateway charges, if applicable during operations. Charges, if applicable, will be borne by the bidder
+ATC – General Conditions Contract Interpretation Document precedence Kindly confirm that all 
+clarifications issued in response to pre-bid queries shall form part of the final contract documents. Yes
+Volume-III Penalty Section Volume-III – Penalty Penalty stated at ₹5,000/day Please confirm that the 
+total liability for penalties will be governed by the ceiling limit defined under the applicable GPC 
+provisions.
+As per Scope of work 
+GPC – Page 13 of 38 Volume-I Section II – GPC Clause 21 Quarterly AMC payments vs SOW six-
+monthly O&M payments Kindly confirm that SOW Clause 17 (Payment Plan) governs the O&M 
+payment frequency.
+As per the Scope of Work
+Technical Spec – Page 7 of 20 Technical Specification – OS Independent Definition of OS 
+independence Request confirmation whether OS independence refers primarily to user-side 
+browser/device access while allowing backend cloud deployment OS to be vendor-proposed.
+OS independence refers  to user-side browser/device  
+SOW – Page 4 of 5 SOW – Payment Plan Cloud infrastructure billing cycles Kindly confirm that cloud 
+infrastructure cost milestones may be structured internally to align with CSP annual/upfront billing 
+cycles while maintaining overall BOQ totals.
+As per scope of work 
+SOW – Page 3 of 5 SOW – DR & Hosting DR architecture requirements Kindly specify the expected 
+RPO and RTO values and confirm whether DR capacity at ~50% of production load is acceptable.
+Secure cloud infrastructure is to be provisioned with DC & DR 
+active-passive configuration and RPO/RTO not more than 3 
+hours
+Security Section Technical Specification – Security Audit Security audit frequency Request 
+confirmation whether annual CERT-IN security audit complemented by interim vulnerability 
+assessments meets NTPC’s compliance expectations.
+As per scope of work 
+Technical Spec – Pages 1–10 Technical Specification – Functional Modules Functional scope 
+finalization Request confirmation that functional requirements will be finalized during the SRS stage, 
+and additional requirements beyond approved SRS will follow a change-request process.
+Yes
+Technical Spec – Pages 8–9 of 20 Technical Specification – Backup & Retention Backup retention & 
+sync Request clarification on expected backup retention duration and the required frequency of 
+synchronization with NTPC’s central servers.
+1.Full data retention. 2. Frequency of synchronization  with 
+NTPC's central servers may be kept as daily
+SOW – Page 2 of 5 New Application Integration Future integrations Kindly confirm that integrations 
+for applications introduced later will follow structured change-control with mutually agreed 
+timelines.
+Yes
+SOW – Page 2 of 5 SOW – SLA Matrix SLA timing thresholds Kindly confirm that SLA 
+response/resolution time will be measured from acknowledgment of the ticket in the NTPC-vendor 
+ticketing system.
+As per scope of work 
+Technical Spec – Page 9 of 20 Technical Specification – Source Code IP and source code deliverables 
+Request clarification whether NTPC requires no source code handover.
+It is clarified that the successful bidder shall need to share 
+the complete working solution after initial development and 
+each subsequent update/release with the ownership of 
+NTPC. This shall include the complete source code of all 
+components used. 
+SOW – Page 2 of 5 SOW – Warranty & O&M Sequencing Warranty + O&M timeline Kindly confirm 
+the sequence: (1) Implementation completion, (2) Warranty for 1 year, (3) O&M for 6 years 
+thereafter, with O&M invoicing every 6 months.
+Yes
+SOW – Page 4 of 5 BOQ Part-II Retained amount Kindly confirm that retained amount applies only to 
+Part-I and that release shall follow AMC payment cycles. Please refer Note of Clause 17.0 Payment  Plan of SoW
+Technical Spec – Page 9 of 20 Standards & Compliance Interoperability standards Request 
+confirmation whether NTPC prefers HL7 v2/v3 or FHIR for specific integrations or whether bidder 
+may propose a suitable standard.
+As per the Scope of Work
+Bid Eligibility Criteria ATC – QR Section Qualification Requirements QR documentation Kindly confirm that QR compliance 
+will be evaluated as per annexure formats included within the tender. Yes
+Product/Service specification
+Terms and Conditions
+Notes:
+ 1.No further queries submiƩed via email will be considered.
+ 2.A response has already been provided; Bid Corrigendum‑I shall be treated as final. No additional queries related to Bid Corrigendum‑I will be entertained.
+ 3.Bidders parƟcipaƟng under the Startup route may also submit documents related to their annual turnover. However, the ﬁnancial requirements sƟpulated under IFB Clause 7.2.0 shall not be applicable to them.

@@ -1,0 +1,127 @@
+NTPC Limited eProcurement Portal -�-- ......... ,,.. 
+�.1;: ;:;:.• 1-. Ir\,,. Tender Details -- - - Ienae1:, 
+� Maham tna Company Date : 23-Apr-2026 05:08 PM 
+§ Print
+Basic Details 
+Organisation Chain NTPC Limited I I Corporate Centre! 1ussq ICPG-1 
+Tender Reference Number NTPC/USSC-CPGl/9900323665 
+TenderID Withdrawal Allowed Yes 
+Tender Type Form of contract Works 
+Tender Category No. of Covers 3 
+General Technical ItemWise Technical Evaluation No Evaluation Allowed Allowed 
+Payment Mode 
+2026 NTPC 107523 1 
+Open Tender 
+Works 
+Yes [Compliance Required] 
+Online Is Multi Currency Allowed For BOQ No 
+Is Multi Currency Allowed No Allow Two Stage Bidding No For Fee 
+PaY.ment Instruments Cover Details, No. Of Covers - 3 
+Online 
+1
+�.No IBankName 
+I
+Cover No Cover Document Type Description 
+Bankers Scanned EMD SBI Bank 1 Fee .pdf Details 
+2 PreQual/Technical .pdf Technical / QR 
+Details 
+.pdf Attachment-3 
+.pdf Power of 
+Attorney 
+Declaration 
+regarding 
+.pdf insolvency, 
+bankruptcy and 
+Liquidation 
+(Attachment-3L) 
+3 Finance .xis Price Bid / BOQ 
+Tender Fee Details,_[Total Fee in if * - 0.00] EMD Fee Details 
+Tender Fee in f 0.00 EMD Amount in f 2,00,000 EMD Exemption No 
+Fee Payable To Nil Fee Payable At !Nil Allowed 
+Tender Fee Exemption No EMDFeeType fixed EMD Percentage NA 
+Allowed EMD Payable To Nil EMD Payable At Nil 
+BG Required Yes 
+Minimum Direct EMD 0.00 
+Payment inf 
+Click to view modification history 
+Work [Item(s). 
+Title Dismantling of existing In-Line Magnetic Separator and Supply, Erection and Commissioning of New In-Line Magnetic 
+Separators at Coal Handling Plant, Stage-1 Talcher Kaniha 
+Work Description Dismantling of existing In-Line Magnetic Separator and Supply, Erection and Commissioning of New In-Line Magnetic 
+Separators at Coal Handling Plant, Stage-1 Talcher Kaniha 
+Pre Qualification Details As per tender documents 
+Independent External NA 
+Monitor/ Remarks 
+Show Tender Value in No 
+Public Domain 
+Tender Value in f 0.00 Product Category Miscellaneous Sub category NA 
+Works 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work(Days) 365 
+Location Western Region Head Pincocle 492018 Pre Bid Meeting Place Online at TE AMS 
+Quartersll Plot No. -87, Portal 
+Secto 
+Pre Bid Meeting Address Online at TE AMS Portal Pre Bid Meeting Date 27-Apr-2026 Bid Opening Place Western Region 
+04:30 PM Head Quartersll 
+Should Allow NDA Tender No Allow Preferential Bidder No 
+Critical Dates 
+Publish Date 23-Apr-2026 06:00 PM Bid Opening Date 19-May-2026 02:40 PM
+Document Download / Sale Start Date 23-Apr-2026 06:00 PM Document Download / Sale End Date 16-May-2026 02:40 PM
+Clarification Start Date 23-Apr-2026 06:00 PM Clarification End Date 06-May-2026 06:00 PM
+Bid Submission Start Date 27-Apr-2026 09:20 AM Bid Submission End Date 16-May-2026 02:40 PM
+Tender Documents 
+NIT Document Document Size S.No Document Name Description (in KB) 
+1 Tendernotice 1.pdf NIT 173.53 
+�orkitem Document Size Documents S.No Document Type Document Name Description (in KB) 
+1 TenderDocument.rar Tender Document 16023.37 
+2 
+Tender Documents 
+BOO  BOO 110757.xls BOO 316.00 
+View GTE Details - SERVICE GTE (OT- SINGLE STAGE-MLC-LAND BORDER CLAUSE) 
+S.No Particulars Description Expected Mandatory Value 
+�onfirm that you are a LOCAL SUPPLIER, and the LOCAL 
+1.0 K:ONTENT included in the PACKAGE FOR COMPLETE MLC Declaration for Services i\'es Yes SCOPE OF WORK meets the MINIMUM LOCAL CONTENT 
+reauirements of the Tender. 
+2.0 Do vou acceot NTPC Safetv Rules SAFETY RULES COMPLIANCE rr'es Yes 
+3.0 Do you accept the Fraud Prevention Policy of NTPC FRAUD PREVENTION r<es Yes 
+14.0 Do you accept Withholding and Banning of Business BANNING POLICY DECLARATION rt'es Yes Dealino Policv of NTPC 
+Do you certify full compliance on clause as per tender 
+5.0 k:locuments on Restrictions on procurement from a Bidder LAND BORDER CLAUSE COMPLIANCE i\'es Yes 
+pf a country which shares a land border with India 
+6.0 Do you certify full compliance on Oualifvino Reouirements OR COMPLIANCE r<es Yes 
+7.0 Do you certify full compliance to all provisions of Bid NO DEVIATION CERTIFICATION i\'es Yes (locuments 
+Auto Extension Corrigendum ProJlerties for Tender 
+Iteration No. of bids required for bid opening a tender Tender gets extended to No. of days 
+1. 1 4 
+2. 1 4 
+3. 1 4 
+Bid OReners List 
+S.No Bid Opener Login Id Bid Opener Name Certificate Name 
+1. harshmamodia@ntpc.co.in Harsh Mamodia Harsh Mamodia 
+2. �kbhoiwani@ntpc.co.in Vikas Kumar Bhoiwani Vikas Kumar Bhoiwani 
+3. anandshanker@ntpc.co.in ANAND SHANKER ANAND SHANKER 
+14. tosinoh@ntoc.co.in Chandra Prakash Sinoh Chandra Prakash Sinoh 
+Tender ProJlerties 
+Auto Tendering Process No Show Technical bid status No 
+allowed 
+Show Finance bid status Yes Stage to disclose Bid Details in Public Technical Bid Opening 
+Domain 
+BoQ comparative Chart Normal BoQ Compartive chart decimal places 2 
+model 
+BoQ Comparative Chart L IForm Based BoQ INo 
+RankTvi>e 
+TIA Undertaking 
+lS.No Undertakina to Order iTender comolvina with Order Reason for non comoliance of Order 
+1 PPP-MIi Order 2017 'Anree 
+2 MSEs Order 2012 Agree 
+Tender Inviting Authority 
+Name 
+Address 
+Tender Creator Details 
+Created By 
+Designation 
+Created Date 
+DGM 
+Western Region Head Quartersll Plot No. -87, Sector-24, Atal RAIPUR 492018 
+ANAND SHANKER
+DGM 
+23-Apr-2026 04:24 PM

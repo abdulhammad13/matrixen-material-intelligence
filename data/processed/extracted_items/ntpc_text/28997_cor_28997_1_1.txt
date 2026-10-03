@@ -1,0 +1,693 @@
+Sl Category Page RFP File Section RFP Clause Query NTPC Reply
+1 Scope of 
+Supply/Service 208 Main RFP
+3. Installation and
+commissioning
+3.1 Installation 
+and 
+commissioning of 
+Hardware
+(viii) Bidder should have a tie-up with the respective OEMs for 
+support during
+installation. The installation has to be certified by the respective 
+OEM and bidder
+has to submit the OEM certification for the same.
+Installation is always carried out by the 
+Bidder (System Integrator); the OEM is 
+typically not involved in the installation 
+activity. Bidder requests that the line should 
+be changed to "The installation has to be self 
+certified by the Bidder"
+As per the NTPC 
+Specification without 
+any deviation.
+2 Scope of 
+Supply/Service 101 Main RFP
+Inspection
+and
+tests
+All materials shall be inspected as per provisions of SPC / Technical
+Specification. The Contractor/Supplier shall execute the Purchase
+Order/Services in compliance with the provisions of the Contract.
+For all cases where pre-dispatch inspection is stipulated, materials 
+shall be inspected prior to dispatch by an authorized 
+representative of NTPC for which an advance notice of 15 days 
+shall be given by the
+Contractor/Supplier. In such cases no material shall be dispatched 
+without inspection unless specific waiver/exemption is 
+communicated in writing to the Contractor/Supplier. In all cases 
+necessary test certificates, guarantee certificate in respect of 
+material/equipment performance shall be furnished along with 
+despatch documents. However, the final inspection of material 
+shall be done at our site only and acceptance of materials is 
+subject to such final inspection only
+OEM products are dispatched from Different 
+warehouse across India and inspection prior 
+to dispatch is not feasible . Also it would lead 
+to delay in the product delivery.Bidder 
+requests that OEM compliance to 
+specifications should be considered. Kindly 
+consider
+Also, request more clarity on the cases which 
+would fall under this category 
+Pre-dispatch 
+inspection is not 
+stipulated in this 
+package.
+3 Scope of 
+Supply/Service 208 Main RFP
+3. Installation and
+commissioning
+3.1 Installation 
+and 
+commissioning of 
+Hardware
+(ix) Provide OEM services to carry out performance tuning of
+complete systems supplied by the bidder
+Bidder understand that the performance  
+tuning of supplied hardware would be done 
+by Bidder and bidder would involve OEM as 
+and when required as B2B OEM support 
+would be there for the contract duration. 
+Application performance issue would be 
+taken care by respective application owner. 
+Kindly confirm
+As per the NTPC 
+Specification without 
+any deviation.
+Pre Bid Query -1 & NTPC Reply
+Tech Corrigendum-I
+Sl Category Page RFP File Section RFP Clause Query NTPC Reply
+Pre Bid Query -1 & NTPC Reply
+4 Scope of 
+Supply/Service 210 Main RFP
+6. System 
+Availability
+requirements & 
+deduction for Non-
+performances
+For meeting the SLA, bidder may have to deploy 2 resident 
+engineers (DC+DR) on his behest at his own cost. NTPC shall not 
+be responsible for the boarding, lodging
+Is the requirement is for two Resident 
+Engineers at both DC and DR (i.e., 2 each, 
+Total 4 ), or one Resident Engineer at DC and 
+one at DR? Bidder understands that the 
+engineer would be working in general shift . 
+Kindly confirm
+One at DC and One at 
+DR.
+5 Scope of 
+Supply/Service 212 Main RFP
+7.4 Delivery 
+Timeline and 
+Liquidated 
+Damages Clause
+The bidder shall ensure the complete supply, installation, testing, 
+and commissioning of the
+All the Equipment within ninety (90) calendar days from the date 
+of issuance of the Purchase
+Order (PO) by NTPC Ltd.
+As the OEM hardware delivery timeslines are 
+usually  8-12 weeks and post that ITC of all 
+equipments would take time, Bidders 
+requests that implementation period should 
+be increased from 90 days to 150 days
+As per the NTPC 
+Specification without 
+any deviation.
+6 Terms & 
+Conditions 212 Main RFP Liquidated 
+damages
+The timely delivery of the material is the essence of the contract. 
+In the event of Contractor/Supplier’s failure to deliver the material 
+of acceptable quality within the stipulated delivery period, the 
+liquidated damages are payable by the Contractor/Supplier @ 
+0.5% (one half of one percent) per week of delay or part thereof, 
+of the unexecuted order value. However, the total liability of the 
+Contractor/Supplier under this clause shall not exceed 5% of the 
+Order value as awarded
+Bidders requests that implementation period 
+should be increased from 90 days to 150 
+days. Else Bidder requests that as delivery is 
+dependent upon OEM and also the SITC is 
+dependent upon site readiness, in case the 
+dependency is due to OEM or NTPC, the 
+Liquidated damages should not be imposed 
+on the bidder . Request confirmation
+As per the NTPC 
+Specification without 
+any deviation.
+Tech Corrigendum-I
+Sl Category Page RFP File Section RFP Clause Query NTPC Reply
+Pre Bid Query -1 & NTPC Reply
+7 Terms & 
+Conditions 186 Main RFP
+25.0. Payment 
+Terms
+25.1 Hardware 
+Supply, 
+Installation, 
+Commissioning, 
+Testing, Handover
+a) 75% after receipt and successful inspection of all BOQ items. (60 
+Days from the award of PO)
+15 % after completion of all activities as per scope. (90 Days from 
+the award of PO)
+5% after successful integration and rollout of PRADIP System 5% 
+payment will be released after 1 year warranty as per 
+performance and deductions on account of penalty as per agreed 
+SLA/FMS.
+Documents Required: Submission of by Bidder of Warranty 
+certificates and back-up support guarantee for all hardware and 
+software products from respective OEMs through assurance 
+letter/certificates to NTPC for on-site warranty support of Seven 
+(1+6) years as per warranty terms above. Availability of all 
+hardware/software
+Here the quoted price (excluding taxes) of CMS for 6 years should 
+not be less than 35% of (supply + installation) price (excluding 
+taxes) at least Otherwise then an amount equal to the “difference 
+of 35% of (supply + installation) excluding taxes and quoted CMS 
+price excluding taxes for 6 years" shall be retained as "Retained 
+Amount towards CMS" from the total amount payable for supply 
+portion. The retained amount shall be released in equal 
+instalments along with quarterly CMS payment.
+25.3 AMC payment shall be released in Quarterly RA Bill basis 
+after Certification by Engineer-in-Charge.
+Bidder request below changes in payment 
+terms:
+a. 85% against delivery and successful
+inspection of all BOQ items. (60 Days from 
+the award of PO)
+b. 10 % after completion of all activities as 
+per scope. (90 Days from the award of PO)
+c. 5% payment will be released after
+successful integration and rollout of PRADIP 
+System or  1 year warranty whichever is 
+earlier
+d. For AMC , bidder requests that payment
+should be quarterly in advance with in 30 
+days from date of invoice against equal 
+amount ABG( Advanced Bank Guarantee) 
+As per the NTPC 
+Specification without 
+any deviation.
+8 Scope of 
+Supply/Service 211 Main RFP
+ 6.System
+Availability
+requirements & 
+deduction for Non-
+performances
+ 6.2.2AMC Period:
+ a)The availability of PRADIP Services shall be maintained above
+99% on quarterly basis.
+ b)In case of availability between <=99 and >98, 5% of Quarterly
+AMC Amount + Retained amount as per Clause 7.2.
+ c)In case of availability between <=98 and >97, 10% of Quarterly
+AMC Amount + Retained amount as per Clause 7.2.
+ d)In case of availability between <=97, 15% of Quarterly AMC
+Amount + Retained amount as per Clause 7.2.
+Bidder understands that Pradip services 
+would be considered available if one of the 
+HA hardware is available . Kindly confirm 
+Also, bidder requess that max penalty during 
+CMS period should be capped to 10% of 
+quarterly CMS value excluding the retained 
+amount 
+Penalty should be imposed on the bidder for 
+reasons solely and exclusively attributable to 
+the bidder 
+Caping is already 
+mentioned in NTPC 
+Specification in 
+Clause 6.2.2 (d). 
+Remaining conditions 
+shall be as per the 
+NTPC Specification 
+without any 
+deviation.
+Tech Corrigendum-I
+Sl Category Page RFP File Section RFP Clause Query NTPC Reply
+Pre Bid Query -1 & NTPC Reply
+9 Scope of 
+Supply/Service 215 Main RFP Server(X86) 
+Technical Solution
+Backup Solution: 
+ (a)Must support bare-metal recovery of virtual machines.
+ (b)Support for Windows Server and Linux OS plaƞorms.
+ (c)The Storage for Backup will be provided by NTPC. Vendor has 
+to integrate the Backup Solution with NTPC Provided Storage.
+Kindly clarify whether the Vendor is required 
+to supply and implement the backup solution 
+(software/licenses) in addition to integrating 
+it with the NTPC-provided storage, or if NTPC 
+will provide the backup software/solution 
+and the Vendor’s role is limited to integration 
+only.
+In case backup solution is required, would 
+need the no, of VM's which needs to be 
+considered for backup
+Backup Solution to be 
+provided by Vendor 
+for 30 VMs.
+Can Product/Service 
+Specification 223 Main RFP
+Rack-Mountable 
+KVM Switch for 
+Enterprise
+Support for USB, PS/2, /VGA/HDMI/DP
+Currently, no single product offers USB and 
+PS/2 plus VGA, HDMI, and DisplayPort in one 
+console. Also PS/2 plus VGA is not being used 
+for most servers  currently . Hence pls change 
+the requirment to "Support for USB,  
+HDMI/DP"
+"Support for USB, 
+PS/2, 
+/VGA/HDMI/DP" may 
+be read as "Support 
+for USB, PS/2 
+/VGA/HDMI/DP"
+11 Product/Service 
+Specification 215 Main RFP Virtualization & 
+Clustering Windows DC Edition Unlimited VMs + RHEL Unlimited VMs
+Microsoft WindowssLic+SA is for 3 Yrs and 
+then renews SA  in 3 Yrs block. If we need for 
+7 Yrs , we need to provision for  either 6 Yrs 
+or 9 Yrs . Kindly calrify if SA is to be provided 
+for 6 Yrs or 9 Yrs 
+As per the NTPC 
+Specification without 
+any deviation.
+Tech Corrigendum-I
+Sl Category Page RFP File Section RFP Clause Query NTPC Reply
+Pre Bid Query -1 & NTPC Reply
+12 Terms & 
+Conditions
+G
+e
+n
+e
+r
+a
+l
+Related to OEM items
+For OEM Items bidder request clarification as 
+below: “In respect of OEM products and/or 
+OEM support thereon to be supplied via the 
+bidder (collectively “OEM Items”), those will 
+be provided solely as per OEM terms. In case 
+of any issues arising from OEM Items, bidder 
+will coordinate with the relevant OEM or 
+reseller to pass on any service level credit to 
+XXXXX, but the bidder shall not be 
+responsible for any representations, 
+warranties or indemnities in respect of OEM 
+Items. Notwithstanding anything contained 
+in the RFP or the contract, under no 
+circumstances shall bidder be liable for any 
+damages arising out of use of OEM Items.”
+As per the NTPC 
+Specification without 
+any deviation.
+Tech Corrigendum-I
+Sl Category Page RFP File Section RFP Clause Query NTPC Reply
+Pre Bid Query -1 & NTPC Reply
+13 Terms & 
+Conditions 104 ATC Limitation of 
+Liability
+Except in cases of criminal negligence or willful misconduct,
+(a) Neither Party shall be liable to the other Party, whether in
+contract, tort, or otherwise, for any indirect or consequential loss 
+or damage, loss of use, loss of production, or loss of profits or 
+interest costs, which may be suffered by the other Party in 
+connection with the Contract, provided that this exclusion shall 
+not apply to any obligation of the Contractor to pay liquidated 
+damages to the Employer and
+(b) the aggregate liability of the Contractor to the Employer,
+whether under the Contract, in tort or otherwise, shall not exceed 
+the total Contract Price, provided that this limitation shall not 
+apply to any obligation of the Contractor to indemnify the 
+Employer with respect to patent infringement.
+(c) the aggregate liability of the Employer to the Contractor, 
+whether under the Contract, in tort or otherwise, at any point of 
+time during the execution/performance of the Contract, shall not 
+exceed the ‘total Contract Price less payments already released to 
+the Contractor’.
+We request to define the clause as below:
+(a) Neither Party shall be liable to the other 
+Party, whether in contract, tort, or otherwise, 
+for any indirect or consequential loss or 
+damage, loss of use, loss of production, or 
+loss of profits or interest costs, which may be 
+suffered by the other Party in connection 
+with the Contract
+(b) the aggregate liability of the Contractor to 
+the Employer, whether under the Contract, in
+tort or otherwise, shall not exceed the total 
+Contract Price
+(c) the aggregate liability of the Employer to 
+the Contractor, whether under the Contract, 
+in tort or otherwise, at any point of time 
+during the execution/performance of the 
+Contract, shall not exceed the ‘total Contract 
+Price
+As per the NTPC 
+Specification without 
+any deviation.
+Tech Corrigendum-I
+Sl Category Page RFP File Section RFP Clause Query NTPC Reply
+Pre Bid Query -1 & NTPC Reply
+14 Terms & 
+Conditions
+22, 
+107, 
+192
+ATC Indeminification Section 31 & 32 Page 22, Item 48.2 Page 107, Section 38 Page 192.
+We request the indemnities be limited to the 
+following:
+“If a third party asserts a claim against the 
+Employer that the Contractor’s services 
+acquired under the Agreement infringes a 
+patent or copyright, Contractor will defend 
+the Employer against that claim and pay 
+amounts finally awarded by a court against 
+the Employer or included in a settlement 
+approved by the Contractor. Employer must 
+promptly: i) notify Contractor in writing of 
+the claim; ii) supply information requested by 
+Contractor; and iii) allow Contractor to 
+control, and reasonably cooperates in, the 
+defense and settlement, including mitigation 
+efforts.”
+As per the NTPC 
+Specification without 
+any deviation.
+15 Terms & 
+Conditions 85,201 Main RFP Dispute 
+Resolution Section 14 Page 85, Section 7 Page 201.
+Disputes should be resolved via arbitration. 
+We request the following to be documented:
+“Both parties agree to the application of the 
+laws of India, without regard to conflict of 
+law principles. Disputes shall be finally 
+settled in accordance with The Arbitration 
+and Conciliation Act, 1996 then in effect, in 
+English, with seat in New Delhi, India. There 
+shall be one arbitrator if the amount in 
+dispute is less than or equal to Indian Rupee 
+five crores and three arbitrators if the 
+amount is more.”
+As per the NTPC 
+Specification without 
+any deviation.
+Tech Corrigendum-I
+Sl Category Page RFP File Section RFP Clause Query NTPC Reply
+Pre Bid Query -1 & NTPC Reply
+16 Terms & 
+Conditions 42 ATC Termination Termination
+Bidder request the clause to be amended as 
+below: Termination for Cause-Upon material 
+breach, either party may terminate this 
+Statement of Work by giving the other party 
+not less than 90 days written notice. Upon 
+termination, customer would pay bidder for 
+(1) all Services bidder provided up to the
+effective date of termination , and any
+Products and Materials bidder delivers
+through termination, 
+Termination for Convenience - Customer may 
+terminate this Statement of Work without 
+cause, by giving not less than ninety (90) 
+days’ written notice to bidder, provided that, 
+in case of such termination, Customer shall 
+pay bidder all of the following amounts: 
+ •Charges for Services provided by bidder up
+to the effective date of termination, and
+charges for any products or materials 
+provided by bidder.
+ •Costs incurred by bidder in connection with
+the termination of this Statement of Work.
+ •Deferred costs or unamortized investments,
+including but not limited to: net book value of
+assets procured from or on behalf of the 
+Customer, initial transition or setup costs not 
+yet fully amortized, and other unamortized 
+investments. 
+ •Applicable wind-down expenses.
+As per the NTPC 
+Specification without 
+any deviation.
+17 Product/Service 
+Specification 214 ATC BOQ of Items BOQ
+After due diligence bidder understand that 
+there is gap in compute and memory 
+specifications and what is currently running in 
+environment. This request to please 
+revalidate and confirm the sizing.
+As per the NTPC 
+Specification without 
+any deviation.
+Tech Corrigendum-I
+Sl Category Page RFP File Section RFP Clause Query NTPC Reply
+Pre Bid Query -1 & NTPC Reply
+18 Terms & 
+Conditions 5 Main RFP 7.2
+For clause 7.2 "List of documents to be submitted by vendor to 
+Qualify this QR:" (ii) Copies of Purchase order(s) / LOA(s)/Contract 
+Agreement(s) and installation / commissioning/ acceptance 
+certificate from the client(s) clearly indicating period of execution 
+along with value (Excl. Taxes & duties) and scope of work 
+executed as on/before date of Techno-commercial bid opening 
+duly certified and digitally signed by specified TPIA/ Independent 
+Statutory Auditor."
+request to amend the point as below: "(ii) 
+Copies of Purchase order(s) / LOA(s)/Contract 
+Agreement(s) and installation / 
+commissioning/ acceptance certificate from 
+the client(s) clearly indicating period of 
+execution along with value (Excl. Taxes & 
+duties) and scope of work executed as 
+on/before date of Techno-commercial bid 
+opening."
+As per the NTPC 
+Specification without 
+any deviation.
+19 Terms & 
+Conditions 160 ATC Appendix-1 to 
+Annexure-15 Appendix-1 to Annexure-15 
+Appendix-1 to Annexure-15. The bidder 
+request to be exempted from submitting this 
+appendix in case the Reference work Details 
+/ WO/PO/LOA/Contract submitted for 
+qualification are issued by employer (NTPC 
+Ltd) itself.
+As per the NTPC 
+Specification without 
+any deviation.
+Tech Corrigendum-I
+Sl NO Page No Clause Tender Specifications Prebid Queries/Recmmendations Justification NTPC Reply
+The appliance should have minimum: We suggest to modify this point as 
+below :
+The current specification of 12 × 10GbE and 
+6 × 40GbE ports may result in oversizing the 
+appliance and increased cost, especially 
+when the system throughput requirement 
+can be achieved with a smaller number of 
+interfaces.
+a. 12 * 10GbE SFP+ ports. The appliance should have 
+minimum:
+b. 6*40GbE QSFP+ ports. a. 8 * 10GbE SFP+ ports.
+Industry-standard appliances capable of 
+delivering the required throughput typically 
+support 8 × 10GbE and 4 × 40GbE 
+interfaces, which are sufficient to meet 
+both performance and redundancy needs 
+(using Link Aggregation / Portchannel for 
+resiliency).
+c. 6X10 Gbps pluggable optics multimode SR b. 4*40GbE QSFP+ ports.
+d. 2X40 Gbps pluggable Optics mutimode SR c. 6X10 Gbps pluggable optics
+multimode SR
+Reducing the interface requirement will 
+allow a broader participation of OEMs 
+while still ensuring performance, 
+scalability, and redundancy are met.
+e. Dual AC power supply d. 2X40 Gbps pluggable Optics
+mutimode SR
+f. 5vADCs e. Dual AC power supply
+f. 5vADCs
+We suggest to modify this point as 
+below :
+The overall system requirement specifies 
+100 Gbps throughput, but the SSL 
+requirement is limited to 10 Gbps bulk SSL 
+throughput and 20,000 TPS, which is 
+disproportionately low compared to the 
+system throughput.
+The system should have hardware-
+based SSL acceleration with 
+minimum 70 Gbps of bulk SSL 
+throughput and 140,000 RSATPS (2k 
+key size) and  85K ECDSA TPS, 
+scalable with license up to system 
+throughput.
+Pre Bid Querry -2 & NTPC Reply
+As per the NTPC Specification 
+without any deviation.
+The technical specification 
+provided , is the minimum 
+requirement. Any product / 
+material having better or higher 
+features shall always be 
+technically acceptable. 
+1 216 A.3
+2 216 A.6
+It should have hardware based SSL acceleration 
+with 10Gbps of bulk SSL throughput and 20,000 
+2k SSL transactions per second (TPS)/CPS.
+Tech Corrigendum-I
+Sl NO Page No Clause Tender Specifications Prebid Queries/Recmmendations Justification NTPC Reply
+Pre Bid Querry -2 & NTPC Reply
+For real-world deployments, SSL/TLS traffic 
+forms a significant portion of application 
+traffic. Limiting SSL to 10 Gbps may create a 
+bottleneck and prevent the system from 
+achieving its rated performance under 
+encrypted workloads.
+Leading OEMs provide hardware-based SSL 
+acceleration that scales linearly with 
+system throughput to ensure there is no 
+degradation for encrypted traffic.
+We suggest to modify this point as 
+below :
+Leading OEM hardware load balancers 
+already provide robust HA mechanisms 
+using standard network interfaces, 
+including:
+The system should support 
+automated configuration 
+synchronization and fast failover 
+using standard network-based HA 
+mechanisms, without the need for 
+specialized USB/proprietary cable 
+connections.
+Automated configuration synchronization.
+State/connection mirroring.
+Sub-second failover times.
+These capabilities are achieved over 
+existing network links and do not require 
+additional specialized cables (USB or 
+proprietary interconnects).
+Mandating a specific cable-based fast 
+failover method may unnecessarily restrict 
+the solution to certain OEMs, while 
+equivalent or better functionality can be 
+achieved using standards-based clustering 
+and HA features.
+A.7
+It should have USB/Network based fast failover 
+support for automated configuration 
+synchronization and improved failover time as 
+compare to traditional cluster.
+As per the NTPC Specification 
+without any deviation.3 216
+Tech Corrigendum-I
+Sl NO Page No Clause Tender Specifications Prebid Queries/Recmmendations Justification NTPC Reply
+Pre Bid Querry -2 & NTPC Reply
+In order to meet high performance requirements 
+load balancer must support
+We suggest to modify this point as 
+below :
+For hardware load balancer solutions, 
+introducing a hypervisor layer adds 
+unnecessary overhead, operational 
+complexity, and additional points of failure. 
+It also increases the attack surface, 
+introducing additional security concerns.
+“hypervisor based five virtual load balancer to 
+create individual dedicated resource
+The load balancer must support 
+multitenancy (vADC partitions / 
+system-level virtualization) with 
+dedicated allocation of CPU, 
+memory, disk, and interfaces to 
+each tenant, without requiring a 
+hypervisor layer.
+CPU, memory; disk and interface allocated load 
+balancer instances”
+Leading OEM hardware load balancers 
+already provide native multi-tenancy (vADC 
+partitions / system-level 
+virtualization) without requiring an 
+external hypervisor.
+These native capabilities allow 
+administrators to allocate CPU, memory, 
+disk, and interface resources to 
+independent load balancer instances with 
+greater efficiency, performance, and 
+security than hypervisor-based models.
+As per the NTPC Specification 
+without any deviation.4 216 A.8
+Tech Corrigendum-I
+Sl PBQ in GeM NTPC Reply
+1
+"For Page: 208 RFP File: Main RFP Section: 3. Installation and commissioning 3.1 Installation and 
+commissioning of Hardware Point: (viii) Bidder should have a tie-up with the respective OEMs for support 
+during installation. The installation has to be certified by the respective OEM and bidder has to submit the 
+OEM certification for the same. Query is as below: Installation is always carried out by the Bidder (System 
+Integrator); the OEM is typically not involved in the installation activity. Bidder requests that the line 
+should be changed to ""The installation has to be self certified by the Bidder"""
+As per the NTPC Specification without any deviation.
+2 Sir, as you are looking for the virtualization it is recommended to ask processor with "Hyper Threading 
+Technology". It will help to get better performance & best solution As per the NTPC Specification without any deviation.
+Pre Bid Querry-3 in GeM & NTPC Reply
+Tech Corrigendum-I
+Sl RFP Page 
+No.
+RFP Clause 
+Name & No. RFP Clause Bidder’s Query NTPC Reply
+1 4
+7. Qualifying 
+Requirement 
+for Bidders
+Note for clause: 7.1 of QR
+1. ‘Similar’ work means works which inter alia include Supply, 
+Installation of Servers and Network Switches / Load Balancers in a 
+single order.
+2. The word “executed” means the bidder should have achieved the 
+criteria specified above, even if the contract has been started earlier 
+and / or is not completed / closed. 
+3. In case of contract(s) under execution as on the date of techno-
+commercial bid opening, the value of ‘similar’ work(s) executed till 
+the date of techno commercial bid opening shall be considered 
+subject to
+submission of certificate from End-user duly certifying the executed 
+value of ‘similar’ work in such Contract/PO/Work. 
+4. The contract could be through Letter of Award/ Purchase Order/ 
+MOU/ Contract Agreement 
+5. The above value of executed work is exclusive of applicable tax/ 
+GST. 
+Note for clause: 7.1 of QR
+1. ‘Similar’ work means works which inter alia include 
+Supply, Installation of Servers, Storage, Network Switches
+& Load Balancers in a single order.
+2. The word “executed” means the bidder should have 
+achieved the criteria specified above, even if the contract 
+has been started earlier and / or is not completed / closed.
+3. In case of contract(s) under execution as on the date of
+techno commercial bid opening, the value of ‘similar’ 
+work(s) executed till the date of techno commercial bid 
+opening shall be considered subject to submission of 
+certificate from End-user duly certifying the executed value 
+of ‘similar’ work in such Contract/PO/Work. 
+4. The contract could be through Letter of Award/ Purchase 
+Order/ MOU/ Contract Agreement 
+5. The above value of executed work is exclusive of
+applicable tax/ GST. 
+As per the NTPC 
+Specification 
+without any 
+deviation.
+Pre Bid Querry -4 & NTPC Reply
+Tech Corrigendum-I

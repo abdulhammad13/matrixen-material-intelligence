@@ -1,0 +1,2517 @@
+Sl 
+No. RFQ Part-I / II/ III
+RFQ Sub-Section / Attachment 
+/ Form / Annexure Reference 
+No.
+RFQ T&C / 
+Document 
+Reference No.
+Clause No. Page 
+No. Query Description by Applicant Clarification - By NTPC
+1 EOI Tender No.  NTPC/EPC/EOI/SB-CR/2026 Annexure-A 
+I: ESSENTIAL CRITERIA  
+Supply of reheat type sub-critical coal fired Steam Generators in the range of 
+150 MWe to 250 MWe with following characteristics- 
+1. Main Steam outlet temperature range: 540 to 565 deg. C. 
+2. Reheat steam outlet temperature: 565 degC 
+3. Co-firing capability, coal note-2 with 10 % to 30% of biomassnote-3 
+4. Minimum Boiler & Cycle Efficiency: As per CERC requirements for such 
+unit sizes note-4. 
+5. Catering to CEA’s flexibilization requirements for load ramping & minimum 
+technical load criteria 
+10
+I: ESSENTIAL CRITERIA  
+Supply of reheat / Non-Reheat type sub-critical coal fired Steam Generators in the range of 90 MW  150 MWe to 
+250 MWe with following characteristics- 
+1. Main Steam outlet temperature range: 535 540 to 565 deg. C. 
+2. Reheat / Non- Reheat steam outlet temperature: 540 565 degC 
+3. Co-firing capability, coal note-2 with 10 % to 30% of biomassnote-3 
+4. Minimum Boiler & Cycle Efficiency: As per CERC requirements for such unit sizes note-4. 
+5. Catering to CEA’s flexibilization requirements for load ramping & minimum technical load criteria
+6. Main stem flow of minimum 300 TPH 
+The Query is repetative in nature and has already 
+been addressed. Applicant to refer the Queries & 
+Clarification section publishded with Corrigendum 
+no-2
+2 EOI Tender No.  NTPC/EPC/EOI/SB-CR/2026 Annexure-A 
+I: ESSENTIAL CRITERIA  
+CATEGORY - 1 
+The applicant of EOI should have designed, engineered, manufactured/got 
+manufactured, erected/supervised erection, & commissioned/supervised 
+commissioning of at least one number of the coal fired reheat type sub-
+critical, balanced draft, natural circulation Steam Generator having rated 
+capacity of 150 MWe or above which should have been in successful 
+operation for a period not less than one (1) year prior to the date of 
+publication of this EOI. 
+ 
+Remarks: In case of a non-Indian company, the applicant should have 
+registered in India, either a subsidiary or as a Joint Venture (JV) company 
+before the last date of EOI submission.
+10
+CATEGORY - 1 
+The applicant of EOI should have designed, engineered, manufactured/got manufactured, erected/supervised 
+erection, & commissioned/supervised commissioning of at least one number of the coal fired reheat type sub-
+critical, balanced draft, natural circulation Steam Generator having rated capacity of 90 MW 150 MWe or above 
+which should have been in successful operation for a period not less than one (1) year prior to the date of 
+publication of this EOI. 
+ 
+Remarks: In case of a non-Indian company, the applicant should have registered in India, either a subsidiary or as 
+a Joint Venture (JV) company before the last date of EOI submission.
+The Query is repetative in nature and has already 
+been addressed. Applicant to refer the Queries & 
+Clarification section publishded with Corrigendum 
+no-2
+3 EOI Tender No.  NTPC/EPC/EOI/SB-CR/2026 Annexure-A 
+II: ADDITIONAL CRITERIA 
+The following capabilities towards designing the steam generator for load 
+flexibilization are additional for such smaller units - 
+1. for Two shift operation, & minimum technical load (MTL) as 25% Note-A. 
+2. Capabilities to design pressure parts for creep, fatigue & creep-fatigue 
+loading criteria as also per EN-12952-3. 
+3. Burners for part-load conditions. 
+4. Condensate Polishing Unit (CPU) for such smaller units. 
+5. Flue gas re-circulation system design. 
+6. Low Pressure Economizer to maximize efficiency gains. 
+Remarks:  
+1. Note-A: The applicants should propose a design collaborator/technology 
+partner who should have successfully provided technical consultancy for 
+minimum two (02) coal fired steam generators (of minimum 150 MWe) and 
+those plants should have been in successful operation after execution of such 
+design 
+incorporation for a minimum period of one year.  
+2. Bidder may include furthermore proven design features towards improving 
+the flexibilization & heat rate of the units. 
+10
+II: ADDITIONAL CRITERIA 
+The following capabilities towards designing the steam generator for load flexibilization are additional for such 
+smaller units - 
+1. for Two shift operation, & minimum technical load (MTL) as 25% Note-A. 
+2. Capabilities to design pressure parts for creep, fatigue & creep-fatigue loading criteria as also per EN-12952-3 . 
+( The code is mentioned about CE Certification, as the project is in INDIA IBR guidlines prevails , so this code is 
+not applicable for this project. M/s***** will not consider the said code.)
+3. Burners for part-load conditions. 
+4. Condensate Polishing Unit (CPU) for such smaller units. This is BOHT out item for Boiler manufacturer and  this 
+will be based on wtaer quality and same will be incorporated in WTP system if required.
+5. Flue gas re-circulation system design - This is not required for M/s***** Cold Cyclone CFBC technology.
+6. Low Pressure Economizer to maximize efficiency gains. 
+Remarks:  
+1. Note-A: The applicants should propose a design G2collaborator/technology partner who should have 
+successfully provided technical consultancy for minimum two (02) coal fired steam generators (of minimum 90 150 
+MWe) and those plants should have been in successful operation after execution of such design 
+incorporation for a minimum period of one year.  
+2. Bidder may include furthermore proven design features towards improving the flexibilization & heat rate of the 
+units. 
+The Query is repetative in nature and has already 
+been addressed. Applicant to refer the Queries & 
+Clarification section publishded with Corrigendum 
+no-2
+(CLARIFICATION-03)
+4 EOI Tender No.  NTPC/EPC/EOI/SB-CR/2026 Annexure-A 
+C
+Supply of sub-critical steam turbine of tandem compound, condensing, reheat 
+type in the range of 150 MW to 250 MW with following characteristics.                                                                                                  
+1.Main Steam inlet temperature range: 540 to 565 deg. C.             2.Reheat 
+steam inlet temperature: 565 deg C
+3.Catering to CEA’s flexibilization requirements for load ramping & minimum 
+technical load criteria
+14
+CATEGORY - 1
+The applicant of EOI shall be allowed to have a partnership/tie-up with any foreign Steam Turbine 
+Generator OEM who has   designed, engineered, manufactured/got manufactured, erected/supervised erection, 
+& commissioned/supervised commissioning of (i) at least one (1) number sub-critical steam turbine of tandem 
+compound, condensing, reheat type of 150 MW or higher capacity and (ii) at least one (1) number of generator of 
+two pole, Thermal class 155(F) winding insulation, hydrogen / water cooled stator and hydrogen cooled rotor of 
+150 MW or above capacity. These steam turbine and generator should have been in successful operation for a 
+period of not less than one (1) year prior to the date of publication of this EOI.
+ Remarks: In case of a non-Indian company, the applicant should have registered in India, either a subsidiary or as 
+a Joint Venture (JV) company before the last date of EOI submission.
+I-D
+Provision of technology collaboration/ association 
+already specified in EOI document. Applicant to 
+comply provision of EOI document.
+5 EOI Tender No.  NTPC/EPC/EOI/SB-CR/2026 General
+Regarding the financial information requested in the EOI, we understand the requirement to submit the relevant 
+financial data and audited statements. However, we could not identify any specific qualifying criteria such as 
+minimum turnover, average turnover requirements, minimum net worth, or similar.
+Therefore, we would kindly request your confirmation as to whether the financial statements are being requested 
+purely for information purposes, or whether there are or will be any specific financial targets or qualification criteria 
+that applicants are expected to meet. This clarification will help us define the most appropriate way to proceed.
+Our intention is to participate directly through our Indian subsidiary, which, as an Indian company also has access 
+to the same technical references and know-how as our European entity, but naturally, our financial statements 
+here in India are smaller compared to the parent company.
+1. The financial information requested in EOI is for 
+information purpose.
+2. Applicant to provide the financial information of 
+Organisation/Entity which is applying for EOI.
+3. Additionaly, Applicant may also furnish financial 
+information of its Technololgy Provider/Parent 
+Organisation (if available).
+4. Further, the applicant to also refer 
+"INFORMATION TO APPLICANT,  Section-I" of 
+the published EOI.
+EOI No.: NTPC/EPC/EOI/SB-CR/2026
+Addendum -02 
+INVITATION FOR EXPRESSION OF INTEREST (EOI) FOR IDENTIFICATION OF VENDORS  
+FOR DESIGN, MANUFACTURE, SUPPLY, ERECTION, TESTING & COMMISSIONING OF SUB-CRITICAL THERMAL POWER UNITS (150 MW to 250 
+MW) SUITABLE FOR TWO-SHIFT OPERATION & MINIMUM TECHNICAL LOAD (MTL) AS 25% 
+ 
+ 
+ 
+EOI_FLEX UNITS 
+EOI No.: NTPC/EPC/EOI/SB-CR/2026 
+Page 1 of 3 
+ 
+Sl.  
+No. 
+Specification Reference Existing  Read as  Reason 
+Section Page No Clause No    
+1 Annexure-A 10 of 31 I-A 
+ 
+CATEGORY - 1 
+The applicant of EOI should have 
+designed, engineered, 
+manufactured/got manufactured, 
+erected/supervised erection, & 
+commissioned/supervised 
+commissioning of at least one 
+number of the coal fired reheat type 
+sub-critical, balanced draft, natural 
+circulation Steam Generator having 
+rated capacity of 150 MWe or above 
+which should have been in 
+successful operation for a period 
+not less than one (1) year prior to 
+the date of publication of this EOI. 
+ 
+ 
+Remarks: In case of a non-Indian 
+company, the applicant should 
+have registered in India, either a 
+subsidiary or as a Joint Venture 
+(JV) company before the last date 
+of EOI submission. 
+ 
+CATEGORY - 1 
+The applicant of EOI should have 
+designed, engineered, 
+manufactured/got manufactured, 
+erected/supervised erection, & 
+commissioned/supervised 
+commissioning of at least one 
+number of the coal fired reheat type 
+sub-critical, balanced draft, natural 
+circulation/assisted(forced) 
+circulation/once-through 
+circulation Steam Generator 
+having rated capacity of 150 MWe 
+or above which should have been in 
+successful operation for a period 
+not less than one (1) year prior to 
+the date of publication of this EOI. 
+ 
+Remarks: In case of a non-Indian 
+company, the applicant should 
+have registered in India, either a 
+subsidiary or as a Joint Venture 
+(JV) company before the last date 
+of EOI submission. 
+ 
+ 
+ 
+“Assisted(forced) and Once-
+through” type circulation 
+system also included to 
+broaden the technological 
+and vendor base, towards 
+assessment of the suitable 
+technology. 
+Addendum -02 
+INVITATION FOR EXPRESSION OF INTEREST (EOI) FOR IDENTIFICATION OF VENDORS  
+FOR DESIGN, MANUFACTURE, SUPPLY, ERECTION, TESTING & COMMISSIONING OF SUB-CRITICAL THERMAL POWER UNITS (150 MW to 250 
+MW) SUITABLE FOR TWO-SHIFT OPERATION & MINIMUM TECHNICAL LOAD (MTL) AS 25% 
+ 
+ 
+ 
+EOI_FLEX UNITS 
+EOI No.: NTPC/EPC/EOI/SB-CR/2026 
+Page 2 of 3 
+ 
+Sl.  
+No. 
+Specification Reference Existing  Read as  Reason 
+Section Page No Clause No    
+ 
+2 Annexure-A 10 of 31 I-B 
+CATEGORY - 2 
+i. The applicant of EOI should be a 
+regular Indian manufacturer of coal 
+fired steam generators having 
+technology 
+collaboration/association with the 
+applicant as per CATEGORY-1. 
+ 
+ii. The applicant of EOI (in technical 
+collaboration with Category-I 
+applicant) should have designed, 
+engineered, manufactured/got 
+manufactured, erected/supervised 
+erection, & 
+commissioned/supervised 
+commissioning of at least one 
+number of the coal fired reheat type 
+sub-critical, balanced draft, natural 
+circulation Steam Generator having 
+rated capacity of 150 MWe or above 
+which should have been in 
+successful operation for a period 
+not less than one (1) year prior to 
+the date of publication of this EOI. 
+CATEGORY - 2 
+i. The applicant of EOI should be a 
+regular Indian manufacturer of coal 
+fired steam generators having 
+technology 
+collaboration/association with the 
+applicant as per CATEGORY-1. 
+ 
+ii. The applicant of EOI (in technical 
+collaboration with Category-I 
+applicant) should have designed, 
+engineered, manufactured/got 
+manufactured, erected/supervised 
+erection, & 
+commissioned/supervised 
+commissioning of at least one 
+number of the coal fired reheat type 
+sub-critical, balanced draft, natural 
+circulation/assisted(forced) 
+circulation/once-through 
+circulation Steam Generator 
+having rated capacity of 150 MWe 
+or above which should have been in 
+successful operation for a period 
+ 
+“Assisted(forced) and Once-
+through” type circulation 
+system also included to 
+broaden the technological and 
+vendor base, towards 
+assessment of the suitable 
+technology. 
+Addendum -02 
+INVITATION FOR EXPRESSION OF INTEREST (EOI) FOR IDENTIFICATION OF VENDORS  
+FOR DESIGN, MANUFACTURE, SUPPLY, ERECTION, TESTING & COMMISSIONING OF SUB-CRITICAL THERMAL POWER UNITS (150 MW to 250 
+MW) SUITABLE FOR TWO-SHIFT OPERATION & MINIMUM TECHNICAL LOAD (MTL) AS 25% 
+ 
+ 
+ 
+EOI_FLEX UNITS 
+EOI No.: NTPC/EPC/EOI/SB-CR/2026 
+Page 3 of 3 
+ 
+ 
+Sl.  
+No. 
+Specification Reference Existing  Read as  Reason 
+Section Page No Clause No    
+ 
+Remarks: The applicant should be 
+an Indian company. 
+not less than one (1) year prior to 
+the date of publication of this EOI. 
+ 
+Remarks: The applicant should be 
+an Indian company. 
+3 Annexure-3 14 of 31 C-3 
+o) having natural 
+circulation 
+Yes/No 
+ 
+o)-i. having natural 
+circulation 
+Yes/No 
+o)-ii. having 
+assisted (forced) 
+circulation 
+Yes/No 
+o)-iii. having once 
+through circulation 
+Yes/No 
+  
+Changes incorporated in-line 
+with above addendum 
+Sl no Clarifications sought NTPC Reply
+1 Regarding the requirements, it is not necessary to comply with every item 100%. 
+For example, if we do not have a reference operating with coal in a two-shift 
+regime, we can instead indicate that we can achieve this point, also indicating 
+that we have boilers working in other particular regimes or even biomass 
+references operating under similar conditions. Please confirm.
+It is understood that the query relates to references with respect to the 
+Additional Criteria of Annexure-A of EOI.
+1. The applicant to provide a definitive response against the sought 
+information based on their capabilities, experiences and future proposed 
+tie-ups, as applicable.
+2.References pertaining to coal-fired units shall be explicitly furnished, 
+wherever available. However, in case references for coal-fired units or coal 
+co-firing with biomass are not available, references of 100% biomass-fired 
+units may be furnished for information purposes only.
+3. In addition, the applicant may also furnish details of its design 
+capabilities wrt additional criteria requirements pertaining to coal-fired 
+units.
+4. Further, the applicant to also refer INFORMATION TO APPLICANT,  
+Section-I of the published EOI.
+2 The same applies to certain technical requirements such as a Flue Gas 
+Recirculation system design or a Low-Pressure Economizer to maximize 
+efficiency gains. These features are not part of our standard design; however, we 
+can clearly state this and remain open to evaluating them in the future should 
+they become a specific project requirement. Please confirm.
+Noted. 
+The same may be clearly brought out in the EOI response against the 
+respective requirements pertaining to Flue Gas Recirculation (FGR)/ Low-
+Pressure Economizer (LP Economizer), as applicable.
+QUERIES & RESPONSE
+EOI FOR IDENTIFICATION OF VENDORS FOR DESIGN, MANUFACTURE, SUPPLY, ERECTION, TESTING & COMMISSIONING OF SUB-CRITICAL THERMAL POWER UNITS 
+(150 MW to 250 MW) SUITABLE FOR TWO-SHIFT OPERATION & MINIMUM TECHNICAL LOAD (MTL) AS 25%
+3 Regarding the technical solution to be proposed, I would like to confirm with you 
+that it is acceptable for us to propose either our Tower-Type boiler design or our 
+Two-Pass boiler design, and that the tender does not exclusively require a Two-
+Pass configuration. Please confirm.
+1. Regarding the technical solution/design for sub-critical units, the 
+applicant may explicitly indicate one or more sub-critical unit designs 
+demonstrating its capabilities and experience.
+2. For each type of unit design proposed, the applicant shall furnish 
+relevant references and clearly specify the type of circulation system 
+adopted, such as natural circulation, forced circulation, or once-through 
+circulation.
+3. The applicant may also furnish their operating unit(Coal Fired/Coal-
+Biomass fired) references, designed with single auxiliaries (like single 
+PA/FD/ID fans, APH etc.)
+4 With respect to the deadline, considering that we became aware of this tender 
+only a few days ago, we would like to align on the following approach:
+Friday, 19 June: We will submit responses within the NTPC template for all 
+technical questions that we are able to address by that date.
+Friday, 26 June: We will submit the complete template, including both technical 
+and non-technical responses.
+Friday, 3 July: We will provide all supporting evidence and documentation 
+required to substantiate our responses.
+Please confirm.
+The applicant is requested to furnish the information and responses sought 
+in the EOI, to the maximum possible extent, along with relevant details, 
+references, and documentary evidence, wherever available, on or before 
+the last date prescribed for submission of the EOI.
+Supporting evidence/ documents to substantiate the furnished information 
+and responses may also be submitted subsequently not later than a week 
+time after the last date, if not readily available at the time of EOI 
+submission.
+5 Please confirm if there is flexibility in the water circulation design.
+We have:
+-Drum type with natural circulation
+-Once-through
+In low load <30-33% the once through boiler operates in circulation mode 
+typically with a circulation pump.
+We also have some examples of drum type with forced/assisted circulation, 
+however, this is not relevant for this system.
+Applicant to refer clarification at Sl. No.-3 above.
+Further, please refer addendum-02 
+EOI No.: NTPC/EPC/EOI/SB-CR/2026
+Corrigendum No. 04 
+ 
+ 
+NIT No. NTPC/EPC/EOI/SB-CR/2026 
+Brief NIT Description Identiﬁcation of Vendors for Design, Manufacture, Supply, Erection, 
+Testing & Commissioning of Sub-Critical Thermal Power Units (150 
+MW to 250 MW) Suitable for Two shift operation & Minimum 
+Technical Load (MTL) as 25% 
+Closing Date 30/06/2026 
+Bid Submission End date 30/06/2026 18:00 
+Corrigendum No. 03 
+ 
+ 
+  
+NIT No. NTPC/EPC/EOI/SB-CR/2026 
+Brief NIT Description Identiﬁcation of Vendors for Design, Manufacture, Supply, Erection, 
+Testing & Commissioning of Sub-Critical Thermal Power Units (150 
+MW to 250 MW) Suitable for Two shift operation & Minimum 
+Technical Load (MTL) as 25% 
+Closing Date 20/06/2026 
+Bid Submission End date 20/06/2026 18:00 
+CORRIGENDUM BRIEF 
+(Instructions/ Information to EOI Applicants) 
+ 
+EOI No. : NTPC/EPC/EOI/SB-CR/2026  
+Expression of Interest for “Identiﬁcation of Vendors for Design, Manufacture, Supply, Erection, 
+Testing & Commissioning of Sub-Critical Thermal Power Units (150 MW to 250 MW) Suitable for Two 
+shift operation & Minimum Technical Load (MTL) as 25%. ” 
+ 
+1) An Addendum has been issued incorporating revisions/ changes to the EOI document. 
+Applicants/ Vendors are requested to carefully go through the enclosed revised EOI document 
+(including revised Annexures, Schedules, and other modiﬁcations). The EOI submission shall be 
+made strictly based on the revised EOI document. 
+2) Applicants who have already submitted their expression of interest based on existing EOI 
+documents are requested to submit the revised EOI applications (as applicable) in line with the 
+revised EOI document. 
+3) Further, NTPC’s replies to queries and clariﬁcations raised by applicants are also enclosed for 
+reference & information of applicants. 
+4) Clariﬁcation(s), if any, may be sought through the contact details provided in the EOI document. 
+5) Additionally, the last date for submission of EOI has been extended up to 05.06.2026. 
+ 
+Enclosures:  
+a) Addendum to EOI document. 
+b) Revised EOI document 
+c) NTPC replies to qeries and clariﬁcations. 
+Addendum - INVITATION FOR EXPRESSION OF INTEREST (EOI) FOR IDENTIFICATION OF VENDORS  
+FOR DESIGN, MANUFACTURE, SUPPLY, ERECTION, TESTING & COMMISSIONING OF SUB -CRITICAL THERMAL POWER UNITS (150 MW to 250 
+MW) SUITABLE FOR TWO-SHIFT OPERATION & MINIMUM TECHNICAL LOAD (MTL) AS 25% 
+ 
+ 
+ 
+EOI_FLEX UNITS 
+ 
+EOI No.: NTPC/EPC/EOI/SB-CR/2026 
+ 
+ 
+Page 1 of 1 
+ 
+ 
+Sl.  
+No. 
+Specification Reference Existing  Read as  Reason 
+Section Page No Clause No    
+1 Annexure-A 10 of 27 - Annexure-A Revised Annexure-A  
+ 
+ 
+ 
+Sub-critical Steam turbine and 
+Generator requirement added. 2 Annexure-2 12 of 27 11 
+We confirm that the Steam 
+Generator design & further 
+activities will follow 
+specification requirements as 
+well as  Codes and Standard 
+as applicable & specified. 
+We confirm that the Steam 
+Generator, Steam turbine & 
+Generator design & further 
+activities will follow specification 
+requirements as well as Codes and 
+Standard as applicable & specified. 
+3 Annexure-3 13 of 27 - Annexure-3 Revised Annexure-3 
+4 Schedule-3 21 of 27 - Schedule-3 Revised Schedule-3 
+5 Schedule-5 25 of 27 - Schedule-5 Revised Schedule-5 
+6 Schedule-6 26 of 27 - Schedule-6 Revised Schedule-6 
+7 Schedule-4 24 of 27 1 
+Details of design interventions 
+carried out towards meeting 
+the ‘additional criteria’ as per 
+Annexure-A. Also add the two 
+shift operation & MTL related 
+design features in detail as per 
+Category-II at Annexure -A.
+  
+Details of design interventions 
+carried out towards meeting the 
+‘additional criteria’ as per 
+Annexure-A. Also add the two shift 
+operation & MTL related design 
+features in detail as per Sl no-II at 
+Annexure-A.  
+ Errata 
+ 
+8 - 3, 5, 9  
+Email: vivekbharti@ntpc.co.in 
+CC to: achourasia@ntpc.co.in  
+ 
+Email: vivekbharti@ntpc.co.in 
+CC to: achourasia@ntpc.co.in, 
+pawandwivedi@ntpc.co.in 
+Email ids of TG group added.  
+9 - 2 of 27 2 
+2. Last date for EOI 
+submission: 03.05.2026 / 2 
+weeks from date of 
+publishing, whichever is later. 
+Last date for EOI submission: 
+Refer above website for last date 
+of submission. 
+For reference to updated date 
+of last date of submission. 
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 1 of 31                                                                                                       
+ 
+ 
+ 
+NTPC Limited 
+ 
+(A Government of India Enterprise) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INVITATION FOR EXPRESSION OF INTEREST (EOI) 
+ 
+FOR 
+ 
+IDENTIFICATION OF VENDORS  
+ 
+ 
+FOR DESIGN, MANUFACTURE, SUPPLY, ERECTION, TESTING & COMMISSIONING  
+ 
+OF 
+ 
+SUB-CRITICAL THERMAL POWER UNITS (150 MW to 250 MW)  
+SUITABLE FOR TWO-SHIFT OPERATION & MINIMUM TECHNICAL LOAD 
+(MTL) AS 25% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 2 of 31                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+DETAILED NOTICE INVITING EXPRESSION OF INTEREST (EOI) 
+ 
+EOI No.: NTPC/EPC/EOI/SB-CR/2026      Date: .................  
+ 
+NTPC is Inviting an Expression of Interest for “Identification of Vendors for Design, 
+Manufacture, Supply , Erection, Testing & Commissioning  of Sub -Critical Thermal 
+Power Units (150 MW to 250 MW) Suitable for Two shift operation & Minimum Technical 
+Load (MTL) as 25%. 
+ 
+1.0 Objective: 
+(i) NTPC Ltd., invites Expression of Interest from Companies in India for Design, 
+Supply, Erection, Testing & Commissioning of coal fired (including biomass co-
+firing) sub-critical thermal power units suitable for two shift operation & Minimum 
+Technical Load (MTL) as 25% . This EOI is to identify such interested 
+vendors who have  adequate expertise & exper ience in Design, Supply , 
+Erection, Testing & Commissioning  of Sub-Critical Thermal Power Units  
+(mentioned at Annexure-A along with minimum eligibility criteria) suitable 
+for Two Shift Operation & Minimum Technical Load (MTL) as 25%. 
+(ii) Based on EOI response, NTPC will prepare a database of such capable vendors 
+and may explore the possibility of utilizing the services for design, engineering, 
+procurement & construction of such thermal power units.  
+(iii) Ascertaining capabilities of vendors w.r.t. their Design, Engineering, 
+manufacturing, Supply, Erection, Testing & Commissioning  towards providing 
+such sub-critical thermal power units having two shift operation & MTL 
+capabilities. 
+(iv) As per NTPC decision & based on the EOI response, detailed discussions may 
+be done with the applicants towards narrowing down on the  ‘technical and  
+commercial’ terms and conditions.  
+ 
+ 
+2.0 DOWNLOAD AND TIMELINES FOR SUBMISSION OF EOI 
+ 
+1. Interested APPLICANTs may download the documents of EOI free of cost from 
+https://ntpctender.ntpc.co.in & https://eprocurentpc.nic.in 
+ 
+2. Last date for EOI submission: Refer above website for last date of submission. 
+ 
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 3 of 31                                                                                                       
+ 
+ 
+3.0 NTPC encourages submission of EOI in soft copy. For consideration of EOI, Applicants 
+are required to e -mail softcopy, completed in all respect, from its official e -mail ID to 
+below mentioned e-mail IDs. If applicants also wish to submit hard copy of the EOI, the 
+same can be submitted either in person or by registered/ speed post till the last date of 
+submission of EOI to the following address: - 
+ 
+To: Deputy General Manager (PE-Mechanical/SG & Auxiliaries) 
+Email: vivekbharti@ntpc.co.in 
+CC to: achourasia@ntpc.co.in, pawandwivedi@ntpc.co.in 
+Project Engineering (Mechanical/SG & Auxiliaries), 3rd Floor 
+NTPC Limited, SRHQ, NTPC Bhavan, Kavadiguda, Secunderabad-500080 
+ 
+4.0 NTPC reserves the right to reject or accept any or all applications, cancel/withdraw the 
+EOI process without assigning any reason whatsoever and in such case, applicant shall 
+not have any claim arising out of such action. NTPC bears no responsibility or liability 
+of any kind in reference to the EOI. 
+  
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 4 of 31                                                                                                       
+ 
+SECTION-I 
+ 
+INFORMATION TO APPLICANT 
+ 
+1. NTPC Limited is a Govt. of India Enterprise. NTPC group produces electricity through 
+its cluster of gas, coal, hydro and RE based power stations of more than 89 GW 
+capacity spanning across the country. 
+ 
+2. INTENT OF THE EXPRESSION OF INTEREST (EOI) 
+ 
+This EOI is to identify interested vendors in India, for supply & installation of sub-critical 
+thermal power units offering enhanced efficiency, environmentally compliant 
+performance and suitability for two shift operation  & Minimum Technical Load (MTL) . 
+As 25% to cater to the contemporary chall enges posed by the operating regime . The 
+applicant shall have proven experience, established technical capabilities, and 
+sufficient organizational, financial, and execution capa cities to meet the specified 
+requirements.  The m inimum eligibility criteria  for participation in the tender are 
+mentioned at Annexure-A of this document. 
+ 
+3. THE APPLICANTS SHOULD NOTE THAT: 
+ 
+a. Language of the responses to EOI or any query/clarifications/correspondences 
+shall be in English only. 
+ 
+b. For expression of interest, the Application Form and Annexures given in Section-II 
+shall be duly filled out and sent to NTPC by the applicant in a soft copy. 
+ 
+c. Applicants should go through Section-I thoroughly before filling and submitting the 
+application form, annexures and schedules in Section-II. 
+ 
+d. Applicants shall mention the name and contact details of two people, with their 
+complete address, phone number and official email id. 
+ 
+e. NTPC Ltd. may, at its sole discretion, ask for additional information/ documents 
+and/ or seek clarifications from the applicant(s) after the deadline for submission of 
+response, inter alia, for the purpose of removal of inconsistencies or infirmities in 
+their responses. 
+ 
+f. Based on EOI response, NTPC will prepare a database of capable vendors for 
+utilizing the services of design, engineering, procurement & construction of such 
+thermal power units. 
+ 
+g. This EOI is indicative only and non-committal. 
+ 
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 5 of 31                                                                                                       
+ 
+h. For the expression of interest, Applicant shall consider Coal and biomass 
+characteristics as per the data provided in Appendix-‘Fuel Characteristics’. 
+ 
+4. ENQUIRIES AND CLARIFICATIONS 
+ 
+Any clarifications on the EOI may be sought to the following via email:  
+ 
+To: Deputy General Manager (PE-Mech/SG & Aux.) 
+Email: vivekbharti@ntpc.co.in (for overall EOI related) 
+CC to: achourasia@ntpc.co.in (for Boiler & Aux.) , pawandwivedi@ntpc.co.in (for TG 
+related) 
+ 
+5. CORRIGENDUM 
+ 
+At any time before the last date of submission of EOIs, NTPC may, for any reason, 
+whether at its own initiative or in response to a clarification requested by an applicant, 
+modify the EOI document. The amendment will be posted on the website and will be 
+binding on all the applicants and the applicant will give due consideration to the same, 
+while they submit their EOIs, and would invariably enclose documents/ information, as 
+required, on account of the amendment, as a part of the EOI. NTPC may, at its 
+discretion, extend the deadline for the submission of EOIs. 
+ 
+ 
+6. SUBMISSION OF THE RESPONSE TO EOI 
+ 
+The responses to the EOI are to be submitted in soft copy via below e-mail & format:  
+To: vivekbharti@ntpc.co.in 
+CC to: achourasia@ntpc.co.in, pawandwivedi@ntpc.co.in  
+ 
+Ref. EOI No.  NTPC/EPC/EOI/SB-CR/2026             Dated: ................. 
+ 
+Submitted to: 
+To: Deputy General Manager (PE-Mechanical/SG & Auxiliaries) 
+Email: vivekbharti@ntpc.co.in 
+CC to: achourasia@ntpc.co.in, pawandwivedi@ntpc.co.in 
+Project Engineering (Mechanical/SG & Auxiliaries), 3rd Floor 
+NTPC Limited, SRHQ, NTPC Bhavan, Kavadiguda, Secunderabad-500080 
+ 
+Submitted by: 
+  Name, address & contact no. of the Applicant 
+ 
+All the pages of the response should be duly stamped and signed by the authorized 
+signatory and the same should be reflected in the soft version also. 
+ 
+The responses to the EOI should be submitted within the deadline as mentioned in this 
+document.  
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 6 of 31                                                                                                       
+ 
+ 
+ 
+ 
+7. COSTS AND EXPENSES TOWARDS RESPONSE TO EOI 
+ 
+The applicants shall bear all the costs associated with the complete process including 
+preparation of the response and participation in discussions and finalization & execution 
+of the documents related with this EOI, regardless of the conduct or outcome of this 
+process. 
+ 
+8. CONFIDENTIALITY 
+ 
+The applicants undertake to hold in confidence this EOI and any document related or 
+pursuant to this EOI and not to disclose the terms and conditions of the transaction 
+contemplated hereby to third parties, except: 
+ 
+(a) To their professional advisors. 
+ 
+(b) To their officers, contractors, employees, agents or representatives, financers, who 
+need to have access to such information for the proper performance of their activities 
+towards this EOI. 
+ 
+(c) Disclosures required under applicable Law, without the prior written consent of the 
+other parties of the concerned agreements. 
+ 
+Provided that the applicant(s) agrees and acknowledges that NTPC may, at any time, 
+disclose the terms and conditions of this EOI and any document related or pursuant to 
+this EOI to any person, to the extent stipulated under the applicable Law. 
+ 
+ 
+ 
+ 
+ 
+×××× 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 7 of 31                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION-II 
+APPLICATION FORM, ANNEXURES & SCHEDULES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 8 of 31                                                                                                       
+ 
+ 
+ 
+Annexure-1 
+ 
+FORMAT FOR COVERING LETTER CUM UNDERTAKING 
+(The covering letter should be on the Letter Head of the Applicant) 
+  Date:     
+Place:     
+ 
+To, 
+VIVEK BHARTI 
+Deputy General Manager (PE-Mechanical/SG & Auxiliaries) 
+Project Engineering (Mechanical/SG & Auxiliaries), 3rd Floor 
+NTPC Limited, SRHQ, NTPC Bhavan, 
+Kavadiguda, Secunderabad-500080 
+ 
+ 
+Subject: Identification Of Vendors for Design, Manufacture, Supply, Erection, Testing 
+& Commissioning of Sub-Critical Thermal Power Units ( 150 MW to 250 MW) 
+Suitable for Two Shift Operation & Minimum Technical Load (MTL) as 25%. 
+ 
+ 
+ 
+Ref.:  EOI No. NTPC/EPC/EOI/SUB-CR/2026,    dated............... 
+ 
+ 
+Dear Sir, 
+ 
+We, the undersigned ……. [insert name of the “Applicant”] having read, examined and 
+understood in detail the (INVITATION FOR EXPRESSION OF INTEREST). 
+ 
+ 
+1. We give our unconditional acceptance to the EOI, issued by NTPC, as amended. In token 
+of our acceptance to the EOI, the same have been signed & stamped by us and enclosed 
+to the response. We hereby confirm that the provisions of the EOI shall be binding on us. 
+ 
+2. We have submitted our response strictly as per the provisions and formats of the EOI,  
+without any deviations, conditions and without mentioning any assumptions or notes. 
+ 
+3. We hereby unconditionally and irrevocably agree and accept that the decision made by 
+NTPC LTD. in respect of any matter regarding or arising out of the EOI  shall be binding 
+on us. We hereby expressly waive any and all claims in respect of the EOI process. We 
+confirm that there are no litigations or disputes against us, which materially affect our 
+ability to participate or function under the obligations with regard to the EOI.
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 9 of 31                                                                                                       
+ 
+4. Details of the contact person are furnished as below: 
+Name: 
+Designation: 
+Address: 
+Contact numbers: 
+Email Id: 
+We are enclosing herewith the entire response  containing duly signed formats in  
+electronic format sent via email to vivekbharti@ntpc.co.in  
+CC to: achourasia@ntpc.co.in, pawandwivedi@ntpc.co.in as per the EOI for 
+consideration. 
+ 
+5. It is confirmed that our response is consistent with all the requirements of submission  
+as stated in the EOI and subsequent communications from NTPC, if any. 
+ 
+6. The information submitted in our response is complete, strictly as per the requirements 
+stipulated in the EOI and is correct to the best of our knowledge and understanding. We 
+would be solely responsible for any errors or omissions in our response. 
+ 
+ 
+ 
+ 
+ 
+We remain, 
+ 
+Yours sincerely 
+ 
+ 
+ 
+ 
+(Name, Designation and Signature of Authorized Person) 
+ 
+ 
+ 
+ 
+ 
+  
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 10 of 31                                                                                                       
+ 
+Annexure-A 
+I: ESSENTIAL CRITERIA  
+S. N. Intended System Description Criteria for Participation 
+I-A 
+ 
+Supply of reheat type sub -critical coal 
+fired Steam Generators in the range of 
+150 MWe to 250 MWe with following 
+characteristics- 
+1. Main Steam outlet temperature 
+range: 540 to 565 deg. C. 
+2. Reheat steam outlet temperature: 
+565 degC 
+3. Co-firing capability, coal note-2 with 10 
+% to 30% of biomassnote-3 
+4. Minimum Boiler & Cycle Efficiency: 
+As per CERC requirements for such 
+unit sizes note-4. 
+5. Catering to CEA’s flexibilization 
+requirements for load ramping & 
+minimum technical load criteria note-5. 
+CATEGORY - 1 
+The applicant of EOI should have designed, engineered, 
+manufactured/got manufactured, erected/supervised erection, & 
+commissioned/supervised commissioning of at least one number of 
+the coal fired reheat type sub -critical, balanced draft, natural 
+circulation Steam Generator having rated capacity of 150 MWe or 
+above which should have been in successful operation for a period 
+not less than one (1) year prior to the date of publication of this EOI. 
+ 
+Remarks: In case of a non -Indian company, the applicant should 
+have registered in India, either a subsidiary or a s a Joint Venture 
+(JV) company before the last date of EOI submission. 
+ 
+I-B 
+CATEGORY - 2 
+i. The applicant  of EOI  should be a  regular Indian 
+manufacturer of coal fired steam generators having 
+technology collaboration/association with the applicant as 
+per CATEGORY-1. 
+ii. The applicant of EOI (in technical collaboration with 
+Category-I applicant) should have  designed, engineered, 
+manufactured/got manufactured, erected/supervised 
+erection, & commissioned/supervised commissioning of at 
+least one number of the coal fired reheat type sub -critical, 
+balanced draft, natural circulation Steam Generator having 
+rated c apacity of 150 MWe or above which should have 
+been in successful operation for a period not less than one 
+(1) year prior to the date of publication of this EOI. 
+ 
+Remarks: The applicant should be an Indian company. 
+II: ADDITIONAL CRITERIA 
+II Flexibilization Capability 
+The following capabilities towards designing the steam generator 
+for load flexibilization are additional for such smaller units - 
+1. for Two shift operation, & minimum technical load ( MTL) as 
+25% Note-A. 
+2. Capabilities to design pressure parts for creep, fatigue & creep-
+fatigue loading criteria as also per EN-12952-3. 
+3. Burners for part-load conditions. 
+4. Condensate Polishing Unit (CPU) for such smaller units. 
+5. Flue gas re-circulation system design. 
+6. Low Pressure Economizer to maximize efficiency gains. 
+Remarks:  
+1. Note-A: The applicants should propose a design 
+collaborator/technology partner who should have successfully 
+provided technical consultancy for minimum two (02) coal fired 
+steam generators (of minimum 150 MWe) and those plants should 
+have been in successful operation after execution of such design 
+incorporation for a minimum period of one year.  
+2. Bidder may include furthermore proven design features towards 
+improving the flexibilization & heat rate of the units. 
+Note: 
+1. Subscript ‘e’ indicate electrical output in Mega Watts (MW). 
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 11 of 31                                                                                                       
+ 
+2. Refer Annexure for coal properties. 
+3. As per CEA specified characteristics*. 
+4. Refer CERC (Terms and Conditions of Tariff) Regulations, 2024*  
+5. Refer CEA (Flexible Operation of Coal based Thermal Power Generating Units) Regulations, 2023*  
+*Revised from time to time 
+Note:  
+1. Applicants to submit all the necessary details to support the above criteria. Also, refer the relevant 
+schedule appended with the EOI for data requirements. 
+ 
+ 
+  
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 12 of 31                                                                                                       
+ 
+III: ESSENTIAL CRITERIA  
+S. N. Intended System 
+Description Criteria for Participation 
+I-C 
+ 
+Supply of sub-critical steam 
+turbine of tandem compound, 
+condensing, reheat type in the 
+range of 150 MW  to 250 MW  
+with following characteristics- 
+1. Main Steam inlet 
+temperature range: 540 to 
+565 deg. C. 
+2. Reheat steam inlet 
+temperature: 565 deg C 
+3. Catering to CEA’s 
+flexibilization 
+requirements for load 
+ramping & minimum 
+technical load criteria note-
+1. 
+CATEGORY - 1 
+The applicant of EOI should have designed, engineered, manufactured/got 
+manufactured, erected/supervised erection, & commissioned/supervised 
+commissioning of (i) at least one (1) number  sub-critical steam turbine of 
+tandem compound, condensing, reheat type of  150 MW or higher capacity and 
+(ii) at least one (1) number of generator of two pole, Thermal class 155(F) 
+winding insulation, hydrogen / water cooled stator and  hydrogen cooled rotor 
+of 150 MW or above capacity. These steam turbine and generator should have 
+been in successful operation for a period of not less than  one (1) year prior to 
+the date of publication of this EOI. 
+ 
+Remarks: In case of a non -Indian company, the applicant should have 
+registered in India, either a subsidiary or as a Joint Venture (JV) company 
+before the last date of EOI submission. 
+I-D 
+CATEGORY - 2 
+i. The applicant of EOI should be an Indian manufacturer of sub-critical steam 
+turbine having technology collaboration/association with the applicant 
+meeting the requirements mentioned under CATEGORY-1. 
+ 
+Such applicant shall source the generator from any vendor meeting the 
+requirements of CATEGORY-1 in reference of generator. 
+Remarks: The applicant should be an Indian company. 
+IV: ADDITIONAL CRITERIA 
+II Flexibilization Capability 
+The following capabilities towards designing the steam turbine for load 
+flexibilization are additional for such smaller units - 
+1. Two shift operation,  Cyclic loading , ramping requirement & minimum 
+technical load (MTL) as 25% Note-A. 
+2. Capabilities to design LP Turbine last & second last stage blading to handle 
+moisture and flow separation. 
+3. Capabilities to design Steam turbine Generator & its parts for creep, fatigue 
+& creep-fatigue loading criteria. The combined creep fatigue damage shall 
+lie within acceptable limits. 
+4. No. of designed start stops of the Generator over its entire life to meet the 
+requirement of two shift operation, and capability of the Generator to take 
+care of the Cyclic loading and ramping requirements. 
+Remarks:  
+1. Note-A: The applicants should propose a design collaborator/technology 
+partner who should have successfully provided technical consultancy for 
+minimum two (02) sub-critical steam turbines (of minimum 150 MW) and those 
+plants should have been in successful operation after execution of such design 
+incorporation for a minimum period of one year.  
+2. Bidder may include furthermore proven design features towards improving 
+the flexibilization & heat rate of the units. 
+Note: 
+1.Refer CEA (Flexible Operation of Coal based Thermal Power Generating Units) Regulations, 2023*  
+*Revised from time to time 
+Note:  
+1. Applicants to submit all the necessary details to support the above criteria. Also, refer the relevant 
+schedule appended with the EOI for data requirements. 
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 13 of 31                                                                                                       
+ 
+Annexure-2 
+ 
+GENERAL INFORMATION TO BE SUBMITTED BY APPLICANT 
+1. Name of Applicant Company: 
+2. Legal status of the Applicant Company: 
+3. Brief description of the Company with details of its business groups/subsidiaries/ affiliates: 
+4. Date of Incorporation: 
+5. Date of Commencement of Business: 
+6. Shareholding details:  
+7. Full address including Telephone nos. / Fax nos.: 
+a. Registered Office: 
+b. Head Office: 
+c. Address for communication: 
+d. Contact Details: 
+e. Office Address in India, if any: 
+8. Existing Infrastructure & design facilities – locations, capacity, Complete address. 
+9. Documents to be enclosed: 
+Technical Credentials –  
+a) Supporting document for technology ownership/ licensing details. 
+b) Details of Intellectual Property Rights (IPR) held, patent filed/held, and MOU/agreement 
+signed. 
+Financial Credentials –  
+a) Copies of Audited Financial Statements (Annual Reports) for preceding five (5) financial 
+years as on the date of EOI submission.  
+i. Average Annual Turnover for preceding five (5) financial years. 
+ii. Net worth for the preceding financial year. 
+iii. Paid up Share capital for the preceding financial year. 
+ 
+We confirm that we are interested in Design, Manufacture, Supply, Erection, Testing & 
+Commissioning of efficient Sub-Critical Thermal Power Units (150 MW to 250 MW) suitable 
+for two shift operation & Minimum Technical Load (MTL) AS 25%.  
+10.  We agree that the reference units shall be considered successful based on minimum one -
+year completion criteria. We also agree that  the successful completion of the project  to 
+establish performance shall be as stipulated by NTPC for respective system (s) / 
+equipment(s). 
+11. We confirm that the Steam Generator, Steam turbine & Generator design & further activities 
+will follow specification requirement s as well as  Codes and Standard as applicable & 
+specified. 
+ 
+ 
+ 
+(Sign & Company Seal) 
+Authorized signatory 
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 14 of 31                                                                                                       
+ 
+Annexure-3 
+ESSENTIAL INFORMATION TO BE SUBMITTED BY APPLICANT FOR SYSTEM/ EQUIPMENT 
+MENTIONED AT ANNEXURE-A 
+ 
+Essential Information: 
+  Write Yes/No & provide details with 
+attachments. 
+S.No. Information/ Details Head Details Additional 
+Data 
+A Information related to Essential Criteria  
+Refer Annexure-
+A for Essential 
+Criteria (I) 
+1 Application Category (Category-1/ 2 as per Annexure-A)   
+    
+2 
+Design & manufacturing capabilities & infrastructure 
+owned by the applicant   
+ a) Software Tools & Licenses (Name, License validity)   
+ 
+b) Whether the source-codes of the necessary design 
+tools/software’s available for boiler, furnace & 
+associated system design. 
+ 
+ 
+ 
+c) Experience in Pulverized Coal fired Steam 
+Generators   
+ 
+d) Experience in Steam Generators other than the 
+pulverized coal fired.   
+ 
+e) Experience in bio-mass co-firing with coal  
+i. PC Type 
+ii. Other Type 
+ 
+ 
+ 
+f) Whether the source-codes of the necessary design 
+tools/software’s available for Steam Turbine 
+Generator & associated system design 
+ 
+ 
+ 
+g) Experience in Steam Turbine Generator for Coal 
+fired units   
+ 
+h) Experience in Steam Turbine Generator other than 
+the coal fired units.   
+3 Location of design capabilities/software’s & 
+infrastructure facility   
+4 
+Technical Expertise in the relevant field of essential & 
+additional criteria as per Annexure-A   
+        a) Experts/ Engineers (with Qualification)   
+        b) Experience (in years) of Engineers at 4(a) above   
+ 
+c) Mention specific features for Two shift 
+operation & MTL requirements.   
+5 Data Security (Policy docs, compliance certificates etc)   
+6 
+Areas/ Industrial Sectors of successfully completed 
+projects   
+7A 
+(i) Successfully delivered projects in pulverized coal 
+(PC) fired thermal power plants (>=150 MW units)   
+ 
+(ii) Successfully delivered projects in other than PC 
+fired thermal power plants (>=150MW units)   
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 15 of 31                                                                                                       
+ 
+7B 
+Indicate primary water circulation type of steam 
+generator of units indicated above in sl.no. 7A   
+(i.e. Natural, Forced or Once through type) 
+ 
+ 
+8 Name of Technology Collaborator/Licensor   
+9 Manufacturing Details of coal fired steam generators as 
+per Category-2   
+10 Manufacturing Details of steam turbine generator as per 
+Category-2   
+11 Scope division between the applicant and Technology 
+collaborator.   
+12 Mention design collaborator/technology partner: for load 
+cycling (Two shift operation & MTL) related design 
+requirements (attach credentials of the technology 
+company proposed with credentials) 
+  
+B Information related to additional criteria (Provide 
+Yes/No with capability details)  Refer Annexure-
+A for additional 
+criteria (II) 
+ 1. Mention & attach specific design features for Two 
+shift operation   
+ 2. Mention & attach specific design features for MTL as 
+25%   
+ a) Mention the number of cycles, considering 25 
+years of life for Two shift operation & MTL 
+specified. 
+  
+ b) Mention Ramp-rates for the unit   
+ 3. Capabilities to design pressure parts for creep, 
+fatigue & creep -fatigue loading  criteria as also per 
+EN-12952-3. 
+  
+ 4. Burners for part-load conditions.   
+ 5. Condensate Polishing Unit (CPU) for such smaller 
+units.   
+ 6. Flue gas re-circulation system design.   
+ 7. Low Pressure Economizer to maximize efficiency 
+gains.   
+ 8. Mention specific design feature steam turbine Cyclic 
+loading, ramping requirement  & minimum technical 
+load (MTL) as 25%. 
+  
+ 9. Mention specific design feature of steam turbine LP 
+Turbine last & second last stage blading to handle 
+moisture and flow separation. 
+  
+ 10. Capabilities to design Steam turbine Generator & its 
+parts for creep, fatigue & creep-fatigue loading 
+criteria 
+  
+ 11. Capabilities to design the Generator to take care of 
+the Cyclic loading and ramping requirements.   
+ 12. Additional proven design features towards improving 
+the flexibilization & heat rate of the units   
+ 13. Details of the design features with Two shift 
+operation & MTL as 25%   
+ 14. Proposed/ Existing tie-ups with collaborator/ 
+technology partner/ reputed expert organization for 
+implementation of additional criteria (II) as per 
+Annexure-A 
+ Provide details wrt 
+each sl. no. B (1 to 
+13 ) above. 
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 16 of 31                                                                                                       
+ 
+C Experience Details as per the Annexure-A    
+S.No. Information/ Details Head Details Additional Data 
+1 Application Category (Category-1/ 2 as per Annexure-A) Category-   
+2 Technology Collaborator Name  Specify details in case of 
+Category-2 
+3 The applicant has at least one no. of unit, which is-  Specify Name of Plant/ 
+Unit 
+ a) Designed Yes/ No  
+ b) Engineered Yes/ No  
+ c) Manufactured Yes/ No  
+ d) Got Manufactured Yes/ No  
+ e) Erected Yes/ No  
+ f) Supervised Erection Yes/ No  
+ g) Commissioned Yes/ No  
+ h) Supervised Commissioned Yes/ No  
+ i) coal fired unit Yes/ No Specify coal type, Ash 
+content, GCV 
+ j) Whether PC fired Yes/ No  
+ k) Type of Steam generator, if not PC fired Yes/ No  
+ l) having Reheat  Yes/ No  
+ m) a sub-critical Unit Yes/ No  
+ n) having balanced draft  Yes/ No  
+ o) having natural circulation Yes/ No  
+ p) of at least 150MW Capacity Yes/ NO Specify Unit capacity in 
+MW & its Steaming 
+Capacity 
+ q) in successful operation for period of at least one year 
+prior to the date of EOI publication Yes/ No Specify Commissioning 
+date, & successful 
+operation years. 
+ r) Details as per regular Indian manufacturer of coal fired 
+steam generators   
+ i. No. of steam generators manufactured   
+ ii. Type of steam generators manufactured   
+ iii. Fuel Type   
+ iv. Steam generators size & capacity   
+ v. Other details   
+3A Details for Steam Turbine Generator   
+3A.1 Description & Name of project  for Steam turbine 
+Generator  Specify Name of Plant/ 
+Unit 
+3A.2 Name of Client with full address, FAX No. & Tel No.   
+3A.3 Purchase Order/ Contract No./ LOA No. and Date   
+3A.4 Name of Thermal Power Station & Location   
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 17 of 31                                                                                                       
+ 
+3A.5 Whether aforesaid Thermal Power station is fossil fuel 
+fired   
+3A.6 No. of unit(s) of Turbine set supplied to the station   
+3A.7 Make of Turbine   
+3A.8 Number of cylinders (i) (HP/IP/ Combined HP-IP/LP)  
+(ii)   Whether HP and IP  cylinders are combined  or 
+separate 
+  
+3A.9 Module number/description (HP/IP/ Combined HP -IP (if 
+applicable)/ LP)   
+3A.10 
+ 
+Steam Parameters at turbine inlet 
+a. Main steam pressure (kg /cm2 (gauge)) 
+b. Main steam Temperature (° C) 
+Reheat Steam Temperature (° C) 
+  
+3A.11 Whether the Turbine Set 
+a) is of Reheat type 
+b) consists of separate HP, IP and LP cylinders  
+(c) is Tandem Compound  
+Yes/ No  
+3A.12 Rated speed (RPM) and operating frequency range (Hz) 
+   
+3A.13 No. of Steam Extractions   
+3A.14 Capacity in MW of each unit   
+3A.15 Condenser Type and Supplier: 
+a) Water Cooled 
+b) Air Cooled 
+c) Design vacuum 
+  
+3A.16 Whether the scope of work executed for the aforesaid 
+Steam Turbine Set included 
+a) Design 
+b) Engineering 
+c) Manufacturing 
+d) Erection 
+e) Supervising Erection 
+f) Commissioning 
+g) Supervising Commissioning 
+  
+3A.17 Steam Turbine Set 
+a) Designed by 
+b) Engineered by 
+c) Manufacture by 
+d) Erection by 
+e) Supervision of Erection by 
+f) Commissioning by 
+g) Supervision of Commissioning by 
+  
+    3A.18 Actual Date of commissioning   
+3A.19 Date of commencement of successful operation   
+3A.20 Whether Steam Turbine is Tandem Compound or Cross 
+Compound.   
+3A.21 Whether turbine is directly coupled with Generator   
+3A.22 Whether work executed under technology collaboration, 
+(yes/no) 
+If Yes,  
+a. Name of Technology collaborator 
+  
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 18 of 31                                                                                                       
+ 
+b. Validity of Technology Transfer Agreement 
+(mention Date) 
+c. Whether Deed of Joint Undertaking (DJU) with 
+Technology collaborator submitted (Yes/No) 
+3A.23 Execution Time (in months):   
+3A.24 Factory /Works where the Steam turbine equal to 150 MW 
+or more was Manufactured, assembled & tested   
+3A.25 Factory/works where the offered Steam turbine is 
+proposed to be Manufactured, assembled and tested   
+3A.26 Certificate from the Owner of the  reference plant that the 
+aforesaid Steam Turbine Set is in successful operation for 
+a period of not less  than one (1) year prior to the date of 
+publication of this EOI, furnished at Annexure.......... to this 
+Attachment 
+  
+3B Details for Generator   
+3B.1 Description & Name of project for Generator  Specify Name of 
+Plant/ Unit 
+3B.2 Name of Client with full address, FAX No. & Tel No.   
+3B.3 Purchase Order/ Contract No./ LOA No. and Date   
+3B.4 Name of Thermal Power Station & Location   
+3B.5 Whether aforesaid Thermal Power station is fossil fuel 
+fired Yes/ No  
+3B.6 No. of unit(s) of Generator set supplied to the station   
+3B.7 Make of Generator   
+3B.8 Model No of Generator   
+3B.9 MVA rating of Generator   
+3B.10  MW rating of Generator   
+  3B.11 Rated Voltage of Generator    
+3B.12 Cooling Medium (e.g. Water, hydrogen etc) 
+ 
+(i) Stator Core  
+(ii) Stator Winding  
+(iii) Rotor 
+  
+3B.13 Number of shaft mounted fans   
+3B.14 Thermal Class of Insulation 
+ 
+(i) Stator 
+(ii) Rotor 
+  
+3B.15 Type of Excitation System   
+3B.16 Details of Core & Core support system (e.g. Spring type/ 
+Rigid type etc.)   
+3B.17 No. of designed start/stops of the Generator over its entire 
+life to meet the requirement of two shift operation   
+3B.18 Whether the scope of work executed for the aforesaid 
+Generator Set included 
+a) Design 
+b) Engineering 
+c) Manufacturing 
+d) Testing  
+e) Erection 
+  
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 19 of 31                                                                                                       
+ 
+f) Supervising Erection 
+g) Commissioning 
+h) Supervising Commissioning 
+3B.19 Generator Set 
+a) Designed by 
+b) Engineered by 
+c) Manufacture by 
+d) Tested by 
+e) Erection by 
+f) Supervision of Erection by 
+g) Commissioning by 
+h) Supervision of Commissioning by 
+  
+3B.20 Actual Date of commissioning   
+3B.21 Date of commencement of successful operation   
+3B.22 Factory /Works where the Generator rating equal to  
+150 MW or more was Manufactured, assembled & tested   
+3B.23 Factory/works where the offered Generator is proposed to 
+be Manufactured, assembled and tested   
+3B.24 Whether work executed under technology collaboration, 
+(yes/no) 
+If Yes,  
+a. Name of Technology collaborator 
+b. Validity of Technology Transfer Agreement 
+(mention Date) 
+Whether Deed of Joint Undertaking (DJU) with 
+Technology collaborator submitted (Yes/No) 
+  
+3B.25 Execution Time (in months):   
+3B.26 Latest/ recent certificate from client that the generator with 
+above technical parameters is in successful operation for 
+a period of not less than one (1) year prior to the date of 
+publication of this EOI (actual time period to be mentioned) 
+and caused no serious problem in past, is enclosed at 
+Attachment....to this Annexure-3/ C(3B) 
+  
+3B.27 List of above Generators (with date of supply) already 
+manufactured, assembled & tested in the factory/ works 
+mentioned at S.No.(3B.22) above is enclosed at 
+Attachment....to this Annexure-3/ C(3B) 
+  
+4-A Credentials for the design collaborator/technology partner 
+as per Criteria-II at Annexure-A for ‘for Two shift operation, 
+& minimum technical load (MTL) as 25%’’. 
+Attached details & Annexures 
+ a) Technology/Design Company Name    
+ b) Plant details wherein the above Two Shift 
+operation & MTL interventions carried out   
+ c) Year of interventions & Purchase Order details   
+ d) Type of coal fired unit & type of coal details   
+ e) Size of coal fired Steam Generator (in MWe)   
+ f) No. of years in successful operation   
+ g) Number of Cycles considered   
+ h) Ramp rate designed & achieved   
+ i) MTL designed & achieved   
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 20 of 31                                                                                                       
+ 
+ Specify the following details of unit mentioned at sl.no, 
+3/3A above   
+ a) Superheater Outlet Pr  In ksc-g 
+ b) SH Temp.  In deg-C 
+ c) RH Temp.  In deg-C 
+ d) Steam Generator Efficiency at 100% TMCR and 
+55% TMCR   
+ e) Aux. Power Cons. %   
+ f) Cycle efficiency %   
+ g) Whether unit has Condensate Polishing Unit Yes/ No  
+ h) Turbine inlet Pressure   
+ i) Main Steam Inlet Temp   
+ j) IPT inlet Temp (HRH Temp.)   
+ k) Steam turbine TG Cycle Heat Rate at 100% TMCR 
+and 55% TMCR   
+ l) Design vacuum    
+6 Whether applicant has experience in providing sub-critical 
+units with biomass cofiring capability with coal Yes/ No  Specify type of 
+biomass, max. % 
+of cofiring by 
+wt%, Name of 
+plant/ Unit 
+7 Max. capacity of coal fired sub-critical Unit  Specify Capacity in MW, 
+Steaming Capacity in 
+TPH 
+ a) designed/ Engineered by self Yes/ No  
+ b) Designed/ Engineered in collaboration or under 
+technology agreement Yes/ No Specify the 
+Designer Name 
+ c) No. of sub-cr. Units supplied  Details with MW 
+8 Specify range of Steam Parameters (SHO Pr/ SH Temp/ 
+RH Temp. , MS Pr/ MS Temp/ HRH Temp ) designed/ 
+engineered, supplied by applicant 
+  
+9 Whether any coal fired unit supplied/ modified by applicant 
+is capable meeting the CEA flexibilization ramping 
+requirements 
+Yes/ No  
+ a) Max. ramp rate achieved (%)  Specify plant/ unit 
+details 
+ b) Minimum Technical Load achieved in %  Specify plant/ unit 
+details 
+10 Specify design interventions by applicant (self or in 
+technology agreement) for making the sub -critical units 
+capable of meeting the CEA requirements of flexible units 
+specifically the following but not limited to- 
+ Specify details 
+ a) Header Thickness    
+ b) Drum Thickness    
+ c) Enhancing Creep-fatigue life of components   
+ d) Firing system (mills, burners etc.)   
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 21 of 31                                                                                                       
+ 
+ 
+ 
+Note: 1.  Add additional rows for requisite information. 
+2. Any other data pertaining to Steam Generator and Steam turbine & Generator  may also be furnished. 
+ 
+  
+ e) Advanced Process control   
+ f) HP, IP & LP Rotors and Casings   
+ g) Steam Turbine Valves   
+ h) Changes in Turbine Control/Governing system   
+ i) Exhaust hood spray   
+ j) Any other interventions   
+D Performance data (100%, 60%, 55%, 40% & 25% of 
+TMCR   
+ a) Boiler efficiency    
+ b) Expected TG Cycle heat rate    
+ c) Aux. Power Consumption.    
+ d) Cycle efficiency %   
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 22 of 31                                                                                                       
+ 
+ 
+SCHEDULES 
+ 
+ 
+(SCHEDULES ARE TO BE FILLED UP AND SUBMITTED IN MS WORD 
+FORMAT. All CREDENTIALS/SUPPORTING DOCUMENTS RELEVANT TO THE 
+SCHEDULES ARE TO BE SUBMITTED PREFERABLY IN SINGLE PDF FILE) 
+(All the documents are to be submitted on Company’s Letter Head) 
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 23 of 31                                                                                                       
+ 
+(To be submitted on Company’s Letter Head) 
+ 
+ 
+Schedule – 1 
+ 
+(Company Profile and Organization Structure)  
+ 
+ 
+Name of the Company: 
+Registered Address: 
+ 
+Contact Person & Designation: 
+ 
+Postal address for communication: 
+Telephone No.: 
+Fax No.: 
+E-mail address: 
+ 
+ 
+ 
+ 
+ 
+Document regarding Organization Structure and Ownership to be enclosed. 
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 24 of 31                                                                                                       
+ 
+ 
+(To be submitted on Company’s Letter Head) 
+ 
+Schedule – 2 
+(TURNOVER OF THE COMPANY IN THE LAST FIVE FINANCIAL YEARS AND 
+NETWORTH OF THE COMPANY) 
+ 
+A) We confirm that annual turnover of M/s. ............................ [Applicant] for the preceding five 
+financial years is indicated below:- 
+ 
+Sl. No. Financial Year Turnover amount (In Million Rs.) 
+1. 25-26  
+2. 24-25  
+3. 23-24  
+4. 22-23  
+5. 21-22  
+6. 19-20  
+ 
+B) We confirm that Networth of M/s…………….[Applicant] for the preceding five financial 
+years is indicated below:- 
+ 
+Sl. No. Financial Year Networth (In Million Rs.) 
+1. 25-26  
+2. 24-25  
+3. 23-24  
+4. 22-23  
+5. 21-22  
+6. 19-20  
+ 
+ 
+(INVITATION FOR EXPRESSION OF INTEREST)  
+ 
+EOI_FLEX UNITS                                                                                                                                             Page 25 of 31                                                                                                       
+ 
+We have enclosed Balance Sheets and Profit & Loss account duly certified by Chartered 
+Accountant 
+ 
+A) We hereby confirm that net worth of M/s --------- (Applicant) as on the last day of the 
+preceding financial year on the date of publication of the EOI is given below:- 
+ 
+Sl. No. Description As on last day of the preceding 
+financial year 
+1. Paid-up Share Capital  
+2. Net worth  
+3. % age of Net worth to paid-up Share Capital  
+ 
+Page 26 of 31  
+ 
+(To be submitted on Company’s Letter Head) 
+ 
+Schedule – 3 
+ 
+Relevant experience in Design, Engg., Manufacture, Supply, Testing & Commissioning of sub-critical units other than referred 
+above in Annexure-3. Provide details of Major projects- 
+ 
+S.N. Name of the project Unit Capacity (MW), 
+Steaming Capacity 
+(TPH) 
+ 
+Location 
+Date of 
+award of 
+project 
+Date of 
+Commissioning Boiler & Net Cycle 
+Efficiency 
+Turbine Cycle 
+Heat Rate 
+Attach relevant 
+docs. In support 
+of claim 
+         
+         
+         
+ 
+I. Scope Description Sheet : 
+Name of the project [at least one project mentioned above] 
+S.N. Scope Whether Yes/ No Attach documents in support  of the claim, provide details  
+A Scope of Applicant   
+i.  Design   
+ii.  Engineering   
+iii.  Manufacturer   
+iv.  Got Manufactured   
+v.  Erection   
+vi.  Supervised Erection   
+vii.   Type of Steam Generator   
+viii.   Fuel Used (Type & Proximate Analysis - FC/ VM/ 
+Moisture/ Ash %)   
+ix.  Water Circulation Type: Natural/ Forced/ Once-through   
+ 
+Page 27 of 31  
+x.  Steam Parameters (SHO Pr./ SH Temp/ RH Temp.)   
+xi.   APC %   
+xii.   Boiler & Net Cycle Efficiency (%)   
+xiii.   Type of Steam Turbine   
+xiv.  Steam Parameters (MS Pr./ MS Temp/ HRH Temp.) at 
+Turbine inlet   
+xv.   TGCHR at 100 & 55% TMCR   
+xvi.  Design vacuum   
+B Scope of Collaborator/ Technology Provider   
+i.  Design   
+ii.  Engineering   
+iii.  Manufacturer   
+iv.  Got Manufactured   
+v.   Erection   
+vi.   Supervised Erection   
+    
+C  Contact detail of customer Name: 
+ 
+Address: 
+ 
+ 
+ 
+Email:  
+ 
+Phone Number: 
+ 
+Website address: 
+ 
+ 
+ 
+Note: Applicant may add details of above & other projects as well, as Attachments. 
+ 
+II. Client certificates or any other certificates 
+ 
+All relevant certificates or documents shall be submitted in pdf. file format. 
+ 
+Page 28 of 31  
+ 
+ 
+ 
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+ 
+(To be submitted on Company’s Letter Head) 
+Schedule – 4 
+ 
+1. Details of design interventions carried out towards meeting the ‘additional criteria’ as per Annexure-A. Also add the two 
+shift operation & MTL related design features in detail as per Sl no-II at Annexure-A.      
+                  
+    
+ 
+Sl. 
+No 
+Name of 
+Power Plant 
+with location 
+No. of Units with 
+MW Capacity in 
+which intervention 
+was implemented 
+Objective of 
+intervention 
+(Documentary 
+evidence attached) 
+Area for which 
+the intervention 
+was 
+implemented 
+(Attach details) 
+Major 
+Recommendations  
+No. of years 
+since the 
+intervention 
+was 
+implemented 
+Effect of 
+Implementation of 
+recommendations, 
+if available. 
+Remarks 
+         
+         
+         
+ 
+ 
+ 
+2. Details of Coal Properties & Bio-mass: Ultimate / Proximate Analysis 
+ 
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+ Page 29 of 31  
+ 
+(To be submitted on Company’s Letter Head) 
+ 
+Schedule - 5 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Indicative typical layout drawing of coal fired steam generator & associated 
+systems to be attached for reference. 
+ 
+2. Indicative typical layout drawing of steam turbine generator & associated 
+systems to be attached for reference. 
+ 
+ 
+ 
+ 
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+ Page 30 of 31  
+(To be submitted on Company’s Letter Head) 
+Schedule - 6 
+ 
+ 
+Broad time schedule for executing the minimum 150 MW Sub-Critical Thermal 
+Power Unit - 
+ 
+ 
+S. No. 
+ 
+Activities/Milestone Period in months 
+Start Finish 
+1. Design & Engineering   
+2. Manufacturing   
+3. Transportation/Supply   
+4. Erection   
+5. Commissioning & testing   
+6. Operational Start   
+7. Any other activity   
+ 
+  
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+ Page 31 of 31  
+ (To be submitted on Company’s Letter Head) 
+Schedule – 7 
+ 
+Additional Information relevant to the work / assignment to be enclosed: 
+ 
+1. Scope division with details between applicant & technology collaborator. 
+2. Prospective technology tie-ups, if willing, with any company as per CATEGORY-1 
+(Annexure-A). 
+3. Details of additional design features as per ‘Additional Criteria’. 
+4. Suggestions for enhancing participation of technologically capable vendors. 
+5. Whether design simulation capabilities like FEM (finite element method analysis), 
+CFD etc. exist with the applicants. Provide details. 
+6. Any other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX- FUEL CHARACTERISTICS 
+(Annexure-IV-2 Standard Coal Characteristics, Annexure-IV-7(A,B,C,D) Biomass Characteristics) 
+ 
+
+ 
+CLAUSE NO. 
+ 
+PROJECT INFORMATION 
+ 
+ 
+LARA SUPER THERMAL POWER PROJECT, 
+STAGE-III - (2X800 MW), 
+MAIN PLANT PACKAGE 
+TECHNICAL SPECIFICATION 
+SECTION-VI, PART-A 
+BID DOC. NO.: CS-8013-001A-2 
+SUB SECTION-I-B 
+PROJECT INFORMATION 
+ 
+PAGE 14 OF 21 
+ 
+ 
+ 
+3 ASH ANALYSIS             
+3.1 Silica (%)   58.52 57.8 60.12 57.3 61.2 
+3.2 Alumina (%)   28.17 27.42 28.67 27.1 29.1 
+3.3 Iron Oxide (%)   7.2 7.6 6.03 8 5.5 
+3.4 Titania   1.68 1.78 1.56 1.86 1.32 
+3.5 Phosphoric 
+Anhydride (%)   0.6 0.8 0.46 0.82 0.12 
+3.6 Lime (%)   1.36 1.7 1.32 1.84 1.05 
+3.7 Magnesia (%)   0.74 1.22 0.5 1.28 0.31 
+3.8 Sulphuric 
+Anhydride (%)   0.2 0.08 0.3 0.08 0.32 
+3.9 Sodium Oxide 
+(%)   0.3 0.26 0.5 0.12 0.65 
+3.1 Balance Alkalies 
+(by difference)   1.23 1.34 0.54 1.6 0.43 
+  Total   100 100 100 100 100 
+4 ASH FUSION 
+RANGE             
+  REDUCING 
+ATMOSPHERE             
+4.1 Initial Deformation 
+Temp.(oC) 1150 1100 1200 1100 1200 
+4.2 Hemispherical Temp. 
+(oC) 1300 1250 1350 1250 1350 
+4.3 Fusion Temperature 
+(oC) 1400 1400 1400 1400 1400 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CLAUSE NO. 
+ 
+PROJECT INFORMATION 
+ 
+ 
+LARA SUPER THERMAL POWER PROJECT, 
+STAGE-III - (2X800 MW), 
+MAIN PLANT PACKAGE 
+TECHNICAL SPECIFICATION 
+SECTION-VI, PART-A 
+BID DOC. NO.: CS-8013-001A-2 
+SUB SECTION-I-B 
+PROJECT INFORMATION 
+ 
+PAGE 16 OF 21 
+ 
+ 
+ 
+Annexure-IV-7(A) 
+ 
+S.N. Technical Data Unit Specifications for Torrefied Pellet 
+1. Base Material  Agro residue: 
+Which means the leftover portion of the 
+agriculture produce such as 
+stubble/straw/stalk/husk of those agro residue 
+which are surplus and not being used as animal 
+fodder such as paddy, soya, arhar, gwar, cotton, 
+gram, jawar, bajara, moong, mustard, seasam, til, 
+maize, sunflower, jute, coffee etc., groundnut 
+shell, coconut shell, castor seed shell etc., pine 
+needle, elephant grass, sarkanda and horticulture 
+waste such as dry leaves and trimmings 
+generated during the maintenance and pruning of 
+trees and plants. 
+Wood obtained from tree cutting shall not be 
+treated as agro residue and shall be not to be 
+used as base material or mixing purpose 
+whatsoever. 
+ 
+2. Diameter 
+ 
+mm In case of cylindrical shape: 
+Diameter: Not more than 35 mm 
+Length: Random 
+For other shapes: 
+No dimension should exceed 35 mm. 
+ 
+3. Fines % (<3 mm) 
+(ARB*) 
+ 
+Wt%  
+ 
+4. Gross Calorific 
+Value (GCVARB*) 
+ 
+Kcal/Kg Refer below 
+ 
+5. Moisture (ARB*) 
+ 
+Wt% <= 15% (not more than 15%) 
+ 
+6. Bulk density  Kg 3 600 
+ 
+*ARB  As Received Basis 
+  
+ 
+CLAUSE NO. 
+ 
+PROJECT INFORMATION 
+ 
+ 
+LARA SUPER THERMAL POWER PROJECT, 
+STAGE-III - (2X800 MW), 
+MAIN PLANT PACKAGE 
+TECHNICAL SPECIFICATION 
+SECTION-VI, PART-A 
+BID DOC. NO.: CS-8013-001A-2 
+SUB SECTION-I-B 
+PROJECT INFORMATION 
+ 
+PAGE 17 OF 21 
+ 
+ 
+ 
+Annexure-IV-7(B) 
+ 
+The sample was prepared by torrefying rice straw at 300 deg C with a holding time of one 
+hour. Following analysis are carried out at NETRA using the powdered torrefied rice straw 
+samples and the results of various testing for the specific sample is tabulated below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+CLAUSE NO. 
+ 
+PROJECT INFORMATION 
+ 
+ 
+LARA SUPER THERMAL POWER PROJECT, 
+STAGE-III - (2X800 MW), 
+MAIN PLANT PACKAGE 
+TECHNICAL SPECIFICATION 
+SECTION-VI, PART-A 
+BID DOC. NO.: CS-8013-001A-2 
+SUB SECTION-I-B 
+PROJECT INFORMATION 
+ 
+PAGE 18 OF 21 
+ 
+ 
+ 
+Annexure-IV-7(C) 
+     For the Torrefied Rice Straw Pellets (Prepared by torrefaction of rice straw at 300 deg C 
+with holding time of 1 hr) tested at NETRA, the test results are as follows: 
+ A.      For Anion (ISO 16994:2016 E-Solid Biofuels- Determination of total content of sulphur 
+and chlorine)-reported as wt % dry basis 
+a.       Chlorine (Cl): 0.32% 
+b.       Fluorine (F) : 0.09% 
+B.      For Cation (ISO 16967:2015 E-Solid Biofuels- Determination of major elements - 
+Reported as wt % dry basis 
+a.       Sodium (Na):      0.31% 
+b.       Potassium (K):   2.04% 
+Note: The above details as at Annexure-IV-7(A), IV-7(B & IV-7(C) are indicative only and 
+shall vary based on the exact raw material and its subsequent processing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CLAUSE NO. 
+ 
+PROJECT INFORMATION 
+ 
+ 
+LARA SUPER THERMAL POWER PROJECT, 
+STAGE-III - (2X800 MW), 
+MAIN PLANT PACKAGE 
+TECHNICAL SPECIFICATION 
+SECTION-VI, PART-A 
+BID DOC. NO.: CS-8013-001A-2 
+SUB SECTION-I-B 
+PROJECT INFORMATION 
+ 
+PAGE 19 OF 21 
+ 
+ 
+ 
+Annexure-IV-7(D) 
+SPECIFICATIONS FOR NON-TORREFIED BIOMASS PELLETS 
+ 
+S. N.  Technical data Unit Specifications of Non- Torrefied Biomass 
+pellets 
+1 Base Material  -  Agro residue  
+2 Shape and Size  mm  
+Cylindrical shape:  
+Diameter: Not more than 25 mm   
+Length: should not exceed 35 mm.     
+3 Fines% (length<3 mm) 
+(ARB*) Wt %   
+4 Gross Calorific Value       
+(GCV-ARB*)   kCal/kg  
+Acceptable range  
+2800 kCal/Kg to 4000 kCal/kg  
+[both inclusive]  
+5 Moisture (ARB*) Wt %  Not more than 14%  
+Raw Material for pellet 
+Manufacturing 
+ Base material for pellet manufacturing shall be agro 
+residue, which means the leftover portion of the 
+agriculture produce, such as 
+stubble/straw/stalk/husk of those agro residues 
+which are surplus and not being used as animal 
+fodder, such as paddy, soya, arhar, gwar, cotton, 
+gram, jawar, bajara, moong, mustard, sesame, til, 
+maize, sunflower, jute, coffee etc., groundnut shell, 
+coconut shell, castor seed shell etc., pine needle, 
+elephant grass, sarkanda, bamboo and its by 
+product (e.g. Bamboo chips, Cuttings, Bamboo 
+Dust etc.) and horticulture waste such as dry leaves 
+and trimmings generated during the maintenance 
+and pruning of trees and plants.   
+ Agro residue-based biomass pellets can be 
+manufactured by single base material or mixing 
+multiple base materials together.     
+ Mixing materials such as by product of woodwork 
+factory such as wood chips, saw dust, furniture 
+waste etc., bagasse, press mud, molasses or 
+natural additives/binder such as lignin, starch, and 
+animal dung may also be used with agro residue in 
+limited proportion to enhance material properties 
+and same shall be explicitly mentioned by supplier 
+in consignment details. 
+*ARB  As Received Basis 
+ 
+ 
+ 
+CLAUSE NO. 
+ 
+PROJECT INFORMATION 
+ 
+ 
+LARA SUPER THERMAL POWER PROJECT, 
+STAGE-III - (2X800 MW), 
+MAIN PLANT PACKAGE 
+TECHNICAL SPECIFICATION 
+SECTION-VI, PART-A 
+BID DOC. NO.: CS-8013-001A-2 
+SUB SECTION-I-B 
+PROJECT INFORMATION 
+ 
+PAGE 20 OF 21 
+ 
+ 
+ 
+NON-TORREFIED BIOMASS CHARACTERISTICS 
+ 
+(A) BIOMASS PELLET CHARACTERISTICS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+S.N. Test Parameters Observed   
+Results 
+Test Method 
+1 Proximate analysis   
+ Moisture (ADB), % by mass 5.62 IS: 1350 (P-1) 1984 
+Ash content, % by mass 18.90 IS: 1350 (P-1) 1984 
+Volatile matter, % by mass 65.95 IS: 1350 (P-1) 1984 
+Fixed Carbon, % by mass 9.53 IS: 1350 (P-1) 1984 
+Gross calorific value, kcal/kg 3855 IS: 1350 (P-2) 1970 
+Net calorific value, kcal/kg 3601 IS: 1350 (P-2) 1970 
+Ignition temperature, ºC 240 ASTM E1491 
+Chlorine, % by mass 0.61 ASTM D4208-13 
+2 Ultimate analysis   
+ Carbon, % 42.08 IS: 1350 (P-4/sec 1) 1974 
+Hydrogen, % 4.79 IS: 1350 (P-4/sec 1) 1974 
+Nitrogen, % 0.65 IS: 1350 (P-4/sec 2) 1999 
+Sulphur, % 0.02 IS: 1350 (P-3) 1969 
+Ash, % 18.90 IS: 1350 (P-1) 1984 
+Moisture (ADB),, % 5.62 IS: 1350 (P-1) 1984 
+Oxygen, % 27.94 By difference 
+ 
+CLAUSE NO. 
+ 
+PROJECT INFORMATION 
+ 
+ 
+LARA SUPER THERMAL POWER PROJECT, 
+STAGE-III - (2X800 MW), 
+MAIN PLANT PACKAGE 
+TECHNICAL SPECIFICATION 
+SECTION-VI, PART-A 
+BID DOC. NO.: CS-8013-001A-2 
+SUB SECTION-I-B 
+PROJECT INFORMATION 
+ 
+PAGE 21 OF 21 
+ 
+ 
+ 
+(B) ASH ANALYSIS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: The above are typical specifications and characteristics of biomass pellet, 
+however, same shall vary based on the exact raw material and its subsequent 
+processing. 
+ 
+ 
+ 
+S. N. Test Parameters Observed 
+Results 
+Test Method  
+1 Chemical composition of ash   IS: 1355- 1984/XRF  
+ Silica (as SiO2), % by mass 56.41   
+Alumina (as Al2O3), % by mass 1.94 
+Iron Oxide (as Fe2O3), % by mass 2.05 
+Calcium Oxide (as CaO), % by mass 5.68 
+Magnesium Oxide (as MgO), % by mass 5.28 
+Sodium Oxide (as Na2O), % by mass 0.11 
+Potassium Oxide (as K2O), % by mass 16.58 
+Sulphate (as SO3), by mass 2.42 
+Chloride (as Cl), % by mass 6.73 
+Zinc Oxide (as ZnO), % by mass 0.07 
+Manganese Oxide (as MnO), % by mass 0.59 
+Phosphate (as P2O5), % by mass 2.04 
+2 Ash fusion profile (Oxidizing medium)  
+Initial deformation temperature  
+Softening temperature 
+Hemispherical temperature 
+Fusion temperature 
+ 
+1111 
+1164 
+1184 
+1208 
+ASTM D1857-16 
+3 Ash fusion profile (Reducing medium)  
+Initial deformation temperature 
+Softening temperature 
+Hemispherical temperature 
+Fusion temperature 
+ 
+1074 
+1022 
+1051 
+1074 
+ASTM D1857-16 
+Sl 
+No.
+EOI Ref. 
+No./ NIT 
+No.
+RFQ T&C / 
+Document 
+Reference 
+No.
+Clause No. Page 
+No. Query Description by BIDDER NTPC Reply
+SG-1
+ 
+NTPC/EPC/E
+OI/SB-
+CR/2026 
+Annexure-A 
+I: ESSENTIAL CRITERIA  
+Supply of reheat type sub-critical coal fired Steam Generators in the range of 150 MWe to 250 
+MWe with following characteristics- 
+1. Main Steam outlet temperature range: 540 to 565 deg. C. 
+2. Reheat steam outlet temperature: 565 degC 
+3. Co-firing capability, coal note-2 with 10 % to 30% of biomassnote-3 
+4. Minimum Boiler & Cycle Efficiency: As per CERC requirements for such unit sizes note-4. 
+5. Catering to CEA’s flexibilization requirements for load ramping & minimum technical load 
+criteria 
+10
+I: ESSENTIAL CRITERIA  
+Supply of reheat / Non-Reheat type sub-critical coal fired Steam Generators in the range of 90 MW  150 MWe to 250 
+MWe with following characteristics- 
+1. Main Steam outlet temperature range: 535 540 to 565 deg. C. 
+2. Reheat / Non- Reheat steam outlet temperature: 540 565 degC 
+3. Co-firing capability, coal note-2 with 10 % to 30% of biomassnote-3 
+4. Minimum Boiler & Cycle Efficiency: As per CERC requirements for such unit sizes note-4. 
+5. Catering to CEA’s flexibilization requirements for load ramping & minimum technical load criteria
+6. Main stem flow of minimum 300 TPH 
+SG-2
+ 
+NTPC/EPC/E
+OI/SB-
+CR/2026 
+Annexure-A 
+I: ESSENTIAL CRITERIA  
+CATEGORY - 1 
+The applicant of EOI should have designed, engineered, manufactured/got manufactured, 
+erected/supervised erection, & commissioned/supervised commissioning of at least one 
+number of the coal fired reheat type sub-critical, balanced draft, natural circulation Steam 
+Generator having rated capacity of 150 MWe or above which should have been in successful 
+operation for a period not less than one (1) year prior to the date of publication of this EOI. 
+ 
+Remarks: In case of a non-Indian company, the applicant should have registered in India, either 
+a subsidiary or as a Joint Venture (JV) company before the last date of EOI submission.
+10
+CATEGORY - 1 
+The applicant of EOI should have designed, engineered, manufactured/got manufactured, erected/supervised erection, & 
+commissioned/supervised commissioning of at least one number of the coal fired reheat type sub-critical, balanced draft, 
+natural circulation Steam Generator having rated capacity of  90 MW 150 MWe or above which should have been in 
+successful operation for a period not less than one (1) year prior to the date of publication of this EOI. 
+ 
+Remarks: In case of a non-Indian company, the applicant should have registered in India, either a subsidiary or as a Joint 
+Venture (JV) company before the last date of EOI submission.
+SG-3
+ 
+NTPC/EPC/E
+OI/SB-
+CR/2026 
+Annexure-A 
+II: ADDITIONAL CRITERIA 
+The following capabilities towards designing the steam generator for load flexibilization are 
+additional for such smaller units - 
+1. for Two shift operation, & minimum technical load (MTL) as 25% Note-A. 
+2. Capabilities to design pressure parts for creep, fatigue & creep-fatigue loading criteria as 
+also per EN-12952-3. 
+3. Burners for part-load conditions. 
+4. Condensate Polishing Unit (CPU) for such smaller units. 
+5. Flue gas re-circulation system design. 
+6. Low Pressure Economizer to maximize efficiency gains. 
+Remarks:  
+1. Note-A: The applicants should propose a design collaborator/technology partner who should 
+have successfully provided technical consultancy for minimum two (02) coal fired steam 
+generators (of minimum 150 MWe) and those plants should have been in successful operation 
+after execution of such design 
+incorporation for a minimum period of one year.  
+2. Bidder may include furthermore proven design features towards improving the flexibilization 
+& heat rate of the units. 
+10
+II: ADDITIONAL CRITERIA 
+The following capabilities towards designing the steam generator for load flexibilization are additional for such smaller 
+units - 
+1. for Two shift operation, & minimum technical load (MTL) as 25% Note-A. 
+2. Capabilities to design pressure parts for creep, fatigue & creep-fatigue loading criteria as also per EN-12952-3 . ( The 
+code is mentioned about CE Certification, as the project is in INDIA IBR guidlines prevails , so this code is not 
+applicable for this project. M/s ***** will not consider the said code.)
+3. Burners for part-load conditions. 
+4. Condensate Polishing Unit (CPU) for such smaller units. This is BOHT out item for Boiler manufacturer and  this 
+will be based on wtaer quality and same will be incorporated in WTP system if required.
+5. Flue gas re-circulation system design - This is not  required for M/s **** Cold Cyclone CFBC technology.
+6. Low Pressure Economizer to maximize efficiency gains. 
+Remarks:  
+1. Note-A: The applicants should propose a design G2collaborator/technology partner who should have successfully 
+provided technical consultancy for minimum two (02) coal fired steam generators (of minimum 90 150 MWe) and those 
+plants should have been in successful operation after execution of such design incorporation for a minimum period of one 
+year.  
+2. Bidder may include furthermore proven design features towards improving the flexibilization & heat rate of the units. 
+1) For sl. no. (2), The cyclic loading/creep-fatigue interaction 
+criteria may be considered in line with applicable national/ 
+international standards/ regulations. Further, the applicant may 
+indicate their reference/ guidelines for the said requriement.
+2) For sl. no. (4), The applicant shall indicate their existing tie-
+ups and/or probable makes/vendors proposed for bought-out 
+items associated with the offered system.
+3) For sl. no. (5), The requirements are considered adequate 
+and sufficiently clear for the purpose of submission for certain 
+type of boiler design. However, the applicant may indicate the 
+alternate technology, if any, relevant based on their offered 
+Steam Generator design/technology.
+4) For Remarks: Note-A, Refer NTPC reply against Sl. no. SG-1
+SG-4
+ 
+NTPC/EPC/E
+OI/SB-
+CR/2026 
+- - -
+Tentative requirements of the number units planned by NTPC and the time line. The projected requirement shall be guided by the overall 
+capacity mandate of the country. Further,  the exact 
+requirement and implementation details shall be planned by 
+NTPC at an appropriate stage.
+This EOI is to assess the capability & availability of suitable 
+vendors for the intended purpose.
+1) The EOI requirements are considered adequate and 
+sufficiently clear for the purpose of submission of EOI. 
+2) However, the applicants may furnish details of Steam 
+Generator/unit specifications based on their relevant 
+experience and credentials for information purpose.
+CLARIFICATIONS/ QUERY REPLY TO EOI NO. NTPC/EPC/EOI/SB-CR/2026
+"Identification of Vendors for Design, Manufacture, Supply, Erection, Testing & Commissioning of Sub-Critical Thermal Power Units (150 MW to 250 MW) Suitable for Two shift operation & Minimum Technical Load (MTL) as 25%."
+Corrigendum No. 01 
+NIT No. NTPC/EPC/EOI/SB-CR/2026 
+Brief NIT Description Identification of Vendors for Design, Manufacture, Supply, Erection, 
+Testing & Commissioning of Sub-Critical Thermal Power Units (150 
+MW to 250 MW) Suitable for Two shift operation & Minimum 
+Technical Load (MTL) as 25% 
+Closing Date 18/05/2026 
+Bid Submission End date 18/05/2026 18:00 

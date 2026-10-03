@@ -1,0 +1,1982 @@
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+बड
+बड
+ 
+ 
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid End Date/Time
+16-12-2025 12:00:00
+बड
+बड
+ 
+ 
+खुलने
+खुलने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid Opening Date/Time
+16-12-2025 12:30:00
+बड
+बड
+ 
+ 
+पेशकश
+पेशकश
+ 
+ 
+वैधता
+वैधता
+ (
+ (
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+ 
+ 
+से
+से
+)
+)
+/Bid Offer
+Validity (From End Date)
+120 (Days)
+मं ालय
+मं ालय
+/
+/
+रा!य
+रा!य
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Ministry/State Name
+Ministry Of Power
+वभाग
+वभाग
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Department Name
+Na
+संगठन
+संगठन
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Organisation Name
+Ntpc Limited
+काया%लय
+काया%लय
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Office Name
+Cg
+व&तु
+व&तु
+ 
+ 
+'ेणी
+'ेणी
+ 
+ 
+/Item Category
+Handling and Transport on Lumpsum Basis - Pond Ash (HCSD
+Pond Ash) Utilization in eligible avenues in lead distance 200-
+250 Kms from NTPC Darlipali
+अनुबंध
+अनुबंध
+ 
+ 
+अविध
+अविध
+ 
+ 
+/Contract Period
+ 4 Month(s)
+एमएसएमई
+एमएसएमई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष.
+वष.
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+4दान
+4दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+/MSE Exemption for Years of
+Experience and Turnover
+No
+&टाट%अप
+&टाट%अप
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष.
+वष.
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+4दान
+4दान
+ 
+क
+क
+गई
+गई
+ 
+है
+है
+ /Startup Exemption for Years of
+Experience and Turnover
+No
+व5ेता
+व5ेता
+ 
+ 
+से
+से
+ 
+ 
+मांगे
+मांगे
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़
+द&तावेज़
+/Document required
+from seller
+Experience Criteria,Bidder Turnover,Certificate (Requested in
+ATC)
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by
+the buyer
+7या
+7या
+ 
+ 
+आप
+आप
+ 
+ 
+िनवदाकार9
+िनवदाकार9
+ 
+ 
+:ारा
+:ारा
+ 
+ 
+अपलोड
+अपलोड
+ 
+ 
+;कए
+;कए
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़9
+द&तावेज़9
+ 
+ 
+को
+को
+िनवदा
+िनवदा
+ 
+ 
+म<
+म<
+ 
+ 
+भाग
+भाग
+ 
+ 
+लेने
+लेने
+ 
+ 
+वाले
+वाले
+ 
+ 
+सभी
+सभी
+ 
+ 
+िनवदाकार9
+िनवदाकार9
+ 
+ 
+को
+को
+ 
+ 
+;दखाना
+;दखाना
+ 
+ 
+चाहते
+चाहते
+ह>
+ह>
+? 
+? 
+संदभ%
+संदभ%
+ 
+ 
+मेनू
+मेनू
+ 
+ 
+है
+है
+/Do you want to show documents
+uploaded by bidders to all bidders
+participated in bid?
+No
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+ 
+ 
+सीमा
+सीमा
+ 
+ 
+&वतः
+&वतः
+ 
+ 
+नहं
+नहं
+ 
+ 
+बढ़ाने
+बढ़ाने
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+आवBयक
+आवBयक
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+संCया
+संCया
+।
+।
+ / Minimum number of bids
+required to disable automatic bid extension
+3
+;दन9
+;दन9
+ 
+ 
+क
+क
+ 
+ 
+संCया
+संCया
+, 
+, 
+Fजनके
+Fजनके
+ 
+ 
+िलए
+िलए
+ 
+ 
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+ 
+ 
+बढ़ाई
+बढ़ाई
+जाएगी
+जाएगी
+। / 
+। / 
+Number
+ 
+ 
+of
+ 
+ 
+days
+ 
+ 
+for
+ 
+ 
+which
+ 
+ 
+Bid
+would
+ 
+ 
+be
+ 
+ 
+auto
+-
+-
+extended
+4
+ 
+बड
+ 
+संCया
+/
+Bid
+ 
+Number
+: 
+GEM/2025/B/6875770
+;दनांक
+ /
+Dated
+: 25-11-2025
+बड
+बड
+ 
+ 
+द&तावेज़
+द&तावेज़
+ / Bid Document
+1 / 12
+ऑटो
+ऑटो
+ 
+ 
+ए7सट<शन
+ए7सट<शन
+ 
+ 
+अिधकतम
+अिधकतम
+ 
+ 
+;कतनी
+;कतनी
+ 
+ 
+बार
+बार
+ 
+ 
+;कया
+;कया
+ 
+ 
+जाना
+जाना
+ 
+ 
+है
+है
+। /
+। /
+Number
+ 
+ 
+of
+ 
+ 
+Auto
+ 
+ 
+Extension
+ 
+ 
+count
+1
+बड
+बड
+ 
+ 
+से
+से
+ 
+ 
+Oरवस%
+Oरवस%
+ 
+ 
+नीलामी
+नीलामी
+ 
+ 
+स;5य
+स;5य
+ 
+ 
+;कया
+;कया
+/Bid to RA enabled
+No
+बड
+बड
+ 
+ 
+का
+का
+ 
+ 
+4कार
+4कार
+/Type of Bid
+Two Packet Bid
+तकनीक
+तकनीक
+ 
+ 
+मूPयांकन
+मूPयांकन
+ 
+ 
+के
+के
+ 
+ 
+दौरान
+दौरान
+ 
+ 
+तकनीक
+तकनीक
+ 
+ 
+&पRीकरण
+&पRीकरण
+ 
+ 
+हेतु
+हेतु
+ 
+ 
+अनुमत
+अनुमत
+समय
+समय
+ 
+ 
+/Time allowed for Technical
+Clarifications during technical evaluation
+2 Days
+अनुमािनत
+अनुमािनत
+ 
+ 
+बड
+बड
+ 
+ 
+मूPय
+मूPय
+ 
+ 
+/Estimated Bid Value
+294224536
+मूPयांकन
+मूPयांकन
+ 
+ 
+पSित
+पSित
+/Evaluation Method
+Total value wise evaluation
+मTय&थता
+मTय&थता
+ 
+खंड
+खंड
+/Arbitration Clause
+No
+सुलह
+सुलह
+ 
+खंड
+खंड
+/Mediation Clause
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+ईएमड
+ईएमड
+ 
+ 
+ववरण
+ववरण
+/EMD Detail
+एडवाईजर
+ 
+ब>क
+/Advisory Bank
+ICICI
+ईएमड
+ 
+रािश
+/EMD Amount
+5000000
+ईपीबीजी
+ईपीबीजी
+ 
+ 
+ववरण
+ववरण
+ 
+ 
+/ePBG Detail
+एडवाइजर
+ 
+ब>क
+/Advisory Bank
+ICICI
+ईपीबीजी
+ 
+4ितशत
+ (%)
+/ePBG Percentage(%)
+5.00
+ईपीबीजी
+ 
+क
+ 
+आवBयक
+ 
+अविध
+ (
+माह
+) 
+/Duration of ePBG
+required (Months).
+7
+(a). 
+जेम
+ 
+क
+ 
+शत.
+ 
+के
+ 
+अनुसार
+ 
+ईएमड
+ 
+छू ट
+ 
+के
+ 
+इXछु क
+ 
+बडर
+ 
+को
+ 
+संबंिधत
+ 
+केटेगर
+ 
+के
+ 
+िलए
+ 
+बड
+ 
+के
+ 
+साथ
+ 
+वैध
+ 
+समिथ%त
+ 
+द&तावेज़
+ 
+4&तुत
+ 
+करने
+ 
+है
+।
+ 
+एमएसई
+केटेगर
+ 
+के
+ 
+अंतग%त
+ 
+केवल
+ 
+व&तुओं
+ 
+के
+ 
+िलए
+ 
+विनमा%ता
+ 
+तथा
+ 
+सेवाओं
+ 
+के
+ 
+िलए
+ 
+सेवा
+ 
+4दाता
+ 
+ईएमड
+ 
+से
+ 
+छू ट
+ 
+के
+ 
+पा 
+ 
+ह>
+।
+ 
+YयापाOरय9
+ 
+को
+ 
+इस
+ 
+नीित
+ 
+के
+ 
+दायरे
+ 
+से
+ 
+बाहर
+रखा
+ 
+गया
+ 
+है
+।
+/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the
+relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service
+Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.
+(b).
+ईएमड
+ 
+और
+ 
+संपादन
+ 
+जमानत
+ 
+रािश
+, 
+जहां
+ 
+यह
+ 
+लागू
+ 
+होती
+ 
+है
+, 
+लाभाथZ
+ 
+के
+ 
+प[
+ 
+म<
+ 
+होनी
+ 
+चा;हए
+।
+ / EMD & Performance securityshould be in
+favour of Beneficiary, wherever it is applicable. 
+लाभाथZ
+लाभाथZ
+ 
+ 
+/Beneficiary :
+ 
+HOD
+SM/ AGM (Contracts & Materials) NTPC Limited, 
+Unified Shared Service Centre, Central Procurement Group-1, 
+Western
+Region-II Head Quarter, Plot No.-87, Sector-24, Atal Nagar Nava Raipur, Raipur, Chhattisgarh, Pin Code-492101 Tel.
+No.: 0771-2515402/0771-2515537
+(Ntpc Ltd)
+बोली
+ 
+वभाजन
+ 
+लागू
+ 
+नहं
+ 
+;कया
+ 
+गया
+/ 
+Bid splitting not applied.
+2 / 12
+एमआईआई
+एमआईआई
+ 
+ 
+अनुपालन
+अनुपालन
+/MII Compliance
+एमआईआई
+ 
+अनुपालन
+/MII Compliance
+Yes
+एमएसई
+एमएसई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MSE Purchase Preference
+एमएसई
+ 
+खरद
+ 
+वरयता
+/MSE Purchase Preference
+Yes
+सू\म
+ 
+और
+ 
+लघु
+ 
+उ_म
+ 
+मूल
+ 
+उपकरण
+ 
+िनमा%ताओं
+ 
+को
+ 
+खरद
+ 
+म<
+4ाथिमकता
+, 
+य;द
+ 
+उनका
+ 
+मूPय
+ 
+L
+1+
+X
+% 
+तक
+ 
+क
+ 
+सीमा
+ 
+म<
+ 
+हो
+ /
+Purchase Preference to MSE OEMs available upto
+price within L1+X%
+15
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined
+in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry
+of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the
+bidder wants to avail the Purchase preference for services, the bidder must be the Service provider of the offered
+Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered
+service. If L-1 is not an MSE and MSE Service Provider (s) has/have quoted price within L-1+ 15% of margin of
+purchase preference /price band as defined in the relevant policy, then 100% order quantity will be awarded to such
+MSE bidder 
+subject to acceptance of L1 bid price. The buyers are advised to refer to the
+OM_No.1_4_2021_PPD_dated_18.05.2023
+ for compliance of Concurrent application of Public Procurement Policy for
+Micro and Small Enterprises Order, 2012 and Public Procurement (Preference to Make in India) Order, 2017. 
+Benefits
+of MSE will be allowed only if the credentials of the service provider are validated on-line in GeM profile as well as
+validated and approved by the Buyer after evaluation of submitted documents. 
+2. If L-1 is not an MSE and MSE Service Provider (s) has/have quoted price within L-1+ 15% of margin of purchase
+preference /price band as defined in the relevant policy, then 100% order quantity will be awarded to such MSE
+bidder subject to acceptance of L1 bid price. 
+3. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and for
+determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc. This has
+no relevance or bearing on the price to be quoted by the bidders and is also not going to have any impact on bid
+participation. Also this is not going to be used as a criteria in determining reasonableness of quoted prices which
+would be determined by the buyer based on its own assessment of reasonableness and based on competitive prices
+received in Bid / RA process. 
+अितOरa
+अितOरa
+ 
+ 
+योbयता
+योbयता
+ /
+ /
+आवBयक
+आवBयक
+ 
+ 
+डेटा
+डेटा
+/Additional Qualification/Data Required
+Scope of Work:
+1764051223.pdf
+Terms and Conditions to be mentioned by Buyer for bidders to participate:
+1764051247.pdf
+Any Other Documents and Requirement to be mentioned by Buyer:
+1764051267.pdf
+Handling And Transport On Lumpsum Basis - Pond Ash (HCSD Pond Ash) Utilization In
+Eligible Avenues In Lead Distance 200-250 Kms From NTPC Darlipali ( 1 
+)
+तकनीक
+तकनीक
+ 
+ 
+विशRयाँ
+विशRयाँ
+ 
+ 
+/Technical Specifications
+ववरण
+ववरण
+/
+Specification
+मूPय
+मूPय
+/ Values
+कोर
+कोर
+ / Core
+Category
+Pond Ash (HCSD Pond Ash) Utilization in eligible avenues in lead distance 200-250 Kms from
+NTPC Darlipali
+3 / 12
+एडऑन
+एडऑन
+ 
+ 
+/Addon(s)
+ववरण
+ववरण
+/
+Specification
+मूPय
+मूPय
+/ Values
+5ेता
+5ेता
+ 
+ 
+:ारा
+:ारा
+ 
+ 
+िनधा%Oरत
+िनधा%Oरत
+ 
+ 
+dयूनतम
+dयूनतम
+ 
+ 
+मूPय
+मूPय
+/Minimum Floor Price defined by Buyer
+5ेता
+ 
+:ारा
+ 
+िनधा%Oरत
+ 
+dयूनतम
+ 
+मूPय
+/Minimum Floor Price
+defined by Buyer
+No
+अितOरa
+अितOरa
+ 
+ 
+विशR
+विशR
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+परेषती
+परेषती
+/
+/
+Oरपो;टeग
+Oरपो;टeग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+/Consignees/Reporting Officer and Quantity
+5.सं.
+5.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो;टeग
+Oरपो;टeग
+ 
+ 
+अिधकार
+अिधकार
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधन9
+संसाधन9
+ 
+क
+क
+ 
+मा ा
+मा ा
+ /
+Project based
+(to be kept as
+1)
+अितOरa
+अितOरa
+ 
+आवBयकता
+आवBयकता
+/Additional
+Requirement
+1
+Prasant Kumar
+Behera
+770072,Darlipali STPP P.O.
+Darlipali Sundargarh 770072
+Odisha
+1
+N/A
+5ेता
+5ेता
+ 
+ 
+:ारा
+:ारा
+ 
+ 
+जोड़
+जोड़
+ 
+ 
+गई
+गई
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+वशेष
+वशेष
+ 
+ 
+शतh
+शतh
+/Buyer Added Bid Specific Terms and Conditions
+1
+. 
+Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 / 12
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Additional Terms and Conditions
+(ATC)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNIFIED SHARED SERVICE CENTRE, CPG-1, RAIPUR
+CONTRACT & MATERIAL DEPTT
+5 / 12
+Pond Ash (HCSD Pond Ash) Utilization in eligible avenues in lead distance 200-250 Kms from NTP
+C Darlipali
+ 
+(Domestic Competitive Bidding-on OPEN TENDER  Basis)
+                    GeM Tender Reference: GEM/2025/B/6875770
+ 
+ 
+1.
+    
+Additional Terms & Conditions (ATC) of this tender comprises the following documents:
+a.
+    
+Section-I: Invitation for Bids (IFB)/Tender Enquiry/Notice Inviting Tender (NIT).
+b.
+    
+Section-II: Instructions to Bidders (ITB)
+c.
+     
+Section-III: Bid Data Sheet (BDS)
+d.
+    
+Section-IV: General Conditions of Contract (GCC)
+e.
+    
+Section-V: Special Conditions of Contract (SCC)
+f.
+      
+Section-VI: Technical Specifications and Terms & Conditions
+g.
+    
+Section-VII: Schedule of Quantities (SOQ) / Bill of Quantities (BOQ) (As per GeM)
+h.
+    
+Section-VIII: Forms and Procedures (Part 1 of 3, Part 2 of 3 & Par 3 of 3)
+ 
+2.
+    
+Qualifying Requirements
+: ApplicableRefer Section-I NIT for details.
+Note : In GeM Bid under the tab Documents required from seller to be rea
+d as :  
+Experience Criteria,Bidder Turnover,Certificate (Requested in 
+AT
+C)
+ 
+ *In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting docu
+ments to prove his eligibility for exemption must be uploaded for evaluation by the buyer" 
+ 
+3.
+    
+EMD:
+ 
+ EMD is to be submitted in the form of e-BG/Bank Guarantee/ Insurance Surety Bond 
+in the format 
+specified in the Bid Document only.
+ 
+Submission of EMD BG in GeM Format shall not be accepted and such Bids shall be outrightly rejec
+ted.
+ 
+ 
+EMD exemption
+: Micro and Small Enterprises (MSEs) having UDYAM Registration, 
+for goods produced and services rendered, shall be exempted from paying Earnest 
+Money Deposit. Such registered bidders will have to submit 
+UDYAM Registration 
+Certificate
+, as a proof of being MSE on GeM Portal.
+To avail MSE beneﬁt in respect of EMD exemption and purchase preference, Bidder
+should be a manufacturer of oﬀered product. Traders are excluded from purview of
+MSE benefit.
+ 
+ 
+4.
+    
+A complete set of tender documents as mentioned above along with QR Requirement are enclo
+sed under “Terms and Conditions to Be Mentioned by Buyer For Bidders To Participate
+”.
+5.
+    
+Safety Policy and Banning Policy along with other formats are enclosed under “Any Other Doc
+uments And Requirement To Be Mentioned By Buyer
+”.
+6.
+    
+Terms and Conditions stipulated in ATC will supersede those in GeM GTC and STC in case of any conﬂictin
+g provisions.
+ 
+6 / 12
+7.
+    
+Bidders are required to submit the documents as mentioned in the check list appended below while submi
+tting their bid and submit the dully filled check list online on GeM portal in ‘Additional ATC documents’.
+ 
+ 
+ 
+8.
+    
+MSEs seeking exemption for EMD and Purchase Preference shall select appropriate option on 
+GeM portal (separately for each i.e. EMD & purchase preference) and should enclose an attest
+ed/self-certiﬁed copy of UDYAM registration certiﬁcate, failing which they run the risk of their
+bid being passed over as ineligible for the benefits applicable to MSEs.
+ 
+ 
+9.  
+How to Fill Price Bid on GEM
+: 
+Refer SOW.
+ 
+10. 
+Evaluation and Splitting criteria:
+ 
+Ref. SOW.
+ 
+11.
+ 
+Recently, IP address functionality was introduced in GeM portal. The primary objective of t
+his new feature is to identify collusion activities between sellers by capturing their IP addresse
+s. During the technical evaluation stage, in case of common IP address of a seller with any oth
+er seller/buyer as popped up in a tender by GeM portal, all such bids shall be liable for rejectio
+n.
+12.
+ 
+Bidders are required to submit the duly ﬁlled mandatory Annexure-A "Proforma of Certiﬁca
+te" and Annexure-B "Proforma of Undertaking" it is to be enclosed along with Technical-comme
+rcial offer.
+Submission of Annexure-A "Proforma of Certiﬁcate" and Annexure-B "Proforma of Undertaking
+" is pre-requisite for price bid opening. Technical Bid of agencies who have not furnished the a
+foresaid annexures will be rejected and their offer will not be considered for price bid opening.
+ 
+ 
+Following 
+Yellow Highlighted Attachments
+ MUST be uploaded by Bidders, failing which the oﬀer s
+hall be liable to be rejected.
+ 
+Sl
+Document Required
+Action Required
+Submitte
+d   (√ )
+1
+Attachment 1: 
+Bid Security / EMD
+(as per ITB Clause No. 14.0)-
+ 
+ 
+ 
+ 
+(i) 
+Bank Guarantee,
+ strictly in the forma
+t provided in the 
+tender document 
+(Not 
+as per GeM format, GeM format 
+of E
+MD BG shall not be acceptable)
+To be uploaded
+online and Original
+BG to be 
+submitted
+physically.
+ 
+ 
+(ii) 
+MSE (UDYAM only) Certiﬁcate
+ tow
+ards exemption of Bid 
+Security / EMD (if a
+pplicable).
+To be uploaded
+online
+ 
+7 / 12
+2
+Bidder’s Basic Information
+To be uploaded onl
+ine
+ 
+3
+Attachment-3 & All documents menti
+oned by 
+agency therein.
+To be uploaded onl
+ine
+ 
+4
+Attachment 
+14: Declaration regardin
+g GST
+To be uploaded onl
+ine duly filled in
+ 
+5
+Attachment 
+15: Undertaking for com
+pliance of Important Conditions of Te
+nder
+To be uploaded onl
+ine dully 
+filled in
+ 
+6
+Attachment 3B: 
+Certificate
+ Regarding Ow
+nership change
+To be uploaded onlin
+e duly filled 
+in
+ 
+7
+Attachment 6A: 
+Safety Equipment & 
+Safet
+y Personal Protective Equipment
+To be uploaded onlin
+e duly filled 
+in
+ 
+8
+Attachment 8: 
+List of Financial 
+Documents
+To be uploaded onlin
+e duly filled 
+in
+ 
+9
+Attachment 9: General Declaration of
+Bidder
+To be declared throu
+gh undertaking 
+at Att
+achment-15
+ 
+10
+Attachment 10: Details of Accidents
+To be uploaded onlin
+e duly filled 
+in
+ 
+11
+Attachment 
+11: Electronic Fund Transfer (
+EFT) Authorisation Form
+To be uploaded onlin
+e duly filled 
+in and au
+thenticated from the 
+concerned bank
+ 
+12
+Attachment 12: Integrity Pact 
+as per Perfo
+rma (pre-signed by employer) duly signed
+& Stamped at 
+each page 
+[if applicable]
+To be accepted in att
+achment-15
+ 
+13
+Declaration on 
+Compliance to “Conflict of 
+Interest” provisions.
+To be uploaded onlin
+e.
+ 
+14
+Self-Declaration by the Bidder on “
+“Decla
+ration 
+regarding insolvency, bankrup
+tcy and Liquidation”
+To be uploaded onlin
+e
+ 
+15
+Undertaking regarding Site Visit and other
+Annexures 
+A, B ,C &D
+To be uploaded onlin
+e
+ 
+ 
+8 / 12
+Bidder’s Basic Information
+ 
+ 
+1.
+      
+Name of Agency:
+ 
+2.
+      
+Address:
+ 
+ 
+ 
+ 
+3.
+      
+PAN No.:
+ 
+4.
+      
+NTPC Vendor Code (If Any):
+ 
+5.
+      
+Name of Proprietor / Partners / Directors:
+ 
+a.
+      
+…………………………………………………………………….
+b.
+      
+…………………………………………………………………….
+c.
+       
+…………………………………………………………………….
+d.
+      
+…………………………………………………………………….
+e.
+      
+…………………………………………………………………….
+f.
+        
+…………………………………………………………………….
+ 
+6.
+      
+Dealing Person for this Tender:
+ 
+a.
+      
+Name:
+9 / 12
+ 
+b.
+      
+Mobile No.:
+ 
+c.
+       
+Alt. Mobile No.:
+ 
+7.
+      
+Mail ID:
+ 
+ 
+Date:
+Place:                                                              
+Signature............................................     
+(Name of Authorized person having Power of attorney) 
+ 
+Designation.......................................
+Common Seal....................................
+ 
+ 
+ 
+ 
+The followings have been ensured while submitting the bid on GeM portal:
+ 
+ 
+1.
+    
+The Bid Security/EMD BG has been prepared in NTPC format and GeM format is not used for the same
+.
+2.
+    
+MSE Certiﬁcate i.e. Udyam Certiﬁcate (only if applicable) has been submitted on the designated plac
+e of GeM portal.
+3.
+    
+Purchase preference (if applicable) has been applied separately on GeM portal at designated place.
+4.
+    
+Annexure-A, B, C,D & Site Visit Undertaking, Enlistment Certiﬁcate, Attachment-14, Attachment-15 &
+Attachment-17 have been signed and uploaded on GeM portal.
+ 
+                                                                    Bidder’s Sign & Stamp
+ 
+ 
+ 
+Place:                                                               Name of Authorized person
+                                                                           having Power
+                                                                                       of attorney …. …………………………..
+Designation.......................................
+                                                                                       Common
+10 / 12
+ 
+ 
+ 
+ 
+ 
+Seal....................................
+Mobile …………….
+Email …………………………..
+ 
+ 
+.
+2
+. 
+Buyer Added Bid Specific ATC
+Buyer uploaded ATC document 
+Click here to view the file
+.
+अ&वीकरण
+अ&वीकरण
+/Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent Authority
+in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses on the
+bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in the bidding
+process due to these ATCs and due to modification of technical specifications and / or terms and conditions
+governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and resultant
+contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of bidding process
+without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any Category
+item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for 
+attached
+categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the case
+may be.
+15
+. 
+Any ATC clause in contravention with GeM GTC Clause 4 (xiii)(h) will be invalid. In case of multiple L1 bidders
+against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1 bidders
+through a Random Algorithm executed by GeM system.
+11 / 12
+16
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+17
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the same
+must be added through bunching category based items or by bunching custom catalogs or bunching a BoQ
+with the main category based item, the same must not be done through ATC or Scope of Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of this
+bid, they can raise their representation against the same by using the Representation window provided in the bid
+details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer is duty
+bound to reply to all such representations and would not be allowed to open bids if he fails to reply to such
+representations.
+All GeM Sellers / Service Providers are mandated to ensure compliance with all the applicable laws /
+acts / rules including but not limited to all Labour Laws such as The Minimum Wages Act, 1948, The
+Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The Equal Remuneration Act, 1976, The
+Payment of Gratuity Act, 1972 etc. Any non-compliance will be treated as breach of contract and Buyer
+may take suitable actions as per GeM Contract.
+This Bid is governed by the 
+सामाdय
+ 
+िनयम
+ 
+और
+ 
+शतh
+/General Terms and Conditions
+, conditons stipulated in Bid and
+Service Level Agreement
+ specific to this Service as provided in the Marketplace. 
+However in case if any condition
+specified in 
+सामाdय
+ 
+िनयम
+ 
+और
+ 
+शतh
+/General Terms and Conditions is contradicted by the conditions stipulated in Service
+Level Agreement, then it will over ride the conditions in the General Terms and Conditions.
+जेम
+ 
+क
+ 
+सामाdय
+ 
+शत.
+ 
+के
+ 
+खंड
+ 26 
+के
+ 
+संदभ%
+ 
+म<
+ 
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+के
+ 
+बडर
+ 
+से
+ 
+खरद
+ 
+पर
+ 
+4ितबंध
+ 
+के
+ 
+संबंध
+ 
+म<
+ 
+भारत
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+का
+ 
+कोई
+ 
+भी
+ 
+बडर
+ 
+इस
+ 
+िनवदा
+ 
+म<
+ 
+बड
+ 
+देने
+ 
+के
+ 
+िलए
+ 
+तभी
+ 
+पा 
+ 
+होगा
+ 
+जब
+ 
+वह
+ 
+बड
+ 
+देने
+ 
+वाला
+ 
+स[म
+4ािधकार
+ 
+के
+ 
+पास
+ 
+पंजीकृत
+ 
+हो
+।
+बड
+ 
+म<
+ 
+भाग
+ 
+लेते
+ 
+समय
+ 
+बडर
+ 
+को
+ 
+इसका
+ 
+अनुपालन
+ 
+करना
+ 
+होगा
+ 
+और
+ 
+कोई
+ 
+भी
+ 
+गलत
+ 
+घोषणा
+ 
+;कए
+ 
+जाने
+ 
+व
+ 
+इसका
+अनुपालन
+ 
+न
+ 
+करने
+ 
+पर
+ 
+अनुबंध
+ 
+को
+ 
+तlकाल
+ 
+समाm
+ 
+करने
+ 
+और
+ 
+कानून
+ 
+के
+ 
+अनुसार
+ 
+आगे
+ 
+क
+ 
+कानूनी
+ 
+कार%वाई
+ 
+का
+ 
+आधार
+ 
+होगा
+।
+/In terms of GeM GTC clause
+26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a land border with India will
+be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake compliance of this and any false
+declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in accordance with the laws.
+---
+धdयवाद
+धdयवाद
+/Thank You---
+12 / 12

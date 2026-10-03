@@ -1,0 +1,95 @@
+NTPC Limited eProcurement Portal
+Tender Details
+Date : 03-Aug-2026 03:51 PM
+ Print
+Basic Details
+Organisation Chain NTPC Limited||Corporate Centre||USSC||CPG-1
+Tender Reference Number NTPC/USSC-CPG1/9900330200
+Tender ID 2026_NTPC_110502_1 Withdrawal Allowed Yes
+Tender Type Open Tender Form of contract Works
+Tender Category Works No. of Covers 3
+General Technical Evaluation Allowed Yes [Compliance Required] ItemWise Technical Evaluation Allowed No
+Payment Mode Online Is Multi Currency Allowed For BOQ No
+Is Multi Currency Allowed For Fee No Allow Two Stage Bidding No
+ 
+Payment Instruments
+Online Bankers S.No Bank Name
+1 SBI Bank
+Cover Details, No. Of Covers - 3
+Cover No Cover Document Type Description
+1 Fee .pdf Scanned Fee Details
+2 PreQual/Technical .pdf Technical Documents
+work orders
+.pdf Financial Documents
+3 Finance .xls Price Bid
+ 
+Tender Fee Details, [Total Fee in ₹ * - 0.00]
+Tender Fee in ₹ 0.00
+Fee Payable To Nil Fee Payable At Nil
+Tender Fee Exemption Allowed No
+EMD Fee Details
+EMD Amount in ₹ 2,00,000 EMD Exemption Allowed No
+EMD Fee Type fixed EMD Percentage NA
+EMD Payable To Nil EMD Payable At Nil
+BG Required No
+Minimum Direct EMD Payment in
+₹
+0.00
+ 
+ 
+Work /Item(s)
+Title Contract for Supply and Apply of Airseal in Boiler and Auxiliaries
+Work Description Contract for Supply and Apply of Airseal in Boiler and Auxiliaries during Unit 1 and 3 Overhauling at NTPC Bongaigaon Thermal Power
+Pre Qualification Details As per tender documents 
+Independent External
+Monitor/Remarks
+NA 
+Tender Value in ₹ NA Product Category Miscellaneous
+Works
+Sub category NA 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work(Days) 730 
+Location Western Region Head QuartersII Plot No.
+-87, Secto
+Pincode 492018 Pre Bid Meeting Place NA 
+
+Pre Bid Meeting Address NA Pre Bid Meeting Date NA Bid Opening Place Western Region Head
+QuartersII
+Should Allow NDA Tender No Allow Preferential Bidder No
+ 
+Critical Dates
+Publish Date 31-Jul-2026 04:00 PM Bid Opening Date 13-Aug-2026 04:00 PM
+Document Download / Sale Start Date 31-Jul-2026 04:00 PM Document Download / Sale End Date 11-Aug-2026 03:00 PM
+Clarification Start Date 31-Jul-2026 04:00 PM Clarification End Date 07-Aug-2026 05:00 PM 
+Bid Submission Start Date 31-Jul-2026 04:00 PM Bid Submission End Date 11-Aug-2026 03:00 PM
+ 
+ 
+Tender Documents
+NIT Document S.No Document Name Description Document Size (in KB)
+1 Tendernotice_1.pdf NIT 1048.54
+ 
+Work Item
+Documents S.No Document Type Document Name Description Document Size (in KB)
+1 Tender Documents TD9900330200.rar Tender Documents 20244.36
+2 BOQ BOQ_113730.xls boq 326.50
+ 
+ 
+View GTE Details - SERVICE GTE (OT- SINGLE STAGE-MLC-LAND BORDER CLAUSE)
+S.No Particulars Description Expected Value Mandatory
+1.0
+Confirm that you are a LOCAL SUPPLIER, and the LOCAL CONTENT included in
+the PACKAGE FOR COMPLETE SCOPE OF WORK meets the MINIMUM LOCAL
+CONTENT requirements of the Tender.
+MLC Declaration for Services Yes Yes
+2.0 Do you accept NTPC Safety Rules SAFETY RULES COMPLIANCE Yes Yes
+3.0 Do you accept the Fraud Prevention Policy of NTPC FRAUD PREVENTION Yes Yes
+4.0 Do you accept Withholding and Banning of Business Dealing Policy of NTPC BANNING POLICY DECLARATION Yes Yes
+5.0 Do you certify full compliance on clause as per tender documents on Restrictions
+on procurement from a Bidder of a country which shares a land border with India LAND BORDER CLAUSE COMPLIANCE Yes Yes
+6.0 Do you certify full compliance on Qualifying Requirements QR COMPLIANCE Yes Yes
+7.0 Do you certify full compliance to all provisions of Bid documents NO DEVIATION CERTIFICATION Yes Yes
+ 
+ 
+Tender Inviting Authority
+Name Sr Manager
+Address Western Region Head QuartersII Plot No. -87, Sector-24, Atal RAIPUR 492018
+ 

@@ -1,0 +1,299 @@
+ 
+Qualifying Requirement for Vendor Enlistment for supply of RO Water Treatment Chemicals  
+10MEG-41. 
+A MEG Details   
+ 1 MEG No. 10MEG-41 
+ 2 MEG 
+DESCRIPTION 
+Supply of RO Water Treatment Chemicals: 
+ 
+1. FERRIC CHLORIDE- Solid /Liquid 
+2. SODIUM METABISULPHITE (SMBS) 
+3. EDTA TERTA SODIUM SALT 
+4. CHEMICAL DBNPA - Solid / Liquid 
+5. CITRIC ACID   
+ 3 RESPONSIBILITY 
+CENTRE 
+CPG-1/ VDC 
+ 4 ENLISTMENT 
+CATEGORY 
+Category-1 
+B TECHNICAL CRITERIA  
+QR-1: 
+The applicant should be a manufacturer of “any one or more”  of the RO water treatment 
+chemical(s) given at MEG DESCRIPTION “A2” above. 
+OR 
+QR-2: 
+The applicant should be a supplier of “any one or more” of the RO water treatment chemical(s) 
+given at MEG DESCRIPTION “A2” above meeting the specification mentioned at Annexure I, in 
+any Govt/ Semi - Govt/ PSU/ Power/ Process Industry, within last five years from the date of 
+application. 
+C Documents to be submitted as proof of meeting the stipulated Qualifying Requirements:  
+QR-1: 
+Valid factory License/ Consent to operate from any Government statutory body such as Pollution 
+Control Board/ NSIC registration/ any other valid document as proof of manufacturing  with 
+mention of any of the following terms: 
+Any one of the chemicals at MEG DESCRIPTION “A2” above/ Antiscalant / RO Antiscalant 
+/Descaling Compounds / Cleaning and Descaling Chemicals/ Biocide / Cleaning Chemicals for RO 
+/ Chemicals for Membrane Cleaning / Bio dispersant/ Coagulation Chemical/ Flocculants 
+/Chemicals for treating RO water/ 2,2 -Dibromo Nitrilo Propionamide/ Treatment Chemicals for 
+reverse osmosis. 
+OR 
+Valid Udyam  registration certificate mentioning name of any one of the chemicals MEG 
+DESCRIPTION “A2” above / Chemical NIC (5) code(s) and Activity as Manufacturing against the 
+NIC Code. 
+AND 
+ II)  An undertaking on the Company letter pad, duly signed/ stamped, of being a manufacturer 
+of any one of the chemicals MEG DESCRIPTION “A2” above /Chemicals for RO water treatment / 
+Cleaning and Descaling Chemicals for RO, along with their Works addresses. 
+OR 
+QR-2: 
+Copy of Purchase Order(s), corresponding Invoice(s)/ completion certificate for supplying “any 
+one or more” of the RO water treatment chemical(s) given at MEG DESCRIPTION “A2” above to 
+any Govt/ Semi- Govt/ PSU/ Power sector or Process industry having the specification mentioned 
+at Annexure I (or as per the relevant IS code).   
+AND 
+ II)  A n undertaking on the Co mpany letter pad, duly signed/  stamped, that the vendor will be 
+able to supply at least any one or more of the chemicals given at MEG DESCRIPTION “A2” above 
+/ Chemicals for RO water treatment / Cleaning and Descaling Chemicals for RO as per the 
+specification mentioned at Annexure I; along with their Works addresses. 
+NTPC can ask more documents if felt necessary. Also, all documents/ facilities can be verified / 
+assessed if required. 
+D Other Documents to be uploaded: In addition to the documents required in support of Qualifying 
+Requirements as stated at B) above, following documents are also required to be uploaded by 
+the applicants applying for enlistment: - 
+1. Three PO’s of the highest executed values (Refer to Note-2 of “E” below) of similar works 
+(Refer to Note-1 of “E” below) during last five years from the date of application. Copy 
+of Invoice/ Completion certificate from the concerned buyer(s) in support of successful 
+execution of supply against the PO’s.  
+2. Audited balance sheet including Profit & Loss statement for the previous three completed 
+financial years reckoned from the date of application. In case the audited results for the 
+preceding financial year is not available, certification of financial statements from a 
+practicing chartered accountant is to be uploaded. In case, applicant is not able to submit 
+the certificate from practicing chartered accountant certifying its financial parameters, 
+the audited results of the three consecutive financial years preceding the last f inancial 
+years shall be considered for evaluating the financial parameters. Further, a certificate 
+would be required from the CEO/CFO stating that the financial results are under audit as 
+on date of application and certificate from the practicing chartered certifying the financial 
+parameters are not available.  
+E Note-1 Similar works means: Supply of “any one or more” of chemicals mentioned at 
+MEG DESCRIPTION “A2” above. 
+ Note-2 The executed value means “Basic value of quantity of similar works supplied 
+against the reference PO” (also applicable to partly executed POs as on date of 
+application). Where PO value is composite (i.e. including Taxes etc.), the 
+applicant to give item -wise break-up of Composite PO value mentioning Basic 
+Value of “any one or more” of chemicals mentioned at MEG DESCRIPTION “A2” 
+above, Taxes etc. 
+ Note-3 Other income shall not be considered for computing annual turnover. 
+ Note-4 For any other Terms & Conditions, Applicants are requested to please refer 
+standard Terms & Conditions available at VDC/CPC portal i.e. 
+https://vendor.ntpc.co.in 
+ Note-5 Technical Specifications are attached as Annexure-I  
+ 
+Annexure-I 
+ 
+I. Technical Specification for Enlistment of Vendor for the RO Water Chemicals (10MEG-41). 
+ 
+A. GENERAL: The material shall be as per the requirement mentioned.  
+B. REQUIREMENT: 
+1. Specifications of FERRIC CHLORIDE- LIQUID – M1010208018. 
+S.N. Characteristics UOM Requiremen
+t (Liquid) 
+Anhydrous 
+(Solid) 
+REMARKS 
+a. Relative Density at 25 OC ----- Min 1.46  To be tested at 
+Chemistry lab 
+b. Insoluble Matter % by wt  Max 0.05 Max 0.5 -do- 
+c. Ferric chloride, as FeCl3 % by wt Min 43.0 Min 98 -do- 
+d. Ferrous salts (as FeCl2) % by wt Max 0.10 Max 0.10 -do- 
+e. Free Acid (HCl)/ 
+Basicity (as Fe2O3) 
+% by wt Max 0.02/ 
+Max 0.2 
+ Manufacturer’s test 
+certificate/COA 
+f. Free chlorine (as Cl) % by wt Max 0.01 Max 0.01 -do- 
+g. Sulphates (as SO42-) % by wt Max 0.30 Max 0.30 -do- 
+h. Nitrates (as NO3-) % by wt Max 0.05 Max 0.05 -do- 
+i. Alkalis & alkaline Earths 
+(expressed as sulphates) 
+% by wt Max 0.2 Max 0.3 -do- 
+j. Copper (as Cu) % by wt Max 0.015 Max 0.015 -do- 
+k. Zinc (as Zn) % by wt Max 0.01 Max 0.01 -do- 
+l. Arsenic (as As2O3) % by wt Max 0.0002  
+(2 ppm) 
+Max 0.0005 
+(5 ppm) 
+-do- 
+• Packing- 50 litre HDPE/PVC/Plastic drums or tanker as per site requirement. 
+• Testing Requirement: Testing procedures as per IS 711:1970, Reaffirmed 2006. 
+• Agency must provide Test report/ certificate for all the Twelve parameters (S.No.1.a 
+to 1.l)  from Government lab/ Manufacturer Lab/ NABL accredited Lab, for each 
+consignment. 
+• First four parameters will be tested at NTPC site laboratory for material acceptance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Specifications of SODIUM METABISULPHITE (SMBS)- M1010797003  
+S.N. Characteristics UOM Requirement REMARKS 
+a. Appearance 
+of solution 
+---- 20% solution 
+should have a 
+pale yellow 
+colour free from 
+extraneous 
+impurities other 
+than slight 
+flocculence. 
+To be tested at 
+Chemistry lab 
+b. Appearance of 
+the material 
+---- Dry, 
+white/cream- 
+coloured 
+powder, free 
+from extraneous 
+matter and 
+having a faint 
+smell of sulphur 
+dioxide gas. 
+-do- 
+c. Purity (as SO2 content) % by mass Min 60 -do- 
+d. pH of 5% solution ---- 4.5-5.5 -do- 
+e. Insoluble matter % by mass Max 0.1 -do- 
+f. Iron (as Fe) % by mass Max 0.02 Manufacturer’s test 
+certificate/COA 
+g. Heavy metals (as Pb) % by mass Max 0.01 -do- 
+h. Heavy metals (as 
+Ni and Co) 
+% by mass Max 0.01 -do- 
+i. Thiosulphate 
+content (as Na2S2O3) 
+% by mass Max 0.05 -do- 
+Note: 
+i. Testing procedures as per IS 248:1987 (Reaffirmed 2020) 
+ii. SMBS should not be cobalt-activated (Cobalt catalyses the oxidation of the RO 
+membranes). 
+i. Packing:25-50 Kg HDPE/PVC/Plastic Drums with moisture proof double lining 
+bags. 
+ii. Agency must provide Test report/ certificate for all the nine parameters (1.a to 
+1.i) from Government lab/ Manufacturer Lab/ NABL accredited Lab, for each 
+consignment. 
+iii. First five parameters (1.a to 1.e) will be tested at NTPC site laboratory for material 
+acceptance. 
+ 
+3. Specifications of  EDTA TERTA SODIUM SALT:GR- TECHNICAL (for CIP cleaning of RO  
+membranes)- M1010172102 
+S.N. Characteris 
+tics 
+UOM Requirement REMARKS 
+a. Purity % Min 96 To be tested at manufacturer’s lab 
+and cross-checked at Chemistry lab 
+on receipt [note (i)] 
+b. Appearance ---- White-coloured 
+dry crystalline 
+powder, free 
+from extraneous 
+impurities. 
+To be tested at Chemistry lab. 
+c. pH of 
+saturated 
+solution 
+---- 10-11 -do- 
+d. Chelation 
+value 
+mg/g Min 200 Chelation value test procedure 
+available as per AATCC method 149 
+and test to be done by Chemistry 
+lab. So, acceptance will be based on 
+Chelation value of above 200  
+mg/g. 
+Note:  
+i. To check the purity standard method is not available, however, to cross -check 
+purpose at 4.a of EDTA-4Na, laboratory can follow the testing method of EDTA (as 
+per IS -7220) and convert to EDTA -4Na by substituting the Molecular weight of 
+EDTA-4Na instead of EDTA will give approximate value.  
+ii. Packing:25-50 Kg HDPE/PVC/Plastic Drums with moisture proof double lining bags. 
+iii. Agency must provide Test report/ certificate for all the four parameters (4.a to 4.d) 
+from Government lab/ Manufacturer Lab/ NABL accredited Lab, for each 
+consignment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Specifications of CHEMICAL SOLID DBNPA:99% - M1010145110  
+S.N. Characteristics UOM Requirement REMARKS 
+a. Purity % (Min) 99  
+i. Packing:25-50 Kg HDPE/PVC/Plastic Drums with moisture proof double lining bags. 
+ii. Agency must provide Test report/ certificate for purity  from Government lab/ 
+Manufacturer Lab/ NABL accredited Lab, for each consignment. 
+4 (A) Specifications of CHEMICAL SOLUTION DBNPA- M1011115101 
+S.N. Characteristics UOM Requirement REMARKS 
+a. Concentration  % (Min) 20   
+i. Solvent used should be compatible with RO membrane. Manufacturer's  certificate 
+to this effect to be submitted at the time of supply 
+ii. Packing: to be supplied in 25 litre new HDPE carboys on non-returnable basis.  
+iii. Agency must provide Test report/ certificate for purity  from Government lab/ 
+Manufacturer Lab/ NABL accredited Lab, for each consignment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. Specification of CITRIC ACID IS 5464 MIN PURITY 98% - M1020104949 
+ 
+S.No. Characteristics Unit Requirement 
+a. Citric Acid (as monohydrate), Min % by mass 98.5 
+b. Sulphate (as SO4), Max ppm 100 
+c. Halides (as Cl), Max ppm 100 
+d. Sulphated ash, Max % by mass 0.1 
+e. Heavy metals (as Pb), Max ppm 10 
+f. Iron (as Fe), Max ppm 10 
+g. Oxalates (as C2H2O4), Max -- To pass test (as per IS code) 
+h. Water, Max % by mass 8.8 
+i. Arsenic, Max ppm 1 
+j. Readily carbonizable substances -- To pass test (as per IS code) 
+i. Packing:25-50 Kg HDPE/PVC/Plastic Drums with moisture proof double lining bags. 
+ii. Agency must provide Test report/ certificate for all the ten parameters (6.a to 6.j) 
+from Government lab/ Manufacturer Lab/ NABL accredited Lab, for each 
+consignment 
+ 

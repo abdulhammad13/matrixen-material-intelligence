@@ -1,0 +1,1317 @@
+EMPANELMENT OF CONSULTANT FOR GENERAL POWER SYSTEM STUDIES
+Dates for Online application submission shall be as per the following schedule 
+Enlistment group No. CCG-13
+Enlistment Docs link 
+Issue of NIA 30.04.2026
+Start of Documents download Date 30.04.2026
+Last date for receipt of queries from 
+applicants (if any) 
+07.05.2026
+Last Date and Time for Complete 
+Application submission 
+21.05.2026
+Cost of Enlistment Document/ 
+Application Fees 
+NIL 
+Note: Applicants are advised to visit the Vendor Enlistment portal of NTPC 
+https://vdc.ntpc.co.in for updated schedule and submission of  online 
+application for  the said Enlistment . 
+The date mentioned above is original date,for extended date (if any) may 
+please refer date mentioned on www.vdc.ntpc.co.in
+NTPC Limited 
+(A Government of India Enterprise) 
+Notice Inviting Applications 
+(NIA)
+for 
+EMPANELMENT OF CONSULTANT FOR 
+GENERAL POWER SYSTEM STUDIES 
+             Application Period (Online only) 
+30.04.2026 - 21.05.2026
+through NTPC Vendor Enlistment Portal 
+vdc.ntpc.co.in
+Annexure-I 
+Brief Scope of Work 
+Scope of works for each assignment shall vary depending on the requirement of client and 
+the detailed scope shall be provided to the empanelled agency depending on the nature of the 
+assignment. However, the broad scope of work is presented below to provide the nature of 
+the work that is to be performed by the selected empanelled agency. The agency needs to 
+perform the following studies as per the requirement (all the studies or any single study or 
+number of studies based on the requirement of client) of assignment which will be intimated 
+through limited tendering to the empanelled agencies. 
+1. Load Flow Studies:
+To calculate the voltage profile and active and reactive power flow under steady state 
+conditions with various operating mode as well as to assess the requirement of reactive 
+power support. The load flow studies shall be carried out in several combinations (Maximum 
+40 Nos.) depending on the requirement of client (Present and Future requirements shall be 
+specified by the owner). 
+2. Short Circuit Studies:
+Short Circuit Studies shall be carried out to determine the minimum and maximum fault 
+levels at various buses, checking the adequacy of the existing equipment and suggest solution 
+to limit the fault level within designed short circuit levels in the existing equipment and short 
+circuit levels to be adapted in the future equipment. The short circuit study shall be carried 
+out for all possible connectivity of GRID for present and for the future connectivity 
+scenarios. The three phase and single line to ground faults at all major buses shall be 
+computed and plotted. Short circuit study should consider the maximum and minimum fault 
+levels at various buses of 400 kV , 220 KV , 11 KV , and 6.6 KV etc. 
+3. Transient Stability Studies:
+Transient Stability Studies shall be carried out to find out the maximum allowable time for 
+Clearing the faults to prevent out of step operation of the system under transient conditions 
+for various operating modes. This study shall be conducted to assess the behaviour of the 
+existing and proposed equipment of client (Owner) for grid loading conditions. Transient 
+study shall be carried out for the present connectivity and for the future proposed 
+connectivity of the system. The transient stability study will be done keeping in view that two 
+modes of operation separately i.e. in synchronized mode and in islanding mode. 
+4. Small Signal Stability Studies:
+To assess the small signal stability of the interconnected power system under various 
+operating conditions and disturbances and recommend measures for improvement to ensure 
+robust damping of low-frequency oscillations and overall system stability of the existing and 
+future System. Identify critical low-damping modes and associated eigen vectors to determine 
+mode shapes and critical machines. Suggest optimization of control parameters for improved 
+damping performance. Identification of weak modes and associated generators/ other 
+equipment. Recommendations for control tuning or additional damping measures. 
+Annexure-I 
+5. Motor Starting Studies:
+Motor Starting Study for large HT motors shall comprise suitability of the existing starting 
+methods and the effect on the system and other equipment when such motors are started. 
+The simulation study shall be performed to determine starting current, voltage dip & slip-
+torque characteristic of HT motor. The starting of major drives must be studied both in 
+synchronized and islanding mode of the existing and future system as per the requirement of 
+the client (Owner).  The study should be also carried out when start-up power is 
+available from grid during blackout condition to start the available units of the existing 
+system/future system. Studies for the selection of cable sizes for critical equipment/ drives. 
+6. Harmonic Measurement and Analysis:
+Harmonic Measurement and analysis shall cover measurement of harmonics (both voltage 
+and current) including harmonic analysis at existing grid voltage level at owner (client) end 
+and at load end (as per the requirement of the client). To Assess the power quality 
+performance of the plant’s electrical system, identify any violations of IEEE/IEC power 
+quality standards, and recommend corrective actions if required. To measure and analyse 
+harmonics in the electrical network and assess compliance with IEEE 519/IEC 61000-4-7 
+standards. Conduct on-site harmonic measurements for voltage and current harmonics 
+(THDv and THDi) at selected feeders and PCCs, Capturing of individual harmonic order 
+content up to the 50th harmonic. Analyse harmonic sources and propagation across the 
+network. 
+7. Flicker Analysis:
+To perform flicker measurements as per IEC 61000-4-15 and evaluate their impact on 
+connected loads and sensitive equipment. Identification of short-term (Pst) and long-term 
+(Plt) flicker severity indices. Identification of loads contributing to voltage fluctuations (e.g., 
+arc furnaces, large motors with frequent starts). Evaluate flicker propagation effects on 
+sensitive areas of the plant. Suggestions for mitigation (e.g., passive/active filters, load 
+sequencing, voltage stabilizers). 
+8. Demand Side Management Study:
+Demand management study shall be carried out to study the system characteristic in the 
+event of tripping of a unit in case of partial or full load throw off during islanding & 
+synchronized mode. The active and reactive power demand during pre and post islanding 
+condition of the station has to be studied in detail. Particularly the reactive power generation 
+ability of the station vis-à-vis voltage stability study in pre & post islanding condition to be 
+studied. Tripping of loads and system islanding in case of system under voltage condition 
+needs a thorough study. Adequacy of present islanding system and the condition for 
+islanding needs thorough study. The bidder may propose better arrangement for safe 
+islanding operation. 
+9. Reactive power Compensation Study:
+Annexure-I 
+Reactive power compensation studies shall be carried out to study the reactive power 
+requirement considering the present as well as future requirements and recommend suitable 
+measures to be adopted to maintain the voltage profile.  
+10. Grid Connectivity Studies:
+The agency shall follow the “Report of the Working Group in respect of Data Submission 
+Procedure and Verification of Compliance to CEA Regulations on Technical Standards for 
+Connectivity to the Grid by RE Generators July 2022” and amendments/draft 
+considerations thereof for conducting grid compliance system study. All the study(s) 
+/report(s) shall be submitted to the NTPC for review and onwards submission to the 
+RLDCs/SLDCs/NLDC/CTU for review(s). As per the observation(s)/comment(s) by the 
+RLDCs/SLDCs/NLDC/CTU or NTPC during review(s), the study(s) /report(s) shall be 
+revised by the agency. The agency has to ascertain that all the queries of NTPC/ 
+CTU/RLDC /NLDC with respect to submitted document(s) are answered to their 
+satisfaction. 
+In addition to the above, the Generic RMS study models shall be compatible with PSS/E 
+version 34.4 and above, EMT study models shall be compatible with PSCAD version 4.6 and 
+above with Intel Visual FORTRAN version 12 or higher compiler. Power quality assessment 
+study model shall also be submitted in PSCAD. If user written/defined models (UDM) are 
+being provided, then submission of the source code and compiling procedure along with the 
+model is mandatory. 
+The agency shall submit associated files (PSSE/PSCAD/Python/.sld file/.dyr/.out/.plb 
+etc.) including python recording/sequence of events simulated for a particular study/case for 
+validation of study analysis results. 
+The detailed scope of the grid connectivity study shall be prepared based on the specific 
+requirement of each client which shall be shared to the empanelled agencies during the 
+awarding of such work. 
+The consultants should also meet the qualifying requirements stipulated here under in Clause 
+1.0, 2.0 and 3.0 for the empanelment under different categories as follows: 
+Table 1: Empanelment Categories 
+Sl. 
+No Empanelment Category Clauses required to be met for the empanelment 
+1 General Power System Studies 
+Clause 1.0 (General Criteria), 2.1 (Technical 
+Criteria) and Clause 3.0 (Financial Criteria) of QR 
+only 
+2 Grid Compliance Studies 
+Clause 1.0 (General Criteria) and 2 .2 (Technical 
+Criteria) and Clause 3.0 (Financial Criteria) of QR 
+only 
+3 Special Power System Studies 
+Clause 1.0 (General Criteria) and 2 .3 (Technical 
+Criteria) and Clause 3.0 (Financial Criteria) of QR 
+only 
+1.0 General Criteria 
+The Applicant should have the following manpower on its regular pay roll for minimum 
+one year period reckoned as on last date notified for receipt of application. 
+1.1 Consultant should be a registered company/firm in india 
+1.2 At least Five (5) full -time Technical Experts (minimum qualification BE/BTech in 
+Electrical Engineering) and each having minimum four (04) years work experience in the 
+area of Power system studies.  The experience certificate shall be certified by CEO / 
+Director / managing partner of the Applicant. 
+1.3 At least one (01) Senior Expert (minimum qualification BE/BTech in Electrical 
+Engineering) and having minimum Eight (08) years work experience in the area of Power 
+System Studies.  The experience certificate shall be certified by CEO / Director / 
+managing partner of the Applicant. Applicant shall furnish, along with the bid, CV of all 
+Experts as per NTPC Format, along with the documentary evidence/certificates.  
+QUALIFYING REQUIREMENTS FOR EMPANELMENT OF CONSULTANTS FOR 
+GENERAL POWER SYSTEM STUDIES
+Qualifying Requirement (QR)
+Notes for Clause 1.0 
+a. Consultant shall submit a copy of Certificate of Incorporation/Commencement of
+Business in support of Clause 1.1 above.
+b. Consultant shall submit a copy of Certificate of Registration of Firm, Partnership Deed,
+PAN card, GST registration, and any other document (as applicable) in support of
+Clause 1.1 above.
+c. Consultant shall submit copies of Form 16/Group Provident Fund/ Pu blic Provided
+Fund/ESI Statements being filed by them with the statutory authorities of Government
+of India in support of Clause 1.2 and 1.3 above.
+2.0 Technical Criteria 
+2.1  General Power System Studies: 
+2.1.1 The Applicant should have successfully completed at lea st one (1) power system study 
+assignment for power utilities (Central Generating Stations/ independent power producers 
+(IPPs)/ Inter State Generating Stations/ Captive Generating Plant)/ Transmission 
+licensee/ Distribution licensees / SEBs/ State PSUs/ Central PSUs at 11 kV or above 
+voltage level in last two (02) years as on date of bid opening.  
+Notes for Clause 2.1: 
+The Applicant who meets the eligibility criteria stipulated in Clause 2.1 shall submit an 
+undertaking by CEO / Director / managing partner of the Applicant that the works 
+completed by them contains at least any five of the following studies as evidence of 
+completion of one (1) power system study assignment 
+i. Load Flow Analysis
+ii. Short Circuit Analysis
+iii. Motor Starting studies.
+iv. Harmonic Analysis
+v. Relay Coordination
+vi. Demand Side Management
+vii. Reactive Power Compensation
+viii. Insulation Coordination
+ix. Protection/Relay Coordination Studies
+2.2 Grid Compliance Studies: 
+2.2.1 The Applicant should have successfully completed at least one (1) grid compliance study 
+assignment for ISTS connected Thermal/ Hydro/ Gas/ CCPP/ Nuclear generating plants 
+of 50 MW or higher capacity located in India in last two (02) years as on date of bid  
+opening. 
+Or 
+2.2.2 The Applicant should have successfully completed at least one (1) grid compliance study  
+assignments for integration of ISTS connected Solar/ Wind/ Hybrid project with/ without 
+BESS having capacity of 20 MW or more located in india in last two (02) years as on date 
+of bid opening. 
+Notes for Clause 2.2.2: 
+The Applicant who meets the eligibility criteria stipulated in Clause 2.2.2 shall submit an 
+undertaking by CEO / Director / managing partner of the Applicant that the works 
+completed by them is/are as per “Report of the Working Group in respect of Data 
+Submission Procedure and Verification of Compliance to CEA Regulations on Technical 
+Standards for Connectivity to the Grid by RE Generators July 2022” and amendments 
+thereof for conducting grid compliance system study. 
+2.3 Special Power System Studies: 
+2.3.1 The Applicant should have successfully completed at least one (1) special power system 
+study assignments involving Grid Islanding/ SSS (Small Signal stability analysis)/ SSO 
+(Sub-Synchronous Oscillation)/ SSR (Sub -Synchronous Resonance) Studies for 
+Generating Stations/ Transmission Utilities/ System Operators/ Renewable Energy 
+developers/ Government agencies for a system connected at 132 kV or above voltage level. 
+Notes for Clause 2.0: 
+a) The Applicant shall submit valid supporting documents (such as copy of Purchase Orders/
+Contract agreements/ Client Certificates etc) as evidence of meeting the essential
+qualification criteria.
+b) The Applicant shall submit valid license certificate(s) with an undertaking by CEO /
+Director / Managing partner/ Authorised representative of the Applicant for ensuring the
+validity of the following software till the tenure of empanelment period as evidence of
+meeting the essential qualification criteria.
+Empanelment Category Software Name 
+Empanelment Category Software Name 
+General Power System Studies 
+Atleast two of the following power 
+system analysis software tools. 
+DIgSILENT Power Factory (version 
+2024 or above) 
+ETAP (Version 22.5 or above) 
+EMTP (version 4.2 or above) 
+PSCAD (version 5.02 or above) 
+PSS®E (version 35.6 or above) 
+Grid Compliance Studies 
+Two of the following power system 
+analysis software tools. 
+PSCAD (version 5.02 or above) 
+PSS®E (version 35.6 or above) 
+Special Power System Studies 
+1. PSCAD (version 5.02 or above) or
+EMTP (Version 4.2 or above).
+2. PSS®E (version 35.6 or above) with
+eigenvalue analysis modules, or
+DIgSILENT Power Factory (version
+2024 or above).
+3. Any other equivalent software 
+capable of conducting 
+electromechanical mode  analysis, 
+frequency domain studies, and time -
+domain SSR. 
+c) In case the reference work was awarded to the Applicant either directly by the
+plant/substation owner or through an intermediary organization, the Applicant shall
+furnish the supporting documents (such as copy of Purchase Orders/ Contract
+agreements/ Client Certificates etc) from the respective plant/substation owner or
+intermediary organization, in support of its claim of meeting the stipulated requirements.
+d) Applicants may submit their application for enlistment in one or more than one category
+as indicated in Table-1.
+3.0 FINANCIAL CRITERIA 
+3.1 The average annual turnover of the Applicant, in the preceding three (3) financial years as 
+on the date of opening of techno -commercial bids, should not be less than INR X Lakhs 
+(Indian Rupees X Lakhs Only) or in equivalent foreign currency. 
+The Average Annual Turnover Figure, marked as X, shall be specified based on the project 
+capacity and the figure shall be verified for each Project based on the cost estimate of the 
+corresponding tender. Subsequent to enlistment, enquiry will be issued to Applicants 
+fulfilling financial criteria of the specific tender. 
+3.2 Net Worth of the Applicant as on the last day of the preceding financial year should not be 
+less than 100% (hundred percent) of Applicant’s paid-up share capital.  
+In case the Applicant does not satisfy the Net Worth criteria on its own, it can meet the 
+requirement of Net worth based on the strength of its Subsidiary(ies) and/or Holding 
+Company and/or Subsidiaries of its Holding companies wherever applicable. In such a 
+case, the Net worth of  the Applicant and its Subsidiary(ies) and/or Holding Company 
+and/or Subsidiary(ies) of the Holding Company, in combined manner should not be less 
+than 100% (hundred percent) of their total paid up share capital. However individually, 
+their Net worth shoul d not be less than 75% (seventy five percent) of their respective paid 
+up share capitals. 
+ Net worth in combined manner shall be calculated as follows: 
+Net worth (combined) = (X1+ X2+X3) / (Y1+Y2+Y3) X 100 where X1, X2, X3 are 
+individual Net worth which s hould not be less than 75% of the respective paid up share 
+capitals and Y1,Y2,Y3 are individual paid up share capitals.  
+In case the Applicant is not able to furnish its audited financial statements on standalone 
+entity basis, the unaudited unconsolidated financial statements of the Applicant can be 
+considered acceptable provided the Applicant further furnishes the following documents 
+on substantiation of its qualification: 
+Copies of the unaudited unconsolidated financial statements of the Applicant along with 
+copies of the audited consolidated financial statements of its Holding Company. 
+Certificate from the CEO/ CFO of the Holding Company, as per the format enclosed in 
+the bidding documents, stating that the unaudited unconsolidated financial statements 
+form part of the consolidated financial statement of the Holding Company.  
+In case where audited results for the last financial year as on the last date notified for 
+receipt of application are not available, the financial results certified by a practicing 
+Chartered Accountant shall be considered acceptable. In case the Applicant is not able to 
+submit the Certificate from a practicing Chartered Accountant certifying its financial 
+parameters, the audited result of three (3) consecutive financial years preceding  the last 
+financial year shall be considered for evaluating financial parameters. Further, a certificate 
+would be required from the CEO/CFO as per format enclosed in the bidding documents 
+stating that the financial results of the company are under audit as  on techno-commercial 
+bid opening and the Certificate from a practicing Chartered Accountant certifying the 
+financial parameters is not available.  
+Notes for Clause 3.0: 
+a. Net worth means the sum total of the paid up  share capital and free reserves. Free
+reserves mean all reserves credited out of the profits and share premium account but
+does not include reserves credited out of the revaluation of the assets, write back of
+depreciation provision and amalgamation. Further any debit balance of Profit and Loss
+account and miscellaneous expenses to the extent not adjusted or written off, if any,
+shall be reduced from reserves and surplus,
+b. Other income shall not be considered for arriving at annual turnover.
+c. “Holding Company” and “Subsidiary” shall have the meaning ascribed to them as per
+Companies Act of India.
+d. For Turnover indicated in foreign currency, the exchange rate as on seven (7) days
+prior to Techno Commercial Bid Opening date shall be used.
+e. *The average Annu al Turnover figure marked as X, shall be specified based on the
+Project capacity and the figure shall be verified for each Project based on the cost
+estimate of the corresponding project.
+Clause No. Existing Amended as 
+28.0 
+REVIEW OF 
+ENLISTED 
+VENDORS 
+FOR POOR 
+PERFORMA
+NCE, 
+FRAUDULE
+NT ACTS: 
+In case of unsatisfactory performance 
+of the enlisted vendors, respective 
+Station shall take necessary action 
+against the Vendor for withholding/ 
+banning business dealings, in line with 
+NTPC banning policy. 
+Vendor shall be de-enlisted for the 
+balance period of his enlistment if Pan 
+NTPC banning action taken against any 
+vendor. 
+If any of the applicant / enlisted vendor 
+is found to have been involved in any 
+fraudulent activities like submission of 
+fake credentials/ document/ 
+information as deﬁned in NTPC Fraud 
+prevention policy/ banning policy 
+during enlistment process of VEC, VEC 
+shall take necessary action in line with 
+Fraud Prevention Policy. 
+In case of unsatisfactory performance of the 
+enlisted vendors, respective Station shall 
+take necessary action against the Vendor for 
+withholding/ banning business dealings, in 
+line with NTPC banning policy. 
+If any vendor is debarred/banned by NTPC as 
+per NTPC's policy for Debarment/ banning 
+from business dealings, the vendor shall be 
+de- enlisted for the period for which the 
+debarment/banning would be operative as 
+per the debarment/banning order. 
+Post lifting of debarment /banning order  
+such vendor's enlistment status will be 
+restored for the balance period ( if any ) of 
+enlistment in which the agency was enlisted 
+pre-banning. 
+If any of the applicant / enlisted vendor is 
+found to have been involved in any 
+fraudulent activities like submission of fake 
+credentials/ document/ information as 
+deﬁned in NTPC Fraud prevention policy/ 
+banning policy during enlistment process of 
+VEC, VEC shall take necessary action in line 
+with Fraud Prevention Policy. 
+Amendment in Standard terms and conditions clause no 28 (Amendment no. 3)
+Clause No. Existing Amended as 
+7.0 ENLISTMENT 
+CALENDAR: 
+In order to  optimize the enlistment 
+process, vendor enlistment & up 
+gradation of each enlistment group 
+shall be done once in year as per the 
+‘Enlistment Calendar’.  
+The ‘Enlistment Calendar’ shall 
+commence from 01st April and end on 
+31st December. A period of six weeks 
+shall be allotted against each MEG/ 
+CEG, for inviting applications from 
+vendors. 
+In order to optimize the enlistment 
+process, vendor enlistment & up 
+gradation of each enlistment group 
+shall be done once in year as per the 
+‘Enlistment Calendar’.  
+The ‘Enlistment Calendar’ shall 
+commence from 01st April and end 
+on 31st December. Each MEG/ CEG 
+shall be allotted a period for inviting 
+applications from vendors.  
+11.0 CUT OFF DATE 
+TO APPLY FOR 
+ENLISTMENT: 
+Vendor enlistment & up gradation for 
+each enlistment group shall be done 
+once in year as per the ‘Enlistment 
+Calendar’. The ‘Enlistment Calendar’ 
+shall commence from 01st April and 
+end on 31st December. A period of six 
+weeks shall be allotted against each 
+MEG / CEG, for inviting applications 
+from vendors.  
+Vendor enlistment & up gradation 
+for each enlistment group shall be 
+done once in year as per the 
+‘Enlistment  Calendar’.  The 
+‘Enlistment Calendar’ shall 
+commence from 01st April and end 
+on 31st December. Each MEG/ CEG 
+shall be allotted a period for inviting 
+applications from vendors.  
+………………………………………….. 
+………………………………………….. 
+………………………………………….. 
+………………………………………….. 
+Amendment in Standard terms and conditions clause no. 7 & 11 (Amendment no 2)
+Amendment in Standard Terms and Conditions clause no 9 (Amendment no 1)
+Clause 
+No: 9.0 HOW TO APPLY FOR ENLISTMENT: 
+………………………………………….. 
+………………………………………….. 
+Clause 
+Amended 
+as: 
+In case documents are certified & verified for authenticity through TPIA, the 
+verification and certification of authenticity of documents is acceptable from 
+any of the TPIAs as mentioned at NTPC tender website 
+(https://ntpctender.ntpc.co.in/) under the tab:  
+“Policy Docs”  “Policy for Document Authentication Process in Tenders of 
+NTPC Ltd”.  
+However, Applicants must verify the accreditation validity of the designated 
+TPIA before proceeding to engage them for document certification.  
+The following website may be referred for contact details and accreditation validity 
+of above referred TPIAs: 
+https://nabcb.qci.org.in/inspection-body/ 
+Any document pertaining to reference works/ plants in support of Technical QR, 
+which is not certified by specified TPIA or Statutory Auditor of the applicant, as 
+per the format enclosed, shall not be considered verified/ certified for the 
+purpose of evaluation, and the Application shall be liable for rejection. 
+………………………………………….. 
+………………………………………….. 
+STANDARD TERMS & CONDITIONS (STC) AND 
+GUIDELINESFOR ENLISTMENT OF VENDORS  
+1.0 INTRODUCTION: 
+NTPC Limited (A Government of India Enterprise), a Maharatna Company is India's largest power utility 
+with present installed capacity of more than 86,000 MW with 27 Coal based, 7 Gas/ Liquid fuel based, 1 
+Hydro Power Plant and 21 Joint Venture / Subsidiary Power Stations etc,. These projects are located in 
+various geographical locations across the country. 
+2.0 MAJOR BUSINESS OPPORUNITY: 
+The requirement of spares, consumables & works contract for NTPC power plants, offers major business 
+opportunity to the vendors & contract executing agencies. 
+3.0 SCOPE OF ENLISTMENT: 
+NTPC Limited is in the process of online vendor enlistment, for Procurements & Contracts (covering O&M, 
+Non O&M / Service departments and Civil works). However, NTPC at its discretion may use this vendor 
+enlistment for other procurement activities also. The intent of this enlistment is to identify and enlist 
+prospective vendors /  contractors who meet Technical Qualifying Requirements envisaged. This 
+enlistment will be applicable for all running NTPC Stations/ Subsidiaries/ Joint Ventures. Vendor 
+enlistment process is a  continuous process with the option to add / delete/ modify any Material 
+Enlistment Group (MEG) / Contract Enlistment Group (CEG) at any time without any prior notice. Similarly, 
+any vendor desirous to get their names enlisted/ updated themselves in the approved list can do so as per 
+Enlistment Calendar. However, such request shall be evaluated in the subsequent cycle only. 
+Enlistments shall be done for Regular Contracts/ Procurements and also Mega Contracts/ Procurements 
+of Estimated Cost as per following categories for NTPC Stations/Projects: 
+Category -1: 
+(Regular Enlistments) 
+CEGs upto 4 Crs 
+MEGs upto 15 Crs 
+Category -2: 
+(Mega Cases) 
+CEGs above 4 Crs & upto Rs 50 Crs 
+MEGs above 15 Crs & upto Rs 50 Crs 
+Enlistment will be done only for Manufacturers. However, for exceptional cases, Suppliers or Authorized 
+Dealers / Agents etc. can be considered for enlistment subject to MEG / CEG specific provision of qualifying 
+requirement. Decision of NTPC in this regard shall be final and binding. 
+ roup shall be done once in year as per the ‘Enlistment Calendar’.  
+Clause has been modified as per Amendment-2 
+ he ‘Enlistment Calendar’ shall commence from 01st April and end on 31st December. A period 
+of 
+4.0 STANDARD TERMS & CONDITIONS (STC) FOR ENLISTMENT: 
+This document will be applicable for enlistment of vendors both for services including consultancy 
+& non consultancy and supply of materials, as identified / to be identified time to time, as per the 
+requirement of various stations of NTPC. The document explains the details regarding 
+the modality and terms & conditions for enlistment.  
+5.0 MATERIALS/ WORKS FOR WHICH ENLISTMENT IS REQUIRED: 
+Material identified for enlistment are segregated into various groups termed as Material Enlistment 
+Group (MEG). Similarly, the works packages are classified as Contract Enlistment Group 
+(CEG). Updated/ active list of MEGs and CEGs under enlistment are available at the home page of 
+website https://vdc.ntpc.co.in/  
+Technical qualifying requirements to be met by applicants against each MEG / CEG, are also available 
+in the website.  
+6.0 RESPONSIBILITY CENTRE FOR VENDOR ENLISTMENT: 
+Vendor Enlistment Cell (VEC) of NTPC, situated at Sector-24, Naya Raipur (C.G.), shall be the 
+Responsibility Centre for enlistment of MEGs / CEGs as per Enlistment Calendar.  
+The address and contact details of VEC along with the details of MEGs/ CEGs, are available at 
+website https://vdc.ntpc.co.in/  
+Apart from regular Enlistments, Special group(s) may be published in the portal for 
+enlistment/ empanelment/ registration. For such groups, Responsibility Centres shall be as 
+indicated in the Enlistment Notification itself.  
+7.0 ENLISTMENT CALENDAR: 
+ n order to optimize the enlistment process, vendor enlistment & up gradation of each enlistmen  
+8.0 UPLOADING MEGs/ CEGs & PUBLICITY: 
+List of MEGs/ CEGs with relevant details as mentioned above shall be updated at website 
+https://vdc.ntpc.co.in/ time to time.  
+Vendor Enlistment Cell will publish the abridged version of the notice for enlistment for the MEGs/ CEGs 
+on our websites https://vdc.ntpc.co.in/ & www.ntpctender.com as per the Enlistment Calendar. 
+ase documents are certified & verified for authenticity through TPIA, the ve 
+ification of authenticity of documents is acceptable from any of the following TPIA 
+Société Générale de Surveillance / SGS India Pvt. Ltd.(SGS)  
+Gulf Lloyds Industrial Services (India) Pvt. Ltd (GLISPL) 
+International Certification Services (ICS)  
+TUV Rheinland (India) Pvt. Ltd. 
+ 
+ 
+Clause has been modified as per 
+Amendment-1 
+9.0 HOW TO APPLY FOR ENLISTMENT: 
+Interested potential vendors / contractors are advised to regularly visit the website 
+https://vdc.ntpc.co.in/ for updates and apply online for the MEG/ CEG of their interest and for which 
+they would meet corresponding Technical Qualifying Requirement mentioned against the MEG/CEG. 
+Interested vendors are to apply and upload / submit only online the relevant documents (credentials) 
+as required for enlistment against corresponding MEG/ CEG.  
+No fee is required to be paid for enlistment. No offline application would be entertained by NTPC. 
+It is required to submit applications with digitally signed relevant credentials by the Authorized 
+Signatory. The same should be uploaded on the website for vendor enlistment in respect of individual 
+MEG/ CEG as per required documents/ details and corresponding specified QR.  
+It should be clearly noted by the applicant that while applying for vendor enlistment on website, the 
+basic and financial information need to be filled up only once. The MEG/ CEG related information 
+should be filled up for each MEG/CEG separately. The applicant can apply for as many MEGs/CEGs as 
+he wishes, provided that he has required technical qualification.  
+Any Certificate(s) / Financial Statement(s) / Audited Balance Sheet and P&L Account (wherever 
+applicable) undertaken/ signed by a Member of Institute of Chartered Accountant of India (ICAI), which 
+Applicants submit, will carry Unique Document Identification Number (UDIN) generated in line with the 
+Gazette Notification of Council of Institute of Chartered Accountant of India (ICAI). 
+Applicants, required to submit the details of the past experiences, shall submit all the documents, 
+such as copy of Purchase Orders/ Work Orders/ Contract Agreements/ Client Certificates etc., duly 
+certified and verified for authenticity from Independent Statutory Auditor of their Company or 
+specified Third-Party Inspection Agency (TPIA).  
+Further, wherever information can be drawn from books of accounts, records and other relevant 
+documents, Applicants can also submit a certificate issued by their Independent Statutory Auditor 
+certifying the data required in support to their past experiences.  
+Such applicant shall be required to submit duly certified and verified documents from their 
+Statutory Auditors or specified TPIA along with a certificate regarding verification of authenticity 
+of documents as per the format placed at Annexure-IIIA (Undertaking from Statutory Auditor) and/ 
+or Annexure-IIIB (Undertaking from TPIA). All the documents submitted by the applicant shall be 
+digitally signed by the Statutory Auditor and/ or specified TPIA.  
+. TUV India Pvt. Ltd. (TÜV Nord Group) 
+. Intertek India Pvt. Ltd. 
+. Moody International (India) Pvt. Ltd. 
+. RINA India Pvt. Ltd. 
+0. Competent Inspectorate and Consultants LLP 
+he following website may be referred for contact details of above ten (10) TPIAs: 
+ttp://nabcb.qci.org.in/accreditation/reg_bod_inspection_bodies.php 
+ny document pertaining to reference works/ plants in support of Technical QR, which is no 
+ertified by specified TPIA or Statutory Auditor of the applicant, as per the format enclosed, shal 
+ot be considered verified/ certified for the purpose of evaluation, and the application shall b  
+The Applicant shall be responsible to get their documents/ credentials verified & certified by their 
+Statutory Auditor(s) and/ or specified TPIAs. All the costs pertaining to third party verification and 
+certification (including those by statutory auditors) shall be borne by the Applicant. NTPC shall have 
+no liability (financial or otherwise) towards the same and shall not be liable for any claim/ dispute 
+between the bidder and TPIA and/ or Statutory Auditor.  
+10.0 BASIS FOR ENLISTMENT: 
+NTPC shall evaluate the credentials uploaded by the applicant to determine as to whether technical 
+aspects are in accordance with the Qualifying Requirements set for the respective MEG/CEG. 
+Subsequently, at the sole discretion of NTPC, physical assessment of establishment (s)/ verification 
+of document (s)/ may also be carried out, if felt necessary by NTPC. Vendor should not have any 
+objection to such physical assessment / verification etc. All technically qualified vendors shall be 
+enlisted against respective MEG/ CEG and their annual turnover and/or execution capability shall be 
+mapped in the system for further usage. The decision of NTPC in this regard shall be final and binding. 
+NTPC shall evaluate only those cases, which are complete in all respects, and which are prima-facie 
+found to be qualified based on the responses given. Any incomplete request or deficiency of 
+document(s) will run the risk of rejection. In the process of vendor enlistment, NTPC may seek 
+additional information/ clarification and vendor must be ready to furnish promptly any such 
+information, so asked for.  
+Any vendor currently under NCLT/ NCLAT or debarred/ banned/ blacklisted/ Under Withholding/ 
+Under Suspension of Business Dealing on Pan NTPC basis shall not be considered for enlistment. 
+However, such vendors may be considered for enlistment only after expiry of the debarment/ 
+banning/ blacklisting/ Withholding/ Suspension period. If any vendor, is debarred/ banned in 
+participating at any tender for working/ supplying at any particular station/ region of NTPC, shall 
+continue to remain debarred/banned for that station/ region even after enlistment on PAN NTPC  
+ 
+ 
+ 
+9 
+Clause has been modified as per 
+ 
+T Amendment-1 
+ 
+ 
+ 
+
+endor enlistment & up gradation for each enlistment group shall be done once in year as per th 
+Enlistment Calendar’. The ‘Enlistment Calendar’ shall commence from 01st April and end on 31s 
+ecember. A period of six weeks shall be allotted against each MEG / CEG, for inviting application 
+rom vendors.  
+ 
+ 
+ 
+Clause has been modified as per Amendment-2
+basis, till expiry of banning/blacklisting period or else banning order is revoked by concerned station/ 
+region. 
+11.0 CUT OFF DATE TO APPLY FOR ENLISTMENT: 
+Identification of MEGs / CEGs for a particular six-week period in the aforesaid calendar shall be 
+notified in the portal time to time. Vendors intending to get themselves enlisted within the cycle 
+need to apply online within cutoff date. All applications received within stipulated cutoff date shall 
+be evaluated progressively.  
+Vendor should ensure that only relevant documents are uploaded. After the cutoff date and time for 
+any particular evaluation cycle, vendor will not be permitted for any such change. In case, during 
+evaluation of credentials, if any additional or relevant documents is required by NTPC, the same 
+should be uploaded online in response to the time-bound clarification(s) sought. 
+12.0 INSTRUCTION FOR APPLYING ONLINE: 
+Interested vendors may open the website ( https://vdc.ntpc.co.in/ ) and create USER-ID themselves for 
+enlistment by filling USER-ID creation form online. System generated e-mail shall be sent to the vendor 
+giving ID & password for authentication & activation. Vendors shall log in to the website with this ID and 
+password. After log in, the system shall ask for change of password, ID remaining same. Vendors, in their 
+own interest should change the password. 
+After log in, the page opened shall show the details required which should be correctly filled in. It is 
+required that the digitally signed (by the authorized signatory) document of the relevant credential shall 
+be uploaded in “PDF form” as per the instructions shown on the page. Star (*) marked fields are 
+mandatory. 
+13.0 HOW TO FILL THE APPLICATION FOR ENLISTMENT: 
+For creation of User-ID, following information has to be provided: 
+a) Notice Inviting Application (NIA) No: Refers to NTPC NIA No., if any. Otherwise, leave it blank.
+b) NTPC SAP VENDOR CODE: Existing vendors having NTPC SAP vendor code may fill their respective
+SAP vendor code. Other vendors may leave it blank.
+c) NAME OF THE ORGANISATION: Registered Name of the company to be filled.
+d) Email ID: Refers to email ID of the applicant vendor, which will be registered with the website.
+User ID, password will be sent in that e-mail only. Future communication will be made through
+this email ID & loss of password etc will also be reset with the help of this e-mail. As far as possible,
+company specific e-mail ID shall be used, as this would be used for all future communication. In
+case of employee specific e-mail ID complications may arise in future on separation of the 
+concerned employee. 
+e) Landline no: Telephone no with STD Code to be filled.
+f) Address for communication: City, region, country, postal code to be filled.
+g) Name of the contact person: The person responsible for future contact, preferably, the authorized
+signatory in whose name the Power of Attorney is issued.
+h) Mobile no: Cell no. of contact person to be filled.
+On submitting the above information, system generated User ID and PASSWORD will be mailed to the 
+email ID provided above. 
+The vendor has to use this USER ID and PASSWORD and log in to the website for providing further 
+information and uploading of required documents and credentials. 
+This is explained below in brief: 
+A. Name of Authorized Signatory- The person authorized by the company to sign the documents on
+their behalf. The competent person of the company should issue the power of attorney in
+person’s name.
+B. Mobile no: Cell no of authorized signatory.
+C. LETTER OF UNDERTAKING (LOU)- The format is available on the home page of website
+https://vdc.ntpc.co.in/ . Letter of Undertaking (LOU) should be executed on stamp paper of
+requisite value. Digitally Signed (by the authorized signatory of the vendor) copy of the same
+should be uploaded online along with their application.
+D. POWER OF ATTORNEY- Power of Attorney format given on the home page of website
+https://vdc.ntpc.co.in/ . Power Of Attorney (POA) should be executed on stamp paper of
+requisite value. Digitally Signed (by the authorized signatory of the vendor) copy of the same
+should be uploaded online along with their application.
+E. Choose Option for enlistment- For Supply or works or both as per their applicable area of business
+and credentials.
+F. Permanent account no., GSTIN - PAN & GSTIN of the Company. Copy to be uploaded.
+G. Other information as asked to be filled.
+H. PF Code- Applicable for works contact category only. Copy of relevant certificate to be uploaded.
+I. Details of Purchase orders received from NTPC to be filled.
+J. MSE Reg no- As applicable Copy of relevant certificate to be uploaded.
+K. Choose works category-Vendor has to select the work category such as: Mechanical works,
+Electrical works, C&I works, Civil works, Miscellaneous works or other works.
+L. Choose supplier type- The vendor has to choose supplier type such as: Manufacturer, Supplier,
+authorized dealer, agent etc.
+M. Type of company: Proprietorship, partnership etc to be selected.
+N. ISO9000, ISO 14000, ISO18500, SA8000 Certification to be confirmed. Copy of relevant Certificate
+to be uploaded.
+O. Annual Turn Over figure paid up share capital, reserves & surpluses for last three financial years
+to be filled and audited balance sheet and profit & loss statement with Unique Document
+Identification Number (UDIN), to be uploaded.
+P. Date of incorporation- to be mentioned and certificate of incorporation to be uploaded.
+Q. Purchase order no, date, awarding company name, and invoice details- are to be filled. It may be
+noted that three highest purchase orders copy received during the last five years to be mentioned
+and uploaded. It will decide their execution capability. The purchase orders mentioned should be
+for the same/similar item(s)/works for which vendor are registering for enlistment. Similar work
+definition for a particular CEG/MEG will be available in Qualifying Requirement document.
+Documents should be duly certified and verified for authenticity from Independent Statutory
+Auditor of their Company or specified Third-Party Inspection Agency (TPIA) , failing which the
+application for enlistment is liable for rejection.
+R. Select the correct MEG /CEG as per area of business and credentials being uploaded.
+S. Change of entity of organization: Details to be filled and uploaded.
+T. (*) is mandatory fields
+U. Proof of being a manufacturer – UDYAM Registration/ NSIC/SSI/MSME registration certificate/BIS
+license / ISO certificate/ Certificate of registration from the concerned excise department/ any
+other statutory document as a proof of being manufacturer of the required material.
+V. Acceptance of “Fraud prevention policy” and “NTPC banning policy”.
+W. Basic order value and basic executed value of the purchase orders received and executed, other
+income etc are to be filled.
+X. Information regarding referral to BIFR, Debarment/ Banning/ Blacklisting by Govt/ PSU/ any
+Company etc, Debarment/ Banning/ Withholding/ Suspension by NTPC.
+Y. GePNIC ID- All prospective applicants are required to register themselves on Government e- 
+procurement system of NIC on https://eprocurentpc.nic.in and GePNIC vendor ID is to be
+provided.
+14.0 IMPORTANT INSTRUCTIONS: 
+I. Fee: There will be no fee applicable for submitting application for enlistment.
+II. The applicant is required to correctly select the Material Enlistment Group (MEG) / Contract
+Enlistment Group (CEG) for which they intend to get enlisted. They should read the Technical
+Qualifying Requirement (QR) for enlistment for the MEG / CEG carefully. The documents required
+must be copied, signed by the authorized signatory, stamped with the company seal and scanned
+copy of the same should be uploaded in PDF form.
+III. Documents which are mandatory must be uploaded duly certified and verified for authenticity
+from Independent Statutory Auditor of their Company or specified Third-Party Inspection
+Agency (TPIA), failing which the application for enlistment is liable for rejection.
+IV. Incomplete applications are liable for rejection.
+V. NTPC reserves the right to verify the authenticity of the information / documents furnished as
+well as accept / reject application/s in full or part without assigning any reason whatsoever. No
+correspondence/ queries will be entertained in this regard.
+15.0 ONLINE DOCUMENTS: 
+After filling all the required details and uploading the documents online, applicants have to submit the 
+applications online. 
+The “Power of attorney” and “Declaration regarding authenticity of the credentials i.e. Letter of 
+Undertaking (LOU)” are required to be executed on stamp paper of requisite value. Digitally Signed (by 
+the authorized signatory of the vendor) copy of the same should be uploaded online along with their 
+application. 
+All applications received till the cutoff date shall be evaluated progressively. If found eligible, they will be 
+considered for enlistment. 
+The name of the responsibility centre for processing of the enlistment against each MEG/CEG is 
+mentioned in the website https://vdc.ntpc.co.in/ . Vendors should make sure that the submission of 
+application is completed well in advance to avoid last minute rush. 
+16.0 OFFLINE DOCUMENTS: 
+No hardcopy is required to be sent / submitted while submitting the application. 
+All the uploaded documents are to be kept with vendor in original and shall have to be provided whenever 
+asked for. Failing to do so, may lead to action inline to the NTPC Withholding & Banning policy. 
+17.0 EVALUATION CRITERIA & PROCESSING OF APPLICATIONS: 
+17.1 Application received up to predetermined cutoff date shall be considered for evaluation. The 
+received applications evaluation shall start only after notified cutoff date in the priority as decided by 
+NTPC. Submitted documents in support of execution of similar supply/ works shall be verified as 
+per requirement by the evaluation committee from the respective certificate issuing 
+agency. The applicants meeting the technical qualifying requirements  shall  be  shortlisted  
+for  enlistment. 
+17.2 Physical Assessment: 
+For the vendors shortlisted by the respective evaluation committee, at the sole discretion of NTPC, 
+physical assessment of establishment (s)/ verification of document (s)/ may also be carried out, if felt 
+necessary by NTPC. Vendor should not have any objection to such physical assessment / verification etc. 
+The observations/ finding of the assessment committee should also be signed by the vendor being 
+assessed. 
+17.3 Mapping of data of enlisted vendors (Average Annual Turnover and Execution Capability): 
+Average annual turnover and Execution Capability value will be mapped against each 
+technically qualified vendor. The vendor has to submit financial details and upload 
+supporting documents which shall be the basis for ascertaining their financial capability as 
+mentioned in evaluation criteria clause no 20. Presently no pre-determined financial 
+criteria (Average Annual Turnover) and execution capability criteria are being stipulated. 
+However, all applicants have to upload necessarily the following documents: 
+i) Average Annual Turnover (AATO): Audited Balance sheet and Profit & loss account for last
+three completed financial years reckoned from the date of submission of application.
+Audited Balance sheet and Profit & Loss statement of the company giving annual sales turn
+over during preceding three completed financial years reckoned from the date of submission
+of application for enlistment, has to be furnished.
+Any Certificate(s) / Financial  Statement(s) / Audited Balance Sheet and P&L Account 
+(wherever applicable) undertaken/ signed by a Member of Institute of Chartered Accountant 
+of India (ICAI), which Applicants submit, will carry Unique Document Identification Number 
+(UDIN) generated in line with the Gazette Notification of Council of Institute  of Chartered 
+Accountant of India (ICAI). 
+From this, Average Annual Turnover (AATO) of the company shall be worked out and shall be 
+recorded against the MEG/CEG for the enlisted vendors. This will be the eligibility limit for 
+Average Annual Turnover of the respective enlisted vendor for sending tender enquiry later 
+(but during the validity period of enlistment only). 
+ii) Execution Capability (EC): Three Purchase Orders of highest executed value for similar
+item(s) / works during last Five (05) years reckoned from the date of submission of application
+for enlistment along with documents to ascertain the execution of Purchase Orders submitted
+i.e. Copies of invoices, LR, e-way bills, completion certificate from the client, have to be
+furnished. The eligibility limit of the vendors for execution capability shall be worked out as
+follows:-
+(a) Determination of Execution Capability (EC):
+Maximum three work order s as per the definiti on of similar work s shall be considered as 
+credential for calculation of the execution capability (EC) in the following manner: 
+If the vendor gives one PO wit h highest executed value of P, then the vendor will be eligible 
+for tender enquiry up to the cost estimate limited to value equal to "1.25xP" subject to other 
+conditions. 
+In case of two POs submitted with highest executed values P & Q (where P>Q), then higher of 
+the two figures obtained from "1.25xP and 2xQ" shall be the limit of cost estimate up to which 
+the  vendor  is  eligible  for  tender  enquiry  subject  to  other  conditions. 
+If the company furnishes three Purchase order s with highest executed value as P, Q & R 
+(where P>Q>R), then out of the figures obtained from: "1.25xP, 2xQ and 2.5xR", the highest 
+value is the limit of cost estimate up to which the vendor is eligible for tender enquiry subject 
+to other conditions. 
+(b) Selection of enlisted vendor s for sending tender enquiry: When actu al requirement
+emerges, based on the estimated cost and completion period required, selection of eligible
+vendors from amongst enlisted vendors shall be done as mentioned at Para No. 20.0 below.
+Notes: 
+1. Vendors, in their own interest, should furnish the orders with highest value(s) executed by them
+along with documentary proof for the execution of said orders. It may also to be understood that such
+past execution values shall determine their execution capability and eligibility to consider for sending
+tender enquiry against the material / work later.
+2. Documentary evidence of execution of supply of similar item in the past, only in the name of the
+organization  which  is  submitting  the  application  for  enlistment  shall  be  considered.
+3. For the purpose of Enlistment, Applicants shall be evaluated on the basis of required supporting
+documents submitted for Technical Requirements along with financial documents, order copies &
+execution proof etc. Even though an Applicant may satisfy the above requirements, he would be liable
+to disqualification if he has made misleading or false representation or deliberately concealed the
+information  in  the  forms,  statements  and  enclosures  required  in  the  application.
+4. Merely Submission of application form by vendor cannot be construed to mean that the vendor is
+qualified & entitled for issue of any / all tenders by NTPC.
+5. If applying for upgradation of Execution Capability and or AATO, applicant should upload all the
+purchase order and financial related documents afresh. Documents uploaded in earlier cycle may not
+be taken into cognizance while evaluating the application.
+18.0 VALIDITY OF ENLISTMENT: 
+Vendors shall be enlisted for two years from the date of approval, subject to fulfillment of the terms 
+& conditions.   The period of empanelment will be initially for two (02) years, with a provision to 
+cancel/delistany or all the enlisted parties based on the performance & also include new consultants in 
+the list.The period of Empanelment can be extended up to another one (01) year on the same terms & 
+conditions, at the sole discretion of NTPC.
+19.0 CERTIFICATE OF VENDOR ENLISTMENT: 
+After approval, Certificate of Enlistment indicating enlistment details and terms & conditions shall 
+be made available to the enlisted vendors through mail . 
+20.0 Evaluation Criteria for Empanelment of Agencies for Power System Studies: 
+a. Evaluation of Applications:
+Vendor shall submit the enlistment application along with all supporting documents through 
+digital signature of authorized signatory and Evaluation shall be done as per the details submitted 
+along with uploaded documents. The bids received and accepted will be evaluated by Tender 
+Committee (TC) to ascertain Technical & Commercial responsiveness as per the QR and other 
+requirements defined in the bidding document. If a Bid is found to be non-responsive, it shall be 
+liable for rejection. 
+b. Technical Evaluation criteria:
+Empanelment of Consultants for Power System Studies shall be carried out under the following categories:
+Table-1 
+Sl. 
+No. Empanelment category Reference clause of Technical Criteria of QR 
+1 General Power system Studies Clause 1.0 (General Criteria) and 2.1 (Technical 
+Criteria) of QR only 
+2 Grid Compliance Studies Clause 1.0 (General Criteria) and 2.2 (Technical 
+Criteria) of QR only 
+3 Special Power System Studies Clause 1.0 (General Criteria) and 2.3 (Technical 
+Criteria) of QR only 
+All the bidders who are meeting the QR criteria of Technical and Financial (Net Worth of the 
+Applicant as on the last day of the preceding financia l year should not be less than 100% (hundred 
+percent) of Applicant’s paid-up share capital) shall be shortlisted for empanelment (Approved QR is 
+attached as Annexure-A ). Actual AATO shall be obtained from all the applicants of 
+empanelment during the empanelment process. However, the empanelment of these vendors shall 
+be limited to their execution capability as per the following. 
+c. Execution Capability Calculation
+The vendor is required to furnish the details of three POs of highest executed value for similar 
+works during last five years from the date of application; based on these data the value for which 
+vendor will qualify shall be established. Accordingly, execution capability of the vendor to 
+execute similar work shall be calculated for each vendor as defined in the following table with an 
+example:
+AATO 
+Capability of Execution 
+similar work as per PO 
+values  
+PO‐1 PO-2 PO-3 
+80 
+PO Value 70 60 50 
+Execution Capability as per 
+One/Two/Three POs 
+70X1.25=87.50 
+(EC up to 87.5) 
+60X2=120 
+(EC up to 120) 
+50X2.5=125 
+(EC up to 125) 
+Execution Capability of the 
+Vendor to execute similar 
+work  
+125 
+(Highest of 87.5, 120 and 125) 
+Vendor is capable to execute work up to cost estimate 
+of 125  i.e., eligibility limit of enlistment up to cost 
+estimate of 125. 
+AATO and Highest of the three eligibility limits shown in the table will be recorded in the 
+system for selection of Enlisted vendors for issuing tender enquiry after enlistment. 
+d. Selection of vendor for tender enquiry of any assignment
+After enlistment, wherever requirement emerges at any NTPC Own projects and consultancy
+projects assignment, based on the cost estimate and the execution period, the list of vendors to
+whom enquiry can be issued (out of all qualified enlisted vendors for the respective category)
+shall be selected as follows:
+• Contracts where the execution period is less than or equal to one year.
+Vendors having AATO>=CE and EC>=CE will be eligible to participate in the tender
+• Contracts where the execution period is more than one year
+Vendor having AATO>=CEX12/CP and EC>=CE will be eligible to participate in the tender 
+Only AATO of the vendors who meets the technical QR and Net worth criteria of Financial QR will 
+be recorded in the system for selection of enlisted vendors for issuing tender enquiry. 
+(Note: AATO is annual average turnover, CE is estimated cost, EC-Execution Capability and CP 
+is completion period/Delivery period in months) 
+Further provisions of NTPC Vision document Ref No. 01/VDC/Vision Document with its revision 
+shall be followed for other standard procedures. 
+21.0 RENEWAL OF ENLISTMENT: 
+Before completion of t wo (2) years, already enlisted vendors can apply with their fresh credentials 
+for enlistment  for a further period. If  their credentials are found in order, their enlistment shall be 
+done accordingly. Their enlistment shall be valid for t wo years from the date of approval. It may be 
+noted th at the s yste m will autom atically dele te the e nlisted vendo r after ex piry of its validity.
+Therefore, Ve ndor a t their i nterest shou ld take appr opriate ac tion to updat e their records / 
+resub mit t he applicat ion w ell in adva nce so as n ot to fa ce a ny su ch eventualit ies to delet ion of 
+their names from the approved list and stop getting tender enquiries from NTPC.  
+22.0 E-TENDER (GePNIC & GeM) REQUIREMENT FROM ENLISTED VENDOR: 
+NTPC is procuring goods & services through e-tender mode. Enquiry is issued either in Government e- 
+procurement system of NIC (GePNIC) or in Government e- marketplace (GeM) portal. Hence, vendors 
+are advised to register themselves on GePNIC portal https://eprocurentpc.nic.in and https://gem.gov.in/. 
+They require CLASS III Digital Signature (with Organization name), for participation in e-tender. Bidders 
+will not be able to receive & participate in e-tender if they do not have the required digital certificate. For 
+further details, vendor may visit our GePNIC portal and GeM portals. 
+23.0 FRAUD PREVENTION POLICY: 
+Provision s of NTPC Fraud Preventio n policy shall apply for the enlistment s being done. The applicant 
+shall strictl y adhere to the Fraud Preventio n polic y of NTPC.  
+Copy of the same is available at portal (https://vdc.ntpc.co.in/ ). 
+24.0 DEBARMENT / WITHHOLDING / BANNING POLICY: 
+Copy of the "Policy & Procedur e for Debarmen t from Busines s Dealings " of NTPC availabl e at portal 
+(https://vdc.ntpc.co.in/ ). 
+28.0 REVIEW OF ENLISTED VENDORS FOR POOR PERFORMANCE, FRAUDULENT ACTS: In case of unsatisfactory performance of the enlisted vendors, respective Station shall take necessary 
+action against the Vendor for withholding/ banning business dealings, in line with NTPC banning 
+policy. 
+Vendor shall be de-enlisted for the balance period of his enlistment if Pan NTPC banning action taken 
+against any vendor.  
+If any of the applicant / enlisted vendor is found to have been involved in any fraudulent activities 
+like submission of fake credentials/ document/ information as defined in NTPC Fraud prevention  
+Clause has been modified as 
+per Amendment-3 
+policy/ banning policy during enlistment process of VEC, VEC shall take necessary action in line with 
+Fraud Prevention Policy.  
+25.0 DELISTING OF ENLISTED VENDORS 
+The enliste d vendo r shall be de-liste d from the approve d Vendo r list for the balanc e validit y period 
+of enlistment on th e followin g ground:-  
+ If any enlis ted ven dor fo r a partic u lar M E G / wo rks pack age d oes not partici p ate at le ast o nce in 
+Three years in any of the tenders issued to them from any NTPC stations/ SSC/USSC, then they may 
+be delisted from the approved Vendor List.  
+26.0 SUBCONTRACTING PROVISION FOR WORKS PACKAGES 
+The enli sted contra ctor s hall only be gi ven the aw ard ba se d on evalua tio n of the bids. Generally 
+subcontr a cti ng o f the work wil l no t be perm itted for site awa rded w orks pack ages. How ever, in 
+cer tain excepti o nal ca ses as per site spe cific require m en t it may be allo wed w ith the appro val of 
+Head of Station but the due reasons are to be recorded by site in such cases.  
+However , 100% back to back subcontractin g will not be allowe d in any case. 
+ If any subcontr a ct or is fo und execu ting the cont ract awa rde d to the enli sted contra ctor without 
+app ro val of NTPC, a ction a gains t the main contr acto r w ill be take n for withho l ding/ ba nning of 
+business dealings as per NTPC Policy.  
+27.0 COURT OF JURIDICTION: 
+The Courts at Delhi shall have the exclusive jurisdiction to entertain and try any dispute relating to 
+online vendor Enlistment process of NTPC.  
+28.0 SUBMISSION OF UNDERTAKING PERTAINING TO GEM REGISTRATION AND PARTICIPATION IN 
+NTPC LTD TENDERS: 
+Applicants are required to submit an Undertaking pertaining to GeM Registration and participation 
+in NTPC Ltd Tenders, as per format enclosed as Annexure-IV, along with their application for Vendor 
+Enlistment.  
+29.0 Conflict of Interest: 
+An enlisted vendor during their participation in a Tender as a bidder, should ensure that they do not 
+h ave con flic t of inter est w ith ot her bidd ers. S uch con flic t of inter est can l ea d to anti-competitive 
+pract ice s to the detrim en t of Emplo y er’s intere sts. The crit eria b ase d on w hi ch a bi dder shall be 
+considered to have a conflict of interest with one or more parties in the bidding process, shall be as 
+per provisions of the bidding documents of the specific Tender.  
+
+During the bidding process/bids invited amongst the enlisted parties, the bidder shall have to submit 
+their acceptance/compliance of provisions of Bidding Documents, regarding “Conflict of Interest”.  
+In case it is established that Bidder has provided any false information in pursuance of the aforesaid 
+Clause, while competing for the contract, then its bid shall be rejected and EMD/bid security shall be 
+forfeited. In case of a successful bidder, if it is established that the Bidder has not complied with 
+terms of aforesaid Clause, during execution of contract, this would be considered as fraudulent 
+practice as mentioned in para 5.1 (j) of “Policy for Debarment from Business Dealings” and shall be 
+dealt accordingly.  
+GENERAL NOTES  
+i. Unique fields are not editable.
+ii. Only sales / works Turnover shall be considered as annual Turnover. Other income shall not be
+considered.
+iii. The vendor enlistment is an independent activity which has no link with tendering at any NTPC
+stations/ SSC/ USSC. During enlistment process, focus will be on selection of competent and capable
+vendors. This process shall not be influenced by any specific ongoing tender at any site of NTPC. Once
+enlistment is approved and uploaded, the enlisted vendors uploaded will be considered for tendering
+for subsequent cases.
+iv. For MEG, Basic value of PO shall be taken into account to determine execution capability. For
+Contract / Services only the net contract value shall be considered. Any separate re-imbursement /
+escalation shall not be considered.
+v. NTPC reserves the right to correct the input given by vendor in respect to turnover and PO / WO
+execution details based on the documents. Decision of NTPC in regard to any interpretation including
+similar work / similar item shall be final and binding.
+vi. NTPC reserves the right to cancel the enlistment at any time with prior notice to the enlisted
+vendors due to change in QR or Technical specifications or any reason in the interest of NTPC.
+Preferably 6 months advance notice shall be given to the enlisted vendors and during that period
+fresh enlistment based on the revised QR & Tech specifications may be completed so that
+immediately after the cutoff date, procurement can take place based on the newly enlisted vendors.
+vii. Vendor is free to seek clarification / interpretation/ scope / similar item etc before submitting the
+application for enlistment.
+viii. After enlistment, in the event of any change in status / credential, it will be the responsibility of
+the enlisted vendor to inform NTPC timely.
+ix. The minimum threshold limit for Execution Capability (EC) and Average Annual Turn Over (AATO)
+of enlisted vendors shall be Rs.5,00,000/- (Rupees Five Lakhs). If any vendor does not submit the
+required documents so that their Execution Capability exceeds Rs.5,00,000/- (Rupees Five Lakhs),
+such vendor shall not be considered for enlistment even if they meet the Qualifying Requirement
+(QR) of that MEG/ CEG.
+( In case of any conflict between Standard Terms and Conditions available on www.vdc.ntpc.co.in  
+and this document, condition mention in this document will prevail)
+Documents I Details available on Home Page for vendor enlistment 
+https://vdc. ntpc.co. in/ 
+1. STC for Enlistment
+2. MEGs details
+3. CEGs details.
+4. Format-LOU
+5. Format-POA
+6. Fraud Prevention Policy
+7. Banning Policy
+8. HELP Document
+
+
+
+ANNEXURE-1: LOU Format 
+"LETTER OF UNDERTAKING" (LOU) 
+(To be executed on non-judicial stamp paper of Rs. 100/-) 
+Date: --.--. ----
+Subject: Application for Enlistment 
+Dear Sir, 
+1. I, son/ Daughter/ wife of ----------- residing at
+------------------- is authorized and empowered to make proposal for
+vendor enlistment on behalf of M/s. ____________ with registered office at
+---------------------J a (proprietor ship I partnership I company
+registered under company act). Details of (Proprietor/ Partners/ Directors) of the organizations are as
+below:-
+Name �on/ Daughter, Residential Address Mention Proprietor/ Partner I Director 
+Wife of as applicable) 
+2. The Power of attorney as applicable issued by the competent authority in my company/ organization,
+authorizing me to sign & upload enlistment documents, is attached herewith.
+3. I/ We hereby confirm that I will access the designated web site of NTPC for vendor enlistment with computer
+generated User ID and given password changed by me. I also confirm that I shall take all possible measures
+to prevent any unauthorized access to vendor enlistment portal on behalf of my company.
+4. I/ We have read and examined and understood the requirements of NIA, MEG/CEG specific qualifying
+requirement etc. I/ We agree to accept all terms and conditions and subsequent to which desired
+information being furnished as desired in the following forms for Enlistment:-
+a. Company Information (KYC)
+b. Financial details as per Balance Sheet e.g. Turnover, Profit & Loss, etc
+c. MEG/CEG related Qualifying requirement (QR) & QR questionnaire
+d. Execution Capability (Highest 3 Nos PO/ Work orders execution details for similar work)
+Ref. No: 
+To, 
+AGM(CC&M)
+EOC
+NTPC LIMITED, 
+PLOT N0:A-8A, SECTOR-24, 
+NOIDA, UP - 201301
+
+
+ANNEXURE-11/A 
+Undertaking from Independent Statutory Auditor 
+(On letter head digitally signed by a person duly authorized to Sign on behalf of the Statutory Auditor) 
+Ref. No: 
+To, 
+AGM(CC&M)
+EOC
+NTPC LIMITED, 
+PLOT N0:A-8A, SECTOR-24, 
+NOIDA, UP - 201301
+DATE: 
+Subject: Authentication of veracity of documents submitted by M/s ........................................ in 
+support of credentials for Enlistment 
+Ref: NIA no. I Enlistment Cycle no: ...................... . 
+Name of the MEG/ CEG: ............................................ . 
+Dear Sir, 
+M/s .. ........................... ......................................... (hereinafter called Applicant) having Registered office at 
+................................................................................ intend to participate in above referred Enlistment of NTPC Ltd. 
+We, M/s .............................................................. has been appointed as Statutory Auditor for the Applicant i.e. M/s 
+................ ...................... .................. .. (Relevant documents on our appointment along with ADT form-1 attached). 
+The Enlistment condition stipulates that the Applicant shall submit supporting Documents pertaining to 
+Technical Qualifying Requirement duly verified and certified by Statutory Auditor. 
+In this regard, it is hereby confirmed that we have examined the following documents, which are also 
+attached with this letter. The same has been verified from the Original Documents and/ or Client for 
+authenticity (Strike off, whichever is not applicable). 
+We hereby confirm that the following documents are found to be genuine and authentic. 
+1. Doc ref. no . ........... dated ............ ... ..... .. (name of Documents) 
+2. Doc ref. no . ........... dated ...................... (name of Documents) 
+3 .. ............. . 
+All the aforesaid documents have been digitally signed by us using official DSC (Digital Signature Certificate) 
+as a certificate of authenticity. 
+*Further, we have examined the books of accounts, records, and other relevant documents, along with other
+necessary information and explanations furnished by M/s .. ......................................................... .
+(Applicant) .......... and hereby certify following: .................................................... . 
+This certificate is issued at the request of M/s ................... (Applicant) for the purpose of participating in Enlistment. 
+Thanking you, 
+• Strike off, whichever is not applicable.
+ANNEXURE-1118 
+Undertaking from Third Party Inspection Agency 
+(on letter head digitally signed by a person duly authorized to Sign on behalf of the TPIA) 
+Dear Sir, 
+DATE: 
+Subject: Authentication of veracity of documents submitted by M/s.................................. ....... in 
+support of credentials for Enlistment 
+Ref: NIA no. I Enlistment Cycle no: ...................... . 
+Name of the MEG/ CEG: ............ ................................ . 
+M/s .. ............... .................................................. .... (hereinafter calied Applicant) having Registered office at 
+................................................................................ intend to participate in above referred Enlistment of NTPC Ltd . 
+The Enlistment condition stipulates that the Applicant shall submit supporting Documents pertaining to Technical 
+Qualifying Requirement duly verified and certified by a specified independent Third Party Inspection Agency as per 
+the list mentioned in the Enlistment documents. 
+In this regard, it is hereby confirmed that we have examined the following documents, which are also attached 
+with this letter. The same has been verified from the Original Documents and/ or Client for authenticity (Strike 
+off, whichever is not applicable). 
+We hereby confirm that the following documents are found to be genuine and authentic. 
+1. Doc ref. no . ........... dated ...................... (name of Documents) 
+2. Doc ref. no . ........... dated ...................... (name of Documents) 
+3 .. ............. . 
+All the aforesaid documents have been digitally signed by us using official DSC (Digital Signature Certificate) as a 
+certificate of authenticity. 
+We further confirm that we neither have any vested interest in aforesaid Enlistment nor have any conflict of 
+interest in respect of above Enlistment. 
+This certificate is issued at the request of M/s ..................................................................................................... (Applicant) 
+for the purpose of participating in the subject Enlistment(s). 
+Thanking you, 
+• Strike off, whichever is not applicable.
+Ref. No: 
+To, 
+AGM(CC&M)
+EOC
+NTPC LIMITED, 
+PLOT N0:A-8A, SECTOR-24, 
+NOIDA, UP - 201301
+ANNEXURE-IV 
+Undertaking regarding GeM Registration and participation in NTPC Ltd Tenders 
+(To be submitted on letter head of Company/ Firm) 
+Date: ---/ ... ./ .... 
+Sub: Undertaking regarding GeM Registration and participation in NTPC Ltd Tenders 
+1. I/We M/s .................... (Name of Vendor Applicant) ......... , Vendor (Applicant) ID: ............. , 
+PAN (Vendor), hereby undertake the following (select a orb, whichever is applicable): 
+a. I/We hereby confirm that we already have GeM Registration for participation against
+NTPC Limited Tenders and our GeM Registrations No. is as follows:
+GeM Registration No ........................... .................. ........... . 
+b. Presently, I/We do not have a GeM Registration. However, I/We undertake that I/We will
+promptly get GeM Registration done for participation against NTPC Ltd Tenders.
+2. I/We also undertake that in the event of being an enlisted vendor, I/We will participate
+in Tenders of respective Enlistment Group(s) invited by NTPC Limited. Further, in case of
+non-participation, I/We shall be liable for action against our enlistment(s) as per extant
+provisions of Standard Terms and Conditions of Enlistment.
+(Signature of Authorised Signatory as per Power of Attorney) 
+Name of Signatory: 
+Designation: 
+Email: 
+Ref. No: 
+To, 
+AGM(CC&M)
+EOC
+NTPC LIMITED, 
+PLOT N0:A-8A, SECTOR-24, 
+NOIDA, UP - 201301
+Letter of Undertaking against Technical Criteria 2.1 of Qualifying Requirements 
+ 
+ 
+I ----------------------------------- (name) -----------------------------, S/O --------------------------- (CEO /Director 
+/Managing Partner) and authorized signatory of ----------------------------------------------- (Name & Address 
+of the company) ------------------------------------------------------------------------------- do hereby undertake for and 
+on behalf of the Company that the works completed by us as given below needs to be considered for 
+the evaluation in meeting the Technical Criteria (2.1 of Qualifying Requirements)  
+ 
+ Assignment -1 Assignment -2 Assignment -3 
+Name of the 
+Assignment    
+Client Name    
+Date of LOA    
+Actual Completion 
+Date    
+Further to the above, these assignments contain the following studies as evidence of completion of 
+one (1) power system study assignment. 
+Load Flow Analysis Yes/No Yes/No Yes/No 
+Short Circuit Analysis Yes/No Yes/No Yes/No 
+Motor Starting Studies Yes/No Yes/No Yes/No 
+Harmonic Analysis Yes/No Yes/No Yes/No 
+Relay Coordination Yes/No Yes/No Yes/No 
+Demand Side 
+Management Yes/No Yes/No Yes/No 
+Reactive Power 
+Compensation Yes/No Yes/No Yes/No 
+Insulation 
+Coordination Yes/No Yes/No Yes/No 
+Protection/ Relay 
+Coordination Studies Yes/No Yes/No Yes/No 
+(The above format may be used for addition of more number of assignments)  
+ 
+ 
+Signature 
+For and on behalf of (Company name) 
+(CEO/Director /Managing Partner) 
+ 
+(Seal) 
+Date: 
+Place: 
+ 
+ 
+(The above format may be used for addition of more number of assignments)  
+ 
+ 
+Letter of Undertaking for the usage of valid licensed software 
+ 
+ 
+I ----------------------------------- (name) -----------------------------, S/O --------------------------- (CEO /Director 
+/Managing Partner /Authorized representative) of ----------------------------------------------- (Name & 
+Address of the company) ------------------------------------------------------------------------------- do hereby 
+undertake for and on behalf of the Company that we have the valid license certificate(s) for the 
+following software as per the details below. Further, we will ensure the validity of the following 
+software till the tenure of empanelment period  and use only authorized valid licensed software for 
+power system studies during the execution of the assignments. 
+ 
+Name of the Software License Validity Type of License Remarks 
+DigSILENT Power 
+Factory (version 2024 
+or above) 
+   
+ETAP (Version 22.5 or 
+above)    
+EMTP (version  4.2 or 
+above)    
+PSCAD (version 5.02 
+or above)    
+PSS®E (version 35.6 
+or above)    
+PSS®E (version 35.6 
+or above) with  
+eigenvalue analysis 
+modules 
+   
+Any other software    
+ 
+ 
+ 
+ 
+Signature 
+For and on behalf of (Company name) 
+(CEO/Director /Managing Partner/ Authorized representative) 
+ 
+(Seal) 
+ 
+ 
+Date: 
+Place: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Team Composition for Key Experts MEETING THE STIPULATED QUALIFYING 
+REQUIREMENT AS PER CLAUSE NO. 1.0 of QUALIFYING REQUIREMENT 
+(atleast 1 Senior expert and 5 Technical Experts details to be provided) 
+ 
+Sl. 
+No. Category Name Designation   CV provided* 
+1 Senior Expert   Yes 
+2 Technical 
+Expert   Yes 
+3 Technical 
+Expert   Yes 
+4 Technical 
+Expert   Yes 
+5 Technical 
+Expert   Yes 
+6 Technical 
+Expert   Yes 
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+*The detailed CV shall be provided as per format attached as Form-I for all the above experts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(CEO/Director/Managing Partner) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Form-I 
+ 
+ 
+BRIEF CVs OF KEY PERSONNEL  
+ 
+ 
+ 
+ 
+Name :  
+Date of Birth :  
+Educational Qualifications 
+(Including stream details) :  
+Total experience in Number of years in the 
+area of power system studies :  
+Years with the organization applying for 
+empanelment :  
+Experience (Last10years) 
+(List of positions  held, giving  
+dates/Duration, names of  organizations, 
+and brief responsibilities) * 
+:  
+ 
+*Details may be provided indicating the title of assignment, client name, location & scope of 
+work in not more than two lines each. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(CEO/Director/Managing Partner) 
+ 

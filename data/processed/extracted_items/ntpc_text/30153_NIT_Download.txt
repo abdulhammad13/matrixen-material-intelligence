@@ -1,0 +1,1794 @@
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+बड
+बड
+ 
+ 
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid End Date/Time
+04-09-2026 16:00:00
+बड
+बड
+ 
+ 
+खुलने
+खुलने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid Opening
+Date/Time
+04-09-2026 16:30:00
+बड
+बड
+ 
+ 
+पेशकश
+पेशकश
+ 
+ 
+वैधता
+वैधता
+ (
+ (
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+ 
+ 
+से
+से
+)
+)
+/Bid Offer
+Validity (From End Date)
+120 (Days)
+मं ालय
+मं ालय
+/
+/
+रा!य
+रा!य
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Ministry/State Name
+Ministry Of Power
+वभाग
+वभाग
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Department Name
+Na
+संगठन
+संगठन
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Organisation Name
+Ntpc Limited
+काया%लय
+काया%लय
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Office Name
+Cg
+िशकायत
+िशकायत
+ 
+ 
+िनवारण
+िनवारण
+ 
+ 
+के
+के
+ 
+ 
+संपक%
+संपक%
+ 
+ 
+ववरण
+ववरण
+/ Contact details of
+Grievance redressal
+HOD Email id :gbirganthia@ntpc.co.in 
+Buyer Email id: ssenthilkumar@ntpc.co.in
+कुल
+कुल
+ 
+ 
+मा ा
+मा ा
+/Total Quantity
+1300
+व'तु
+व'तु
+ 
+ 
+(ेणी
+(ेणी
+ 
+ 
+/Item Category
+M9264250196_ Ramagundam
+GeMARPTS
+ 
+ 
+म*
+म*
+ 
+ 
+खोजी
+खोजी
+ 
+ 
+गई
+गई
+ 
+ 
+-'.ं/स
+-'.ं/स
+ / Searched
+Strings used in GeMARPTS
+SOLAR PV MODULE 545 W
+GeMARPTS
+ 
+ 
+म*
+म*
+ 
+ 
+खोजा
+खोजा
+ 
+ 
+गया
+गया
+ 
+ 
+प0रणाम
+प0रणाम
+ / Searched
+Result generated in GeMARPTS
+Solar (PV Module) Cooking System (IOCL), On Grid Solar
+Inverter, Solar Photovoltaic Modules / Panels - 
+Crystalline
+silicon terrestrial, Off - Grid Solar Photovoltaic (PV) Power
+Plant (V2), Wind Solar PV Hybrid System - Off grid, White
+LED (W - LED) Based Solar Home Lighting Systems (V2),
+White LED (W-LED) based Solar Lantern as per MNRE
+Specification, Solar Based Home Systems (Solar Power
+Packs): AC Models as per MNRE Specifications, Solar Power
+Plant (Roof Top) for ONGRID System, Single Phase,
+Photovoltaic Module (Solar Charger) for Batteries as per
+MHA QRs
+अिधसूचना
+अिधसूचना
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+चयिनत
+चयिनत
+ 
+ 
+5ासंिगक
+5ासंिगक
+ 
+ 
+(े-णयाँ
+(े-णयाँ
+ / Relevant
+Categories selected for notification
+Solar Photovoltaic Modules / Panels - 
+Crystalline silicon
+terrestrial
+एमएसएमई
+एमएसएमई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष8
+वष8
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+5दान
+5दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+/MSE Relaxation for Years of
+Experience and Turnover
+No
+'टाट%अप
+'टाट%अप
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष8
+वष8
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+5दान
+5दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+ /Startup Relaxation for Years of
+Experience and Turnover
+No
+ 
+बड
+ 
+सं=या
+/
+Bid
+ 
+Number
+: 
+GEM/2026/B/7917791
+>दनांक
+ /
+Dated
+: 14-08-2026
+बड
+बड
+ 
+ 
+द'तावेज़
+द'तावेज़
+ / Bid Document
+1 / 8
+वHेता
+वHेता
+ 
+ 
+से
+से
+ 
+ 
+मांगे
+मांगे
+ 
+ 
+गए
+गए
+ 
+ 
+द'तावेज़
+द'तावेज़
+/Document required
+from seller
+Bidder Turnover,Certificate (Requested in ATC),Additional
+Doc 1 (Requested in ATC),Compliance of BoQ specification
+and supporting document
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by
+the buyer
+Iया
+Iया
+ 
+ 
+आप
+आप
+ 
+ 
+िनवदाकारK
+िनवदाकारK
+ 
+ 
+Lारा
+Lारा
+ 
+ 
+अपलोड
+अपलोड
+ 
+ 
+>कए
+>कए
+ 
+ 
+गए
+गए
+ 
+ 
+द'तावेज़K
+द'तावेज़K
+ 
+ 
+को
+को
+िनवदा
+िनवदा
+ 
+ 
+म*
+म*
+ 
+ 
+भाग
+भाग
+ 
+ 
+लेने
+लेने
+ 
+ 
+वाले
+वाले
+ 
+ 
+सभी
+सभी
+ 
+ 
+िनवदाकारK
+िनवदाकारK
+ 
+ 
+को
+को
+ 
+ 
+>दखाना
+>दखाना
+चाहते
+चाहते
+ 
+ 
+हM
+हM
+? 
+? 
+संदभ%
+संदभ%
+ 
+ 
+मेनू
+मेनू
+ 
+ 
+है
+है
+/Do you want to show
+documents uploaded by bidders to all
+bidders participated in bid?
+No
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+ 
+ 
+सीमा
+सीमा
+ 
+ 
+'वतः
+'वतः
+ 
+ 
+नहं
+नहं
+ 
+ 
+बढ़ाने
+बढ़ाने
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+आवQयक
+आवQयक
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+सं=या
+सं=या
+।
+।
+ / Minimum number of
+bids required to disable automatic bid
+extension
+3
+>दनK
+>दनK
+ 
+ 
+क
+क
+ 
+ 
+सं=या
+सं=या
+, 
+, 
+-जनके
+-जनके
+ 
+ 
+िलए
+िलए
+ 
+ 
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+बढ़ाई
+बढ़ाई
+ 
+ 
+जाएगी
+जाएगी
+। / 
+। / 
+Number
+ 
+ 
+of
+ 
+ 
+days
+ 
+ 
+for
+ 
+ 
+which
+ 
+ 
+Bid
+would
+ 
+ 
+be
+ 
+ 
+auto
+-
+-
+extended
+7
+ऑटो
+ऑटो
+ 
+ 
+एIसट*शन
+एIसट*शन
+ 
+ 
+अिधकतम
+अिधकतम
+ 
+ 
+>कतनी
+>कतनी
+ 
+ 
+बार
+बार
+ 
+ 
+>कया
+>कया
+ 
+ 
+जाना
+जाना
+ 
+ 
+है
+है
+। /
+। /
+Number
+ 
+ 
+of
+ 
+ 
+Auto
+ 
+ 
+Extension
+ 
+ 
+count
+3
+बड
+बड
+ 
+ 
+से
+से
+ 
+ 
+0रवस%
+0रवस%
+ 
+ 
+नीलामी
+नीलामी
+ 
+ 
+स>Hय
+स>Hय
+ 
+ 
+>कया
+>कया
+/Bid to RA enabled
+No
+बड
+बड
+ 
+ 
+का
+का
+ 
+ 
+5कार
+5कार
+/Type of Bid
+Two Packet Bid
+तकनीक
+तकनीक
+ 
+ 
+मूUयांकन
+मूUयांकन
+ 
+ 
+के
+के
+ 
+ 
+दौरान
+दौरान
+ 
+ 
+तकनीक
+तकनीक
+ 
+ 
+'पWीकरण
+'पWीकरण
+ 
+ 
+हेतु
+हेतु
+अनुमत
+अनुमत
+ 
+ 
+समय
+समय
+ 
+ 
+/Time allowed for Technical
+Clarifications during technical evaluation
+2 Days
+िनरXण
+िनरXण
+ 
+आवQयक
+आवQयक
+ (
+सूचीबY
+सूचीबY
+ 
+िनरXण
+िनरXण
+ 
+5ािधकरण
+5ािधकरण
+ /
+जेम
+जेम
+ 
+के
+के
+ 
+साथ
+साथ
+पूव%
+पूव%
+ 
+पंजीकृत
+पंजीकृत
+ 
+एज*िसयK
+एज*िसयK
+ 
+Lारा
+Lारा
+)/Inspection Required (By
+Empanelled Inspection Authority / Agencies
+pre-registered with GeM)
+No
+Payment Timelines
+Payments shall be made to the Seller within 
+30
+ days of
+issue of 
+consignee receipt-cum-acceptance certificate
+(CRAC) 
+and on-line submission of bills (This is in
+supersession of 10 days time as provided in clause 12 of
+GeM GTC)
+मूUयांकन
+मूUयांकन
+ 
+ 
+पYित
+पYित
+/Evaluation Method
+Total value wise evaluation
+म\य'थता
+म\य'थता
+ 
+खंड
+खंड
+/Arbitration Clause
+No
+सुलह
+सुलह
+ 
+खंड
+खंड
+/Mediation Clause
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+ईएमड
+ईएमड
+ 
+ 
+ववरण
+ववरण
+/EMD Detail
+एडवाईजर
+ 
+बMक
+/Advisory Bank
+ICICI
+ईएमड
+ 
+रािश
+/EMD Amount
+200000
+2 / 8
+ईपीबीजी
+ईपीबीजी
+ 
+ 
+ववरण
+ववरण
+ 
+ 
+/ePBG Detail
+एडवाइजर
+ 
+बMक
+/Advisory Bank
+ICICI
+ईपीबीजी
+ 
+5ितशत
+ (%)
+/ePBG Percentage(%)
+5.00
+ईपीबीजी
+ 
+क
+ 
+आवQयक
+ 
+अविध
+ (
+माह
+) 
+/Duration of ePBG
+required (Months).
+42
+(a). 
+जेम
+ 
+क
+ 
+शत8
+ 
+के
+ 
+अनुसार
+ 
+ईएमड
+ 
+छू ट
+ 
+के
+ 
+इ_छु क
+ 
+बडर
+ 
+को
+ 
+संबंिधत
+ 
+केटेगर
+ 
+के
+ 
+िलए
+ 
+बड
+ 
+के
+ 
+साथ
+ 
+वैध
+ 
+समिथ%त
+ 
+द'तावेज़
+ 
+5'तुत
+ 
+करने
+ 
+है
+।
+ 
+एमएसई
+केटेगर
+ 
+के
+ 
+अंतग%त
+ 
+केवल
+ 
+व'तुओं
+ 
+के
+ 
+िलए
+ 
+विनमा%ता
+ 
+तथा
+ 
+सेवाओं
+ 
+के
+ 
+िलए
+ 
+सेवा
+ 
+5दाता
+ 
+ईएमड
+ 
+से
+ 
+छू ट
+ 
+के
+ 
+पा 
+ 
+हM
+।
+ 
+`यापा0रयK
+ 
+को
+ 
+इस
+ 
+नीित
+ 
+के
+ 
+दायरे
+ 
+से
+बाहर
+ 
+रखा
+ 
+गया
+ 
+है
+।
+/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document
+for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and
+Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this
+Policy.
+(b).
+ईएमड
+ 
+और
+ 
+संपादन
+ 
+जमानत
+ 
+रािश
+, 
+जहां
+ 
+यह
+ 
+लागू
+ 
+होती
+ 
+है
+, 
+लाभाथa
+ 
+के
+ 
+पX
+ 
+म*
+ 
+होनी
+ 
+चा>हए
+।
+ / EMD & Performance security should be
+in favour of Beneficiary, wherever it is applicable.
+(c).
+ईएमड
+ 
+और
+ 
+संपादन
+ 
+जमानत
+ 
+रािश
+ 
+लाभाथa
+ 
+के
+ 
+पX
+ 
+म*
+ 
+होनी
+ 
+चा>हए
+।
+ / Earnest Money Deposit (EMD) shall also be accepted by
+the buyer in the form of a surety bond. 
+लाभाथa
+लाभाथa
+ 
+ 
+/Beneficiary :
+ 
+GM (CPG-1 - C&M)
+NTPC Ltd , Western Region-II Head Quarter , Plot No. -87, Sector-24, Atal Nagar, Nava Raipur , Raipur ,
+Chhattisgarh , PIN code: 492018
+(Ntpc Ltd)
+UIN Number NCTGC2415P
+बोली
+ 
+वभाजन
+ 
+लागू
+ 
+नहं
+ 
+>कया
+ 
+गया
+/ 
+Bid splitting not applied.
+एमआईआई
+एमआईआई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आर-Xत
+आर-Xत
+ / Reserved for Make In India products
+एमआईआई
+ 
+के
+ 
+िलए
+ 
+आर-Xत
+ / Reserved for Make In
+India products
+Yes
+एमएसई
+एमएसई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MSE Purchase Preference
+एमएसई
+ 
+खरद
+ 
+वरयता
+/MSE Purchase Preference
+Yes
+सूbम
+ 
+और
+ 
+लघु
+ 
+उeम
+ 
+मूल
+ 
+उपकरण
+ 
+िनमा%ताओं
+/
+सेवा
+ 
+5दाता
+को
+ 
+खरद
+ 
+म*
+ 
+5ाथिमकता
+, 
+य>द
+ 
+उनका
+ 
+मूUय
+ 
+L
+1+
+X
+%
+ /
+Purchase Preference to MSE OEMs/ Service
+Provider available upto price within L1+X%
+15
+सूbम
+ 
+और
+ 
+लघु
+ 
+उeम
+ 
+मूल
+ 
+उपकरण
+ 
+िनमा%ता
+/
+सेवा
+ 
+5दाता
+ 
+को
+खरद
+ 
+म*
+ 
+5ाथिमकता
+ 
+के
+ 
+िलए
+ 
+बड
+ 
+क
+ 
+मा ा
+ 
+का
+ 
+अिधकतम
+5ितशत
+ / Percentage of Bid quantity/amount for
+MSE OEMs/ Service Provider Purchase preference
+100
+.ेgस
+.ेgस
+ 
+ 
+भुगतान
+भुगतान
+ 
+ 
+संबंधी
+संबंधी
+ 
+ 
+ववरण
+ववरण
+/TReDS Payment Details
+3 / 8
+This Bid provides for Trade Receivables Discounting System (TReDS) as Preferred mode of payment.
+For MSME sellers, payments may be processed through a TReDS exchange in which the Buyer is
+registered, subject to applicable policy and regulatory guidelines. Accordingly, sellers intending to
+avail payment through TReDS are required to be registered with at least one TReDS exchange in
+which the buyer is registered.
+1. Bid reserved for Make In India products: : Procurement under this bid is reserved for purchase from Class 1
+local supplier as defined in public procurement (Preference to Make in India), Order 2017 as amended from time
+to time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products.
+However, eligible micro and small enterprises will be allowed to participate. The minimum local content to
+qualify as a class 1 local supplier is denoted in the bid document. All bidders must upload a certificate from the
+OEM regarding the percentage of the local content and the details of locations at which the local value addition is
+made along with their bid, failing which the bid is liable to be rejected. In case the bid value is more than Rs 10
+Crore, the declaration relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered accountant for OEMs other
+than companies as per the Public Procurement (preference to Make-in -India) order 2017 dated 04.06.2020 . In
+case Buyer has selected Purchase preference to Micro and Small Enterprises clause in the bid, the same will get
+precedence over this clause. 
+2. 
+Purchase preference to Micro and Small Enterprises (MSEs):
+ Purchase preference will be given to MSEs
+having valid Udyam Certificate and whose credentials are validated online through Udyam Registration portal as
+defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued
+by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned
+Ministry. If the bidder wants to avail themselves of the Purchase preference, the bidder must be the
+manufacturer / OEM of the offered product on GeM. In respect of bid for Services, the bidder must be the Service
+provider of the offered Service. Traders are excluded from the purview of Public Procurement Policy for Micro and
+Small Enterprises and hence resellers offering products manufactured by some other OEM are not eligible for any
+purchase preference. Relevant documentary evidence in this regard shall be uploaded along with the bid in
+respect of the offered product or service, and Buyer will decide eligibility for purchase preference based on
+documentary evidence submitted in case of product bids, whereas in case of services the eligibility is
+automatically validated. If L-1 is not an MSE and MSE Seller (s) has / have quoted price within L-1+ 15% (Selected
+by Buyer) of margin of purchase preference /price band defined in relevant policy, such MSE Seller shall be given
+opportunity to match L-1 price and contract will be awarded for 100% (selected by Buyer) percentage of total
+quantity. The buyers are advised to refer the 
+OM_No.1_4_2021_PPD_dated_18.05.2023
+ 
+for compliance of
+Concurrent application of Public Procurement Policy for Micro and Small Enterprises Order, 2012 and Public
+Procurement (Preference to Make in India) Order, 2017. Benefits of MSE will be allowed only if seller is validated
+on-line in GeM profile as well as validated and approved by Buyer after evaluation of documents submitted. 
+M9264250196_ Ramagundam ( 1300 kiloWatt ) 
+(Minimum 60% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशWयाँ
+विशWयाँ
+ 
+ 
+/Technical Specifications
+Hेता
+ 
+विशW
+ 
+द'तावेज़
+ 
+/Buyer
+Specification Document
+Download
+परेषती
+परेषती
+/
+/
+0रपो>टhग
+0रपो>टhग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+0रपो>टhग
+0रपो>टhग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+>डलीवर
+>डलीवर
+ 
+के
+के
+ 
+>दन
+>दन
+/Delivery
+Days
+1
+Jayaraju Pagi
+505215,Ramagundam Super
+Thermal Power Station PO
+JYOTINAGAR 505215 DISTRICT
+PEDDAPALLI
+1300
+90
+4 / 8
+Hेता
+Hेता
+ 
+ 
+Lारा
+Lारा
+ 
+ 
+जोड़
+जोड़
+ 
+ 
+गई
+गई
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+वशेष
+वशेष
+ 
+ 
+शतk
+शतk
+/Buyer Added Bid Specific Terms and Conditions
+1
+. 
+Scope of Supply
+Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2
+. 
+Certificates
+Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the
+Bid document, ATC and Corrigendum if any.
+3
+. 
+Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+1.0 Qualifying Requirements (QR)
+The bidder who wishes to participate in the bidding shall meet the Qualifying Requirements stipulated her
+eunder:
+1.1
+  
+Technical Criteria:
+1.1.1 Route 1
+:
+· 
+The bidder should be a “manufacturer/Authorised representative of manufacturer” of Solar Photo Volt
+aic (SPV) Modules.
+· 
+The bidder should have supplied Solar Photo Voltaic (SPV) Modules of cumulative capacity of 1040 K
+Wp or above prior to the date of techno commercial bid opening, out of which at least one such su
+pply order should be for 260 KWp or above capacity. The reference plant of 260 KWp or above cap
+acity must have been in operation for at least six months prior to the date of techno-commercial bi
+d opening.
+ 
+                                                
+Or
+ 
+1.1.2 Route 2:
+· 
+The bidder should be Group Company/Holding Company or Subsidiary company of “the module man
+ufacturer meeting the requirements of Clause 1.1.1 above”. In such a case, bidder shall furnish a
+letter of Undertaking jointly executed by the module manufacturer and the bidder at the time of su
+bmission of techno commercial bid.
+Notes for 1.1:
+1) Solar Photo Voltaic (SPV) based supply order for Roof-top solar power projects, which are grid connected
+, shall also be considered eligible for QR purposes.
+2) Bidder shall also be considered qualified in case, the award for executing the reference works has been 
+received by the bidder either directly from owner of plant or any other intermediary organization. However
+, a certificate from such owner of Plant or the intermediary organization shall be required to be furnished b
+y the Bidder along with its techno-commercial bid in support of its claim of meeting requirement stipulated
+above. Further, certificate from owner of the plant shall also be furnished by the bidder along with the tech
+no-commercial bid for the successful operation as specified in Clause 1.1.1.
+3) Authorized dealer of a manufacturer, having tender Specific authorization from a manufacturer who me
+ets the Qualifying Requirements stipulated in criteria 1.1.1 can also participate. In such case, the bidder ca
+n furnish their own documents or documents of manufacturer/ principal against QR criteria 1.1.1 as docum
+entary proof for qualifying requirement.
+1.2 Financial Criteria:
+5 / 8
+1.2.1 
+The Average Annual Turnover of the Bidder should not be less than 
+Rs.189 Lakhs (Rupees One H
+undred Eighty-Nine lakhs only) 
+during the preceding three (3) completed financial years as on date of t
+echnocommercial bid opening.
+1.2.2 
+In case the bidder does not satisfy the financial criteria, stipulated at Cl. 1.2.1 above on its own, its H
+olding Company would be required to meet the stipulated turnover requirements at Cl. 1.2.1 above, provid
+ed that the net worth of such Holding Company as on the last day of the preceding financial
+year is at least equal to or more than the paid-up share capital of the Holding Company. In such an event, 
+the bidder would be required to furnish along with its Techno-Commercial bid, a Letter of Undertaking fro
+m the Holding Company, supported by Board Resolution, as per the format enclosed in the bid documents,
+pledging unconditional and irrevocable financial support for the execution of the Contract by the bidder in 
+case of award.
+1.2.3 
+In case the bidder is not able to furnish its audited financial statements on stand-alone entity basis, t
+he unaudited unconsolidated financial statements of the bidder can be considered acceptable provided the
+bidder further furnishes the following documents for substantiation of its qualification.
+ Copies of the unaudited unconsolidated financial statements of the bidder along with copies of the Audite
+d consolidated financial statements of its Holding Company.
+ A Certificate from the CEO/CFO of the Holding Company, as per the format enclosed in the bidding docu
+ments, stating that the unaudited unconsolidated financial statements form part of the Consolidated Annua
+l Report of the company.
+1.2.4 In cases where audited results for the last preceding financial year as on the date of Techno-Commer
+cial bid opening are not available, the financial results certified by a practicing Chartered Accountant shall 
+be considered acceptable. In case, Bidder is not able to submit the Certificate from practicing Chartered Ac
+countant certifying its financial parameters, the audited results of three consecutive financial years preced
+ing the last financial year shall be considered for evaluating the financial parameters. Further, a Certificate
+would be required from the CEO/CFO as per the format enclosed in the bidding documents stating that the
+financial results of the Company are under audit as on the date of Techno-Commercial bid opening and the
+Certificate from the practicing Chartered Accountant certifying the financial parameters is not available.
+Notes for 1.2:
+1. Other income shall not be considered for arriving at annual turnover.
+2. “Holding Company" and “Subsidiary Company” shall have the meaning ascribed to them as per Compan
+ies Act of India, in vogue.
+3. Net worth means the sum total of the paid up share capital and free reserves. Free reserve means all res
+erves credited out of the profits and share premium account but does not include reserves credited out of t
+he revaluation of the assets, write back of depreciation provision and amalgamation. Further, any debit bal
+ance of Profit and Loss account and miscellaneous expenses to the extent not adjusted or written off, if an
+y, shall be reduced from reserves and surplus.
+.
+4
+. 
+Buyer Added Bid Specific ATC
+Buyer uploaded ATC document 
+Click here to view the file
+.
+अ'वीकरण
+अ'वीकरण
+/Disclaimer
+The Additional Terms and Conditions (ATC) have been incorporated by the Buyer after approval of their
+Competent Authority. The Buyer ,is solely responsible for the impact of these clauses on the bidding process, its
+outcome, and consequences thereof including any restriction arising in the bidding process due to these ATCs
+and including the modification of technical specifications and / or terms and conditions governing the bid.All
+representations / grievances pertaining to the ATC clauses shall be raised with the buyer organization directly
+and not with GeM.If any of the clause(s) is/are incorporated by the Buyer regarding the following, the bid &
+resultant contract shall be treated as null & void. Further, GeM reserves the right, at its sole discretion, to cancel
+the bid forthwith, without issuance of any prior notice or intimation :-
+6 / 8
+1
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available (unless such
+Custom / BOQ item is bunched with the major regular product Category Item).
+2
+. 
+Mandating procurement of / from specific Brand / Make / Model / Manufacturer / Dealer except in case of
+Single Bid / Proprietary Article Certificate (PAC) Buying.
+3
+. 
+Inclusion of disqualification criteria related to suspension of seller / service provider, where such
+suspension period has already expired.
+4
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+5
+. 
+Publishing bids on GeM for procurement of works.
+6
+. 
+Procurement of Goods by creating a Service bid on GeM & vice-versa.
+7
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. However, trial / sample, as
+the case may be, shall be permitted in cases where trial / sample are allowed as per approved and
+published procurement policy of the Buyers’ controlling 
+Ministry / Department / State / Public Sector
+Enterprises Headquarters. If there is any violation of trial / sample clause with regard to approved policy
+of the Buyers’ Ministry / Department / State / Public Sector Enterprises Headquarters, then this is to be
+determined and redressed by the concerned Buyer Organisation only.
+8
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+9
+. 
+Creating bid for items from incorrect categories.
+10
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+11
+. 
+Asking for any Tender fee / Bid Participation fee, as the case may be.
+12
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined in bid detail section, including
+specifications, EMD Detail, ePBG Detail and MII and MSE Purchase Preference sections of the bid, unless
+otherwise allowed by the applicable GeM GTC.
+13
+. 
+Any ATC clause in contravention with GeM GTC Clause 4 (xiii) (h) will be invalid. In case of multiple L1
+bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1
+bidders through a Random Algorithm executed by GeM system.
+14
+. 
+In a category based bid, adding additional items, through buyer added, additional scope of work/
+additional terms and conditions/or any other document. If buyer needs more items along with the main
+item, the same must be added through bunching category based items or by bunching custom catalogues
+or bunching a BoQ with the main category based item, the same must not be done through ATC or Scope
+of Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller. Buyer is duty bound to reply to all such
+representations and would not be allowed to open bids if he fails to reply to such representations.
+All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws,
+including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code
+on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working
+Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into
+force by the Government of India.
+For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or
+notifications, the corresponding provisions of the pre-existing labour enactments (such as The
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The
+Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules)
+shall continue to remain applicable.
+The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:
+All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove;
+and
+All operative provisions of the erstwhile Labour Laws until their complete substitution.
+All obligations relating to wages, social security, safety, working conditions, industrial relations etc.
+and any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-
+compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate
+action in accordance with the contract and applicable law.
+7 / 8
+This Bid is governed by the General Terms and Conditions, conditions stipulated in Bid and Service
+Level Agreement specific to the Service, as the case may be, as provided in the Marketplace.
+However, in case of Service, if any condition specified in General Terms and Conditions is
+contradicted by the conditions stipulated in Service Level Agreement specific to said Service, then it
+will over-ride the conditions in the General Terms and Conditions.
+यह
+ 
+बड
+ 
+सामाlय
+ 
+शत8
+ 
+के
+ 
+अंतग%त
+ 
+भी
+ 
+शािसत
+ 
+है
+ 
+/This Bid is also governed by the General Terms and Conditions
+जेम
+ 
+क
+ 
+सामाlय
+ 
+शत8
+ 
+के
+ 
+खंड
+ 26 
+के
+ 
+संदभ%
+ 
+म*
+ 
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+के
+ 
+बडर
+ 
+से
+ 
+खरद
+ 
+पर
+ 
+5ितबंध
+ 
+के
+ 
+संबंध
+ 
+म*
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+का
+ 
+कोई
+ 
+भी
+ 
+बडर
+ 
+इस
+ 
+िनवदा
+ 
+म*
+ 
+बड
+ 
+देने
+ 
+के
+ 
+िलए
+ 
+तभी
+ 
+पा 
+ 
+होगा
+ 
+जब
+ 
+वह
+ 
+बड
+ 
+देने
+ 
+वाला
+सXम
+ 
+5ािधकार
+ 
+के
+ 
+पास
+ 
+पंजीकृत
+ 
+हो
+।
+बड
+ 
+म*
+ 
+भाग
+ 
+लेते
+ 
+समय
+ 
+बडर
+ 
+को
+ 
+इसका
+ 
+अनुपालन
+ 
+करना
+ 
+होगा
+ 
+और
+ 
+कोई
+ 
+भी
+ 
+गलत
+ 
+घोषणा
+ 
+>कए
+ 
+जाने
+व
+ 
+इसका
+ 
+अनुपालन
+ 
+न
+ 
+करने
+ 
+पर
+ 
+अनुबंध
+ 
+को
+ 
+तnकाल
+ 
+समाo
+ 
+करने
+ 
+और
+ 
+कानून
+ 
+के
+ 
+अनुसार
+ 
+आगे
+ 
+क
+ 
+कानूनी
+ 
+कार%वाई
+ 
+का
+ 
+आधार
+ 
+होगा
+।
+/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---
+धlयवाद
+धlयवाद
+/Thank You---
+8 / 8

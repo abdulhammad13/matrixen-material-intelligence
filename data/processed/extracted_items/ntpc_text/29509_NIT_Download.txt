@@ -1,0 +1,3838 @@
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+बड
+बड
+ 
+ 
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid End Date/Time
+10-03-2026 15:00:00
+बड
+बड
+ 
+ 
+खुलने
+खुलने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid Opening
+Date/Time
+10-03-2026 15:30:00
+बड
+बड
+ 
+ 
+पेशकश
+पेशकश
+ 
+ 
+वैधता
+वैधता
+ (
+ (
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+ 
+ 
+से
+से
+)
+)
+/Bid Offer
+Validity (From End Date)
+120 (Days)
+मं ालय
+मं ालय
+/
+/
+रा!य
+रा!य
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Ministry/State Name
+Ministry Of Power
+वभाग
+वभाग
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Department Name
+Na
+संगठन
+संगठन
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Organisation Name
+Ntpc Limited
+काया%लय
+काया%लय
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Office Name
+Ssc Coal Mining Ntpc
+व&तु
+व&तु
+ 
+ 
+'ेणी
+'ेणी
+ 
+ 
+/Item Category
+Manpower Outsourcing Services - Fixed Remuneration -
+Security Consultants Dy SP; Data Entry Operator; Security
+Consultants Dy SP , Manpower Outsourcing Services - Fixed
+Remuneration - Security Consultants Inspector; Data Entry
+Operator; Security Consultants Inspector , Manpower
+Outsourcing Services - Fixed Remuneration - Revenue
+Consultant; Data Entry Operator; Revenue Consultant ,
+Manpower Outsourcing Services - Man-days based - Law
+Section (HS); Highly Skilled; Attendant , Manpower
+Outsourcing Services - Man-days based - Office Assistants
+(SS); Semi-skilled; Attendant , Manpower Outsourcing
+Services - Man-days based - Supervisory Staff (S); Skilled;
+Attendant , Manpower Outsourcing Services - Man-days
+based - Dispatch Services (S); Skilled; Attendant , Manpower
+Outsourcing Services - Man-days based - Cook for Mess
+Services (SS); Semi-skilled; Attendant , Manpower
+Outsourcing Services - Man-days based - Bearer for Mess
+Service (US); Unskilled; Attendant , Manpower Outsourcing
+Services - Man-days based - Housekeeping Staffs (US);
+Unskilled; Attendant , Manpower Outsourcing Services -
+Man-days based - Office Recordkeeping Assistance (S);
+Skilled; Attendant , Manpower Outsourcing Services - Man-
+days based - Supervisor (HSK); Highly Skilled; Attendant ,
+Manpower Outsourcing Services - Man-days based - Cost of
+deployment for Sikri to Ranchi (SS); Semi-skilled; Attendant
+अनुबंध
+अनुबंध
+ 
+ 
+अविध
+अविध
+ 
+ 
+/Contract Period
+ 1 Year(s)
+एमएसएमई
+एमएसएमई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष.
+वष.
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+4दान
+4दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+/MSE Relaxation for Years of
+Experience and Turnover
+No
+&टाट%अप
+&टाट%अप
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष.
+वष.
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+4दान
+4दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+ /Startup Relaxation for Years of
+Experience and Turnover
+No
+ 
+बड
+ 
+सं5या
+/
+Bid
+ 
+Number
+: 
+GEM/2026/B/7273367
+6दनांक
+ /
+Dated
+: 24-02-2026
+बड
+बड
+ 
+ 
+द&तावेज़
+द&तावेज़
+ / Bid Document
+1 / 23
+व>ेता
+व>ेता
+ 
+ 
+से
+से
+ 
+ 
+मांगे
+मांगे
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़
+द&तावेज़
+/Document required
+from seller
+Certificate (Requested in ATC)
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by
+the buyer
+?या
+?या
+ 
+ 
+आप
+आप
+ 
+ 
+िनवदाकारA
+िनवदाकारA
+ 
+ 
+Bारा
+Bारा
+ 
+ 
+अपलोड
+अपलोड
+ 
+ 
+6कए
+6कए
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़A
+द&तावेज़A
+ 
+ 
+को
+को
+िनवदा
+िनवदा
+ 
+ 
+मC
+मC
+ 
+ 
+भाग
+भाग
+ 
+ 
+लेने
+लेने
+ 
+ 
+वाले
+वाले
+ 
+ 
+सभी
+सभी
+ 
+ 
+िनवदाकारA
+िनवदाकारA
+ 
+ 
+को
+को
+ 
+ 
+6दखाना
+6दखाना
+चाहते
+चाहते
+ 
+ 
+हE
+हE
+? 
+? 
+संदभ%
+संदभ%
+ 
+ 
+मेनू
+मेनू
+ 
+ 
+है
+है
+/Do you want to show
+documents uploaded by bidders to all
+bidders participated in bid?
+Yes (Documents submitted as part of a clarification or
+representation during the tender/bid process will also be
+displayed to other participated bidders after log in)
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+ 
+ 
+सीमा
+सीमा
+ 
+ 
+&वतः
+&वतः
+ 
+ 
+नहं
+नहं
+ 
+ 
+बढ़ाने
+बढ़ाने
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+आवIयक
+आवIयक
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+सं5या
+सं5या
+।
+।
+ / Minimum number of
+bids required to disable automatic bid
+extension
+3
+6दनA
+6दनA
+ 
+ 
+क
+क
+ 
+ 
+सं5या
+सं5या
+, 
+, 
+Lजनके
+Lजनके
+ 
+ 
+िलए
+िलए
+ 
+ 
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+बढ़ाई
+बढ़ाई
+ 
+ 
+जाएगी
+जाएगी
+। / 
+। / 
+Number
+ 
+ 
+of
+ 
+ 
+days
+ 
+ 
+for
+ 
+ 
+which
+ 
+ 
+Bid
+would
+ 
+ 
+be
+ 
+ 
+auto
+-
+-
+extended
+5
+ऑटो
+ऑटो
+ 
+ 
+ए?सटCशन
+ए?सटCशन
+ 
+ 
+अिधकतम
+अिधकतम
+ 
+ 
+6कतनी
+6कतनी
+ 
+ 
+बार
+बार
+ 
+ 
+6कया
+6कया
+ 
+ 
+जाना
+जाना
+ 
+ 
+है
+है
+। /
+। /
+Number
+ 
+ 
+of
+ 
+ 
+Auto
+ 
+ 
+Extension
+ 
+ 
+count
+3
+बड
+बड
+ 
+ 
+से
+से
+ 
+ 
+Oरवस%
+Oरवस%
+ 
+ 
+नीलामी
+नीलामी
+ 
+ 
+स6>य
+स6>य
+ 
+ 
+6कया
+6कया
+/Bid to RA enabled
+No
+बड
+बड
+ 
+ 
+का
+का
+ 
+ 
+4कार
+4कार
+/Type of Bid
+Two Packet Bid
+तकनीक
+तकनीक
+ 
+ 
+मूPयांकन
+मूPयांकन
+ 
+ 
+के
+के
+ 
+ 
+दौरान
+दौरान
+ 
+ 
+तकनीक
+तकनीक
+ 
+ 
+&पRीकरण
+&पRीकरण
+ 
+ 
+हेतु
+हेतु
+अनुमत
+अनुमत
+ 
+ 
+समय
+समय
+ 
+ 
+/Time allowed for Technical
+Clarifications during technical evaluation
+2 Days
+मूPयांकन
+मूPयांकन
+ 
+ 
+पSित
+पSित
+/Evaluation Method
+Total value wise evaluation
+मTय&थता
+मTय&थता
+ 
+खंड
+खंड
+/Arbitration Clause
+Yes (
+Arbitration clause document
+) 
+as per DoE OM
+No.F.1/2/2024-PPD dated 03.06.2024 Arbitration should not
+be routinely included in contracts
+सुलह
+सुलह
+ 
+खंड
+खंड
+/Mediation Clause
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+ईएमड
+ईएमड
+ 
+ 
+ववरण
+ववरण
+/EMD Detail
+एडवाईजर
+ 
+बEक
+/Advisory Bank
+ICICI
+ईएमड
+ 
+रािश
+/EMD Amount
+500000
+ईपीबीजी
+ईपीबीजी
+ 
+ 
+ववरण
+ववरण
+ 
+ 
+/ePBG Detail
+एडवाइजर
+ 
+बEक
+/Advisory Bank
+ICICI
+ईपीबीजी
+ 
+4ितशत
+ (%)
+/ePBG Percentage(%)
+5.00
+2 / 23
+ईपीबीजी
+ 
+क
+ 
+आवIयक
+ 
+अविध
+ (
+माह
+) 
+/Duration of ePBG
+required (Months).
+15
+(a). 
+जेम
+ 
+क
+ 
+शत.
+ 
+के
+ 
+अनुसार
+ 
+ईएमड
+ 
+छू ट
+ 
+के
+ 
+इXछु क
+ 
+बडर
+ 
+को
+ 
+संबंिधत
+ 
+केटेगर
+ 
+के
+ 
+िलए
+ 
+बड
+ 
+के
+ 
+साथ
+ 
+वैध
+ 
+समिथ%त
+ 
+द&तावेज़
+ 
+4&तुत
+ 
+करने
+ 
+है
+।
+ 
+एमएसई
+केटेगर
+ 
+के
+ 
+अंतग%त
+ 
+केवल
+ 
+व&तुओं
+ 
+के
+ 
+िलए
+ 
+विनमा%ता
+ 
+तथा
+ 
+सेवाओं
+ 
+के
+ 
+िलए
+ 
+सेवा
+ 
+4दाता
+ 
+ईएमड
+ 
+से
+ 
+छू ट
+ 
+के
+ 
+पा 
+ 
+हE
+।
+ 
+YयापाOरयA
+ 
+को
+ 
+इस
+ 
+नीित
+ 
+के
+ 
+दायरे
+ 
+से
+बाहर
+ 
+रखा
+ 
+गया
+ 
+है
+।
+/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document
+for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and
+Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this
+Policy.
+(b).
+ईएमड
+ 
+और
+ 
+संपादन
+ 
+जमानत
+ 
+रािश
+, 
+जहां
+ 
+यह
+ 
+लागू
+ 
+होती
+ 
+है
+, 
+लाभाथZ
+ 
+के
+ 
+प[
+ 
+मC
+ 
+होनी
+ 
+चा6हए
+।
+ / EMD & Performance securityshould be
+in favour of Beneficiary, wherever it is applicable. 
+लाभाथZ
+लाभाथZ
+ 
+ 
+/Beneficiary :
+ 
+NTPC LIMITED
+SSC COAL MINING , NTPC Limited, RANCHI
+(Ntpc Limited)
+बोली
+ 
+वभाजन
+ 
+लागू
+ 
+नहं
+ 
+6कया
+ 
+गया
+/ 
+Bid splitting not applied.
+एमआईआई
+एमआईआई
+ 
+ 
+अनुपालन
+अनुपालन
+/MII Compliance
+एमआईआई
+ 
+अनुपालन
+/MII Compliance
+Yes
+एमएसई
+एमएसई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MSE Purchase Preference
+एमएसई
+ 
+खरद
+ 
+वरयता
+/MSE Purchase Preference
+Yes
+सू\म
+ 
+और
+ 
+लघु
+ 
+उ_म
+ 
+मूल
+ 
+उपकरण
+ 
+िनमा%ताओं
+ 
+को
+ 
+खरद
+ 
+मC
+4ाथिमकता
+, 
+य6द
+ 
+उनका
+ 
+मूPय
+ 
+L
+1+
+X
+% 
+तक
+ 
+क
+ 
+सीमा
+ 
+मC
+ 
+हो
+ /
+Purchase Preference to MSE OEMs available upto
+price within L1+X%
+15
+सू\म
+ 
+और
+ 
+लघु
+ 
+उ_म
+ 
+को
+ 
+खरद
+ 
+मC
+ 
+4ाथिमकता
+ 
+के
+ 
+िलए
+ 
+बड
+क
+ 
+मा ा
+ 
+का
+ 
+अिधकतम
+ 
+4ितशत
+ / Maximum
+Percentage of Bid quantity for MSE purchase
+preference
+100
+1. Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as
+defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued
+by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned
+Ministry. If the bidder wants to avail the Purchase preference for services, the bidder must be the Service
+provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the
+bid in respect of the offered service. If L-1 is not an MSE and MSE Service Provider (s) has/have quoted price
+within L-1+ 15% of margin of purchase preference /price band as defined in the relevant policy, then 100% order
+quantity will be awarded to such MSE bidder 
+subject to acceptance of L1 bid price. The buyers are advised to
+refer to the 
+OM_No.1_4_2021_PPD_dated_18.05.2023
+ for compliance of Concurrent application of Public
+Procurement Policy for Micro and Small Enterprises Order, 2012 and Public Procurement (Preference to Make in
+India) Order, 2017. 
+Benefits of MSE will be allowed only if the credentials of the service provider are validated on-
+line in GeM profile as well as validated and approved by the Buyer after evaluation of submitted documents. 
+2. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and
+for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.
+This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any
+impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of
+3 / 23
+quoted prices which would be determined by the buyer based on its own assessment of reasonableness and
+based on competitive prices received in Bid / RA process. 
+अितOरb
+अितOरb
+ 
+ 
+योcयता
+योcयता
+ /
+ /
+आवIयक
+आवIयक
+ 
+ 
+डेटा
+डेटा
+/Additional Qualification/Data Required
+Scope of work & Job Description:
+1771908429.pdf
+Manpower Outsourcing Services - Fixed Remuneration - Security Consultants Dy SP;
+Data Entry Operator; Security Consultants Dy SP ( 1 
+)
+तकनीक
+तकनीक
+ 
+ 
+विशRयाँ
+विशRयाँ
+ 
+ 
+/Technical Specifications
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+कोर
+कोर
+ / Core
+Type of Function
+Security Consultants
+Dy SP
+List of Profiles
+Data Entry Operator
+Educational Qualification
+Security Consultants
+Dy SP
+Specialization
+Security Consultants
+Dy SP
+Post Graduation
+Optional
+Specialization for PG
+Security Consultants
+Dy SP
+Experience
+0 to 3 Years
+State
+NA
+District
+NA
+Zipcode
+NA
+Is Geographical presence of the Service Provider registered office is required in the
+consignee's State
+No
+Name of states/ UT for geographical presence is required
+Not Applicable
+एडऑन
+एडऑन
+ 
+ 
+/Addon(s)
+>ेता
+>ेता
+ 
+ 
+Bारा
+Bारा
+ 
+ 
+िनधा%Oरत
+िनधा%Oरत
+ 
+ 
+eयूनतम
+eयूनतम
+ 
+ 
+मूPय
+मूPय
+/Minimum Floor Price defined by Buyer
+>ेता
+ 
+Bारा
+ 
+िनधा%Oरत
+ 
+eयूनतम
+ 
+मूPय
+/Minimum Floor Price
+defined by Buyer
+No
+अितOरb
+अितOरb
+ 
+ 
+विशR
+विशR
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+/Consignees/Reporting Officer and Quantity
+4 / 23
+>.सं.
+>.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधनA
+संसाधनA
+ 
+क
+क
+ 
+मा ा
+मा ा
+/ Number of
+Resources to
+be hired
+अितOरb
+अितOरb
+ 
+आवIयकता
+आवIयकता
+/Additional
+Requirement
+1
+Arunabh Mukherjee
+825311,Sikri Site Office, Pakri
+Barwadih CMP, NTPC, Post:
+Barkagaon Sikri, Hazaribagh,
+Jharkhand
+1
+Basic monthly pay
+(INR) exclusive of
+GST : 51921.14
+Bonus (INR
+Monthly) : 0
+EDLI (INR Monthly)
+: 0
+EPF Admin Charges
+(INR Monthly) : 0
+Estimated Number
+of Overtime Hours
+per Resource per
+Month : 0
+Remuneration per
+resource per hour
+for Overtime Hours
+(Including all
+applicable
+allowance etc &
+excluding GST) : 0
+Optional
+Allowances 1 (INR
+Monthly) : 0
+Optional
+Allowances 2 (INR
+Monthly) : 0
+Optional
+Allowances 3 (INR
+Monthly) : 0
+Provident Fund
+(INR Monthly) : 0
+ESI (INR Monthly) :
+0
+Tenure/ Duration of
+Employment (In
+Months) : 12
+Manpower Outsourcing Services - Fixed Remuneration - Security Consultants
+Inspector; Data Entry Operator; Security Consultants Inspector ( 1 
+)
+तकनीक
+तकनीक
+ 
+ 
+विशRयाँ
+विशRयाँ
+ 
+ 
+/Technical Specifications
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+कोर
+कोर
+ / Core
+Type of Function
+Security Consultants
+Inspector
+List of Profiles
+Data Entry Operator
+Educational Qualification
+Security Consultants
+Inspector
+5 / 23
+Specialization
+Security Consultants
+Inspector
+Post Graduation
+Optional
+Specialization for PG
+Security Consultants
+Inspector
+Experience
+0 to 3 Years
+State
+NA
+District
+NA
+Zipcode
+NA
+Is Geographical presence of the Service Provider registered office is required in the
+consignee's State
+No
+Name of states/ UT for geographical presence is required
+Not Applicable
+एडऑन
+एडऑन
+ 
+ 
+/Addon(s)
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+>ेता
+>ेता
+ 
+ 
+Bारा
+Bारा
+ 
+ 
+िनधा%Oरत
+िनधा%Oरत
+ 
+ 
+eयूनतम
+eयूनतम
+ 
+ 
+मूPय
+मूPय
+/Minimum Floor Price defined by Buyer
+>ेता
+ 
+Bारा
+ 
+िनधा%Oरत
+ 
+eयूनतम
+ 
+मूPय
+/Minimum Floor Price
+defined by Buyer
+No
+अितOरb
+अितOरb
+ 
+ 
+विशR
+विशR
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+/Consignees/Reporting Officer and Quantity
+>.सं.
+>.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधनA
+संसाधनA
+ 
+क
+क
+ 
+मा ा
+मा ा
+/ Number of
+Resources to
+be hired
+अितOरb
+अितOरb
+ 
+आवIयकता
+आवIयकता
+/Additional
+Requirement
+6 / 23
+1
+Arunabh Mukherjee
+825311,Sikri Site Office, Pakri
+Barwadih CMP, NTPC, Post:
+Barkagaon Sikri, Hazaribagh,
+Jharkhand
+1
+Basic monthly pay
+(INR) exclusive of
+GST : 47274.13
+Bonus (INR
+Monthly) : 0
+EDLI (INR Monthly)
+: 0
+EPF Admin Charges
+(INR Monthly) : 0
+Estimated Number
+of Overtime Hours
+per Resource per
+Month : 0
+Remuneration per
+resource per hour
+for Overtime Hours
+(Including all
+applicable
+allowance etc &
+excluding GST) : 0
+Optional
+Allowances 1 (INR
+Monthly) : 0
+Optional
+Allowances 2 (INR
+Monthly) : 0
+Optional
+Allowances 3 (INR
+Monthly) : 0
+Provident Fund
+(INR Monthly) : 0
+ESI (INR Monthly) :
+0
+Tenure/ Duration of
+Employment (In
+Months) : 12
+>.सं.
+>.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधनA
+संसाधनA
+ 
+क
+क
+ 
+मा ा
+मा ा
+/ Number of
+Resources to
+be hired
+अितOरb
+अितOरb
+ 
+आवIयकता
+आवIयकता
+/Additional
+Requirement
+Manpower Outsourcing Services - Fixed Remuneration - Revenue Consultant; Data
+Entry Operator; Revenue Consultant ( 1 
+)
+तकनीक
+तकनीक
+ 
+ 
+विशRयाँ
+विशRयाँ
+ 
+ 
+/Technical Specifications
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+कोर
+कोर
+ / Core
+Type of Function
+Revenue
+Consultant
+List of Profiles
+Data Entry
+Operator
+Educational Qualification
+Revenue
+Consultant
+7 / 23
+Specialization
+Revenue
+Consultant
+Post Graduation
+Optional
+Specialization for PG
+Revenue
+Consultant
+Experience
+0 to 3 Years
+State
+NA
+District
+NA
+Zipcode
+NA
+Is Geographical presence of the Service Provider registered office is required in the
+consignee's State
+No
+Name of states/ UT for geographical presence is required
+Not Applicable
+एडऑन
+एडऑन
+ 
+ 
+/Addon(s)
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+>ेता
+>ेता
+ 
+ 
+Bारा
+Bारा
+ 
+ 
+िनधा%Oरत
+िनधा%Oरत
+ 
+ 
+eयूनतम
+eयूनतम
+ 
+ 
+मूPय
+मूPय
+/Minimum Floor Price defined by Buyer
+>ेता
+ 
+Bारा
+ 
+िनधा%Oरत
+ 
+eयूनतम
+ 
+मूPय
+/Minimum Floor Price
+defined by Buyer
+No
+अितOरb
+अितOरb
+ 
+ 
+विशR
+विशR
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+/Consignees/Reporting Officer and Quantity
+>.सं.
+>.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधनA
+संसाधनA
+ 
+क
+क
+ 
+मा ा
+मा ा
+/ Number of
+Resources to
+be hired
+अितOरb
+अितOरb
+ 
+आवIयकता
+आवIयकता
+/Additional
+Requirement
+8 / 23
+1
+Arunabh Mukherjee
+825311,Sikri Site Office, Pakri
+Barwadih CMP, NTPC, Post:
+Barkagaon Sikri, Hazaribagh,
+Jharkhand
+1
+Basic monthly pay
+(INR) exclusive of
+GST : 47274.13
+Bonus (INR
+Monthly) : 0
+EDLI (INR Monthly)
+: 0
+EPF Admin Charges
+(INR Monthly) : 0
+Estimated Number
+of Overtime Hours
+per Resource per
+Month : 0
+Remuneration per
+resource per hour
+for Overtime Hours
+(Including all
+applicable
+allowance etc &
+excluding GST) : 0
+Optional
+Allowances 1 (INR
+Monthly) : 0
+Optional
+Allowances 2 (INR
+Monthly) : 0
+Optional
+Allowances 3 (INR
+Monthly) : 0
+Provident Fund
+(INR Monthly) : 0
+ESI (INR Monthly) :
+0
+Tenure/ Duration of
+Employment (In
+Months) : 12
+>.सं.
+>.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधनA
+संसाधनA
+ 
+क
+क
+ 
+मा ा
+मा ा
+/ Number of
+Resources to
+be hired
+अितOरb
+अितOरb
+ 
+आवIयकता
+आवIयकता
+/Additional
+Requirement
+Manpower Outsourcing Services - Man-days Based - Law Section (HS); Highly Skilled;
+Attendant ( 312 
+)
+तकनीक
+तकनीक
+ 
+ 
+विशRयाँ
+विशRयाँ
+ 
+ 
+/Technical Specifications
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+कोर
+कोर
+ / Core
+Type of Function
+Law Section
+(HS)
+Skill Category
+Highly Skilled
+List of Profiles
+Attendant
+Experience of Resource
+10 to 15 Years
+9 / 23
+Is Geographical presence of the Service Provider registered office is required in the
+consignee's State
+No
+Name of states/ UT for geographical presence is required
+Not Applicable
+एडऑन
+एडऑन
+ 
+ 
+/Addon(s)
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+>ेता
+>ेता
+ 
+ 
+Bारा
+Bारा
+ 
+ 
+िनधा%Oरत
+िनधा%Oरत
+ 
+ 
+eयूनतम
+eयूनतम
+ 
+ 
+मूPय
+मूPय
+/Minimum Floor Price defined by Buyer
+>ेता
+ 
+Bारा
+ 
+िनधा%Oरत
+ 
+eयूनतम
+ 
+मूPय
+/Minimum Floor Price
+defined by Buyer
+No
+अितOरb
+अितOरb
+ 
+ 
+विशR
+विशR
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+/Consignees/Reporting Officer and Quantity
+>.सं.
+>.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधनA
+संसाधनA
+ 
+क
+क
+ 
+मा ा
+मा ा
+/ Total
+number of
+man-days
+required
+during
+contract
+period
+अितOरb
+अितOरb
+ 
+आवIयकता
+आवIयकता
+/Additional
+Requirement
+1
+Arunabh Mukherjee
+825311,Sikri Site Office, Pakri
+Barwadih CMP, NTPC, Post:
+Barkagaon Sikri, Hazaribagh,
+Jharkhand
+312
+Charges per man-
+day (Inclusive of
+Wages, EPF, ESIC,
+EDLI, Bonus, etc)
+exclusive of GST :
+1140.59
+Estimated number
+of overtime man-
+hours during
+contract period : 0
+Per hour charges
+for Overtime Man-
+hours exclusive of
+GST : 0
+Manpower Outsourcing Services - Man-days Based - Office Assistants (SS); Semi-
+skilled; Attendant ( 9360 
+)
+तकनीक
+तकनीक
+ 
+ 
+विशRयाँ
+विशRयाँ
+ 
+ 
+/Technical Specifications
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+कोर
+कोर
+ / Core
+10 / 23
+Type of Function
+Office Assistants
+(SS)
+Skill Category
+Semi-skilled
+List of Profiles
+Attendant
+Experience of Resource
+0 to 3 Years
+Is Geographical presence of the Service Provider registered office is required in the
+consignee's State
+No
+Name of states/ UT for geographical presence is required
+Not Applicable
+एडऑन
+एडऑन
+ 
+ 
+/Addon(s)
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+>ेता
+>ेता
+ 
+ 
+Bारा
+Bारा
+ 
+ 
+िनधा%Oरत
+िनधा%Oरत
+ 
+ 
+eयूनतम
+eयूनतम
+ 
+ 
+मूPय
+मूPय
+/Minimum Floor Price defined by Buyer
+>ेता
+ 
+Bारा
+ 
+िनधा%Oरत
+ 
+eयूनतम
+ 
+मूPय
+/Minimum Floor Price
+defined by Buyer
+No
+अितOरb
+अितOरb
+ 
+ 
+विशR
+विशR
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+/Consignees/Reporting Officer and Quantity
+>.सं.
+>.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधनA
+संसाधनA
+ 
+क
+क
+ 
+मा ा
+मा ा
+/ Total
+number of
+man-days
+required
+during
+contract
+period
+अितOरb
+अितOरb
+ 
+आवIयकता
+आवIयकता
+/Additional
+Requirement
+1
+Arunabh Mukherjee
+825311,Sikri Site Office, Pakri
+Barwadih CMP, NTPC, Post:
+Barkagaon Sikri, Hazaribagh,
+Jharkhand
+9360
+Charges per man-
+day (Inclusive of
+Wages, EPF, ESIC,
+EDLI, Bonus, etc)
+exclusive of GST :
+835.76
+Estimated number
+of overtime man-
+hours during
+contract period : 0
+Per hour charges
+for Overtime Man-
+hours exclusive of
+GST : 0
+Manpower Outsourcing Services - Man-days Based - Supervisory Staff (S); Skilled;
+Attendant ( 312 
+)
+11 / 23
+तकनीक
+तकनीक
+ 
+ 
+विशRयाँ
+विशRयाँ
+ 
+ 
+/Technical Specifications
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+कोर
+कोर
+ / Core
+Type of Function
+Supervisory Staff
+(S)
+Skill Category
+Skilled
+List of Profiles
+Attendant
+Experience of Resource
+0 to 3 Years
+Is Geographical presence of the Service Provider registered office is required in the
+consignee's State
+No
+Name of states/ UT for geographical presence is required
+Not Applicable
+एडऑन
+एडऑन
+ 
+ 
+/Addon(s)
+>ेता
+>ेता
+ 
+ 
+Bारा
+Bारा
+ 
+ 
+िनधा%Oरत
+िनधा%Oरत
+ 
+ 
+eयूनतम
+eयूनतम
+ 
+ 
+मूPय
+मूPय
+/Minimum Floor Price defined by Buyer
+>ेता
+ 
+Bारा
+ 
+िनधा%Oरत
+ 
+eयूनतम
+ 
+मूPय
+/Minimum Floor Price
+defined by Buyer
+No
+अितOरb
+अितOरb
+ 
+ 
+विशR
+विशR
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+/Consignees/Reporting Officer and Quantity
+>.सं.
+>.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधनA
+संसाधनA
+ 
+क
+क
+ 
+मा ा
+मा ा
+/ Total
+number of
+man-days
+required
+during
+contract
+period
+अितOरb
+अितOरb
+ 
+आवIयकता
+आवIयकता
+/Additional
+Requirement
+1
+Arunabh Mukherjee
+825311,Sikri Site Office, Pakri
+Barwadih CMP, NTPC, Post:
+Barkagaon Sikri, Hazaribagh,
+Jharkhand
+312
+Charges per man-
+day (Inclusive of
+Wages, EPF, ESIC,
+EDLI, Bonus, etc)
+exclusive of GST :
+988.74
+Estimated number
+of overtime man-
+hours during
+contract period : 0
+Per hour charges
+for Overtime Man-
+hours exclusive of
+GST : 0
+12 / 23
+Manpower Outsourcing Services - Man-days Based - Dispatch Services (S); Skilled;
+Attendant ( 936 
+)
+तकनीक
+तकनीक
+ 
+ 
+विशRयाँ
+विशRयाँ
+ 
+ 
+/Technical Specifications
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+कोर
+कोर
+ / Core
+Type of Function
+Dispatch Services
+(S)
+Skill Category
+Skilled
+List of Profiles
+Attendant
+Experience of Resource
+0 to 3 Years
+Is Geographical presence of the Service Provider registered office is required in the
+consignee's State
+No
+Name of states/ UT for geographical presence is required
+Not Applicable
+एडऑन
+एडऑन
+ 
+ 
+/Addon(s)
+>ेता
+>ेता
+ 
+ 
+Bारा
+Bारा
+ 
+ 
+िनधा%Oरत
+िनधा%Oरत
+ 
+ 
+eयूनतम
+eयूनतम
+ 
+ 
+मूPय
+मूPय
+/Minimum Floor Price defined by Buyer
+>ेता
+ 
+Bारा
+ 
+िनधा%Oरत
+ 
+eयूनतम
+ 
+मूPय
+/Minimum Floor Price
+defined by Buyer
+No
+अितOरb
+अितOरb
+ 
+ 
+विशR
+विशR
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+/Consignees/Reporting Officer and Quantity
+>.सं.
+>.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधनA
+संसाधनA
+ 
+क
+क
+ 
+मा ा
+मा ा
+/ Total
+number of
+man-days
+required
+during
+contract
+period
+अितOरb
+अितOरb
+ 
+आवIयकता
+आवIयकता
+/Additional
+Requirement
+13 / 23
+1
+Arunabh Mukherjee
+825311,Sikri Site Office, Pakri
+Barwadih CMP, NTPC, Post:
+Barkagaon Sikri, Hazaribagh,
+Jharkhand
+936
+Charges per man-
+day (Inclusive of
+Wages, EPF, ESIC,
+EDLI, Bonus, etc)
+exclusive of GST :
+988.74
+Estimated number
+of overtime man-
+hours during
+contract period : 0
+Per hour charges
+for Overtime Man-
+hours exclusive of
+GST : 0
+>.सं.
+>.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधनA
+संसाधनA
+ 
+क
+क
+ 
+मा ा
+मा ा
+/ Total
+number of
+man-days
+required
+during
+contract
+period
+अितOरb
+अितOरb
+ 
+आवIयकता
+आवIयकता
+/Additional
+Requirement
+Manpower Outsourcing Services - Man-days Based - Cook For Mess Services (SS);
+Semi-skilled; Attendant ( 3120 
+)
+तकनीक
+तकनीक
+ 
+ 
+विशRयाँ
+विशRयाँ
+ 
+ 
+/Technical Specifications
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+कोर
+कोर
+ / Core
+Type of Function
+Cook for Mess Services
+(SS)
+Skill Category
+Semi-skilled
+List of Profiles
+Attendant
+Experience of Resource
+0 to 3 Years
+Is Geographical presence of the Service Provider registered office is required in the
+consignee's State
+No
+Name of states/ UT for geographical presence is required
+Not Applicable
+एडऑन
+एडऑन
+ 
+ 
+/Addon(s)
+>ेता
+>ेता
+ 
+ 
+Bारा
+Bारा
+ 
+ 
+िनधा%Oरत
+िनधा%Oरत
+ 
+ 
+eयूनतम
+eयूनतम
+ 
+ 
+मूPय
+मूPय
+/Minimum Floor Price defined by Buyer
+>ेता
+ 
+Bारा
+ 
+िनधा%Oरत
+ 
+eयूनतम
+ 
+मूPय
+/Minimum Floor Price
+defined by Buyer
+No
+अितOरb
+अितOरb
+ 
+ 
+विशR
+विशR
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+14 / 23
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+/Consignees/Reporting Officer and Quantity
+>.सं.
+>.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधनA
+संसाधनA
+ 
+क
+क
+ 
+मा ा
+मा ा
+/ Total
+number of
+man-days
+required
+during
+contract
+period
+अितOरb
+अितOरb
+ 
+आवIयकता
+आवIयकता
+/Additional
+Requirement
+1
+Arunabh Mukherjee
+825311,Sikri Site Office, Pakri
+Barwadih CMP, NTPC, Post:
+Barkagaon Sikri, Hazaribagh,
+Jharkhand
+3120
+Charges per man-
+day (Inclusive of
+Wages, EPF, ESIC,
+EDLI, Bonus, etc)
+exclusive of GST :
+835.76
+Estimated number
+of overtime man-
+hours during
+contract period : 0
+Per hour charges
+for Overtime Man-
+hours exclusive of
+GST : 0
+Manpower Outsourcing Services - Man-days Based - Bearer For Mess Service (US);
+Unskilled; Attendant ( 2808 
+)
+तकनीक
+तकनीक
+ 
+ 
+विशRयाँ
+विशRयाँ
+ 
+ 
+/Technical Specifications
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+कोर
+कोर
+ / Core
+Type of Function
+Bearer for Mess Service
+(US)
+Skill Category
+Unskilled
+List of Profiles
+Attendant
+Experience of Resource
+0 to 3 Years
+Is Geographical presence of the Service Provider registered office is required in the
+consignee's State
+No
+Name of states/ UT for geographical presence is required
+Not Applicable
+एडऑन
+एडऑन
+ 
+ 
+/Addon(s)
+>ेता
+>ेता
+ 
+ 
+Bारा
+Bारा
+ 
+ 
+िनधा%Oरत
+िनधा%Oरत
+ 
+ 
+eयूनतम
+eयूनतम
+ 
+ 
+मूPय
+मूPय
+/Minimum Floor Price defined by Buyer
+>ेता
+ 
+Bारा
+ 
+िनधा%Oरत
+ 
+eयूनतम
+ 
+मूPय
+/Minimum Floor Price
+defined by Buyer
+No
+15 / 23
+अितOरb
+अितOरb
+ 
+ 
+विशR
+विशR
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+/Consignees/Reporting Officer and Quantity
+>.सं.
+>.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधनA
+संसाधनA
+ 
+क
+क
+ 
+मा ा
+मा ा
+/ Total
+number of
+man-days
+required
+during
+contract
+period
+अितOरb
+अितOरb
+ 
+आवIयकता
+आवIयकता
+/Additional
+Requirement
+1
+Arunabh Mukherjee
+825311,Sikri Site Office, Pakri
+Barwadih CMP, NTPC, Post:
+Barkagaon Sikri, Hazaribagh,
+Jharkhand
+2808
+Charges per man-
+day (Inclusive of
+Wages, EPF, ESIC,
+EDLI, Bonus, etc)
+exclusive of GST :
+733.15
+Estimated number
+of overtime man-
+hours during
+contract period : 0
+Per hour charges
+for Overtime Man-
+hours exclusive of
+GST : 0
+Manpower Outsourcing Services - Man-days Based - Housekeeping Staffs (US);
+Unskilled; Attendant ( 13728 
+)
+तकनीक
+तकनीक
+ 
+ 
+विशRयाँ
+विशRयाँ
+ 
+ 
+/Technical Specifications
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+कोर
+कोर
+ / Core
+Type of Function
+Housekeeping Staffs
+(US)
+Skill Category
+Unskilled
+List of Profiles
+Attendant
+Experience of Resource
+0 to 3 Years
+Is Geographical presence of the Service Provider registered office is required in the
+consignee's State
+No
+Name of states/ UT for geographical presence is required
+Not Applicable
+एडऑन
+एडऑन
+ 
+ 
+/Addon(s)
+>ेता
+>ेता
+ 
+ 
+Bारा
+Bारा
+ 
+ 
+िनधा%Oरत
+िनधा%Oरत
+ 
+ 
+eयूनतम
+eयूनतम
+ 
+ 
+मूPय
+मूPय
+/Minimum Floor Price defined by Buyer
+16 / 23
+>ेता
+ 
+Bारा
+ 
+िनधा%Oरत
+ 
+eयूनतम
+ 
+मूPय
+/Minimum Floor Price
+defined by Buyer
+No
+अितOरb
+अितOरb
+ 
+ 
+विशR
+विशR
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+/Consignees/Reporting Officer and Quantity
+>.सं.
+>.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधनA
+संसाधनA
+ 
+क
+क
+ 
+मा ा
+मा ा
+/ Total
+number of
+man-days
+required
+during
+contract
+period
+अितOरb
+अितOरb
+ 
+आवIयकता
+आवIयकता
+/Additional
+Requirement
+1
+Arunabh Mukherjee
+825311,Sikri Site Office, Pakri
+Barwadih CMP, NTPC, Post:
+Barkagaon Sikri, Hazaribagh,
+Jharkhand
+13728
+Charges per man-
+day (Inclusive of
+Wages, EPF, ESIC,
+EDLI, Bonus, etc)
+exclusive of GST :
+733.15
+Estimated number
+of overtime man-
+hours during
+contract period : 0
+Per hour charges
+for Overtime Man-
+hours exclusive of
+GST : 0
+Manpower Outsourcing Services - Man-days Based - Office Recordkeeping Assistance
+(S); Skilled; Attendant ( 8424 
+)
+तकनीक
+तकनीक
+ 
+ 
+विशRयाँ
+विशRयाँ
+ 
+ 
+/Technical Specifications
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+कोर
+कोर
+ / Core
+Type of Function
+Office Recordkeeping
+Assistance (S)
+Skill Category
+Skilled
+List of Profiles
+Attendant
+Experience of Resource
+0 to 3 Years
+Is Geographical presence of the Service Provider registered office is required in
+the consignee's State
+No
+Name of states/ UT for geographical presence is required
+Not Applicable
+एडऑन
+एडऑन
+ 
+ 
+/Addon(s)
+17 / 23
+>ेता
+>ेता
+ 
+ 
+Bारा
+Bारा
+ 
+ 
+िनधा%Oरत
+िनधा%Oरत
+ 
+ 
+eयूनतम
+eयूनतम
+ 
+ 
+मूPय
+मूPय
+/Minimum Floor Price defined by Buyer
+>ेता
+ 
+Bारा
+ 
+िनधा%Oरत
+ 
+eयूनतम
+ 
+मूPय
+/Minimum Floor Price
+defined by Buyer
+No
+अितOरb
+अितOरb
+ 
+ 
+विशR
+विशR
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+/Consignees/Reporting Officer and Quantity
+>.सं.
+>.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधनA
+संसाधनA
+ 
+क
+क
+ 
+मा ा
+मा ा
+/ Total
+number of
+man-days
+required
+during
+contract
+period
+अितOरb
+अितOरb
+ 
+आवIयकता
+आवIयकता
+/Additional
+Requirement
+1
+Arunabh Mukherjee
+825311,Sikri Site Office, Pakri
+Barwadih CMP, NTPC, Post:
+Barkagaon Sikri, Hazaribagh,
+Jharkhand
+8424
+Charges per man-
+day (Inclusive of
+Wages, EPF, ESIC,
+EDLI, Bonus, etc)
+exclusive of GST :
+988.74
+Estimated number
+of overtime man-
+hours during
+contract period : 0
+Per hour charges
+for Overtime Man-
+hours exclusive of
+GST : 0
+Manpower Outsourcing Services - Man-days Based - Supervisor (HSK); Highly Skilled;
+Attendant ( 1248 
+)
+तकनीक
+तकनीक
+ 
+ 
+विशRयाँ
+विशRयाँ
+ 
+ 
+/Technical Specifications
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+कोर
+कोर
+ / Core
+Type of Function
+Supervisor
+(HSK)
+Skill Category
+Highly Skilled
+List of Profiles
+Attendant
+Experience of Resource
+0 to 3 Years
+Is Geographical presence of the Service Provider registered office is required in the
+consignee's State
+No
+18 / 23
+Name of states/ UT for geographical presence is required
+Not Applicable
+एडऑन
+एडऑन
+ 
+ 
+/Addon(s)
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+>ेता
+>ेता
+ 
+ 
+Bारा
+Bारा
+ 
+ 
+िनधा%Oरत
+िनधा%Oरत
+ 
+ 
+eयूनतम
+eयूनतम
+ 
+ 
+मूPय
+मूPय
+/Minimum Floor Price defined by Buyer
+>ेता
+ 
+Bारा
+ 
+िनधा%Oरत
+ 
+eयूनतम
+ 
+मूPय
+/Minimum Floor Price
+defined by Buyer
+No
+अितOरb
+अितOरb
+ 
+ 
+विशR
+विशR
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+/Consignees/Reporting Officer and Quantity
+>.सं.
+>.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधनA
+संसाधनA
+ 
+क
+क
+ 
+मा ा
+मा ा
+/ Total
+number of
+man-days
+required
+during
+contract
+period
+अितOरb
+अितOरb
+ 
+आवIयकता
+आवIयकता
+/Additional
+Requirement
+1
+Arunabh Mukherjee
+825311,Sikri Site Office, Pakri
+Barwadih CMP, NTPC, Post:
+Barkagaon Sikri, Hazaribagh,
+Jharkhand
+1248
+Charges per man-
+day (Inclusive of
+Wages, EPF, ESIC,
+EDLI, Bonus, etc)
+exclusive of GST :
+1140.59
+Estimated number
+of overtime man-
+hours during
+contract period : 0
+Per hour charges
+for Overtime Man-
+hours exclusive of
+GST : 0
+Manpower Outsourcing Services - Man-days Based - Cost Of Deployment For Sikri To
+Ranchi (SS); Semi-skilled; Attendant ( 312 
+)
+तकनीक
+तकनीक
+ 
+ 
+विशRयाँ
+विशRयाँ
+ 
+ 
+/Technical Specifications
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+कोर
+कोर
+ / Core
+Type of Function
+Cost of deployment for Sikri to
+Ranchi (SS)
+Skill Category
+Semi-skilled
+19 / 23
+List of Profiles
+Attendant
+Experience of Resource
+0 to 3 Years
+Is Geographical presence of the Service Provider registered office is required
+in the consignee's State
+No
+Name of states/ UT for geographical presence is required
+Not Applicable
+एडऑन
+एडऑन
+ 
+ 
+/Addon(s)
+ववरण
+ववरण
+/ Specification
+मूPय
+मूPय
+/ Values
+>ेता
+>ेता
+ 
+ 
+Bारा
+Bारा
+ 
+ 
+िनधा%Oरत
+िनधा%Oरत
+ 
+ 
+eयूनतम
+eयूनतम
+ 
+ 
+मूPय
+मूPय
+/Minimum Floor Price defined by Buyer
+>ेता
+ 
+Bारा
+ 
+िनधा%Oरत
+ 
+eयूनतम
+ 
+मूPय
+/Minimum Floor Price
+defined by Buyer
+No
+अितOरb
+अितOरb
+ 
+ 
+विशR
+विशR
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+/Consignees/Reporting Officer and Quantity
+>.सं.
+>.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो6टfग
+Oरपो6टfग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+संसाधनA
+संसाधनA
+ 
+क
+क
+ 
+मा ा
+मा ा
+/ Total
+number of
+man-days
+required
+during
+contract
+period
+अितOरb
+अितOरb
+ 
+आवIयकता
+आवIयकता
+/Additional
+Requirement
+1
+Arunabh Mukherjee
+825311,Sikri Site Office, Pakri
+Barwadih CMP, NTPC, Post:
+Barkagaon Sikri, Hazaribagh,
+Jharkhand
+312
+Charges per man-
+day (Inclusive of
+Wages, EPF, ESIC,
+EDLI, Bonus, etc)
+exclusive of GST :
+835.76
+Estimated number
+of overtime man-
+hours during
+contract period : 0
+Per hour charges
+for Overtime Man-
+hours exclusive of
+GST : 0
+>ेता
+>ेता
+ 
+ 
+Bारा
+Bारा
+ 
+ 
+जोड़
+जोड़
+ 
+ 
+गई
+गई
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+वशेष
+वशेष
+ 
+ 
+शतi
+शतi
+/Buyer Added Bid Specific Terms and Conditions
+1
+. 
+Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+20 / 23
+Only those Bidders are allowed to participate in this bid who are enlisted as per NTPC CIRCULAR MP-02 wit
+h Average Annual Turn Over (AATO) & EC (Execution Capability) equal to or more than Rs. 3,80,21,169/- a
+s on the last date of bid submission. Bids received from other than enlisted bidders shall not be considered
+and the same shall be rejected. Bids received from enlisted bidders not meeting the above mentioned AAT
+O and EC criteria shall be rejected during technical evaluation.
+The Bidder is required to quote Total Lumpsum Price (including GST) in GeM Bid considering the BOQ as pe
+r ATC / Technical Specifications. Apart from GEM PO, NTPC shall also issue SAP PO for facilitating the paym
+ent with item wise price breakup of the final price as per ATC / Technical Specifications.
+1. EMD
+Bidder has to upload scanned copy / proof of the EMD along with online bid.
+ANY BID NOT ACCOMPANIED BY AN ACCEPTABLE BID SECURITY IN A SEPARATE SEALED ENVELOPE SHALL 
+BE REJECTED BY THE EMPLOYER AS BEING NON-RESPONSIVE. IN CASE, THE BID SECURITY IS SUBMITTED A
+S E-BG/ THROUGH ELECTRONIC FUND TRANSFER (EFT), BIDDER TO SUBMIT THE COPY OF E-BG/PROOF OF 
+E-PAYMENT OF BID SECURITY EITHER IN SEPARATE SEALED ENVELOPE OR IN THE E-TENDERING PORTAL.
+Note: Submission of Bid Security is not required from Sellers exempted from furnishing Bid Security as per 
+GeM GTC
+“The format of the Bank Guarantee shall be in accordance with the form of Bank Guarantee towards Bid Se
+curity / EMD / Performance security / *Security for the Deed of Joint Undertaking (if applicable) / *Advance 
+payment (if applicable) included in the Employer’s Bidding Documents only. In addition, the format of the I
+nsurance Surety Bond shall also be in accordance with the form of Insurance Surety Bond towards Bid sec
+urity / Performance security / *Security for the Deed of Joint Undertaking (if applicable) included in the Em
+ployer’s Bidding Documents only.
+2. Buyer Added Bid Specific ATC
+1. A complete set of documents have been enclosed in the GEM bid.
+2. Terms and Conditions stipulated in NTPC tender documents / ATC will supersede those in GeM GTC and 
+STC in case of any conflicting provisions.
+3. Bidders are required to submit the documents/bid as per the provisions mentioned in the tender docume
+nts.
+4. SD (Security Deposit): SD shall be @ 5% of award value.
+5. The Minimum Local content required is 60 % for Class-I local suppliers.
+6. Eligibility condition for Participation: As per NIT and TS
+7. Instructions for filling the Price Bid: As per ATC / Technical Specifications
+8. Further, submission of bid by a bidder shall be considered as Bidder's confirmation to accepting NO DEV
+IATION to all the provisions of the bidding documents and that the Bidder has confirmed compliance to the
+following:
+i) Total Compliance / Nil Deviation
+ii) Compliance on the Integrity Pact, if applicable
+iii) Compliance on Restriction on Procurement from a Bidder of a country which shares a land Border with I
+ndia
+iv) Compliance on Fraud Prevention Policy
+v) Compliance on Policy for Debarment from Business Dealings
+vi) Compliance on Anti-Bribery and Anti-Corruption (ABAC) Policy of NTPC
+vii) Compliance on provisions regarding “Conflict of Interest”
+9. MSEs seeking exemption/ benefits should enclose an attested/self-certified copy of registration certificat
+e (UDYAM) as a part of his bid, giving details such as stores/services, validity (if applicable) etc. failing whic
+h they run the risk of their bid being passed over as ineligible for the benefits applicable to MSEs. In respec
+21 / 23
+t of bid for Services, the benefits to the participating Service Providers shall be applicable irrespective of pr
+oduct (Goods / Services) categories for which bidder is registered as MSE.
+.
+2
+. 
+Buyer Added Bid Specific ATC
+Buyer uploaded ATC document 
+Click here to view the file
+.
+अ&वीकरण
+अ&वीकरण
+/Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+bidding process without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+Category item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+attached categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+case may be.
+15
+. 
+Any ATC clause in contravention with GeM GTC Clause 4 (xiii)(h) will be invalid. In case of multiple L1
+bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1
+bidders through a Random Algorithm executed by GeM system.
+16
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+17
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the
+same must be added through bunching category based items or by bunching custom catalogs or
+bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+such representations.
+22 / 23
+All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws,
+including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code
+on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working
+Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into
+force by the Government of India.
+For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or
+notifications, the corresponding provisions of the pre-existing labour enactments (such as The
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The
+Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules)
+shall continue to remain applicable.
+The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:
+All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove;
+and
+All operative provisions of the erstwhile Labour Laws until their complete substitution.
+All obligations relating to wages, social security, safety, working conditions, industrial relations etc.
+and any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-
+compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate
+action in accordance with the contract and applicable law.
+This Bid is governed by the 
+सामाeय
+ 
+िनयम
+ 
+और
+ 
+शतi
+/General Terms and Conditions
+, conditions stipulated in Bid and
+Service Level Agreement
+ specific to this Service as provided in the Marketplace. 
+However in case if any condition
+specified in 
+सामाeय
+ 
+िनयम
+ 
+और
+ 
+शतi
+/General Terms and Conditions is contradicted by the conditions stipulated in
+Service Level Agreement, then it will over ride the conditions in the General Terms and Conditions.
+जेम
+ 
+क
+ 
+सामाeय
+ 
+शत.
+ 
+के
+ 
+खंड
+ 26 
+के
+ 
+संदभ%
+ 
+मC
+ 
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+के
+ 
+बडर
+ 
+से
+ 
+खरद
+ 
+पर
+ 
+4ितबंध
+ 
+के
+ 
+संबंध
+ 
+मC
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+का
+ 
+कोई
+ 
+भी
+ 
+बडर
+ 
+इस
+ 
+िनवदा
+ 
+मC
+ 
+बड
+ 
+देने
+ 
+के
+ 
+िलए
+ 
+तभी
+ 
+पा 
+ 
+होगा
+ 
+जब
+ 
+वह
+ 
+बड
+ 
+देने
+ 
+वाला
+स[म
+ 
+4ािधकार
+ 
+के
+ 
+पास
+ 
+पंजीकृत
+ 
+हो
+।
+बड
+ 
+मC
+ 
+भाग
+ 
+लेते
+ 
+समय
+ 
+बडर
+ 
+को
+ 
+इसका
+ 
+अनुपालन
+ 
+करना
+ 
+होगा
+ 
+और
+ 
+कोई
+ 
+भी
+ 
+गलत
+ 
+घोषणा
+ 
+6कए
+ 
+जाने
+व
+ 
+इसका
+ 
+अनुपालन
+ 
+न
+ 
+करने
+ 
+पर
+ 
+अनुबंध
+ 
+को
+ 
+तlकाल
+ 
+समाm
+ 
+करने
+ 
+और
+ 
+कानून
+ 
+के
+ 
+अनुसार
+ 
+आगे
+ 
+क
+ 
+कानूनी
+ 
+कार%वाई
+ 
+का
+ 
+आधार
+ 
+होगा
+।
+/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---
+धeयवाद
+धeयवाद
+/Thank You---
+23 / 23

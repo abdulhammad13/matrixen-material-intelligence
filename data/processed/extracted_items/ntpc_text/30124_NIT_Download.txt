@@ -1,0 +1,3975 @@
+/0/1/2/3/i255/5/6/7/6/8/9/10/i255/9/2/11/12/13/14/11/9/7/9/15/8/i255/2/12/11/8/16/17
+/1/9/15/10/9/11/i255/18/9/8/16/6/17/19
+/20/21/22/23/i255/25/i255/26/27/28/29/30/31/28/26/32/26/33/i255/32/34/25/32/35/i255/36/37
+/i255/36/38/39/40/22
+/41/16/19/6/13/i255/18/9/8/16/6/17/19
+/42/11/43/16/15/6/19/16/8/6/12/15/i255/3/44/16/6/15/45 /46/36/47/i255/48/39/49/39/22/23/50/51/51/47/52/38/53/52/38/21/22/23/i255/47/23/40/22/38/23/51/51/54/55/55/47/51/51/47/36/56/28/27
+/1/9/15/10/9/11/i255/57/9/58/9/11/9/15/13/9
+/0/14/7/59/9/11 /54/55/55/47/60/61/37/56/60/20/62/60/32/32/32/27
+/1/9/15/10/9/11/i255/63/18 /26/32/26/33/60/45/46/36/47/60/27/27/32/26/27/34/60/27/64 /6 /8/44/10/11/16/65/16/17/i255/66/17/17/12/65/9/10/67 /23/68
+/1/9/15/10/9/11/i255/1/69/70/9/71 /53/23/40/i255/46/23/40/50/23/38/72 /12/11/7/i255/12/58/i255/13/12/15/8/11/16/13/8/55 /23/38/73/39/74/23
+/1/9/15/10/9/11/i255/3/16/8/9/43/12/11/69/55 /23/38/73/39/74/23/68/0 /12 /75/i255/12/58/i255/3/12/76/9/11/19/26
+/77/9/15/9/11/16/17/i255/1/9/13/44/15/6/13/16/17
+/78/76/16/17/14/16/8/6/12/15/i255/66/17/17/12/65/9/10 /67/23/68/i255/79/47/52/49/53/31/39/21/40/74/23/i255/80/23/81/30/39/38/23/50/82 /63/8/9/7/64/6/19/9/i255/1/9/13/44/15/6/13/16/17/i255/78/76/16/17/14/16/8/6/12/15
+/66/17/17/12/65/9/10 /67/23/68
+/2/16/69/7/9/15/8/i255/83/12/10/9/71 /40/31/39/40/23 /63/19/i255/83/14/17/8/6/i255/3/14/11/11/9/15/13/69/i255/66/17/17/12/65/9/10/i255/72/12/11
+/41/42/84 /45/52
+/63/19/i255/83/14/17/8/6/i255/3/14/11/11/9/15/13/69
+/66/17/17/12/65/9/10/i255/72/12/11/i255/72/9/9 /45/52/66 /17/17/12/65/i255/1/65/12/i255/85/8/16/43/9/i255/41/6/10/10/6/15/43/45 /52
+/i255
+/2/16/69/7/9/15/8/i255/63/15/19/8/11/14/7/9/15/8/19
+/42/15/17/6/15/9
+/41/16/15/86/9/11/19
+/85/75/0/12 /41/16/15/86/i255/0/16/7/9
+/27/55 /87/61/i255/87/21/40/88
+/3/12/76/9/11/i255/18/9/8/16/6/17/19/89/i255/0/12/75/i255/42/58/i255/3/12/76/9/11/19/i255/90/i255/91
+/3/12/76/9/11/i255/0/12 /3/12/76/9/11/18 /12 /13/14/7/9/15/8/i255/1/69/70/9/18 /9 /19/13/11/6/70/8/6/12/15
+/27/92 /23/23/93/36/38/23/94/30/21/31/93/46/23/74/95/40/39/74/21/31/96/53/50/97 /36/21/38/22/39/74/39/53/21/40/22/68
+/20/23/22/21/39/31/68
+/96/53/50/97
+/36/62/45/i255/47/21/38/50
+/47/52/53/98/99/i255/56/55/46
+/80/23/100/39/68/22/38/21/22/39/52/40
+/47/52/53/98/99/i255/62/21/50/95/21/38
+/74/21/38/50
+/101/21/53/53/31/39/74/21/102/31/23/i255/39/40
+/74/21/68/23/i255/52/97
+/39/40/50/39/73/39/50/30/21/31/103
+/96/53/50/97
+/47/52/49/53/21/40/98
+/80/23/100/39/68/22/38/21/22/39/52/40/99
+/21/68/i255/49/21/98/i255/102/23
+/21/53/53/31/39/74/21/102/31/23
+/96/53/50/97
+/36/52/104/23/38/i255/52/97
+/62/22/22/52/38/40/23/98/i255/97/52/38
+/21/30/22/95/52/38/39/105/23/50
+/53/23/38/68/52/40/99/i255/21/68
+/49/21/98/i255/102/23
+/21/53/53/31/39/74/21/102/31/23/96
+/26/92 /39/40/21/40/74/23/96 /106/31/68/87 /52/94
+/i255
+/1/9/15/10/9/11/i255/72/9/9/i255/18/9/8/16/6/17/19/89/i255/107/1/12/8/16/17/i255/72/9/9/i255/6/15/i255/108/i255/109/i255/90/i255/110/75/110/110/111
+/1/9/15/10/9/11/i255/72/9/9/i255/6/15/i255/108 /32/96/32/32
+/72/9/9/i255/2/16/69/16/59/17/9/i255/1/12/45 /39/31/72 /9/9/i255/2/16/69/16/59/17/9/i255/66/8/45 /39/31
+/1/9/15/10/9/11/i255/72/9/9
+/78/112/9/7/70/8/6/12/15/i255/66/17/17/12/65/9/10
+/45/52
+/78/83/18 /i255/72/9/9/i255/18/9/8/16/6/17/19
+/78/83/18 /i255/66/7/12/14/15/8/i255/6/15/i255/108/26/35/99/32/32/32/78 /83/18 /i255/78/112/9/7/70/8/6/12/15
+/66/17/17/12/65/9/10
+/45/52
+/78/83/18 /i255/72/9/9/i255/1/69/70/9/97 /39/106/23/50/78 /83/18 /i255/2/9/11/13/9/15/8/16/43/9 /45/62
+/78/83/18 /i255/2/16/69/16/59/17/9/i255/1/12/45 /39/31/78 /83/18 /i255/2/16/69/16/59/17/9/i255/66/8 /45/39/31
+/41/77/i255/57/9/113/14/6/11/9/10/45 /52
+/83/6/15/6/7/14/7/i255/18/6/11/9/13/8
+/78/83/18 /i255/2/16/69/7/9/15/8/i255/6/15/i255/108
+/32/96/32/32
+/i255
+/47/31/39/74/88/i255/22/52/i255/73/39/23/104/i255/49/52/50/39/97/39/74/21/22/39/52/40/i255/95/39/68/22/52/38/98
+/i255
+/64/12/11/86/i255/114/63/8/9/7/115/19/116
+/1/6/8/17/9 /62/53/53/52/39/40/22/49/23/40/22/i255/52/97/i255/20/23/21/31/23/38/68/i255/97/52/38/i255/55/21/31/23/i255/52/97/i255/62/68/95/i255/87/38/39/74/88/68/i255/21/22/i255/45/46/36/47/i255/87/21/38/95/99/i255/117/21/95/21/31/100/21/52/40/i255/21/40/50/i255/117/21/40/22/39
+/64/12/11/86/i255/18/9/19/13/11/6/70/8/6/12/15/62 /53/53/52/39/40/22/49/23/40/22/i255/52/97/i255/20/23/21/31/23/38/68/i255/97/52/38/i255/55/21/31/23/i255/52/97/i255/62/68/95/i255/87/38/39/74/88/68/i255/21/22/i255/45/46/36/47/i255/87/21/38/95/99/i255/117/21/95/21/31/100/21/52/40/i255/21/40/50/i255/117/21/40/22/39
+/2/11/9/i255/84/14/16/17/6/58/6/13/16/8/6/12/15
+/18/9/8/16/6/17/19
+/36/31/23/21/68/23/i255/38/23/97/23/38/i255/46/23/40/50/23/38/i255/50/52/74/30/49/23/40/22/68/96/i255
+/63/15/10/9/70/9/15/10/9/15/8/i255/78/112/8/9/11/15/16/17
+/83/12/15/6/8/12/11/114/57/9/7/16/11/86/19
+/45/62/i255
+/85/44/12/65/i255/1/9/15/10/9/11/i255/118/16/17/14/9/i255/6/15
+/2/14/59/17/6/13/i255/18/12/7/16/6/15
+/45/52/i255
+/119/120/121/122/120/121/123/124/i255/126/127/128/129/i255/130/131/132 /133/130/134/i255/135/136/137/136/138/139/140/i255/139/130/141/142/143/144/141/139/137/139/145/138/i255/130/142/141/138/146/147
+/148/138/138/149/150/127/120/120/139/149/141/142/143/144/141/139/145/138/149/143/151/145/136/143/151/136/145/120/145/136/143/152/139/149/120/146/149/149/153/143/142/137/149/142/145/139/145/138/154/155/121/156/157/136/141/139/143/138/135/136/145/158/159/149/146/152/139/154/133/139/145/140/139/141/134/142/145/160/136/141/137/146/138/136/142/145/159/150/139/141/161/136/143/139/154/140/136/141/139/143/138/159/150/139/150/150/136/142/145/154/133/159/150/149/154/162/163/164/140/141/156/165/166/126/167/150/161/156/144/162/168/122/120/126
+/0/1/2/3/1/4/i255/6/7/8/9/1/i255/10/2/i255/11/12 /13/12/12/14 /4/15/3/9/16/17/i255/18/7/17/1/19/15/4/20/21 /22/23/24/i255/26/i255/27/28/29/22/23/30/31/9/32/i255/16/7/17/1/19/15/4/20/33 /34/i255
+/18/15/2/17/4/7/16/17/i255/0/20/35/1/36 /37/38/39/40/22/41/37/22/40/28/42 /10/3/i255/6/7/8/10/3/10/17/20/43/44/7/20/45/46/47 /48/12/14 /1/4/10/15/3/i255/49/50/i255/51/15/4/52/43/44/7/20/45/46/53/54/55/i255
+/56/15/16/7/17/10/15/2/57 /39/23/29/i255/58/39/29/39/41/59/39/60/40/i255/39/40/61/i255/58/39/40/28/62/14 /10/2/16/15/3/1/63 /64/53/47/53/12/14 /4/1/i255/42/10/3/i255/65/1/1/17/10/2/19/i255/14/8/7/16/1/33 /34/i255
+/14/4/1/i255/42/10/3/i255/65/1/1/17/10/2/19
+/66/3/3/4/1/45/45
+/33/34/i255/14 /4/1/i255/42/10/3/i255/65/1/1/17/10/2/19/i255/44/7/17/1/33 /34/i255/42 /10/3/i255/49/35/1/2/10/2/19/i255/14/8/7/16/1/67 /39/62/38/68/23
+/31/69/15/9/8/3/i255/66/8/8/15/70/i255/71/44/66
+/0/1/2/3/1/4
+/33/60/i255/66 /8/8/15/70/i255/14/4/1/50/1/4/1/2/17/10/7/8
+/42/10/3/3/1/4
+/33/60
+/i255
+/18/4/10/17/10/16/7/8/i255/44/7/17/1/45
+/14/9/32/8/10/45/69/i255/44/7/17/1/48 /53/26/72/68/41/26/48/12/48/54/i255/12/73/74/12/12/i255/34/75/42 /10/3/i255/49/35/1/2/10/2/19/i255/44/7/17/1/47 /12/26/34/68/59/26/48/12/48/54/i255/12/64/74/12/12/i255/76/75
+/44/15/16/9/77/1/2/17/i255/44/15/70/2/8/15/7/3/i255/78/i255/31/7/8/1/i255/31/17/7/4/17
+/44/7/17/1
+/48/53/26/72/68/41/26/48/12/48/54/i255/47/12/74/12/12/i255/34/75/44 /15/16/9/77/1/2/17/i255/44/15/70/2/8/15/7/3/i255/78/i255/31/7/8/1/i255/79/2/3
+/44/7/17/1
+/12/63/26/34/68/59/26/48/12/48/54/i255/12/73/74/12/12/i255/34/75
+/18/8/7/4/10/50/10/16/7/17/10/15/2/i255/31/17/7/4/17/i255/44/7/17/1/48 /53/26/72/68/41/26/48/12/48/54/i255/47/47/74/12/12/i255/34/75/i255 /18/8/7/4/10/50/10/16/7/17/10/15/2/i255/79/2/3/i255/44/7/17/1/12 /55/26/34/68/59/26/48/12/48/54/i255/12/73/74/12/12/i255/34/75/i255
+/42/10/3/i255/31/9/32/77/10/45/45/10/15/2/i255/31/17/7/4/17/i255/44/7/17/1/48 /53/26/72/68/41/26/48/12/48/54/i255/12/47/74/12/12/i255/76/75/42 /10/3/i255/31/9/32/77/10/45/45/10/15/2/i255/79/2/3/i255/44/7/17/1/12 /63/26/34/68/59/26/48/12/48/54/i255/12/73/74/12/12/i255/34/75
+/i255
+/i255
+/0/1/2/3/1/4/i255/44/15/16/9/77/1/2/17/45
+/71/80/0
+/44/15/16/9/77/1/2/17 /31/81/71/15 /44/15/16/9/77/1/2/17/i255/71/7/77/1 /44 /1 /45/16/4/10/35/17/10/15/2 /44/15/16/9/77/1/2/17/i255/31/10/82/1
+/43/10/2/i255/83/42/46
+/47/84 /22/40/61/22/23/40/60/28/62/85/22/86/47/13/38/61/87/84 /22/40/61/22/23/i255/88/60/85/68/37/22/40/28/30 /48/89/53/47/13/48/55
+/i255
+/51/15/4/52/i255/80/17/1/77
+/44/15/16/9/77/1/2/17/45 /31/81/71/15 /44/15/16/9/77/1/2/17/i255/0/20/35/1/44 /15 /16/9/77/1/2/17/i255/71/7/77/1 /44 /1 /45/16/4/10/35/17/10/15/2 /44/15/16/9/77/1/2/17/i255/31/10/82/1
+/43/10/2/i255/83/42/46
+/47/84 /22/40/61/22/23/i255/88/60/85/68/37/22/40/28/30/88 /23/39/87/28/84/22/61/40/61/22/23/88/60/85/68/37/22/40/28/13/38/61/87/84 /22/40/61/22/23/i255/88/60/85/68/37/22/40/28/30 /48/89/47/55/13/63/55
+/48/57 /27/90/57 /27/90/86/47/47/53/64/64/54/13/91/41/30/57 /60/90 /53/47/53/13/12/12
+/i255
+/i255
+/6/10/1/70/i255/92/0/79/i255/44/1/17/7/10/8/45/i255/93/i255/14/94/95/18/96/66/31/79/i255/92/0/79/i255/43/49/0/93/18/49/65 /65 /49/71/46
+/31/81/71/15 /14/7/4/17/10/16/9/8/7/4/45/44 /1 /45/16/4/10/35/17/10/15/2 /79/97/35/1/16/17/1/3
+/6/7/8/9/1 /65/7/2/3/7/17/15/4/20
+/47/13/12/88/60/i255/98/60/68/i255/39/85/85/22/38/28/i255/28/29/22/i255/99/23/39/68/61/i255/76/23/22/24/22/40/28/62/60/40/i255/76/60/41/62/85/98/i255/60/87/i255/33/84/76/100/99/67/34/101/88/i255/76/67/36/102/36/33/84/103/27/33/104 /22/30/104 /22/30
+/48/13/12 /88/60/i255/98/60/68/i255/39/85/85/22/38/28/i255/105/62/28/29/29/60/41/61/62/40/59/i255/39/40/61/i255/57/39/40/40/62/40/59/i255/60/87/i255/57/68/30/62/40/22/30/30
+/88/22/39/41/62/40/59/i255/76/60/41/62/85/98/i255/60/87/i255/33/84/76/100 /57/34/33/33/103/33/106/i255/76/27/107/103/100/104/i255/88/36/100/107/34/67/34/84/103/27/33/104 /22/30/104 /22/30
+/53/13/12 /88/60/i255/98/60/68/i255/85/22/23/28/62/87/98/i255/87/68/41/41/i255/85/60/37/38/41/62/39/40/85/22/i255/60/40/i255/90/68/39/41/62/87/98/62/40/59
+/67/22/108/68/62/23/22/37/22/40/28/30 /90/67/i255/100/27/75/76/107/103/34/33/100/36/104 /22/30/104 /22/30
+/64/13/12 /88/60/i255/98/60/68/i255/85/22/23/28/62/87/98/i255/87/68/41/41/i255/85/60/37/38/41/62/39/40/85/22/i255/28/60/i255/39/41/41/i255/38/23/60/24/62/30/62/60/40/30/i255/60/87/i255/57/62/61
+/61/60/85/68/37/22/40/28/30 /33/27/i255/88/36/102/103/34/84/103/27/33/i255/100/36/67/84/103/99/103/100/34/84/103/27/33/104 /22/30/104 /22/30
+/i255
+/66/9/17/15/i255/79/97/17/1/2/45/10/15/2/i255/18/15/4/4/10/19/1/2/3/9/77/i255/14/4/15/35/1/4/17/10/1/45/i255/50/15/4/i255/0/1/2/3/1/4
+/80/17/1/4/7/17/10/15/2 /71/15/81/i255/15/50/i255/32/10/3/45/i255/4/1/109/9/10/4/1/3/i255/50/15/4/i255/32/10/3/i255/15/35/1/2/10/2/19/i255/7/i255/17/1/2/3/1/4/0 /1/2/3/1/4/i255/19/1/17/45/i255/1/97/17/1/2/3/1/3/i255/17/15/i255/71/15/81/i255/15/50/i255/3/7/20/45
+/47/13 /47/64
+/48/13 /47/64
+/53/13 /47/64
+/i255
+/42/10/3/i255/49/35/1/2/1/4/45/i255/56/10/45/17
+/31/81/71/15 /42/10/3/i255/49/35/1/2/1/4/i255/56/15/19/10/2/i255/80/3/42 /10/3/i255/49/35/1/2/1/4/i255/71/7/77/1 /18 /1/4/17/10/50/10/16/7/17/1/i255/71/7/77/1
+/47/13 /30/110/39/28/39/40/28/23/39/111/68/37/39/23/112/40/28/38/85/13/85/60/13/62/40/21 /110/39/28/39/40/28/23/39/i255/58/68/37/39/23/21 /110/39/28/39/40/28/23/39/i255/58/68/37/39/23
+/48/13 /30/60/68/23/39/113/29/113/39/40/22/23/114/22/22/112/40/28/38/85/13/85/60/13/62/40/21 /60/68/23/39/113/29/i255/57/39/40/22/23/114/22/22/21 /60/68/23/39/113/29/i255/57/39/40/22/23/114/22/22
+/53/13 /30/68/40/40/98/39/59/39/23/110/39/41/112/40/28/38/85/13/85/60/13/62/40/21 /68/40/40/98/i255/34/59/39/23/110/39/41/21 /101/33/33/104/i255/34/106/34/67/105/34/107
+/64/13 /38/23/39/37/60/61/111/68/37/39/23/12/64/112/40/28/38/85/13/85/60/13/62/40/76 /23/39/37/60/61/i255/58/68/37/39/23/76 /23/39/37/60/61/i255/58/68/37/39/23
+/i255
+/i255
+/92/1/65/66/95/14/0/31/i255/44/1/17/7/10/8/45
+/95/1/7/45/15/2/i255/50/15/4/i255/2/15/2/i255/7/115/7/10/8/7/32/10/8/10/17/20/i255/15/50
+/92/1/65/66/95/14/0/31/i255/80/44 /101/23/59/22/40/28/i255/40/39/28/68/23/22/i255/60/87/i255/76/23/60/85/68/23/22/37/22/40/28
+/95/1/77/7/4/52/45 /36/37/38/39/40/22/41/37/22/40/28/i255/100/39/30/22
+/44/15/16/9/77/1/2/17/i255/71/7/77/1 /84 /22/40/61/22/23/88/60/85/68/37/22/40/28/13/38/61/87
+/44/15/16/9/77/1/2/17/i255/31/10/82/1/i255/43/10/2/i255/83/42/46/48 /89/53/47/13/48/55
+/i255
+/0/1/2/3/1/4/i255/14/4/15/35/1/4/17/10/1/45
+/66/9/17/15/i255/0/1/2/3/1/4/10/2/19/i255/14/4/15/16/1/45/45
+/7/8/8/15/70/1/3
+/33/60/31 /69/15/70/i255/0/1/16/69/2/10/16/7/8/i255/32/10/3/i255/45/17/7/17/9/45/33 /60
+/116/117/118/119/117/118/120/121/i255/123/124/125/126/i255/127/128/129 /130/127/131/i255/132/133/134/133/135/136/137/i255/136/127/138/139/140/141/138/136/134/136/142/135/i255/127/139/138/135/143/144
+/145/135/135/146/147/124/117/117/136/146/138/139/140/141/138/136/142/135/146/140/148/142/133/140/148/133/142/117/142/133/140/149/136/146/117/143/146/146/150/140/139/134/146/139/142/136/142/135/151/152/118/153/154/133/138/136/140/135/132/133/142/155/156/146/143/149/136/151/130/136/142/137/136/138/131/139/142/157/133/138/134/143/135/133/139/142/156/147/136/138/158/133/140/136/151/137/133/138/136/140/135/156/147/136/147/147/133/139/142/151/130/156/147/146/151/159/160/161/137/138/153/162/163/123/164/147/158/153/141/159/165/118/117/123
+/0/1/2/3/i255/5/6/7/8/7/9/10/i255/11/6/12
+/13/14/8/14/15/13
+/16/17/18 /0/14/8/19/10/i255/14/2/i255/12/6/13/9/20/2/13/10/i255/21/6/12/i255/22/10/14/8/6/20/13/i255/6/7
+/23/15/11/20/6/9/i255/22/2/24/8/6/7
+/25/17/26/27/28/29/26/30/31/i255/33/29/34/i255/35/36/17/28/29/28/37
+/21/2/38/i255/39/2/24/40/8/41/8/14/6/42/10/i255/39/1/8/41/14
+/24/2/12/10/20
+/43/44/45/46/30/31/21 /2/38/i255/39/2/24/40/8/41/14/6/42/10/i255/9/1/8/41/14/i255/12/10/9/6/24/8/20
+/40/20/8/9/10/13
+/47
+/21/2/38/i255/39/2/24/40/8/41/8/14/6/42/10/i255/39/1/8/41/14
+/48/8/7/49/i255/50/51/40/10
+/52/5 /2/41/24/i255/21/8/13/10/12/i255/21/2/38/43 /44
+/i255
+/50/53/54/i255/55/7/12/10/41/14/8/49/6/7/19
+/56/57/43/44/58/28/34/17/45/59/30/60/29/28/37/i255/59/44/i255/35/45/34/17/45/25 /17/28/34/17/45/i255/26/44/46/36/31/61/29/28/37/i255/62/29/59/27/i255/35/45/34/17/45/63 /17/30/18/44/28/i255/64/44/45/i255/28/44/28/i255/26/44/46/36/31/29/30/28/26/17/i255/44/64/i255/35/45/34/17/45
+/65 /66/66/66/67/68/69/69/i255/35/45/34/17/45/i255/47/70/65/71 /43/44/59/i255/72/36/36/31/29/26/30/73/31/17/74 /46/36/30/28/17/31/31/17/46/28/59
+/47 /68/56/74/18/i255/35/45/34/17/45/i255/47/70/65/47 /43/44/59/i255/72/36/36/31/29/26/30/73/31/17/74 /46/36/30/28/17/31/31/17/46/28/59
+/i255
+/50/10/7/12/10/41/i255/53/7/42/6/14/6/7/19/i255/54/15/14/1/2/41/6/14/51
+/75/8/24/10 /76/77/68
+/54/12/12/41/10/13/13 /43/25/66/78/i255/58/56/56/78
+/i255
+/50/10/7/12/10/41/i255/39/41/10/8/14/2/41/i255/22/10/14/8/6/20/13
+/39/41/10/8/14/10/12/i255/21/51 /79/69/43/72/16/i255/80/58/56/52/81/72/52/72
+/22/10/13/6/19/7/8/14/6/2/7/56 /17/28/29/44/45/i255/68/30/28/30/37/17/45
+/39/41/10/8/14/10/12/i255/22/8/14/10/65 /82/67/83/84/31/67/47/70/47/82/i255/70/85/86/47/82/i255/66/68
+/i255
+/87/88/89/90/88/89/91/92/i255/94/95/96/97/i255/98/99/100 /101/98/102/i255/103/104/105/104/106/107/108/i255/107/98/109/110/111/112/109/107/105/107/113/106/i255/98/110/109/106/114/115
+/116/106/106/117/118/95/88/88/107/117/109/110/111/112/109/107/113/106/117/111/119/113/104/111/119/104/113/88/113/104/111/120/107/117/88/114/117/117/121/111/110/105/117/110/113/107/113/106/122/123/89/124/125/104/109/107/111/106/103/104/113/126/127/117/114/120/107/122/101/107/113/108/107/109/102/110/113/128/104/109/105/114/106/104/110/113/127/118/107/109/129/104/111/107/122/108/104/109/107/111/106/127/118/107/118/118/104/110/113/122/101/127/118/117/122/130/131/132/108/109/124/133/134/94/135/118/129/124/112/130/136/94/88/94
+NTPC LIMITED 
+(A GOVERNMENT OF INDIA ENTERPRISE) 
+Inventory Management Group 
+USSC, NTPC Raipur  
+BID DOCUM
+ENT 
+FOR 
+Appointment of Dealer(s) 
+for  
+“Sale of Ash Bricks”  
+manuf
+actured 
+at 
+NTPC BARH SUPER THERMAL POWER PLANT  
+NTPC KAHALGAON SUPER THERMAL POWER STATION 
+NTPC KANTI THERMAL POWER STATION 
+Through 
+e-Tender at GePNIC Portal
+BIDDING DOCUMENT NO.: USSC_IMG_ASH BRICKS_0001 
+(This document is meant for the exclusive purpose of bidding against this Bid Document Number / Specification and shall not 
+be transferred, reproduced or otherwise used for purposes other than that for which it is specifically issued) 
+Page 1 of 79
+ 
+INVITATION FOR BIDS 
+FOR 
+APPOINTMENT OF DEALER(S)  
+AT NTPC BARH SUPER THERMAL POWER STATION  
+AT NTPC KAHALGAON STPS SUPER THERMAL POWER STATION  
+AT NTPC KANTI TPS SUPER THERMAL POWER STATION  
+FOR SALE OF ASH BRICKS 
+THROUGH  
+e-Tender at GePNIC Portal 
+ 
+ 
+Document Reference Number: USSC_IMG_ASH BRICKS_0001     Date: 21.07.2026 
+ 
+Our Reference: IMG_ASH BRICKS_0001 
+ 
+1. Introduction: 
+NTPC Barh STPP, NTPC Kahalgaon STPS and NTPC Kanti TPS having their Registered Office at 
+NTPC Bhawan, Core – 7, SCOPE Complex, 7, Institutional Area, Lodhi Road, New Delhi – 110003, 
+(henceforth referred to as NTPC Barh STPP / NTPC Kahalgaon STPS / NTPC Kanti TPS / Owner / 
+Seller which expression shall unless repugnant to the context or meaning thereof be deemed to include 
+its successors and permitted assigns) , is actively involved in generating and selling bulk power.  As a 
+byproduct of its power generation operations, NTPC produces approximately 1,050 Lakh MT of ash 
+annually. 
+In a determined effort to enhance the ash utilization, NTPC Barh STPP, NTPC Kahalgaon STPS and 
+NTPC Kanti TPS have ventured into the manufacturing and sale of ‘Ash Bricks’ and operates ‘Ash Brick 
+Manufacturing Plant’ on their premises. The plant s boast an installed production capacity of 20,000  
+bricks per day at NTPC Barh STPP, production capacity of 1,24,000 bricks per day at NTPC Kahalgaon 
+STPS and production capacity of 8,000 bricks per day at NTPC Kanti TPS. These bricks adhere to the 
+quality standards as per IS: 16720: 2018 and fall under Class Designation 7.5. Bricks manufactured at 
+NTPC Barh and NTPC Kanti are also certified by BIS.  
+All NTPC ‘Ash Bricks’ carry the brand name ‘VIKALP.’ Consequently, these bricks will be exclusively 
+sold under the ‘VIKALP’ brand only. 
+To further promote ash utilization through the sale of ‘Ash Bricks’ in the open market, NTPC Barh STPP, 
+NTPC Kahalgaon STPS and NTPC Kanti TPS intends to appoint dealer(s) to sell ‘VIKALP’ brand ‘Ash 
+Bricks’ to enhance customer reach and streamline the sales process. 
+In line with the above, NTPC Barh STPP, NTPC Kahalgaon STPS and NTPC Kanti TPS invites bids 
+from eligible and interested applicant s in becoming NTPC’s authorized dealer(s) for selling ‘VIKALP’ 
+brand ‘Ash Bricks’ manufactured at their premises. 
+ 
+2. Scope of Supply: 
+2.1. NTPC Barh STPP / NTPC Kahalgaon STPS / NTPC Kanti TPS invites bids as specified in the e -
+tender document / bid document for Appointment of Dealer(s) f or “Sale of ‘VIKALP’ brand Ash 
+Bricks” from designated delivery point(s), as detailed in the bid document, on “As Available” basis. 
+2.2. NTPC Barh STPP / NTPC Kahalgaon STPS / NTPC Kanti TPS would be in a position to provide 
+‘VIKALP’ brand ‘Ash Bricks’ from ‘Delivery Points’ subjected to availability, f orce majeure 
+conditions, unplanned outage of Plant, etc. 
+2.3. Dealers shall be authorized to sell  / supply, store and display the ‘VIKALP’ brand ‘Ash Bricks’ as 
+NTPC’s authorized dealer /s. 
+Page 2 of 79
+ 
+2.4. The evaluation and appointment of dealers will be carried out separately for NTPC Barh STPP, 
+NTPC Kahalgaon STPS and NTPC Kanti TPS. However, once the dealers are appointed, they will 
+be granted the right to lift ‘VIKALP’ brand ‘Ash Bricks’ from any operational NTPC station, where 
+Ash Bricks are being manufactured, within the State of BIHAR (at H1 Evaluated Bid Price of ‘Ash 
+Bricks’ at that particular station), subject to the availability of ‘Ash Bricks’ at that station. 
+2.5. Total quantity of ‘Ash Bricks’ available for issue, tentatively, from the NTPC Barh STPP, NTPC 
+Kahalgaon STPS and NTPC Kanti TPS, is as per details given hereunder: 
+Power Stations / Location Product 
+Description 
+Total 
+Quantity 
+Offered 
+Floor price * 
+(INR per Item) 
+Period of 
+Dealership 
+NTPC BARH 
+SUPER THERMAL POWER PLANT 
+Barh, Patna – 803215 
+‘VIKALP’ brand 
+Ash Bricks   5,00,000 INR 4.68 /- 
+per Number 
+One [01] 
+Year 
+NTPC KAHALGAON 
+SUPER THERMAL POWER STATION 
+Kahalgaon, Bhagalpur – 813214 
+‘VIKALP’ brand 
+Ash Bricks 10,00,000 INR 4.20 /- 
+per Number 
+One [01] 
+Year 
+NTPC KANTI 
+THERMAL POWER STATION 
+Muzaffarpur, Bihar – 843102 
+‘VIKALP’ brand 
+Ash Bricks    6,00,000 INR 5.92 /- 
+per Number 
+One [01] 
+Year 
+ 
+2.6. NTPC may also ask the dealer to sell  / supply, store and display other value- added Ash Based 
+Building Material /s at pre decided rates, terms and conditions, if mutually agreed. 
+ 
+3. Bidding details: 
+Detailed conditions and scope of work are given in the bid documents, which can be downloaded fr om 
+the GepNIC Portal: 
+ 
+Bid Document Number USSC_IMG_ASH BRICKS_0001 
+e-Tender Catalogue Number 
+As per the details available at GepNIC Portal  
+Period of availability of bid document 
+Last date and time for submission of 
+documents towards ‘Eligibility for bid 
+Participation’ at GepNIC Portal 
+Price Bid Opening Date and Time at GepNIC 
+Portal 
+(i) Registration at GepNIC Portal To be done well in advance and before the last date of 
+submission of ‘Eligibility for bid Participation’ Documents 
+(ii) Submission of Pre -Bid EMD / Bid 
+Security 
+The Earnest Money Deposit (EMD) shall be through online 
+mode available at GepNIC Portal. 
+In case the Bid Security is deposited by the applicant  / vendor 
+at the tendering portal through e-payment, as applicable, 
+applicant to submit the proof of e-payment of bid security either 
+in separate envelope or in the e-tendering portal. 
+In case acceptable EMD is not received then online Bid shall 
+be rejected by OWNER as being non-responsive and shall not 
+be opened. 
+(iii) 
+Submission of required documents 
+towards ‘Eligibility for bid 
+Participation’ 
+As per the details mentioned in the e -Auction / tender 
+documents. 
+All the documents are to be submitted online at GepNIC 
+Portal 
+Pre-Bid EMD / Bid Security Applicants will be required to deposit a FIXED Earnest Money 
+Deposit (EMD) of INR 25,000 /- for participating in the e-Tender  
+Start Price / Floor Price for Ash Bricks As mentioned at clause 2.5 above. 
+Evaluation Criteria of Bids 
+Evaluated Bid Price (EBP) of the applicants would be 
+determined based on the premium percentage quoted above 
+the Floor Price by the applicants. 
+ 
+All bids must be accompanied by Earnest Money Deposit (EMD), to be submitted online mode available 
+at GepNIC Portal before the deadline stipulated on any account, what-so-ever the respective applicant 
+shall not be allowed to bid under the subject tender at GepNIC portal, NTPC Barh STPP / NTPC 
+Kahalgaon STPS / NTPC Kanti TPS shall not bear any responsibility on this account. Any bid not 
+accompanied by an acceptable Pre-Bid EMD / Bid Security shall be rejected. 
+Page 3 of 79
+ 
+4. Eligibility for Bid Participation: 
+All applicants, fulfilling the following criteria, are eligible to participate in the Sale / Auction process: 
+4.1. Individual / Entrepreneurs / Sole Proprietorships / Partnerships / Limited Liability Partnerships / 
+Consortium / Cooperative Societies / Registered Trust / Government Agencies / Government or 
+Private Companies of India having registered and valid GSTIN and PAN and interested in becoming 
+NTPC’s authorized dealer(s) for selling ‘VIKALP’ brand ‘Ash Bricks’, manufactured by NTPC Barh 
+STPP / NTPC Kahalgaon STPS / NTPC Kanti TPS, shall be eligible to participate in the e-Tender.  
+4.2. are registered as per specified guidelines for registration with GePNIC Portal.  
+4.3. have submitted the Pre-Bid EMD / Bid Security as per the applicable terms and have uploaded the 
+required documents at GePNIC portal before the last day of submission of documents as per clause 
+3 at above and found correct as per terms and conditions of the e-tender / bid document, along 
+with all relevant Annexures duly filled. 
+ 
+5. Documents to be Submitted: 
+Applicants must submit their bids in ‘Single Stage – Two Envelope Format’. The Applicant can 
+quote station wise premium on the ‘Floor Price’ of the ‘Ash Bricks’ for which they are willing to 
+be appointed as Dealer(s).  
+5.1. Technical Bid Requirement:  
+• Participants Details  
+• PAN Card Copy  
+• GST Registration Copy  
+• Aadhar card (applicable in case of individual).  
+• Company Registration, as may be applicable.  
+• Power of Attorney for authorized person, as may be applicable.  
+5.2. The premium must be expressed as a percentage (%) above the reserve price. The percentage 
+must be in multiples of 0.10 % [Zero Point One Zero]. 
+Bids are liable to be rejected if documentation is not complete. 
+Applicants may note that in case they do not accept the GTE conditions, their bids shall be not 
+evaluated and shall be rejected. 
+All the documents are to be submitted in the electronic form  ‘ONLINE’ at M/s GePNIC portal 
+ONLY. 
+Documents of any prospective applicants received offline / through e-Mail / Other means at NTPC 
+Location (s) / NTPC Barh STPP / NTPC Kahalgaon STPS / NTPC Kanti TPS shall  not be 
+entertained and considered by NTPC for evaluation. However, in case of shortfall in the 
+submitted documents, NTPC at its sole discretion, may solicit the shortfall documents from the 
+applicants who have submitted their offer against the subject e-Tender. 
+ 
+6. Submission of Bids: 
+Bids are to be submitted by the applicant online on the GepNIC Portal within the bid submission time as 
+per time schedule indicated in the subject e-Tender. 
+ 
+7. Contact Persons: 
+At NTPC Barh STPP: 
+Name / Designation e-Mail Address 
+Kripal Vijay Ingle, DGM (Ash Utilization) kvingle@ntpc.co.in 
+Anil Kumar Sinha, AGM (Ash Dyke Maintenance) aksinha10@ntpc.co.in 
+ 
+At NTPC Kahalgaon STPS: 
+Name / Designation e-Mail Address 
+S Jesudas Wemston, DGM (Ash Dyke Management) sjesudas@ntpc.co.in 
+Jitendra Tripathi, AGM (Ash Dyke Management) jitendratripathi@ntpc.co.in 
+ 
+At NTPC Kanti TPS: 
+Name / Designation e-Mail Address 
+Pradeep Dhakare, M (Ash Utilization) pdhakare@ntpc.co.in 
+Anand Kumar Jha, AGM (Ash Utilization) anandjha01@ntpc.co.in 
+Page 4 of 79
+ 
+ 
+At NTPC USSC: 
+Name / Designation e-Mail Address 
+Vinay Kushwaha, DGM (IMG) vinaykushwaha@ntpc.co.in 
+Ashish Jain, AGM (IMG) ashishjain@ntpc.co.in 
+ 
+At NTPC Ash – NI: 
+Name / Designation e-Mail Address 
+Bhaskar Anand, SM (Ash – NI) bhaskaranand01@ntpc.co.in 
+Chandrakant Pandey, AGM (Ash – NI) chandrakantpandey@ntpc.co.in 
+ 
+8. Registered Office: 
+NTPC Limited 
+NTPC Bhawan, SCOPE Complex 
+7, Institutional Area, Lodi Road 
+New Delhi – 110003 
+Corporate Identification No.: L40101DL1975GOI007966 
+ 
+ 
+For referring to Invitation for Bids, Bid Documents / e-Tender Document and downloading of the same 
+and online bidding following websites may be referred to https://eprocurentpc.nic.in/nicgep/app 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 5 of 79
+ 
+DEFINITIONS 
+ 
+9. In this contract, the following terms shall be interpreted as: 
+9.1. “The Contract” shall mean the issuance of an award letter including bid documents and 
+amendment thereof which will constitute the formation of the contract. 
+9.2. “Day” means calendar day of the Gregorian Calendar  
+9.3. “Month” means calendar month of the Gregorian Calendar.  
+9.4. “GCC” means General Conditions of Contract contained in this document. 
+9.5. “SCC” means Special Conditions of Contract contained in this document. 
+9.6. “The Dealer” (i.e., successful applicant or awardee) which expression shall unless repugnant to 
+the context or meaning thereof be deemed to include its successors and permitted assigns. 
+9.7. “Effective Date” means the date on which this contract becomes effective (i.e., issue date of Letter 
+of Award [LOA]). 
+9.8. “Owner / Seller / Supplier / Employer” (i.e., NTPC Limited / NTPC Barh STPP / NTPC Kahalgaon 
+STPS / NTPC Kanti TPS) which expression shall unless repugnant to the context or meaning 
+thereof be deemed to include its successors and permitted assigns. 
+9.9. “Arbitration Act” means the Indian Arbitration and Conciliation Act, 1996, as amended and 
+modified from time to time, including any re-enactment thereof. 
+9.10. “Contract Term / Period” means duration of the contract together with any extension period. 
+9.11. “ Delivery Point” means Suitable Locations as decided by NTPC Engineer -In-Charge for the 
+contract. 
+9.12. Dispute / Dispute Notice Refer clause 35 of bid documents. 
+9.13. “Engineer in charge” [EIC] means the officer appointed in writing by NTPC Barh STPP / NTPC 
+Kahalgaon STPS / NTPC Kanti TPS to act as an engineer from time to time. 
+9.14. “Force Majeure” shall have the meaning ascribed to it under clause 37 of bid document. 
+9.15. “Law(s)” means applicable laws, rules, regulations, judgments, decrees, or other legislative 
+measures having the force of law or issued by any government agency, instrumentality, body or 
+legislature, National, State or local authority or a court of competent Jurisdiction. 
+9.16. “Quarter” shall mean a period of 03 months and shall be calculated from the scheduled date of 
+commencement of contract. 
+9.17. “Party” means the owner or the applicant, as the case may be, and “Parties” means both of them. 
+9.18. “Awarded Price / Prevailing Price” 
+Awarded Price” is the price mentioned in the Sale order / Letter of Award. 
+ 
+ 
+Page 6 of 79
+ 
+INSTRUCTIONS TO APPLICANT 
+ 
+10. Introduction 
+NTPC Barh STPP, NTPC Kahalgaon STPS and NTPC Kanti TPS, having their  Registered Office at 
+NTPC Bhawan, Core – 7, SCOPE Complex, 7, Institutional Area, Lodhi Road, New Delhi – 110003 
+(hereinafter called “Owner / Seller”) will sell ‘VIKALP’ brand Ash Bricks manufactured by NTPC Barh 
+STPP / NTPC Kahalgaon STPS / NTPC Kanti TPS from designated “Delivery Point /s” at to eligible and 
+interested applicants  in becoming NTPC’s authorized dealer(s) for selling the ‘VIKALP’ brand Ash 
+Bricks. 
+ 
+11. The Bidding Documents 
+The Bidding Documents comprise of following: 
+• Invitation for Bid 
+• Definitions 
+• Instructions to Applicants 
+• General Conditions of Contract 
+• Scope and Special Conditions of Contract 
+• Forms, Formats and Annexures 
+• NTPC Debarment from Business Dealings Policy  
+• NTPC Fraud Prevention Policy 
+• NTPC Anti-Bribery and Anti-Corruption (ABAC) Policy 
+• NTPC Customer Receipt Portal Help Manual 
+• e- Auction / Tender document / catalogue 
+All pages of the tender documents, except PRICE BID, shall be duly filled and signed by the agency on 
+each page. A bid is liable to be rejected if documentation and signature is not complete. 
+ 
+12. Validity of Bids 
+The applicant shall keep the bid valid for a minimum period of one hundred twenty (120) days from the 
+date of opening of the bid.  In exceptional circumstances the owner may solicit the applicant’s consent 
+for an extension of the bid validity period. When the validity period is extended by the applicant, the same 
+shall be done without any modification to the bid proposal by the applicant. 
+ 
+13. Pre-Bid EMD / Bid Security (EMD) 
+13.1. The applicants will be required to deposit a FIXED Pre-Bid Earnest Money Deposit (EMD) of INR 
+25,000 /- for participating in the e-Tender. 
+13.2. The Pre-Bid EMD / Bid Security shall be deposited online at GepNIC portal as per the procedure 
+outlined at GepNIC portal. 
+13.3. Pre-Bid EMD / Bid Security of unsuccessful applicants shall be returned by NTPC as promptly as 
+possible. 
+13.4. The Pre-Bid EMD / Bid Security of successful applicants (s) shall be returned / adjusted by NTPC 
+against the amount payable by the applicants [only after submission of requisite amount of  
+Security Deposit]. 
+13.5. Withdrawal of bids may result in the forfeiture of the applicant’s Pre-Bid EMD / Bid Security as 
+per Clause 17. 
+13.6. Non-Submission of CPG / SD by the successful applicants within the stipulated time may result 
+in the forfeiture of the applicant’s Pre-Bid EMD / Bid Security. 
+ 
+14. Procedure for registration and payment of Pre-Bid EMD / Bid Security 
+The Pre-Bid EMD / Bid Security shall be deposited online at GepNIC portal as per the procedure outlined 
+at GepNIC portal. 
+ 
+15. Late Bids 
+There is no pr ovision for submission of bids before or after the bid submission period. 
+ 
+16. Bidding Requirement 
+Only registered applicants will be allowed to participate subject to applicant meeting the bid requirements 
+Page 7 of 79
+ 
+as per Clause 4 of ‘Invitation for Bid’ section of this document. 
+The bid including all documents uploaded in the on -line bid shall be digitally certified by a duly 
+authorised representative of the applicant to bind him to the contract using Class II or Class -III digital 
+signature (in the name of designated individual with Organisation name). The Digital Signature shall 
+be as per Indian IT Act from the licensed Certifying Authorities (CA) operating under the Root Certifying 
+Authority of India (RCAI) namely Controller of Certifying Authorities (CCA) of India.  
+Price shall be submitted in the sheets provided as part of the bid documents. The Price Bid should be 
+submitted in the electronic form only through e-Tendering system. Applicant has to ensure that their bid 
+submission is complete in all respect before the last date and time for bid submission. 
+Applicants shall necessarily submit the prices on-line in the Bill of Quantity (BOQ) only. For preparation 
+of the “Price Bid”, applicants are expected to take into account the requirements and conditions of the 
+bidding documents. The Price Bid shall be made in the ‘BOQ’ (excel file) only of Bidding Documents. 
+Applicants may note that in case they do not accept the GTE conditions, their bids shall be not 
+evaluated and shall be rejected. 
+ 
+17. Modification and Withdrawal of Bids 
+The applicant may modify or withdraw its bid after submission prior to the deadline prescribed for bid 
+submission at GepNIC Portal. In case of withdrawal a letter giving the reason for withdrawal is to be 
+uploaded. Once a bid is withdrawn, the bid cannot be resubmitted. 
+No bid may be withdrawn / modified in the interval between the bid submission deadline and the 
+expiration of the bid validity period. Withdrawal  / Modification of a bid during this interval may result in 
+the applicant’s forfeiture of its Earnest Money Deposit. 
+ 
+18. Nil Deviation 
+No deviation, whatsoever, is permitted by the Owner to any  provision of Bidding Documents. The 
+applicants are advised that while making their Bids and quoting prices, all conditions are appropriately 
+taken into consideration. Applicants shall certify their compliance to the complete e-Tender / Bidding 
+Documents as per Certificate at  Annexure – 03 by accepting the following General Technical 
+Evaluation (GTE) of the Tender: 
+“Do you certify full compliance to all provisions of Bid Doc?” 
+Applicants may note that in case the applicants refuse to withdraw additional conditions / deviations / 
+variations / exception, implicit or  explicit, found anywhere in the techno -commercial bid, the bid shall  
+be rejected as Technically non-responsive. 
+Applicants may also note that any deviation  / variation in any form in the Price Bid shall result in 
+forfeiture of EMD. 
+ 
+19. Opening of Bids  
+19.1. Techno - Commercial Bid Opening 
+The Owner  will first open the Techno- Commercial Bid in the  presence of applicants 
+representatives who choose to attend the opening at the time, on the date and at the place 
+specified in the tender enquiry/NIT. In the event of the specified date for the opening of bids being 
+declared a holiday for owner, the bids will be opened at the appointed time on the next working 
+day. All important information and other such details as owner , at its  discretion, may consider 
+appropriate, will be announced at the opening. 
+Based on the Earnest Money Deposit  / EMD, Authority / Power Attorney to sign the bid, owner 
+shall allow only those on line bids to be opened whose Pre-Bid EMDs have been received in 
+NTPC and are adequate and acceptable as per conditions of the bid document. 
+19.2. Price Bid Opening 
+After the evaluation process of Techno-Commercial bid is completed, owner will inform by email 
+the eligible applicants regarding date and time set for the opening of Price Bid. Applicants, whose 
+Techno-Commercial Bid is not substantially responsive, their Technical Bid shall be rejected and 
+their Price bid will also be rejected and shall not be opened and their Earnest Money Deposit shall 
+be returned. 
+Price bids of those applicants, who have been considered qualified and whose Techno -
+commercial Bid is found to be responsive, will be opened online in presence of the applicant  
+authorized representatives who choose to attend. 
+Page 8 of 79
+ 
+The participating applicants will be able to view the bid prices of all the applicants after online 
+opening of Price Bids by owner on the e-tender portal. 
+ 
+20. Bidding Schedule 
+The schedule for submitting the bids is as mentioned in the e-tender catalogue / in the bid document at 
+Clause 3.0 of the invitation for bid or as amended and informed to applicants from time to time on the e-
+tender website. 
+ 
+21. Owner’s Right to accept any Bid or to Reject Any or All Bids 
+Notwithstanding anything mentioned above, the o wner reserves the right to accept or  reject any bid, 
+either in full or in part or to annul the bidding process and reject all bids at any time prior to allocation of 
+quantity without assigning any reason thereof. 
+No contract shall be awarded to an applicant against whom a Debarment Order has been issued as per 
+owner’s Policy for Debarment from Business Dealings. 
+ 
+22. Owner’s Right to Adjust the Quantity during Period of Dealership 
+The owner reserves the right to adjust the quantity at any point of time during the dealership period  
+which NTPC Barh STPP / NTPC Kahalgaon STPS / NTPC Kanti TPS may not be able to provide to the 
+applicant for lifting for any reason whatsoever. 
+ 
+23. Contract Performance Guarantee (CPG) / Security Deposit (SD) 
+23.1. On appointment of Dealer(s), each finalized Dealer has to submit a Security Deposit amounting 
+INR 1,00,000 /- for each of the NTPC Station, within 15 days of issue of Letter of Intent and before 
+taking first delivery in the form of e-Payment at NTPC’s Customer Payment Portal. 
+23.2. Failure of the successful applicant to comply with the requirement of Submission of Security 
+Deposit within the prescribed time shall constitute sufficient grounds for the annulment of the 
+allocation order and forfeiture of the Pre Bid-EMD / Bid Security. Further, such applicant / buyer 
+shall also be dealt with as per the provisions of policy for Debarment from Business Dealings. 
+23.3. For commencement of supplies, submission of acceptable SD is a precondition. 
+23.4. Security Deposit (SD) shall be released within 90 (Ninety) days after completion of the dealership 
+period.  
+23.5. No interest is payable either of advance deposit or on SD.  
+ 
+24. Notice 
+Any notice, request, or consent sought pursuant to the tender shall be in writing and shall be deemed to 
+have been made when delivered in person to an authorized representative of the owner or applicant to 
+whom the communication is addressed, or when sent by e-Mail, speed post, telex, telegram, or facsimile 
+to such party i.e., the owner or the applicant. 
+ 
+25. Understanding and Clarification of Bid Documents 
+25.1. The applicant is expected to carefully examine the Bid documents and fully satisfy himself  as to 
+all the conditions and matters, which may in any way affect the work or the cost  thereof. If any 
+applicant finds discrepancies or omissions in the Bid documents or is in doubt as to the true intent 
+or meaning of any part thereof, he shall at once request in writing to the owner for an interpretation 
+/ clarification of the Bid documents. However, such a request must reach the owner seven days 
+before the start of bid opening otherwise, the request for clarification shall not be entertained. After 
+the receipt of such interpretation or clarifications, the applicant shall submit his Bid but within the 
+time and date as specified in the invitation to Bid. All such interpretation and clarification shall form 
+a part of the Bid documents. 
+25.2. Verbal cl arifications and information given by the owner, or its employees or representatives, shall 
+not be in any way binding on the owner. 
+ 
+26. Award for Appointment of Dealers 
+26.1. The owner will issue an Award letter (Model Award letter at Annexure – 09) for Appointment of 
+Dealer for “Sale of Ash Bricks” from designated delivery point(s)  in writing to the successful 
+applicants. The successful applicant shall return a copy of the Letter of Award, duly signed and 
+Page 9 of 79
+ 
+stamped, as a token of their acknowledgement. 
+26.2. The applicant would be required to comply with all requirements of the notification of allocation 
+without any extra cost to the owner, failing which his Pre-Bid EMD / Bid Security may be forfeited. 
+ 
+27. Bid Proposal Schedule 
+27.1. Applicants are to quote online their premium on the ‘Floor Price’ of the ‘Ash Bricks’ for each of the 
+NTPC Stations for which they are willing to be appointed as Dealer(s).  
+27.2. Bid shall be complete in all respects and shall be submitted with requisite information and 
+Attachments. It shall be free from any ambiguity. 
+ 
+28. Check List 
+28.1. The applicants are requested to duly fill in the check list and applicants’ details enclosed at Annexure – 01 
+and Annexure – 02. 
+28.2. The checklist gives only certain important items, to facilitate the applicant to make sure that necessary data 
+/ information is provided by him in this proposal. This, however, does not relieve the applicant of his 
+responsibility to make sure that his proposal is otherwise complete in all respects. 
+28.3. All documents submitted shall be duly self-certified by the participant as being true and authentic. 
+Bids are liable to be rejected if documentation is not complete. 
+ 
+29. Deviation 
+29.1. Any deviation taken in the terms and conditions of the e tender catalogue / Bid Documents by the 
+applicant will not be allowed to bid online (Annexure – 03) 
+29.2. Submission of a bid by a applicant at GepNIC portal deems acceptance to all the terms and 
+conditions of the bidding document by them, without any deviations. 
+ 
+30. ADHERENCE TO FRAUD PREVENTION POLICY  
+The applicant / buyer along with its associate / collaborators / subagencies/ sub-vendors / consultants / 
+service providers shall strictly adhere to the Fraud Prevention Policy of owner displayed on its website 
+http://www.ntpctender.com The applicant  shall immediately apprise the owner  about any fraud or 
+suspected fraud as soon as it comes to their notice. 
+Applicants shall certify their compliance to the Fraud Prevention Policy of NTPC as per Certificate at 
+Annexure – 04 by accepting the following General Technical Evaluation (GTE) of the e-Tender: 
+“Do you accept the Fraud Prevention Policy of NTPC?” 
+If in terms of the above policy, it is established that the applicant / his representatives have committed 
+any fraud while competing for this contract then the owner shall be entitled to disqualify the applicant(s) 
+from the bidding process and forfeit the Earnest Money Deposit. In addition to the above, if the applicant 
+has committed a fraud such as to put his reliability or credibility into question, the owner shall be entitled 
+to exclude including blacklist and put the applicant on holiday for any future tenders / contracts award 
+process. 
+ 
+DECLARATION ON DEBARMENT FROM BUSINESS DEALINGS POLICY 
+The owner  has in place a Policy for Debarment from Business dealings displayed on the website 
+www.ntpc.co.in / www.ntpctender.ntpc.co.in. Business dealings may be withheld or banned with the 
+applicant / dealer on account of any of the grounds and following the procedures as detailed in the said 
+Policy for Debarment from Business Dealings.  
+Applicants shall submit the Declaration on Debarment from Business Dealings of NTPC as per the 
+certificate at Annexure – 05 by accepting the following General Technical Evaluation (GTE) of the 
+Tender: 
+“Do you accept Debarment from Business Dealings Policy of NTPC?” 
+The version of Policy for Debarment from Business Dealings presently followed by NTPC is Rev-4. 
+ 
+DECLARATION ON NTPC ANTI-BRIBERY AND ANTI-CORRUPTION (ABAC) POLICY 
+The Owner has in place a policy for ‘Anti-Bribery and Anti-Corruption (ABAC)’ as displayed on its website 
+https://ntpc.co.in/sustainability/policies/governance.  
+The Applicant and its employees along with its Associate/ Collaborator/ Sub-Contractors / Sub-Vendors 
+Page 10 of 79
+ 
+/ Consultants / Service Providers and all other persons associated with business of owner shall strictly 
+adhere to AntiBribery and Anti -Corruption (ABAC) Policy of owner  displayed on tender website 
+https://ntpctender.ntpc.co.in/. 
+Applicants shall certify their compliance to the ‘Anti-Bribery and Anti-Corruption (ABAC) Policy of NTPC’ 
+as per Annexure – 06 by accepting the following General Technical Evaluation (GTE) of the e-Tender: 
+“Do you accept the Anti-Bribery and Anti-Corruption (ABAC) Policy of NTPC?’” 
+ 
+ 
+ 
+Any kind of deposit in NTPC account w.r.t. Sale Price / Contract Performance Guarantee (CPG) / 
+Security Deposit (SD) shall be through NTPC Customers Payment Receipt Portal only. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 11 of 79
+ 
+GENERAL CONDITIONS OF CONTRACT  
+ 
+31. Acquaintances of local conditions: 
+It will be imperative for the applicant to fully inform himself of all local conditions, legal requirements and 
+factors which shall have any effect on the execution of the agreement / Sale work  covered under these 
+documents and specifications. 
+ 
+32. Language of the Contract 
+All bids shall be submitted in English Language. 
+ 
+33. Confidentiality 
+33.1. Information relating to the examination, clarification, evaluation, and comparison of bids, and 
+recommendations for allocation shall not be disclosed to applicant s or any other person not 
+officially concerned with such process. 
+33.2. Any effort by the applicant to influence the owner in the owner’s bid evaluation, bid comparison, or 
+allocation decisions may result in the rejection of the applicant’s bid. 
+33.3. From the time of bid opening to the time of allocation, if any applicant wishes to contact the Supplier 
+on any matter related to its bid, it should do so in writing. 
+ 
+34. Examination of Bids and Determination of Responsiveness 
+34.1. The owner  will examine the bids to determine whether they are complete, whether any 
+computational errors have been made, whether the documents have been properly signed, and 
+whether the bids are generally in order. 
+34.2. The owner may waive any minor informality, nonconformity, or irregularity in a bid that does not 
+constitute a material deviation, provided such waiver does not prejudice or affect the relative 
+ranking of any applicant. 
+ 
+35. Settlement of Disputes 
+35.1. Mutual Consultation: 
+If any dispute of any kind whatsoever shall arise between the Owner and the Applicant  in 
+connection with or arising out of the Contract, including without prejudice to the generality of the 
+foregoing, any question regarding its existence, validity or termination, or the execution of the 
+Facilities, whether during the progress of the Facilities or after their completion and whether 
+before or after the termination, abandonment or breach of the Contract, the parties shall seek to 
+resolve any such dispute or difference by mutual consultation. 
+On reference of such a dispute by either party, the Owner shall invite the Applicant for mutual 
+consultation, within seven (07) working days of such reference.  
+Without admitting the Owner liability, the Owner may obtain, within 30 days of such reference of 
+the dispute, further details from the Applicant and examine it relating to the dispute. Such 
+examination (if any) by the Owner shall not be construed as or imply acceptance of the claim or 
+liability or accuracy or completeness of the details set forth in such request or reference. The 
+Owner may hold discussions with Applicant with an effort to resolve the dispute. 
+If the parties fail to resolve such a dispute or difference by mutual consultation within a period of 
+forty-five (45) days from the date of receipt of reference of such dispute or within such extended 
+period as the parties shall agree in writing, then the dispute may be settled through Independent 
+Engineer (if applicable) and/ or Mediation through Independent External Monitors (if applicable) 
+and/or through Conciliation and/or Arbitration (if applicable) / other remedies available under the 
+applicable laws. 
+Notwithstanding anything contained in any other law for the time being in force, the parties shall 
+keep confidential all matters relating to the Mutual consultation proceedings. Confidentiality shall 
+extend also to any agreement reached during Mutual consultation, except where its disclosure is 
+necessary for purposes of implementation and enforcement. 
+The parties shall not rely on or treat as evidence in Independent Engineer / Mediation/ Conciliation 
+/ and in any way Arbitral or Judicial proceedings, whether or not such proceedings relate to the 
+dispute that is the subject of the Mutual consultation proceedings: 
+Page 12 of 79
+ 
+a) views expressed or suggestions made by the other party in respect of a possible settlement 
+of the dispute; 
+b) admissions made by the other party in the course of the mutual consultation proceedings; 
+c) the fact that the other party had indicated his willingness to accept a proposal for mutual 
+settlement. 
+35.2. Resolution of Dispute through Independent Engineer (IE) 
+Not Applicable 
+35.3. Mediation through Independent External Monitors (IEMs) 
+Not Applicable 
+35.4. Resolution of Dispute through Conciliation 
+If the parties fail to resolve such a dispute or difference by mutual consultation and through 
+Independent Engineer (if applicable) and/or through Mediation (if applicable) within a period as 
+specified at clause 35.1, 35.2 and 35.3 above, the dispute if the parties agree, may be referred to 
+Conciliation 
+(i) For cases where the disputed amount (Claim / Counter claim, whichever is higher) is upto 
+INR 25 Cr. (excluding interest), the matter for conciliation shall be referred to Expert 
+Settlement Council (ESC), constituted by the Owner. 
+(ii) For cases where the disputed amount (Claim / Counter claim, whichever is higher) is above 
+INR 25 Cr. (excluding interest), the matter for conciliation shall be referred to Conciliation 
+Committee of Independent Experts (CCIE), constituted by Ministry of Power (MoP). 
+If the claim / Counter -claim is in foreign currency, the SBI Bills Selling Exchange rate prevailing 
+on the date of claim shall be used for the purpose of converting the claim in Indian Rupee 
+The Conciliation process shall be conducted as per Part III of the Arbitration and Conciliation Act, 
+1996. 
+35.4.1. Resolution of Dispute through Expert Settlement Council (ESC), constituted by the Owner 
+{For cases with Disputed amount (Claim / Counter claim, whichever is higher) upto INR 25 
+Crore excl. interest} 
+If the parties fail to resolve such a dispute or difference by mutual consultation and 
+through Independent Engineer (if applicable) and/or through Mediation (if applicable) 
+within a period specified at Clause 35.1, 35.2 and 35.3 above, the dispute, if the parties 
+agree, may be referred to Conciliation through Expert Settlement Council (ESC), in cases 
+where the Disputed amount (Claim / Counter claim, whichever is higher) is upto INR 25 
+crore (excluding interest). 
+35.4.1.1. Invitation for Conciliation through ESC: 
+35.4.1.1.1. A party shall notify the other party in writing about such a dispute it 
+wishes to refer for Conciliation through ESC within a period of 15 
+days from the date of failure to resolve the dispute through Mutual 
+Consultation and Independent Engineer (if applicable) and/or 
+through Mediation (if applicable) within a period as specified at 
+clause 35.1, 35.2 and 35.3 above. Such Invitation for Conciliation 
+shall contain sufficient information as to the dispute to enable the 
+other party to be fully informed as to the nature of the dispute, 
+amount of the monetary claim, if any, and apparent cause of action 
+35.4.1.1.2. Upon acceptance of the invitation to conciliate, the other party shall 
+submit its counter claim, if any, within a period of 15 days from the 
+date of the invitation to conciliate. If the other party rejects the 
+invitation or Disputed amount (Claim / Counter claim, whichever is 
+higher) exceeds INR 25 crore (excluding Interest), there will be no 
+Conciliation proceedings through ESC. 
+There shall be no Conciliation where disputed amount (Claim/ 
+Counter claim, whichever is higher excl. interest) is only up to INR 
+5 lakhs. 
+35.4.1.1.3. If the party initiating Conciliation does not receive a reply within 
+fifteen (15) days from the date on which it sends the invitation, or 
+within such other period of time as specified in the invitation, it shall 
+treat this as a rejection of the invitation to conciliate from the other 
+party. 
+Page 13 of 79
+ 
+35.4.1.2. Conciliation through ESC: 
+35.4.1.2.1. Where Invitation for Conciliation has been furnished under GCC 
+sub clause 35.4.1.1, the parties shall attempt to settle such dispute 
+through Expert Settlement Council (ESC) which shall be constituted 
+by CMD/Chairman of the Owner 
+35.4.1.2.2. ESC will be formed from experts comprising three members from 
+the panel of Conciliators maintained by the Owner. However, there 
+will be single member ESC for disputes involving disputed amount 
+(Claim / Counter claim, whichever is higher excl. interest) is up to  
+INR 1 crore. 
+CMD / Chairman of the Owner shall have the authority to 
+reconstitute the ESC to fill any vacancy. 
+35.4.1.2.3. The ESC shall be amongst Civil Servants of Govt. of India retired 
+from the level of Joint Secretary and above, Retired Judges, 
+Officers retired from the level of Executive Director and above of 
+any Maharatna / Navratna company in India, other than NTPC Ltd, 
+Retired Independent Directors who have served on the Board of 
+any Maharatna / Navratna company in India, other than NTPC Ltd. 
+35.4.1.3. Proceedings before ESC: 
+35.4.1.3.1. The claimant shall submit its Statement of Claims (SOC) along with 
+relevant documents to ESC members, and to the party(s) indicated 
+in the appointment letter within 15 days of appointment of ESC. The 
+respondent shall file its reply/Statement of Defence (SOD) and 
+counter claim (if any) within 15 days of the receipt of the Statement 
+of claims. Each party shall send a copy of such Statement along 
+with relevant documents to the other party. 
+Parties may file their rejoinder/additional documents, if any in 
+support of their Claim / Counterclaim within next 7 days. No 
+documents shall be allowed thereafter, except with the permission 
+of ESC. 
+35.4.1.3.2. The parties shall file their claim and counterclaim in the following 
+format 
+a. Chronology of the dispute 
+b. Brief of the contract 
+c. Brief history of the dispute 
+d. Issues 
+Sl. 
+No. 
+Description of Claims / 
+Counter claims 
+Amount (in foreign 
+currency / INR) 
+Relevant 
+Contract Clause 
+    
+    
+ 
+e. Details of Claim(s) / Counter Claim(s) 
+f. Basis / Ground of claim(s) / counter claim(s) (along with relevant 
+clause of contract 
+Note: Statement of claims shall be restricted to a maximum limit of 
+20 pages. 
+35.4.1.3.3. In case of 3 members ESC, 2 members will constitute a valid 
+quorum and the meeting can take place to proceed in the matter 
+after seeking consent from the member who is not available. 
+However, ESC recommendations will be signed by all the 
+members. 
+If required, meetings can be conducted through video 
+conferencing/other digital means subject to the agreement between 
+the parties and the ESC. 
+35.4.1.3.4. The parties shall be represented by their in house employees. No 
+party shall be allowed to bring any advocate or outside consultant / 
+advisor / agent to contest on their behalf. Ex -officers of Owner’s 
+Organization who have handled the subject matter in any capacity 
+shall not be allowed to attend and present the case before ESC on 
+Page 14 of 79
+ 
+behalf of Applicant. However, ex -employees of parties may 
+represent their respective organizations. Parties shall not claim any 
+interest on claims / counter-claims from the date of notice invoking 
+Conciliation till execution of settlement agreement, if so arrived. In 
+case, parties are unable to reach a settlement, no interest shall be 
+claimed by either party for the period from the date of notice 
+invoking Conciliation till the date of ESC recommendations and 30 
+days thereafter in any further proceeding. 
+35.4.1.3.5. ESC will conclude its proceedings in maximum 5 meetings and give 
+its recommendations within 90 days from the date of reference to 
+ESC. ESC will give its recommendations to both the parties 
+recommending possible terms of settlement. CMD / Chairman of 
+the Owner may extend the time/number of meetings, in exceptional 
+cases, if ESC requests for the same with sufficient reasons and as 
+agreed by the parties. 
+35.4.1.3.6. Depending upon the location of ESC members and the parties, the 
+venue of the ESC meeting shall be either Delhi / Mumbai / Kolkata 
+/ Chennai or any other city whichever is most economical from the 
+point of view of travel and stay etc. All the expenditure incurred in 
+ESC proceedings shall be shared by the parties in equal proportion. 
+35.4.1.4. Fees and Facilities to the Members of the ESC  
+The cost of Conciliation proceedings including but not limited to fees for 
+Conciliator, Airfare, Local transport, Accommodation, cost towards conference 
+facility etc shall be as provided herein below: 
+Sl .No. Fees / Facility Entitlement 
+1 Fees Lumpsum fee of INR 2,50,000 per conciliator irrespective of 
+the no. of meetings * 
+2 Secretarial expenses INR 10,000 /- lump sum (to 1 member only). 
+3 Transportation in the 
+city of the meeting Car as per entitlement or INR 2,000 /- per day 
+4 Venue for meeting OWNER’S conference rooms 
+Facilities to be provided to the out-stationed member 
+5 
+Travel from the city 
+of residence to the 
+city of meeting 
+As per entitlement of Independent Directors. Executive class 
+air tickets / first class AC train tickets/ Luxury car/ 
+reimbursement of actual fare. However, entitlement of air 
+travel by Business class shall be subject to austerity 
+measures, if any, ordered by Govt of India. 
+6 
+Transport to and fro 
+airport / railway 
+station in the city of 
+residence 
+Car as per entitlement or INR 3,000 /- 
+7 Stay for out 
+stationed members As per entitlement of Independent Directors. 
+8 Transport in the city 
+of meeting Car as per entitlement or INR 2,000 /- per day 
+ 
+* Due to unavoidable circumstances, if there is requirement of more than 5 
+meeting to conclude the Conciliation proceedings, the same may be done 
+at the discretion of ESC within the capping of fee of INR 2.5 Lakhs per 
+conciliator. However, logistic arrangements, including travel, etc. may be 
+provided as per the extant Policy for such additional sittings. 
+Aforesaid fees is subject to revision by Owner from time to time and subject to 
+government guidelines on austerity measures, if any. All the expenditure 
+incurred in the ESC proceedings shall be shared by the parties in equal 
+proportions. The Parties shall maintain the account of expenditure and present 
+to the other for the purpose of sharing on conclusion of the ESC proceedings. 
+35.4.1.5. If recommendations/ report of ESC is acceptable to both the parties, a 
+Settlement Agreement under Section 73 of the Arbitration and Conciliation Act, 
+1996 will be signed to the extent agreed by the parties within 15 days of 
+acceptance by the parties and same shall be authenticated by all the ESC 
+members. 
+Parties are free to terminate Conciliation proceedings at any stage as provided 
+under the Arbitration and Conciliation Act 1996. 
+Page 15 of 79
+ 
+35.4.1.6. Notwithstanding anything contained in any other law for the time being in force, 
+the Conciliator and the parties shall keep confidential all matters relating to the 
+Conciliation proceedings. Confidentiality shall extend also to the settlement 
+agreement, except where its disclosure is necessary for purposes of 
+implementation and enforcement. 
+The parties shall not rely on or introduce as evidence in Arbitral or judicial 
+proceedings, whether or not such proceedings relate to the dispute that is the 
+subject of the Conciliation proceedings, — 
+a. views expressed or suggestions made by the other party in respect of a 
+possible settlement of the dispute; 
+b. admissions made by the other party in the course of the Conciliation 
+proceedings; 
+c. proposals made by the Conciliator; and 
+d. the fact that the other party had indicated his willingness to accept a proposal 
+for settlement made by the Conciliator. 
+35.4.2. Resolution of Dispute through Conciliation Committee of Independent Experts (CCIE), 
+constituted by Ministry of Power (MoP) {For cases with Disputed amount (Claim/ Counter 
+claim whichever is higher) above INR 25 Crore excl. interest} 
+If the parties fail to resolve such a dispute or difference by mutual consultation and through 
+Independent Engineer (if applicable) and/or through Mediation (if applicable) within a 
+period specified at Clause 35.1, 35.2, 35.3 above, the dispute, if the parties agree, may be 
+referred to Conciliation Committee of Independent Experts (CCIE), in cases where the 
+Disputed amount (Claim/ Counter claim whichever is higher) is above INR 25 crore excl. 
+interest. 
+35.4.2.1. Invitation for Conciliation through CCIE: 
+35.4.2.1.1. A party shall notify the other party in writing about such a dispute it 
+wishes to refer for CCIE within a period of 15 days from the date of 
+failure to resolve the dispute through Mutual Consultation and 
+Independent Engineer (if applicable) and/or through Mediation (if 
+applicable) within a period as specified at Clause 35.1, 35.2 and 
+35.3 above. Such Invitation for Conciliation shall contain sufficient 
+information as to the dispute to enable the other party to be fully 
+informed as to the nature of the dispute, amount of the monetary 
+claim, if any, and apparent cause of action. 
+35.4.2.1.2. If the party initiating Conciliation does not receive a reply within 
+fifteen (15) days from the date on which it sends the invitation, or 
+within such other period of time as specified in the invitation, it shall 
+treat this as a rejection of the invitation to conciliate from the other 
+party. 
+35.4.2.2. Conciliation Committee of Independent Experts: 
+35.4.2.2.1. Where Invitation for Conciliation has been consented to under GCC 
+sub clause 35.4.2.1, the same shall be referred to the Conciliation 
+Committee of Independent Experts (CCIE) within 30 days. 
+Conciliation Committees of Independent Experts (CCIE) have been 
+constituted and notified by MoP for settlement of disputes arising in 
+the Contract. There are three CCIEs, as specified in Special 
+Conditions of Contract  
+35.4.2.2.2. The Applicant may select three CCIEs, in priority order, from the list 
+of CCIEs enclosed with the Special Conditions of Contract, for 
+finalization by Central Electricity Authority (CEA). 
+There shall not be any conflict of interest for the members of the 
+CCIE due to their past assignments. Individuals CCIE members 
+shall submit an undertaking in this regard to the Owner , prior to 
+appointment. It shall be ensured that they have not been engaged 
+for providing any services to any of the parties i.e. either Owner or 
+the Applicant in the last five years. An Undertaking in this regard, 
+shall also be furnished by the Applicant for the purpose of avoiding 
+any conflict of interest. 
+Page 16 of 79
+ 
+35.4.2.3. Proceedings before CCIE: 
+35.4.2.3.1. The procedure of CCIE shall not be treated as alternate arbitration 
+proceedings where both parties come with Statement of 
+claims/defence, arguments/counter arguments, rejoinders, written 
+submissions etc., aided by their respective lawyers. 
+35.4.2.3.2. The parties shall be brief and to the point before the Committee with 
+regard to their respective stance and view the exercise in the spirit 
+of conciliation/settlement. 
+35.4.2.3.3. The possibility of non- availability of any one of the members of 
+CCIE in any proceedings cannot be ruled out. As such, the 
+Committee comprising the other two members shall be competent 
+to proceed in the matter. The proceedings of the Committee shall 
+not be vitiated if one of the three members of CCIE is not present 
+in the deliberations of the Committee. When the parties sign the 
+settlement agreement, at least two members of CCIE shall 
+authenticate the same. Such conciliation proceedings shall be 
+considered valid and the settlement agreement will be binding on 
+the parties. 
+35.4.2.3.4. The parties shall be represented by their in house employees. No 
+party shall be allowed to bring any advocate or outside 
+consultant/advisor/agent to contest on their behalf. Ex- officers of 
+Owner’s Organization who have handled the subject matter in any 
+capacity shall not be allowed to attend and present the case before 
+CCIE on behalf of the Applicant. However, ex-employees of parties 
+may represent their respective organizations. 
+35.4.2.3.5. The Conciliation proceedings shall be completed in each case 
+through 5 sittings in a period of not more than three months from 
+the date the reference made to the CCIE. In exceptional cases, if 
+any dispute so merits, the time period may be extended at the 
+discretion of Conciliation Committee (with reasons to be recorded 
+in writing), for a further period of three months. 
+35.4.2.3.6. The CCIE shall hold day to day sitting at a suitable place (preferably 
+the headquarter of the Owner or New Delhi) and may hold as many 
+sittings every month as it deems appropriate keeping in view the 
+volume of work. 
+35.4.2.4. Fees and Facilities to the Members of the CCIE 
+Each member of CCIE would be paid a sum of  INR 50,000/- as sitting fee per 
+sitting. In addition, INR 5,000/- per sitting will be paid for local transport charges 
+for each day of proceeding. 
+In case, a particular dispute requires more than 5 sittings, the same may be held 
+at the discretion of the CCIE but with a cap on payment of fee for 5 sittings only. 
+The local transport charges shall, however, be paid as provided for each day of 
+sitting beyond the 5 sittings. 
+All expenditure incurred on the conciliation proceedings including payment of 
+fees to the Conciliators, office space, logistic, secretarial assistance and other 
+incidental expenses etc. shall be borne by the Owner initially. Thereafter it shall 
+be shared equally by both parties on completion of the conciliation process. 
+35.4.2.5. The Parties shall maintain the account of expenditure and present to the other 
+for the purpose of sharing on conclusion of the CCIE proceedings. 
+The Conciliation process shall be conducted under Part III of the Arbitration and 
+Conciliation Act, 1996.  
+In case of failure of the conciliation process at the level of the Conciliation 
+Committee, the parties may withdraw from conciliation process and take 
+recourse to remedies as may be available to them under the applicable laws 
+other than Arbitration. 
+In the event of the conciliation proceedings being successful, the parties to the 
+dispute would sign the written settlement agreement and the conciliators would 
+authenticate the same. Such settlement agreement would then be binding on the 
+Page 17 of 79
+ 
+parties in terms of Section 73 of the Arbitration and Conciliation Act, 1996. 
+After successful conclusion of proceedings, the Parties to the conciliation 
+process, have to undertake and complete all necessary actions for 
+implementation of the terms of settlement within a period of 30 days from 
+execution of settlement agreement, unless a different timeline not exceeding 60 
+days is agreed upon in settlement agreement. All pending claims of parties, in 
+connection with the dispute, before any other legal forum are to be withdrawn 
+within the said 30 days in pursuance of the settlement agreement. 
+35.4.2.6. Notwithstanding anything contained in any other law for the time being in force, 
+the Conciliator and the parties shall keep confidential all matters relating to the 
+Conciliation proceedings. Confidentiality shall extend also to the settlement 
+agreement, except where its disclosure is necessary for purposes of 
+implementation and enforcement  
+The parties shall not rely on or introduce as evidence in Arbitral or judicial 
+proceedings, whether or not such proceedings relate to the dispute that is the 
+subject of the Conciliation proceedings, — 
+a. views expressed or suggestions made by the other party in respect of a 
+possible settlement of the dispute; 
+b. admissions made by the other party in the course of the Conciliation 
+proceedings; 
+c. proposals made by the Conciliator; and 
+d. the fact that the other party had indicated his willingness to accept a proposal 
+for settlement made by the Conciliator. 
+35.5. # Arbitration 
+35.5.1. If the process of mutual consultation and IE (if applicable)and/or Mediation (if applicable) 
+and/or ESC fails to arrive at a settlement between the parties, Owner or the Applicant may, 
+within Thirty (30) days of such failure, give notice to the other party, of its intention to 
+commence arbitration, as hereinafter provided, as to the matter in dispute, and no 
+arbitration in respect of this matter may be commenced unless such notice is given. The 
+mechanism of settling the disputes through arbitration shall be  applicable only in cases 
+where the disputed amount (i.e. Claim/ Counter claim, whichever is higher, excluding 
+interest) is less than INR 10 crores. 
+If the claim/ counter claim is in foreign currency, the SBI Bills Selling Exchange rate 
+prevailing on the date of claim shall be used for the purpose of converting the claim in 
+Indian Rupee  
+In case the disputed amount (Claim/ Counter claim, whichever is higher, excl. interest) is 
+INR 10 Crores or above, the parties shall be within their rights to take recourse to remedies 
+as may be available to them under the applicable laws other than Arbitration after prior 
+intimation to the other party. There shall be no arbitration where the disputed amount 
+(Claim/ counter claim, whichever is higher) is only up to INR 5 lakhs. 
+The parties at the time of invocation of arbitration shall submit all the details of the claims 
+and the counter-claims including the Heads/Sub-heads of the Claims/Counter-Claims and 
+the documents relied upon by the parties for their respective claims and c ounter-claims. 
+The parties shall not file any documents/details of the claims and counter-claims thereafter. 
+The claims and the counter claims raised by the parties at the time of invocation of the 
+arbitration shall be final and binding on the parties and no further change shall be allowed 
+in the same at any stage during arbitration under any circumstances whatsoever. 
+In case, multiple arbitrations are invoked (whether sub-judice or arbitral award passed) by 
+any party under this contract, then the cumulative disputed amount (i.e. Claim/ Counter 
+claim, whichever is higher, excluding interest) in all such arbitrations shall be taken into 
+account while arriving at the total disputed amount for the subject contract. Disputes having 
+cumulative value less than INR 10 crores shall be resolved through arbitration. In case the 
+disputed amount (Claim/Counter claim, whichever is higher, excluding interest) is INR 10 
+crores and above, the parties shall be within their rights to take recourse to remedies as 
+may be available to them under the applicable laws other than Arbitration after prior 
+intimation to the other party. 
+ 
+35.5.2. Any dispute in respect of which a notice of intention to commence arbitration has been 
+Page 18 of 79
+ 
+given, in accordance with Sub Clause 35.5.1, shall be finally settled by arbitration. 
+35.5.3. It is agreed between the parties that the Arbitration proceedings shall be conducted as per 
+the provisions of Fast Track Procedure as provided under The Arbitration and Conciliation 
+Act, 1996, as amended from time to time.  
+Any dispute or difference raised by a party to arbitration shall be adjudicated by an arbitral 
+tribunal consisting of three arbitrators, in the following manner: 
+(a) A party willing to commence arbitration proceeding shall invoke Arbitration Clause by 
+giving notice to the other party 
+(b) The Owner and the Applicant shall each appoint one arbitrator, and these two 
+arbitrators shall jointly appoint a third arbitrator within 30 days, who shall act as 
+presiding arbitrator of the arbitral tribunal. If the two arbitrators do not succeed in 
+appointing a third arbitrator within 30 days of the latter of the two arbitrators has been 
+appointed, the third arbitrator shall be appointed by the High Court of Delhi. 
+(c) If one party fails to appoint its arbitrator within 30 days after the other party has named 
+its arbitrator, the party which has named its arbitrator may approach the High Court 
+of Delhi to appoint the second arbitrator. 
+(d) If any member of the arbitral tribunal dies, resigns, becomes incapacitated or 
+withdraws for any reason from the proceedings or his mandate is terminated by the 
+Court, a substitute shall be appointed in the same manner as the arbitrator whose 
+mandate has terminated as above. After substitution of new member, the arbitration 
+tribunal shall proceed with reference from the stage where the mandate of the 
+arbitrator has been terminated. 
+(e) Arbitrator tribunal shall be paid fees as per the Fee Schedule (presently Fourth 
+Schedule) provided in ‘The Arbitration and Conciliation Act, 1996’ as amended from 
+time to time. If the claim/ counter claim is in foreign currency, the SBI Bills Selling 
+Exchange rate prevailing on the date of claim shall be used for the purpose of 
+converting the claim in Indian Rupee which may be used for determining the 
+arbitration fee. 
+(f) If after commencement of the Arbitration proceedings, the parties agree to settle the 
+dispute mutually or refer the dispute to mediation or Conciliation, the arbitral tribunal 
+shall put the proceedings in abeyance until such period as requested by the parties. 
+Where the proceedings are put in abeyance or terminated on account of mutual 
+settlement of dispute by the parties, the fees payable to the arbitrator shall be 
+determined as under: 
+(i) 40% of the fees if the Pleadings are complete. 
+(ii) 60% of the fees if the Hearing has commenced. 
+(iii) 80% of the fees if the Hearing is concluded but the Award is yet to be passed. 
+(g) Each party shall pay its share of arbitrator’s fees in stages as under or as per the 
+directions of Arbitrator: 
+(i) 40 % of the fees on Completion of Pleadings. 
+(ii) 40% of the fees on Conclusion of the Final Hearing. 
+(iii) 20% at the time when arbitrator notifies the date of final award. 
+(h) The Claimant shall be responsible for making all necessary arrangements for the 
+travel/ stay of the Arbitrator including venue of arbitration, hearings. The parties shall 
+share the expenses for the same equally. 
+(i) The Arbitration shall be held at Delhi only. 
+(j) The arbitral tribunal shall give reasoned and speaking award in prompt manner and 
+it shall be final and binding on the parties. 
+(k) Subject to the aforesaid conditions, provisions of the Arbitration and Conciliation Act, 
+1996 and any statutory modifications or re-enactment thereof as amended from time 
+to time, shall apply to the arbitration proceedings under this clause. 
+35.5.4. In the event of any dispute or difference relating to the interpretation and application of the 
+provisions of commercial contract (s) between Central Public Sector Enterprises (CPSEs)/ 
+Port Trusts inter se and also between CPSEs and Government Departments/  
+Organizations (excluding disputes relating to Railways, Income Tax, Customs & Excise 
+Departments), such disputes or difference shall be taken up by either party for resolution 
+through Administrative Mechanism for Resolution of CPSEs Disputes (AMRCD) as 
+Page 19 of 79
+ 
+mentioned in DPE Office Memorandum No. 05/0003/2019-FTS-10937 dated 14.12.2022 
+issued by Department of Public Enterprises, Government of India and its further 
+clarifications, modifications and amendments, issued from time to time. 
+The limit on disputed amount as mentioned at clause 35.5.1 above shall not be applicable 
+and matter may be referred to AMRCD irrespective of the amount involved in dispute, if 
+the dispute could not be resolved through Mutual Consultation and IE (if applicable) as 
+brought out at GCC Sub Clause 35.1 and 35.2 above. 
+35.6. Notwithstanding any reference to the Independent Engineer or Mediation or Conciliation or 
+Arbitration herein, 
+(a) the parties shall continue to perform their respective obligations under the contract unless 
+they otherwise agree. 
+(b) the owner shall pay the applicant any monies due to the applicant. 
+Settlement of Dispute clause cannot be invoked by the applicant, if the contract has been mutually 
+closed or ‘No Demand Certificate’ has been furnished by the a pplicant or any Settlement 
+Agreement has been signed between the owner and the applicant. 
+The Panel of Conciliation Committees of Independent Experts (CCIE) is enclosed as Annexure – 10. 
+ 
+36. Arbitration 
+As per clause 35.5 at above 
+ 
+37. Force Majeure 
+37.1. “ Force Majeure” shall mean any event beyond the reasonable control of the owner or of the 
+applicant, as the case may be, and which is unavoidable notwithstanding the reasonable care of 
+the party affected. 
+37.2. If either party is prevented, hindered or delayed from or in performing any of its obligations under 
+the contract by an event of Force Majeure, then it shall notify the other in writing of the occurrence 
+of such an event and the circumstances thereof within fourteen (14) days after the occurrence of 
+such event. 
+37.3. The party  who has given such notice shall be excused from the performance or  punctual 
+performance of its obligations under the contract for so long as the relevant event of Force Majeure 
+continues and to the extent that such party’s performance is prevented, hindered or delayed. The 
+Time for Completion shall be extended accordingly. 
+37.4. The party or parties affected by the event of Force Majeure shall use reasonable efforts to mitigate 
+the effect thereof upon its or their performance of the contract and to fulfill its or their obligations 
+under the contract, but without prejudice to either party’s right to terminate the contract. 
+37.5. No delay or nonperformance by either party hereto caused by the occurrence of any event of Force 
+Majeure shall. 
+a. constitute a default or breach of the contract. 
+b. give rise to any claim for damages or additional cost or expense occasioned thereby if and 
+to the extent that such delay or nonperformance is caused by the occurrence of an event of 
+Force Majeure. 
+37.6. If the performance of the contract is substantially prevented, hindered or delayed for a single period 
+of more than sixty (60) days or an aggregate period of more than one hundred and twenty (120) 
+days on account of one or more events of Force Majeure during the currency of the contract, the 
+parties will attempt to develop a mutually satisfactory solution, failing which the dispute shall be 
+resolved in accordance with Clause 35 above. 
+37.7. Notwithstanding Sub Clause 37.5, Force Majeure shall not apply to any obligation of the owner to 
+make payments to the applicant herein. 
+ 
+War Risks 
+(i) “War Risks” shall mean any of the following events occurring or existing in or near the country 
+(or countries) where the Site is located: 
+a. war, hostilities, or warlike operations (whether a state of war is declared or not), invasion, act 
+of foreign enemy and civil war. 
+b. rebellion, revolution, insurrection, mutiny, usurpation of civil or military government, 
+conspiracy, riot, civil commotion, and terrorist acts, and 
+Page 20 of 79
+ 
+c. any explosion or impact of any mine, bomb, shell, grenade or other projectile, missile, 
+munitions, or explosive of war. 
+(ii) Notwithstanding anything contained in the contract, the applicant shall have no liability  
+whatsoever for or with respect to 
+a. destruction of or damage to Facilities, Plant and Equipments, or any part thereof 
+b. destruction of or damage to property of the owner or any third party 
+c. injury or loss of life 
+if such destruction, damage, injury or loss of life is caused by any War Risks, and the owner shall 
+indemnify and hold the applicant / buyer harmless from and against any and all claims, liabilities, 
+actions, lawsuits, damages, costs, charges or expenses arising in consequence of or in connection 
+with the same. 
+(iii) If the Facilities or any Plant and Equipment’s or applicant’s Equipment’s or any other property of 
+the applicant used or intended to be used for the purposes of the Facilities shall sustain 
+destruction or damage by reason of any War Risks, the owner shall pay the applicant for 
+a. any part of the Facilities or the Plant and Equipment’s so destroyed or damaged (to the extent 
+not already paid for by the owner) 
+b. replacing or making good any applicant’s Equipment’s or other property of the applicant so 
+destroyed or damaged so far as may be required by the owner, and as may be necessary 
+for completion of the Facilities, 
+c. replacing or making good any such destruction or damage to the Facilities or the Plant and 
+Equipment’s or any part thereof. 
+If the owner does not require the applicant  to replace or make good any such destruction or 
+damage to the Facilities, the owner shall either request a change (Change in the Facilities), 
+excluding the performance of that part of the Facilities thereby destroyed or damaged or, where 
+the loss, destruction or damage affects a substantial part of the Facilities, shall terminate the 
+contract. 
+(iv) Notwithstanding anything contained in the contract , the owner  shall pay the applicant for any 
+increased costs or incidentals to the execution of the contract that are in any way attributable to, 
+consequent on, resulting from, or in any way connected with any War Risks, provided that the  
+applicant shall as soon as practicable notify the owner in writing of any such increased cost. 
+(v) If during the performance of the contract any War Risks shall occur that financially or otherwise 
+materially affect the execution of the contract by the applicant , the  applicant shall use its 
+reasonable efforts to execute the contract with due and proper consideration given to the safety 
+of its and its subagencies’ personnel engaged in the work on the Facilities, provided,  however, 
+that if the execution of the work on the Facilities becomes impossible or is substantially prevented 
+for a single period of more than sixty (60) days or an aggregate period of more than one hundred 
+and twenty (120) days on account of any War Risks, the parties will attempt to develop a mutually 
+satisfactory solution, failing which the dispute will be resolved in accordance with relevant Clause. 
+(vi) In the event of termination, the rights and obligations of the owner and the applicant shall be 
+specified, except that the applicant shall have no entitlement to profit in respect of any unexecuted 
+Facilities as of the date of termination. 
+ 
+38. Insurance and Applicant’s Liability 
+38.1. The applicant shall be fully responsible for maintaining all the insurance as per the law of land at 
+its cost. 
+38.2. The applicant  shall at all times indemnify the owner  against all losses, claims, damages or 
+compensation arising out of any accident or injury to any person (whether in employment of 
+applicant or not) or property in or about the plant (inside / outside the plant) which may arise out 
+due to applicants’ act / negligence while carrying out the contract. 
+ 
+39. Suspension of the supply 
+39.1. The owner reserves the right to suspend and reinstate execution of the whole or any part of the 
+supply. 
+39.2. The owner shall not be responsible for any liabilities for suspension of issue of ‘Ash Bricks’ or issue 
+of reduced quantity of ‘Ash Bricks’ for any reason whatsoever. 
+ 
+40. Indemnity for defense of Suits 
+Page 21 of 79
+ 
+If any action in court is brought by third party against the owner or an officer or agent of the owner for 
+the failure or neglect on the part of the applicant to perform any acts, matters, covenants or things under 
+the contract, or for damage or injury caused by the alleged omission or negligence on the part of the 
+applicant, his agents, representatives or his Sub - applicants, workmen, suppliers, or representatives 
+employees the applicant shall in such cases indemnify and keep the owner and / or its represe ntative 
+harmless from all losses damages, claims, expenses or decrees arising out of such action. 
+ 
+41. Recovery of Sums Due 
+Whenever any claim for the payment of the sum of money arises against the applicant, the owner shall 
+be entitled to recover such a sum by appropriating in whole or in part, from advance deposited against 
+‘Ash Bricks’ and /or the SD / Contract Performance Guarantee deposited by the applicant. 
+ 
+42. Safety and Sustainability 
+The applicant, including his subagencies, while executing the Works, will strictly comply with the statutory 
+requirements (including amendments thereof), as applicable, in respect of the safety of his employees, 
+equipment and materials. The applicant will also comply with the provisions of NTPC Safety Rules as 
+issued from time to time and displayed on NTPC's tender website. 
+ 
+43. Disorderly Conduct 
+The applicant shall at all times take all reasonable precautions to prevent any unlawful,  notorious or 
+disorderly conduct by or amongst the applicant’s staff and labour and for the preservation of peace and 
+protection of persons and property in the neighborhood of the delivery site against the same. 
+ 
+44. Jurisdiction of Court 
+Only Bihar High Court shall have exclusive jurisdiction on all the matters concerning the supply against 
+this e-Auction / contract. 
+ 
+45. No Breach of Contract 
+The failure of a party to fulfill any of its obligations under the contract shall not be considered to be a 
+breach of or default under the contract in so far as such inability arises from an event of Force Majeure, 
+provided that the Party is affected by such an event: 
+a. has taken all reasonable precautions, due care and reasonable alternative measures in order to 
+carry out the terms and conditions of this contract and 
+b. has informed the other party as soon as possible about the occurrence of such an event. 
+Page 22 of 79
+ 
+SPECIAL CONDITIONS OF CONTRACT 
+ 
+46. Scope of Supply: 
+46.1. NTPC Barh STPP, NTPC Kahalgaon STPS and NTPC Kanti TPS would be in a position to provide 
+‘VIKALP’ brand ‘Ash Bricks’ from Suitable Locations, as decided by Engineer-In-Charge of NTPC 
+Barh STPP / NTPC Kahalgaon STPS / NTPC Kanti TPS, subject to availability, Force Majeure 
+conditions and unplanned outage of Plant, etc. 
+46.2. The owner reserves the right to supply / sell the quantity not lifted by the dealers to any other party 
+at the sole discretion of the owner. 
+46.3. Quantity: As mentioned at clause 2.5 of the subject e-Tender / bidding documents. This indicated 
+stock is minimum and firm stock reserved for all the dealers combined. The actual available stock 
+may be higher than the indicated stock.  
+46.4. Period: One [01] Year. 
+ 
+47. Working Hours: 
+‘Ash Bricks’ are intended to be issued on all working days during the office hours, or as per the directions 
+of Engineer-in-Charge.  
+ 
+48. Delivery Point: 
+48.1. The owner would issue ‘VIKALP’ brand ‘Ash Bricks’ from Suitable Locations as decided by 
+Engineer-In-Charge of NTPC Barh STPP / NTPC Kahalgaon STPS / NTPC Kanti TPS (as may 
+be applicable). 
+48.2. ‘Ash Bricks’ shall be considered to have been issued as it passes into the applicant’s vehicle at 
+the loading point. 
+ 
+49. Quality of Ash Bricks: 
+49.1. The owner would issue Ash Bricks at designated delivery point(s) on “As Available” basis. 
+49.2. All bricks adhere to the quality standards as per IS: 16720: 2018. Other details of the Ash Bricks 
+are mentioned below: 
+S. No. NTPC Plant Bricks Class 
+Designation 
+Brick Size 
+[mm] BIS Certified 
+1 NTPC Barh STPP 7.5 230 x 110 x 70 Yes 
+2 NTPC Kahalgaon STPS 7.5 230 x 110 x 70 No 
+3 NTPC Kanti TPS 7.5 230 x 110 x 75 Yes 
+ 
+49.3. Applicants are advised to take the sample of the Ash Bricks from NTPC Barh STPP / NTPC 
+Kahalgaon STPS / NTPC Kanti TPS, to confirm the quality of the ‘Ash Bricks’, before bidding. 
+Sample collection and testing shall be arranged and done by the interested applicant at their own 
+cost. 
+ 
+50. Methodology for Pricing: 
+50.1. The price chargeable to the applicant(s) shall be the price obtained in the tendering process as per 
+the methodology described in Clause 52 in Rupees per MT. 
+50.2. All statutory duties / taxes / levies including GST shall be charged extra. 
+ 
+51. Price and Bidding Methodology: 
+51.1. The minimum ‘Floor Price’ of ‘Ash Bricks’ is mentioned at clause 2.5 of the subject e- Tender / 
+bidding documents. 
+51.2. The applicant to quote station wise premium on the ‘Floor Price’ of the ‘Ash Bricks’ for each of the 
+NTPC Station /s for which they are willing to be appointed as Dealer(s).  
+51.3. The premium must be expressed as a percentage (%) above the ‘Reserve Price’. The percentage 
+must be in multiples of 0.10 %. 
+51.4. Price shall be submitted in the ‘Excel Sheets’ provided as part of the bid documents. The Price Bid 
+should be submitted in the electronic form only through GepNIC portal. 
+Page 23 of 79
+ 
+Applicants shall necessarily submit the prices on-line in the Bill of Quantity (BOQ) only. 
+51.5. For preparation of the “Price Bid”, applicants are expected to take into account the requirements 
+and conditions of the bidding documents. The Price Bid shall be made in the ‘BOQ’ (excel file) only 
+of Bidding Documents. 
+ 
+52. Evaluation Criteria of Bids / Offer Evaluation Criterion:  
+52.1. The maximum numbers of “Dealer (s)” that can be appointed against the subject e-Tender will be 
+limited to three (03) at any of the NTPC Station, i.e., a maximum of three (03) Dealers at NTPC 
+Barh STPP, a maximum of three (03) Dealers at NTPC Kahalgaon STPS and a maximum of three 
+(03) Dealers at NTPC Kanti TPS 
+52.2. The evaluation of bids shall be carried out on a station wise basis. 
+52.3. The Evaluated Bid Price (EBP) of the applicants would be determined based on the premium 
+percentage quoted above the Floor Price by the applicants and the applicants will be ranked in 
+order as H1, H2, H3, H4, H5, H6 and so on for ‘Ash at each of the NTPC Station.  
+52.4. The H1 applicant will be awarded the dealership at the particular NTPC station.  
+52.5. The H2, H3, H4, H5, H6 ….. applicants(s) shall also be eligible for ‘Award of Dealership’, in case 
+the applicants(s) agree to match the H1 Evaluated Bid Price and subject to condition stated at 
+clause 52.1 above.  
+52.6. If more than two applicants agree to match the H1 Evaluated Bid Price, preference will be given to 
+applicants based on their ranking, i.e. the H2, then H3 and so on will be selected. Thus, the final 
+selection may include H1 and two additional applicants who match the H1 Evaluated Bid Price, 
+based on their ranking.  
+52.7. Tie Conditions: 
+52.7.1. In the event of a tie among more than two (02) applicants at the H1 position (with respect 
+to the Evaluated Bid Price), all such applicants will be awarded the dealership. In such a 
+situation, the total number of finalized dealers may exceed three (03). However, no 
+further matching will be conducted.  
+52.7.2. In the event of a tie among applicants at the H2 position, if two or more such applicants 
+agree to match the H1 Evaluated Bid Price, the dealership will be finalized with all such 
+matching applicants. In such a situation, the total number of finalized dealers may exceed 
+three (03). No further matching will be offered to applicants at the H3 rank or below.  
+52.7.3. If the H1 and H2 positions are held by unique applicants and a tie exists at the H3 
+position, all such applicants at the H3 tie position who agree to match the H1 Evaluated 
+Bid Price will be awarded the dealership. The total number of finalized dealers will include 
+all such tied H3 applicants, and no further matching will be conducted for any subsequent 
+ranks.  
+ 
+53. Award Criteria: 
+53.1. The applicant shall be awarded the dealership at the quoted price as per Clause 52 above. 
+53.2. The evaluation and appointment of dealers will be carried out separately for NTPC Barh STPP, 
+NTPC Kahalgaon STPS and NTPC Kanti TPS. 
+53.3. Once the Dealer (s) are appointed, they will be granted the right to lift ‘VIKALP’ brand ‘Ash Bricks’ 
+from any operational NTPC station, where Ash Bricks are being manufactured, within the State 
+of BIHAR (at the H1 Evaluated Bid Price of the Ash Brick at that particular NTPC station), subject 
+to the availability of the Ash Bricks at that station.  
+ 
+54. Award price: 
+The H1 Evaluated Bid Price (exclusive of all taxes and duties) shall serve as the award price until the 
+end of the initial quarter. Subsequently, the price shall be adjusted on the 1 st day of each quarter and 
+shall remain effective for that specific quarter. Adjustments for subsequent quarters shall be determined 
+as follows: 
+𝑃𝑃 =  𝑃𝑃0 �0.05 +  0. 45 � 𝐶𝐶
+𝐶𝐶0
+� +  0.50 � 𝑀𝑀
+𝑀𝑀0
+�� 
+Where: 
+• P  = Updated Price per Ash Brick 
+Page 24 of 79
+ 
+• P ₀ = Base Price per Ash Brick [H1 Evaluated Bid Price] 
+• C = Current Rate of Cement 
+• C ₀ = Base rate of Cement per Ash Brick [at the time of Calculation of ‘Floor Price’] 
+• M = Current Cost of Manpower 
+• M ₀ = Base cost of Manpower per Ash Brick [at the time of Calculation of ‘Floor Price’] 
+ 
+The following are the Values of P ₀, C₀ and M₀ used in the subject e- Tender for arriving at the ‘Floor 
+Price’ of ‘Ash Bricks’ mentioned at at clause 2.5 of the subject e-Tender / bidding documents: 
+ 
+S. No. NTPC Station Price Adjustment Parameter Value 
+1 NTPC Barh STPP 
+Base Price per Ash Bricks (P₀) 4.68 
+Base rate of Cement per Ash Bricks (C₀) 1.57 
+Base cost of Manpower per Ash Bricks (M₀) 3.03 
+2 NTPC Kahalgaon STPS 
+Base Price per Ash Bricks (P₀) 4.20 
+Base rate of Cement per Ash Bricks (C₀) 2.39 
+Base cost of Manpower per Ash Bricks (M₀) 1.44 
+3 NTPC Kanti TPS 
+Base Price per Ash Bricks (P₀) 5.92 
+Base rate of Cement per Ash Bricks (C₀) 2.32 
+Base cost of Manpower per Ash Bricks (M₀) 2.70 
+ 
+55. Period of Supply: 
+The dealership will be appointed for a period of One [01] Year, with a provision for extension for an 
+additional One Year [01] based on mutual agreement of the parties. 
+ 
+56. Payment Terms and Bank Charges: 
+56.1. Delivery shall be made against advance payment in conformity with NTPC Policy for collecting 
+advance [through NTPC’s Customer Payment Portal]. Advance shall be adjusted against delivery 
+on a daily basis. 
+56.2. The applicant to pay any taxes / duties extra on the applicable rates. 
+56.3. The applicant to deposit the CPG / SD as per clause 23.1, in addition to advance mentioned above 
+at 56.1 before the start of work. 
+56.4. All bank charges shall be borne by the applicant / buyer. 
+ 
+57. Allocation of Available Monthly Quantity: 
+57.1. Allocation of quantity of ‘Ash Bricks’ shall be carried out on the basis of the demand raised by the 
+appointed Dealer(s) by the 15 th day of every month (for next month), in the form of a Demand 
+Letter. 
+57.2. Based on the above demand and considering the corresponding available quantity of ‘Ash Bricks 
+for sale, the respective NTPC Station shall determine and intimate the monthly allocation to the 
+Dealer(s) by the 20th day of every month (for next month). 
+57.3. Priority for lifting of ‘Ash Brick’ by the Dealers (s) shall be based on the advance payment received 
+through the NTPC Customer Receipt Portal (first deposited first served basis). 
+57.4. In case of non-mobilization or inadequate mobilization, NTPC may, at its discretion, allocate such 
+quantity to alternate dealer(s) / other avenues. The decision of the Engineer -in-Charge (EIC) of 
+NTPC shall be final and binding in this regard. 
+ 
+58. Issue of Ash Bricks: 
+58.1. The dealer may depute an authorized representative at each NTPC station for which the dealership 
+has been awarded, for coordination and lifting of Ash Bricks from the designated delivery point, as 
+informed by the Engineer-in-Charge (EIC). 
+58.2. Depending upon operational convenience, safety requirements, and other considerations, the 
+Engineer-in-Charge (EIC) may schedule the lifting of Ash Bricks from the delivery point by different 
+agencies. Such schedules shall be binding upon the Dealer(s). The schedules and deployment 
+may be worked out or revised from time to time based on periodic meetings among the concerned 
+stakeholders. 
+Page 25 of 79
+ 
+58.3. NTPC reserves the right to suspend the issuance of Ash Bricks if the required advance amount is 
+not available with NTPC by the stipulated date. Any such suspension of offtake shall be to the 
+account of the dealer. 
+ 
+59. Invoicing: 
+Ash Bricks shall be issued based on actual numbers.  
+ 
+60. Taxes, Duties, Levies etc.: 
+60.1. The applicant shall be liable and responsible for payment of all statutory levies in the form of GST 
+and all other taxes and duties applicable on the Supply / Sale of Ash Bricks. Such statutory 
+liabilities, if any, shall be paid by the applicant extra at actuals. (“Goods and Services Tax” or “GST” 
+means taxes levied under the Central Goods and Services Tax Act, Integrated Goods and Services 
+Tax Act, Goods and Services Tax (Compensation to States) Act, and various State / Union Territory 
+Goods and Services Tax Laws and applicable cesses, if any under the laws in force (hereinafter 
+referred to as relevant GST Laws).”) 
+60.2. All Ash Bricks will be sold on ‘Ex-Works basis’. Regarding exports of Ash Bricks by the dealers, it 
+is the responsibility of the dealer to fulfill their export obligations as may be required, and any 
+shortfall in this regard shall be to the account of the appointed dealer only. The dealer indemnifies 
+the owner against all such liabilities and losses on failure to fulfill the export obligations, if any.  
+ 
+61. Billing: 
+NTPC will issue the ‘Exit Gate Pass’ on daily basis and invoices on daily / weekly / fortnightly / monthly 
+basis and shall be delivered to the dealer (s). An invoice showing the value of the ‘Ash Bricks’ delivered 
+/ issued for each day, along with applicable GST and all other duty / taxes / cess etc. as applicable, shall 
+be adjusted against the advance payment made by the dealers (s). 
+ 
+62. Responsibility During Loading and Transportation: 
+62.1. Loading at NTPC station and un-loading (at dealers (s) end) of Ash Bricks shall be in the scope of 
+the Dealer (s). Manpower required for loading of ‘Ash Bricks’ from NTPC station shall be arranged 
+by the dealers (s). However, NTPC will extend all possible equipment / mechanical support for the 
+same on availability basis. 
+62.2. Transportation, including bagging / packing of ‘Ash Bricks’ (if required), and any other related 
+activity is in the scope of the dealer. No claim whatsoever, by the dealer for transportation of the 
+items, shall be entertained. 
+62.3. Dealer(s) appointed for selling of ‘Ash Bricks’ shall apply for permission for suitable transportation 
+medium, such as tractor trolley, trucks etc. and for associated manpower, which needed to be 
+deploy for Ash Bricks lifting. Road Permits, Registration Certificates, Operator / Driver Licenses, 
+Insurance etc. applicable for the deployed vehicle and for manpower shall be submitted at the time 
+of start of work (and also when new and / or additional vehicles or manpower are deployed, and 
+thereafter as and when required, to Engineer-In-Charge for verification and issuance of permission 
+as per prevailing procedure adopted at NTPC. 
+62.4. The dealers’ transporter(s) / deployed vehicles shall be in fit condition and should meet the 
+statutory compliance requirement of State Government / Central Government / Concerned 
+Authorities for transportation of the specified goods. 
+62.5. The dealer will be responsible for any kind of injuries or accidents caused to their employees or 
+labourers or any other person and NTPC will not be liable in the matter. If any action is brought 
+against the NTPC for payment of damages or compensation, the dealer shall indemnify the NTPC 
+from all such action or claim from damages / compensation. If the NTPC is held liable for any 
+compensation, the dealer shall forthwith compensate NTPC, if any, such claim arises  during or 
+after the expiry of the contract period. 
+62.6. The dealer(s) shall abide by the terms and conditions of the dealership (as mentioned in the e-
+Tender / bidding documents and the LOA) and strictly align all activities of transporting and selling 
+within the terms and conditions set for the dealers  
+ 
+63. Other Terms and Conditions: 
+63.1. Ash Bricks once loaded in trucks will be considered as sold. 
+63.2. The dealers are allowed to setup their outlet / warehouse at any of their premises.  
+Page 26 of 79
+ 
+63.3. Dealers shall obtain all applicable permissions from the concerned local /state / central authorities 
+for transport, storage, and sale of Ash Bricks’ as required. 
+63.4. Statutory / regulatory compliances shall be binding upon all the dealers and verifiable by NTPC. 
+63.5. All responsibilities and costs towards statutory obligation, outlet maintenance etc. whatsoever 
+shall be borne by the dealer. 
+63.6. Non – compliance of safety / environment provisions shall attract penal actions ranging from fine 
+to termination of contract / agreement / issue of ‘Ash Bricks’ as decided by the nodle person. 
+63.7. The dealer shall be fully responsible for maintaining all the insurance as per the law of land at its 
+cost. 
+63.8. The dealer shall at all times indemnify the owner (NTPC) against all losses, claims, damages or 
+compensation arising out of any accident or injury to any person (whether in employment of dealer 
+or not) or property in or about the plant of NTPC (inside / outside the plant) which may arise out 
+due to dealer’s act / negligence while carrying out the contract. 
+63.9. In case of any liability on NTPC, in any manner that arises due to non- compliance of any 
+Environmental and Transportation Norms, Rules, Guidelines and Statutory provisions by the 
+dealers or its representative / agent, during the course of execution and for  future obligations (if 
+any) by way of omission or commission, the agency shall keep NTPC effectively indemnified of 
+any such liability. The applicant will submit an indemnity bond as per prescribed format to be 
+executed on nonjudicial stamp paper of appropriate value by the dealer and duly notarized by a 
+notary public) to keep NTPC indemnified against legal proceedings / paying damages arising out 
+of non-compliances by the applicant, if any [Format attached as Annexure – 08]. 
+ 
+64. Indemnities for Environmental Conditions:  
+All Regulatory and Statutory compliances to be ensured by the applicant while lifting / transportation / 
+Disposal / Usage / Sale etc.  
+ 
+65. Compliance by Applicants: 
+Applicants to comply with all reasonable controls imposed by NTPC station and to cooperate with the 
+station and other operating applicants / dealers and to abide by the decision of Engineer-in-Charge. In 
+case of any dispute the decision of the Engineer-in-Charge shall be final and binding. 
+ 
+66. NTPC reserves the right to take appropriate action as deemed fit, in case information / details provided 
+are found false even at a later date. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 27 of 79
+ 
+ 
+ 
+ 
+ 
+NTPC LIMITED 
+(A GOVERNMENT OF INDIA ENTERPRISE) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inventory Management Group 
+USSC, NTPC Raipur  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Standard Forms Formats and Annexures 
+Page 28 of 79
+ 
+ANNEXURES 
+ 
+Annexure 01 Check List for Submission of Documents along With Bid 
+Annexure 02 Applicant Details 
+Annexure 03 Certificate For Compliance to All Provisions of Bidding Documents 
+Annexure 04 Form of Acceptance of Fraud Prevention Policy 
+Annexure 05 Declaration on Debarment from Business Dealings Policy 
+Annexure 06 Form of Acceptance of Anti-Bribery And Anti-Corruption (ABAC) Policy  
+Annexure 07 EFT Form 
+Annexure 08 Proforma for Indemnity Bond 
+Annexure 09 Model Award Letter 
+Annexure 10 The Panel of Conciliation Committees of Independent Experts (CCIE) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 29 of 79
+ 
+Annexure – 01 
+ 
+CHECK LIST FOR SUBMISSION OF DOCUMENTS ALONG WITH BID 
+ 
+Applicant’s Offer Reference Number: ____________  Date: __________ 
+ 
+ 
+To,  
+HoD [IMG USSC] 
+NTPC Limited, Unified Shared Services Centre, 
+Sector 24, Tuta, New Raipur 
+Chhattisgarh – 492101, India 
+ 
+S. No. Description of Check points Yes / No / Not 
+Applicable Remarks 
+1 
+Whether submitted documents related 
+to requirements supporting your 
+eligibility, complete in all respects 
+ 
+Document To be Submitted by the applicant: 
+• PAN CARD 
+• GST Registration 
+• Aadhar card (applicable in case of individual).  
+• Company registration as may be applicable 
+• Power of Attorney for authorized person, as 
+may be applicable.  
+• Business details of the participant / applicant as 
+per prescribed format (Annexure – 02) 
+2 
+Whether submitted Pre- Bid EMD / Bid 
+Security of required value as per 
+requirement of the bid document 
+  
+3 
+Whether the applicant has registered 
+and completed the formalities for 
+registration with GePNIC 
+ Please write the registration number 
+4 
+Whether the Applicant Details at 
+Annexure – 02 been filled and 
+submitted 
+  
+5 GST Registration Certificate and PAN 
+Caed Copy Submitted   
+6 Power of Attorney for Authorized 
+Person submitted   
+ 
+ 
+ 
+ 
+ 
+ 
+For M/s _______________________________________ 
+(Applicant Agency) 
+Date: ______________  Signature ________________________________ _____ 
+Place: _____________   
+  Printed Name __________________________________ 
+                                  (Authorized person having Power of Attorney) 
+  Designation ____________________________________ 
+ 
+ 
+   Company Seal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 30 of 79
+ 
+Annexure – 02 
+ 
+APPLICANT DETAILS 
+(To be submitted by the applicant along with specified documents)  
+(On official letter head of the applicant) 
+ 
+Applicant’s Offer Reference Number: ____________  Date: __________ 
+ 
+To,  
+HoD [IMG USSC] 
+NTPC Limited, Unified Shared Services Centre, 
+Sector 24, Tuta, New Raipur 
+Chhattisgarh – 492101, India 
+ 
+S. No. CONDITION DETAILS 
+01 Name of the Applicant    
+02 Status (Company / Agency / Individual)  
+ 
+(a) GST Number  
+(b) PAN Number  
+(c) 
+Nature of Business:  
+Name of the Product / Service  
+Location and Address of Production / Service 
+Facility  
+03 Registered Address  
+04 Communication Address  
+05 Tentative yearly requirement of ‘Ash Bricks’  (both in 
+Figures and Words) 
+Figures:  
+ 
+ 
+Words: 
+ 
+ 
+06 
+ 
+(a) 
+Does the participant have a Warehouse / Storage 
+Facility (not mandatory) for Ash Bricks (Yes / No)  
+(b) 
+If Yes:  
+Location of the Warehouse / Storage   
+Size of the Warehouse / Storage [in sq. ft]  
+07 (a) Whether Ash Bricks’ products dealership awarded 
+previously from NTPC (Yes / No).   
+(b) If Yes, Quantity Sold (in Numbers)  
+08 
+Details of the Person authorized to sign all documents 
+including correspondence, etc.  
+(a) Name of the Authorized Person  
+(b) Designation  
+(c) Telephone Number  
+(d) Fax Number  
+(e) e-Mail id  
+(f) Alternate e-Mail id  
+09 Any other relevant information  
+* Duly attested copies of PAN card indicating PAN Card number and GST registration number (with up to amendment) 
+are to be enclosed. 
+ 
+ 
+ 
+ 
+Page 31 of 79
+ 
+Annexure – 03 
+ 
+CERTIFICATE FOR COMPLIANCE TO ALL PROVISIONS OF BIDDING DOCUMENTS  
+(Certificate of "NIL" Deviation Towards COMPLIANT BID) 
+   {To be accepted on the system under General Technical Evaluation (GTE)} 
+ 
+Applicant’s Offer Reference Number: ____________  Date: __________ 
+ 
+To,  
+HoD [IMG USSC] 
+NTPC Limited, Unified Shared Services Centre, 
+Sector 24, Tuta, New Raipur 
+Chhattisgarh – 492101, India 
+ 
+ 
+Dear Sir, 
+ 
+I / we hereby declare confirmation/ acceptance to following: 
+(a) we declare that there are no deviations from the terms and conditions outlined in the Bidding 
+documents. 
+(b) Further, we confirm acceptance of NTPC’s ‘Fraud Prevention Policy’ and ‘Policy for Debarment from 
+Business Dealings’ as attached with the bidding document. 
+(c) Any deviation, variation, or additional condition etc. or any mention, contrary to the provisions of 
+Bidding Documents and its subsequent Amendment(s) / Clarification(s) / Addenda / Errata (if any) 
+found anywhere in our bid proposal, implicit or explicit shall stand unconditionally withdrawn, without 
+any cost implication whatsoever to the owner, failing which our bid shall be rejected. 
+I / we hereby confirm the above conditions and understand that the bid shall be evaluated / suitably loaded by 
+NTPC based on the above. 
+ 
+ 
+ 
+For M/s _______________________________________ 
+(Applicant Agency) 
+Date: ______________  Signature _____________________________________ 
+Place: _____________   
+  Printed Name __________________________________ 
+                                 (Authorized person having Power of Attorney) 
+  Designation ____________________________________ 
+ 
+ 
+   Company Seal 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 32 of 79
+ 
+Annexure – 04 
+ 
+FORM OF ACCEPTANCE OF FRAUD PREVENTION POLICY 
+   {To be accepted on the system under General Technical Evaluation (GTE)} 
+ 
+ 
+Applicant’s Offer Reference Number: ____________  Date: __________ 
+ 
+To,  
+HoD [IMG USSC] 
+NTPC Limited, Unified Shared Services Centre, 
+Sector 24, Tuta, New Raipur 
+Chhattisgarh – 492101, India 
+ 
+ 
+Dear Sir, 
+ 
+We have read the contents of the Fraud Prevention Policy of NTPC displayed on its tender website 
+http://www.ntpctender.com and undertake that we along with our associate / collaborator / sub- contractors 
+/ sub-vendors / consultants / service providers shall strictly abide by the provisions of the Fraud Prevention 
+policy of NTPC. 
+ 
+ 
+ 
+For M/s _______________________________________ 
+(Applicant Agency) 
+Date: ______________  Signature _____________________________________ 
+Place: _____________   
+  Printed Name __________________________________ 
+                                 (Authorized person having Power of Attorney) 
+  Designation ____________________________________ 
+ 
+ 
+   Company Seal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 33 of 79
+ 
+Annexure – 05 
+ 
+DECLARATION ON DEBARMENT POLICY 
+   {To be accepted on the system under General Technical Evaluation (GTE)} 
+ 
+Applicant’s Offer Reference Number: ____________  Date: __________ 
+ 
+To,  
+HoD [IMG USSC] 
+NTPC Limited, Unified Shared Services Centre, 
+Sector 24, Tuta, New Raipur 
+Chhattisgarh – 492101, India 
+ 
+ 
+Dear Sir, 
+ 
+1 We have read the contents of Debarment Policy displayed on the website www.ntpc.co.in / 
+www.ntpctender.ntpc.co.in and agreed to abide by this policy. Further, in terms of requirement under 
+Debarment Policy we hereby declare the following:  
+a) We have not been Banned / Blacklisted as on date of submission of bid by Ministry of Power or 
+Department of Expenditure, Ministry of Finance. 
+b) We have not employed any public servant dismissed / removed or person convicted for an offence 
+involving corruption or abetment of such offences.  
+c) Our Director(s) / Owner(s) / Proprietor / Partner(s) have not been convicted by any court of law for 
+offences involving corrupt and fraudulent practices including moral turpitude in relation to business 
+dealings with Government of India or NTPC or NTPC's group companies during the last five years. 
+ 
+2 We further declare as under: 
+that if at any point subsequent to award of contract, the declarations given above are found to be incorrect, 
+NTPC / Owner shall have the full right to terminate the contract and take any action as per applicable 
+laws for breach of contract including forfeiture of Pre- Bid EMD / Bid Security / Performance Bank 
+Guarantee. 
+ 
+ 
+ 
+For M/s _______________________________________ 
+(Applicant Agency) 
+Date: ______________  Signature _____________________________________ 
+Place: _____________   
+  Printed Name __________________________________ 
+                                (Authorized person having Power of Attorney) 
+  Designation ____________________________________ 
+ 
+ 
+   Company Seal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 34 of 79
+ 
+Annexure – 06 
+ 
+ADHERENCE TO OWNER’S ANTI BRIBERY AND ANTI CORRUPTION (ABAC) 
+POLICY  
+   {To be accepted on the system under General Technical Evaluation (GTE)} 
+ 
+Applicant’s Offer Reference Number: ____________  Date: __________ 
+ 
+To,  
+HoD [IMG USSC] 
+NTPC Limited, Unified Shared Services Centre, 
+Sector 24, Tuta, New Raipur 
+Chhattisgarh – 492101, India 
+ 
+ 
+Dear Sir, 
+ 
+We and our employees along with our associate / collaborator/ subcontractors / sub vendors / consultants / 
+service providers shall strictly abide by ‘Anti-Bribery and Anti-Corruption (ABAC) Policy’ of Owner as displayed 
+on tender website at https://ntpctender.ntpc.co.in/ under section ‘policy docs’ and undertake that we represent 
+and confirm that we are aware of, understand, and will comply with all applicable laws and regulations relating 
+to anti-corruption and anti-bribery and the ABAC Policy of Owner. In addition, each Party agrees that so long 
+as it is conducting business with the other Party or the other Party’s affiliates, it will not, directly or indirectly, 
+on behalf of the other Party or the other Party’s affiliates promise, offer, solicit, authorize, give or receive bribe, 
+or other corrupt payment, item or service of value, or any other corrupt advantage, whether in cash or in kind, 
+in relation to the participation in the tender. 
+ 
+ 
+ 
+For M/s _______________________________________ 
+(Applicant Agency) 
+Date: ______________  Signature _____________________________________ 
+Place: _____________   
+  Printed Name __________________________________ 
+                                (Authorized person having Power of Attorney) 
+  Designation ____________________________________ 
+ 
+ 
+   Company Seal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 35 of 79
+ 
+Annexure – 07 
+ 
+EFT FORM 
+(TO BE FILLED IN CAPITAL LETTERS) 
+ 
+ 
+To,  
+HoD [IMG USSC] 
+NTPC Limited, Unified Shared Services Centre, 
+Sector 24, Tuta, New Raipur 
+Chhattisgarh – 492101, India 
+ 
+Dear Sir, 
+We hereby authorize the owner to make all our payments through the Electronic Fund Transfer System. The 
+details for facilitating the payments are given below: 
+  
+1. NAME OF THE BENEFICIARY  
+                    
+                    
+ 
+2. ADDRESS 
+                    
+                    
+                    
+          PIN CODE       
+ 
+3. TELEPHONE NUMBERS (WITH STD CODE) 
+                    
+                    
+ 
+4. BANK PARTICULARS 
+A) BANK NAME 
+ 
+                   
+                   
+ 
+B) BANK TELEPHONE NUMBERS (WITH STD CODE) 
+ 
+                   
+                   
+ 
+C) BRANCH ADDRESS 
+ 
+                   
+                   
+                   
+          PIN CODE       
+ 
+D) BANK FAX NUMBER (WITH STD CODE) 
+ 
+                   
+ 
+E) BRANCH CODE 
+ 
+                   
+ 
+F) 9 DIGIT MICR CODE OF THE BANK BRANCH (ENCLOSE COPY OF A CANCELLED CHEQUE) 
+ 
+                   
+ 
+Page 36 of 79
+ 
+G) 11 DIGIT IFSC CODE OF THE BANK 
+ 
+                   
+ 
+H) BANK ACCOUNT NUMBER 
+ 
+                   
+ 
+I) BANK ACCOUNT TYPE (TICK ONE) 
+ 
+SAVING CURRENT LOAN CASH CREDIT OTHERS 
+     
+ 
+IF OTHERS, SPECIFY 
+ 
+                   
+ 
+5. PERMANENT ACCOUNT NUMBER (PAN) 
+          
+ 
+6. e-M ail Address for Intimation regarding release of payments 
+                    
+                    
+    
+I / We hereby declare that the particulars given above are correct and complete. If the transaction is delayed 
+or credit is not affected at all for reasons of incomplete or incorrect information, I / We would not hold the owner 
+responsible. 
+  
+ 
+ 
+ 
+ 
+DATE 
+        
+ 
+SIGNATURE 
+ 
+ 
+(AUTHORISED SIGNATORY) 
+ Name:    
+                   
+                   
+          
+ [OFFICIAL STAMP] 
+ 
+ 
+BANK CERTIFICATION:  
+It is certified that above mentioned beneficiary holds a bank account number __________________________ 
+___________________ with our branch and the Bank particulars mentioned above are correct. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATE 
+        
+ 
+SIGNATURE 
+ 
+ 
+(AUTHORISED SIGNATORY) 
+Authorization number: __________________ 
+ Name:    
+                   
+                   
+      
+     [OFFICIAL STAMP] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enclosure: Cancelled Blank Cheque in original 
+Page 37 of 79
+ 
+ Annexure – 08 
+ 
+INDEMNIT Y BOND  
+(On non-judicial paper of appropriate value and to be stamped in accordance with Stamp Act.) 
+The stamp paper to be in the name of Applicant / Dealer 
+ 
+ 
+This bond of indemnity is made on this _____ day of ___________ by _______________________________ 
+________________________________________ (name and address) and _________________________ 
+_________________ (details of the incorporation of the Applicant / Dealer ) hereinafter referred to as the 
+‘Applicant / Dealer’ which expression shall unless repugnant to the context or meaning thereof, include its 
+successors, administrators, executors and assigns) in favour of _________________________ NTPC Limited 
+____________ hereinafter referred to as the ‘Thermal Power Plant (hereinafter called TPP)’, which expression 
+shall, unless repugnant to the context or meaning thereof include its successors, administrators and assigns) 
+WHEREAS, TPP has issued to the Applicant / Dealer, an order / permission letter / Letter of Award Number _ 
+_____________________________ Dated ___________ and in terms of the said Order, the TPP has agreed 
+to issue ‘Ash Bricks’ to the Applicant / Dealer.  
+AND WHEREAS one of the conditions for the issue of the ‘Ash Bricks is that the Applicant / Dealer shall furnish 
+an Indemnity Bond in favour of the TPP, indemnifying TPP from any liability of whatsoever nature, which may 
+arise due to violation / non – compliance of any applicable norms / rules / regulations / Guidelines / laws during 
+the course of execution of order / permission letter / Letter of Award Number _________________ 
+_______________________ by way of omission or commission by the Applicant / Dealer or its representatives 
+/ agents. 
+Now this Indemnity Bond witnesseth as follows: 
+1.0 The Applicant / Dealer  hereby undertakes to fully and irrevocably indemnify and keep indemnified the 
+TPP against any and all of various liabilities of whatsoever nature, which may arise due to violation / Non 
+– compliance of any applicable norms / rules / regulations/ Guidelines  / laws including MOEF&CC 
+Guidelines during the course of lifting or handling of ‘Ash Bricks’ and for future obligations (if any), by way 
+of omission or commission by the Applicant / Dealer or its representatives / agents for ‘Ash Bricks’ issued 
+by the TPP  to the Applicant / Dealer  vide order / permission letter / Letter of Award Number __ ____ 
+___________________________  
+2.0 This Indemnity Bond shall be valid till Six (06) calendar months after the scheduled date / actual date of 
+completion of the contract / dealership period. 
+3.0 It is clearly understood and agreed to by the Applicant / Dealer  that non-observance of the obligations 
+under this Indemnity Bond by the Applicant / Dealer  shall Inter-alia constitute a criminal breach of trust 
+on the part of the Applicant / Dealer and they shall be liable for all legal / penal consequences thereof as 
+decided by TPP. 
+4.0 Now the condition of this Bond is that the Applicant / Dealer shall duly and punctually comply with all the 
+terms and conditions of this bond to the satisfaction of TPP, then, the above bond shall be void, but 
+otherwise, it shall remain in full force. 
+5.0 That this bond shall be irrevocable during its validity period and the Applicant / Dealer shall not revoke 
+this bond till it is discharged by TPP in writing. 
+ 
+ 
+For M/s ____________________________________ 
+(Applicant / Dealer) 
+WITNESS:  Signature ___________________________________ 
+Signature ___________________________  Printed Name ________________________________ 
+Printed Name ________________________                          (Authorized person having Power of Attorney) 
+Address _____________________________  Designation _________________________________ 
+____________________________________ 
+____________________________________ 
+ 
+Page 38 of 79
+ 
+Annexure – 09 
+ 
+MODEL AWARD LETTER  
+ 
+ 
+LETTER OF AWARD 
+ 
+Reference Number: NTPC/USSC/IMG/ _____________        Date: __________ 
+ 
+ 
+To, 
+__________________ 
+__________________ 
+Contact Number 
+e-Mail Id 
+GePNIC Registration Number 
+GST Registration Number 
+Legal Name [As per GST Certificate]:  
+Trade Name [As per GST Certificate] 
+ 
+ 
+Kind Attention: ________________________ 
+ 
+ 
+Subject: Letter of Award for “Appointment of Dealer for Sale of Ash Bricks Manufactured Under the 
+Brand Name 'VIKALP' at NTPC _____________________” 
+  
+ 
+Dear Madam / Sir, 
+ 
+This has reference to the following: 
+ 
+1. Bid document Reference: USSC_IMG_ASH BRICKS_XXXXXXX 
+Containing: 
+a. Invitation for Bid 
+b. Definitions 
+c. Instructions to Applicants 
+d. General Conditions of Contract 
+e. Scope and Special Conditions of Contract 
+f. Forms, Formats and Annexures 
+g. NTPC Debarment from Business Dealings Policy 
+h. NTPC Fraud Prevention Policy 
+i. NTPC Anti-Bribery and Anti-Corruption (ABAC) Policy 
+j. NTPC Customer Receipt Portal Help Manual 
+k. e- Auction / Tender document / catalogue 
+2. e- Tender Number / GePNIC Tender Id: ________________________________  
+3. Your bid id XXXXXX submitted against GePNIC Tender Id: XXXXXXXXXXXXXXXXX and its price bid 
+opened on XX.XX.XXXX   
+ 
+ 
+We are pleased to accept your offer and hereby appoint you as an Authorized Dealer for the sale, storage, 
+display, and supply of ‘VIKALP’ brand ‘Ash Bricks’ for a period of One (01) year. 
+The dealership appointment is designated for NTPC XXXXXXX. However, as a registered dealer, you are 
+granted the right to lift ‘VIKALP’ brand ‘Ash Bricks’ from any operational NTPC station, where Ash Bricks are 
+being manufactured, within the State of XXXXXXX at the final H1 Evaluated Bid Price of Ash Brick  for that 
+specific station, subject to availability. 
+ 
+Scope of Dealership 
+NTPC XXXXXXXXX STPX would be in a position to provide Ash Bricks from ‘Delivery Points’ subjected to 
+availability, force majeure conditions, unplanned outage of Plant, etc. 
+Page 39 of 79
+ 
+Dealers are authorized to sell / supply, store and display ‘VIKALP’ Brand Ash Bricks as NTPC’s authorized 
+dealer /s 
+NTPC XXXXXXXXX STPX reserves the right to supply the quantity not lifted by the dealers to any other party 
+at the sole discretion of NTPC XXXXXXXXX STPX. 
+ 
+Terms and Conditions of Dealership 
+The contract shall be performed by you strictly in accordance with the terms and conditions contained in 
+General Conditions of Contract and Special Conditions of Contract, e-Tender Catalogue / bid document, 
+definitions, its amendments, deletions and additions to the same attached herewith, except amendments / 
+modifications specifically brought in this award letter. 
+All the deviations whether implicit or explicit, contained in your offer stand unconditionally withdrawn, without 
+any cost implications to NTPC XXXXXXXXX STPX. 
+ 
+1. Contract Period: 
+1.1 The contract shall be effective from the date of issue of this LOA or as per the instructions of NTPC’s 
+Engineer-In-Charge. 
+1.2 The completion date of the contract period / sale period is One (01) Year from the date of start. 
+1.3 The contract period may be extended for an additional One [01] Year based on mutual agreement 
+of both the parties. 
+ 
+2. Commencement of Supply:  
+The Commencement date of issue of Ash Bricks is __________. 
+ 
+3. Award Price:  
+The price of Ash Bricks is INR _____/- per Number [XXXXXXXX Rupees and XXXX Paisa only], exclusive 
+of all statutory duties, levies, and GST. 
+ 
+4. Price Adjustment:  
+The price of Ash Bricks mentioned above at clause 3 is the award price until the end of the initial quarter 
+of the contract period. 
+Subsequently, the price shall be adjusted on the 1st day of each quarter and shall remain effective for that 
+specific quarter. Adjustments for subsequent quarters shall be determined as follows: 
+𝑃𝑃 =  𝑃𝑃0 �0.05 +  0. 45 � 𝐶𝐶
+𝐶𝐶0
+� +  0.50 � 𝑀𝑀
+𝑀𝑀0
+�� 
+Where: 
+• P  = Updated Price per Ash Brick 
+• P ₀ = Base Price per Ash Brick [H1 Evaluated Bid Price] 
+• C = Current Rate of Cement 
+• C ₀ = Base rate of Cement per Ash Brick [at the time of Calculation of ‘Floor Price’] 
+• M = Current Cost of Manpower 
+• M ₀ = Base cost of Manpower per Ash Brick [at the time of Calculation of ‘Floor Price’] 
+ 
+The following are the Values of P₀, C₀ and M₀ used in the subject e-Tender: 
+S. No. Price Adjustment Parameter Value 
+1 Base Price per Ash Bricks (P₀) XX.XX 
+2 Base rate of Cement per Ash Bricks (C₀) XX.XX 
+3 Base cost of Manpower per Ash Bricks (M₀) XX.XX 
+ 
+5. Working Hours: 
+‘Ash Bricks’ are intended to be issued on all working days during the office hours, or as per the directions 
+of Engineer-in-Charge  
+Page 40 of 79
+ 
+ 
+6. Quality of Ash Bricks 
+6.1 NTPC XXXXXXXXX STPX would issue Ash Bricks at designated delivery point(s) on “As Available” 
+basis. 
+6.2 NTPC XXXXXXXXX STPX Ash bricks adhere to the quality standards as per IS: 16720: 2018 and 
+fall under Class Designation XX / XX, with sizes ranging from xx / xx. Bricks manufactured at NTPC 
+XXXXXXXXX STPX and NTPC XXXXXXXXX STPX are also certified by BIS.  
+ 
+7. Delivery point:  
+7.1 NTPC XXXXXXXXX STPX would issue Ash Bricks from Suitable Locations as decided by Engineer-
+In-Charge of NTPC XXXXXXXXX STPX. 
+7.2 Ash Bricks shall be considered to have been issued as it passes into the Dealers vehicle at the 
+loading point 
+ 
+8. Payment Terms: 
+8.1 Delivery shall be made against advance payment in conformity with NTPC Policy for collecting 
+advance [through NTPC’s Customer Payment Portal]. Advance shall be adjusted against delivery 
+on a daily basis. 
+8.2 The Dealer to pay any taxes / duties extra on the applicable rates. 
+8.3 The Dealer to deposit the CPG / SD as per clause 9, in addition to advance mentioned above at 
+8.1 before the start of work. 
+8.4 All bank charges shall be borne by the Dealer / Buyer. 
+ 
+9. Contract Performance Guarantee (CPG) / Security Deposit (SD):  
+9.1 Appointed Dealer, each finalized Dealer has to submit a Security Deposit amounting INR 1,00,000 
+/- for each of the NTPC Station, within 15 days of issue of Letter of Intent and before taking first 
+delivery in the form of e-Payment at NTPC’s Customer Payment Portal. 
+9.2 Failure of the successful dealer to comply with the requirement of Submission of Security Deposit 
+within the prescribed time shall constitute sufficient grounds for the annulment of the allocation 
+order and forfeiture of the Pre Bid- EMD / Bid Security. Further, such dealer / buyer shall also be 
+dealt with as per the provisions of policy for Debarment from Business Dealings. 
+9.3 For commencement of supplies, submission of acceptable SD is a precondition. 
+9.4 Security Deposit (SD) shall be released within 90 (Ninety) days after completion of the dealership 
+period.  
+9.5 No interest is payable either of advance deposit or on SD 
+ 
+10. Allocation of Available Monthly Quantity: 
+10.1 Allocation of quantity of ‘Ash Bricks’ shall be carried out on the basis of the demand raised by the 
+appointed Dealer(s) by the 15th day of every month (for next month), in the form of a Demand Letter. 
+10.2 Based on the above demand and considering the corresponding available quantity of ‘Ash Bricks 
+for sale, NTPC XXXXXXXXX STPX shall determine and intimate the monthly allocation to the 
+Dealer(s) by the 20th day of every month (for next month). 
+10.3 Priority for lifting of ‘Ash Brick’ by the Dealers (s) shall be based on the advance payment received 
+through the NTPC Customer Receipt Portal (first deposited first served basis) 
+10.4 In case of non-mobilization or inadequate mobilization, NTPC may, at its discretion, allocate such 
+quantity to alternate dealer(s) / other avenues. The decision of the Engineer -in-Charge (EIC) of 
+NTPC shall be final and binding in this regard 
+ 
+11. Issue of Ash Bricks: 
+11.1 The dealer may depute an authorized representative at each NTPC station for which the dealership 
+has been awarded, for coordination and lifting of Ash Bricks from the designated delivery point, as 
+informed by the Engineer-in-Charge (EIC). 
+11.2 Depending upon operational convenience, safety requirements, and other considerations, the 
+Engineer-in-Charge (EIC) may schedule the lifting of Ash Bricks from the delivery point by different 
+Page 41 of 79
+ 
+agencies. Such schedules shall be binding upon the dealer(s). The schedules and deployment may 
+be worked out or revised from time to time based on periodic meetings among the concerned 
+stakeholders. 
+11.3 NTPC reserves the right to suspend the issuance of Ash Bricks if the required advance amount is 
+not available with NTPC by the stipulated date. Any such suspension of offtake shall be to the 
+account of the dealer. 
+ 
+12. Invoicing: 
+Ash Bricks shall be issued based on actual numbers.  
+ 
+13. Taxes and Duties: 
+13.1 The dealer shall be liable and responsible for payment of all statutory levies in the form of GST and 
+all other taxes and duties applicable on the Supply / Sale of Ash Bricks. Such statutory liabilities, if 
+any, shall be paid by the applicant extra at actuals. (“Goods and Services Tax” or “GST” means taxes 
+levied under the Central Goods and Services Tax Act, Integrated Goods and Services Tax Act, 
+Goods and Services Tax (Compensation to States) Act, and various State / Union Territory Goods 
+and Services Tax Laws and applicable cesses, if any under the laws in force (hereinafter referred to 
+as relevant GST Laws).”) 
+13.2 All Ash Bricks will be sold on ‘Ex-Works basis’. Regarding exports of Ash Bricks by the dealers, it is 
+the responsibility of the dealer to fulfill their export obligations as may be required, and any shortfall 
+in this regard shall be to the account of the appointed dealer only. The dealer indemnifies the owner 
+against all such liabilities and losses on failure to fulfill the export obligations, if any. 
+ 
+14. Billing 
+NTPC will issue the ‘Exit Gate Pass’ on daily basis and invoices on daily / weekly / fortnightly / monthly 
+basis and shall be delivered to the dealer (s). An invoice showing the value of the ‘Ash Bricks’ delivered / 
+issued for each day, along with applicable GST and all other duty / taxes / cess etc. as applicable, shall be 
+adjusted against the advance payment made by the dealers (s). 
+ 
+15. Responsibility During Loading and Transportation: 
+15.1 Loading at NTPC station and un-loading (at dealers (s) end) of Ash Bricks shall be in the scope of 
+the Dealer (s). Manpower required for loading of ‘Ash Bricks’ from NTPC station shall be arranged 
+by the dealers (s). However, NTPC will extend all possible equipment / mechanical support for the 
+same on availability basis. 
+15.2 Transportation, including bagging / packing of ‘Ash Bricks’ (if required), and any other related activity 
+is in the scope of the dealer. No claim whatsoever, by the dealer for transportation of the items, shall 
+be entertained. 
+15.3 Dealer(s) appointed for selling of ‘Ash Bricks’ shall apply for permission for suitable transportation 
+medium, such as tractor trolley, trucks etc. and for associated manpower, which needed to be deploy 
+for Ash Bricks lifting. Road Permits, Registration Certificates, Operator / Driver Licenses, Insurance 
+etc. applicable for the deployed vehicle and for manpower shall be submitted at the time of start of 
+work (and also when new and / or additional vehicles or manpower are deployed, and thereafter as 
+and when required, to Engineer -In-Charge for verification and issuance of permission as per 
+prevailing procedure adopted at NTPC. 
+15.4 The dealers’ transporter(s) / deployed vehicles shall be in fit condition and should meet the statutory 
+compliance requirement of State Government / Central Government / Concerned Authorities for 
+transportation of the specified goods. 
+15.5 The dealer (s) will be responsible for any kind of injuries or accidents caused to their employees or 
+labourers or any other person and NTPC will not be liable in the matter. If any action is brought 
+against the NTPC for payment of damages or compensation, the dealer shall indemnify the NTPC 
+from all such action or claim from damages / compensation. If the NTPC is held liable for any 
+compensation, the dealer shall forthwith compensate NTPC, if any, such claim arises during or after 
+the expiry of the contract period. 
+15.6 The dealer(s) shall abide by the terms and conditions of the dealership (as mentioned in the e-
+Tender / bidding documents and the LOA) and strictly align all activities of transporting and selling 
+within the terms and conditions set for the dealers.  
+ 
+Page 42 of 79
+ 
+16. Other Terms and Conditions: 
+16.1 Ash Bricks once loaded in trucks will be considered as sold. 
+16.2 The dealers are allowed to setup their outlet / warehouse at any of their premises.  
+16.3 Dealers shall obtain all applicable permissions from the concerned local /state / central authorities 
+for transport, storage, and sale of Ash Bricks’ as required. 
+16.4 Statutory / regulatory compliances shall be binding upon all the dealers and verifiable by NTPC. 
+16.5 All responsibilities and costs towards statutory obligation, outlet maintenance etc. whatsoever 
+shall be borne by the dealer. 
+16.6 Non – compliance of safety / environment provisions shall attract penal actions ranging from fine 
+to termination of contract / agreement / issue of ‘Ash Bricks’ as decided by the nodle person. 
+16.7 The dealer shall be fully responsible for maintaining all the insurance as per the law of land at its 
+cost. 
+16.8 The dealer shall at all times indemnify the owner (NTPC) against all losses, claims, damages or 
+compensation arising out of any accident or injury to any person (whether in employment of dealer 
+or not) or property in or about the plant of NTPC (inside / outside the plant) which may arise out 
+due to dealer’s act / negligence while carrying out the contract. 
+16.9 In case of any liability on NTPC, in any manner that arises due to non -compliance of any 
+Environmental and Transportation Norms, Rules, Guidelines and Statutory provisions by the 
+dealers or its representative / agent, during the course of execution and for  future obligations (if 
+any) by way of omission or commission, the agency shall keep NTPC effectively indemnified of any 
+such liability. The applicant will submit an indemnity bond as per prescribed format to be executed 
+on nonjudicial stamp paper of appropriate value by the dealer and duly notarized by a notary public) 
+to keep NTPC indemnified against legal proceedings / paying damages arising out of non-
+compliances by the applicant. 
+ 
+17. Authorized Person: 
+A proper authorization in the format prescribed by Engineer-in-Charge must be presented to Engineer-in-
+Charge, if the buyer wants to depute an agent / transporter on its behalf. 
+ 
+18. Compliance by Dealer (s): 
+Dealer (s) to comply with all reasonable controls imposed by NTPC XXXXXXXXX STPX and to cooperate 
+with the station and other operating dealers / buyers and to abide by the decision of Engineer-in-Charge. 
+In case of any dispute the decision of Engineer-in-Charge shall be final and binding. 
+ 
+19. Only __________ High Court shall have exclusive jurisdiction in all matters pertaining to the sale / Pond 
+Ash supply against this e-Auction / contract. 
+ 
+20. All payments to NTPC shall be made through customer receipt portal https://pgw.ntpclakshya.co.in 
+ 
+21. All terms and conditions of the e-Tender Documents for Tender Id: XXXXXXXX shall be applicable and 
+shall form a part of this Letter of Award. 
+ 
+22. Engineer- In-Charge: 
+Mr. ___________________________ | _______________@ntpc.co.in | _________________, or his 
+authorized representative, will be the Engineer-In-Charge for the contract. 
+ 
+You are requested to return a copy of this Letter of Award, duly signed, as acknowledgement of the same 
+within Fifteen (15) days of issuance of this letter, failing which, this letter of allocation will be deemed to be 
+accepted in full by you. 
+For and On Behalf of NTPC Ltd. 
+ 
+ 
+Enclosure: B idding / e-Tender documents for the subject case, including corrigendum [if any]. 
+Page 43 of 79
+506076(17)/2022/HYDEL-II SECTION Annexure – 10
+Page 44 of 79
+506076(17)/2022/HYDEL-II SECTION
+467
+Page 45 of 79
+
+
+
+
+
+3ROLF\IRU
+'HEDUPHQWIURP
+%XVLQHVV'HDOLQJV
+5HYGDWHG
+Page 46 of 79
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+1 of 19 
+
+
+
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV
+5HYGDWHG
+
+,1'(;
+6O1R 723,&
+ ,QWURGXFWLRQ
+ 6FRSH
+ 'HILQLWLRQV
+
+:LWKKROGLQJRIEXVLQHVVGHDOLQJV
+ *URXQGV
+ 3URFHGXUH
+ 1RWLFHRI'HIDXOW
+ $UHDRI2SHUDWLRQ
+ (IIHFWRI:LWKKROGLQJ
+ 'XUDWLRQRI:LWKKROGLQJ
+ 5HYRFDWLRQRI2UGHUV
+ %DQQLQJRI%XVLQHVV'HDOLQJV
+  *URXQGV
+  3URFHGXUH
+  6KRZ&DXVH1RWLFH
+  6SHDNLQJ2UGHUV
+  &RPPXQLFDWLRQWR$JHQFLHV
+  3HULRGRIEDQQLQJ
+  $UHDRIRSHUDWLRQ
+  (IIHFWRI%DQQLQJ
+  3URFHVVRIUHSO\
+  +RVWLQJDW173&:HEVLWH
+  $SSHDO
+  5HYRFDWLRQ
+ 6XVSHQVLRQRI%XVLQHVV'HDOLQJV
+  *URXQGV
+  3URFHGXUH
+  (IIHFWRI6XVSHQVLRQ
+ 3DUWLFLSDWLRQRI$JHQF\XQGHU'LIIHUHQW1DPH
+ 3DUWLFLSDWLRQRI$JHQF\DVDQ$VVRFLDWH&ROODERUDWRU6XE9HQGRU	
+3URFXUHPHQWLQ2SHUDWLQJ6WDWLRQV
+ 7UHDWPHQWLQ7HQGHU&RQWUDFWVRI-9V6XEVLGLDULHVRI173&
+Page 47 of 79
+2 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+3ROLF\IRU
+'HEDUPHQWIURP%XVLQHVV'HDOLQJV
+
+
+ ,QWURGXFWLRQ
+ 173& /WG GHDOV ZLWK $JHQFLHV ZKR DUH H[SHFWHG WR DGRSW HWKLFVR I 
+KLJKHVW VWDQGDUGV DQG D YHU\ KLJKGHJUHH RI LQWHJULW\ WUDQVSDUHQF\
+FRPPLWPHQWVDQGVLQFHULW\WRZDUGVWKHZRUNXQGHUWDNHQ,WLVQRWLQWKH
+LQWHUHVWRI173&WRGHDOZLWKDQ\$JHQF\ ZKLFKFRPPLWVGHFHSWL RQ
+IUDXGRURWKHUPLVFRQGXFWRIZKDWVRHYHUQDWXUHLQWKHWHQGHULQJSURFHVV
+DQGRU H[HFXWLRQ 173& LV FRPPLWWHG IRU WLPHO\ FRPSOHWLRQ RI WKH
+SURMHFWVZLWKLQWKHDZDUGHGYDOXHZLWKRXWFRPSURPLVLQJRQ TXDOLW\
+ 6LQFHEDQQLQJRIEXVLQHVVGHDOLQJVLQYROYHVFLYLOFRQVHTXHQFHVIRUDQ
+$JHQF\FRQFHUQHGLWLVLQFXPEHQWWKDWDGHTXDWHRSSRUWXQLW\RIKHDULQJ
+LV SURYLGHG DQG WKH H[SODQDWLRQ L I WHQGHUHG LV FRQVLGHUHG EHI RUH
+SDVVLQJ DQ\ RUGHU LQ WKLV UHJDUG NHHSLQJ LQ YLHZ WKH IDFWV DQG
+FLUFXPVWDQFHVRIWKHFDVH
+ 6FRSH
+
+ 173&UHVHUYHVLWVULJKWWRZLWKKROGRUEDQRUVXVSHQGEXVLQHVVGHDOLQJV
+ZLWKDQ\$JHQF\LIVXFK$JHQF\LVIRXQGWRKDYHFRPPLWWHGPLVFRQGXFW
+RUDQ\RILWVDFWLRQVIDOOLQWRDQ\VXFKFDWHJRULHVDVODLGG RZQLQWKLV
+SROLF\
+
+ 7KHSURFHGXUHIRUL:LWKKROGLQJRI%XVLQHVV'HDOLQJVLL%D QQLQJRI
+%XVLQHVV'HDOLQJVDQGLLL6XVSHQVLRQRI%XVLQHVV'HDOLQJVZLW KDQ\
+$JHQF\ KDV EHHQ ODLG GRZQ LQ WKHVH JXLGHOLQHV 7KH WHUPV
+µZLWKKROGLQJ¶µVXVSHQVLRQ¶¶EDQQLQJ¶HWFFRQYH\WKHVDPHPHDQLQJDV
+WKDWRIGHEDUPHQW
+
+ 7KLVSROLF\FRPHVLQWRIRUFHIURPWKHGDWHRILWV LVVXDQFH
+
+ 7KH SURYLVLRQV RI WKLV SROLF\ ZLOO EH HIIHFWLYH RQ LQYHVWLJDWLR QV
+FRQGXFWHG RU PLVFRQGXFWLUUHJXODULWLHV QRWLFHG RQ WKH SDUW RI D Q\
+$JHQF\LQDOOFRQWUDFWVDZDUGHGRQRUDIWHUWKHGDWHRILPSOHPHQWDWLRQ
+RIWKLVSROLF\DQGLQWKHFRQWUDFWVXQGHUH[HFXWLRQRUFRQWUDFW VQRW\HW
+FORVHGRQWKHGDWHRIWKHLPSOHPHQWDWLRQRIWKLVSROLF\
+
+ 7KHSURYLVLRQVRIWKLV3ROLF\VKDOOEHDSSOLFDEOHIRU6XEVLGLDU LHV-9VRI
+173&DVZHOO
+
+ :LWKKROGLQJ  %DQQLQJ  6XVSHQVLRQ RI EXVLQHVV GHDOLQJV ZLWK DQ \
+DJHQF\ VKDOO EH GRQH &RPSDQ\ ZLGH RQO\ HQWLUH 173& LQFOXGLQJ
+6XEVLGLDULHVDQG-9V
+
+
+Page 48 of 79
+3 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+ 'HILQLWLRQV
+,QWKHVH*XLGHOLQHVXQOHVVWKHFRQWH[WRWKHUZLVHUHTXLUHV
+
+L $JHQF\VKDOOPHDQ&RQWUDFWRU6XSSOLHU$SSOLFDQW3XUFKDVHU%LGGHU
+6HOOHU &RQVXOWDQW %X\HU 173 & DSSURYHG 6XEFRQWUDFWRU RI D
+&RQWUDFWRU¶ WR ZKRP ZRUN KDV EHHQ DZDUGHG ,W VKDOO LQFOXGH EXW QRW
+OLPLWHGWRDSXEOLFOLPLWHGFRPSDQ\RUDSULYDWHOLPLWHGFRPSD Q\DILUP
+ZKHWKHU UHJLVWHUHG RU QRW DQ\ LQGLYLGXDO D FRRSHUDWLYH VRFLHW\ RU DQ
+DVVRFLDWLRQ RU D JURXS RI SHUVRQV HQJDJHG LQ DQ\ FRPPHUFH WUDGH
+LQGXVWU\RUFRQVWLWXHQWVRIDQXQLQFRUSRUDWHG-RLQW9HQWXUH&R PSDQ\
+3URSULHWRU,QGLYLGXDO$UWLILFLDO-XULGLFDOSHUVRQ HWF
+
+LL &RPSHWHQW$XWKRULW\VKDOOPHDQWKHIROORZLQJ
+
+D )RU %DQQLQJ RI %XVLQHVV 'HDOLQJV SHUWDLQLQJ WR &RQWUDFWV
+DZDUGHGSURFHVVHG IURP &RUSRUDWH &HQWUH 6LWH 5HJLRQ
+866&-9V6XEVLGLDULHVRI173&
+
+)XQFWLRQDO'LUHFWRURIWKHFRQFHUQHGGHSWWLQLWLDWLQJWKHSURSRVDOIRU
+%DQQLQJVKDOOEHWKHµ&RPSHWHQW$XWKRULW\¶IRUWKHSXUSRVHRIWKHVH
+JXLGHOLQHV
+
+)RUFDVHVSHUWDLQLQJWR-9V6XEVLGLDULHVRI173&WKH&RPSHWHQW
+$XWKRULW\VKDOOEHWKH&KDLUPDQRIWKH%RDUGRIWKH-96XEVLGLDU\
+SURYLGHGWKH&KDLUPDQLVD)XQFWLRQDO'LUHFWRURI173&,QFDVHWKH
+&KDLUPDQ RI WKH %RDUG RI WKH -9  6XEVLGLDU\ LV QRW D )XQFWLRQDO
+'LUHFWRURI173&FRPSHWHQWDXWKRULW\ VKDOO EH'LUHFWRU,Q&KDU JH
+RI&&	0GHSWRI173&
+
+&0'173&VKDOOEHWKHµ$SSHOODWH$XWKRULW\¶IRUDOOFDVHV
+
+E )RU:LWKKROGLQJRI%XVLQHVV'HDOLQJVSHUWDLQLQJWR&RQWUDFWV
+DZDUGHGSURFHVVHGIURP
+
+L &RUSRUDWH&HQWUH &RQFHUQHG5(')XQFWLRQDO('DQG
+('&&	0
+
+LL 6LWH5HJLRQ866& -9V6XEVLGLDULHV&RQFHUQHG5('DQG
+('866&
+
+F )RU 6XVSHQVLRQ RI %XVLQHVV 'HDOLQJV LQFOXGLQJ LVVXDQFH RI
+VKRZ FDXVH QRWLFH IRU %DQQLQJ SHUWDLQLQJ WR &RQWUDFWV
+DZDUGHGSURFHVVHGIURP
+
+L &RUSRUDWH&HQWUH ±('&&	0
+
+LL 6LWH5HJLRQ866& -9V6XEVLGLDULHV±('866&
+
+
+
+Page 49 of 79
+4 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+LLL µ,QYHVWLJDWLQJ 'HSDUWPHQW¶ VKDOO PHDQ DQ\ 'HSDUWPHQW RU 8QLW RI
+173&LQYHVWLJDWLQJLQWRWKHFRQGXFWRIWKH$JHQF\DQGVKDOOLQFOXGHWKH
+173&9LJLODQFH'HSDUWPHQW&HQWUDO%XUHDXRI,QYHVWLJDWLRQWKH 6WDWH
+3ROLFH RU DQ\ RWKHU GHSDUWPHQW VHW XS E\ WKH &HQWUDO RU 6WDWH
+*RYHUQPHQWKDYLQJSRZHUVWR LQYHVWLJDWH
+
+LY /LVW RI (QOLVWHG $JHQFLHV ±VKDOO PHDQ DQG LQFOXGH OLVW RI (QOLVWHG
+3DUWLHV&RQWUDFWRUV6XSSOLHUV%LGGHUV HWF
+
+Y 6WDWH ± LQFOXGHV WKH *RYHUQPHQW DQG 3DUOLDPHQW RI ,QGLD DQG WKH
+*RYHUQPHQW DQG WKH /HJLVODWXUH RI HDFK RI WKH 6WDWHV DQG DOO ORFDO RU
+RWKHUDXWKRULWLHVZLWKLQWKHWH UULWRU\RI,QGLDRUXQGHUWKHFR QWURORI WKH
+*RYHUQPHQWRI,QGLD
+
+YL )UDXG3UHYHQWLRQ3ROLF\ ±VKDOOPHDQWKHSROLF\UHODWHGWRSUHYHQWLRQ
+RIIUDXGGLVSOD\HGRQ173&WHQGHUZHEVLWHKWWSVQWSFWHQGHUQWSFFRLQ
+
+YLL &RQWUDFWRU 3HUIRUPDQFH )HHGEDFN DQG (YDOXDWLRQ 6\VWHP ±7KH
+JXLGHOLQHV RXWOLQHG LQ UHOHYDQW 173& FLUFXODU IRU HYDOXDWLQJ WK H
+&RQWUDFWRU¶V SHUIRUPDQFH E\ WKH 6FUHHQLQJ &RPPLWWHH LQ UHVSHFW RI
+&RQWUDFWVDZDUGHGE\&RUSRUDWH&RQWUDFWV6HUYLFHV
+
+YLLL &RPSOHWLRQRI)DFLOLWLHVVKDOOPHDQWKHWHUPµ&RPSOHWLRQRI)DFLOLWLHV¶
+DVGHILQHGLQWKH&RQWUDFW
+
+L[ 6WDQGLQJ &RPPLWWHH VKDOO PHDQ D FURVVIXQFWLRQDO &RPPLWWHH
+FRQVWLWXWHGIRUWKHSXUSRVHRIWKHVHJXLGHOLQHV
+
+[ &&	0VKDOOPHDQ³&RUSRUDWH&RQWUDFWV	0DWHULDOV'HSWWRI173&´
+
+[L ,QWHJULW\ 3DFW VKDOO PHDQ WKH SDFW DV GLVSOD\HG RQ 173& WHQGHU
+ZHEVLWHKWWSVQWSFWHQGHUQWSFFRLQ
+
+ :LWKKROGLQJRI%XVLQHVV'HDOLQJV
+ *URXQGV
+7KHEXVLQHVVGHDOLQJZLWKWKH$JHQF\PD\EHZLWKKHOGLIWKH\DUHIRXQG
+WREHLQEUHDFKRIWKHWHUPV	FRQGLWLRQVRIWKH&RQWUDFWRQDFFRXQWRI
+WKHUHDVRQVDWWULEXWDEOHWRWKHPZKLFKVKDOOLQFOXGHEXWQRW EHOLPLWHG
+WRWKHIROORZLQJ
+
+,IWKH$JHQF\
+
+D (LWKHUIDLOVWRFRPPHQFHZRUNRQWKH)DFLOLWLHVLQWHUPVRIFRQ WUDFW
+RUVXVSHQGVWKHSURJUHVVRI&RQWUDFW SHUIRUPDQFH
+
+E )DLOVWRDFKLHYHWKHC&RPSOHWLRQRI)DFLOLWLHV¶RUH[HFXWHWKHFRQWUDFW
+PLOHVWRQHVZLWKLQWLPHVFKHGXOHVWLSXODWHGLQWKH FRQWUDFW
+Page 50 of 79
+5 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+F 6XVSHQGVVWRSV ZRUN RQ DQ\ XQIRXQGHG SUHWH[W LQFOXGLQJ VHHNLQJ
+KLJKHUFRPSHQVDWLRQ
+
+G )DLOVWRFRQGXFWWKH*XDUDQWHHWHVWLQWKHWLPHOLPLWVWLSXODWHGLQWKH
+FRQWUDFW
+
+H 'LYHUWVIXQGVDGYDQFHGWRWKH&RQWUDFWRUIRUSXUSRVHRWKHUWKDQWKH
+&RQWUDFW
+
+I 'RHV QRW GHSOR\ RU ZLWKGUDZV WKH W H F K Q L F D O V W D I I R U H T X L S P H Q W 
+FRQVLGHUHGQHFHVVDU\DVSHUWKHWHUPV	FRQGLWLRQVRI  FRQWUDFW
+
+J )DLOV WR IXUQLVK WKH UHTXLUHG GRFXPHQWV  LQIRUPDWLRQ DV UHTXLUHG
+XQGHUWKHWHUPV	FRQGLWLRQVRI FRQWUDFW
+
+K 'RHVQRWIXOILOOWKHREOLJDWLRQVDVUHTXLUHGXQGHUWKH&RQWUDFW 
+
+L 9LRODWHVWHUPV	FRQGLWLRQVRIWKHFRQWUDFW
+
+M 'RHV QRW 6XSSO\ PDWHULDO VXSSOLHV PDWHULDO RI LQIHULRU TXDOLW\Z L W K 
+UHVSHFWWR7HFKQLFDO6SHFLILFDWLRQVXQGHUWKH &RQWUDFW
+
+N 2QSULPDIDFLHVFUXWLQ\ZRUNH[HFXWHGIRXQGWREHRISRRUTXDO LW\
+EH\RQG DFFHSWDEOHOLPLWV VWLSXODWHG LQWKH7HFKQLFDO6SHFLILFDW LRQV
+XQGHUWKH&RQWUDFW
+
+O ,IDGLVDVWHUPDMRUIDLOXUHDFFLGHQWFROODSVHRIDVWUXFWXUHV\VWHP
+FDXVHG GXULQJ HUHFWLRQ RU GXULQJ GHIHFW OLDELOLW\ SHULRGprima facie 
+DSSHDUVWREHGXHWRQ HJOLJHQFHRIFRQWUDFWRURUGHVLJQGHILFLH QF\
+RUSRRUTXDOLW\RIH[HFXWLRQ
+
+P $VVLJQVWUDQVIHUVVXEOHWVRUDWWHPSWVWRDVVLJQWUDQVIHURU VXEOHW
+WKH HQWLUH :RUNV RU DQ\ SRUWLRQ WKHUHRI ZLWKRXW WKH SULRU ZULWW HQ
+DSSURYDORIWKH(PSOR\HU
+
+Q 0LVEHKDYLRU RU SK\VLFDO PDQ KDQGOLQJ E\ WKH $JHQF\ RU KLV
+UHSUHVHQWDWLYHRUDQ\SHUVRQDFWLQJRQKLVEHKDOIZLWKDQ\RIILFLDORI
+WKHFRPSDQ\GHDOLQJZLWKWKHFRQFHUQHG FRQWUDFW
+
+
+R ,I 173& SULPDIDFLH LV RI WKH YLHZ WKDW WKH $JHQF\ LV JXLOW\ RI DQ
+RIIHQFH LQYROYLQJ FRUUXSW IUDXGXOHQW SUDFWLFHV LQFOXGLQJ
+PLVUHSUHVHQWDWLRQ RI IDFWV DV SHU 173& )UDXG 3UHYHQWLRQ 3ROLF\
+PRUDOWXUSLWXGHLQUHODWLRQWRWKHEXVLQHVVGHDOLQJVZLWK173&
+
+S ,IWKH&HQWUDO9LJLODQFH&RPPLVVLRQ&HQWUDO%XUHDXRI,QYHVWLJDWLRQ
+RUDQ\RWKHU&HQWUDO*RYHUQPHQWLQYHVWLJDWLRQ$JHQF\RUDQ\RWK HU
+&HQWUDO *RYHUQPHQW 'HSDUWPHQW UHFRPPHQGV VXFK D FRXUVH LQ
+UHVSHFWRIDFDVHXQGHU LQYHVWLJDWLRQ
+
+Page 51 of 79
+6 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+T ,I WKH VHFXULW\ FRQVLGHUDWLRQ LQFOXGLQJ TXHVWLRQV RI OR\DOW\ RI WKH
+$JHQF\WRWKHVWDWHVRZDUUDQWV
+
+U 7KHILQLVKHGZRUNHLWKHUSUHPDWXUHO\IDLOVRUIDLOVWRJLYHWKHGHVLUHG
+RXWSXWVHUYLFHGXULQJWKHGHIHFW OLDELOLW\SHULRGDQGWKH$JHQF \IDLOV
+WRUHFWLI\LW
+
+V 2Q DQ\ JURXQG DV SHU ZKLFK GRLQJ EXVLQHVV GHDOLQJV ZLWK WKH
+$JHQF\ LV QRW LQ WKH SXEOLF LQWHUHVW LQ WKH RSLQLRQ RI &RPSHWHQW
+$XWKRULW\
+
+W ,I WKH $JHQF\ IDLOV WR FRPSO\ ZLWK DQ\ RI WKH VWDWXWRU\ ODZV DQG
+UHJXODWLRQVLQIRUFHLQWRWDOLW\HYHQDIWHUFRPSOHWLRQRI  ZRUN
+
+ 3URFHGXUH
+
+7KH FRQFHUQHG GHSDUWPHQW DW 6LWH5HJLRQ866&&RUSRUDWH &HQWUH RQ
+QRWLFLQJ DQ\ QRQXQGHU SHUIRUPDQFH DQGRU LUUHJXODULWLHV DQGRU 
+PLVFRQGXFWDQGRUXQHWKLFDOSUDFWLFHDVPHQWLRQHGDERYHVKDOOUHIHUWKH
+PDWWHU WR &RQYHQHU RI WKH 6WDQGLQJ &RPPLWWHH DORQJ ZLWK UHOHYDQ W
+GHWDLOV7KH6WDQGLQJ&RPPLWWHHVKDOODQDO\]HWKHUHIHUUHGFDVH DQGLI
+FRQVLGHUHG DSSURSULDWHVKDOO SXW XSWKHSURSRVDOIRULVVXLQJ 1RWLFH RI
+'HIDXOW IRU WKH SXUSRVH RI ZLWKK ROGLQJ RI EXVLQHVV GHDOLQJV ZLWK WKH
+$JHQF\IRUDSSURYDORIWKH&RPSHWHQW$XWKRULW\7KHDERYHGUDIW1RWLFH
+RI'HIDXOWWREHLVVXHGWRWKH$JHQF\VKRXOGFOHDUO\LQGLFDWHWKHFKDUJHV
+EDVHGRQWKHIDFWVDVFDQEHSURYHG
+
+,QFDVHWKH6WDQGLQJ&RPPLWWHHUHF RPPHQGVZDLYHURIZLWKKROGLQJ RI
+EXVLQHVV GHDOLQJV ZLWK WKH $JHQF\ WKH SURSRVDO DORQJ ZLWK UHDVRQV
+WKHUHRIVKDOOEHSXWXSIRUDSSURYDORIWKH&0'173&
+
+ 1RWLFHRI'HIDXOW
+
+2QFHWKHSURSRVDOIRULVVXDQFHRI1RWLFHRIGHIDXOWLVDSSURYHG E\WKH
+&RPSHWHQW$XWKRULW\Dµ1RWLFHRI'HIDXOW¶GXO\YHWWHGE\OHJDOGHSWVKDOO
+EHLVVXHGE\WKH&RPSHWHQW$XWKRULW\KLPVHOIRUE\DSHUVRQDXWKRUL]HG
+IRUWKHVDLGSXUSRVHWRWKH$JHQ F\JLYLQJWKHPDSHULRGRIWZHQ W\HLJKW
+GD\VWRUHPHG\WKHGHIDXOW
+
+,I$JHQF\IDLOVWRUHPHG\RUWDNHDGHTXDWHVWHSVWRUHPHG\WKH GHIDXOW
+WR WKH VDWLVIDFWLRQ RI 173& ZLWKLQ WKH QRWLFH SHULRG PHQWLRQHGDERYH
+WKHQEXVLQHVVGHDOLQJVVKDOOEHZLWKKHOGZLWKWKH$JHQF\DIWHU DSSURYDO
+RIWKH&RPSHWHQW$XWKRULW\7KHRUGHURIVXFKZLWKKROGLQJRIEX VLQHVV
+GHDOLQJV DIWHU YHWWLQJ E\ OHJDO GHSW VKDOO EH FRPPXQLFDWHGE\ WKH
+&RPSHWHQW $XWKRULW\ KLPVHOI RU E\ D SHUVRQ DXWKRUL]HG IRU WKH V DLG
+SXUSRVH
+
+Page 52 of 79
+7 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+ $UHDRI2SHUDWLRQ
+
+:LWKKROGLQJ RI EXVLQHVV GHDOLQJV ZLWK DQ\ DJHQF\ VKDOO EH GRQH
+&RPSDQ\ZLGHRQO\HQWLUH173&LQFOXGLQJ6XEVLGLDULHVDQG-9VIRU
+DOOFDVHVLQFOXGLQJFDVHVSURFHVVHGIURP173&6XEVLGLDULHVDQG-9V
+
+ (IIHFWRI:LWKKROGLQJ
+
+7KH $JHQF\ DIWHU LVVXDQFH RI WKH 2UGHU RI :LWKKROGLQJ RI EXVLQHVV
+GHDOLQJV XQGHU WKLV SROLF\ ZRXOG QRW EH DOORZHG WR SDUWLFLSDWHLQ DQ\
+IXWXUH WHQGHU HQTXLU\ DQG LI WKH $JHQF\ KDV DOUHDG\ SDUWLFLSDWH G LQ
+DQRWKHU WHQGHU SURFHVV DQG WKH SULFH ELGV DUH QRWRSHQHG LWV WHFKQR
+FRPPHUFLDOELGZLOOEHUHMHFWHGDQGSULFHELGZLOOQRWEHRSHQHG)XUWKHU
+ZKHUH WKH SULFH ELG RI $JHQF\ KDV EHHQ RSHQHG SULRU WR LVVXDQFHR I 
+:LWKKROGLQJ 2UGHU XQGHU WKLV SROLF\ WKH SULFH ELG RI $JHQF\ VKDOO EH
+UHMHFWHG,QFDVHVXFKDJHQF\LVWKHORZHVWHYDOXDWHGELGGHU/QH[W
+ORZHVWHYDOXDWHGELGGHUVKDOOEHFRQVLGHUHGDV/
+
+1R DZDUG VKDOO EH SODFHG RQ DQ\ DJHQF\ LI :LWKKROGLQJ 2UGHU IRU 
+EXVLQHVV GHDOLQJV XQGHU WKLV SROLF\ KDV EHHQ LVVXHG SULRU WR DZDUG RI
+FRQWUDFW
+
+%LG6HFXULW\RIVXFKDJHQF\VKDO OEHUHWXUQHGDIWHUUHMHFWLRQR IELGVLQ
+WKHVHFDVHV
+1RWH &RQWUDFWV FRQFOXGHG EHIRUH WKH LVVXH RI WKH :LWKKROGLQJ RUGHU
+VKDOOQRWEHDIIHFWHGE\WKH:LWKKROGLQJ2UGHU
+
+ 'XUDWLRQRI:LWKKROGLQJ
+
+'XUDWLRQRIZLWKKROGLQJRIEXVLQHVVGHDOLQJVZLWKWKH$JHQF\VKDOOEHIRU
+DSHULRGRIRQH\HDU:LWKLQWKLVSHULRGLIWKH$JHQF\UHFWLILHVWKHUHDVRQ
+JURXQGRQZKLFKEXVLQHVVGHDOLQJVZLWKWKH$JHQF\KDVEHHQZLWKKHOG
+WR WKH VDWLVIDFWLRQ RI WKH &RPSHWHQW $XWKRULW\ WKHQ RQ ZULWWHQ
+UHSUHVHQWDWLRQRIWKH$JHQF\WKH &RPSHWHQW$XWKRULW\FDQUHYLH ZDQG
+LI VDWLVILHG PD\ UHYRNH WKH RUGHU RI ZLWKKROGLQJ RI EXVLQHVV GHDOLQJ
+3URYLGHG IXUWKHU WKDW HYHQ WLOO FRPSOHWLRQ RI RQH \HDU RI ZLWKKROGLQJ
+SHULRGLIWKH$JHQF\GRHVQRWUHFWLI\WKHQWKH&RPSHWHQW$XWKRULW\DIWHU
+UHYLHZLQJ WKH VLWXDWLRQ PD\ LVVXH RUGHU H[WHQGLQJ WKH SHULRG RI 
+ZLWKKROGLQJIRURQHPRUH\HDURUDGYLVHLQLWLDWLRQRIDFWLRQIRUEDQQLQJRI
+EXVLQHVV GHDOLQJV ZLWK $JHQF\ LQ DFFRUGDQFH ZLWK WKH SURFHGXUH
+SUHVFULEHGLQ3DUDEHORZ
+
+ 5HYRFDWLRQRI2UGHUV
+
+$Q RUGHU IRU ZLWKKROGLQJ RI EXVLQHVV GHDOLQJ SDVVHG IRU D FHUWD LQ
+VSHFLILHG SHULRG LQFOXGLQJ H[WHQ VLRQ WKHUHRI VKDOO QRW EH UHY RNHG
+DXWRPDWLFDOO\6XFKZLWKKROGLQJVKDOOEHUHYRNHGRQO\DIWHURUG HULQWKLV
+UHVSHFWLVLVVXHGZLWKWKHDSSURYDORI&RPSHWHQW$XWKRULW\
+Page 53 of 79
+8 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+ %DQQLQJRI%XVLQHVV'HDOLQJV
+
+ *URXQGV
+%DQQLQJ RI EXVLQHVV GHDOLQJV FDQ EH LQLWLDWHG DJDLQVW $JHQF\ R Q
+IROORZLQJJURXQGV
+D ,IWKH$JHQF\KDVDEDQGRQHGRUUHSXGLDWHGWKH&RQWUDFW
+E ,I WKH &RQWUDFWRU LV IRXQG WR EH QRQSHUIRUPLQJ LQ H[HFXWLRQ RI
+FRQWUDFW E\ WKH 6FUHHQLQJ &RPPLWWHH QRPLQDWHG DV SHU 173&
+HVWDEOLVKHG µ&RQWUDFWRU 3HUIRUPDQFH )HHGEDFN DQG (YDOXDWLRQ
+6\VWHP¶
+F ,I D GLVDVWHU  PDMRU IDLOXUH  DFFLGHQW  FROODSVH RI D VWUXFWXUH 
+V\VWHP LV FDXVHG GXULQJ HUHFWLRQ RU GXULQJ GHIHFW OLDELOLW\ SHULRG
+GXHWRQHJOLJHQFHRIFRQWUDFWRURUGHVLJQGHILFLHQF\RUSRRUTXDOLW\
+RIH[HFXWLRQXQGHUWKHFRQWUDFW
+G 0LVEHKDYLRU RU SK\VLFDO PDQKDQGOLQJ E\ WKH $JHQF\ RU KLV
+UHSUHVHQWDWLYHRUDQ\SHUVRQDFWLQJRQKLVEHKDOIZLWKDQ\RIILFLDORI
+WKH&RPSDQ\GHDOLQJZLWKWKHFRQFHUQHGFRQWUDFWLV HVWDEOLVKHG
+H ,IWKH'LUHFWRU2ZQHURIWKH$JHQF\SURSULHWRURUSDUWQHURI WKH
+$JHQF\LVFRQYLFWHGE\DFRXUWRIODZIRURIIHQFHVLQYROYLQJFRUUXSW
+DQG IUDXGXOHQW SUDFWLFHVLQFOXGLQJPRUDOWXUSLWXGHLQUHODWLRQ WRLWV
+EXVLQHVVGHDOLQJVZLWKWKHJRYHUQPHQWRU173&RU173&¶VJURXS
+FRPSDQLHVGXULQJWKHODVWILYH\HDUV
+I ,I WKH SURSULHWRU RI WKH $JHQF\ KDYH EHHQ JXLOW\ RI PDOSUDFWLFHV
+VXFK DV EULEHU\ FRUUXSWLRQ IUDXG  VXEVWLWXWLRQ RI WKH WHQGHUV 
+LQWHUSRODWLRQV HWFLQUHVSHFWRISDUWLFLSDWLRQLQWKHELGGLQJSURFHVV
+IRUWKHFRQWUDFWDQGRUH[HFXWLRQRIWKHFRQWUDFW
+J ,I WKH $JHQF\ FRQWLQXRXVO\ UHIXVHV WR UHWXUQ  UHIXQG WKH GXHVRI
+173& RU 173&¶V JURXS FRPSDQLHV ZLWKRXW VKRZLQJ DGHTXDWH
+UHDVRQDQGWKLVLVQRWGXHWRDQ\UHDVRQDEOHGLVSXWHZKLFKZRXO G
+DWWUDFWSURFHHGLQJVLQDUELWUDWLRQRUFRXUWRI/DZ
+K ,I WKH $JHQF\ HPSOR\V D SXEOLF VHUYDQW GLVPLVVHG  UHPRYHG RU
+HPSOR\VDSHUVRQFRQYLFWHGIRUDQRIIHQFHLQYROYLQJFRUUXSWLRQ RU
+DEHWPHQWRIVXFKRIIHQFHV
+L ,I EXVLQHVV GHDOLQJV ZLWK WKH $JHQF\ KDYH EHHQ EDQQHG E\ WKH
+0LQLVWU\RI3RZHURU'HSWWRI([SHQGLWXUH0LQLVWU\RI)LQDQFHDQG
+WKHEDQLVVWLOOLQIRUFH
+M ,ILWLVHVWDEOLVKHGWKDW$JHQ F\KDVUHVRUWHGWRFRUUXSWIUDXG XOHQW
+SUDFWLFHV LQFOXGLQJ PLVUHSUHVHQWDWLRQ RI IDFWV LQ UHVSHFW RI
+SDUWLFLSDWLRQ LQ WKH ELGGLQJ SUR FHVV IRU WKH FRQWUDFW DQGRU WK H
+H[HFXWLRQRIWKHFRQWUDFW
+Page 54 of 79
+9 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+N ,IWKH$JHQF\XVHVLQWLPLGDWLRQWKUHDWHQLQJRUEULQJVXQGXHRXWVLGH
+SUHVVXUHRQWKH173&RU173&¶VJURXSFRPSDQLHVRULWVRIILFLDOLQ
+DFFHSWDQFHSHUIRUPDQFHRIWKHMREXQGHUWKHFRQWUDFW
+O ,IWKH$JHQF\LQGXOJHVLQUHSHDWHGDQGRUGHOLEHUDWHXVHRIG HOD\
+WDFWLFVLQFRPSO\LQJZLWKFRQWUDFWXDOVWLSXODWLRQV
+P ,I WKH $JHQF\ LV IRXQG WR EH LQYROYHG LQ FDUWHO IRUPDWLRQ GXULQJ
+ELGGLQJIRUWKHWHQGHU
+Q 2Q ZLOOIXO LQGXOJHQFH E\ WKH $JHQF\ LQ VXSSO\LQJ VXEVWDQGDUG
+PDWHULDOZLWKUHVSHFWWR7HFKQLFDO6SHFLILFDWLRQVXQGHUWKH&RQWUDFW
+LUUHVSHFWLYHRIZKHWKHUSUHGL VSDWFKLQVSHFWLRQZDVFDUULHGRXWE\
+&RPSDQ\173&RUQRW
+R %DVHG RQ WKH ILQGLQJV RI WKH LQYHVWLJDWLRQ UHSRUW RI &%,3ROLFHRU
+DQ\ RWKHU &HQWUDO *RYHUQPHQW LQYHVWLJDWLRQ $JHQF\'HSDUWPHQW
+DJDLQVWWKH$JHQF\IRUPDODILGHXQODZIXODFWVRULPSURSHUFRQGXFW
+RQKLVSDUWLQPDWWHUVUHODWLQJWRWKH&RPSDQ\173&
+S ,I WKH $JHQF\ LV GHFODUHG EDQNUXS W RU LQVROYHQW RU LWV ILQDQFLD O
+SRVLWLRQ KDV EHFRPH XQVRXQG DQG LQ WKH FDVH RI D OLPLWHG
+FRPSDQ\LWLVZRXQGXSRUOLTXLGDWHG
+T (VWDEOLVKHGOLWLJDQWQDWXUHRIWKH$JHQF\WRGHULYHXQGXHEHQHILW
+U &RQWLQXHGSRRUSHUIRUPDQFHRIWKH$JHQF\GXULQJH[HFXWLRQXQGHU
+FRQWUDFWVSHUWDLQLQJWR173&RULWV-96XEVLGLDU\FRPSDQLHV
+V ,IWKH$JHQF\YLRODWHV6HFWLRQRIWKH,QWHJULW\3DFWSURYLGHGLQWKH
+ELG&RQWUDFW
+W ,IWKH$JHQF\FRPPLWVIUDXGDVGHILQHGXQGHUWKH)UDXG3UHYHQWLRQ
+3ROLF\RI173&
+X ,IWKH$JHQF\KDVDVVLJQHGRUWUDQVIHUUHGWKHFRQWUDFWRUHQJDJ HG
+VXE FRQWUDFWRUV ZLWKRXW WKH SULRU DSSURYDO RI WKH &RPSHWHQW
+$XWKRULW\LQYLRODWLRQRIWKHSURYLVLRQVRIWKHFRQWUDFW
+Y ,I WKH $JHQF\ PLVXVHV WKH SUHPLVHV RU IDFLOLWLHV RI WKH 173&
+IRUFHIXOO\RFFXSLHVWDPSHUVRUGDPDJHVWKH&RPSDQ\¶VSURSHUWLHV
+LQFOXGLQJODQGZDWHUUHVRXUFHVIRUHVWVWUHHVHWF
+Z ,I WKH VHFXULW\ FRQVLGHUDWLRQ LQFOXGLQJ TXHVWLRQV RI OR\DOW\ RI WKH
+$JHQF\WRWKHVWDWHVRZDUUDQWV
+1RWH 7KHH[DPSOHVJLYHQDERYHDUHRQO\LOOXVWUDWLYHDQGQRWH[KDXVWL YH
+7KH &RPSHWHQW $XWKRULW\ PD\ GHFLGH WR EDQ EXVLQHVV GHDOLQJ IRU
+DQ\ JRRG DQG VXIILFLHQW UHDVRQ LI LW LV HVWDEOLVKHG EH\RQG DQ\
+UHDVRQDEOHGRXEW
+
+
+Page 55 of 79
+10 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+ 3URFHGXUH
+
+7KH FRQFHUQHG GHSDUWPHQW RQ QRWLFLQJ DQ\ QRQXQGHU SHUIRUPDQFH
+DQGRU LUUHJXODULWLHV DQGRU PLVFRQGXFW DQGRU XQHWKLFDO SUDFWLFH DV
+PHQWLRQHG DERYH VKDOO UHIHU WKHPDWWHU WR &RQYHQHU RI WKH 6WDQGLQJ
+&RPPLWWHHDORQJZLWKUHOHYDQWGHWDLOV7KH6WDQGLQJ&RPPLWWHHV KDOO
+DQDO\]HWKHUHIHUUHGFDVHDQGLI FRQVLGHUHGDSSURSULDWHVKDOO SXWXS
+WKHSURSRVDOIRULVVXLQJ6KRZ&DXVH1RWLFHIRUWKHSXUSRVHRIEDQQLQJ
+RI EXVLQHVV GHDOLQJV ZLWK WKH $JHQF\ IRU DSSURYDO RI WKH &RPSHWHQW
+$XWKRULW\
+
+,Q FDVH WKH 6WDQGLQJ &RPPLWWHH UHFRPPHQGV ZDLYHU RI EDQQLQJ RI
+EXVLQHVV GHDOLQJV ZLWK WKH $JHQF\ WKH SURSRVDO DORQJ ZLWK UHDVRQV
+WKHUHRIVKDOOEHSXWXSIRUDSSURYDORI&0'173&
+
+%HVLGHV WKH 6WDQGLQJ &RPPLWWHH 9LJLODQFH 'HSDUWPHQW  6FUHHQLQJ
+&RPPLWWHHXQGHU &RQWUDFWRU 3HUIRUPDQFH)HHGEDFN DQG(YDOXDWLRQ 
+6\VWHPPD\DOVREHFRPSHWHQWWRLQLWLDWHWKHSURSRVDOIRUEDQQLQJ
+
+ 6KRZ&DXVH1RWLFH
+
+2QFHWKHSURSRVDOIRULVVXDQFHRI6KRZ&DXVH1RWLFHLVDSSURYHG E\
+WKH &RPSHWHQW$XWKRULW\Dµ6KRZ &DXVH1RWLFH¶GXO\YHWWHGE\O HJDO
+GHSDUWPHQWVKDOO EH LVVXHGWRWKHGHOLQTXHQW$JHQF\ E\ WKH &RPSHWHQW
+$XWKRULW\KLPVHOIRUE\DSHUVRQDXWKRUL]HGIRUWKHVDLGSXUSRVH
+
+7KH$JHQF\VKDOOEHDVNHGWRVXEPLWWKHUHSO\RI6KRZ&DXVH1RW LFH
+ZLWKLQ  GD\V RI LWV LVVXDQFH )XUWKHUWKH$JHQF\VKDOOEHJLYHQDQ
+RSSRUWXQLW\ IRU 2UDO KHDULQJ ZLWK 6WDQGLQJ &RPPLWWHH WR SUHVHQWL W V 
+FDVHLQSHUVRQLILWVRGHVL UHVDQGWKHGDWHIRU2UDO+HDULQJ VKDOOEH
+QHFHVVDULO\LQGLFDWHGLQWKH6KRZ&DXVH 1RWLFH
+
+7KH SXUSRVH RI LVVXLQJ WKH 6KRZ & DXVH 1RWLFH LV RQO\ WKDW WKH
+$JHQFLHVFRQFHUQHGVKDOOEHJLYHQDQRSSRUWXQLW\WRH[SODLQWKHLUVWDQG
+EHIRUHDQ\DFWLRQLVWDNHQ$OO WKDWLVUHTXLUHGLQVXFKFDVHVLVWKDWWKH
+JURXQGVRQZKLFKDFWLRQLVSURSRVHGWREHWDNHQVKDOOEHGLVFOR VHGWR
+WKH $JHQF\ LQYLWLQJ UHSUHVHQWDWLRQ DQG DIWHU FRQVLGHULQJ WKDW
+UHSUHVHQWDWLRQ RUGHUV PD\ EH SDVVHG 6XFK RUGHUV UHTXLUH RQO\WKH
+VXEMHFWLYHVDWLVIDFWLRQRIWKHDXWKRULW\WKDWSDVVHGWKHILQDORUGHUV
+
+,I WKH $JHQF\ UHTXHVWV IRU LQVSH FWLRQ RI DQ\ UHOHYDQW GRFXPHQW LQ
+SRVVHVVLRQ RI 173& QHFHVVDU\ IDFLOLW\ IRU LQVSHFWLRQ RI GRFXPHQWV
+PD\EH SURYLGHG
+
+'XULQJWKHFRQGXFWDQFHRIRUDOK HDULQJRQO\WKHUHJXODUHPSOR\HHVRI
+$JHQF\ZLOOEHSHUPLWWHGWRUHSUHVHQWWKH$JHQF\DQGQRRXWVLGHUVKDOO
+EHDOORZHGWRUHSUHVHQWWKH$JHQF\RQLWVEHKDOI
+
+5HSO\ WR WKH 6KRZ &DXVH 1RWLFH JLYHQ E\ WKH $JHQF\ DQG WKHLU
+Page 56 of 79
+11 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+VXEPLVVLRQVLQRUDOKHDULQJLIDQ\ZLOOEHSURFHVVHGE\WKH6 WDQGLQJ
+&RPPLWWHHIRUREWDLQLQJILQDOGHFLVLRQRIWKH&RPSHWHQW$XWKRULW\LQWKH
+PDWWHU
+
+,QFDVHQRUHSO\WR6KRZ&DXVH1RWLFHLVUHFHLYHGIURPWKH$JH QF\
+ZLWKLQ VWLSXODWHG WLPH DFWLRQ IRU SURFHVVLQJ H[SDUWH DJDLQVW WKH
+FRQFHUQHG$JHQF\VKDOOEHLQLWLDWHG
+
+ 6SHDNLQJ2UGHU
+
+7KHVSHDNLQJRUGHUVKDOOEHLVVXHGE\WKH&RPSHWHQW$XWKRULW\KLPVHOI
+RUE\DSHUVRQDXWKRUL]HGIRUWKHVDLGSXUSRVH
+
+ &RPPXQLFDWLRQWR$JHQFLHV
+
+7KH GHFLVLRQ UHJDUGLQJ EDQQLQJ RI EXVLQHVV GHDOLQJV WDNHQ DIWHUW K H 
+LVVXH RID6KRZ&DXVH1RWLFHDQ GFRQVLGHUDWLRQR IUHSUHVHQWDWLRQLI
+DQ\LQUHSO\WKHUHWRVKDOOEHFRPPXQLFDWHGWRWKH$JHQF\FRQF HUQHG
+DORQJZLWKDUHDVRQHGRUGHU7KHIDFWWKDWWKHUHSUHVHQWDWLRQKDVEHHQ
+FRQVLGHUHG VKDOO LQYDULDEO\ EH PHQWLRQHG LQ WKH FRPPXQLFDWLRQ$OVR
+WKHIDFWWKDWLIQRUHSO\ZDVUHFHLYHGWRWKH6KRZ&DXVH1RWLFHVKDOO
+LQYDULDEO\EHLQGLFDWHGLQWKHILQDOFRPPXQLFDWLRQWRWKH$JHQF\
+
+ 3HULRGRIEDQQLQJ
+
+7KHSHULRGIRUZKLFKWKHEDQZRXOGEHRSHUDWLYHVKDOOEHPHQWLRQHGLQ
+WKHRUGHU7KHEDQQLQJVKDOOQRUPDOO\EHIRUDSHULRGRI VL[PRQWKV
+WRWZR\HDUVIURPWKHGDWHR ILVVXDQFHRIWKHVSHDNLQJRUGHU7KH
+SHULRGRIEDQQLQJVKDOOEHUHFRPPHQGHGE\WKHVWDQGLQJFRPPLWWHHRQ
+FDVH WR FDVH EDVLV GHSHQGLQJ XSRQ WKH JUDYLW\ RI WKH GHIDXOW RIW K H 
+DJHQF\ H[FHSW LQ FDVHV RI EULEHU\ FRUUXSW DQG IUDXGXOHQW SUDFWLFHV
+LQFOXGLQJPLVUHSUHVHQWDWLRQRIIDFWVZKHUHWKHEDQQLQJSHULRGVKDOOEH
+IRUWZR\HDUV
+
++RZHYHU LQ FDVHV SURFHVVHG XQGHU SURY LVLRQV RI ,QWHJULW\ SDFW RU
+&RQWUDFWRU 3HUIRUPDQFH )HHGEDF N DQG (YDOXDWLRQ 6\VWHP WKH
+EDQQLQJZRXOGEHRSHUDWLYHIRUDSHULRGDVVSHFLILHGWKHUHLQ
+
+,QFDVHWKHLQIRUPDWLRQGRFXPHQWVVXEPLWWHGE\$JHQF\LQFRPSHW LQJ
+IRUWKHWHQGHULVIRXQGWREHIDOVHIRUJHGWKHQ173&ZLWKRXWSUHMXGLFH
+WR DQ\ RWKHU ULJKWV RU UHPHGLHV LW PD\ SRVVHVV VKDOO UHFRYHU IURP
+$JHQF\ WKH FRVW LQFXUUHG LQ FDUU\LQJ RXW SK\VLFDO DVVHVVPHQW IR U
+HVWDEOLVKLQJ YHUDFLW\ RI VXFK LQIRUPDWLRQGRFXPHQWV ,Q FDVH $JHQF\
+UHIXVHVWRUHLPEXUVHVXFKFRVWWR173&WKHQEDQQLQJSHULRGRI$JHQF\
+VKDOOEHH[WHQGHGE\DQRWKHURQH\HDU
+
+1RWZLWKVWDQGLQJ SDUD D DERYH LQ FDVH DQ DJHQF\ DIWHU KDYLQJ
+Page 57 of 79
+12 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+EHHQLVVXHGWKH1RWLILFDWLRQRI$ZDUG/HWWHURI$ZDUGZLWKLQ WKHELG
+YDOLGLW\SHULRGHLWKHU³GRHVQRWVLJQWKH&RQWUDFW$JUHHPHQW´ RU³GRHV
+QRW VXEPLW DQ DFFHSWDEOH 3HUIRUPDQFH 6HFXULW\´ EXVLQHVV GHDOLQJV
+ZLWKWKHDJHQF\VKDOOEHVXVSHQGHGIRUDSHULRGRIVL[PRQWKVIURP
+WKH GDWH RI LVVXDQFH RI VXVSHQVLRQ RUGHU LQ DFFRUGDQFH ZLWK WK H
+SURFHGXUHIRUVXVSHQVLRQRIEXVL QHVVGHDOLQJVDVVSHFLILHGDWS DUD
+RI WKLV 3ROLF\ +RZHYHU LQ FDVH WKH DJHQF\ FRPPLWV DIRUHVDLG
+WUDQVJUHVVLRQGHIDXOWDJDLQLQDQRWKHUWHQGHURI173&ZLWKLQWKUHH
+\HDUVIURPWKHGDWHRILVVXDQFHRIVXVSHQVLRQRUGHUEXVLQHVVGHDOLQJV
+ZLWKWKHDJHQF\VKDOOEHEDQQHGIRUDSHULRGRIWZR\HDUVIURPWKH
+GDWHRILVVXDQFHRIVSHDNLQJRUGHU
+
+ $UHDRI2SHUDWLRQ
+
+%DQQLQJ RI EXVLQHVV GHDOLQJV ZLWK DQ\ DJHQF\ VKDOO EH GRQH
+&RPSDQ\ZLGHRQO\HQWLUH173&LQFOXGLQJ6XEVLGLDULHVDQG-9V IRU
+DOOFDVHVLQFOXGLQJFDVHVSURFHVVHGIURP173&6XEVLGLDULHVDQG-9V
+
+ (IIHFWRI%DQQLQJ
+
+7KH $JHQF\ DIWHU LVVXDQFH RI WKH 2UGHU RI %DQQLQJ RI EXVLQHVV
+GHDOLQJV XQGHU WKLV SROLF\ ZRXOG QRW EH DOORZHG WR SDUWLFLSDWHLQ DQ\
+IXWXUH WHQGHU HQTXLU\ DQG LI WKH $JHQF\ KDV DOUHDG\ SDUWLFLSDWHG LQ
+DQRWKHUWHQGHUSURFHVVDQGWKHS ULFHELGVDUHQRWRSHQHGLWVW HFKQR
+FRPPHUFLDO ELG ZLOO EH UHMHFWHG DQG SULFH ELG ZLOO QRW EH RSHQH G
+)XUWKHU ZKHUH WKH SULFH ELG RI $JHQF\ KDV EHHQ RSHQHG SULRU WR 
+LVVXDQFH RI %DQQLQJ 2UGHU XQGHU WKLV SROLF\ WKH SULFH ELG RI $JHQF\
+VKDOOEHUHMHFWHG,QFDVHVXFK DJHQF\LVWKHORZHVWHYDOXDWHG ELGGHU
+/QH[WORZHVWHYDOXDWHGELGGHUVKDOOEHFRQVLGHUHGDV/
+
+1RDZDUGVKDOOEHSODFHGRQDQ\DJHQF\LI%DQQLQJ2UGHUIRUEXVLQHVV
+GHDOLQJVXQGHUWKLVSROLF\KDVEHHQLVVXHGSULRUWRDZDUGRIFRQWUDFW
+
+%LG6HFXULW\RIVXFKDJHQF\VKDOOEHUHWXUQHGDIWHUUHMHFWLRQR IELGVLQ
+WKHVHFDVHV
+1RWH &RQWUDFWV FRQFOXGHG EHIRUH WKH LVVXH RI WKH %DQQLQJ RUGHU
+VKDOOQRWEHDIIHFWHGE\WKH%DQQLQJ2UGHU
+
+ 3URFHVVRIUHSO\
+
+7KH$JHQF\VKDOOEHVHSDUDWHO\DGYLVHGRIWKHGHFLVLRQWDNHQUHJDUGLQJ
+EDQQLQJRIEXVLQHVVGHDOLQJVLQUHSO\WRWKHLUUHSUHVHQWDWLRQLIDQ\$V
+UHJDUGVDQ\IXUWKHUUHSUHVHQWDWLRQIURPWKH$JHQF\EXVLQHVVGHDOLQJV
+ZLWK ZKRP KDYH EHHQ EDQQHG WKH VDPH VKDOO EH SURFHVVHG E\ WKH
+FRQFHUQHG&	0GHSDUWPHQWLQFRQVXOWDWLRQZLWK9LJLODQFHGHSDUWPHQW
+ZKHUHYHUDSSOLFDEOH,IDQ\UHSO\LVFRQVLGHUHGQHFHVVDU\WREHVHQWWR
+WKH$JHQF\WKHVDPHVKDOOEHVHQWE\WKHFRQFHUQHG&	0 G HSDUWPHQW
+Page 58 of 79
+13 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+ +RVWLQJDW173&ZHEVLWH
+
+7KHQDPHVRIWKH$JHQFLHVZLWKZKRP%XVLQHVV'HDOLQJVKDYHEHHQ 
+EDQQHGVKDOOEHKRVWHGDW173&ZHEVLWHE\&&	0
+
+5.11 Not Applicable 
+
+ $SSHDODJDLQVWWKH'HFLVLRQRIWKH&RPSHWHQW$XWKRULW\
+
+7KH $JHQF\ PD\ ILOH DQ DSSHDO DJDLQVW WKH RUGHU RI WKH &RPSHWHQW
+$XWKRULW\IRUEDQQLQJRIEXVLQH VVGHDOLQJVEHIRUH$SSHOODWH$XW KRULW\
+6XFKDQDSSHDOVKDOOEHSUHIHUUH GZLWKLQRQHPRQWKIURPWKHGDW HRI
+UHFHLSWRIWKHRUGHURIEDQQLQJRIEXVLQHVVGHDOLQJ$SSHOODWH$XWKRULW\
+ZRXOGFRQVLGHUWKHDSSHDO DQGSDVVDSSURSULDWHRUGHUZKLFKVKDOOEH
+FRPPXQLFDWHGWRWKH$JHQF\DVZHOODVWKH&RPSHWHQW $XWKRULW\
+
+ 5HYRFDWLRQRI2UGHUV
+
+D 7KH EDQQLQJ XQGHU µ&RQWUDFWRU 3HUIRUPDQFH )HHGEDFN DQG
+(YDOXDWLRQ 6\VWHP¶ VKDOO QRW EH UHYRNHG DXWRPDWLFDOO\ 6XFK
+EDQQLQJ VKDOO EH UHYRNHG RQO\ DIWHU UHHYDOXDWLRQ RI WKH
+SHUIRUPDQFH RI WKH $JHQF\ E\ WKH 6FUHHQLQJ &RPPLWWHH DV
+GHWDLOHG XQGHU WKH C&RQWUDFW RU 3HUIRUPDQFH )HHGEDFN DQG
+(YDOXDWLRQ6\VWHP¶
+
+E ,QDOORWKHUFDVHVDQRUGHUIRUEDQQLQJLVVXHGIRUDFHUWDLQVSHFLILHG
+SHULRGVKDOOEHGHHPHGWRKDYHEHHQDXWRPDWLFDOO\UHYRNHGRQWKH
+H[SLU\RIWKDWVSHFLILHGSHULRGDQGLWZLOOQRWEHQHFHVVDU\WRLVVXHD
+VSHFLILFIRUPDORUGHUVRIUHYRFDWLRQH[FHSWWKDWDQRUGHURIEDQQLQJ
+SDVVHG RQDFFRXQW RI GRXEWIXOOR\DOW\RUVHFXULW\FRQVLGHUDWLRQVKDOO
+FRQWLQXHWRUHPDLQLQIRUFHXQWLOLWLVVSHFLILFDOO\ UHYRNHG
+
+F $QRUGHUIRUEDQQLQJLVVXHGIRUWKHUHDVRQVPHQWLRQHGXQGHUSDUD
+ DERYH PD\ EH UHYRNHG ZLWK WKH DSSURYDO RI WKH $SSHOODWH
+$XWKRULW\ LI LQ UHVSHFW RI WKH VDPH IDFWV WKH
+GLUHFWLRQRUGHUMXGJHPHQWRID &RXUWRI/DZHQYLVDJHVUHYRFDWLR Q
+RIEDQQLQJ
+
+)XUWKHUDQRUGHUIRUEDQQLQJLVVXHGIRUWKHUHDVRQVPHQWLRQHG DW
+SDUD  H DERYH PD\ EH UHYRNHG ZLWK WKH DSSURYDO RI WKH
+$SSHOODWH $XWKRULW\ LI LQ UHVSHFW RI WKH VDPH IDFWV WKH DFFXVHG
+KDVEHHQZKROO\H[RQHUDWHGE\D&RXUWRI/DZ
+
+
+
+
+
+Page 59 of 79
+14 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+ 6XVSHQVLRQRI%XVLQHVV 'HDOLQJV
+
+ *URXQGV
+7KHVXVSHQVLRQRIEXVLQHVVGHDOLQJVFDQEHLQLWLDWHGDJDLQVW$JHQF\RQ
+IROORZLQJJURXQGV
+
+D ,I IUDXG E\ DJHQF\ KDV EHHQ HVWDEOLVKHG 7KH GHILQLWLRQ RI IUDXG
+VKDOOEHDVGHILQHGXQGHUWKHµ)UDXG3UHYHQWLRQ3ROLF\¶RI173& 
+%LGGLQJGRFXPHQWVIRUDWHQGHU
+
+E ,IWKHDJHQF\KDVDEDQGRQHGRUUHSXGLDWHGWKHFRQWUDFWRUIDLOVWR
+VLJQ WKH &RQWUDFW $JUHHPHQW RU IDLOV WR VXEPLW DQ DFFHSWDEOH
+3HUIRUPDQFH6HFXULW\
+
+6.2 Not Applicable 
+ 3URFHGXUH
+
+ ,QFDVHVRIIUDXG
+
+D 7KH FRQFHUQHG &	0 GHSWW VKDOO SXW XS WKH SURSRVDO IRU
+³6XVSHQVLRQRIEXVLQHVVGHDOLQJV´DQG³LVVXDQFHRI6KRZ&DXVH
+1RWLFH´ IRU EDQQLQJ RI EXVLQHVV GHDOLQJV ZLWK WKH $JHQF\ IRU
+DSSURYDORIWKH&RPSHWHQW$XWKRULW\$IWHUDSSURYDORI&RPSHWHQW
+$XWKRULW\ 6XVSHQVLRQ 2UGHU DQG 6KRZ &DXVH 1RWLFH VKDOO EH
+LVVXHGZKLFKPXVWLQFOXGHWKHIROORZLQJ
+
+L WKH$JHQF\LVSXWRQVXVSHQVLRQ OLVW
+
+LL ZK\ DFWLRQ VKRXOG QRW EH WDNHQ IRU EDQQLQJ WKH $JHQF\ IRU
+IXWXUHEXVLQHVVGHDOLQJV
+
+7KH FDVH VKDOO EH IXUWKHU SURFHVVHG IRU EDQQLQJ RI EXVLQHVV
+GHDOLQJVZLWKWKH$JHQF\DVSHUSDUDDERYH
+
+E 6XVSHQVLRQRIEXVLQHVVGHDOLQJVZLWKDQ\DJHQF\VKDOOEHGRQH
+&RPSDQ\ZLGHHQWLUH173&LQFOXGLQJ6XEVLGLDULHVDQG-9VIRU
+DOOFDVHVLQFOXGLQJFDVHVSURFHVVHGIURP173&6XEVLGLDULHVDQG
+-9V
+
+F 7KH 6XVSHQVLRQ 2UGHU ZRXOG RSHUDWH LQLWLDOO\ IRU D SHULRG RI QRW
+PRUHWKDQVL[PRQWKV7KHUHFRPPHQGDWLRQIRUEDQQLQJWKH
+$JHQF\ VKDOO EH FRQFOXGHG ZLWKLQ WKH SHULRG RI VXVSHQVLRQ ,Q
+H[FHSWLRQDO FLUFXPVWDQFHV SHULRG RI VXVSHQVLRQ FDQ EH IXUWKHU
+H[WHQGHGZLWKWKHDSSURYDORIWKH&RPSHWHQW$XWKRULW\PD[LPXP
+XSWRWKUHHPRQWKVSHQGLQJDFRQFOXVLYHGHFLVLRQWRSXWWK H
+$JHQF\ RQ EDQQLQJ OLVW $OVR D FRPPXQLFDWLRQ IRU H[WHQVLRQ RI
+VXVSHQVLRQSHULRGE\WKUHHPRQWKVVKDOOEHFRPPXQLFDWHGWRWKH
+Page 60 of 79
+15 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+$JHQF\ GXULQJ WKH VXEVLVWHQFH RIVXVSHQVLRQ RUGHU RI 6L[ 
+PRQWKVIDLOLQJZKLFKWKHVXVSHQVLRQRUGHUVKDOOVWDQGUHYRNHG
+
+G 6KRZ &DXVH 1RWLFH IRU EDQQLQJ 	 6XVSHQVLRQ RUGHU VKDOO EH
+LVVXHGE\&RPSHWHQW$XWKRULW\KLPVHOIRUE\DSHUVRQDXWKRUL]HG 
+IRUWKHVDLGSXUSRVH
+
+H 7KHQDPHVRI WKH$JHQFLHV ZLWK ZKRP %XVLQHVV'HDOLQJV KDYH
+EHHQVXVSHQGHGVKDOOEHKRVWHG DWLQWUDQHWRI&&	0'XULQJWKH
+SHULRGRIVXVSHQVLRQQRQHZEXVLQHVVGHDOLQJVKDOOEHKHOGZLW K
+WKH$JHQF\
+
+I 3HULRG RI VXVSHQVLRQ VKDOO EH DFFRXQWHG IRU LQ WKH ILQDO RUGHU
+SDVVHGIRUEDQQLQJRIEXVLQHVVGHDOLQJVZLWKWKH$JHQF\
+
+J ,ILWLVGHFLGHGQRWWREDQWKH$JHQF\DIWHUGXHSURFHVVWKHQ DPH
+RIWKH$JHQF\VKDOOEHUHPRYHGLPPHGLDWHO\IURPWKHVXVSHQVLRQ
+OLVW
+
+K 7KHVXVSHQVLRQRI$JHQF\VKDOOEH DXWRPDWLFDOO\UHYRNHGRQWKH
+H[SLU\RIWKHSHULRGRIVXVSHQVLRQ
+
+ ,QFDVHVRIDEDQGRQPHQWRUUHSXGLDWLRQRIFRQWUDFWH[FHSWIDLOXUHWR
+VLJQWKH&RQWUDFW$JUHHPHQWRUVXEPLWDQDFFHSWDEOH3HUIRUPDQFH
+6HFXULW\
+
+D 7KH FRQFHUQHG &	0 GHSWW VKDOO SXW XS WKH SURSRVDO IRU
+³6XVSHQVLRQRIEXVLQHVVGHDOLQJV´DQG³LVVXDQFHRI6KRZ&DXVH
+1RWLFH´ IRU EDQQLQJ RI EXVLQHVV GHDOLQJV ZLWK WKH $JHQF\ IRU
+DSSURYDORIWKH&RPSHWHQW$XWKRULW\$IWHUDSSURYDORI&RPSHWHQW
+$XWKRULW\ 6XVSHQVLRQ 2UGHU DQG 6KRZ &DXVH 1RWLFH VKDOO EH
+LVVXHGZKLFKPXVWLQFOXGHWKHIROORZLQJ
+
+L WKH$JHQF\LVSXWRQVXVSHQVLRQ OLVW
+
+LL ZK\ DFWLRQ VKRXOG QRW EH WDNHQ IRU EDQQLQJ WKH $JHQF\ IRU
+IXWXUHEXVLQHVVGHDOLQJV
+
+7KH FDVH VKDOO EH IXUWKHU SURFHVVHG IRU EDQQLQJ RI EXVLQHVV
+GHDOLQJVZLWKWKH$JHQF\DVSHUSDUDDERYH
+
+E 6XVSHQVLRQRIEXVLQHVVGHDOLQJV ZLWKDQ\DJHQF\VKDOOEHGRQH
+&RPSDQ\ZLGHHQWLUH173&LQFOXGLQJ6XEVLGLDULHVDQG-9VIRU
+DOOFDVHVLQFOXGLQJFDVHVSURFHVVHGIURP173&6XEVLGLDULHVDQG
+-9V
+
+F 7KH 6XVSHQVLRQ 2UGHU ZRXOG RSHUDWH LQLWLDOO\ IRU D SHULRG RI QRW
+PRUHWKDQVL[PRQWKV7KHUHFRPPHQGDWLRQIRUEDQQLQJWKH
+$JHQF\ VKDOO EH FRQFOXGHG ZLWKLQ WKH SHULRG RI VXVSHQVLRQ ,Q
+Page 61 of 79
+16 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+H[FHSWLRQDO FLUFXPVWDQFHV SHULRG RI VXVSHQVLRQ FDQ EH IXUWKHU
+H[WHQGHGZLWKWKHDSSURYDORIWKH&RPSHWHQW$XWKRULW\PD[LPXP
+XSWRWKUHHPRQWKVSHQGLQJDFRQFOXVLYHGHFLVLRQWRSXWWK H
+$JHQF\ RQ EDQQLQJ OLVW $OVR D FRPPXQLFDWLRQ IRU H[WHQVLRQ RI
+VXVSHQVLRQSHULRGE\WKUHHPRQWKVVKDOOEHFRPPXQLFDWHGWRWKH
+$JHQF\ GXULQJ WKH VXEVLVWHQFH RI VXVSHQVLRQ RUGHU RI 6L[ 
+PRQWKVIDLOLQJZKLFKWKHVXVSHQVLRQRUGHUVKDOOVWDQGUHYRNHG
+
+G 6KRZ &DXVH 1RWLFH IRU EDQQLQJ 	 6XVSHQVLRQ RUGHU VKDOO EH
+LVVXHGE\&RPSHWHQW$XWKRULW\KLPVHOIRUE\DSHUVRQDXWKRUL]HG 
+IRUWKHVDLGSXUSRVH
+
+H 7KHQDPHVRI WKH$JHQFLHV ZLWK ZKRP %XVLQHVV'HDOLQJV KDYH
+EHHQVXVSHQGHGVKDOOEHKRVWHG DWLQWUDQHWRI&&	0'XULQJWKH
+SHULRGRIVXVSHQVLRQQRQHZEXVLQHVVGHDOLQJVKDOOEHKHOGZLW K
+WKH$JHQF\
+
+I 3HULRG RI VXVSHQVLRQ VKDOO EH DFFRXQWHG IRU LQ WKH ILQDO RUGHU
+SDVVHGIRUEDQQLQJRIEXVLQHVVGHDOLQJVZLWKWKH$JHQF\
+
+J ,ILWLVGHFLGHGQRWWREDQWKH$JHQF\DIWHUGXHSURFHVVWKHQ DPH
+RIWKH$JHQF\VKDOOEHUHPRYHGLPPHGLDWHO\IURPWKHVXVSHQVLRQ
+OLVW
+
+K 7KHVXVSHQVLRQRI$JHQF\VKDOOEH DXWRPDWLFDOO\UHYRNHGRQWKH
+H[SLU\RIWKHSHULRGRIVXVSHQVLRQ
+
+ ,Q FDVHV RI IDLOXUH WR VLJQ WKH &RQWUDFW $JUHHPHQW RU IDL OXUH WR
+VXEPLWDQDFFHSWDEOH3HUIRUPDQFH6HFXULW\
+
+D 7KH FRQFHUQHG &	0 GHSW VKDOO SXW XS WKH SURSRVDO IRU
+³6XVSHQVLRQRIEXVLQHVVGHDOLQJV´ZLWKWKH$JHQF\IRUDSSURYDORI
+WKH &RPSHWHQW $XWKRULW\ $IWHUDSSURYDORI&RPSHWHQW $XWKRULW\
+6XVSHQVLRQ 2UGHU VKDOO EH LVVXHG ZKLFK PXVW LQFOXGH WKH
+IROORZLQJ
+
+L WKH$JHQF\LVSXWRQVXVSHQVLRQ OLVW
+
+LL LQ FDVH WKH DJHQF\ FRPPLWV DIRUHVDLG WUDQVJUHVVLRQGHIDXOW
+DJDLQLQDQRWKHUWHQGHURI173& ZLWKLQWKUHH\HDUVIURP
+WKHGDWHRILVVXDQFHRIVXVSHQVLRQRUGHUEXVLQHVVGHDOLQJV
+ZLWKWKHDJHQF\VKDOOEHEDQQHGIRUDSHULRGRIWZR\HDUV
+IURPWKHGDWHRILVVXDQFHRIVSHDNLQJRUGHUIRUEDQQLQJ
+
+,QFDVHWKHDJHQF\FRPPLWVDIRUHVDLGWUDQVJUHVVLRQGHIDXOWDJDLQ
+LQDQRWKHUWHQGHURI173&ZLWKLQWKUHH\HDUVIURPWKHGDWHRI
+LVVXDQFH RI VXVSHQVLRQ RUGHU SURFHVV IRU EDQQLQJ RI EXVLQHVV
+GHDOLQJVZLWKWKH$JHQF\VKDOO EHLQLWLDWHGDVPHQWLRQHGDWSDU D
+DERYH
+Page 62 of 79
+17 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+
+E 6XVSHQVLRQRIEXVLQHVVGHDOLQJVZLWKDQ\DJHQF\VKDOOEHGRQH
+&RPSDQ\ZLGHHQWLUH173&LQFOXGLQJ6XEVLGLDULHVDQG-9VIRU
+DOOFDVHVLQFOXGLQJFDVHVSURFHVVHGIURP173&6XEVLGLDULHVDQG
+-9V
+
+F 7KH 6XVSHQVLRQ 2UGHU ZRXOG RSHUDWH IRU D SHULRG RI VL[ 
+PRQWKVDQGLVWREHFRPPXQLFDWHGWR$JHQF\
+
+G 6XVSHQVLRQRUGHUVKDOOEHLVVXHGE\&RPSHWHQW$XWKRULW\KLPVHOI
+RUE\DSHUVRQDXWKRUL]HGIRUWKHVDLGSXUSRVH
+
+H 7KHQDPHVRI WKH$JHQFLHV ZLWK ZKRP %XVLQHVV'HDOLQJV KDYH
+EHHQVXVSHQGHGVKDOOEHKRVWHG DWLQWUDQHWRI&&	0'XULQJWKH
+SHULRGRIVXVSHQVLRQQRQHZEXVLQHVVGHDOLQJVKDOOEHKHOGZLW K
+WKH$JHQF\
+
+I 7KHVXVSHQVLRQRI$JHQF\VKDOOEH DXWRPDWLFDOO\UHYRNHGRQWKH
+H[SLU\RIWKHSHULRGRIVXVSHQVLRQ
+
+ (IIHFWRI6XVSHQVLRQ
+7KH $JHQF\ DIWHU LVVXDQFH RI WKH 2UGHU RI 6XVSHQVLRQ RI EXVLQHVV
+GHDOLQJVXQGHUWKLVSROLF\ZRXOGQRWEHDOORZHGWRSDUWLFLSDWH LQDQ\
+IXWXUH WHQGHU HQTXLU\ DQG LI WKH $JHQF\ KDV DOUHDG\ SDUWLFLSDWHG LQ
+DQRWKHUWHQGHUSURFHVVDQGWKHSULFHELGVDUHQRWRSHQHGLWVWHFKQR
+FRPPHUFLDO ELG ZLOO EH UHMHFWHG DQG SULFH ELG ZLOO QRW EH RSHQH G
+)XUWKHU ZKHUH WKH SULFH ELG RI $JHQF\ KDV EHHQ RSHQHG SULRU WR
+LVVXDQFH RI 6XVSHQVLRQ 2UGHU XQGHU WKLV SROLF\ WKH SULFH ELG R I
+$JHQF\VKDOOEHUHMHFWHG,QFDVHVXFKDJHQF\LVWKHORZHVWHYDOXDWHG
+ELGGHU/QH[WORZHVWHYDOXDWHGELGGHUVKDOOEHFRQVLGHUHGDV/
+)XUWKHULQFDVHVXFKDJHQF\LVWKHORZHVWHYDOXDWHGELGGHU/DQG
+DZDUGUHFRPPHQGDWLRQRQVXFKDJHQF\KDVEHHQSXWXSIRUDSSURYDO
+RU WKH DZDUG UHFRPPHQGDWLRQ LV  DSSURYHG SULRU WR LVVXDQFH RI
+6XVSHQVLRQ2UGHUXQGHUWKLVSROLF\EXWDZDUGLV\HWWREHSODFHGWKHQ
+DZDUGUHFRPPHQGDWLRQRQVXFKDJHQF\VKDOOVWDQGFDQFHOOHGDQGWKH
+SULFHELGRI$JHQF\VKDOOEHUHMHFWHG$UHYLVHGUHFRPPHQGDWLRQ KDV
+WREHSXWXSIRUDSSURYDOFRQVLGHULQJQH[WORZHVWHYDOXDWHGELG GHUDV
+/
+1R DZDUG VKDOO EH SODFHG RQ DQ\ DJHQF\ LI 6XVSHQVLRQ 2UGHU IRU
+EXVLQHVVGHDOLQJVXQGHUWKLVSROLF\KDVEHHQLVVXHGSULRUWRDZ DUGRI
+FRQWUDFW
+%LG6HFXULW\RIVXFKDJHQF\VKDOOEHUHWXUQHGDIWHUUHMHFWLRQRIELGVLQ
+WKHVHFDVHV
+1RWH &RQWUDFWV FRQFOXGHG  EHIRUH  WKH  LVVXH  RI  WKH 6XVSHQVLRQ
+2UGHUVKDOOQRWEHDIIHFWHGE\WKH6XVSHQVLRQ2UGHU
+
+Page 63 of 79
+18 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+ 'XULQJWKHEDQQLQJZLWKKROGLQJVXVSHQVLRQSHULRGLILWLV IRXQGDWDQ\
+VWDJH WKDW$JHQF\KDVSDUWLFLSDWHGLQWHQGHUHQTXLU\XQGHUDGLIIHUHQWQDPH
+WKHQVXFK$JHQF\ZRXOGLPPHGLDWHO\EHGHEDUUHGIURPWKHWHQGHUFRQWUDFW
+DQG LWV %LG 6HFXULW\3HUIRUPDQFH 6HFXULW\ ZRXOG EH IRUIHLWHG 3D\PHQW LI
+DQ\PDGHVKDOODOVREH UHFRYHUHG
+
+ )XUWKHULQFDVHRIEDQQLQJZLWKKROGLQJVXVSHQVLRQIROORZLQJ ZRXOGDOVR
+EHDSSOLFDEOH
+L 3DUWLFLSDWLRQ RI $JHQF\ DV DQ $VVRFLDWH&ROODERUDWRU RI WKH
+0DLQ&RQWUDFWRU
+7KH $JHQF\ DIWHU LVVXDQFH RI WKH 2UGHU RI :LWKKROGLQJ%DQQLQJ 
+6XVSHQVLRQ RI EXVLQHVV GHDOLQJV X QGHU WKLV SROLF\ ZRXOG QRW EH
+DOORZHG WR SDUWLFLSDWH DV $VVRFLDWH&ROODERUDWRU RI DQ\ ELGGHUV ,Q
+FDVHWKHDJHQF\LVSURSRVHGDV $VVRFLDWH&ROODERUDWRUE\DQ\RIWKH
+ELGGHUDQGWKHSULFHELGVDUHQRWRSHQHGLWVWHFKQRFRPPHUFLDO ELG
+ZLOOEHUHMHFWHGDQGSULFHELGZLOOQRWEHRSHQHG)XUWKHUZKH UHWKH
+SULFH ELG RI ELGGHU KDV EHHQ RSHQHG SULRU WR LVVXDQFH RI
+:LWKKROGLQJ%DQQLQJ6XVSHQVLRQ2UGHUXQGHUWKLVSROLF\WKHSULFHELG
+VKDOOEHUHMHFWHG,QFDVHVXFKE LGGHULVWKHORZHVWHYDOXDWHG ELGGHU
+/QH[WORZHVWHYDOXDWHGELGGHUVKDOOEHFRQVLGHUHGDV/
+)XUWKHULQFDVHVXFKELGGHUL VWKHORZHVWHYDOXDWHGELGGHU/ DQG
+ZKHUH DZDUG UHFRPPHQGDWLRQ RQ VXFK ELGGHU KDV EHHQ SXW XS IRU
+DSSURYDORUWKHDZDUGUHFRPPHQGDWLRQLVDSSURYHGSULRUWRLVVXDQFH
+RI:LWKKROGLQJ%DQQLQJ6XVSHQVLRQ2UGHUXQGHUWKLVSROLF\EXWDZDUG
+LV\HWWREHSODFHGWKHQDZDUGUHFRPPHQGDWLRQRQVXFKELGGHUV KDOO
+VWDQGFDQFHOOHGDQGWKHSULFHELGRIELGGHUVKDOOEHUHMHFWHG$UHYLVHG
+UHFRPPHQGDWLRQKDVWREHSXWXSIRUDSSURYDOFRQVLGHULQJQH[WORZHVW
+HYDOXDWHGELGGHUDV/
+%LG6HFXULW\RIVXFKELGGHUVKDOOEHUHWXUQHGDIWHUUHMHFWLRQR IELGVLQ
+WKHVHFDVHV
+LL 3DUWLFLSDWLRQRI$JHQF\DVDQDSSURYHG6XE9HQGRURIWKH0DLQ
+&RQWUDFWRU
+
+$IWHU EDQQLQJ ZLWKKROGLQJ VXVSHQVLRQ RUGHU WKH EDQQHG ZLWKKHOG
+VXVSHQGHG$JHQF\VKDOOQRWEHDOORZHGWRSDUWLFLSDWHDV6XE9HQGRU
+LQWKHWHQGHUVIRUVXSSO\LQJPDQXIDFWXULQJHTXLSPHQWVFRPSRQ HQW
+VVHUYLFHLILWKDVEHHQEDQQHGRQJURXQGVRIVXSSO\LQJVXEVWDQGDUG
+PDWHULDOHTXLSPHQWVHUYLFH
+
+)XUWKHU LI WKH EDQQHGZLWKKHOGVXVSHQGHG DJHQF\ LV DQ DSSURYHG 
+6XE YHQGRU XQGHU DQ\ &RQWUDFW IRU VXFK
+HTXLSPHQWFRPSRQHQWVHUYLFH WKH 0DLQ &RQWUDFWRU VKDOO QRW EH
+SHUPLWWHG WR SODFH ZRUN RUGHU3XUFKDVH RUGHU&RQWUDFW RQ WKH
+EDQQHGZLWKKHOGVXVSHQGHGDJHQF\DVDVXEYHQGRUDIWHUWKHGDWHRI
+EDQQLQJZLWKKROGLQJVXVSHQVLRQ HYHQ WKRXJK WKH QDPH RI WKH SDUW\
+Page 64 of 79
+19 of 19
+3ROLF\IRU'HEDUPHQWIURP%XVLQHVV'HDOLQJV5HYGDWHG
+
+
+KDVEHHQDSSURYHGDVDVXEYHQGRUHDUOLHU
+
+LLL3URFXUHPHQW RI VSDUHVDZDUGL QJ RI &RQWUDFWV LQ RSHUDWLQJ
+VWDWLRQV
+
+7KHUH ZRXOG EH QR EDU RQ SURFXUL QJ WKH VSDUHV DQG DZDUGLQJ
+&RQWUDFWV WRZDUGV $QQXDO 0DLQWHQDQFH $0& 2	0 5HSDLU ZRUNV
+RQ$JHQFLHVSHUWDLQLQJWRWKHSDFNDJHVIRUZKLFKEXVLQHVVGHDOLQJV
+KDYH EHHQ ZLWKKHOGEDQQHGVXVSHQGHG ZLWK WKHP SURYLGHG WKH
+RULJLQDO(TXLSPHQWKDVEHHQVXSSOLHGPDQXIDFWXUHGE\VXFK$JHQF\
+
+ 7UHDWPHQWLQ7HQGHU&RQWUDFWVRI-9V6XEVLGLDULHVRI173&
+
+L 7HQGHUV&RQWUDFWVRI-9V6XEVLGLDULHVZKRVH3UHDZDUGDQGRU
+3RVWDZDUGDFWLYLWLHVDUHKDQGOHGE\173&&RUSRUDWH &HQWUH
+
+7KH 7HQGHUV&RQWUDFWV RI -9V6XEVLGLDULHV ZKRVH SUHDZDUG DQGRU
+SRVWDZDUGDFWLYLWLHVDUHKDQGOHGE\173&&RUSRUDWH&HQWUHWKHFDVHV
+RIQRQXQGHUSHUIRUPDQFHDQGRULUUHJXODULWLHVDQGRUPLVFRQGXFWDQGRU
+XQHWKLFDOSUDFWLFHREVHUYHGLQVXFKWHQGHUVFRQWUDFWVPD\EHSURFHVVHG
+LQ173&XQGHUWKH3ROLF\DQG3URFHGXUHIRU'HEDUPHQWIURPEXVLQ HVV
+GHDOLQJV DQGRU &RQWUDFWRU 3HUI RUPDQFH )HHGEDFN DQG (YDOXDWLRQ
+6\VWHP 7KH 1RWLFH RI 'HIDXOW RU 2UGHU IRU :LWKKROGLQJ RI EXVLQHVV
+GHDOLQJVXQGHU3DUD6KRZ&DXVH1RWLFHRU6SHDNLQJ2UGHU IRU
+EDQQLQJRIEXVLQHVVGHDOLQJVXQGHU3DUD6XVSHQVLRQRUGHU
+IRU VXVSHQVLRQ RI %XVLQHVV 'HDOLQJV 8QGHU SDUD  DIWHU DSSURYDO
+LQ173&VKDOOEHIRUZDUGHGWR&(2RIFRQFHUQH G-9V
+6XEVLGLDULHV IRU LVVXDQFH RI VXFK 1RWLFH RU 2UGHU WR WKH GHOLQTXHQW
+DJHQF\
+
+)XUWKHUWKHDSSHDORIWKH$JHQF\DJDLQVWWKHDERYH2UGHUXQGHU3DUD
+ VKDOO EH UHYLHZHG E\ $SSH OODWH $XWKRULW\ LQ 173& $SSHOOD WH
+$XWKRULW\ZRXOGFRQVLGHUWKHDSSHDODQGSDVVDSSURSULDWHRUGHU ZKLFK
+VKDOO EH FRPPXQLFDWHG WR WKH $JHQF\ DV ZHOO DV WKH &RPSHWHQW
+$XWKRULW\DQG&(2RIFRQFHUQHG-9V6XEVLGLDULHV
+
+LL 7KH7HQGHUV&RQWUDFWVZKLFKDUHKDQGOHGE\-9V6XEVLGLDULHV
+WKHPVHOYHV
+
+7KHSURFHGXUHSUHVFULEHGLQWKH 3ROLF\VKDOODSSURSULDWHO\EHX VHGE\
+FRQFHUQHG -9V6XEVLGLDULHV WR GHDO  ZLWK WKH FDVHV RI QRQXQGHU
+SHUIRUPDQFH DQGRU LUUHJXODULWLHV DQGRU PLVFRQGXFW DQGRU XQHWKLFDO
+SUDFWLFHREVHUYHGLQWHQGHUVFRQWUDFWVKDQGOHGE\WKHP
+
+
+ 
+Page 65 of 79
+Page 1 of 4 
+Fraud Prevention Policy 
+1. BACKGROUND:
+Over the years NTPC has put in place various policies and procedures, systems to guide 
+NTPC employees within and outside the organisation. Most of these have been formalised 
+in the form of policy documents. These systems have been designed to ensure that 
+officials dealing and undertaking transactions conduct the same in a transparent & uniform 
+manner. Few examples are Delegation of powers, Project and Contracts Management 
+system, Finance and Human  Resource Systems, Code of Conduct for Directors and 
+Senior Management Personnel, Conduct, Discipline and Appeal Rules for employees, 
+Service Rules etc. SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015 which deals with the Corporate Governance practices to be followed by listed 
+companies, also describes certain requirements. Regulation 4(2)(d)(iv) read with 
+Regulation 22 of SEBI LODR, 2015 provides listed entities to devise an effective whistle 
+blower mechanism enabling stakeholders, including individual employees, directors and 
+their representative bodies, to freely communicate to the management their concerns 
+about illegal or unethical practices.  Accordingly, the “Whistle Blower Policy” envisages 
+the companies to put in place a mechanism for employees to report to the Management 
+about unethical behaviour, actual or suspected fraud or violation of conduct or ethics 
+policy. 
+As per Section 177 of the Companies Act,2013, listed companies are required to establish 
+a vigil mechanism for the directors and employees to report genuine concerns. Section 
+447 of the Companies Act, 2013 provides for the definition of fraud and also the 
+punishment for committing fraud. 
+Further, Statutory Auditors of the Company are required to comment on the Fraud 
+Prevention Policy of the company in their report on the annual accounts of the company 
+given in compliance of the provisions of the Companies Act, 2013.  
+In the light of the foregoing and keeping in view the approach of NTPC in following 
+Corporate Governance principles proactively, it is appropriate that a Fraud Prevention 
+Policy is formulated and implemented. 
+The policy statement is given below for implementation with immediate effect: 
+2. POLICY OBJECTIVES:
+The “Fraud Prevention Policy” has been framed to provide a system for detection and 
+prevention of fraud, reporting of any fraud that is detected or suspected and fair dealing 
+of matters pertaining to fraud. The policy will ensure and provide for the following:- 
+(i) To ensure that management is aware of its responsibilities for detection  and
+prevention of fraud and for establishing procedures for preventing  fraud and/or
+detecting fraud when it occurs.
+Page 66 of 79
+Page 2 of 4 
+(ii) To provide a clear guidance to employees and others dealing with NTPC forbidding
+them from involvement in any fraudulent activity and the action to be taken by them
+where they suspect any fraudulent activity.
+(iii) To conduct investigations into fraudulent activities.
+(iv) To provide assurances that any and all suspected fraudu lent activity will  be fully
+investigated.
+3. SCOPE OF POLICY:
+The policy applies to any fraud, or suspected fraud involving employees of  NTPC (all
+full time, part time or employees appointed on adhoc/temporary/contract basis) as well as 
+representatives of vendors, suppliers, contractors, consultants, service providers or any 
+outside agency(ies) doing any type of business with NTPC. 
+4. DEFINITION OF FRAUD:
+As per Section 447 of the Companies Act, 2013, “Fraud” in relation to affairs of a company 
+or any body corporate, includes any act, omission, concealment of any fact or abuse of 
+position committed by any person or any other person with the connivance in any manner, 
+with intent to deceive, to gain undue a dvantage from, or to injure the interests of, the 
+company or its shareholders or its creditors or any other person, whether or not there is 
+any wrongful gain or wrongful loss. “Wrongful gain” means the gain by unlawful means of 
+property to which the person gaining is not legally entitled. “Wrongful loss” means the loss 
+by unlawful means of property to which the person losing is legally entitled. 
+5. ACTIONS CONSTITUTING FRAUD :
+While fraudulent activity could have a very wide range of coverage, the following are some 
+of the act(s), which constitute fraud. 
+The list given below is only illustrative and not exhaustive:- 
+(i) Forgery or alteration of any document or account belonging to the Company
+(ii) Forgery or alteration of cheque, bank draft or any other financial instrument etc.
+(iii) Misappropriation of funds, securities, supplies or others assets by  fraudulent
+means etc.
+(iv) Falsifying records such as pay -rolls, removing the documents from files  and /or
+replacing it by a fraudulent note etc.
+(v) Wilful suppression of facts/deception in matters of appointment,  placements,
+submission of reports, tender committee recommendations etc. as a result of which
+a wrongful gain(s) is made to one and wrongful loss(s) is caused to the others.
+(vi) Utilizing Company funds for personal purposes.
+(vii)Authorizing or receiving payments for goods not supplied or services not rendered.
+(viii)Destruction, disposition, removal of records or any other assets of the Company
+Page 67 of 79
+Page 3 of 4 
+with an ulterior motive to manipulate and misrepresent the  facts so as to create 
+suspicion/suppression/cheating as a result of which  objective 
+assessment/decision would not be arrived at. 
+(ix)Any other act that falls under the gamut of fraudulent activity.
+6. REPORTING OF FRAUD:
+(i) Any employee  (full time, part time or employees appointed on
+adhoc/temporary/contract basis), representative of vendors, suppliers, contractors,
+consultants, service providers or any other agency(ies) doing any type of business
+with NTPC as soon as he / she comes to know of any fraud or suspected fraud or
+any other fraudulent activity must report such incident(s). Such reporting shall be
+made to the  designated Nodal Officer(s), nominated in every
+project/region/Corporate Centre. If, however, there is shortage of time such report
+should be made to the immediate controlling officer whose duty shall be to ensure
+that input received is immediately communicated  to the Nodal Officer. The
+reporting of the fraud normally should be in writing. In case the reporter is not willing
+to furnish a written statement  of fraud but is in a position to give sequential and
+specific transaction of  fraud/suspected fraud, then the officer receiving the
+information/Nodal Officer should record such  details in writing as narrated by the
+reporter and also maintain the details about the identity of the official / employee /
+other person reporting such incident. Reports can be made in  confidence and the
+person to whom the fraud or suspected fraud has been reported must maintain the
+confidentiality with respect to the  reporter and such matter should under no
+circumstances be discussed with any unauthorised person.
+(ii) All reports of fraud or suspected fraud shall be handled with utmost speed and shall
+be coordinated by Nodal Officer(s) to be nominated.
+(iii) Officer receiving input about any suspected fraud/nodal officer(s) shall ensure that
+all relevant records documents and other evidence is being immediately taken into
+custody and being protected from being tampered with, destroyed or removed by
+suspected perpetrators of fraud or by any other official under his influence.
+7. INVESTIGATION PROCEDURE:
+(i) The “Nodal Officer” shall, refer the details of the Fraud/suspected fraud  to the
+Vigilance Department of NTPC, for further appropriate  investigation and needful
+action.
+(ii) This input would be in addition to the intelligence, information and investigation of
+cases of fraud being investigated by the Vigilance Deptt.  of their own as part of
+their day to day functioning.
+(iii) After completion of the investigation, due & appropriate action, which could include
+administrative action, disciplinary action, civil or criminal action or closure of the
+matter (if it is proved that fraud is not committed etc.) depending upon the outcome
+of the investigation shall be undertaken under the relevant rules of NTPC.
+(iv) Vigilance Department shall apprise “Nodal Officer” of the results of the investigation
+undertaken by them. There shall be constant coordination maintained between the
+two.
+Page 68 of 79
+Page 4 of 4 
+(v) The Criminal Proceedings may be  initiated by Engineer -in-Charge / Head of
+Department/ NTPC's   Authorised Representative,  after obtaining approval of
+competent authority (i.e. HOP/BUH) to lodge First Information Report (FIR) with
+the concerned Police Authorities, in case Contractor is found to be involved in
+fraudulent practices.
+8. RESPONSIBILITY FOR FRAUD PREVENTION:
+(i) Every employee(full time, part time, adhoc, temporary, contract), representative of
+vendors, suppliers, contractors, consultants, service  providers or any other
+agency(ies) doing any type of business with  NTPC, is expected and shall be
+responsible to ensure that there is no fraudulent act being committed in their areas
+of responsibility/control. As soon as it is learnt that a fraud or suspected fraud has
+taken or is  likely to take place they should immediately apprise the same to the
+concerned as per the procedure.
+(ii) All controlling officers shall share the responsibility of prevention and  detection of
+fraud and for implementing the Fraud Prevention Policy of  the Company. It is the
+responsibility of all controlling officers to ensure that there are mechanisms in place
+within their area of control to :-
+a. Familiarise each employee with the types of improprieties that might occur
+in their area.
+b. Educate employees about fraud prevention and detection.
+c. Create a culture whereby employees are encouraged to report any fraud or
+suspected fraud which comes to their knowledge, without  any fear of
+victimization.
+d. Promote employee awareness of ethical principles subscribed to by  the
+Company through CDA Rules
+(iii) Due amendments shall be made in the general conditions of contracts of  the
+organization wherein all bidders/service  providers/vendors/consultants etc. shall
+be required to certify that they  would adhere to the Fraud Prevention Policy of
+NTPC and not indulge or  allow anybody else working in their organization to
+indulge in fraudulent activities and would immediately apprise the organization of
+the fraud/suspected fraud as soon as it comes to their notice.  These conditions
+shall form part of documents both at the time of submission of bid and agreement
+of execution of contract.
+9. ADMINISTRATION AND REVIEW OF THE POLICY:
+The Chairman and Managing Director shall be responsible for the  administration, 
+interpretation, application and revision of this policy. The policy  will be reviewed and 
+revised as and when needed. 
+Page 69 of 79
+           	 
+       	       	      	         	        	           	    
+         	      
+               
+        	                             	                             
+                     
+  
+     	 	        	                      !   "                             
+  	           
+  
+        	           
+                 	          "  
+                       
+     	      	 #       	  	 	        
+                     	      	 #       	  	      	           
+         	          	                	      	    
+                 	   
+ 	      "          
+      
+     	    "      "                   
+  	      
+       
+               	 	             
+ 	 $      
+ 	 $   
+      
+    " 	          
+  	      	      "  
+               	           	     	        
+               %   	  
+      
+ 
+     
+07 Help Manual _ NTPC's Customer Payment Portal
+Page 70 of 79
+& ' ( ) * + , - ) . / 0 1 ) ( 2 0 ) ( 3 * 4 ' 5 . / 4 6 / 1 7 3 ' / 3 8 5 4 9 : ; < = > ; = ?
+2 0 ) ( 0 3 * 4 * ' 0 5 @ * 8 ) A * , @ ) 4 1 1 7 ( 5 B . 7 9 < B ) 0 1 C 5 + ) ?
+07 Help Manual _ NTPC's Customer Payment Portal
+Page 71 of 79
+        
+>
+#       
+                   
+           
+D E F G H I J D K L M H N N O N P I Q L R J P L I S D E F T L O K U P V V W X
+Y >
+  	              	   	     "  
+         	    
+ Z   	                	                         	     	                      
+         	 	            	          
+! Z     	 #              !                 	 
+            	   [         
+             
+           	  	    
+\ > & 0 0 5 5 4 * 0 B 0 ) ( 3 ' / 3 8 0 5 4 9 = ) ] 1 ? 0 , 0 1 ) @ 6 / ' ' ^ ) 1 3 7
+     	 
+       
+              	      	  
+       
+  
+   
+_ > `
+	         	               	      	             	     "  
+       
+a > & 0 0 5 5 4 * 0 B 0 ) ( 3 ' / 3 8 0 5 4 9 A * , = 5 6 ? b B 1 1 5 4 c 0 , 0 1 ) @ 6 / ' ' 1 * 8 ) B 0 ) ( 1 5 d e 5 4 ^ / ( @ f ( * 4 0 * 3 1 / 5 4 g ) 1 * / ' 0 d
+
+    
+h
+>
+  i            	             	 i 
+   
+`
+	     	                     	 j          	 j       
+      
+k > l
+     "   i       i       	  	          "   	     
+       
+            
+       
+     	     
+  "  
+                                  j       "     
+     	 
+m
+>
+     	     	 	    
+        
+       	     	 	      
+                               	      
+#   !   "                	     	 
+n > `
+	      
+          
+       	     	 	      
+  	 j "   
+                     	 
+o >
+    	       	       	       	    	       	          
+>
+    
+Y p >
+    	                         	          
+       
+     	 	        	      	    	
+07 Help Manual _ NTPC's Customer Payment Portal
+Page 72 of 79
+[       	            	            #       
+   
+              	          
+     	         	 
+     
+07 Help Manual _ NTPC's Customer Payment Portal
+Page 73 of 79
+`
+	      	                 #       q 	 Z        
+                     	       
+          	     
+
+            	  	               	  	    
+  	 	           
+     
+         	                	     
+   	        #       	 
+e ' / 3 8 5 4 9 r * , = 5 6 ?
+07 Help Manual _ NTPC's Customer Payment Portal
+Page 74 of 79
+          
+  
+        	 
+        
+07 Help Manual _ NTPC's Customer Payment Portal
+Page 75 of 79
+07 Help Manual _ NTPC's Customer Payment Portal
+Page 76 of 79
+07 Help Manual _ NTPC's Customer Payment Portal
+Page 77 of 79
+          	 	    
+        
+         "              	         
+07 Help Manual _ NTPC's Customer Payment Portal
+Page 78 of 79
+s t t u u v w t x y z { w | } z v x ~ t } w  z t    z t t     |  | x y z   t x u } z  w v  t    z t t t x w x  t ~ t  {  w x z  
+w   u  v x ~ v   u   } z v x  u   z  z ~ { x w t  u   u  t ~ t  z v z  w x z  
+s } u  v x { w ~  ~ t   z  ~ x z  ~ v  w v  w   u  v x  z v x  w   | w x  u  { u  w x z  z v x  z w v  w   v z  z t t w  |  w v 
+ z  u v  ~  ~ w x ~ u v z x   ~    z  w   ~ z  u  x  |     u  z  z    ~ v z ~ x z }  ~ x y   t x u } z  w   u  v x ~ t   z  ~ x z 
+~ v  z  z  w v x   t ~ v z t t w  z w 
+07 Help Manual _ NTPC's Customer Payment Portal
+Page 79 of 79

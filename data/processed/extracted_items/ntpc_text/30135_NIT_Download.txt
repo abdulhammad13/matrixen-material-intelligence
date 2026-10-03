@@ -1,0 +1,140 @@
+NTPC Limited eProcurement Portal -.a..11..a .. --.. .... 
+".;;:.:;.:: 
+,.,. Ir'- Tender Details ........ � 1enaer� 
+� Maham tna Com parov Date: 10-Aug-2026 12:11 PM 
+� Print 
+Basic Details 
+Organisation Chain NTPC Limited I I Corporate Centre! IUSSCI ICPG-1 
+Tender Reference NTPC/USSC-CPGl/9900330400 Number 
+Tender ID Withdrawal Allowed Yes 
+Tender Type Form of contract Works 
+Tender Category 
+General Technical 
+Evaluation Allowed 
+Payment Mode 
+Is Multi Currency 
+2026_NTPC_110839_1 
+Open Tender
+Works 
+Yes [Compliance Required] 
+Online 
+No Allowed For Fee 
+Pav.ment Instruments 
+No. of Covers 3 
+ItemWise Technical Evaluation NoAllowed 
+Is Multi Currency Allowed For No BOQ 
+Allow Two Stage Bidding No 
+Cover Detailsi No. Of Covers - 3 
+Online 
+:1�-No rnank Name 
+I
+Cover No Cover Document Type Description 
+Bankers Scanned EMD SBI Bank 1 Fee .pdf Details 
+2 PreQual/Technical .pdf Technical / QR 
+Details 
+.pdf Attachment-3 
+.pdf Power of 
+Attorney 
+Declaration 
+regarding 
+insolvency, 
+.pdf bankruptcy 
+and 
+Liquidation 
+(Attachment-
+3L) 
+3 Finance .xis Price Bid / 
+BOQ 
+Tender Fee Details,_[Total Fee in if * - 0.00] EMD Fee Details 
+Tender Fee in , 0.00 EMD Amount in , 2,00,000 EMD Exemption No 
+Fee Payable To Nil Fee Payable At INil Allowed 
+Tender Fee No EMD Fee Type fixed EMD Percentage NA 
+Exemption Allowed EMD Payable To Nil EMD Payable At Nil 
+BG Required Yes 
+Minimum Direct EMD 0.00 
+Payment in, 
+Click to view modification history 
+Work [Item(�). 
+Title Supply and Installation of 780KWp Solar PV Modules at NTPC Kaniha Solar Plant 
+Work Description Supply and Installation of 780KWp Solar PV Modules at NTPC Kaniha Solar Plant 
+Pre Qualification Details As per tender documents 
+Independent External NA 
+Monitor /Remarks 
+Show Tender Value in No 
+Public Domain 
+Tender Value in , 0.00 Product Category Miscellaneous Sub category NA 
+Works 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work(Days) 180 
+Location Western Region Head Pincode 492018 Pre Bid Meeting Place NA 
+QuartersII Plot No. -87, 
+Secto 
+Pre Bid Meeting NA Pre Bid Meeting Date NA Bid Opening Place Western Region 
+Address Head QuartersII 
+Should Allow NOA No Allow Preferential No 
+Tender Bidder 
+Critical Dates 
+Publish Date 10-Aug-2026 02:50 PM Bid Opening Date 02-Sep-2026 04:30 PM 
+10-Aug-2026 02:50 PM Document Download / Sale End Date 31-Aug-2026 04:30 PM 
+10-Aug-2026 02:50 PM Clarification End Date 22-Aug-2026 06:00 PM
+18-Aug-2026 09:20 AM Bid Submission End Date 31-Aug-2026 04:30 PM
+Document Download / Sale Start 
+Date
+Clarification Start Date 
+Bid Submission Start Date 
+Tender Documents 
+NIT Document Size Document S.No Document Name Description (in KB) 
+1 lfendernotice 1.pdf NIT 126.31 
+Work Item Document Size Documents S.No Document Type Document Name Description (in KB) 
+1 Tender Documents TenderDocument.pdf Tender Documents 12445.33 
+2 l3OQ BOO 114067.xls BOQ 315.00 
+View GTE Details - SERVICE GTE {OT- SINGLE STAGE-MLC-LAND BORDER CLAUSE). 
+S.No Particulars Description Expected Mandatory Value 
+�onfirm that you are a LOCAL SUPPLIER, and the 
+1.0 LOCAL CONTENT included in the PACKAGE FOR MLC Declaration for Services Yes rres �OMPLETE SCOPE OF WORK meets the MINIMUM 
+LOCAL CONTENT requirements of the Tender. 
+2.0 Do you accept NTPC Safetv Rules ISAFETY RULES COMPLIANCE Yes rres 
+3.0 Do you accept the Fraud Prevention Policv of NTPC FRAUD PREVENTION Yes rres 
+4.0 Do you accept Withholding and Banning of Business BANNING POLICY DECLARATION Yes rres Dealina Policv of NTPC 
+Do you certify full compliance on clause as per 
+5.0 ender documents on Restrictions on procurement LAND BORDER CLAUSE COMPLIANCE Yes rres "rom a Bidder of a country which shares a land 
+border with India 
+6.0 Do you certify full compliance on Qualifying �R COMPLIANCE Yes rres Requirements 
+7.0 Do you certify full compliance to all provisions of Bid NO DEVIATION CERTIFICATION Yes rres (locuments 
+Auto Extension Corrigendum ProRerties for Tender 
+Iteration No. of bids required for bid opening a tender Tender gets extended to No. of days 
+1. 1 4 
+2. 1 4 
+3. 1 4 
+Bid OReners List 
+S.No I Bid Opener Login Id I Bid Opener Name I Certificate Name
+1. harshmamodia@ntpc.co.in !Harsh Mamodia !Harsh Mamodia
+2. �kbhoiwani@ntoc.co.in Vikas Kumar Bhoiwani Vikas Kumar Bhoiwani 
+3. anandshanker@ntoc.co.in ANAND SHANKER I\NAND SHANKER 
+4. tosingh@ntoc.co.in Chandra Prakash Singh Chandra Prakash Singh 
+Show Technical bid status No 
+Stage to disclose Bid Details in Public Technical Bid Opening 
+Domain 
+BoQ Compartive chart decimal places 2 
+Form Based BoQ No 
+rrender complying with Order Reason for non compliance of Order 
+�gree 
+�gree 
+Tender Progerties 
+Auto Tendering Process No 
+allowed 
+Show Finance bid status Yes
+BoQ Comparative Chart Normal 
+model 
+BoQ Comparative Chart L 
+RankTvoe 
+TIA Undertaking 
+S.No Undertaking to Order 
+1 PPP-MI! Order 2017 
+2 MSEs Order 2012 
+Tender Inviting Authoritv. 
+Name DGM (USSC CnM) 
+Address Western Region Head QuartersII Plot No. -87, Sector-24, Atal RAIPUR 492018 
+Tender Creator Details 
+Created By ANAND SHANKER 
+Designation DGM 
+Created Date 10-Aug-2026 11:28 AM

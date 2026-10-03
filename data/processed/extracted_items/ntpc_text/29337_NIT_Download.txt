@@ -1,0 +1,603 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NTPC Limited 
+(A Govt. of India enterprise) 
+ 
+ 
+ 
+ 
+ 
+Invites 
+ 
+Expression of Interest 
+(EOI) 
+ 
+                                                for Proof of Concept (POC) 
+ 
+                            On 
+ 
+“Deployment of On-Premise 5G Captive 
+Non-Public Network (CNPN) and its 
+Applications”
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DOCUMENTS OF EOI 
+ 
+ 
+This EOI document comprises of the following sections: 
+ 
+(i) Section-I: Invitation for Expression of Interest 
+(ii) Section-II: Information to APPLICANTs 
+(iii) Section-III: Application Form and Annexures 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                           
+ 
+ 
+                            SECTION-I: 
+ 
+ 
+                                 INVITATION 
+                                        FOR 
+                 EXPRESSION OF INTEREST (EOI) 
+ 
+
+ 
+ 
+ 
+ 
+DETAILED NOTICE INVITING EXPRESSION OF INTEREST (EOI) 
+ 
+EOI No.: STN-ENGG/2025-26/001 Date: ------------ 
+ 
+ 
+Expression of Interest for Demonstration and Deployment of on premise 5G Non-
+Public Captive Network (CNPN) and its application 
+ 
+1.0 NTPC is India’s largest power utility with installed capacity  of more than 85,000 MW 
+(including its JVs). The company is engaged in the business of generation and sale of bulk 
+power. NTPC is having pan -India presence with coal based, gas based, Hydro, Wind and 
+Solar plants.  
+2.0 The evolution to fifth generation  (5G) mobile networks marks a transformative era in 
+telecommunications, offering remarkable enhancements in data transfer speeds, reduced 
+latency, and the capability to support an extensive number of connected devices.  Telecom 
+Regulatory Authority of India (TRAI) is promoting Captive Non-Public Networks (CNPNs) to facilitate 
+the digitization of key sectors. 
+3.0 NTPC is also looking for deployment of on-premises private 5G captive Non-Public network 
+(CNPN) for power plants and is exploring 5G CNPN intensive use cases for formulating the 
+5G applications for power plant areas such as safety, surveillance, logistics and IOT device 
+integration (Process parameters like pressure, temperature,  vibration etc.).  
+4.0 The present EOI is for the installation of CNPN using 5G technology which offers significant 
+potential benefits, including real-time monitoring and control, reliable high-speed, and low-
+latency communication networks, enhanced operational efficiency and robust cybersecurity 
+frameworks to support modern power plant operations.  
+5.0 NTPC invites Expression of Interest (EOI) from willing APPLICANTs from India for 
+installation of On-Premise 5G network alongwith applications such as:  
+a. Safety Application(smart helmets etc) 
+b.  IoT-based monitoring 
+c.  Mobile Handset 
+d.  Intercom 
+e. Vehicle Smart Tag 
+f. Logistics (Supply chain monitoring) 
+g. Camera on Demand 
+h. Geo Fencing 
+i. Automation solutions or any other similar application in Thermal Power Plants. 
+j.  
+5.1 For the complete scheme Network cyber security  to be applied.   Successful Case 
+studies to be provided for above showing the coverage area of the 5G CNPN network . 
+Applicants to provide d etails of previous work orders  in deployment of On-premise 5G 
+network (CNPN)  with successful running years.  
+ 
+ 
+ 
+ 
+5.2  Based on the details provided by the applicants, criteria for technical evaluation and 
+shortlisting of applicants for on premise 5G network (as POC) based on use cases shall 
+be decided. Based on technical evaluation and successful case studies , NTPC shall 
+decide the modalities for engagement of vendor for the POC work. 
+ 
+6.0   Eligibility for Participation in EOI 
+ 
+ The APPLICANT shall be a Company / Sole Proprietorship / Partnership / Limited 
+Liability Partnership / Consortium / Cooperative Society registered in India . The 
+vendor should have valid UL License with the provision of CNPN. 
+ The APPLICANT shall submit details of on premise 5G network deployment and its 
+use cases/running applications preferably from power plant industry  along with 
+supporting documents, such as end user certificates , coverage area  etc. for 
+establishing successful performance of 5G deployment for the period from the date 
+of application.  
+ 
+7.0   DOWNLOAD AND SUBMISSION OF EOI 
+ 
+A. Interested APPLICANTs may download the documents of EOI free of cost 
+from  https://ntpctender.ntpc.co.in  
+B. For consideration of EOI, APPLICANTs are required to e -mail signed and 
+scanned copy of EOI, duly filled and complete in all respect, through e-mail 
+mentioned hereunder. 
+                                  avinashanand@ntpc.co.in, akhileshpoddar@ntpc.co.in 
+C. APPLICANTS may send their queries related with EOI through e-mail at   
+avinashanand@ntpc.co.in, akhileshpoddar@ntpc.co.in 
+D. Date of publication of EOI : 10.01.2026      
+E. Last date for submission of Application: 10 days from date of publication of EOI 
+(till 17:00 hrs. IST) 
+F. Last date for queries/ seeking clarifications : 7 days from the date of 
+publication of EOI 
+G. Response Validity: 3 months from the last date for EOI Submission 
+ 
+H. NTPC shall not be liable for any postal/ Mail delivery issue and delays 
+whatsoever in receipt of EOI documents and EOI received after the stipulated 
+date and time shall not be entertained. EOIs submitted without supporting 
+documents (as mentioned in Sec-I clause 5.0 and Annexures mentioned in Sec-
+III) will be summarily rejected. 
+ 
+I. NTPC reserves the right to reject or accept any or all applications, 
+cancel/withdraw the EOI process without assigning any reason whatsoever , 
+and in such case, APPLICANT shall not have any claim arising out of such 
+action.  
+ 
+ 
+ 
+ 
+J. Language of the responses to EOI or any 
+query/clarifications/correspondences shall be in English only. 
+ 
+K. APPLICANTs shall mention the name and contact details of two persons, with 
+complete address, phone number and official email id. 
+ 
+L. The responsibility of Compliance of all applicable statutory provisions are 
+within the entire scope of the Agency and shall indemnify NTPC in case of any 
+claim, procedure, dispute what so  ever towards the execution of the work in 
+its entirety. 
+ 
+M. NTPC Ltd. may, at its sole discretion, ask for additional information/ 
+documents and/ or seek clarifications from the APPLICANT(s) after the 
+Deadline for submission of response, inter alia, for the purpose  of removal of 
+inconsistencies or infirmities in their responses. 
+ 
+ 
+8.0  Validity of Responses : 
+ 
+The APPLICANT shall submit the responses which shall remain valid up to three (3) 
+months after the response Deadline (“Response Validity”). NTPC reserve s the right to 
+reject any response which does not meet the above-mentioned validity requirement. 
+ 
+NTPC may solicit the APPLICANT’s consent for an extension of the period of validity of 
+the response. The request and the response in this regard shall be in writing. In the event 
+any APPLICANT refuses to extend its response validity as requested by NTPC, NTPC 
+shall terminate processing of such APPLICANT’s responses. An APPLICANT accepting 
+NTPC request for validity extension shall not be permitted to modify its response.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION-II: INFORMATION TO APPLICANTS 
+
+ 
+ 
+ 
+ 
+1.0 General Information 
+NTPC has a fleet of thermal power plants  consisting of more than 85000  MW 
+capacity (including JV’s)  and more than  20000 MW thermal capacity is under 
+construction at various locations. Presently we have different systems in place like 
+CLIMS (Contractors Labour Information Management System), CCTV systems for 
+safety and surveillance, remote process parameters connected to control system 
+etc. The goal of on premise 5G (CNPN) network deployment is to bring it all in the 
+umbrella of 5G network with advance features  like monitoring, surveillance  and 
+better connectivity building safer and more secure power plant . This shall help in 
+monitoring, timely response, strengthen preparedness in event of any unforeseen 
+scenarios. 
+ 
+ 
+2.0 Objective of EOI  
+ 
+As part of our strategic initiatives to enhance connectivity solutions, NTPC is 
+looking to conduct Proof of Concept (P OC) at mutually agreed sites for on-
+premises 5G network deployment, where bidder’s solution can be evaluated for its 
+performance, scalability, and integration capabilities. 
+Deployment of onsite 5G network intends to monitor site in real time with use of on 
+demand 5G camera, Labor movements with smart helmets, better connectivity with 
+push to talk devices , handsets  etc. to enhance security and surveillance at 
+stations/projects.  
+The objective of this P OC is to demonstrate the feasibility, efficiency, and 
+operational advantages of onsite 5G network solutions in real -time environments 
+and evaluation of the same for usage in NTPC power plant. 
+ 
+.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION-III: APPLICATION FORM AND ANNEXURES 
+
+ 
+ 
+ 
+ 
+Instructions to APPLICANTs 
+ This Expression of Interest (EOI) is to identify interested parties for the Scope of Work 
+mentioned particularly at clause no -5 of the Detailed Notice Inviting Expression of Interest 
+(EOI) 
+ For expression of interest, Application Form and Annexures given in Section-III shall be duly 
+filled and sent to NTPC by the APPLICANT in soft copy. Following are the list of Annexures: 
+ 
+ Annexure -1: Application Form 
+ Annexure- 2: APPLICANT’s Profile 
+  Annexure- 3: Acceptance of Fraud Prevention Policy of NTPC 
+ Annexure- 4: Information as desired at Clause No. 03 of Detailed Notice Inviting EOI 
+and any other information which applicant wants to provide 
+ Annexure-5: Check list 
+ 
+ APPLICANTs should go through Section -I and Section-II thoroughly before filling in 
+and submitting the application. 
+ Along with submission of application & form, A PPLICANT must ensure that they have 
+provided following information without which EOI shall be rejected: 
+ 
+ 
+o GSTN and PAN of firm (or individual if applying as individual). 
+o Address/ Contact number/ e-mail address/ Name of Contact person. 
+o Completely filled check list as per Annexure-5 
+ 
+(Annexure-1)  
+ 
+ 
+ 
+(EXPRESSION OF INTEREST: APPLICATION FORM) 
+ 
+(To be submitted on APPLICANT’s Letter Head) 
+ 
+Ref No.                                                                                             Date: 
+ 
+Additional General Manager, Station Engineering 
+NTPC Limited, WR-II HQ, 
+Plot No. 87, Sector 24, Atal Nagar , Nava Raipur 
+Raipur, Chhattisgarh-492018 
+ 
+Dear Sir, 
+Sub: Expression of Interest for Proof of Concept (POC) on Deployment of on premise 
+5G Captive Non-Public Network (CNPN) and its Application, as per Detailed Notice Inviting 
+Expression of Interest (EOI), (Ref No. EOI No.: EOC/Station Engi/2025 -26/5G CNPN) 
+dated 10.01.2026. 
+ 
+We, the undersigned, express our interest for the subject EOI and declare the following: 
+ 
+(a) We are duly authorized to represent and act on behalf of _ (name of 
+the firm/company/individual). 
+ 
+(b) We have examined and have no reservations to the EOI document including 
+Amendment No(s) & Clarification No(s) (if any). 
+(c) With reference to your invitation for EOI dated , we are furnishing herewith 
+all the required details as per the prescribed Annexures. 
+(d) We hereby express our willingness to participate in RFP/ forth coming tender as and  
+when NTPC Ltd invite the same. 
+ 
+(e) NTPC and /or its authorized representatives are hereby authorized to conduct any  
+inquiries or investigations to verify the statements, documents and information 
+submitted in connection with this application  and to seek clarifications from our 
+bankers/suppliers and clients. 
+(f) This application  will also serve  as authorization  to seek/ request information  as 
+deemed necessary from any individual or authorized representative of any institution  
+referred in the supporting document provided by APPLICANT.
+(Annexure-1)  
+ 
+ 
+ 
+(g) NTPC and /or its authorized representatives may contact the following nodal 
+persons for further information on any aspects of the application: 
+ 
+Name and designation of 
+contact Person 
+Address for 
+Communication 
+Telephone No Email ID 
+    
+    
+ 
+(h) This application is made in full understanding that: 
+        Through this EOI, NTPC intends to identify interested and capable parties in India 
+for deployment of On-site private 5G Captive Non-Public network (CNPN) with intended 
+applications mentioned in section-I . 
+This EOI is not intended for empanelment of  APPLICANT or pre -qualification of 
+applicant as well as any right to receive the enquiry for bidding /RFQ by the applicant. 
+ 
+1. EOI process will be subject to verification of all information submitted at the 
+discretion of NTPC. 
+2. NTPC Ltd reserves the right to reject or accept any or all applications, 
+cancel/withdraw the EOI process without assigning any reason whatsoever 
+and in such case, APPLICANT shall not have any claim arising out of such 
+action. 
+ 
+(i) We declare that we have read and abide by the provisions of Fraud Prevention 
+Policy of NTPC and submit the form of Acceptance of Fraud Prevention Policy duly 
+filled as per NTPC’s format. 
+(j) The undersigned declare that the statements made and the information provided in 
+the duly completed application are complete, true and correct in every detail. 
+ 
+ 
+SIGNATURE 
+ 
+(AUTHORISED SIGNATORY) 
+(DATE/NAME/DESIGNATION/PLACE) 
+(OFFICE STAMP) 
+                                                                           
+ 
+ 
+Annexure-2 
+ 
+Applicant’s Profile 
+ 
+1. Name of the interested party: ………………………………………………………… 
+2. Address : …………………………………………………………… 
+3. Classification of Company 
+Public Limited 
+Partnership 
+Limited Private 
+Limited 
+Others Please Specify: …………………………………… 
+4.   Contact Details (Max 02 person) NAME: ………………………………………………………. 
+DESIGNATION: ……………………………………………..,,…….. 
+MOBILE NO.: ………………………………………………………. 
+EMAIL-ID: …………………………………………………………. 
+5. Years of experience in the business: ………………………………………………………………. 
+6. Annual Turnover …………………………………………………………………………….. 
+7. Details of recently executed works, details of the works in the form of videos and photos.  
+…………………………………………………………………………………………………………… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SIGNATURE 
+ 
+(AUTHORISED SIGNATORY) 
+(DATE/NAME/DESIGNATION/PLACE) 
+(OFFICE STAMP) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure-3 
+ 
+ 
+(FORM FOR ACCEPTANCE OF FRAUD PREVENTION POLICY) 
+ 
+We have read the contents of Fraud Prevention Policy of NTPC displayed on the tender  
+website https://ntpctender.ntpc.co.in/and undertake that we shall strictly abide by the 
+provisions of Fraud Prevention Policy of NTPC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SIGNATURE 
+ 
+(AUTHORISED SIGNATORY) 
+(DATE/NAME/DESIGNATION/PLACE) 
+(OFFICE STAMP) 
+ 
+ 
+ 
+ 
+ 
+ 
+(Annexure-4) 
+ 
+ 
+ 
+ 
+Information as desired at Clause No. 03 of Detailed Notice Inviting EOI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(ANY OTHER INFORMATION) 
+ 
+ 
+ 
+If Applicant desires to share any other additional Information relevant to the work / assignment 
+like brochure, future plan or any suggestion, it may be given in this Annexure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SIGNATURE 
+ 
+(AUTHORISED SIGNATORY) 
+(DATE/NAME/DESIGNATION/PLACE) 
+(OFFICE STAMP) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Annexure-5) 
+ 
+ 
+Sl. 
+No. 
+Information Desired Provided 
+(Yes/No) 
+Remarks if any (specially if 
+answer to column 3 is “No”) 
+1 On site private 5G network deployed 
+(preferably from power plant industry) 
+  
+2 List of 5G deployed applications    
+3 List of supplies including 5G RAN, 
+spectrum an d equipment's like Smart 
+helmets, IOT sensors, 5G camera, 
+Push to talk devices, handsets etc. 
+  
+4 Documents of previous work   
+5 Client certificates for successful 
+running years 
+  
+6 Coverage Area of 5G CNPN network   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SIGNATURE 
+ 
+(AUTHORISED SIGNATORY) 
+(DATE/NAME/DESIGNATION/PLACE) 
+(OFFICE STAMP) 
+ 

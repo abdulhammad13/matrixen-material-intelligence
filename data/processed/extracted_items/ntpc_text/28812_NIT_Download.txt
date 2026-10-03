@@ -1,0 +1,4263 @@
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+बड
+बड
+ 
+ 
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid End Date/Time
+01-08-2025 16:00:00
+बड
+बड
+ 
+ 
+खुलने
+खुलने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid Opening
+Date/Time
+01-08-2025 16:30:00
+बड
+बड
+ 
+ 
+पेशकश
+पेशकश
+ 
+ 
+वैधता
+वैधता
+ (
+ (
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+ 
+ 
+से
+से
+)
+)
+/Bid Offer
+Validity (From End Date)
+120 (Days)
+मं ालय
+मं ालय
+/
+/
+रा!य
+रा!य
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Ministry/State Name
+Ministry Of Power
+वभाग
+वभाग
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Department Name
+Na
+संगठन
+संगठन
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Organisation Name
+Ntpc Limited
+काया%लय
+काया%लय
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Office Name
+Cg
+कुल
+कुल
+ 
+ 
+मा ा
+मा ा
+/Total Quantity
+520
+व&तु
+व&तु
+ 
+ 
+'ेणी
+'ेणी
+ 
+ 
+/Item Category
+M4663056257 , M4663056258 , M4663056259 ,
+M4663056260 , M4663056261 , M4663056262 ,
+M4663056263 , M4663056264 , M4663056265 ,
+M4663056266
+GeMARPTS
+ 
+ 
+म)
+म)
+ 
+ 
+खोजी
+खोजी
+ 
+ 
+गई
+गई
+ 
+ 
+,&-ं.स
+,&-ं.स
+ / Searched
+Strings used in GeMARPTS
+BBD 4760 MILL SHELL LINER
+GeMARPTS
+ 
+ 
+म)
+म)
+ 
+ 
+खोजा
+खोजा
+ 
+ 
+गया
+गया
+ 
+ 
+प/रणाम
+प/रणाम
+ / Searched
+Result generated in GeMARPTS
+Category not available on GeM for the text string uploaded
+by the buyer
+अिधसूचना
+अिधसूचना
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+चयिनत
+चयिनत
+ 
+ 
+5ासंिगक
+5ासंिगक
+ 
+ 
+'े,णयाँ
+'े,णयाँ
+ / Relevant
+Categories selected for notification
+Grinding Media Balls as per IS 6079
+Pulverizer
+बीओ8यू
+बीओ8यू
+ 
+ 
+शीष%क
+शीष%क
+ 
+ 
+/BOQ Title
+Procurement of Shell Liners for BBD 4760 Mills at NTPC
+Unchahar
+एमएसएमई
+एमएसएमई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष:
+वष:
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+5दान
+5दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+/MSE Exemption for Years of
+Experience and Turnover
+No
+&टाट%अप
+&टाट%अप
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष:
+वष:
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+5दान
+5दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+ /Startup Exemption for Years of
+Experience and Turnover
+No
+ 
+बड
+ 
+सं>या
+/
+Bid
+ 
+Number
+: 
+GEM/2025/B/6412124
+?दनांक
+ /
+Dated
+: 11-07-2025
+बड
+बड
+ 
+ 
+द&तावेज़
+द&तावेज़
+ / Bid Document
+1 / 10
+वHेता
+वHेता
+ 
+ 
+से
+से
+ 
+ 
+मांगे
+मांगे
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़
+द&तावेज़
+/Document required
+from seller
+Experience Criteria,Bidder Turnover,Certificate (Requested
+in ATC),Additional Doc 1 (Requested in ATC),Additional Doc
+2 (Requested in ATC),Additional Doc 3 (Requested in
+ATC),Additional Doc 4 (Requested in ATC),Compliance of
+BoQ specification and supporting document
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by
+the buyer
+8या
+8या
+ 
+ 
+आप
+आप
+ 
+ 
+िनवदाकारJ
+िनवदाकारJ
+ 
+ 
+Kारा
+Kारा
+ 
+ 
+अपलोड
+अपलोड
+ 
+ 
+?कए
+?कए
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़J
+द&तावेज़J
+ 
+ 
+को
+को
+िनवदा
+िनवदा
+ 
+ 
+म)
+म)
+ 
+ 
+भाग
+भाग
+ 
+ 
+लेने
+लेने
+ 
+ 
+वाले
+वाले
+ 
+ 
+सभी
+सभी
+ 
+ 
+िनवदाकारJ
+िनवदाकारJ
+ 
+ 
+को
+को
+ 
+ 
+?दखाना
+?दखाना
+चाहते
+चाहते
+ 
+ 
+हL
+हL
+? 
+? 
+संदभ%
+संदभ%
+ 
+ 
+मेनू
+मेनू
+ 
+ 
+है
+है
+/Do you want to show
+documents uploaded by bidders to all
+bidders participated in bid?
+Yes
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+ 
+ 
+बढ़ाने
+बढ़ाने
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+आवOयक
+आवOयक
+ 
+ 
+Pयूनतम
+Pयूनतम
+सहभागी
+सहभागी
+ 
+ 
+वHेताओं
+वHेताओं
+ 
+ 
+क
+क
+ 
+ 
+सं>या
+सं>या
+।
+।
+ / Minimum number of
+bids required to disable automatic bid
+extension
+1
+?दनJ
+?दनJ
+ 
+ 
+क
+क
+ 
+ 
+सं>या
+सं>या
+, 
+, 
+,जनके
+,जनके
+ 
+ 
+िलए
+िलए
+ 
+ 
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+बढ़ाई
+बढ़ाई
+ 
+ 
+जाएगी
+जाएगी
+। / 
+। / 
+Number
+ 
+ 
+of
+ 
+ 
+days
+ 
+ 
+for
+ 
+ 
+which
+ 
+ 
+Bid
+would
+ 
+ 
+be
+ 
+ 
+auto
+-
+-
+extended
+7
+बड
+बड
+ 
+ 
+से
+से
+ 
+ 
+/रवस%
+/रवस%
+ 
+ 
+नीलामी
+नीलामी
+ 
+ 
+स?Hय
+स?Hय
+ 
+ 
+?कया
+?कया
+/Bid to RA enabled
+No
+बड
+बड
+ 
+ 
+का
+का
+ 
+ 
+5कार
+5कार
+/Type of Bid
+Two Packet Bid
+5ाथिमक
+5ाथिमक
+ 
+उUपाद
+उUपाद
+ 
+'ेणी
+'ेणी
+/Primary product category
+M4663056257
+तकनीक
+तकनीक
+ 
+ 
+मूVयांकन
+मूVयांकन
+ 
+ 
+के
+के
+ 
+ 
+दौरान
+दौरान
+ 
+ 
+तकनीक
+तकनीक
+ 
+ 
+&पXीकरण
+&पXीकरण
+ 
+ 
+हेतु
+हेतु
+अनुमत
+अनुमत
+ 
+ 
+समय
+समय
+ 
+ 
+/Time allowed for Technical
+Clarifications during technical evaluation
+3 Days
+िनरYण
+िनरYण
+ 
+आवOयक
+आवOयक
+ (
+सूचीबZ
+सूचीबZ
+ 
+िनरYण
+िनरYण
+ 
+5ािधकरण
+5ािधकरण
+ /
+जेम
+जेम
+ 
+के
+के
+ 
+साथ
+साथ
+पूव%
+पूव%
+ 
+पंजीकृत
+पंजीकृत
+ 
+एज)िसयJ
+एज)िसयJ
+ 
+Kारा
+Kारा
+)/Inspection Required (By
+Empanelled Inspection Authority / Agencies
+pre-registered with GeM)
+No
+मूVयांकन
+मूVयांकन
+ 
+ 
+पZित
+पZित
+/Evaluation Method
+Total value wise evaluation
+म\य&थता
+म\य&थता
+ 
+खंड
+खंड
+/Arbitration Clause
+No
+सुलह
+सुलह
+ 
+खंड
+खंड
+/Mediation Clause
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+ईएमड
+ईएमड
+ 
+ 
+ववरण
+ववरण
+/EMD Detail
+एडवाईजर
+ 
+बLक
+/Advisory Bank
+ICICI
+ईएमड
+ 
+रािश
+/EMD Amount
+200000
+ईपीबीजी
+ईपीबीजी
+ 
+ 
+ववरण
+ववरण
+ 
+ 
+/ePBG Detail
+एडवाइजर
+ 
+बLक
+/Advisory Bank
+ICICI
+2 / 10
+ईपीबीजी
+ 
+5ितशत
+ (%)
+/ePBG Percentage(%)
+5.00
+ईपीबीजी
+ 
+क
+ 
+आवOयक
+ 
+अविध
+ (
+माह
+) 
+/Duration of ePBG
+required (Months).
+78
+(a). 
+जेम
+ 
+क
+ 
+शत:
+ 
+के
+ 
+अनुसार
+ 
+ईएमड
+ 
+छू ट
+ 
+के
+ 
+इ_छु क
+ 
+बडर
+ 
+को
+ 
+संबंिधत
+ 
+केटेगर
+ 
+के
+ 
+िलए
+ 
+बड
+ 
+के
+ 
+साथ
+ 
+वैध
+ 
+समिथ%त
+ 
+द&तावेज़
+ 
+5&तुत
+ 
+करने
+ 
+है
+।
+ 
+एमएसई
+केटेगर
+ 
+के
+ 
+अंतग%त
+ 
+केवल
+ 
+व&तुओं
+ 
+के
+ 
+िलए
+ 
+विनमा%ता
+ 
+तथा
+ 
+सेवाओं
+ 
+के
+ 
+िलए
+ 
+सेवा
+ 
+5दाता
+ 
+ईएमड
+ 
+से
+ 
+छू ट
+ 
+के
+ 
+पा 
+ 
+हL
+।
+ 
+`यापा/रयJ
+ 
+को
+ 
+इस
+ 
+नीित
+ 
+के
+ 
+दायरे
+ 
+से
+बाहर
+ 
+रखा
+ 
+गया
+ 
+है
+।
+/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document
+for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and
+Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this
+Policy.
+(b).
+ईएमड
+ 
+और
+ 
+संपादन
+ 
+जमानत
+ 
+रािश
+, 
+जहां
+ 
+यह
+ 
+लागू
+ 
+होती
+ 
+है
+, 
+लाभाथa
+ 
+के
+ 
+पY
+ 
+म)
+ 
+होनी
+ 
+चा?हए
+।
+ / EMD & Performance securityshould be
+in favour of Beneficiary, wherever it is applicable. 
+लाभाथa
+लाभाथa
+ 
+ 
+/Beneficiary :
+ 
+GM (C&M)-CPG-1
+NTPC Limited, Western Region II Headquarters, Plot No-87, Sector-24, Atal Nagar, Naya Raipur, Raipur
+Chhatisgarh-492018
+(Durga Prasad Pradhan)
+UIN Number NCTGC2415P
+वभाजन
+वभाजन
+/Splitting
+बोली
+ 
+वभाजन
+ 
+लागू
+ 
+नहं
+ 
+?कया
+ 
+गया
+/ 
+Bid splitting not applied.
+Reserved for Make In India products
+Reserved for Make In India products
+Yes
+एमएसई
+एमएसई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MSE Purchase Preference
+एमएसई
+ 
+खरद
+ 
+वरयता
+/MSE Purchase Preference
+Yes
+1. Bid reserved for Make In India products: : Procurement under this bid is reserved for purchase from Class 1
+local supplier as defined in public procurement (Preference to Make in India), Order 2017 as amended from time
+to time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products.
+However, eligible micro and small enterprises will be allowed to participate. The minimum local content to
+qualify as a class 1 local supplier is denoted in the bid document. All bidders must upload a certificate from the
+OEM regarding the percentage of the local content and the details of locations at which the local value addition is
+made along with their bid, failing which the bid is liable to be rejected. In case the bid value is more than Rs 10
+Crore, the declaration relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered accountant for OEMs other
+than companies as per the Public Procurement (preference to Make-in -India) order 2017 dated 04.06.2020 . In
+case Buyer has selected Purchase preference to Micro and Small Enterprises clause in the bid, the same will get
+precedence over this clause. 
+2. Purchase preference will be given to MSEs having valid Udyam Registration and whose credentials are
+validated online through Udyam Registration portal as defined in Public Procurement Policy for Micro and Small
+Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and
+its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail themselves of the
+Purchase preference, the bidder must be the manufacturer / OEM of the offered product on GeM. Traders are
+3 / 10
+excluded from the purview of Public Procurement Policy for Micro and Small Enterprises and hence resellers
+offering products manufactured by some other OEM are not eligible for any purchase preference. In respect of bid
+for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in
+this regard shall be uploaded along with the bid in respect of the offered product or service and Buyer will decide
+eligibility for purchase preference based on documentary evidence submitted, while evaluating the bid. If L-1 is
+not an MSE and MSE Seller (s) has / have quoted price within L-1+ 15% (Selected by Buyer) of margin of
+purchase preference /price band defined in relevant policy, such MSE Seller shall be given opportunity to match
+L-1 price and contract will be awarded for 100% (selected by Buyer) percentage of total quantity. The buyers are
+advised to refer the OM No. F.1/4/2021-PPD dated 18.05.2023 
+OM_No.1_4_2021_PPD_dated_18.05.2023
+ 
+for
+compliance of Concurrent application of Public Procurement Policy for Micro and Small Enterprises Order, 2012
+and Public Procurement (Preference to Make in India) Order, 2017. Benefits of MSE will be allowed only if seller is
+validated on-line in GeM profile as well as validated and approved by Buyer after evaluation of documents
+submitted. 
+3. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and
+for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.
+This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any
+impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of
+quoted prices which would be determined by the buyer based on its own assessment of reasonableness and
+based on competitive prices received in Bid / RA process. 
+M4663056257
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+?डलीवर
+?डलीवर
+ 
+के
+के
+ 
+?दन
+?दन
+/Delivery
+Days
+1
+Alok Sharma
+229406,Feroz Gandhi Unchahar
+Thermal Power Station
+P.O,UNCHAHAR RAEBARELI
+40
+180
+M4663056258
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+4 / 10
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+?डलीवर
+?डलीवर
+ 
+के
+के
+ 
+?दन
+?दन
+/Delivery
+Days
+1
+Alok Sharma
+229406,Feroz Gandhi Unchahar
+Thermal Power Station
+P.O,UNCHAHAR RAEBARELI
+160
+180
+M4663056259
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+?डलीवर
+?डलीवर
+ 
+के
+के
+ 
+?दन
+?दन
+/Delivery
+Days
+1
+Alok Sharma
+229406,Feroz Gandhi Unchahar
+Thermal Power Station
+P.O,UNCHAHAR RAEBARELI
+160
+180
+M4663056260
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+5 / 10
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+?डलीवर
+?डलीवर
+ 
+के
+के
+ 
+?दन
+?दन
+/Delivery
+Days
+1
+Alok Sharma
+229406,Feroz Gandhi Unchahar
+Thermal Power Station
+P.O,UNCHAHAR RAEBARELI
+8
+180
+M4663056261
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+?डलीवर
+?डलीवर
+ 
+के
+के
+ 
+?दन
+?दन
+/Delivery
+Days
+1
+Alok Sharma
+229406,Feroz Gandhi Unchahar
+Thermal Power Station
+P.O,UNCHAHAR RAEBARELI
+20
+180
+M4663056262
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+6 / 10
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+?डलीवर
+?डलीवर
+ 
+के
+के
+ 
+?दन
+?दन
+/Delivery
+Days
+1
+Alok Sharma
+229406,Feroz Gandhi Unchahar
+Thermal Power Station
+P.O,UNCHAHAR RAEBARELI
+20
+180
+M4663056263
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+?डलीवर
+?डलीवर
+ 
+के
+के
+ 
+?दन
+?दन
+/Delivery
+Days
+1
+Alok Sharma
+229406,Feroz Gandhi Unchahar
+Thermal Power Station
+P.O,UNCHAHAR RAEBARELI
+40
+180
+M4663056264
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+7 / 10
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+?डलीवर
+?डलीवर
+ 
+के
+के
+ 
+?दन
+?दन
+/Delivery
+Days
+1
+Alok Sharma
+229406,Feroz Gandhi Unchahar
+Thermal Power Station
+P.O,UNCHAHAR RAEBARELI
+32
+180
+M4663056265
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+?डलीवर
+?डलीवर
+ 
+के
+के
+ 
+?दन
+?दन
+/Delivery
+Days
+1
+Alok Sharma
+229406,Feroz Gandhi Unchahar
+Thermal Power Station
+P.O,UNCHAHAR RAEBARELI
+20
+180
+M4663056266
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+8 / 10
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+/रपो?टbग
+/रपो?टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+?डलीवर
+?डलीवर
+ 
+के
+के
+ 
+?दन
+?दन
+/Delivery
+Days
+1
+Alok Sharma
+229406,Feroz Gandhi Unchahar
+Thermal Power Station
+P.O,UNCHAHAR RAEBARELI
+20
+180
+Hेता
+Hेता
+ 
+ 
+Kारा
+Kारा
+ 
+ 
+जोड़
+जोड़
+ 
+ 
+गई
+गई
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+वशेष
+वशेष
+ 
+ 
+शतe
+शतe
+/Buyer Added Bid Specific Terms and Conditions
+1
+. 
+Scope of Supply
+Scope of supply (Bid price to include all cost components) : Only supply of Goods
+2
+. 
+Certificates
+Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the
+Bid document, ATC and Corrigendum if any.
+3
+. 
+Buyer Added Bid Specific ATC
+Buyer uploaded ATC document 
+Click here to view the file
+.
+अ&वीकरण
+अ&वीकरण
+/Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+bidding process without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+Category item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+attached categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9 / 10
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+case may be.
+15
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+16
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the
+same must be added through bunching category based items or by bunching custom catalogs or
+bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+such representations.
+All GeM Sellers / Service Providers are mandated to ensure compliance with all the applicable laws /
+acts / rules including but not limited to all Labour Laws such as The Minimum Wages Act, 1948, The
+Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The Equal Remuneration Act, 1976,
+The Payment of Gratuity Act, 1972 etc. Any non-compliance will be treated as breach of contract
+and Buyer may take suitable actions as per GeM Contract.
+यह
+ 
+बड
+ 
+सामाPय
+ 
+शत:
+ 
+के
+ 
+अंतग%त
+ 
+भी
+ 
+शािसत
+ 
+है
+ 
+/This Bid is also governed by the General Terms and Conditions
+जेम
+ 
+क
+ 
+सामाPय
+ 
+शत:
+ 
+के
+ 
+खंड
+ 26 
+के
+ 
+संदभ%
+ 
+म)
+ 
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+के
+ 
+बडर
+ 
+से
+ 
+खरद
+ 
+पर
+ 
+5ितबंध
+ 
+के
+ 
+संबंध
+ 
+म)
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+का
+ 
+कोई
+ 
+भी
+ 
+बडर
+ 
+इस
+ 
+िनवदा
+ 
+म)
+ 
+बड
+ 
+देने
+ 
+के
+ 
+िलए
+ 
+तभी
+ 
+पा 
+ 
+होगा
+ 
+जब
+ 
+वह
+ 
+बड
+ 
+देने
+ 
+वाला
+सYम
+ 
+5ािधकार
+ 
+के
+ 
+पास
+ 
+पंजीकृत
+ 
+हो
+।
+बड
+ 
+म)
+ 
+भाग
+ 
+लेते
+ 
+समय
+ 
+बडर
+ 
+को
+ 
+इसका
+ 
+अनुपालन
+ 
+करना
+ 
+होगा
+ 
+और
+ 
+कोई
+ 
+भी
+ 
+गलत
+ 
+घोषणा
+ 
+?कए
+ 
+जाने
+व
+ 
+इसका
+ 
+अनुपालन
+ 
+न
+ 
+करने
+ 
+पर
+ 
+अनुबंध
+ 
+को
+ 
+तUकाल
+ 
+समाi
+ 
+करने
+ 
+और
+ 
+कानून
+ 
+के
+ 
+अनुसार
+ 
+आगे
+ 
+क
+ 
+कानूनी
+ 
+कार%वाई
+ 
+का
+ 
+आधार
+ 
+होगा
+।
+/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---
+धPयवाद
+धPयवाद
+/Thank You---
+10 / 10
+NTPC Limited
+( A Government of India Enterprise )
+Tender Enquiry No. 9900306141
+Bill of Materials
+-------------------------
+Delivery Address:
+Feroz Gandhi Unchahar STPS
+P.O,UNCHAHAR
+RAEBARELI
+Uttar Pradesh
+229406
+India
+Tel : 05311-278081/278050 Fax: 05311-278018/278050
+( UOM Legends :- NO - Number )
+Item Material Code Description UoM* Total Quantity Delivery
+Date
+00010 M4663056257 LONG CONICAL LINER NO 40.000 01.09.2025
+00020 M4663056258 CYLINDRICAL LINER I NO 160.000 01.09.2025
+00030 M4663056259 CYLINDRICAL LINER II NO 160.000 01.09.2025
+00040 M4663056260 INLET SIDE LINER NO 8.000 01.09.2025
+00050 M4663056261 OBLIC WAVE -I LINER NO 20.000 01.09.2025
+00060 M4663056262 OBLIC WAVE- II LINER NO 20.000 01.09.2025
+00070 M4663056263 SHORT CONICAL LINER NO 40.000 01.09.2025
+00080 M4663056264 INLET SIDE LINER NO 32.000 01.09.2025
+00090 M4663056265 OBLIC WAVE-III LINER NO 20.000 01.09.2025
+00100 M4663056266 OBLIC WAVE-IV LINER NO 20.000 01.09.2025
+Page 2 of 6
+NTPC Limited
+( A Government of India Enterprise )
+Tender Enquiry No. 9900306141
+TECHNICAL DATA SHEET
+-----------------------------------------
+00010 - M4663056257
+Specification
+BOILER, PARTS
+PART NAME : LONG CONICAL LINER
+DRAWING & POSITION NUMBER : BBD-4760-UCR-02
+EQUIPMENT NAME : BALL & TUBE MILL
+EQUIPMENT MODEL : BBD 4760
+ADDITIONAL INFORMATION : WITH BOLT,NUT AND WASHER
+FOR BALL & TUBE MILL,MODEL BBD-4760
+00020 - M4663056258
+Specification
+BOILER, PARTS
+PART NAME : CYLINDRICAL LINER I
+DRAWING & POSITION NUMBER : BBD-4760-UCR-09
+EQUIPMENT NAME : BALL & TUBE MILL
+EQUIPMENT MODEL : BBD 4760
+ADDITIONAL INFORMATION : WITH BOLT,NUT AND WASHER
+FOR BALL & TUBE MILL,MODEL :BBD-4760
+00030 - M4663056259
+Specification
+BOILER, PARTS
+PART NAME : CYLINDRICAL LINER II
+DRAWING & POSITION NUMBER : BBD-4760-UCR-10
+EQUIPMENT NAME : BALL & TUBE MILL
+EQUIPMENT MODEL : BBD 4760
+ADDITIONAL INFORMATION : WITH BOLT,NUT AND WASHER
+FOR BALL & TUBE MILL,MODEL BBD-4760
+00040 - M4663056260
+Specification
+BOILER, PARTS
+PART NAME : INLET SIDE LINER
+DRAWING & POSITION NUMBER : BBD-4760-UCR-08
+EQUIPMENT NAME : BALL & TUBE MILL
+EQUIPMENT MODEL : BBD 4760
+ADDITIONAL INFORMATION : WITH BOSS,FOR BALL & TUBE MILL
+MODEL NUMBER:BBD-4760
+00050 - M4663056261
+Specification
+BOILER, PARTS
+PART NAME : CYLINDRICAL LINER WITH OBLIC WAVE -I
+DRAWING & POSITION NUMBER : BBD-4760-UCR-03
+EQUIPMENT NAME : BALL & TUBE MILL
+EQUIPMENT MODEL : BBD 4760
+00060 - M4663056262
+Specification
+BOILER, PARTS
+PART NAME : CYLINDRICAL LINER WITH OBLIC WAVE- II
+DRAWING & POSITION NUMBER : BBD-4760-UCR-04
+Page 3 of 6
+NTPC Limited
+( A Government of India Enterprise )
+Tender Enquiry No. 9900306141
+EQUIPMENT NAME : BALL & TUBE MILL
+EQUIPMENT MODEL : BBD 4760
+ADDITIONAL INFORMATION : WITH BOLT,NUT AND WASHER,OBILQUE WAVE,
+FOR BALL & TUBE MILL,MODEL BBD4760
+00070 - M4663056263
+Specification
+BOILER, PARTS
+PART NAME : SHORT CONICAL LINER
+DRAWING & POSITION NUMBER : BBD-4760-UCR-01
+EQUIPMENT NAME : BALL & TUBE MILL
+EQUIPMENT MODEL : BBD 4760
+ADDITIONAL INFORMATION : WITH BOLT,NUT AND WASHER
+FOR BALL & TUBE MILL,MODEL 4760
+00080 - M4663056264
+Specification
+BOILER, PARTS
+PART NAME : INLET SIDE LINER
+DRAWING & POSITION NUMBER : BBD-4760-UCR-07
+EQUIPMENT NAME : BALL & TUBE MILL
+EQUIPMENT MODEL : BBD 4760
+ADDITIONAL INFORMATION : WITHOUT BOSS,FOR BALL & TUBE MILL
+MODEL NUMBER:BBD-4760
+00090 - M4663056265
+Specification
+BOILER, PARTS
+PART NAME : CYLINDRICAL LINER WITH OBLIC WAVE-III
+DRAWING & POSITION NUMBER : BBD-4760-UCR-05
+EQUIPMENT NAME : BALL & TUBE MILL
+EQUIPMENT MODEL : BBD 4760
+ADDITIONAL INFORMATION : WITH BOLT,NUT AND WASHER,OBILQUE WAVE
+FOR BALL & TUBE MILL,MODEL 4760
+00100 - M4663056266
+Specification
+BOILER, PARTS
+PART NAME : CYLINDRICAL LINER OBLIC WAVE-IV
+DRAWING & POSITION NUMBER : BBD-4760-UCR-06
+EQUIPMENT NAME : BALL & TUBE MILL
+EQUIPMENT MODEL : BBD 4760
+ADDITIONAL INFORMATION : WITH BOLT,NUT AND WASHER OBILQUE WAVE
+FOR BALL & TUBE MILL,MODEL 4760
+Page 4 of 6
+BBD 4760
+BBD 4760 Mills Liners GA dwg  
+Dwg No:        BBD-4760-UCR-01 
+
+ 
+ 
+       
+USSC-CPG1               PPG-QA 
+ 
+   
+   
+   
+Standardised Quality Plan 
+Item MILL SHELL LINER 
+SQP No. CPG-QA-SQP-M-066 
+Rev 0 
+ 
+GANPATI JHA
+Digitally signed by GANPATI JHA
+DN: cn=GANPATI JHA, c=IN, st=Chhattisgarh,
+o=NTPC LIMITED, ou=CONTRACT,
+serialNumber=d3135b18b48ad4b52905337811
+f4c80f1cc904c325d4a9bbf5bb10177c50cae7
+Date: 2022.08.31 12:49:05 +05'30'
+Manufacturing Quality Plan Page 1 of2
+FQA / R - 02
+NTPC MANUFACTURING QUALITY PLAN TSTPP
+Name & Address of Manufacturer: Item: Hi-Chrome Mill Shell Liner QPNo Project: Talcher Super Thermal Power Project
+Rev No. Package:
+Date Contract No :
+Sub-system: Page 1 of 2 Main-
+Supplier:
+Classifi Type of Quantum of Check Reference Acceptence Record Agency
+S.No Component & Operation Characterstlcs Remarkcation Check M CIN Document Norm Format D M C N
+1.0 In-Process Inspection
+1.1 Molten Metal PO Specl PO Specl
+Ladle Analysis Major Chemical 1 Sample 1 Sample Apvd Apvd TC Y P V VAnalysis per melt per melt DatasheeV DatasheeV
+Apvd Drawing Apvd Drawing
+1.2 Hi-Chrome Liner Casting Surface Major Visual 100% 100% - 00- - 00- IR Y P V VExamination
+Heat Treatment Major Time and 100% 100% - 00- - 00- HT Y P V V Refer Note-1temperature Chart
+Surface Hardness Major Hardness 100% 100% - 00- - 00- Test Y P V V Refer Note-2check Report
+Dimensions Major Measurement 100% 100% - 00- - 00- IR Y P V V
+Chemical Major Chemical test 1 sample I 1 sample I - 00- - 00- Test Y P V Vheat heat Report
+Micro Structure Major Micro 1 sample I 1 sample I - 00- - 00- Test Y P V V Refer Note-3Examination HT Batch HT Batch Report
+2.0 Final Inspection of High Chrome Liner
+Castings
+Remarks: (Note-1 ):- Manufacturer to submit Heat Treatment procedure in this offer. Suitable Heat treatment shall be decided & implemented by manufacturer to achieve required Hardness & Micro- Structure properties.
+(Note-2):- Surface Hardness to be checked on casting with Equotip Hardness Tester. (Note-3):- Microstructure and Retained Austenite: Manufacturer to arrange reference photographs as per referred standardl
+requirement for comparison with sample results. (Note-4):- Visual Inspection: The tasting shall be free from defects such as blow holes. sand inclusion, shrinkage cavities, etc. which may adversely affect the utility of the
+casting. Following defects are unacceptable: (a) Sand & slag inclusions, blow holes: Depth of defect> 5mm. (b) Riser and ingate undercut in parent material >6mm. (Note-5):- Manufacturer to ensure identification of
+components by "As Cast" Heat Numberl Manufacturer Identification.
+D-Documents. Records identified with 'V' mark shall be included by supplier in QA Documentation. M-Manufacturer I Sub-supplier, C-Supplier, N-NTPC, P-Perform, V-Verify, W-Witness
+, NTPC Doc No. 9501-QP-1405~ Date-16.10.2018
+CHP - Customer Hold Point, CHPs are to be witnessed and For NTPC /~b~~.QvManufacturer/ Sub-supplier Main Supplier cleared by NTPC authorised representative, IR - Inspection report,
+Use, TC-Test Certificate Approved ~~~Iv~ J":lv
+.Signature & Seal ~ Reviewed by Sea~-, I by
+r
+~Jlf40587 R2
+~ ul'f'trb-...
+.~ ~ ;;"'~.~-:r----..Af. (~~~hTPc""_~(FI ~)
+"""""/~ Kar,fha
+23-10-2018http://I0.0.120.200:1999/QPPrintlPrintMQP.asp?QPNO=140587&REVNO=2
+11IfMtJ~1A. 7J~f::lJ:Jf>
+01/'f'1(J1\/c8rr!§J
+
+Manufacturing Quality Plan Page 2 of2
+FQA / R - 02
+NTPC MANUFACTURING QUALITY PLAN TSTPP
+Name & Address of Manufacturer: Item: Hi-Chrome Mill Shell Liner QP No Project: Talcher Super Thermal Power Project
+Rev No. Package:
+Date Contract No :
+Sub-system: Page 2 of 2 Main-
+Supplier:
+Classifi Type of Quantum of Check Reference Acceptence Record Agency
+S.No Component & Operation Characterstics Remarkcation Check M C/N Document Norm Format 0 M C N
+2.1 Finished Product PO Spec! PO Spec!
+Surface Critical Visual 100% 10% per Apvd Apvd IR Y P W W Refer Note-4Examination offered Lot DatasheeU DatasheeU
+Apvd Drawing Apvd Drawing
+Surface Hardness Critical Hardness 100% 10% per - Do- - Do- Test Y P W W Refer Note-2check offered Lot Report
+Dimensions Critical Measurement 100% 10% per - Do- - Do- Test Y P W Woffered Lot Report
+Grade Verification Critical PMI test 100% 10% per - Do- - Do- Test Y P W W by XRF Analyseroffered Lot Report
+Micro Structure & Critical Micro & RA 1 sample! 1 sample! - Do- - Do- IR Y P W W Refer Note-3Retained Austenite HT Batch HT Batch
+Remarks: (Note-1):- Manufacturer to submit Heat Treatment procedure in this offer. Suitable Heat treatment shall be decided & implemented by manufacturer to achieve required Hardness & Micro- Structure properties.
+(Note-2):- Surface Hardness to be checked on casting with Equotip Hardness Tester. (Note-3):- Microstructure and Retained Austenite: Manufacturer to arrange reference photographs as per referred standard!
+requirement for comparison with sample results. (Note-4):- Visual Inspection: The casting shall be free from defects such as blow holes, sand inclusion, shrinkage cavities, etc. which may adversely affect the utility of the
+casting. FOllowing defects are unacceptable: (a) Sand & slag inclusions, blow holes: Depth of defect> 5mm. (b) Riser and ingate undercut in parent material >6mm. (Note-5):- Manufacturer to ensure identification of
+components by "As Cast" Heat Number! Manufacturer Identification.
+D-Documents. Records identified with 'V' mark shall be included by supplier in QA Documentation. M-Manufacturer! Sub-supplier, C-Supplier, N-NTPC, P-Perform, V-Verify, W-Witness
+NTPC DocNo. 9501-QP-140587~, Date-16.10.2018
+CHP -,Customer Hold Point, CHPs are to be witnessed and For NTPC (-k){~;rManufacturer! Sub-supplier Main Supplier cleared by NTPC authorised representative, IR - Inspection report,
+UseTC-Test Certificate
+Signature & Seal Reviewed by Approved '--/ ;~'J{,l~; .-by Appro al al
+IfiiUSH~~'~~87 R2~~RA%) -::!qr..~ -~~ (~~DH-4N
+~'r1fIt ~~JP~ f?)
+~~~~
+kati4't"~'!lJf1}}~lr;
+hr~aY'6Vt,l .s~~Of!.rv"r:ThC~T'ti()~
+http://l 0.0.120.200: 1999/QPPrint/PrintMQP.asp?QPNO=140587 &REVNO=2 23-10-2018
+
+Technical Specifications
+4760
+Detailed list of fasteners for different variant of liners is to be submitted
+M4663056257 LONG CONICAL LINER 40
+M4663056258 CYLINDRICAL LINER 160
+M4663056259 160
+8
+20
+20
+40
+32
+20
+20
+M4663056260
+M4663056261
+M4663056262
+M4663056263
+M4663056264
+M4663056265
+M4663056266 
+INLET SIDE LINER
+CYLINDRICAL LINER01
+OBLIC WAVE-IV LINER
+OBLIC WAVE-III LINER
+INLET SIDE LINER
+SHORT CONICAL LINER
+OBLIC WAVE- II LINER
+OBLIC WAVE -1 LINER
+
+ 
+INVITATION FOR BIDS (IFB)  
+NTPC LIMITED 
+(A GOVERNMENT OF INDIA ENTERPRISE) 
+Central Procurement Group-I, Raipur 
+ 
+INVITATION FOR BIDS (IFB) 
+(DOMESTIC COMPETITIVE BIDDING) 
+ 
+ 
+NTPC invites online bids for “PROCUREMENT OF SHELL LINER S FOR BBD 4760  
+MILLS AT NTPC UNCHAHAR.” 
+ 
+ 
+Brief Details: 
+NIT No. NTPC/USSC-CPG1/ 9900306141 
+Tender Fees Not Applicable 
+EMD INR 2,00,000.00 (Two Lakhs Only) 
+Delivery/ Completion period Within 180 days from PO 
+ 
+General Terms & Conditions: 
+ 
+1. NTPC reserve the right to assess bidder’s capability and capacity of the bidder for 
+carrying out the supplies and the decision of NTPC in this regard shall be final.  
+2. NTPC reserves the right to accept or r eject any or all the tenders in part or full 
+including rejection of any request for issue of tender documents, alter the quantities or 
+split the order without assigning any reason thereof.  
+3. Above details are only indicative. Other detailed terms and con ditions shall be as per 
+tender documents.  
+ 
+Address for Communication:  
+GM (C&M)-CPG-1/ AGM(C&M)-CPG-1 
+NTPC Limited, Western Region II Headquarters, 
+Plot No-87, Sector-24, Atal Nagar, 
+Naya Raipur, Raipur 
+Chhatisgarh-492018 
+Email:amitksingh@ntpc.co.in/ dppradhan@ntpc.co.in  
+ 
+Contact Nos.: Amit Kumar Singh: 9415335083/ Durga Prasad Pradhan: 7008084608 
+  
+ 
+ 
+ 
+ 
+ 
+BUYER ADDED ADDITIONAL TERMS & CONTIONS (ATC) 
+ 
+1. TERMS & CONDITIONS: 
+1. Delivery/ Completion Period: Within 180 days from GeM PO 
+2. Payment Term: 100% payment within 30 days of Receipt & Acceptance Certificate of 
+material at site.  
+3. Vendor has to supply Set of liner fixing bolts, nut,  washer and set of backing material 
+(EPDM Rubber sheet/ C F Sheet etc.) as per OEM design for the installation of liners. The 
+cost of these materials are to be included in the cost of the liners hence, there shall not be 
+separate payment for these items. Liner wise detailed list of fasteners to be submitted along 
+with the supply. 
+4. Inspection: Pre dispatch inspection (PDI) shall be carried out by NTPC RIO at the works of 
+vendor as per technical specification, drawing, standard quality plan, etc. Material to be 
+dispatched only after issue of MDCC from NTPC.  
+Vendor shall submit following documents along with Supply (Applicable for All Items) - 
+a) GUARANTEE CERTIFICATE. 
+b) INTERCHANGEABILITY/ FITTMENT CERTIFICATE. 
+c) CERTIFICATE OF CONFORMANCE w.r.to Original profile of liners. 
+5. WARRANTY / GUARANTEE:  
+A. The guaranteed wear life of liners should be 30000 hours minimum against failure i.e. breakage, 
+crack and abnormal wear. Vendor has to  submit guarantee certificate in this regard. (Abnormal 
+wear means: The crest thickness of cylindrical liners 95 mm becoming less than 70 mm and or 
+the end thickness of 40 mm becoming less than 20 mm. 
+B. No credit shall be given to the vendor for extra life beyond the guaranteed life. 
+6. In case of Breakage/ Wear of Liners: 
+A. Free replacement of the  liner if it fails before 10000 Hrs of operation.  In case of breakage/ 
+cracking of liners before 10000 Hrs in part or full, the same has to be replaced  on free of cost 
+basis. 
+B. Pro rata recovery, if the liner fails after 10000 Hrs of mill operation. 
+7. During Installation, vendor has to deploy their staff to site for supervising the process of installation of 
+the liners supplied by the vendor. Ensuring and ve rification of correct fitment shall be the 
+responsibility of the vendor. This deployment of supervisory staff shall be without any additional cost 
+to NTPC. The replacement of one set of liners takes about two weeks. Vendor shall be intimated well 
+in advance before installation starts. 
+8. PBG (Performance bank Guarantee):  Vendor has to furnish Performance Bank Guarantee of 5% 
+of GeM Contract Value for a period of 30000 running hours of the liners or 6 years from the date of 
+receipt, whichever is earlier. The agency shall submit PBG initially for a period of 24 months and 
+shall keep extending it for one year/two year every time till above contractual commitment is fulfilled. 
+ 
+2. Evaluation Criteria:  
+Total Valu e Wise Evaluation. Lowest Bidder shall be evaluated on overall prices quoted 
+(lumpsum) on FOR NTPC Site Store basis.  
+ 
+3. ELIGIBILITY FOR PARTICIATION IN TENDER: 
+'Class-I local suppliers’ only are eligible to participate in this tender, as defined in the bidding 
+documents/ Public Procurement (Preference to Make in India), Order 2017 and its subsequent 
+amendments/ revisions issued by DPIIT. The bidders may apprise themselves of the relevant 
+provisions of bidding documents in this regard before submission of their bids."  
+The minimum local content shall be 50%.  
+The 'Class-I local supplier' shall be required to provide, in the Bid Form/relevant attachment of 
+Techno- Commercial bid, self-certification/declaration that the Item offered meets the local 
+content requirement for 'Class-I local supplier' and shall give details of the location(s) at which 
+the local value addition is made. Format is attached as Annexure A.  
+Bids for item(s) which do not meet the Minimum Local Content as mentioned above, shall be 
+considered non-responsive and shall not be evaluated in respect of such item(s) i.e. shall be 
+rejected for such item(s).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure A  
+ 
+Bidding Document No:…………………………………………… 
+ 
+Declaration of Local content 
+Dear Sir, 
+ 
+1.1 We have read the provisions of “Preference to Make in India and Eligibility for granting of 
+Purchase Preference to Class-I local suppliers” enclosed with the Bid Data Sheets. 
+ 
+In terms of the requirement of the aforesaid provisions, we hereby declare that we have submitted 
+our bids for only those item(s) for which we are eligible for participation as per provisions of the 
+Bidding documents and we are Class-I local supplier for all such items. 
+ 
+The details of the location(s) at which the local value addition is made are as under: 
+ 
+ 
+1.2 We undertake that a certificate from the statutory auditor or cost auditor (in the case the bidder is a 
+company) or from a practicing cost accountant or practicing chartered accountant (in respect of 
+bidders other than companies) certifying the percentage of local content shall be submitted by us 
+prior to submission of our last bill for payment.## 
+## This para is applicable in packages with estimated value (excluding taxes & duties) exceeding 
+INR 10 Crores. 
+2.0       Further, we hereby confirm that we are presently not debarred / banned by any other procuring 
+entity for violation of ‘Public Procurement (Preference to Make In India), Order 2017’ (PPP-MII 
+Order) dated 15.06.2017 and its subsequent revisions / amendments issued by Department of 
+Industrial Policy and Promotion (DIPP). 
+3.0 We agree to furnish any information as a proof of the above to your satisfaction as and when 
+required. 
+Note : 1) Continuation  sheets  of  like  size  and  format,  may  be  used  as  per Bidder's requirement and 
+shall be annexed to this Attachment. 
+2)   In case a Bidder has been banned/debarred by any other procuring entity for violation of 
+‘Public Procurement (Preference to Make In India), Order 2017’ (PPP- MII Order) dated 
+15.06.2017 and its subsequent revisions / amendments issued by Department of Industrial 
+Policy and Promotion (DIPP), the same may be declared by Bidder by striking off para 2.0 
+above and declaring the details of banning using additional sheets which shall be annexed to 
+this Attachment. 
+Sl. No. of 
+BOQ 
+Description of Goods  Details of the location(s) at 
+which the local value 
+addition is made 
+10  LONG CONICAL LINER  
+20  CYLINDRICAL LINER I  
+30  CYLINDRICAL LINER II  
+40  INLET SIDE LINER  
+50  OBLIC WAVE -I LINER  
+60  OBLIC WAVE- II LINER  
+70  SHORT CONICAL LINER  
+80  INLET SIDE LINER  
+90  OBLIC WAVE-III LINER  
+100  OBLIC WAVE-IV LINER  
+ 
+4. QUALIFYING REQUIREMENT 
+The bidder who wishes to participate in the bidding shall meet the Qualifying Requirements 
+stipulated hereunder: 
+1.1 Technical Criteria: 
+1.1.1    The bidder should be a manufacturer of Coal Mill Spares and should have supplied “Coal 
+Mill Liner(s)” to any Thermal Power Plant, within the preceding seven (07) years prior to the  date of 
+techno-commercial bid opening. 
+1.1.2   The bidder should have supplied coal mill spares within preceding seven (07) years prior to 
+the date of Techno-Commercial bid opening, in any of the following manner: 
+A. One (1) order having executed value not less than Rs. 118 Lakh 
+                                                      OR 
+B. Two (2) orders having executed value not less than Rs. 74 Lakh each 
+                                                      OR 
+C. Three (3) orders having executed value not less than Rs. 59 Lakh each 
+Notes for Technical Criteria: 
+1. The word “Executed" mentioned above means that the bidder should have achieved the 
+criteria specif ied above, even if the total contract is started earlier and/or is not  
+completed/closed. 
+2. In case of orders under execution, the value of work executed prior to the date of Techno -
+Commercial bid opening duly certified by bidder’s client shall be considered acceptable. 
+3. For arriving at the executed value of work specified above, basic amount only shall be 
+considered. In case contract is inclusive of taxes, bidder should provide the break  –up of 
+basic value and taxes. 
+ 
+1.2 Financial Criteria: 
+1.2.1 The Average Annual Turnover of the Bidder, should not be less than Rs. 148 Lakh (Rupees 
+One Hundred & Forty-Eight lakh only) during the preceding three (3) completed financial years 
+as on the date of Techno-Commercial bid opening. 
+1.2.2 In case the bidder does not satisfy the financial criteria, stipulated at Cl. 1.2.1 above on its 
+own, its Holding Company would be required to meet the stipulated turnover requirements at Cl. 
+1.2.1 above, provided that the net worth of such Holding Compan y as on the last day of the 
+preceding financial year is at least equal to or more than the paid -up share capital of the Holding 
+Company. In such an event, the bidder would be required to furnish along with its Techno -
+Commercial bid, a Letter of Undertaking  from the Holding Company, supported by Board 
+Resolution, as per the format enclosed in the bid documents, pledging unconditional and 
+irrevocable financial support for the execution of the Contract by the bidder in case of award. 
+1.2.3 In case the bidder i s not able to furnish its audited financial statements on standalone entity 
+basis, the unaudited unconsolidated financial statements of the bidder can be considered 
+acceptable provided the bidder further furnishes the following documents for substantiation  of its 
+qualification. 
+a) Copies of the unaudited unconsolidated financial statements of the bidder along with copies 
+of the Audited consolidated financial statements of its Holding Company. 
+b) A Certificate from the CEO/CFO of the Holding Company, as per the fo rmat enclosed in the 
+bidding documents, stating that the unaudited unconsolidated financial statements form part 
+of the Consolidated Annual Report of the company. 
+1.2.4 In cases where audited results for the last preceding financial year as on the date of Techno-
+Commercial bid opening are not available, the financial results certified by a practicing Chartered 
+Accountant shall be considered acceptable. In case, Bidder is not able to submit the Certificate 
+from practicing Chartered Accountant certifying its financial parameters, the audited results of three 
+consecutive financial years preceding the last financial year shall be considered for evaluating the 
+financial parameters. Further, a Certificate would be required from the CEO/CFO as per the format 
+enclosed in the bidding documents stating that the financial results of the Company are under audit 
+as on the date of Techno-Commercial bid opening and the Certificate from the practicing Chartered 
+Accountant certifying the financial parameters is not available. 
+Notes for 1.2: 
+1. Other income shall not be considered for arriving at annual turnover. 
+2. “Holding Company" and “Subsidiary Company” shall have the meaning ascribed to them as per 
+Companies Act of India, in vogue. 
+3. Net worth means the sum total of the paid -up s hare capital and free reserves. Free reserve 
+means all reserves credited out of the profits and share premium account but does not include 
+reserves credited out of the revaluation of the assets, write back of depreciation provision and 
+amalgamation. Furthe r, any debit balance of Profit and Loss account and miscellaneous 
+expenses to the extent not adjusted or written off, if any, shall be reduced from reserves and 
+surplus. 
+4. MSE-SC/ST & MSE -Women bidders are exempted from meeting the Average Annual Turnover  
+(AATO) requirement of financial QR. Accordingly, for these bidders Evaluation shall be carried 
+out only based on Technical Criteria of Qualifying Requirements. 
+ 
+5. DOCUMENTS IN SUPPORT OF MEETING THE QUALIFYING REQUIREMENTS: 
+The Bidder shall submit documents towards in support  of meeting the QR stipulated in the  
+Detailed NIT along with their bid (ANNEXURE I) which shall include: 
+a) Company Registration certificate / certificate of incorporation/ Partnership agreement etc. 
+b) Memorandum and Article of Associati on including  changes in the constitution of the 
+firm/company, name and address/(es) of Sole proprietor / partners  / board of directors, 
+partnership deed (up to date), if  any, in case of partnership firm and affidavit for  
+proprietorship concern. 
+c) Copy of GST Registration document. 
+d) Copies of the Letter of Award/Purchase  orders/Contracts along with Certificate(s) from the  
+Client(s) for successful execution of the assignment  with value and period of executions in 
+support of meeting the QR as stipulated in NIT. 
+e) Copies of financial statement in support of meeting the QR as stipulated in NIT 
+f) Any Other Document in support of meeting the QR as stipulated in the Detailed NIT 
+The bidder shall be required to submit duly certified and verified documents from t heir Statutory 
+Auditors or specified Third Party Inspection Agency (TPIA) in support of meeting Technical QR 
+along with a certificate regarding verification of authenticity of documents as per the format 
+placed at Annexure-II (Undertaking from Statutory Au ditor) and/ or Annexure III (Undertaking 
+from TPIA). All the documents submitted by the bidder in support of meeting Technical QR shall 
+be digitally signed by the Statutory Auditor and/ or specified TPIA” 
+Further, wherever information can be drawn from books of accounts, records and other relevant 
+documents, Bidders can also submit a certificate issued by their Independent Statutory Auditor 
+certifying the data required for meeting the Technical Qualification Requirements. 
+Details of submitted copy of Pur chase Orders/ Work Orders / Contract Agreements, Client 
+Certificates etc.), duly certified and verified by statutory auditors or specified TPIA should 
+be entered in Annexure I. 
+In case documents are certified & verified for authenticity through TPIA, the v erification and 
+certification of authenticity of documents is acceptable from any of the TPIAs as mentioned at 
+NTPC tender website (https://ntpctender.ntpc.co.in/) under “Policy for Document Authentication 
+Process in Tenders of NTPC Ltd”  tab. However, Bidders must verify the accreditation validity of 
+the designated TPIA before proceeding to engage them for document certification. 
+ 
+The following website may be referred for and accreditation validity of above mentioned TPIAs:  
+http://nabcb.qci.org.in/accreditation/reg_bod_inspection_bodies.php  
+ 
+Any document pertaining to reference works/ plants in support of Technical QR, 
+which is not certified by specified TPIA or Statutory Auditor of the bidder, as per 
+the format enclosed with the bidding documents, shall not be considered verified/ 
+certified for the purpose of evaluation, and the bid shall be liable for rejection. 
+The Bidder shall be responsible to get their documents/ credentials in support of Qualifying 
+Requirements verified & certified by their Statutory Auditor(s) and/ or specified TPIAs. All the 
+costs pertaining to third party verification and certification (including those by statutory auditors) 
+shall be borne by the Bidder. Employer shall have no liability (financial or otherwise) towards the 
+same and shall not be liable for any claim/ dispute between the bidder and TPIA and/ or Statutory 
+Auditor. 
+Note: 
+1) In    case    a    bidder    submits    documents    /    credentials in present tender    duly      certified/ 
+verified      by      Independent Statutory Auditor or specified TPIA for an earlier  tender of NTPC including 
+its JV /Subsidiary, the same shall be considered for the purpose of evaluation. In such case the 
+undertaking submitted for previous   tender (as   per   format) may   be   submitted   by the   bidders for 
+evaluation against the said tender. 
+2) It is clarified that where appointment of Statutory Auditor is not mandatory as per statute under which 
+bidder has been incorporated, the option of     certification from specified TPIA shall only be considered for 
+such bidder. 
+ 
+3) NTPC reserve the right to self-verify execution of GeM POs on GeM Portal [for the POs where Status of 
+execution is maintained as 'Order Paid']" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bidders are required to fill Annexure I/ IA properly. These references shall only be considered to ascertain the 
+bidder’s compliance to Qualifying Requirement (QR).  
+ 
+Tender Reference/ NIT No:    
+ANNEXURE I 
+Summary of Details & Documents in support of QR  
+Bidders Name and Address:                       
+To, 
+GM(C&M) 
+NTPC Limited, Central Procurement Group-I,  
+NTPC WR-II office, Sector-24, Tuta, 
+Naya Raipur, Chattisgarh - 492101 (India)      
+                                                             
+ 
+QR 
+No. 
+QR Stipulation as in NIT Meet 
+(Yes/No) 
+Brief Description along with 
+supporting documents 
+1.1  
+ 
+Technical Criteria   
+ 1.1.1 The bidder should be a 
+manufacturer of Coal Mill Spares and 
+should have supplied “Coal Mill Liner(s)” 
+to any Thermal Power Plant, within the 
+preceding seven (07) years prior to  the 
+date of techno-commercial bid opening. 
+1.1.2   The bidder should have supplied 
+coal mill spares within preceding seven 
+(07) years prior to the date of Techno -
+Commercial bid opening, in any of the 
+following manner: 
+A. One (1) order having executed 
+value not less than Rs. 118 Lakh 
+                          OR 
+B. Two (2) orders having executed 
+value not less than Rs. 74 Lakh 
+each 
+                           OR 
+C. Three (3) orders having executed 
+value not less than Rs. 59 Lakh 
+each 
+Notes for Technical Criteria: 
+1. The word “Executed" mentioned 
+above means that the bidder should 
+have achieved the criteria specified 
+above, even if the total contract is 
+started earlier and/or is not  
+completed/closed. 
+2. In case of orders under execution, 
+the value of work executed prior to 
+the date of Techno -Commercial bid 
+opening duly certified by bidder’s 
+client shall be considered acceptable. 
+3. For arriving at the executed value of 
+work specified above, basic amount 
+only shall be considered. In  case 
+contract is inclusive of taxes, bidder 
+should provide the break –up of basic 
+value and taxes. 
+1.2 
+ 
+Financial Criteria Meet 
+(Yes/No) 
+Brief Description along with 
+supporting documents 
+1.2.1 The Average Annual Turnover of 
+the Bidder, should not be less than Rs. 
+148 Lakh (Rupees One Hundred & 
+Forty-Eight lakh only)  during the 
+preceding three (3) completed financial 
+years as on the date of Techno -
+Commercial bid opening. 
+ 
+1.2.2 In case the bidder does not satisfy 
+the financial criteria, stipulated at Cl. 
+1.2.1 above on its own, its Holding 
+Company would be required to meet the 
+stipulated turnover requirements at Cl. 
+1.2.1 above, provided that the net worth 
+of such Holding Compan y as on the last 
+day of the preceding financial year is at 
+least equal to or more than the paid -up 
+share capital of the Holding Company. In 
+such an event, the bidder would be 
+required to furnish along with its Techno -
+Commercial bid, a Letter of Undertaking  
+from the Holding Company, supported by 
+  
+Board Resolution, as per the format 
+enclosed in the bid documents, pledging 
+unconditional and irrevocable financial 
+support for the execution of the Contract 
+by the bidder in case of award. 
+1.2.3 In case the bidder i s not able to 
+furnish its audited financial statements 
+on standalone entity basis, the unaudited 
+unconsolidated financial statements of 
+the bidder can be considered acceptable 
+provided the bidder further furnishes the 
+following documents for substantiation  of 
+its qualification. 
+a) Copies of the unaudited 
+unconsolidated financial 
+statements of the bidder along 
+with copies of the Audited 
+consolidated financial statements 
+of its Holding Company. 
+b) A Certificate from the CEO/CFO 
+of the Holding Company, as per the 
+format enclosed in the bidding 
+documents, stating that the unaudited 
+unconsolidated financial statements 
+form part of the Consolidated Annual 
+Report of the company. 
+1.2.4 In cases where audited results for the last 
+preceding financial year as on the date of 
+Techno-Commercial bid opening are not 
+available, the financial results certified by a 
+practicing Chartered Accountant shall be 
+considered acceptable. In case, Bidder is not 
+able to submit the Certificate from practicing 
+Chartered Accountant certifying its financial 
+parameters, the audited results of three 
+consecutive financial years preceding the last 
+financial year shall be considered for 
+evaluating the financial paramet ers. Further, a 
+Certificate would be required from the 
+CEO/CFO as per the format enclosed in the 
+bidding documents stating that the Financial 
+result s of the Company are under audit as on 
+the date of Techno -Commercial bid opening 
+and the Certificate from t he practicing 
+Chartered Accountant certifying the financial 
+Financial year Turnover (Rs.) 
+2021-22  
+2022-23  
+2023-24  
+2024-25  
+Average Annual 
+Turnover for the 
+preceding three (03) 
+completed financial 
+years. 
+ 
+ 
+The Reference Plants/ Orders/ Works declared, shall only be considered for evaluation/ establishing 
+compliance to Qualifying Requirements. No change or substitution in respect of reference Plants/ 
+Orders for meeting the specified Qualifying requirements shall be offered by the Bidder. 
+ 
+The order-1 details are given below: 
+ 
+Sl No Item Description Details 
+(i) Name of the Station and 
+its location 
+ 
+(ii) Client Name and Address e-mail, 
+Mobile and Tel. No 
+ 
+(iii) Name and designation of the 
+responsible person in  Client’s 
+organization 
+ 
+(iv) LOA No. & Date  
+(iv) Purchase Order / Contract No. & Date  
+(v) Value of PO 
+(Basic value & taxes break up required) 
+ 
+(vi) Executed value of PO 
+(Basic value & taxes break up required) 
+ 
+ In support of the above, we have attached Copies of 
+relevant purchase orders along with proof of 
+execution such as client certificate, corresponding 
+invoice/ delivery challans, LR , E-way Bill 
+installation/ performance report etc 
+ 
+ 
+ 
+At Appendix no. ……to 
+Annexure -IA. 
+ 
+parameters is not available. 
+Notes for 1.2: 
+1 Other income shall not be considered for arriving at annual turnover. 
+2 “Holding Company" and “Subsidiary Company” shall have the meaning ascribed to them 
+as per Companies Act of India, in vogue. 
+3 Net worth means the sum total of the paid-up share capital and free reserves. Free reserve 
+means all reserves credited out of the profits and share premium account but does not 
+include reserves credited out of the revaluation of the assets, write back of depreciation 
+provision and ama lgamation. Further, any debit balance of Profit and Loss account and 
+miscellaneous expenses to the extent not adjusted or written off, if any, shall be reduced 
+from reserves and surplus. 
+4 MSE-SC/ST & MSE -Women bidders are exempted from meeting the Average A nnual 
+Turnover (AATO) requirement of financial QR. Accordingly, for these bidders Evaluation 
+shall be carried out only based on Technical Criteria of Qualifying Requirements. 
+ 
+The order-2 details are given below: 
+Sl No Item Description Details 
+(i) Name of the Station and 
+its location 
+ 
+(ii) Client Name and Address e-mail, 
+Mobile and Tel. No 
+ 
+(iii) Name and designation of the 
+responsible person in  Client’s 
+organization 
+ 
+(iv) LOA No. & Date  
+(iv) Purchase Order / Contract No. & Date  
+(v) Value of PO 
+(Basic value & taxes break up required) 
+ 
+(vi) Executed value of PO 
+(Basic value & taxes break up required) 
+ 
+ In support of the above, we have attached Copies of 
+relevant purchase orders along with proof of 
+execution such as client certificate, corresponding 
+invoice/ delivery challans, LR , E-way Bill 
+installation/ performance report etc 
+ 
+ 
+ 
+At Appendix no. ……to 
+Annexure -IA. 
+ 
+The order-3 details are given below: 
+ 
+Sl. 
+No. 
+Item Description Details 
+(i) Name of the Station and 
+its location 
+ 
+(ii) Client Name and Address 
+e-mail, Mobile and Tel. No 
+ 
+(iii) Name and designation of the 
+responsible person in Client’s 
+organization 
+ 
+(iv) LOA No. & Date  
+(iv) Purchase Order / Contract No. & Date  
+(v) Value of PO 
+(Basic value & taxes break up required) 
+ 
+(vi) Executed value of PO 
+(Basic value & taxes break up required) 
+ 
+ In support of the above, we have attached Copies of 
+relevant purchase orders along with proof of 
+execution such as client certificate, corresponding 
+invoice/ delivery challans, LR , E-way Bill 
+installation/ performance report etc 
+ 
+ 
+ 
+At Appendix no. ……to 
+Annexure -IA. 
+ 
+ANNEXURE IA 
+Bidders are required to fill Annexure I properly. These references shall only be considered to ascertain the bidder’s compliance to 
+Qualifying Requirement (QR).  
+Bidder’s Qualifications 
+(To be uploaded in Pre-Qual/Technical Cover/Envelope) 
+ 
+Bidder to enclose supporting documents in support of meeting Qualifying Requirements in line with  (NIT) 
+NAME OF BIDDER: 
+PAN NUMBER: 
+GST REGISTRATION NUMBER: 
+Details of Completed / Executed work: 
+ 
+S.No. WO No / 
+Date 
+Executed 
+Amount 
+Date of 
+Execution/ 
+Completion 
+Document Submitted 
+    Name of Customer / 
+Company, Phone, Fax, 
+Email id & Name of 
+contact person 
+Work 
+order 
+Copy 
+with BOQ 
+Yes /No 
+Document in support of executed work Completion Certificate / Copy of 
+Measurement book(R/A bills) / Proof of receipt of payment etc. 
+1.       
+2.       
+3.       
+ 
+Notes: 
+The Reference Plants/ Orders/ Works declared, shall only be considered for evaluation/ establishing compliance to Qualifying Requirements. No 
+change or substitution in respect of reference Plants/ Orders for meeting the specified Qualifying requirements shall be offered by the Bidder. 
+3  
+(LIST OF FINANCIAL DOCUMENTS) 
+Bidder’s Name & Address: 
+To, 
+ 
+NTPC Limited, 
+ 
+The following Documents are annexed to this attachment. 
+ 
+1. Annual reports for preceding three years as on the date of Techno-commercial Bid opening. 
+ 
+ANNUAL TURNOVER FOR 03 FINANCIAL YEARS :  
+2024-2025: LAKHS (UDIN No.:                                                                         ) 
+2023-2024: LAKHS (UDIN No.:                                                                         ) 
+2022-2023: LAKHS (UDIN No.:                                                                         ) 
+2021-2022: LAKHS (UDIN No.:                                                                         ) 
+ 
+@ In case Bidder is not able to submit the Certificate from a practicing Chartered Accountant certifying its financial parame ters for the last financial year, the audited 
+results of the three consecutive financial years preceding the last financial year sh all be considered for evaluating the financial parameters. Further, a Certificate 
+would be required from the CEO/CFO as per the format enclosed in the bidding documents stating that the Financial results of the Company are under audit as on 
+the date of Techno-commercial bid opening and the Certificate from the practicing Chartered Accountant certifying the financial parameters is no t available. 
+ 
+ 
+Date : Signature............................................ 
+Place : Name of Authorised person having Power of attorney................... 
+Designation........................................ 
+CommonSeal.................................... 
+ 
+ 
+ 
+Proforma of Certificate from the CEO/CFO of the company in accordance with 
+Financial requirement criteria in cases where audited results for the last financial year 
+as on the date of Techno-commercial bid opening are not available 
+ 
+(To be submitted by Bidder along with the Techno-commercial Bid with QR Documents)  
+Ref: 
+Date:  
+ To 
+Dear Sir, 
+ 
+1.0 I, Mr./Ms.  ………………………. (*CEO  of the Company/*CFO of the Company), confirm and 
+undertake that the Financial results of the Company are under audit as on the date of Techno - 
+commercial bid opening and the Certificate from the practicing Chartered Accountant certifying  the 
+financial parameters is not available. 
+ 
+2.0 Accordingly, the company is not able to submit the Certificate from a practicing Chartered 
+Accountant certifying its financial parameters for the last financial year and the 
+audited results of the three consecutive financial years preceding the last financial 
+year have been considered for meeting the financial parameters in the bid submitted 
+by M/s ............................................................................................................ (Name of 
+the 
+Bidder) for the .................................................................................................. (Name of the 
+package) under NIT reference No. …………. Dated 
+…………… 
+ 
+ 
+ 
+ 
+Yours faithfully, Signature 
+ 
+Name & Designation………………….. 
+Name of the Company………………….. 
+ 
+(Seal of Company)…………………. 
+ 
+Note : *Strike off whichever is not applicable. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEXURE II 
+Undertaking from Independent Statutory Auditor 
+(On letter head digitally signed by a person duly authorized to Sign on behalf of the Statutory 
+Auditor) 
+Bid Ref. No:  DATE: 
+To, 
+NTPC Ltd. 
+……………….. 
+ 
+Subject: Authentication of  veracity of  documents submitted by M/s ……….  in  support of 
+meeting the Qualifying  Requirements  
+ 
+ 
+Ref : IFB/Tender no. ………………….. 
+Name of the Package/ Tender: ……………………………………… 
+ 
+Dear Sir, 
+ 
+M/s.      …………………………….   (hereinafter  called  Bidder)  having Registered   
+office at ................................ .........  intend to participate in above referred tender of NTPC Ltd. 
+We, M/s …………………………. has been appointed as Statutory Auditor for  the Bidder  i.e.  M/s
+ ................................ ........... (Relevant documents on our appointment  attached)  
+ 
+The tender condition stipulates that the bidder shall submit supporting Documents pertaining to 
+Technical Qualifying Requirement duly verified and certified by Statutory  Auditor.  
+In this regard, it is hereby confirmed that we have examined the following documents, which 
+are also attached with this letter. The same has been verified from the Original Documents 
+and/ or Client for authenticity.  
+We hereby confirm that the following documents are found to be genuine and authentic. 
+ 
+1. Doc ref./PO No.  no. ……….. dated  (name of Documents)  
+ 
+ 
+2. Doc ref. no./PO No.  ……….. dated  . (name of Documents) 
+3. …………… 
+ 
+The Executed Value/ Quantity  of the PO(s) as above has been verified using invoice copy(s)/ LR Bill 
+and  completion certificate/ inspection report/ material despatch clearance certificate submitted as 
+execution proof and are found to be genuine and authentic: 
+1. Invoice  no. ……….. dated  / LR Bill ……….. dated   and completion certificate ……….. dated
+(name of Documents)  
+2. Invoice  no. ……….. dated  / LR Bill ……….. dated  and completion certificate ……….. dated
+(name of Documents)  
+3. …………… 
+All the aforesaid documents have been duly signed and stamped and/ or digitally signed by us as 
+a certificate of authenticity.  
+*Further, we have examined the books of accounts, records, and other relevant documents, along     
+with     other     necessary     information      and      explanations      furnished      by    M/s.
+ ________________________  (bidder) and hereby certify  following: 
+……………………………………………. 
+ 
+This certificate is issued at the request of M/s ………………. (Bidder) for the purpose of participating in 
+tender/s. 
+Thanking you, 
+ 
+…………………… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure III 
+ 
+Undertaking from Third Party Inspection Agency 
+(on letter head digitally signed by a person duly authorized to Sign on behalf of the TPIA)  
+Ref.:  Date: 
+To, 
+NTPC Ltd. 
+………………. 
+ 
+Dear Sir, 
+ 
+Subject:   Authentication of veracity  of  documents  submitted  by M/s .................... in 
+support of meeting the Qualifying Requirements 
+ 
+Ref : IFB/Tender no. ………………….. 
+Name of the Package/ Tender: ……………………………………… 
+ 
+ 
+M/s. ………………. (hereinafter called Bidder) having Registered office at 
+……………………… intend to participate in above referred tender of NTPC Ltd. 
+ 
+The tender condition stipulates that the bidder shall submit supporting Documents pertaining 
+to Qualifying Requirement duly verified and certified by a  specified  independent Third Party 
+Inspection Agency as per the list mentioned in the bidding documents.  
+ 
+In this regard, it is hereby confirmed that we have examined the following documents, which 
+are also attached with this letter. The same has been verified from the Original  Documents 
+and / or Client for authenticity.  
+ 
+We hereby confirm that the following documents are found to be genuine and authentic.  
+1. Doc ref. no./PO No.  ……….. dated  . (name of Documents)  
+2. Doc ref. no./ P O  N o . ……….. dated  (name of Documents)  
+3. …………… 
+ 
+ 
+ 
+The Executed Value/ Quantity  of the PO(s) as above has been verified using invoice copy(s)/ LR Bill 
+and  completion certificate/ inspection report/ material despatch clearance certificate submitted as 
+execution proof and are found to be genuine and authentic: 
+3. Invoice  no. ……….. dated  / LR Bill ……….. dated   and completion certificate ……….. dated
+(name of Documents)  
+4. Invoice  no. ……….. dated  / LR Bill ……….. dated  and completion certificate ……….. dated
+(name of Documents)  
+3. …………… 
+All the aforesaid documents has been digitally signed by us as a certificate of authenticity.  
+ 
+We further confirm that we neither have any vested interest in aforesaid tender nor have 
+any conflict  of interest  in respect  of above tender.  
+ 
+This certificate is issued at the request of M/s ………………. (Bidder) for the purpose of participating 
+in the subject tender/s. 
+ 
+Thanking you, 
+ 
+…………………… 
+ 
+* Strike off, whichever is not applicable. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. EARNEST MONEY DEPOSIT (EMD) / BID SECURITY  
+The Earnest Money Deposit (EMD) shall in the form of Bank Guarantee from banks specified in the 
+published GeM bid.  
+The format of Bid Guarantee (BG) towards EMD shall be as per attached format (Form -1) and should be 
+submitted from a bank as indicated in Form – 3.   
+MSE Bidders who are manufacturer of the tendered Items and have a valid Udyam Registration Certificate 
+shall be exempted from submission of EMD. 
+The BG towards EMD shall remain valid for a period of forty -five (45) days beyond the original Bid v alidity 
+period or beyond any extension in the period of Bid validity subsequently requested. 
+Bidders shall be required to upload the scanned copy of the BG on GeM portal. 
+Bidder shall also be required to submit the Original BG in physical form to reach NTP C at the address 
+mentioned in Bidding Documents, not later than 5 days from the date of submission of Techno -
+Commercial bids or before the Price Bid opening, whichever is earlier, failing which its bid shall be 
+rejected and not considered for further evaluation. 
+Sealed envelope containing EMD and any offline documents sought in tender, must be marked and details 
+like NIT/ Tender No, Scope of Work, Bid Opening Due Date etc mentioned on the envelope 
+CONFIRMATION OF BGS 
+While issuing the physical BGs, the Bidder’s Bank shall also send electronic message through secure SFMS (in 
+case of BGs issued from within India) or SWIFT (in case of BGs issued from outside India) to Employer’s 
+Beneficiary Bank whose details are provided above 
+ 
+i Bank Name ICICI BANK LTD. 
+ii Branch CONNAUGHT PLACE 
+BRANCH 
+iii Bank 
+address 
+9A, PHELPS BUILDING, 
+INNER CIRCLE, NEW DELHI -
+110001 
+iv IFSC Code ICIC0000007 
+                                              
+BG issuing/amending bank must send the BG advice in the form of message format via SFMS (Structured 
+Financial Messaging System) as provided by RBI. The format of the message for confirmation of the BG shall 
+be as below:  
+BG advising message: IFN 760COV/ IFN 767COV via SFMS  
+Field Number: Particulars (to be mentioned in Row 1)  
+7037: NTPCBG (unique identifier) 
+ 
+ 
+EMD Exemption for MSE Bidders 
+MSE Bidders who are manufacturer of the tendered Items and have a valid Udyam Registration 
+Certificate shall be exempted from submission of EMD. 
+In case of an upward change in terms of investment in plant and machinery or equipment or 
+turnover or both, and consequent re -classification, an enterprise shall continue to avail of all non -
+tax benefits of the category (micro or small or medium) it was in before the re -classification, for a 
+period of three years from the date of such upward change. 
+For availing MSE benefits, bidder must confirm that items quoted by the bidder are manufactured 
+by them.  
+In support of above claim re garding manufacturing of each of the specified Item(s), Bidder will 
+furnish necessary details of Stores/ Category of items etc. as mentioned in the MSE registration 
+certificate along with the Undertaking as given at Annexure IV. In case, such details are n ot 
+available in the Registration Certificate furnished by the Bidder for any of the quoted item(s), other 
+relevant details/documentary evidence will be furnished along with the Undertaking in support of 
+the claim that such item(s) are manufactured by the Bidder.  
+Except Udyam Registration Certificate no other registration documents will be considered for 
+MSEs exemption & benefits for bids which will be under evaluation stage on 1st January 2022 
+onwards. 
+The benefit as above to MSEs shall be available only f or Goods/ Services produced & provided by 
+MSEs. As per answer to FAQ no. 18 circulated vide Office Memorandum F. No. 22(1)/2012 -MA 
+dated 24.10.2016 “Policy is meant for procurement of goods produced and services rendered by 
+MSEs. However, traders are excluded from the purview of benefits and exemption of MSEs.” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEXURE-IV 
+ 
+Undertaking to be given by the MSE Bidder for availing benefits/ exemptions as per PPP 2012 for cases where 
+Item wise evaluation is applicable 
+M/s NTPC Limited 
+Ref: Our Bid Reference Number:______________________________ Dated______________ against Tender 
+Invitation Number___________________________Dated_______________for____________ Name of 
+Package____________________________________________________________________ 
+ 
+With reference to our bid (as referred above) against subject Tender Invitation, we have attached relevant 
+documents for availing benefits/ exemptions available to MSEs as  per PPP 2012 and its subsequent 
+amendments, if any. We are aware that benefits to MSEs under PPP 2012 are available to manufacturer of 
+goods and not to traders/dealers and accordingly, we hereby undertake that: 
+* We are manufacturer of the quoted item(s) and understand that the benefits as applicable to 
+MSEs under PPP 2012 including Pu rchase Preference shall be applicable  as per provisions of 
+Bidding Document for all the quoted items of our bid. 
+ 
+We also understand that in case documents submitted by us for availing benefits/exemptions  applicable to 
+MSEs under PPP 2012 are not found to be in order by NTPC Limited/ Employer at any stage of Bid Evaluation 
+and EMD and/or cost of Bid Documents (wherever applicable) have also not been submitted by us then our 
+bid shall not be considered further for evaluation and be rejected. 
+Thanking you, 
+ 
+(Authorized Signatory) 
+ 
+Name & address of the bidder___________________ 
+Date: 
+* Strike out which is not applicable 
+ 
+ 
+ 
+ 
+ 
+ 
+7. Special provision for MSE-SC/ST and MSE-Women 
+ 
+I. For all tenders related to Goods &  Services values up to Rs.4 Crore, the requirement of 
+Average Annual Turnover (AATO) for MSE -SC/ST & MSE -Women is not required. 
+Evaluation shall be carried out based on only Technical Criteria mentioned in the tender.  
+II. Performance Bank Guarantee shall be 2.5% of contract value in place of original 5% of 
+contract value for all MSE-SC-ST or MSE-Women vendors on whom order is placed.  
+III. In case of procurement of Goods/Services, where requirement is not splitable, preference to 
+MSEs shall be given as follows subject to matching of L1 price:  
+a. First Preference to SC/ST & Women MSEs i.e. Women SC-ST MSE.  
+b. Second preference to SC/ST -MSE Only.  
+c. Third Preference to Women-MSE only.  
+d. Others MSEs.  
+IV. In case the requirement is Splitable, out of the 25% quantity/value, 4% shall be reserved for 
+SC/ST and 3% shall be reserved for Women and balance qty., out of 25% shall be divided 
+in all MSEs within the margin of purchase preference subject to matching of  L1 price (L1 is 
+Non-MSME & Quoted price of MSEs are L1 +15%).  
+a. In case of non -availability of SC/ST -MSE vendor within L1+15 %Margin, 7% will go 
+to women-MSE & 18% to others MSEs.  
+b. In case of non -availability of Women -MSE, then 7% to SC/ST -MSE and 18% to 
+others MSEs.  
+c. In case of non -availability of both SC/ST & women -MSEs, all 25 % goes to other 
+MSEs.  
+V. In case where in a non -splitable tender two or more bidders have quoted the same price, 
+preference shall be given as per follows:  
+a. First Preference to SC/ST & Women MSE 
+b. Second preference to SC/ST-MSE 
+c. Third Preference to Women-MSE 
+d. Others. 
+ 
+ 
+ 
+8. COMPLIANT BID: 
+No deviation, whatsoever, is permitted by EMPLOYER  to any provision of Bidding 
+Documents. The Bidders are  advised that while making their Bids and quoting prices, 
+all conditions are appropriately taken into consideration. 
+Bidders shall certify their compliance to the complete  Bidding Documents as per 
+Certificate at Annexure C of the Tender: 
+In case the Products and/or Services offered do not  meet the Technical Requirements, 
+the bid shall be rejected as Technically non-responsive. 
+Bidders may note that in case the Bidder refuses to  withdraw additional conditions/ 
+deviations/ variations/  exception, implicit or explicit, found anywhere in the  techno-
+commercial bid, the bid shall be rejected as Technically non-responsive. 
+Bidders may also note that any deviation/variation in  any form in the Price Bid shall 
+result in forfeiture of EMD. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure – C 
+CERTIFICATE FOR COMPLIANCE 
+TO 
+ALL PROVISIONS OF BIDDING DOCUMENTS 
+(Certificate of "NIL" Deviation) 
+Towards COMPLIANT BID 
+ 
+ 
+To, 
+………………. 
+……………….. Power Station 
+NTPC Limited, 
+……………………………………… 
+……………………………………. 
+ 
+ 
+Dear Sir, 
+ 
+1. With reference to our Bid submitted against the tender, we hereby confirm that we  comply with all 
+terms, conditions and specifications of the Bidding Documents read in conjunction with Amendment(s) / 
+Clarification(s) / Addenda/Errata (if any) issued by the Employer prior to opening of Techno -Commercial 
+Bids and the same has been taken into consideration while making our Techno -Commercial Bid & Price Bid 
+and we declare that we have not taken any deviation in this regard. 
+2. We understand that in case the Products and/or Services offered do not meet the Technical 
+requirements, then our bid shall be rejected as Technically nonresponsive.  
+We also confirm that in case we refuse to withdraw additional conditions/deviations/variations/exception, 
+implicit or explicit, found anywhere in the techno -commercial bid, our bid shall be rejected as Tec hnically 
+non-responsive.  
+We further confirm that if any deviation/variation in any form is found in our Price Bid, the EMD shall be 
+forfeited. 
+ 
+ 
+ 
+(Authorised Signatory) 
+Name & address of the bidder ………………………………………. 
+……………………………………… 
+Date: 
+ 
+ 
+9. IMPORTANT INFORMATION FOR BIDDERS 
+a.  Fraud Prevention Policy  
+NTPC has in place a policy for Prevention of Fraud. The “Fraud Prevention Policy” has been framed to 
+provide a system for detection and prevention of fraud, reporting of any fraud that is detected or 
+suspected and fair dealing of matters pertaining to fraud. 
+Fraud Prevention Policy shall mean the policy related to prevention of fraud displayed on NTPC tender 
+website https://ntpctender.ntpc.co.in and https://vendor.ntpc.co.in 
+The Bidder along with its associate/collaborators/subcontractors/sub -vendors/ consultants/ service 
+providers shall strictly adhere to the Fraud Prevention Policy of EMPLOYER displayed on its tender website 
+https://ntpctender.ntpc.co.in and https://vendor.ntpc.co.in and shall immediately apprise Employer about 
+any fraud or suspected fraud as soon as it comes to their notice. Bidders shall certify their compliance to 
+the Fraud Prevention Policy as per Certificate at Annexure D. 
+If in terms of above policy, it is establ ished that the bidder/his representatives have committed any fraud 
+while competing for this contract then the Earnest Money Deposit shall be forfeited. 
+b. Policy for Debarment from Business Dealings 
+The Employer has in place a policy for withholding and banni ng of business Dealings and same is displayed 
+on its tender website https://ntpctender.ntpc.co.in and https://vendor.ntpc.co.in. Business dealings may 
+be withheld or banned with the Bidder/Contractor on accoun t of any default by the contractor for any of 
+the grounds detailed in the said Banning Policy. 
+NTPC reserves its right to withhold or ban or suspend business dealings with any Agency, if such Agency is 
+found to have committed misconduct or any of its actio n(s) fall into any such categories as laid down in its 
+Policy for Debarment from Business Dealings 
+Policy for Debarment from Business Dealings shall mean the policy related to Withholding & Banning of 
+Business Dealings displayed on NTPC tender website  https://ntpctender.ntpc.co.in and 
+https://vendor.ntpc.co.in  
+Bidders shall submit the Declaration on Policy of for withholding and banning of Business Dealings 
+Employer as per Certificate at Annexure E  
+c. Anti-Bribery and Anti-Corruption (ABAC) Policy: 
+Anti-Bribery and Anti -Corruption (ABAC) Policy: The Bidder and its  employees along with its Associate/ 
+Collaborator/ Sub - Contractors / Sub -Vendors / Consultants / Service Providers and all other persons 
+associated with business of Employer shall strictly adhere to Anti - Bribery and Anti -Corruption (ABAC) 
+Policy of Employer displayed on tender website https://ntpctender.ntpc.co.in. 
+ 
+ 
+Please refer and submit Adherence to Employer’s Anti -Bribery and Anti-Corruption (ABAC) Policy as per 
+format attached as Annexure F. 
+d. One Bid per Bidder:  
+Please refer Clause 29 of GeM GTC.  
+Please refer and submit the DECLARATION W.R.T. SINGLE BID Policy as per format attached as Annexure 
+G. 
+e. Conflict of Interest 
+A bidder shall not have conflict of interest with other bidders. Such conflict of interest can lead to anti -
+competitive practices to  the detriment of Employer ’s interests. A bidder may be considered to have a 
+conflict of interest with one or more parties in this bidding process, if: 
+a) they directly or indirectly control, or are controlled by or are under common control of another enti ty; 
+or  
+b) they have the same legal representative/agent for purposes of their bids; or 
+c) they have relationship with each other, directly or through common third party(ies), that puts them in a 
+position to have access to information about or influence on the bid of another Bidder; or 
+d) Bidder and/or any of its allied entity(ies), which directly or indirectly control(s) or is(are) controlled by or 
+is(are) under common control of another entity, has(ve) participated as a consultant in the preparation of 
+the design or technical specifications of the contract that is the subject of the tender; or 
+e) Bidder participates in more than one bid in this bidding process. 
+f) In cases of agents quoting on behalf of their principal manufacturers/service providers, one agent cannot 
+represent two manufacturers/service providers or quote on their behalf in a particular tender enquiry. One 
+manufacturer/service provider can also authorize only one agent. There can be only one bid from the 
+following: 
+i) The principal manufacturer/service provider directly or through one Indian agent on his behalf; and 
+ii) Indian/foreign agent on behalf of only one principal. 
+For the purposes of this clause the term ‘control’ shall have the following meaning: 
+“Control” shall include the right to appoint majority of the directors or to control the management or 
+policy decisions exercisable by a person or persons acting individually or in concert, directly or indirectly, 
+including by virtue of their shareholding or manage ment rights or shareholders ’ agreements or voting 
+agreements or in any other manner. 
+ 
+ 
+Note: If two or more CPSEs/State PSEs participate in a tender, they will not be deemed to fall under the 
+'Conflict of Interest' provisions solely because they are under co mmon control of Government of India / 
+State Government. 
+Bidders shall certify their compliance to “Conflict of Interest ” by submitting the DECLARATION W.R.T. 
+CONFLICT OF INTERST as per format attached as Annexure H. 
+f. MODIFICATION AND WITHDRAWAL OF BIDS 
+The Bidder may modify or withdraw its bid after submission prior to the deadline prescribed for 
+bid submission 
+No bid may be withdrawn/ modified in the interval between the  bid submission deadline and 
+the expiration of the bid validity  period. Withdrawal of a bid during this interval may result in 
+the Bidder being ineligible for participation in the future tenders  issued from NTPC for a period 
+of six (06) months from the date of  withdrawal of the bid and Bidder’s forfeiture of its Earnest 
+Money Deposit 
+g. INELIGIBILITY FOR FUTURE TENDERS/ RETENDERS 
+i) If a bidder after opening of tenders withdraws its offer within the  validity period of the offer, 
+then such bidder shall be treated as ineligible for participation in the future tenders issued from 
+NTPC for a period of 6 months from the date of withdrawal of the bid. 
+ii) If a bidder after having been issued the Purchase Order of a  package, either does not accept 
+the Purchase Order or does not  submit an acceptable Performance Security  as per tender 
+provision then such bidder shall be treated ineligible for  participation in re‐tendering of this 
+particular package and  contractual action may be taken as per provisions of the Bidding  
+documents. Further, such vendor shall also be dealt as per the  provisions of the policy for  
+Withholding and Banning of Business Dealings. 
+The Withholding and Banning of Business Dealings Policy of  EMPLOYER is displayed on website 
+http://www.ntpctender.com 
+h. Risk Purchase 
+In the event of Suppliers failure to supply the material of acceptable  quality in scheduled delivery period, 
+NTPC reserves the right to  procure the materials from any other source at the Suppliers risk  and cost and 
+the difference in cost shall be borne by the Supplier.  Further, NTPC shall retain the right of forfeiture of 
+CPG and or any other action as deemed fit. 
+ 
+ 
+ 
+i. Safety 
+The Contractor, including his sub -contractors, while executing the Works, will strictly comply with the 
+statutory requirements (including amendments thereof), as applicable, in respect of safety of his 
+employees, equipment and materials. The contractor wil l also comply with the provisions of NTPC Safety 
+Rules as issued from time to time and displayed on NTPC’s tender website http://www.ntpctender.com. 
+j. Restrictions on procurement from a Bidder of a country which shares a land 
+border with India.  
+The Contractor shall not be allowed to sub - contract works to any sub -contractor/ sub -vendor from a 
+country which shares a land border with India unless such sub -contractor is registered with the competent 
+Authority. 
+The Competent Authority for the purpose of registration shall be as mentioned in the F.NO. 6/18/2019 -
+PPD, Ministry of Finance, Department of Expenditure, Public Procurement Division. 
+However, the said requirement of registration will not apply to sub-contractors from those countries (even 
+if sharing a land border with India) to which the Government of India has extended lines of credit or in 
+which the Government of India is engaged in development projects. The Contractor may apprise itself of 
+the updated lists of such countries available in the website of the Ministry of External Affairs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure -D 
+ 
+FORM OF ACCEPTANCE OF FRAUD PREVENTION POLICY 
+ 
+To, 
+ 
+GM (C&M)-CPG-1 
+NTPC Limited, Western Region II Headquarters, 
+Plot No-87, Sector-24, Atal Nagar, 
+Naya Raipur, Raipur 
+Chhatisgarh-492018 
+ 
+Dear Sir, 
+We have read the contents of the Fraud Prevention Policy of NTPC displayed on its tender website 
+https://ntpctender.ntpc.co.in and https://vendor.ntpc.co.in and und ertake that we along with our 
+associate / collaborator / sub_contractors / sub -vendors / consultants / service providers shall 
+strictly abide by the provisions of the Fraud Prevention policy of NTPC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Authorised Signatory) 
+Name & address of the bidder ………………………………………. 
+……………………………………… 
+Date: 
+ 
+ 
+ 
+ 
+ 
+Annexure -E 
+ 
+DECLARATION ON BANNING POLICY 
+To, 
+GM (C&M)-CPG-1 
+NTPC Limited, Western Region II Headquarters, 
+Plot No-87, Sector-24, Atal Nagar, 
+Naya Raipur, Raipur 
+Chhatisgarh-492018 
+ 
+Dear Sir, 
+ 
+1) We have read the contents of the Banning Policy of NTPC displayed on its tender website 
+https://ntpctender.ntpc.co.in and https://vendor.ntpc.co.in and agree to abide by this policy. 
+Further, in terms of requirement under Banning policy we hereby declare the following: 
+a) We have not been Banned/Blacklisted as on date of submission of bid by Ministry of Power or 
+Government of India. 
+b) We have not em ployed any public servant dismissed/removed or person convicted for an 
+offence involving corruption or abetment of such offences. 
+c) Our Director(s)/Owner(s)/Proprietor/Partner(s) have not been convicted by any court of law for 
+offences involving corrupt a nd fraudulent practices including moral turpitude in relation to 
+business dealings with Government of India or NTPC or NTPC’s group companies during the last 
+five years. 
+2) We further declare as under: 
+that if at any point subsequent to award of Contract, the declarations given above are found to be 
+incorrect, NTPC Limited shall have the full right to terminate the Contract and take any action as 
+per applicable laws for breach of contract including forfeiture of Bid Security/Performance Bank 
+Guarantee. 
+ 
+(Authorised Signatory) 
+Name & address of the bidder ………………………………………. 
+……………………………………… 
+Date: 
+ 
+ 
+Annexure  F 
+ 
+ 
+ 
+PACKAGE NAME: ……………………………………………….  
+BIDDING DOCUMENT NO: . …………………………………… 
+ 
+ 
+ 
+(Adherence to Employer’s Anti-Bribery and Anti-Corruption (ABAC) Policy) 
+We and our employees along with our associate / collaborator/ subcontractors /  sub vendors / consultants / 
+service providers shall strictly abide by ‘Anti -Bribery and Anti-Corruption (ABAC) Policy’ of Employer as 
+displayed on tender website at https://ntpctender.ntpc.co.in/ under section ‘policy docs’ and undertake that 
+we represent and confirm that we are aware of, understand, and will comply with all  applicable laws and 
+regulations relating to anti -corruption and anti -bribery and the  ABAC Policy of Employer. In addition, each 
+Party agrees that so long as it is  conducting business with the other Party or the other Party’s affiliates, it 
+will not, directly or indirectly, on behalf of the other Party or the other Party’s affiliates  promise, offer, solicit, 
+authorize, give or receive bribe, or other corrupt payment,  item or service of value, or any other corrupt 
+advantage, whether in cash or in kind, in relation to the participation in the tender. 
+ 
+ 
+ 
+ 
+(Authorised Signatory) 
+Name & address of the bidder ………………………………………. 
+………………………………………Date: 
+ 
+ 
+Annexure  G 
+ 
+ 
+DECLARATION W.R.T. SINGLE BID 
+ 
+To, 
+ 
+GM (C&M)-CPG-1 
+NTPC Limited, Western Region II Headquarters, 
+Plot No-87, Sector-24, Atal Nagar, 
+Naya Raipur, Raipur 
+Chhatisgarh-492018 
+ 
+Dear Sir, 
+We have read the contents of the Clause 29 of GeM GTC (One Bid per Bidder). 
+In pursuant to Clause 29 of GeM GTC (One Bid per Bidder) following is declared: 
+1. We have not made any other bid or multiple bids as understood or deemed in terms of this 
+clause.  
+2. Sister/ Associated/ Allied concern having one or more common persons as Director/ Partner/ 
+Member/ Owner have not participated in this tender. 
+ 
+It is also understood that if at any point of time the above declaration is found wrong, NTPC Limited 
+shall have the full right to reject the bid, forfeit Bid Security and take any administrative/ legal actions. 
+ 
+ 
+(Authorised Signatory) 
+Name & address of the bidder ………………………………………. 
+………………………………………Date: 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEXURE  H 
+ 
+Page 1 of 1 
+……………..……………………………………. PACKAGE FOR………………………………………………. 
+PROJECT BIDDING DOCUMENT NO. …………………………………….. 
+(Compliance to “Conflict of Interest” provisions) 
+ 
+We confirm that we have read and understood the Clause regarding “Conflict of Interest ” and our bid is in 
+compliance to this clause. 
+In case it is established that we have provided any false information in  pursuance of the aforesaid Clause, while 
+competing for this contract, then our bid shall be rejected and bid security shall be forfeited. 
+We also understand that in case we become succes sful bidder, if it is established that we have not complied with 
+terms of aforesaid Clause,  during execution of contract, this would be considered as fraudulent practice as  
+mentioned in para 5.1 (j) of “Policy for Debarment from Business Dealings” and shall be dealt accordingly. 
+ 
+(Authorised Signatory) 
+Name & address of the bidder ………………………………………. 
+………………………………………Date: 
+ 
+ 
+ 
+ 
+10. Documents to be submitted along with the bid: 
+ 
+1. EMD BG/ EMD Exemption document 
+2. DOCUMENTS IN SUPPORT OF MEETING THE QUALIFYING REQUIREMENTS along with 
+Annexure I and IA. 
+3. Undertaking from Independent Statutory Auditor/ Undertaking from Third Party Inspection 
+Agency (Annexure II/ III) 
+4. Undertaking to be given by the MSE Bidder (Annexure IV) (applicable for MSE Bidders 
+only) 
+5. CERTIFICATE FOR COMPLIANCE TO ALL PROVISIONS OF BIDDING DOCUMENTS 
+(Annexure C) 
+6. FORM OF ACCEPTANCE OF FRAUD PREVENTION POLICY DOCUMENTS (Annexure D) 
+7. DECLARATION ON BANNING POLICY DOCUMENTS (Annexure E) 
+8. DECLARATION W.R.T. Adherence to Employer’s Anti -Bribery and Anti -Corruption (ABAC) 
+Policy (Annexure F) 
+9. DECLARATION W.R.T. SINGLE BID (Annexure G) 
+10. DECLARATION W.R.T. Compliance to “Conflict of Interest” provisions (Annexure H) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORMS & FORMATS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORM - 1 
+          PROFORMA OF BANK GUARANTEE FOR EARNEST MONEY DEPOSIT/ BID SECURITY 
+(To be stamped in accordance with 
+Stamp Act) 
+ 
+ 
+Bank Guarantee No……………. Date : 
+ 
+To, 
+ 
+NTPC Limited, 
+…………………………… 
+………………………….. 
+Dear Sirs, 
+ 
+In accordance with your    NIT
+ No…………………
+……….dated M/s 
+……………………………. (**)…………………. having its 
+registered/Head Office at …………………………. 
+……….(hereinafter  called  the  ‘Bidder’) wish to participate  
+in  the said  Bid for ………………………….. 
+(name of package). 
+ 
+As an irrevocable Bank Guarantee   against Earnest Money Deposit/Bid Security for an amount of 
+…… (*) …… valid for ……@……. days from ………. (***)…………, is required to be submitted by the 
+Bidder as a condition precedent for participation in the said bid, which amount is liable to be forfeited on 
+the happening of any contingencies mentioned in the Bidding Docum ents. 
+ 
+We, the ………………….. [Name and address of the Bank]… ................ having our head office 
+at …… (#) ……… guarantee and undertake to pay immediately on demand by NTPC Ltd. (hereinafter 
+called ‘the Employer’)  the  amount ……………… (*) ........................................ (in figures and 
+words) without any reservation, protest, demand and recourse. Any such demand made by the said 
+‘Employer’ shall be conclusive and binding on us irrespective of any dispute or difference raised by the 
+Bidder. 
+ 
+This guarantee shall  be irrevocable  and shall remain valid 
+up to ………… (@) ............................................................................................................ If any 
+ 
+ 
+further extension of this guarantee is required, the same 
+shall be extended to such required 
+period (not exceeding one year) on receiving instructions from……………………….  [Bidders name]
+ ....................................................................................................................... ………….on whose 
+behalf guarantee is issued. 
+ 
+In witness whereof the Bank, through its authorized officer has set its hand and stamp on this 
+………………………… Day …………………….20…………….. at ……………………..  
+ 
+ 
+Signature......................................
+. 
+Name………………………. 
+Designation………………………
+……. 
+Bank’s Common 
+Seal....................... 
+Power of Attorney 
+No……………………………. 
+ 
+Note: 
+ 
+ 
+1.  (*)    The amount shall be as specified in the NIT/Bidding Documents.  
+  (**)   Write the name and address of the Bidder 
+  (***)   This shall be the date of opening of bids. 
+  (#)   Complete mailing address of the Head Office of the Bank to be given. 
+      (@)   This date shall be forty five days beyond the validity of bid. 
+ 
+ 
+2. The Bank Guarantee shall be from a bank as per provisions of bidding documents. 
+ 
+3. The Stamp Paper of appropriate value shall be as per stamp act purchased in the name of the Bidder/Bank issuing 
+the guarantee. 
+ 
+4. While getting the Bank Guarantee issued, Bidders are required to ensure compliance  to the points mentioned in the 
+Bank Guarantee Verification Check List in the bidding documents. Bidders    are required to  fill up this check List 
+and enclose the same alongwith the Bank Guarantee. 
+ 
+5. The details of secure SFMS (in case of BGs issued from within India) or SWIFT (in case of BGs issued fr om outside 
+India) sent by Bidder’s Bank to Employer’s Beneficiary Bank details of which are given in SPC must be furnished 
+with the BG. 
+ 
+ 
+ 
+ 
+FORM - 2 
+Page 1 of 1 
+BANK GUARANTEE VERIFICATION CHECKLIST  
+Sl. No. Details of Checks Yes/ No 
+1 Is the BG on Non -judicial stamp paper/ e -stamp paper of appropriate 
+value, as per Stamp Act ? 
+   
+2 Whether date, purpose of purchase of stamp paper and name of the 
+purchaser are indicated on the stamp paper? 
+(The date of purchase of stamp paper should be of any date on or before 
+the date of execution of BG and the stamp paper should be purchased 
+either in the name of the executing Bank or the Bidder on whose behalf 
+the BG has been  issued. The stamp paper (other than e -stamp paper) 
+should be duly signed by the stamp vendor). 
+   
+3 In case of BGs from Banks abroad, has the BG been executed on Letter 
+Head of the Bank? 
+   
+4 Has the executing officer of BG indicated his name, designation and 
+Power of Attorney No./ Signing Power No. etc. on the BG? 
+   
+5 Is each page of BG duly signed/ initialed by executant and whether 
+stamp of Bank is affixed thereon? Whether the last page is signed with 
+full particulars under seal of Bank as required in the  prescribed 
+proforma? 
+   
+6 Does the Bank Guarantee compare verbatim with the Proforma 
+prescribed in the Bid Documents? 
+   
+7 Are the factual details such as Bidding Documents No./ Specification No., 
+Amount of BG, validity of BG correctly mentioned in the BG? 
+   
+8 Whether overwriting/ cutting, if any on the BG have been p roperly 
+authenticated under signature & seal of executant? 
+   
+9 Whether BG has been issued by a Bank in line with the provisions of 
+Bidding Documents? 
+   
+10 In case BG has been issued by a Bank other than those specified in 
+Bidding Document, is the BG confirmed by a Bank in India acceptable as 
+per Bidding Document? 
+   
+ 
+Date :    Name of Authorised Person    
+Place :    Designation    
+ 
+ 
+FORM - 3 
+ 
+BANKS FROM WHICH BANK GUARANTEES FOR ADVANCE / SECURITY DEPOSIT 
+TO BE FURNISHED BY BIDDER /CONTRACTOR CAN BE ACCEPTED 
+ 
+UPDATED SCHEDULED COMMERCIAL BANK LIST 
+ 
+A. STATE BANK OF INDIA 
+ 
+B. NATIONALISED BANKS 
+ 
+1. Bank of Baroda 
+2. Bank of India 
+3. Bank of Maharashtra 
+4. Canara Bank 
+5. Central Bank of India 
+6. Indian Overseas Bank 
+7. Indian Bank 
+8. Punjab National Bank 
+9. Union Bank of India 
+10. Punjab & Sind Bank 
+11. UCO Bank 
+ 
+C. SCHEDULED PRIVATE BANKS (INDIAN BANKS) 
+ 
+1. Axis Bank Ltd 
+2. Bandhan Bank Limited 
+3. CSB Bank 
+4. City Union Bank 
+5. DCB Bank Ltd 
+6. Dhanlaxmi Bank Ltd 
+7. Federal Bank Ltd 
+8. HDFC Bank Ltd 
+9. ICICI Bank Ltd 
+10. IndusInd Bank Ltd 
+11. IDFC FIRST Bank Limited 
+12. Jammu & Kashmir Bank Ltd 
+13. Karnataka Bank Ltd 
+14. Karur Vysya Bank Ltd 
+15. Kotak Mahindra Bank 
+16. Lakshmi Vilas Bank Ltd 
+17. Nainital Bank Ltd 
+18. RBL Bank Limited 
+19. South Indian Bank Ltd 
+20. Tamilnad Mercantile Bank Ltd 
+21. Yes Bank Ltd 
+22. IDBI Bank Ltd. 
+ 
+ 
+D. SCHEDULED PRIVATE BANKS (FOREIGN BANKS) 
+ 
+1 AB Bank Ltd 
+2 Abu Dhabi Commercial Bank PJSC 
+3 American Express Banking Corporation 
+4 Australia & Newzealand Banking Group Limited 
+5 Barclays Bank Plc 
+6 Bank of America 
+7 Bank of Bahrain & Kuwait B.S.C. 
+8 Bank of Ceylon 
+9 Bank of China Limited 
+10 Bank of Nova Scotia 
+11 BNP Paribas 
+12 Citi Bank NA 
+13 Cooperatieve Rabobank UA 
+14 Crédit Agricole Corporate and Investment Bank 
+15 Credit Suisse AG 
+16 CTBC Bank Co Ltd 
+17 DBS Bank India Ltd 
+18 Deutsche Bank A.G. 
+19 Doha Bank Q.P.S.C 
+20 Emirates NBD Bank (PJSC) 
+21 First Abu Dhabi Bank PJSC 
+22 FirstRand Bank Ltd 
+23 HSBC Ltd 
+24 Industrial & Commercial Bank of China Ltd 
+25 Industrial Bank of Korea 
+26 JP Morgan Chase Bank, National Association 
+27 JSC VTB Bank 
+28 KEB Hana Bank 
+29 Kookmin Bank 
+30 Krung Thai Bank Public Company Ltd 
+31 Mashreq Bank PSC 
+32 Mizuho Bank Ltd 
+33 MUFG Bank, Ltd 
+34 NatWest Markets Plc 
+35 PT Bank Maybank Indonesia TBK 
+36 Qatar National Bank (Q.P.S.C.) 
+37 Sberbank 
+38 SBM Bank (India) Ltd 
+39 Shinhan Bank 
+40 Societe Generale  
+41 Sonali Bank Ltd 
+42 Standard Chartered Bank 
+43 Sumitomo Mitsui Banking Corporation 
+44 United Overseas Bank Ltd 
+45 Westpac Banking Corporation 
+46 Woori Bank 
+ 
+ 
+ 
+*Note - Any Addition/ Delet ion/ Modification in Bank list shall be as per changes in Second 
+Schedule List by RBI from time to time. 
+*In case, Bank Guarantee is getting issued from State Bank of India, Bidder to take note of 
+NTPC letter ref. NTPC/FC/CS/BG/01 dated 03.09.2014 and SBI letter ref. CAG -I/AMT-1/2014-
+15/370 dated 04.09.2014 attached herewith.*In case, Bank Guarantee is getting issued from State 
+Bank of India, Bidder to take note of NTPC letter ref. NTPC/FC/CS/BG/01 dated 03.09.2014 and SBI 
+letter ref. CAG-I/AMT-1/2014-15/370 dated 04.09.2014 attached herewith. 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+FORM - 4 
+ 
+ 
+Performance Bank Guarantee (PBG) Format  
+ 
+ 
+(This format shall be required after placement of PO) 
+                                                                   PERFORMANCE SECURITY FORM 
+(To be stamped in accordance with Stamp Act) 
+ 
+Bank Guarantee No......................                                          date………………………… 
+                                                                                                     
+To,  
+ 
+[Owner’s Name & Address] 
+Dear Sir, 
+In consideration of the NTPC Ltd., (hereinafter referred to as the ‘Purchaser’ which expression 
+shall unless repugnant to the context or meaning thereof include its successors, 
+administrators and assigns) having awarded to M/s …………………………………. with its 
+Registered/Head Office at (hereinafter referred to as the ‘Seller’  which expression 
+shall unless repugnant to the context or meaning thereof, includes its successors, 
+administrators,  executors  &  assigns)  a  Contract  by  issue  of  Purchaser’s  Order  
+No.………………………….. dated ................................ and the same having  been 
+unequivocally accepted by   the  seller  resulting  in  a  ‘Contract’  valued  at  
+……………………………….for………………………………. (scope of work/contract) and the 
+seller having agreed to provide a  contract performance guarantee/Security Deposit  of the 
+faithful performance of the entire contract equivalent to Rs. (amount in words)** to 
+the purchaser. 
+ 
+We, ………………………(Name & Address of Bank ) .....................................................................  
+having our Head Office .................................................................................................................... at 
+ 
+ 
+ 
+………………………………………. (hereinafter referred to as the ‘Bank’ which expression 
+shall unless repugnant to the context or meaning thereof, include its successors, 
+administrators, executors & assigns), do hereby guarantee and undertake to pay the 
+Purchaser, on demand any and all monies payable by the Seller to the extent  
+of…………………………… as aforesaid at any time up to………………………. (*) without 
+any demur, reservation contest, recourse, or protest and/or without any reference to the 
+Seller. Any such  demand made by the Purchaser on the Bank shall be conclusive and 
+binding notwithstanding any difference between the Purchaser and  Seller or any dispute 
+pending before any court Tribunal, Arbitrator or any other Authority. The bank undertakes not 
+to revoke this guarantee during its currency without previous consent of the purchaser and 
+further agrees that this guarantee herein contained shall continue to be enforceable till the 
+purchaser discharges this guarantee. 
+ 
+The Purchaser shall have the fullest liber ty without affecting in any way the liability of the 
+Bank under this guarantee, from time to time to extend the time for performance of Contract 
+by the Seller. The Purchaser shall have the fullest liberty, without affecting this guarantee to 
+postpone from time to time the exercise of any powers vested in them or of any right which 
+they might have against the Seller, and to exercise the same at any time in any manner, and 
+either to enforce or to forbear to enforce any covenants, contained or implied in the c ontract 
+between the Purchaser and the Seller or any other course of remedy or security available to 
+the Purchaser. The Bank shall not be released of its obligations under these presents by 
+any exercise by the Purchaser of its liberty with reference to the matters aforesaid or any of 
+them or by reason of any other act or forbearance or other acts of omission or commission 
+on the part of the purchaser or any other indulgence shown by the Purchaser or by any 
+other matter or thing whatsoever which under law wou ld, but for this provision, have the 
+effect of relieving the Bank. 
+The Bank also agrees that the purchaser at its option shall be entitled to enforce this 
+guarantee against the bank as a principal debtor, in the first instance without proceeding 
+against th e seller and notwithstanding any security or other guarantee that the purchaser 
+may have in relation to the seller’s liabilities. 
+Notwithstanding anything contained hereinabove our liability under this guarantee is 
+restricted 
+ to………... and it shall remain in force up to and including ……… (*)……… and shall be 
+ 
+ 
+ 
+extended from time to time for such period (not exceeding one year), as may be desired by 
+M/s………………………….. on whose behalf this guarantee has been given. 
+ 
+ 
+Dated this ……………………….. day of ……………………… 
+20…. at ……………………….. 
+ 
+WITNESS 
+1) SIGNATURE ……………………… SIGNATURE 
+…………………………………….. 
+NAME ………………. NAME …………………………... 
+OFFICIAL ADDRESS ………… DESIGNATION 
+………………………………….. 
+BANK’S COMMON SEAL 
+2) SIGNATURE ………………………… ATTORNEY AS PER POWER OF 
+ATTORNEY NAME ……………... NO………… 
+OFFICIAL ADDRESS ……………… DATE ……………. 
+ 
+NOTE : 
+ 
+ 
+1. (*) The Date will be Three Months beyond the expiry of the Contract as 
+specified in the order. 
+ 
+(**) Security deposit @ 5 % of GeM order value  
+The Bank Guarantee shall be from a bank as per provisions of bidding documents. 
+ 
+2. While getting the Bank Guarantee issued, Bidders are required to ensure 
+compliance to the points mentioned in the Bank Guarantee Verification Check List 
+in the bidding documents. Bidders are required to fill up this check List and 
+enclose the same along with the Bank Guarantee. 
+ 
+3. The Stamp paper of appropriate value shall be purchased in the name of 
+ 
+ 
+ 
+guarantee issuing bank or the party on whose behalf the BG is being issued. The 
+Bank Guarantee shall be issued on non -judicial Stamp paper of approp riate value 
+as per Stamp act prevailing in the States where the BG is to be submitted or is to 
+be acted upon or the rate prevailing in the state where the BG is executed, 
+whichever ishigher. 
+ 
+4. The details of secure SFMS (in case of BGs issued from within In dia) or SWIFT 
+(in case of BGs  issued from outside India) sent by Supplier’s Bank to Employer’s 
+Beneficiary Bank details of which are given in GPC must be furnished with the 
+BG. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORM - 5 
+Page 1 of 1 
+   5. PROFORMA FOR EXTENSION OF BANK GUARANTEE 
+Ref. No. :                       Dated : ......................... 
+To 
+NTPC Ltd.,  
+……………………….. 
+……………………….. 
+Dear Sirs, 
+Sub. :  Extension of Bank Guarantee No. .................. Dated ................... for 
+………[indicate value of Bank Guarantee].............. favouring yourselves, 
+expiring on.................. on account of M/s ..........(Name of Bidder)........... in 
+respect of Contract for (Insert Package Name)........................... for (Insert 
+Project Name )............................... Project, Contract No. ................................ 
+dated .......................... (hereinafter called original Bank Guarantee) 
+At the request of M/s ..................................., we ............................ .... Bank branch office at 
+..................................... and having its head office at .............................. do hereby extend 
+our liability under the above mentioned Guarantee No. ................. dated.............. for a 
+further period of ..................... years/months from ................................. to expire on 
+........................ 
+Except as provided above, all other terms and conditions of the original Bank Guarantee No. 
+........................ dated .................................... shall remain unaltered and binding.  
+Please treat this as an integral part of the original guarantee to which it would be deemed to 
+have been attached. 
+ (Signature)........................................ 
+ (Name).............................................. 
+ (Designation with ............................ 
+ Bank Stampl) 
+      
+     Authorised vide 
+ Power of Attorney No....................... 
+Dated …………… Date.................................................. 
+Seal of Bank 
+ 
+ 
+ 
+ 
+Note:    
+1. The extension of the Bank Guarantee should be forwarded to the Unit/       
+Project/ Corporate Centre, from where the extension has been sought. 
+2. The extension of BG should be on Non -Judicial Stamp paper/ e -stamp paper of 
+appropriate value as per Stamp Act pr evailing in the State(s) where the BG is 
+submitted or is to be acted upon or the rate prevailing in the State where the BG 
+is executed, whichever is higher. The Stamp Paper/ e -Stamp Paper shall be 
+purchased in the name of Bidder/ Bank issuing the guarantee. 
+ 
+ 
+ 
+ 

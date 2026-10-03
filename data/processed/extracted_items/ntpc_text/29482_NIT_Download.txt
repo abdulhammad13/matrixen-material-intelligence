@@ -1,0 +1,188 @@
+NTPC Limited eProcurement Portal
+Tender Details
+Date : 17-Feb-2026 02:54 PM
+ Print
+Basic Details
+Organisation Chain NTPC Vidyut Vyapar Nigam Limited
+Tender Reference
+Number NVVN/CandM/2025-26/RE-485
+Tender ID 2026_NVVN_105248_1 Withdrawal Allowed Yes
+Tender Type Open Tender Form of contract Tender cum Auction
+Tender Category Works No. of Covers 3
+General Technical
+Evaluation Allowed Yes [Compliance Required] ItemWise Technical Evaluation
+Allowed No
+Payment Mode Offline Is Multi Currency Allowed For
+BOQ No
+Is Multi Currency
+Allowed For Fee No Allow Two Stage Bidding No
+ 
+Payment Instruments
+Offline S.No Instrument Type
+1 DD
+Cover Details, No. Of Covers - 3
+Cover
+No Cover Document Type Description
+1 Fee .pdf Bid Security
+.pdf Power of
+Attorney
+.rar Other
+Documents
+2 PreQual/Technical .pdf
+Techno
+Commercial Bid
+Form
+.pdf
+UNDERTAKING
+FOR SITE
+SURVEY,
+ATTACHMENT
+3N
+.pdf
+Declaration of
+Local Content for
+granting of
+purchase
+preference,
+ATTACHMENT 13
+.pdf
+UNDERTAKING
+FOR
+COMPLIANCE
+TOTECHNICAL
+SPECIFICATIONS
+,ATTACHMENT
+3O
+.pdf
+Declaration
+regarding
+insolvency,
+bankruptcy and
+Liquidation,
+Attachment 3M
+.pdf
+Details
+Pertaining to
+Technical
+Qualification
+(Attachment 3A
+1) and
+supporting
+documents
+.pdf Details
+Pertaining to
+Financial
+Qualification
+(Attachment 3A
+2) and
+
+supporting
+documents
+.rar OTHER
+DOCUMENTS
+3 Finance .xls BOQ
+.rar Price Schedule
+.pdf
+ATTACHMENTS
+FOR ENVELOPE-
+2 (PRICE BID)
+.rar Other
+Documents
+ 
+Tender Fee Details, [Total Fee in ₹ * - 0.00]
+Tender Fee in ₹ 0.00
+Fee Payable To Nil Fee Payable At Nil
+Tender Fee
+Exemption Allowed
+No
+EMD Fee Details
+EMD Amount in ₹ 20,00,000 EMD Exemption
+Allowed
+No
+EMD Fee Type fixed EMD Percentage NA
+EMD Payable To NTPC
+Vidyut
+Vyapar
+Nigam
+Limited
+EMD Payable At NTPC
+Vidyut
+Vyapar
+Nigam
+Limited
+BG Required Yes
+Minimum Direct
+EMD Payment in ₹
+0.00
+ 
+ 
+Work /Item(s)
+Title DEVELOPMENT OF 3 MW GRID CONNECTED ROOF TOP SOLAR POWER PROJECT IN BEHIND THE METER
+MODE AT BNP DEWAS
+Work Description DEVELOPMENT OF 3 MW GRID CONNECTED ROOF TOP SOLAR POWER PROJECT IN BEHIND THE METER
+MODE AT BNP DEWAS
+Pre Qualification
+Details
+As per tender documents 
+Independent External
+Monitor/Remarks
+NA 
+Tender Value in ₹ NA Product Category Miscellaneous Works Sub category NA 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work(Days) NA 
+Location BNP DEWAS Pincode 455001 Pre Bid Meeting Place NA 
+Pre Bid Meeting
+Address
+NA Pre Bid Meeting Date NA Bid Opening Place NVVN Office Noida
+Should Allow NDA
+Tender
+No Allow Preferential
+Bidder
+No
+ 
+Critical Dates
+Publish Date 17-Feb-2026 01:00 PM Bid Opening Date 10-Mar-2026 03:00 PM
+Document Download / Sale Start
+Date
+17-Feb-2026 01:00 PM Document Download / Sale End
+Date
+09-Mar-2026 05:00 PM
+Clarification Start Date 17-Feb-2026 01:00 PM Clarification End Date 03-Mar-2026 06:00 PM 
+Bid Submission Start Date 17-Feb-2026 01:00 PM Bid Submission End Date 09-Mar-2026 05:00 PM
+ 
+ 
+Tender Documents
+NIT
+Document S.No Document Name Description Document Size
+(in KB)
+1 Tendernotice_1.pdf NIT 211.72
+ 
+Work Item
+Documents S.No Document Type Document Name Description Document Size
+(in KB)
+1 BOQ BOQ_108481.xls BOQ 348.50
+2 Additional Documents PriceSchedule.xls Price Schedule 128.50
+3 Tender Documents TENDER_DOCUMENT.pdf Tender Documents 8829.93
+ 
+ 
+View GTE Details - PURCHASE GTE(OT-COMMON-LAND BORDER CLAUSE-INTEGRITY PACT)
+S.No Particulars Expected Value Mandatory
+1.0 Do you accept the Fraud Prevention Policy as per bid douments - [ FRAUD
+PREVENTION] Yes Yes
+2.0 Do you accept Withholding and Banning of Business Dealing Policy as per bid
+documents - [ BANNING POLICY DECLARATION] Yes Yes
+3.0 Do You certify full compliance of Integrity Pact - [ INTEGRITY PACT COMPLIANCE] Yes Yes
+4.0
+Do you certify full compliance on clause as per tender documents on Restrictions
+on procurement from a Bidder of a country which shares a land border with India -
+[ LAND BORDER CLAUSE COMPLIANCE]
+Yes Yes
+5.0 Do you certify full compliance on Qualifying Requirements - [ QR COMPLIANCE] Yes Yes
+6.0 Do you certify full compliance to all provisions of Bid documents - [ NO DEVIATION
+CERTIFICATION] Yes Yes
+ 
+ 
+Tender Inviting Authority
+Name Sr. Manager
+Address NTPC VIDYUT VYAPAR NIGAM LIMITED Engineering Office Complex, Plot No. A-8A Sector 24, Block A, Noida,
+Uttar Pradesh 201301
+ 

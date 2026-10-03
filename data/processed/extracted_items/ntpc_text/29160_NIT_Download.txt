@@ -1,0 +1,462 @@
+Page 1 of 4 
+ 
+NTPC Ltd 
+Vendor Enlistment Cell 
+USSC, CPG-1, Nava Raipur 
+ 
+Qualifying Requirement s for Vendor Enlistment for Supply of 400 KV Current 
+Transformer (CT), (Category-1) 
+ 
+A MEG Details: 
+1 MEG No. 87MEG-10 
+2 MEG DESCRIPTION 400 kV Current Transformer (CT) 
+(Enlistment Category-1) 
+3 RESPONSIBILITY 
+CENTRE 
+CPG-1/ VEC 
+4 CRITICAL/ NOT 
+CRITICAL  
+(for Requirement of 
+Physical Assessment) 
+Critical 
+B TECHNICAL CRITERIA OF QR: 
+ 
+a) The applicant should be a manufacturer of Current Transformer of 400 kV 
+Voltage class or above. 
+ 
+b) The applicant should have supplied, at least one (1) number of Current 
+Transformer of 400 kV Voltage class or above which should have been in 
+successful operation for at least one (1) year prior to the last date of 
+submission of application. 
+ 
+C Documents required in support of meeting QR: 
+ 
+(1) Supporting Documents for QR - B. 
+ 
+(a) Latest Annual report or Udyam Registration / NSIC / SSI / MSME 
+registration certificate / Valid BIS license / ISO certificate / Certificate of 
+registration/Type Test Report / any other statutory document as a proof of 
+Page 2 of 4 
+ 
+being manufacturer of the Current Transformer. Brief details of 
+Manufacturing facilities or the Standard published catalogue for Current 
+Transformer to be given. 
+ 
+(b) Copy of Purchase order(s) in support of award/copy of invoice to establish 
+successful execution of the supply of Current Transformer as per the QR. 
+Certificate issued by the end user for successful operation of supplied 
+current transformer from the date of commissioning. 
+D Documents to be submitted to establish the Execution Capability (EC): 
+ 
+In addition to the documents required in support of meeting technical requirements 
+as stated above, following documents are required to be submitted by the 
+Applicants applying for enlistment: - 
+ 
+1. Three (3) POs of the highest executed values of similar works (see 
+definition at point E: Note- 1 below) executed during previous five (5) years 
+from the last date of submission of application. Copy of Invoice / 
+Completion certificate from the concerned buyer/s in support of successful 
+execution of    supply against the POs to be submitted. These will be 
+required for calculation of execution capability. 
+ 
+2. Financials: 
+ 
+2.1 Audited balance sheet including Profit & Loss statement for the previous 
+three completed financial years reckoned from the date of application. 
+In case the audited result for the preceding financial year is not 
+available, certification of financial statements from a practicing-
+chartered accountant is to be uploaded. In case, applicant is not able to 
+submit the certificate from practicing chartered accountant certifying its 
+financial parameters, the audited results of the three consecutive 
+financial years preceding the last financial years shall be considered for 
+evaluating the financial parameters. Further, a certificate would be 
+Page 3 of 4 
+ 
+required from the CEO/CFO stating that the financial results are under 
+audit as on date of application and certificate from the practicing 
+Chartered Accountant certifying the financial parameters are not 
+available. 
+ 
+2.2 In case the applicant is not able to furnish its audited financial 
+statements on stand-alone entity basis, the unaudited unconsolidated 
+financial statements of the  applicant can be considered acceptable 
+provided the applicant further furnishes  the following documents for 
+substantiation of its qualification. 
+ 
+(a) Copies of the unaudited unconsolidated financial statements of the 
+applicant along with copies of the Audited consolidated financial 
+statements of its Holding Company. 
+(b) A Certificate from the CEO/CFO of the Holding Company, as per the 
+format enclosed in the bidding documents, stating that the unaudited 
+unconsolidated financial statements form part of the Consolidated 
+Annual Report of the company. 
+ 
+2.3 GSTIN certificate, PAN, Power of attorney, Letter of undertaking, 
+works information etc. as mentioned in enlistment application pages 
+of website https://vdc.ntpc.co.in. 
+ 
+Note: 
+(i) Maximum Three Credential Order(s) / Similar Work(s) shall be considered for 
+calculation of the EC. 
+(ii) “All other terms & conditions of enlistment are as per the STC available at VDC 
+portal https://vdc.ntpc.co.in’.  
+E Note-1 Similar works means:  "Supply of Current Transformer 
+of 400 kV Voltage class or above” 
+Note-2 The executed value means Basic value of quantity of 
+similar works executed/supplied against the reference 
+Page 4 of 4 
+ 
+PO (also applicable to partly executed POs as on date 
+of application). Where PO value is composite (i.e.  
+including Taxes etc.), the applicant to give item -wise 
+break-up of Composite PO value mentioning Basic 
+Value, Taxes etc. 
+F TECHNICAL 
+SPECIFICATION  
+Attached as Annexure-I 
+G QUALITY PLAN  Attached as Annexure-II 
+ 
+ 
+ 
+ 
+ 
+ [Rev-00, Dated 01.05.2024] 
+TECHNICAL SPECIFICATION  
+400 KV CURRENT TRANSFORMER 
+Page  1 | 4 
+1.00.00 CURRENT TRANSFORMER: CODES AND STANDARDS 
+Current transformers: IEC 61869-1&2, IS: 2705, IS:16227 
+Insulating oil: IS:335, IEC:60296 
+2.00.00 GENERAL REQUIREMENTS: 
+a. The Current transformers shall be single phase transformer units and
+shall be supplied with a common marshalling box for a set of three single
+phase units. All exposed mild steel shall be hot dip galvanised or painted
+with grey colour of shade RAL 9002.The current transformers shall be
+hermetically sealed  units. The current transformers shall be provided
+with filling and drain plugs. Polarity marks shall indelibly be marked on
+each current transformer and at the lead terminals at the associated
+terminal block. For Current transformers,  no oil shall come in contact
+with zinc galvanized surface.
+a) T
+he current transformer shall be with Polymer Insulator . For Current
+transformer shall have cantilever strength of not less than 500kg for
+400kV.
+b) P
+olarity marks shall indelibly be marked on each instrument transformer
+and at the lead terminals at the associated terminal block.
+3.
+00.00 CURRENT TRANSFORMERS (CTs) 
+a) T
+he CTs shall have single primary of either ring type or hair pin type or
+bar type. Wound primary is not acceptable.
+b) I
+n case of "Bar Primary" inverted type CTs, the following requirements
+shall be met:
+i) The secondaries shall be totally encased in metallic shielding
+providing a uniform equipotential surface for even electric field
+distribution.
+ii) The lowest part of insulation assembly shall be properly secured
+to avoid any risk of damage due to transportation stresses.
+iii) The upper part of insulation assembly sealing on primary bar shall
+be properly secured to avoid any damage during transportation
+due to relative movement between insulation assembly and top
+dome.
+c) T
+he insulator shall be one piece without any joint. The CT shall be
+provided with oil sight glass.
+Annexure-I
+ [Rev-00, Dated 01.05.2024] 
+TECHNICAL SPECIFICATION  
+400 KV CURRENT TRANSFORMER 
+Page  2 | 4 
+d) The core lamination shall be of cold rolled grain-oriented silicon steel or
+other equivalent alloys. The cores shall produce undistorted secondary
+current under transient conditions at all ratios with specified parameters.
+e) D
+ifferent ratios shall be achieved by secondary taps only, and primary
+reconnections shall not be accepted.
+f) T
+he guaranteed burdens and accuracy class are to be intended as
+simultaneous for all cores.
+g) T
+he instrument security factor at all ratios shall be less than five (5) for
+metering core. If any auxiliary CT/reactor is used, then all parameters
+specified shall be met treating auxiliary CTs/reactors as integral part of
+CT. The auxiliary CT/reactor shall preferably be in- built construction of
+the CT. In case it is separate, it shall be mounted in secondary terminal
+box.
+h) T
+he physical disposition of protection secondary cores shall be in the
+same order as given under CT requirement table-1 given below.
+i) T
+he CTs shall be suitable for high-speed auto-reclosing.
+j) T
+he secondary terminals shall be terminated on stud type suitable
+numbers of non-disconnecting and disconnecting terminal blocks inside
+the terminal box of degree of protection IP:55 at the bottom of CT.
+k) T
+he CTs shall be suitable for horizontal transportation.
+l) T
+he CTs shall have provision for taking oil samples from bottom of CT
+without exposure to  atmosphere to carry out dissolved gas analysis
+periodically. Contractor shall give his  recommendations for such
+analysis, i.e. frequency of test, norms of acceptance, quantity of oil to be
+withdrawn, and treatment of CT. Vendor shall supply 2nos. oil sampling
+device for every 20nos. Minimum 2nos. oil sampling device for each
+substation.
+m) T
+he CT shall have provision for measurement of capacitance and tan
+delta as erected at site.
+ [Rev-00, Dated 01.05.2024] 
+TECHNICAL SPECIFICATION  
+400 KV CURRENT TRANSFORMER 
+Page  3 | 4 
+4.00.00 GENERAL PARAMETERS FOR CURRENT TRANSFORMERS: 
+SN Description Parameter 
+a) One minute power frequency withstand 
+voltage between secondary terminal 
+and earth 
+5kV 
+b) Partial discharge level 10 pico Coulombs max. 
+c) Temperature rise As per IEC 
+d) Type of insulation Class A 
+e) Number of cores Five (5): Details are given 
+in table-1 below 
+f) Rated frequency 50 Hz 
+g) System neutral earthing Effectively earthed 
+h) Installation Outdoor (up right) 
+i) Seismic acceleration 0.3 g horizontal 
+j) Number of terminals in marshalling 
+box. 
+All terminals of control 
+circuits wired up to box 
+marshalling box plus 20 
+terminals spare. 
+400 k
+V Current Transformers (oil filled type): 
+SN Description Parameter 
+a) Rated Short time thermal current 63kA for 1sec 
+b) Rated Dynamic current 125kA(peak) 
+c) Rated Extended Primary current 120% of rated primary 
+current as per SLD 
+5.
+00.00 TESTS: 
+a) T
+he current transformers shall confirm to type tests and subjected to
+routine tests in accordance with the relevant IEC/IS and shall also
+conform to the following additional type tests as applicable:
+i) Radio Interference and Corona test
+ii) Thermal withstand test i.e. application of rated voltage and rated
+current simultaneously by synthetic circuit.
+iii) Seismic withstand test along with structure (for 400kV only)
+iv) Thermal co- efficient test i.e. measurement of Tan- Delta as
+function of temperature (at ambient and between 80 deg. C and
+90 deg. C) and voltage (at 0.3, 0.7, 1.0 and 1.1 Um).
+v) Multiple chopped impulse test on Primary winding.
+vi) In addition to routine tests as per IEC/IS, measurement of partial
+discharge in continuation with power frequency withstand test
+required for 400 kV current transformer.
+ [Rev-00, Dated 01.05.2024] 
+TECHNICAL SPECIFICATION  
+400 KV CURRENT TRANSFORMER 
+ 
+Page  4 | 4 
+ 
+b) ISF (Instrument Security Factor) test will be done as part of Routine 
+acceptance test. 
+ 
+Table-1 
+CORE DETAILS OF 400kV CTs:  
+i) Following details shall be applicable for all protection class CT 
+cores. 
+ii) The rated extended primary current of the CTs shall be 120% 
+continuous of 3000A/2000A. 
+ 
+ 
+ 
+Physical arrangement of CTs shall be as per Protection SLD. 
+ 
+ 
+Note: The supporting calculation to be furnished during detail engineering f or 
+CT Parameters. 
+ 
+--------------------------xxxxxx------------------------- 
+Cor
+e 
+No 
+Current Ratio 
+(Amp) 
+Outpu
+t 
+Burde
+n 
+(VA) 
+Accura
+cy 
+Class 
+as per  
+IEC 
+Min Knee 
+Point Voltage 
+(Vk) 
+Max 
+CT 
+Sec 
+Windin
+g 
+Res. 
+(Ohm) 
+Max 
+Excitin
+g 
+Curre
+nt in  
+mA at 
+Vk 
+Applicatio
+n 
+1 3000/2000/1000/1 ----- PS 3000/2000 
+/1000 
+15/10/
+5 
+Ohm 
+20/30/ 
+60 
+Bus 
+Differentia
+l 
+check 
+2 3000/2000/1000/1 ----- PS 3000/2000/1000 15/10/
+5 
+Ohm 
+20/30/ 
+60 
+Bus 
+Differentia
+l 
+main 
+3 3000/2000/1000/50
+0/1 
+20/20
+/ 
+20/20 
+0.2S    Metering 
+and 
+synch. 
+4 do do 0.2S    For ABT 
+Metering 
+5 3000/2000/1000/50
+0/1 
+---- PS 3000/2000/1000/50
+0/1 
+15/10/
+5 
+/2.5Oh
+m 
+20/30/ 
+60/12
+0 
+Transform
+er 
+Back up / 
+line 
+protection 
+6 3000/2000/1000/50
+0/1 
+---- PS 3000/2000/1000/50
+0/1 
+15/10/
+5 
+/2.5Oh
+m 
+20/30/ 
+60/12
+0 
+Trans 
+Diff./ 
+Line 
+protection 
+USSC-CPG1               PPG-QA 
+Standardised Quality Plan 
+Item 
+SQP No. CPG-QA-SQP- 
+Rev  
+ Oil Filled Current Transformer upto 00KV
+E-069
+00
+JAI PRAKASH 
+MAURYA
+Digitally signed 
+by JAI PRAKASH 
+MAURYA
+Annexure-II
+/0/1/2/3/4/5/6/3/7/3/4/8/2/9/10/0/11/12/13/14/10/0/1/2/10/15/15/10/16/17/16/18/3
+/13/19/20/21/3/7/3/22/23/10/17/18/10/22/17/16/23
+/24/25/26/27/28/25/29/30/27/0/32/26/33/34 /27/25/35/32/36/37/35/25/26
+/52/53/54/55/56/54/57/58/59/57/60/55/61/54 /62/63/64/65/66/64/67/68/69/67/70/65/71/64 /72/73/74/75/76/74/77/78/79/77/80/75/81/74Tender / PO Tech. 
+Specifications/ NTPC 
+Approved Drg./DS
+."/6'"$563*/(26"-*5:1-"/
+/28/29/30/31/32/30/33/34/35/33/36/31/37/30 /38/39/40/41/42/40/43/44/45/43/46/41/47/40 /48/49/50/51/52/50/53/54/55/53/56/51/57/50Tender / PO Tech. 
+Specifications/ NTPC 
+Approved Drg./DS
+/0/1/2/3/4/2/5/6/7/5/8/3/9/2/10/11/12/13/14/12/15/16/17/15/18/13/19/12/20/21/22/23/24/22/25/26/27/25/28/23/29/22
+."/6'"$563*/(26"-*5:1-"/
+Tender / PO Tech. 
+Specifications/ NTPC Approved 
+Drg./DS
+."/6'"$563*/(26"-*5:1-"/
+/28/29/30/31/32/30
+/33/34/35/33/36/31/37/30
+/38/39/40/41/42/40
+/43/44/45/43/46/41/47/40
+/48/49/50/51/52/50
+/53/54/55/53/56/51/57/50
+Tender / PO Tech. 
+Specifications/ NTPC 
+Approved Drg./DS
+."/6'"$563*/(26"-*5:1-"/
+/28/29/30/31/32/30/33/34/35/33/36/31/37/30 /38/39/40/41/42/40/43/44/45/43/46/41/47/40 /48/49/50/51/52/50
+/53/54/55/53/56/51/57/50
+/58/59/60/61/62/61/63/64/65/61/66/67/66/62/68/59/64/69/61/67/70
+/64/60/60/64/67/70/59/71/59/67/65/72/61/65/73/60/59/68/74/59/63/65/65/66
+/75/60/64/72/61/67/70/64/65/65/64/63/73/59/75/65/66/65/76/74/59/65/59/68/65
+/60/59/74/66/60/65
+Tender / PO Tech. 
+Specifications/ NTPC 
+Approved Drg./DS
+Tender / PO Tech. 
+Specifications/ NTPC 
+Approved Drg./DS/ASTM D 
+3359/IS-13947 P1
+Report
+."/6'"$563*/(26"-*5:1-"/
+/28/29/30/31/32/30
+/33/34/35/33/36/31/37/30
+/38/39/40/41/42/40
+/43/44/45/43/46/41/47/40
+/48/49/50/51/52/50
+/53/54/55/53/56/51/57
+/50
+Tender / PO Tech. 
+Specifications/ NTPC 
+Approved Drg./DS
+/0 /1/2/3/4 /5 /6/7/2/3 /4 /8 /9 /10 /9 /8 /1 /11 /9 /12/13/5/4 /14 /15 /9 /5 /4/16/4/13 /11 /2
+/17 /18 /19 /19 /20 /21 /22/23/24/25 /21 /26 /18 /27/28/29/18 /27 /22 /23 /24/30/31/32 /23 /21 /21 /31/33/30 /31/22 /20 /21 /18 /31 /29 /31 /26/19/34/23 /25 /35 /28 /22 /18 /22 /20/30/27/27/25 /36 /36 /29 /18 /20 /21/27/33/28 /18 /37/28/33/18 /29 /29 /34/20/27/25 /34 /32 /20 /37 /22 /22/23/38/39 /40 /41 /42/27/31/37 /37 /20 /36 /22 /31 /26 /37/20/43/18 /44 /45 /46 /26 /27 /25 /29 /31 /22 /18 /26/35/23/18 /29 /47 /37 /23 /21 /20
+/30/31/22 /20 /21 /18 /31 /29 /47 /37 /23 /21 /20 /27 /47 /37 /23 /36 /36 /20 /21 /47 /37 /23 /36 /36 /20 /21 /33 /18 /21 /20 /47 /18 /26 /27 /25 /29 /31 /22 /18 /23/26/48/23 /22 /28 /20/21/22/31 /36 /20 /27 /47 /35 /31 /27 /49 /20 /22 /27 /47 /36 /23 /21 /37 /20 /29 /31 /18/26/18/26 /27 /25 /29 /31 /22 /23 /21 /47 /22 /20 /21/30/18/26 /31 /29 /37 /23 /26 /26 /20 /37 /22 /23 /21 /47 /35 /31 /29 /43 /31 /26 /18 /27 /20 /21 /47 /36 /21 /18/30/31/21/50/34/31 /21 /47
+/34 /25 /27 /28 /18 /26/35/20/22 /37
+."/6'"$563*/(26"-*5:1-"/
+/79 /80 /81 /82 /83 /81
+/84 /85 /86 /84 /87 /82 /88 /81
+YTender / PO Tech. 
+Specifications/ NTPC 
+Approved Drg./DS/
+IEC-60044-1,(&
+
+1.`Y' mark in Column `D' means such document shall be furnished by the manufacturer / supplier. 
+2.Calibrated equipments required for performing the tests in presence of NTPC or authorized representative, shall be arranged by the supplier without any extra cost. 
+3.Witness by NTPC/authorized representative (wherever applicable) shall be on randomly chosen sample/s. NTPC shall review MFRs test report for balance Qty. 
+4. Reference and Acceptance norms shall be derived from following in the same sequence 1) NTPC Approved drawing / data sheet; 2) NTPC tech specs. 3) Purchase Order. 4) Relevant national standard. 5) Relevant International 
+standard. 6) Manufacturer's standard. 7) Good Engineering practices. 
+5.Type test clearance from NTPC site shall be reviewed during final inspection as envisaged by tender/PO specification
+, oil leak test.

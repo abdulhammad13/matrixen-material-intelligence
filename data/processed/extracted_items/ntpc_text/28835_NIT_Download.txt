@@ -1,0 +1,178 @@
+NTPC Limited eProcurement Portal
+Tender Details 
+Date : 16-Jul-2025 12:12 PM
+ Print
+Basic Details
+Organisation Chain NTPC Limited||Corporate Centre||USSC||CPG-1
+Tender Reference 
+Number NTPC/USSC-CPG1/9900306602
+Tender ID 2025_NTPC_98627_1 Withdrawal Allowed Yes
+Tender Type Open Tender Form of contract Supply
+Tender Category Goods No. of Covers 3
+General Technical 
+Evaluation Allowed Yes [Compliance Required] ItemWise Technical 
+Evaluation Allowed Yes
+Payment Mode Online Is Multi Currency Allowed For 
+BOQ No
+Is Multi Currency 
+Allowed For Fee No Allow Two Stage Bidding No
+Payment Instruments
+Online 
+Bankers S.No Bank Name
+1 SBI Bank
+Cover Details, No. Of Covers - 3
+Cover 
+No Cover Document Type Description
+1 Fee .pdf
+Scanned 
+copy of 
+tender fee
+.pdf
+scanned 
+copy of EMD 
+Instrument
+2 PreQual/Technical .pdf Technical bid
+.xls Product data 
+sheet
+.pdf PQR 
+Documents
+.pdf
+Nil deviation 
+and MLC 
+declration
+3 Finance .xls price bid
+Tender Fee Details, [Total Fee in ₹ * - 5,310]
+Tender Fee in ₹ 5,310
+Fee Payable To Nil Fee Payable At Nil
+Tender Fee 
+Exemption 
+Allowed
+Yes
+EMD Fee Details
+EMD Amount in ₹ 10,00,000 EMD Exemption 
+Allowed
+Yes
+EMD Fee Type fixed EMD Percentage NA
+EMD Payable To Nil EMD Payable At Nil
+BG Required Yes
+Minimum Direct 
+EMD Payment in ₹
+0.00
+Click to view modification history
+Work /Item(s)
+Title RATE CONTRACT FOR SUPPLY OF PAINTS
+Work Description RATE CONTRACT FOR SUPPLY OF PAINTS
+Page 1 of 3NTPC Limited eProcurement Portal
+16-07-2025https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=PublishedVie...
+Show Tender Value 
+in Public Domain
+Yes 
+Tender Value in ₹ 0.00 Product Category Miscellaneous 
+Goods 
+Sub category NA 
+Contract Type Tender Bid Validity(Days) 180 Period Of Work
+(Days)
+365 
+Location Western Region Head 
+QuartersII Plot No. -87, 
+Secto
+Pincode 492018 Pre Bid Meeting 
+Place
+NA 
+Pre Bid Meeting 
+Address
+NA Pre Bid Meeting Date NA Bid Opening Place Western 
+Region Head 
+QuartersII
+Should Allow NDA 
+Tender
+No Allow Preferential 
+Bidder
+Yes
+Preferential Bidder Category
+S.No Preference Category Tolerance Percentage
+1. Make in India 20.00
+2. MSME 15.00
+Critical Dates
+Publish Date 16-Jul-2025 02:00 PM Bid Opening Date 01-Aug-2025 03:00 PM
+Document Download / Sale Start 
+Date
+16-Jul-2025 02:00 PM Document Download / Sale End 
+Date
+31-Jul-2025 06:00 PM
+Clarification Start Date 16-Jul-2025 02:00 PM Clarification End Date 21-Jul-2025 03:00 PM 
+Bid Submission Start Date 16-Jul-2025 02:00 PM Bid Submission End Date 31-Jul-2025 06:00 PM
+Tender Documents
+NIT 
+Document S.No Document 
+Name Description Document 
+Size (in KB)
+1 Tendernotice_1.pdf NIT 349.40
+Work Item 
+Documents S.No Document Type Document Name Description Document 
+Size (in KB)
+1 Tender Documents Tenderdocs.rar COMPLETE TENDER 
+DOCUMENTS 8398.20
+2B O Q BOQ_101824.xls PRICE BID 370.00
+View GTE Details - PURCHASE GTE (OT-COMMON-MLC-LAND BORDER CLAUSE)
+S.No Particulars Expected Value Mandatory
+1.0
+Confirm that you are a LOCAL SUPPLIER, and the LOCAL CONTENT included 
+in SCOPE OF SUPPLY FOR ALL QUOTED ITEMS (Item-wise Evaluation) OR 
+COMPLETE SCOPE OF SUPPLY (Package-wise Evaluation) meets the 
+MINIMUM LOCAL CONTENT requirements of the Tender. 
+Yes Yes
+2.0 Do you accept the Fraud Prevention Policy of NTPC Yes Yes
+3.0 Do you accept Withholdin g and Banning of Business Dealing Policy of NTPC Yes Yes
+4.0 Do you certify full compliance on clause as per tender documents on 
+Restrictions on procurement from a Bidder of a country which shares a land 
+Yes Yes
+Page 2 of 3NTPC Limited eProcurement Portal
+16-07-2025https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=PublishedVie...
+Yes Yes
+Yes Yes
+Iteration No. of bids required for bid opening a tender Tender gets extended to No. of days
+1. 1 4
+2. 1 4
+3. 1 4
+Bid Openers List
+S.No Bid Opener Login Id Bid Opener Name Certificate Name
+1. tapasmishra@ntpc.co.i n TAPAS MISHRA TAPAS MISHRA
+2. manishkumar06@ntpc.co.i n MANISH KUMAR manish kumar
+3. ilaanand@nt pc.co.in Ila Anand ILA ANAND
+4. anandshanker@ntpc.co.in ANAND SHANKER ANAND SHANKER
+GeMARPTS Details
+GeMARPTS ID 2Q2C2D9YTZK9
+Description RATE CONTRACT FOR SUPPLY OF PAINTS
+Report Initiated On 16-Jul-2025
+Valid Until 15-Aug-2025
+Tender Properties
+Auto Tendering 
+Process allowed
+No Show Technical bid status No
+Show Finance bid 
+status
+Yes Stage to disclose Bid Details in 
+Public Domain
+Technical Bid Opening 
+BoQ Comparative 
+Chart model
+Normal BoQ Compartive chart decimal 
+places
+2
+BoQ Comparative 
+Chart Rank Type
+L Form Based BoQ No
+TIA Undertaking
+S.No Undertaking to Order Tender complying with Order Reason for non compliance of Order 
+1 PPP-MII Order 2017 Agree
+2 MSEs Order 2012 Agree
+Tender Inviting Authority
+Name MANISH KUMAR,DGM
+Address Western Region Head QuartersII Plot No. -87, Sector-24, Atal RAIPUR 492018
+Tender Creator Details
+Created By MANISH KUMAR
+Designation DGM, CnM
+Created Date 16-Jul-2025 11:26 AM
+Page 3 of 3NTPC Limited eProcurement Portal
+16-07-2025https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=PublishedVie...

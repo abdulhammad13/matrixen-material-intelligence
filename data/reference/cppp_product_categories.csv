@@ -1,0 +1,95 @@
+select_name,value,label
+tenderCategory,1,Goods
+tenderCategory,2,Services
+tenderCategory,3,Works
+productCategory,1,Access Control System
+productCategory,2,Air-Conditioner
+productCategory,3,Allotment of Space
+productCategory,4,AMC/ Maintenance Contracts
+productCategory,5,Animal Feed Ingredients
+productCategory,6,Architecture/Interior Design
+productCategory,7,Audio-Visual Equipment
+productCategory,8,Chemicals/Minerals
+productCategory,9,Civil Construction Goods
+productCategory,10,Civil Works
+productCategory,11,Civil Works - Bridges
+productCategory,12,Civil Works - Buildings
+productCategory,13,Civil Works - Highways
+productCategory,14,Civil Works - Others
+productCategory,15,Civil Works - Roads
+productCategory,16,Civil Works - Water Works
+productCategory,17,Coal Works
+productCategory,18,Computer- Data Processing
+productCategory,19,Computer- H/W
+productCategory,20,Computer- S/W
+productCategory,21,Construction Works
+productCategory,22,Consultancy
+productCategory,23,Consumables (Hospital / Lab)
+productCategory,24,Consumables - Paper/Printing/Photocopy Paper
+productCategory,25,Consumables- Raw materials
+productCategory,26,Crop Products
+productCategory,27,Drilling Works
+productCategory,28,Drugs and Pharmaceutical Products
+productCategory,29,Electrical Goods/Equipment
+productCategory,30,Electrical Works
+productCategory,31,Electronic Components And Devices
+productCategory,32,Electronics Equipment
+productCategory,33,Equipments (Hospital / Lab)
+productCategory,34,Explosive
+productCategory,35,Facility Management Services
+productCategory,36,Financial and Insurance Services
+productCategory,37,Fire & Safety
+productCategory,38,Food Products
+productCategory,39,Furniture/ Fixture
+productCategory,40,Hiring of Vehicles
+productCategory,41,Hotel/ Catering
+productCategory,42,Housekeeping/ Cleaning
+productCategory,43,Industrial/Medical GAS
+productCategory,44,Information Technology
+productCategory,45,Info. Tech. Services
+productCategory,46,Job Works
+productCategory,47,Lab Chemistry Reagents
+productCategory,48,Laboratory and scientific equipment
+productCategory,49,Land/Building
+productCategory,50,Machineries/ Mechanical Engg Items
+productCategory,51,Machinery and Machining Tools
+productCategory,52,Manpower Supply
+productCategory,53,Marine Works
+productCategory,54,Mechanical Tools and Equipment
+productCategory,55,Medical Equipments/Waste
+productCategory,56,Medicines
+productCategory,57,Metal Fabrication
+productCategory,58,Metals - Non Ferrous
+productCategory,59,Miscellaneous Goods
+productCategory,60,Miscellaneous Services
+productCategory,61,Miscellaneous Works
+productCategory,62,Network /Communication Equipments
+productCategory,63,Non Consumables (Hospital / Lab)
+productCategory,64,Non-Dietery Items
+productCategory,65,OFC Laying Works
+productCategory,66,Oil/Gas
+productCategory,67,Pipe Laying Works
+productCategory,68,Pipes and Pipe related activities
+productCategory,69,Plant Protection Input/Equipment Works
+productCategory,70,Power/Energy Projects/Products
+productCategory,71,Renting out / Licensing out
+productCategory,72,Repair and Maintenance Services
+productCategory,73,"Scanning, Digitisation Services"
+productCategory,74,Shipping Services
+productCategory,75,Shipping/ Transportation/ Vehicle
+productCategory,76,Solid Waste Management
+productCategory,77,Sports Goods/Equipments
+productCategory,78,Street Lighting
+productCategory,79,"Supply, Erection and Commissioning"
+productCategory,80,Support/Maintenance Service
+productCategory,81,Survey
+productCategory,82,UPS
+productCategory,83,Vehicles/Vehicle Spares
+productCategory,84,Water Equipments/ Meter/ Drilling/ Boring
+tenderExpire,1,Closing Today
+tenderExpire,2,Closing Tomorrow
+tenderExpire,3,Closing within 7 Days
+tenderExpire,4,Closing within 15 Days
+tenderExpire,5,Closing within 30 Days
+tenderExpire,6,Closing within 45 Days
+tenderExpire,7,Closing greater than 45 Days

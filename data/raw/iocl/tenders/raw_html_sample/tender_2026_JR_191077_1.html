@@ -1,0 +1,1845 @@
+<head>
+	<base target="_self">
+	<title>Indian Oil Corporation eProcurement portal</title>
+</head>
+<!-- BEGIN: HEADER -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title>eProcurement System</title>
+<script type="text/javascript">djConfig = {"baseRelativePath":"/nicgep/app?service=asset&path=%2Fgep%2F","preventBackButtonFix":false,"parseWidgets":false,"locale":"en-us"} </script>
+
+<script type="text/javascript" src="/nicgep/app?service=asset&path=%2Fgep%2Fgep.js"></script><script type="text/javascript" src="/nicgep/app?service=asset&path=%2Fgep%2Fgep2.js"></script>
+<script type="text/javascript">
+dojo.registerModulePath("tapestry", "/nicgep/app?service=asset&path=%2Ftapestry%2F");
+</script>
+<script type="text/javascript" src="/nicgep/app?service=asset&path=%2Ftapestry%2Fcore.js"></script>
+<script type="text/javascript">
+dojo.require("tapestry.namespace");
+tapestry.requestEncoding='UTF-8';
+</script>
+<link rel="stylesheet" type="text/css" href="/nicgep/css/nicgep_web_style.css" />
+</head>
+<head>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<noscript>
+	<meta http-equiv="Refresh" content="2;url=https://iocletenders.nic.in/nicgep/app?page=ErrorNotice&amp;service=page" id="Any"></meta> 
+</noscript>
+<link href="includes/dialog/dialog_box.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="images/nation.ico" ></link>
+<link href="includes/dialog/nicgep_color_theme.css" rel="stylesheet" type="text/css">
+
+
+
+<!-- Javascript -->
+<script language="JavaScript" type="text/JavaScript" src="includes/evaluator.js"></script>
+<script language="javascript" src="includes/MessageDigest.js" ></script>
+<script language="JavaScript" type="text/JavaScript" src="includes/dialog/dialog_box.js"></script>
+<!-- End -->
+<script language="JavaScript" type="text/JavaScript">
+<!--
+	function MM_swapImgRestore() { //v3.0
+	  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+	}
+	
+	function MM_preloadImages() { //v3.0
+	  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+	    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+	    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	}
+	
+	function MM_findObj(n, d) { //v4.01
+	  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+	    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+	  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+	  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+	  if(!x && d.getElementById) x=d.getElementById(n); return x;
+	}
+	
+	function MM_swapImage() { //v3.0
+	  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+	   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+	}
+//-->
+</script>
+
+</head>
+
+
+<body onLoad="MM_preloadImages('images/homeb.png','images/contactb.png','images/sitemapb.png')" onunload="" onpageshow="if (event.persisted) noBack();" ondragstart="return false;" id="Body">
+
+	
+	<script type="text/javascript">
+
+	if(navigator.appName == 'Microsoft Internet Explorer')
+	{
+	document.onkeydown = fnCheckKeysMIE;
+	}
+	else if(navigator.appName == 'Netscape')
+	{
+	document.onkeydown = fnCheckKeysNMF;
+	}
+	
+	function fnCheckKeysNMF(event)
+	{
+	
+	var e=event? event : window.event;
+	var event_element=e.target? e.target : e.srcElement;
+	
+	if (event.ctrlKey && (event.keyCode==78 || event.keyCode==84 || event.which==78 || event.which==84))
+	{
+	return false;
+	}
+	
+	if (event.altKey && (event.keyCode==37 || event.which==37))
+	{
+	return false;
+	}
+	
+	if (event.keyCode==8 && (event_element.tagName != 'INPUT' && event_element.tagName != 'TEXTAREA'))
+	{
+	return false;
+	}
+	
+	}
+	
+	function fnCheckKeysMIE()
+	{
+	
+	var e=event? event : window.event;
+	var event_element=e.target? e.target : e.srcElement;
+	
+	if (event.ctrlKey && (event.keyCode==78 || event.keyCode==84 || event.which==78 || event.which==84))
+	{
+	return false;
+	}
+	
+	if (event.altKey && (event.keyCode==37 || event.which==37))
+	{
+	return false;
+	}
+	
+	if (event.keyCode==8 && (event_element.tagName != 'INPUT' && event_element.tagName != 'TEXTAREA'))
+	{
+	return false;
+	}
+	
+	}
+
+	window.history.forward();
+	function noBack(){ window.history.forward(); }
+	
+	</script>
+		
+	<div id="content">
+		<table width="1004" height="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+			<tr>
+				<td valign="top" height="40">
+					<table width="1000" border="0" align="center" cellspacing="0" cellpadding="0">
+    <tr> 
+    <td>
+		<table width="100%" height="22" border="0" cellpadding="0" cellspacing="0" id="Menu">
+		 <td width="210" height="22" align="right" class="date topBannerGradient"><a id="link1" name="link1" class="Menu" href="/nicgep/app?page=WebScreenReaderAccess&amp;service=page">Screen Reader Access</a>
+				
+		  </td>
+		</table>
+		</td>
+		</tr>
+   <tr> 
+    <td width="1005"><img border="0" width="1005" alt="Logo" src="images/topban.png" usemap="#Map" height="83" id="Any_0"></img></td>
+  </tr>		
+  <tr>
+    <td height="1" class="topBannerLine"></td>
+  </tr>
+
+  <tr> 
+    <td>
+		<table width="100%" height="22" border="0" cellpadding="0" cellspacing="0" id="Menu">
+        <tr> 
+          <td width="210" height="22" align="center" class="date primaryBg">
+				08-Sep-2026 
+		  </td>
+          <td align="center" class="secondaryBg">
+	           <span id="If">
+					<span id="For">
+						
+		             	 <span>
+							<a id="link1" name="link1" title="Search" class="Menu" href="/nicgep/app?page=FrontEndAdvancedSearch&amp;service=page" target="_self">Search</a>
+						</span>
+						<span class="divider1" id="Insert_2">|</span>
+					</span><span id="For_0">
+						
+		             	 <span>
+							<a id="link1" name="link1" title="Active Tenders" class="Menu" href="/nicgep/app?page=FrontEndLatestActiveTenders&amp;service=page" target="_self">Active Tenders</a>
+						</span>
+						<span class="divider1" id="Insert_2_0">|</span>
+					</span><span id="For_1">
+						
+		             	 <span>
+							<a id="link1" name="link1" title="Tenders by Closing Date" class="Menu" href="/nicgep/app?page=FrontEndListTendersbyDate&amp;service=page" target="_self">Tenders by Closing Date</a>
+						</span>
+						<span class="divider1" id="Insert_2_1">|</span>
+					</span><span id="For_2">
+						
+		             	 <span>
+							<a id="link1" name="link1" title="Corrigendum" class="Menu" href="/nicgep/app?page=FrontEndLatestActiveCorrigendums&amp;service=page" target="_self">Corrigendum</a>
+						</span>
+						<span class="divider1" id="Insert_2_2">|</span>
+					</span><span id="For_3">
+						
+		             	 <span>
+							<a id="link1" name="link1" title="Results of Tenders" class="Menu" href="/nicgep/app?page=ResultOfTenders&amp;service=page" target="_self">Results of Tenders</a>
+						</span>
+						
+					</span>
+	          </span>
+	          
+          </td>
+          <td width="215" valign="middle" class="primaryBg">
+			<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr> 
+                <td width="28%"><div align="center"><a id="homeLink" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image4','','images/homeb.png',1)" page="Home" href="/nicgep/app?service=restart"><img src="images/homea.png" alt="Home" name="Image4" width="47" height="18" border="0"></a></div></td>
+                <td width="40%"><div align="center"><a id="PageLink_6" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','images/contactb.png',1)" href="/nicgep/app?page=FrontEndContactUs&amp;service=page"><img src="images/contacta.png" alt="Contact Us" name="Image5" width="78" height="18" border="0"></a></div></td>
+                <td width="32%"><div align="center"><a id="PageLink_7" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','images/sitemapb.png',1)" href="/nicgep/app?page=SiteMap&amp;service=page"><img src="images/sitemapa.png" alt="Sitemap" name="Image6" width="63" height="18" border="0"></a></div></td>                 
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+	<td>
+		<table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="notice" width="20" align="right"><img src="images/notice.png" width="15" height="16" alt="Notices" /> </td>
+		<td class="notice_strip">
+			<marquee align="left" id="gepNotice" onMouseover="this.stop();" onMouseout="this.start();" scrolldelay="200">
+				<span id="If_1">
+    				
+
+<table border="0" cellspacing="2" id="noticeView" wordwrap="false" cellpadding="0">
+	
+    					<tr>
+    						
+
+
+	<td style="padding-right:20px;" id="informal">
+		<a id="PageLink" class="notice_link" href="/nicgep/app?page=WebAnnouncements&amp;service=page#452">&laquo; Deployment of Version 1.09.22- Portal Browser Independence and Introducing Chatbot Support</a>
+	</td>
+
+	<td style="padding-right:20px;" id="informal_0">
+		<a id="PageLink_0" class="notice_link" href="/nicgep/app?page=WebAnnouncements&amp;service=page#440">&laquo; BOQ version updated</a>
+	</td>
+
+	<td style="padding-right:20px;" id="informal_1">
+		<a id="PageLink_1" class="notice_link" href="/nicgep/app?page=WebAnnouncements&amp;service=page#430">&laquo; Operational Help Book for Bidders on Preferential Bid Submission in IOCL E-Tender portal</a>
+	</td>
+
+	<td style="padding-right:20px;" id="informal_2">
+		<a id="PageLink_2" class="notice_link" href="/nicgep/app?page=WebAnnouncements&amp;service=page#429">&laquo; Restriction in IOCL E-Tendering Portal towards the number of users against single PAN</a>
+	</td>
+
+	<td style="padding-right:20px;" id="informal_3">
+		<a id="PageLink_3" class="notice_link" href="/nicgep/app?page=WebAnnouncements&amp;service=page#417">&laquo; Mail/SMS related</a>
+	</td>
+
+	<td style="padding-right:20px;" id="informal_4">
+		<a id="PageLink_4" class="notice_link" href="/nicgep/app?page=WebAnnouncements&amp;service=page#416">&laquo; Special Instructions to the Bidder - Updated on 01 July 2025</a>
+	</td>
+
+	<td style="padding-right:20px;" id="informal_5">
+		<a id="PageLink_5" class="notice_link" href="/nicgep/app?page=WebAnnouncements&amp;service=page#415">&laquo; Bidders Help Manual for availing Preferential Benefits in IOCL E-Tendering Portal</a>
+	</td>
+
+	<td style="padding-right:20px;" id="informal_6">
+		<a id="PageLink_8" class="notice_link" href="/nicgep/app?page=WebAnnouncements&amp;service=page#412">&laquo; Holiday Listing Guideline</a>
+	</td>
+
+	<td style="padding-right:20px;" id="informal_7">
+		<a id="PageLink_9" class="notice_link" href="/nicgep/app?page=WebAnnouncements&amp;service=page#410">&laquo; Bidders are advised not to use Information Rights Management (IRM) feature on BoQ and any other excel file submitted during bidding process. IOCL shall not be responsible for any consequential result due to same</a>
+	</td>
+
+	<td style="padding-right:20px;" id="informal_8">
+		<a id="PageLink_10" class="notice_link" href="/nicgep/app?page=WebAnnouncements&amp;service=page#387">&laquo; Instruction to Bidders for Tender cum Auction</a>
+	</td>
+
+
+
+    					</tr>
+    				
+</table>
+
+
+				</span>
+				
+			</marquee>
+		</td>
+	</tr>
+</table>
+	</td>
+  </tr>
+</table>
+<map name="Map">
+  <a id="PageLink_11" shape="circle" coords="43,43,37" href="/nicgep/app?page=Home&amp;service=page"></a>
+</map>
+
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">
+					<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
+						<tr>
+
+							<td width="214" class="navigation"><script language="javascript">
+
+	// Script to view document in popup
+	function popup(mylink, windowname)
+	{
+		if (! window.focus)return true;
+		var href;
+		if (typeof(mylink) == 'string')
+	 		href=mylink;
+		else
+			href=mylink.href;
+			window.open(href, "Popup", 'location=no, scrollbars=yes, toolbar=no, width=700, height=550, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes');
+			return false;   
+	}
+
+</script>
+
+<table width="100%" height="100%" cellspacing="0" cellpadding="0" class="left_nav">	
+	
+	<tr> 
+         <td height="10"></td>
+     </tr>
+     	
+	<tr>
+		<td valign="top">
+			<table width="214" border="0" cellspacing="0" cellpadding="0">
+				<span id="If_2">
+					<tr id="For_5">
+						<span id="If_0_4">
+							<span id="If_3">
+			             		<tr> 
+					             	<td height="37" background="images/textbg.png" align="center"><a id="GenericLink" rel="noopener noreferrer" title="MIS Reports Portal" class="link1" href="https://gepnicreports.gov.in/eprocreports/iocl/" target="_blank">MIS Reports</a></td>
+					             </tr>
+			             	 </span>
+			             	 
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_6">
+						<span id="If_0_5">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_12" title="Tenders by Location" class="link1" href="/nicgep/app?page=FrontEndTendersByLocation&amp;service=page" target="_self">Tenders by Location</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_7">
+						<span id="If_0_6">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_13" title="Tenders by Classification" class="link1" href="/nicgep/app?page=FrontEndTendersByClassification&amp;service=page" target="_self">Tenders by Classification</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_8">
+						<span id="If_0_7">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_14" title="Tenders in Archive" class="link1" href="/nicgep/app?page=FrontEndTendersInArchive&amp;service=page" target="_self">Tenders in Archive</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_9">
+						<span id="If_0_8">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_15" title="Tenders Status" class="link1" href="/nicgep/app?page=WebTenderStatusLists&amp;service=page" target="_self">Tenders Status</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_10">
+						<span id="If_0_9">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_16" title="Cancelled Tenders" class="link1" href="/nicgep/app?page=WebCancelledTenderLists&amp;service=page" target="_self">Cancelled/Retendered</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_11">
+						<span id="If_0_10">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_17" title="Downloads" class="link1" href="/nicgep/app?page=StandardBiddingDocuments&amp;service=page" target="_self">Downloads</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_12">
+						<span id="If_0_11">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_18" title="Announcements" class="link1" href="/nicgep/app?page=WebAnnouncements&amp;service=page" target="_self">Announcements</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_13">
+						<span id="If_0_12">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_19" title="D" class="link1" href="/nicgep/app?page=FrontEndDebarmentList&amp;service=page" target="_self">Debarment List</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_14">
+						<span id="If_0_13">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_20" title="Recognitions" class="link1" href="/nicgep/app?page=WebAwards&amp;service=page" target="_self">Recognitions</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_15">
+						<span id="If_0_14">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_21" title="Site compatibility" class="link1" href="/nicgep/app?page=SiteComp&amp;service=page" target="_self">Site compatibility</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_16">
+						
+					</tr><tr id="For_17">
+						
+					</tr><tr id="For_18">
+						
+					</tr><tr id="For_19">
+						
+					</tr>
+					
+					<tr> 
+		                <td height="10"></td>
+		             </tr>
+				</span>
+				
+				<span id="If_14">
+					<tr> 
+	               		<td height="30" align="center">
+							<table width="160" height="114" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr id="For_21"> 
+				             		<tr>
+				             			<td height="15" valign="top"><a id="GenericLink_0" rel="noopener noreferrer" title="DashBoard" href="https://eprocure.gov.in/eprocdashboard?siteCode=IOCL" target="_blank"><img border="0" width="160" src="images/dashboard.png" height="34" id="Any_1"></img></a></td>
+				             		</tr>
+				             		 <tr> 
+						                <td height="10"></td>
+						             </tr>
+				             	 </tr><tr id="For_22"> 
+				             		<tr>
+				             			<td height="15" valign="top"><a id="GenericLink_0_0" rel="noopener noreferrer" title="link" href="https://gepnic.gov.in" target="_blank"><img border="0" width="160" src="images/Gepnic Logo.png" height="34" id="Any_2"></img></a></td>
+				             		</tr>
+				             		 <tr> 
+						                <td height="10"></td>
+						             </tr>
+				             	 </tr><tr id="For_23"> 
+				             		<tr>
+				             			<td height="15" valign="top"><a id="GenericLink_0_1" rel="noopener noreferrer" title="National Portal of India - External Link that open in a new window" href="http://india.gov.in" target="_blank"><img border="0" width="160" src="images/indiagovin.png" height="34" id="Any_3"></img></a></td>
+				             		</tr>
+				             		 <tr> 
+						                <td height="10"></td>
+						             </tr>
+				             	 </tr><tr id="For_24"> 
+				             		<tr>
+				             			<td height="15" valign="top"><a id="GenericLink_0_2" rel="noopener noreferrer" title="Central Public Procurement portal - External Link that opens in a new window" href="http://eprocure.gov.in/cppp/searchbyorg/Indian Oil Corporation Limited" target="_blank"><img border="0" width="160" src="images/cppp-img.png" height="34" id="Any_4"></img></a></td>
+				             		</tr>
+				             		 <tr> 
+						                <td height="10"></td>
+						             </tr>
+				             	 </tr>
+							</table>
+				 		</td>
+	             	</tr>					
+				</span>	
+				
+				<tr> 
+					<td height="30" align="center">&nbsp;</td>
+			  	</tr>							
+			  	
+			</table>
+		</td>
+	</tr>
+	
+</table></td>
+							<td class="page_content" valign="top">
+							<!-- Page content starts here -->
+								
+
+	<script language="javascript">
+
+
+		/**
+		* This method invokes the print dialog
+		*/
+		function callPrint(){
+			window.print();
+		}
+		// Script to view document in popup
+     function popUp(obElm, sFeature){
+	var sLink;
+
+	if(typeof(obElm) == 'string'){
+		sLink = obElm;
+	}
+	else{
+		sLink = obElm.href;
+		
+		var obWin = window.open(sLink, "ChildPopup", sFeature);
+		
+		obWin.focus();
+		
+		if(!obWin.opener) obWin.opener = _self;
+		
+		return false;
+	}
+
+}
+		function popup(mylink, windowname)
+			{
+				if (! window.focus)return true;
+				var href;
+			if (typeof(mylink) == 'string')
+   				href=mylink;
+			else
+  				 href=mylink.href;
+				window.open(href, "Popup", 'location=no, scrollbars=yes, toolbar=no, width=800, height=400, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes');
+					return false;   
+			}
+
+	</script>
+	<!-- Page Content-->
+		<table width="100%" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+			   <tr>
+					<td align="right" class="td_space"><a id="DirectLink" onClick="return popup(this,'window');" title="View More Details" href="/nicgep/app?component=%24DirectLink&amp;page=FrontEndTenderDetails&amp;service=direct&amp;session=T&amp;sp=STzlmlJ7L54ZLW%2B0%2BVfykQ%2BSJge%2FMOuBR%2BaAsI38I%2Bs4%3D"><img src="images/print.png" align="absmiddle" border="0"> View More Details</a></td>
+			  </tr> 
+			  <tr>					
+					<td align="left" class="page_header"> <img src="images/bullet1.png" width="16" height="18" align="absmiddle"> Tender Details</td>	
+			  </tr>
+			  <tr>
+					<td>&nbsp;</td>
+			  </tr>
+			  <tr> 
+				<td valign="top" class="page_content">
+					<!-- interface_elements -->
+					<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+						<form method="post" action="/nicgep/app" id="DisplayTenderDetails">
+<div style="display:none;" id="DisplayTenderDetailshidden"><input type="hidden" name="formids" value="tokenSecret,If_16,If_0_20,If_18,iterRows_11,If_20,If_22,If_24,If_26,If_28,If_30,If_32,If_34,If_36,If_38,If_40,If_42,If_44,If_46,If_48,If_50,If_52,If_54,If_56,iterRows_18,If_58,If_60,If_62,If_64,If_66,If_68,iterRows_22,If_70,If_72,If_74,If_76,If_78,iterRows_25,If_80,If_82,If_84,If_86,If_88,If_90,iterRows_28,If_92,If_94,If_96,If_98,If_100,If_102,If_104,If_106,If_108,If_110,If_112,If_114,If_116,If_118,If_120,If_122,If_124,If_126,If_128" />
+<input type="hidden" name="seedids" value="ZH4sIAAAAAAAAAE2QTU7DMBCF0wU3maUXceiPuiQKoEoFIahgGZlkQi2csWUborBDXIercQcmP5W6sb/x8zy/8e9fcvGVJIufxbcI6D91hZAKp96GrbKts4QUR6aoNKFnDhiCtjSQ4+UFX3Pr61HaEbtEyJbi6YjG8MkV9bASua376erBulzRZGQ0vUtWdw3IlbixHrI1F2UKciuuTUCQm9mylLA8YcZ4tC3uuZ1dHjjtgOX6vNhMz93bOM1EIzxr7EAKj8R5x1ByVh5tx7d0RM8UQDJTY32rDGxF55VzWDOd/CHLBvs9NvEO6YNbb5GH0tUc6qzicS5FoT1WcRYLHZxR/WFMUSB/rAmQ/gPFQUC5jAEAAA==" />
+<input type="hidden" name="component" value="DisplayTenderDetails" />
+<input type="hidden" name="page" value="FrontEndTenderDetails" />
+<input type="hidden" name="service" value="direct" />
+<input type="hidden" name="session" value="T" />
+<input type="hidden" name="submitmode" value="" />
+<input type="hidden" name="submitname" value="" />
+<input type="hidden" name="tokenSecret" id="tokenSecret" value="SB6cUgl68vD8dnVIyzyyzn1fwFo1zgA0oEsUzZ+n8OpfkiYHvzDrgUfmgLCN/CPrO" />
+<input type="hidden" name="If_16" value="F" />
+<input type="hidden" name="If_0_20" value="F" />
+<input type="hidden" name="If_18" value="T" />
+<input type="hidden" name="iterRows_11" value="VZH4sIAAAAAAAAAFvzloG1uIhBOz2/TC8vM1kvPbVAryQ1LyW1SC81rySzpFIvIDE5O7XEJbUkMTOn2CezuIRTxePN8rVBD5gY2HwY2FPyk11Si5NLGIR8shLLEvVzEvPS9YNLijLz0q19GDiA0j6JSak5hQx1DIwQ5SGVBalQLlNmSgmDAJJGn3ywNq4CsKVIKvkQIiDrwKIVBSUMvE6ZKQpAQ0tzgc4tBgqw6FXkFAN9xAcyVA9kqB7Y0O4nE870K99nYmD0YmAtS8wpTa0oYhBAKPIrzU1KLWpbM1WWe8qDbiYGhooCBghgLGEQdUtN1Q8oSg0sTczRD0lNzgAGVWIOLnEAZ1DJfVQBAAA=" />
+<input type="hidden" name="iterRows_11" value="VZH4sIAAAAAAAAAE1PO27CQBR8QUkgKSIUiY6CIh3S+gCUthDFFuZzgcfuw9mwXi/rFys0uU4auBMHgDtgDFKoRvPTaHYneCoDDLOiEs4okZEXTE5TEOTY8FakqNbECTEaW0pT8svH5Pi3nx1a8CyhrQuVUKkY3uUXVhhZdFk052BcNpLQqW2JS7Ib+IWHa3yx9XSjLaMZundFWTS1V9+M3iXf/pXLXKP+eIZ+XOQ5BWXQDtDpwco4dA1Lp3HtPwqvVzX2xkRRGmj6jTZakPqsz6JlgDNoABGEAQEAAA==" />
+<input type="hidden" name="iterRows_11" value="VZH4sIAAAAAAAAAE2PPU4DMRCFh4i/UCCERO8iHZL3ALRJROEiQC4w2LObAWM79mzENlyHBu7EAeAOLBukpBrNe+/T0/v4gaOS4bqJGx3Y6oaSFgqOsqYgLJ1eoH0mmZIg+2K4yHhy+/3+ef81gmMDJy7aKRUrcGmecIOVx9BUD5I5NDcGTnvb4CP5NbzBwTa+7BL9vyN2Ahd7oIkDdpaG0r3k+U75qxvU1ySgZ2Hdcu6UbV9UsTGRwuBUSWS5ZovCMRQVa7Ud1ROHOrm6v1dzomqR6a5FXy3Jrvr56AXgF9iry14TAQAA" />
+<input type="hidden" name="iterRows_11" value="VZH4sIAAAAAAAAAFvzloG1uIhBOz2/TC8vM1kvPbVAryQ1LyW1SC81rySzpFIvIDE5O7XEJbUkMTOn2CezuIRTxePN8rVBD5gY2HwY2FPyk11Si5NLGIR8shLLEvVzEvPS9YNLijLz0q19GDiA0j6JSak5hQx1DIwQ5SGVBalQLlNmSgmDAJJGn3ywNq4CsKVIKvkQIiDrwKIVBSUM/P4lGalFCkBjS3OBDi4GCrHoFaSkAWlRt9RU/YCi1MDSxBz9kNTkDKD/EnNKGBgAY03wW/QAAAA=" />
+<input type="hidden" name="iterRows_11" value="VZH4sIAAAAAAAAAFvzloG1uIhBOz2/TC8vM1kvPbVAryQ1LyW1SC81rySzpFIvIDE5O7XEJbUkMTOn2CezuIRTxePN8rVBD5gY2HwY2FPyk11Si5NLGIR8shLLEvVzEvPS9YNLijLz0q19GDiA0j6JSak5hQx1DIwQ5SGVBalQLlNmSgmDAJJGn3ywNq4CsKVIKvkQIiDrwKIVBSUMvAFFmcmpCk6ZKQpO/oFAARa9ipxioI/4QIbqgQzVAxva/WTCmX7l+0wMjF4MrGWJOaWpFUUMAghFfqW5SalFbWumynJPedDNxMBQUcAAAUwlDOxumXmJecmpCBYAYZC+HDgBAAA=" />
+<input type="hidden" name="If_20" value="F" />
+<input type="hidden" name="If_22" value="F" />
+<input type="hidden" name="If_24" value="F" />
+<input type="hidden" name="If_26" value="T" />
+<input type="hidden" name="If_28" value="F" />
+<input type="hidden" name="If_30" value="F" />
+<input type="hidden" name="If_32" value="F" />
+<input type="hidden" name="If_34" value="F" />
+<input type="hidden" name="If_36" value="F" />
+<input type="hidden" name="If_38" value="F" />
+<input type="hidden" name="If_40" value="F" />
+<input type="hidden" name="If_42" value="F" />
+<input type="hidden" name="If_44" value="F" />
+<input type="hidden" name="If_46" value="F" />
+<input type="hidden" name="If_48" value="F" />
+<input type="hidden" name="If_50" value="F" />
+<input type="hidden" name="If_52" value="F" />
+<input type="hidden" name="If_54" value="F" />
+<input type="hidden" name="If_56" value="T" />
+<input type="hidden" name="iterRows_18" value="VZH4sIAAAAAAAAAFvzloG1uIhBIz2/TC8vM1kvPbVAL78oXS81rySzpFIvoCizLDMnNT01pLIg1SezuER6xvTfjbs/tDIxsPswMGWmlDAI+GQlliXq5yTmpev75OelW/swcGcW+ybmpSSW5BdVljAIIylwys/PSU3MA6kpgBntmVLIUMfA6MMgDBcKSC1KBrogMT0VKiVYgOwQv8Tc1BIGISRzg0uKMsFWMxfn5aNa6ZlXAtRWBJQTLgFaXpSYl4xkPqoxLvmlSTmp1hUFwCDhAwnrgYT1wN7qfjLhTL/yfSYGRi8G1rLEnNLUiiIGAYQiv9LcpNSitjVTZbmnPOhmYmCoKGAAg4jLQNMEEQqhYXBWoajh6pxf74AGRsEMLGAoKAb5mB2ik0EE6LyAgABdX09PBf+ilNQiBSMDQ3NU46D+E3q0YMn3xnYLoHGeMONARnEAjWEsRnEpxJcNmw95aWb/ZgFqcEHR4GACsRwAFWqbohsCAAA=" />
+<input type="hidden" name="iterRows_18" value="VZH4sIAAAAAAAAAFWQPUgDQRCFJ6chQkDyYyfCgY2CXDSVkEYkFgmXcBALsdsk67l62T13NyFpJCnUIoUWihYWFpbpLO2stdNaEVvFTjCNe/kxuS1n37zvvel8QlBwWLBZzaCkZNjYNRi3DUwlkQ3D4qRGHGzjzYaLTSLk7NVlt3X/faRByASNlCVEzD1UQwkHUTthMmqnTAgTkUO0jCTjDQnxMcE6Yw5G1NO4Q+tM+QAOIWBC/H9kYV5SCZCNB19RdzxIHlWwhNiYb0Fy0kNPCMr8yAyVao2rv7hUcI5oaczfb5Nm1aKDU3VXnWTaGxve2OjVan+cPZ7Ov2oQyEKwhpwqrnOIjET5aqWI+XHnYi58/tbWAOou9N7Ws3KLjoSDGzzpvPly/fulDLeHhi64wmsc6m/CjIQlq8pLu0hg3eJ4B3Os4uuS6bnChtCRjQgVUrcsS08uryT9oEHz2PvN7U/rZFWBMkOQB5lSAE34OvT7N+8esov73Um1kPYtrBn9WH8tyYVENQIAAA==" />
+<input type="hidden" name="If_58" value="F" />
+<input type="hidden" name="If_60" value="F" />
+<input type="hidden" name="If_62" value="F" />
+<input type="hidden" name="If_64" value="F" />
+<input type="hidden" name="If_66" value="F" />
+<input type="hidden" name="If_68" value="T" />
+<input type="hidden" name="iterRows_22" value="VZH4sIAAAAAAAAAFvzloG1uIhBKz2/TC8vM1kvPbVAryQ1LyW1SC81rySzpFIvBMhzyU8uzQXyfTKLSwJ4P3zsccg0YGLgcGHgSYHKBGdWpXoxMGWm+DBwp6QWJxdlFpRk5ueVMAj5ZCWWJernJOal6weXFGXmpVv7MAjAtIWlFmWmZaamlDAII6lzys/PSU3MAyrkLc5MzwPqcU4tKvEEqhJAUuWTDzaLuTgvH1W7Z15JanpqEVBOCOIVmPP9EnNTCxnqGBgxZAISSzLAMhUFDnN3Fyy+zmXLAALMx41KGJj9PEOAYSQIskEPZIMe1IFnFYoars759Y6JgTGKgbUsMac0taKAEaiUD6EU7MruJxPO9CvfB6rzgqkrYhBAKPIrzU1KLWpbM1WWe8qDbiYGhooCsPUsWcGoFkO9JvRowZLvje0WQAM9YQaCnM8F1MNYAAz0ELDvgAGTmZwab6hXkJIGAFZaAE/pAQAA" />
+<input type="hidden" name="If_70" value="F" />
+<input type="hidden" name="If_72" value="F" />
+<input type="hidden" name="If_74" value="F" />
+<input type="hidden" name="If_76" value="T" />
+<input type="hidden" name="If_78" value="T" />
+<input type="hidden" name="iterRows_25" value="VZH4sIAAAAAAAAAFVRzy8DQRR+rTZEkXLARdKQSFy2fl9chL2ULaLCUbY7r9vR7e6Yfdu0DuLk0gMH/BVuTq7OElc3Iq7+Aheza0s7h0ne9733fd+buf+CtC9hxfYamsstzUahEboMpYYucWppB1F15MlagbCue1ZQV4xvcJ9eP+5e9O3v2SRkDMgw9C3JBXHPJRgzTsyGmXdM186XSHLXXjOgn3lWiZ9hL617QdlBRWdZLF7kdTxoCTyFc0gYMNLBS2RS4MfoUAft6hztxooeQycmkpwRZLtMDS9KlBImVeOeYZ/brgq6iZIKLAT71FaBYCYh09X1pxAQd/IhohQGGyh5hSPbaEUjTUGQ2ZOY2+AsV9wtqsfNhkNaaKv97nrx8LQ1V/tOJSGhQ7phOgE2e9p2gnoZ5eX97VTm5r2dBGiK9f09CI+SHziMLQkmlFNkhEgqeq7zPULZjvzrRdu2P6+fr2belOlWxzRMPBDJTk4/EowTWtVjIbHM2fHi/MLS6rImWCV68aGoLXVSEl0lQOIHKmBhvkECAAA=" />
+<input type="hidden" name="If_80" value="F" />
+<input type="hidden" name="If_82" value="F" />
+<input type="hidden" name="If_84" value="T" />
+<input type="hidden" name="If_86" value="T" />
+<input type="hidden" name="If_88" value="F" />
+<input type="hidden" name="If_90" value="T" />
+<input type="hidden" name="iterRows_28" value="VZH4sIAAAAAAAAAF1RPWgUQRSevbtA9JIzns2JGE+EgCBzkEq4JlwOzMYlJNwRUYs4uX3ZzGV3djLz9tyzEFOoSAottE9hIRiwUFArwcrCVgQbRezE2sLG2b2fXDLlN9/Pe9/b/0PGtCJVL+xQwVvUA0kRhAuKgkCOXbqsoMbdZopdC9WWjRDUw1YUmH/tcI1nbn57+Whm9m2G5B2Sd0G3FJfIQ4Gk6LRZh1V8JrxKAxUXXtUhE25fvcQC2CZ3iTWCNfgdOKyrh9G6D0ZXGHKQYaSPKptdOXDLcBfJ1IiHE6bJOclws8+Z1NwTZqB5UGi7CZh1SFaLEMmpEaUtEDxQRnw8kn7IXHBr3T57YoDUGcIwMELuVxKkGkskJ+xm7VJ5wSkz4ZavLM9LU/ZUwqOJPe0td+/1x8WLW/9yGWLVyViH+RHEh2hLUbAO6sH+s7P5pz92M4TEcu7VjXcrv++fQzK+CopvcEh27p2pPLyPSSsc2KQ17P568vnxhe8ma3GQlexzjCSvVLqFpGDmXFtw1szoVLobadOT6Xeu3TCOJw8c+/UUf+49/7vz8LIxtY+aWiN66/xXoy+mer3t0yYPQCML5Ezpyyer8QF6BoKJUMeD0ZNCaVLoZnvHunodT2eT/W+PG7u96TcrL+Lp1fdz/wFY66jHyAIAAA==" />
+<input type="hidden" name="If_92" value="F" />
+<input type="hidden" name="If_94" value="F" />
+<input type="hidden" name="iterRows_28" value="VZH4sIAAAAAAAAAHVRPWgUQRidvbtA9JIjnhYn/iMELDIHVuI1Jh7CxSUodyqizWTny2Yuu7OT2W/PPQsxhYqk0ELBwiKCnQELC+0EKwtbEWwUtRNrCxtn9n5yCWTLt+9n3vs2/5CxWJOaH3WoFB71QVEEyUFTkCiwSy9pmBO8lWHXIr3SQAjrkZeE5n/sihgP3fj66uH06bc5UnRJkUPsaaFQRBJJ2W2zDqsGTPrVJmoh/ZpLJnhfvcBCWCV3iDOCNcVt2K6rR8liAEZXGnKQYRLvVLa6auCWExzJ1IiHG2XJBcVwuc+ZjIUvzYPOg8YGt2DeJflYRkj2jygbEsEHbcR7ExVEjAOf6/bZEwOkzhCGgQmKoGqRWqqQVHrDzcx6Hihk0oOZC5EOGSqz+pQVUJtDey3vvvkwf2rlXyFHnDoZ67AggXQbbSEJF0Hf33x6pPjk+3qOkFSdu1J6d/n3vWNIxq+CFksCTPkDs5wLewMWHB8eyySWtqyyTdZ/Pf706OQ3kzc/yLPl9hD7VSo3kRzerQBVfCk7wmRGLrSbxn/fln9/ufKPjZd/1x6cMRGNnRG5Eb1z4ovRlzN9vBrQlgghRhaq6crnj07zPfQMJJNRnA6K2K2p3Xq5veZcvI4H83aRW+PGbuPoi+fP0rM/X5P/YfYBw+MCAAA=" />
+<input type="hidden" name="If_96" value="F" />
+<input type="hidden" name="If_98" value="F" />
+<input type="hidden" name="iterRows_28" value="VZH4sIAAAAAAAAAF2RP4gTQRTGZ5McnOYunBEkIkoO4cDCCaQ4DtIcyVpsXKOwURGruexzb3K7s3szb+PGQrxGkSu00NorLAQPLCxsRMHKwlYEG0VsrS1snN38udxN+eb7fm++b/b/kDklScMLB1TwHvUgogjCBUlBIMchvSahyd1uNrsZyi0LITDDXhzoe2VzhWduf3/9eKX+LkeKNim6oHqSR8hDgaRs99mA1XwmvJqDkguvYZMFd+zusAC2yX1izMwcfg8O+8ww3vBB+0pTDTKM1VFndxhNaDnuIlmaYdhhtrkQMdwcaxYV94R+UAskWm46zNskr0SI5OSM0xIIHkhtPh5HfshccJvDsXphMjEZwnRhjNyvpZNGEiEpVXV51ckbVaS7XkplNKXTUbYHbz+1L2z9K+SIYZK5AfNjSA7JOnGwAfLh/vOzxWc/d3OEJNH6mxckPUjmb4DkdzikkUe/VJ1+j95WOsBkLez+fvrlyfkfeld7siuNcyyjVSo6x6mmZZpXW9evXOp0nYv11VZ9lSa+ygpfzGSFvqPJJw7I45bKv/Ze/t15tKbh1lF4fsZvLH/T/nLmV9s+7fIAFLIgWql8/Ww4H2EEEEyEKplESHulaa+b/R3j8i08nU97uDuvcXvn3i+/Smof2uv/AczuA+HPAgAA" />
+<input type="hidden" name="If_100" value="F" />
+<input type="hidden" name="If_102" value="F" />
+<input type="hidden" name="iterRows_28" value="VZH4sIAAAAAAAAAG1RPWgUQRidvbtAzCUhnilORFGEgMXNgZVwCPnZCBvXRLlDEbGY3HzZzGV3drLz7WVPQbxGkRRaKFhYREhnOgtLwcrCVgI2ithaW9g4u7m7XIJTvnk/897s/SYjOiI1L2xTKZrUA0URJIeIgkSBHXozgnnBGxl2J4w2HITADptxYO61KzSeufft3bOZyx9ypOiSIgfdjIRCEUokJbfF2qzqM+lV6xgJ6dVcMs576mUWwCZ5RKwhrC4ewFGdHcarPhjd5ICDDGN9XNnoqL5bTnAkU0MebpglFxTD9R5nQgtPmgctQIQOT8G8S/JahkhODSkdieBBZMRjsfJDxoHPd3rs8T5iM4RBYIzCr6ZILVFIpq/N3dIVZ2XBraxIX0ioLN6wlVl8KiXTNIMeNHz8/tPSpY2/hRyxbDLSZn4MyRHachysQvRk79XZ4ssf2zlCEjXbfbg/dlXtIhm9DZFYE2CKT89xLtL9mX9+8FEmcfLQKttj+9eLL88vfjd5S/28tNgJkp5y+T6S8v8eTxVfy8afyIiFVt14nzz07i1W+rmz+6f79Iqxd47bF4b01oV9oy9ler3p04YIQCML1Ez562er/hEODCSToU76JdKNabrxeqtrXb+Lp/PpGlujxm7n3Ns3r5NakJ/9B3I2ECHbAgAA" />
+<input type="hidden" name="If_104" value="F" />
+<input type="hidden" name="If_106" value="F" />
+<input type="hidden" name="iterRows_28" value="VZH4sIAAAAAAAAAI1RP2hTQRi/lz/QmrbU1CEiSkUouLzEdFAIiNYsqc8iJCgi+LjmfXm59L1717vvxcRB2kXRDjroHsHNbg6OipOD4CSCiyKuzg4u3r0maVocvPG77/fn+/12f5GskqTiR12bs6btg7ARuAfSBo4M+/Z1CSvMaySzm5HcqCGE1agZh/pfOUzhidtfXz1aKr9JkZxDch6opmQCWcSR5J0O7dJiQLlfrKNk3K84ZMYbotdoCJvkPrEmZnV2Dw7iqlG8HoDGzY13kGKsDiMbfTFiSzEPyfwEhxMlyhlBsT3cmVXM59rQFZBY88ww7ZC04hGShQlkjSP4IDX4SCyCiHrgrfSH2zOjSZUijAVjZEHRTCo9gaSis9PBKbcNgXBHubmtSLo62BZI4E1GA3fR7Gk7brlUXi6VS+fd7jmhi5k3nLaxYu8FsfX6/erZjT+ZFLGqJNulQQy9A2trcbgO8sHu85O5Z993UoT0xKXH15bNQzJ1AyRrMdD5HLusBU1NNFgc96kV5/apkth2fj79+OTMN623OtIz908T8wqFO0gu/ueN/zjRFl4raXI2oct06trB0X0Hw/jzPwYvf28/vKBN1A6byE7grdNfND6f4NVmYDdYCAppKJYKnz9Y9bewR8Apj1RvdKopzDaFtTvb1tVbeDxtMrs7pekGp14Mtnqk8+ndX4/rL4ooAwAA" />
+<input type="hidden" name="If_108" value="F" />
+<input type="hidden" name="If_110" value="F" />
+<input type="hidden" name="iterRows_28" value="VZH4sIAAAAAAAAAF1RTWgTQRSe/FTapi1t9BDxh0ih4GVTIgUhFLTmkrgUIUERkWWaed1Mujsz3XkbEw/SXhTpQQ96jyhe7M2DR8WTB69S8KKIV88evDi73aRp5/jN+9738/b/kAkdkIoru5bgLcsFZSEIBoEFAjn2rVsBrHHWjLE7MtiqIfhV2Qp9869trvHcve/vni6VP6RJziY5BroVcIVcCiR5u0O7tORR4ZYaGHDhVmwywxL2OvVhmzwiqTGswR/CcV5VhhseGN7caAYphvoks9lXw21pzpDMj+2wZaycVRTbycys5q4whm5AgDUWgRmbZLSQSE6PMWsCwYXAkKdD5UnKgK31k+mZIVKlCCPBELlXipBKTyFZbChoceoVa0JjELaiXnQRZRHbUDS9mlK1MgeYj7hWJGkdBt55/7l+eetfNk1SVTLRpV4IvWNj66G/AcHj/ZcXci9+7qUJ6alrb+9Pr6rXB0gmb0PANzmYHs5cZ4xHssbE6G5Gce5oVVzP3u/nX58t/jB69aFelHOKRK9QcJBUkyzOeBYHpWOyOEkWxwhrgzsrDjMdMOfKslMPBTjl5fKKpdhmfLfZeGm20zA+Fo58JGXnfw3e/N19ctVYqZ20cmqMn7p0YPj5mK+3PavJfdBIfbVU+PYl1fgIhwsEFVL3hoGj81jRedqd3dTNu3g2EzX3YNKsG1x8NdjpTa2e//Qf6UBa+xYDAAA=" />
+<input type="hidden" name="If_112" value="F" />
+<input type="hidden" name="If_114" value="F" />
+<input type="hidden" name="iterRows_28" value="VZH4sIAAAAAAAAAF2QP2gTURzHf5ekWE0bYlwioiBiweVFq5RCFolBSD2qkqCIg7zmfr2+9O7d63u/ixcHsYiKdNBB9w5udnNwFJwcXEVwUcTBxdnBxXeXpE37xu/7fT6/Pzt/YMpoqPtRn0nRZT4qRig91AwlCRqwGxobwutk2e1Ir7cIw2bUjUP7b1xh6MTdb2+fz82/z0HRhaKHpquFIhFJgorb431eC7j0a23SQvp1F2a8Eb3MQ9yAh+BMZG3xAPdzzSheCdBypd0a4hSbg2RnoMa2nPAIyhMON8o6FxSntVHNrBG+tANdQU0tLw3zLuSNjAiOTZAtSeijtvCRWAUR99BrDEbVM+OkyQl3G8Ykglqa1BNFkG9cv6nsgcvpH0uVbLjQo3cfl86t/yvkwGnCVJ8HMSb7ypbjcAX1053XJ4uvfmzlABJ1WZYhfQTTt1CLVYHesINtUNojs223fr38/OLMd6tfGuvTsQ9ngmr1MUHJgvfmz1+4uHCJJYHJDjqbfRd6bWs8umccXaHyc/vN381ni1baOig9NME7p79avpLxZiNgHRGiIR6queqXT077Aw4FksvIJOPR07ux9G5rvU3n2h06nk9Xvj9tddunfl9VyVn5BP4DpT5XvK8CAAA=" />
+<input type="hidden" name="If_116" value="F" />
+<input type="hidden" name="If_118" value="F" />
+<input type="hidden" name="iterRows_28" value="VZH4sIAAAAAAAAAF2RP4gTQRTGZ5McRHM5z9hERIkIJzYTuEpIc5xByLkcaoJ/sJC57Mve5HZn52bexo2FeI0iV5yFYnuFnddZWApWFrZBsFHEVrCzsHFmk83lbspv3vd7733v4DeZ04o0/GhABe9SHyRFEB4oCgI5DulNBavc66Ta3UhttRDCZtSNQ/OvXa7x3INv714sLX/IkZJLSh7oruISeSSQVNw+G7B6wIRfb6Piwm+4ZN6buNdZCNvkCXFmtDZ/DEd9zSjeCMD4FqY1yDDWx52docxoOe4hWZxhuFHauSAZbk5qypr7wgx0DRS2PCvmXZLXIkJyZsbZEgg+KGM+GcsgYh54q8NJ9XymNBnCtGGMPKhbpZFII47DrGVTamnSXrSF1PLpeLun7z+tXdn6V8gRp0nmBiyIITlSth6HG6CeHbw+X3r1YzdHSCJXRqMaMQ9J8Q4o3uNglx7fqTY9kOm2cIhJc9j99fLL3qXvptda1ssudMLCSLW6h6R8+/qth5IpXKbS66VJl9PfQr9tgKcPgZN4Kj/33/7deX7VMFvHmcUZv3Pxq/FXUr/eDmiHh6CRhXKpOvrstD/CGCCYiHSSTW4DpTbQzf6Oc+M+ns3b9R8VDW7/wp8395LLvVMr/wHZu2MeyAIAAA==" />
+<input type="hidden" name="If_120" value="F" />
+<input type="hidden" name="If_122" value="F" />
+<input type="hidden" name="iterRows_28" value="VZH4sIAAAAAAAAAF1RP2hTQRi/l6TQmqbUuESspSIUXC7YScgiNQipj2JNUMRBrnlfXy9979717nvxxUHMokgHHXTv4GY3Bx0ERRAcXEXooEUcdXZw8e4lL0174+9+f77v9+39IRNakZofdangbeqDpAjCA0VBIMceva5gmXutFLsVqa0GQliP2nFo/rXLNZ65s//qyeLSmxwpuqTogW4rLpFHAknZ7bAuqwZM+NUmKi78mkumvaF6lYWwTR4QZwxr8vtwVFeP4vUAjG5mxEGGsT6ubPVk5pbjHpLZMQ83SpMLkuHmkFPS3BdmoCugsOFZMO+SvBYRklNjyoZA8EEZ8YlYBhHzwFvuDdnTGVJnCKPAGHlQtUgtkQYclLmQTamlaXvWEqn1p4PtHr7+uHJh618hR5w6meiyIIbkCG01DtdBPdp7cbb4/GAnR0giL+/PfZp/u/YbyeRNUHyDg116cKeF0YFM2syhTdrDzq9nX56e/2GyVrIsu9AUsa9S6SMp3bi6dlcyhRep9DbSpkvpb6HTNIYnDw2H9ZR/7r782398yXg2jntOjemdc9+Mvpzq9XZAWzwEjSyUi5Wvn53mexgYCCYinWST20KpLXSz03eu3cbTebv+vUljtzv/fe4gqbyDD/8B89h+ZsgCAAA=" />
+<input type="hidden" name="If_124" value="F" />
+<input type="hidden" name="If_126" value="F" />
+<input type="hidden" name="If_128" value="F" />
+</div>
+						
+						<tbody>
+							<table width="100%" cellspacing="0" cellpadding="0">
+									<tr>
+										<td>
+											<table  width="100%" cellspacing="0" cellpadding="0">											 <tr>
+												<td height="25" class="pageheader"><table width="118" border="0" align="left" cellpadding="0" cellspacing="0">
+													<tr> 
+													  <td width="10"align="center"><img src="images/leftcurve.png" width="10" height="25"></td>
+													  <td align="center" background="images/midbg.png" class="textbold1">Basic Details</td>
+													  <td width="10"><img src="images/rightcurve.png" width="10" height="25"></td>
+													</tr>
+												</td>
+											</tr>																										
+											</table>
+										</td>
+									</tr>
+									<tr>
+										<td height="20" colspan="2">
+											<table width="100%" border="0" align="center" cellpadding="0" cellspacing="1" class="tablebg">
+												<tr>
+													<td class="td_caption"><b>Organisation Chain</b></td>
+													<td class="td_field" colspan="5"><b>IndianOil||Refineries||Gujarat Refinery||Materials</b></td>
+												</tr>
+												
+												<tr>
+													<td class="td_caption"><b>Tender Reference Number</b></td>
+													<td colspan="3" class="td_field"><b>9030M26C26</b></td>
+												</tr>
+												<tr>	
+													<td class="td_caption" width="20%"><b>Tender ID<b></td>
+													<td class="td_field" width="20%"><b>2026_JR_191077_1</b></td>
+													<td class="td_caption" width="20%">Withdrawal Allowed</td>
+													<td class="td_field" width="20%">Yes</td>
+												</tr>
+												<tr>
+													<td class="td_caption" width="20%">Tender Type</td>
+													<td class="td_field" width="20%">Open Tender</td>
+													<td class="td_caption" width="20%" >Form Of Contract</td>
+													<td class="td_field" width="20%">Tender cum Auction</td>
+													
+												</tr>
+												<tr>	
+													<td class="td_caption">Tender Category</td>
+													<td class="td_field">Goods</td>
+													<td class="td_caption" width="20%">No. of Covers</td>
+													<td class="td_field"width="20%">2</td>
+												</tr>
+												
+												<tr>
+													<td class="td_caption">General Technical Evaluation Allowed </td>
+													<td class="td_field">No</td>
+													
+													<td class="td_caption">ItemWise Technical Evaluation Allowed</td>
+													<td class="td_field">No</td>
+												</tr>
+												<tr>
+													<td class="td_caption">Payment Mode</td>
+													<td class="td_field">Not Applicable</td>
+													<td class="td_caption">Is Multi Currency Allowed For BOQ</td>
+													<td class="td_field">No</td>
+												</tr>	
+												
+												<tr>
+													<td class="td_caption">Is Multi Currency Allowed For Fee</td>
+													<td class="td_field">No</td>
+													<td class="td_caption">Allow Two Stage Bidding</td>
+													<td class="td_field">No</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<tr>
+										<td class="td_space">
+											&nbsp;
+										</td>
+									</tr>
+									
+									
+									 <!-- <span jwcid="@If" condition="ognl:corrigendumDocuments">
+									<tr>
+										<td height="25" class="pageheader"><table width="175" height="25" border="0" cellpadding="0" cellspacing="0">
+												<tr> 
+												  <td width="10"align="center"><img src="images/leftcurve.png" width="10" height="25" /></td>
+												  <td align="left" background="images/midbg.png" class="textbold1">Latest Corrigendum List</td>
+												  <td width="10"><img src="images/rightcurve.png" width="10" height="25" /></td>
+												</tr></table>
+										</td>
+									</tr>
+									
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="tablebg">
+									<tr>
+										<td height="20" colspan="2">
+											<table jwcid="corrigendumDocumenttable@Contrib:TableView" 
+													source="ognl:corrWorkItemDocList"
+													columns="ognl:corrigendumDocumentsColumnList"
+													pageSize="-1" 
+													width="100%" cellspacing="1" cellpadding="0" class="list_table">
+													<tr class="list_header">
+														<td width="5%">S.No</td>
+														<td width="40">Corrigendum Title</td>
+														<td width="40%">Corrigendum Type</td>
+														<td width="15%">View</td>
+													</tr>
+													
+													<tr jwcid="corrigendumDocumentsRows" onMouseOver="javascript: rollOver(this, 1);" onMouseOut="javascript: rollOver(this, 0);">
+														<td align="left"><span jwcid="@Insert" value="ognl:currentCorrDoc.sno" /></td>
+														<td align="left"><span jwcid="@Insert" value="ognl:currentCorrDoc.documentName" /></td>
+														<td align="left"><span jwcid="@Insert" value="ognl:currentCorrDoc.documentType" /></td>
+														<td><span jwcid="@DirectLink" listener="listener:doViewCorrHistory" parameters="ognl:secureCorrId" onClick="return popUp(this, 'location=no, scrollbars=yes, toolbar=no, width=700, height=550, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes');" title="View Corrigendum History" ><img src="images/view.png" border="0" align="absmiddle" /></span></td>
+													</tr>						                																
+													
+											</table>
+									</td>
+									</tr>
+									</table>
+									</span> -->
+									
+									
+
+									<tr>
+										<td width="100%" colspan="2">
+											<table width="100%" cellspacing="2" cellpadding="2" border="0">
+												<tr>
+												
+													<td width="60%" valign="top">
+														
+														<table width="100%" cellspacing="0" cellpadding="0">
+															<tr> 
+																<td height="25" class="pageheader">
+																	<table width="260" height="25" border="0" cellpadding="0" cellspacing="0">
+																		<tr> 
+																		  <td width="10"align="center"><img src="images/leftcurve.png" width="10" height="25"></td>
+																		  <td align="center" background="images/midbg.png" class="textbold1">Covers Information, No. Of Covers - 2
+																		  <td width="10"><img src="images/rightcurve.png" width="10" height="25"></td>
+																		</tr>
+																	</table>
+																</td>
+															 </tr>
+															 <tr>
+																<td height="20" colspan="2">
+																	<table width="100%" align="left" cellpadding="0" cellspacing="0" class="tablebg">
+																		<tr>
+																			<td>	
+																				<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="list_table">
+																					<tr>
+																						<td>
+																							<span id="If_18">
+																								
+
+<table width="100%" cellspacing="1" id="packetTableView" cellpadding="0">
+	
+																									<tr class="list_header">
+																										<td width="15%" class="td_caption">Cover No</td>
+																										<td width="30%" class="td_caption"><b>Cover Type</b></td>
+																										<td width="20%" class="td_caption">Description</td>
+																										<td width="20%" class="td_caption">Document Type</td>
+																									</tr>
+																									
+
+
+	<tr id="informal_9">
+		
+																										       <td class="td_field">1</td>
+																												<td class="td_field">Fee/PreQual/Technical</td>
+																												<td class="td_field">Bid documents</td>
+																												<td class="td_field">.xls</td>
+																															
+																									
+	</tr>
+
+	<tr id="informal_10">
+		
+																										       <td class="td_field"></td>
+																												<td class="td_field"></td>
+																												<td class="td_field">Commercial and financial PQC</td>
+																												<td class="td_field">.pdf</td>
+																															
+																									
+	</tr>
+
+	<tr id="informal_11">
+		
+																										       <td class="td_field"></td>
+																												<td class="td_field"></td>
+																												<td class="td_field">Enquiry cum scope and specifications of tender</td>
+																												<td class="td_field">.pdf</td>
+																															
+																									
+	</tr>
+
+	<tr id="informal_12">
+		
+																										       <td class="td_field"></td>
+																												<td class="td_field"></td>
+																												<td class="td_field">Other documents</td>
+																												<td class="td_field">.pdf</td>
+																															
+																									
+	</tr>
+
+	<tr id="informal_13">
+		
+																										       <td class="td_field">2</td>
+																												<td class="td_field">Finance</td>
+																												<td class="td_field">Price Bid BOQ</td>
+																												<td class="td_field">.xls</td>
+																															
+																									
+	</tr>
+
+
+
+																								
+</table>
+
+
+																							</span>
+																							
+																						</td>
+																					</tr>
+																				</table>
+																			</td>
+																		</tr>
+																	</table>
+																</td>
+															</tr>	
+														</table>
+													
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									 <tr>
+										<td class="td_space">&nbsp;</td>
+									</tr>
+									<!-- <tr>
+										<td align="right">
+											<span jwcid="@If" condition="ognl:showNsdDocumentDetails">
+												<span jwcid="@DirectLink" listener="listener:doViewOtherImportantDocDetails" onClick="return openPopUp(this, 'location=no, scrollbars=yes, toolbar=no, width=700, height=550, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes');" title="Other Important Documents Details" class="blue_link"><img src="images/doc.png" border="0" align="absmiddle" /> View Other Important Documents Details</span>
+											</span>	
+										</td>
+									</tr> -->
+									
+									<tr>
+										
+									</tr>
+
+									 <tr>
+										<td class="td_space">
+											&nbsp;
+										</td>
+									</tr> 
+									
+								 	 	 
+							
+									<tr>
+										<td class="td_space">&nbsp;</td>
+									</tr>
+												<tr>
+													<td>
+														<table width="100%" cellspacing="1" cellpadding="1" class="table_list">	
+															<tr>
+																
+																<span id="If_26">
+																	<td width="50%" valign="top">
+																		<table width="100%" cellspacing="0" cellpadding="0" class="list">
+																			<tr> 
+																				<td height="25" class="pageheader">
+																					<table width="172" height="25" border="0" cellpadding="0" cellspacing="0">
+																						<tr> 
+																						  <td width="10"align="center"><img src="images/leftcurve.png" width="10" height="25"></td>
+																								<td align="center" background="images/midbg.png" class="textbold1">EMD Fee Details</td>
+																								<td width="10"><img src="images/rightcurve.png" width="10" height="25"></td>
+																						</tr>
+																					</table>
+																				</td>
+																			</tr>
+																			<tr>	
+																				<td height="20">
+																					<table width="100%" border="0" align="center" cellpadding="0" cellspacing="1" class="tablebg">
+																						<tr>	
+																							<td class="td_caption" width="30%" valign="top">EMD Amount in &#8377; 
+																								
+																							</td>
+																							<td class="td_field" valign="top">0.00</td>
+																							<td class="td_caption" width="30%" valign="top">EMD Exemption Allowed</td>
+																							<td class="td_field" valign="top">No</td>
+																						</tr>
+																													
+																						<tr>
+																							<td class="td_caption" width="30%" valign="top">EMD Fee Type </td>
+																							<td class="td_field" valign="top">fixed </td>
+																							<td class="td_caption" width="30%" valign="top">EMD Percentage</td>
+																							<td class="td_field" valign="top">NA</td>
+																						</tr>
+																												
+																						<tr>	
+																							<td class="td_caption" width="30%" valign="top">EMD Payable To</td>
+																							<td class="td_field" valign="top">Nil</td>
+																							<td class="td_caption" width="30%" valign="top">EMD Payable At</td>
+																							<td class="td_field" valign="top">Nil</td>
+																						</tr>
+																						<tr>
+																								
+																								
+																						</tr>
+																						
+																						<tr>
+																								
+																								
+																						</tr>					
+																					</table>
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</span>	
+															</tr>
+														</table>
+													</td>
+												</tr>
+												<tr><td>&nbsp;</td></tr>
+												
+												
+										<tr>
+											<td width="100%" colspan="2">
+												<table width="100%" cellspacing="1" cellpadding="1" class="table_list" >																			
+												<tr>
+													
+														
+													
+													</tr>
+												</table>
+											</td>
+										</tr>	
+										<!-- 
+										<tr><td>&nbsp;</td></tr>
+										</span>
+						
+									<tr>
+										<td>&nbsp;</td>
+									</tr>
+									
+									<tr>
+										<td align="right">
+											<span jwcid="@If" condition="ognl:enableTemplateDetail">
+												<span jwcid="@DirectLink" listener="listener:doViewGTETemplateDetails" parameters="ognl:secureTempId" onClick="return openPopUp(this, 'location=no, scrollbars=yes, toolbar=no, width=700, height=550, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes');" title="View General Technical Evaluation" class="blue_link"><img src="images/doc.png" border="0" align="absmiddle" /> View GTE Details</span>
+											</span>
+											
+										</td>
+									</tr>
+									<tr>
+										<td>&nbsp;</td>
+									</tr>	
+									<tr>
+										<td align="right">
+										<span jwcid="@If" condition="ognl:enableMclTenderDetails">
+											<span jwcid="@DirectLink" listener="listener:doViewMCLTenderDetails" parameters="ognl:securePrintEnc" onClick="return openPopUp(this, 'location=no, scrollbars=yes, toolbar=no, width=700, height=550, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes');" title="Details of Work/Service" class="blue_link"><img src="images/doc.png" border="0" align="absmiddle" /> View <span jwcid = "@Insert" value="ognl:tenderCategoryType"/> Experience Details</span>
+										</span>	
+										</td>
+									</tr>-->
+									<tr>
+										<td>&nbsp;</td>
+									</tr>																	
+									<tr> 
+										<td height="25" class="pageheader"><table width="172" height="25" border="0" cellpadding="0" cellspacing="0">
+											<tr> 
+											  <td width="10"align="center"><img src="images/leftcurve.png" width="10" height="25"></td>
+											  <td align="center" background="images/midbg.png" class="textbold1">Work Item Details</td>
+											  <td width="10"><img src="images/rightcurve.png" width="10" height="25"></td>
+											</tr></table>
+										</td>
+									 </tr>
+									 <tr>	
+										<td height="20">
+										<table width="100%" border="0" align="center" cellpadding="0" cellspacing="1" class="tablebg">
+													<tr>
+														<td class="td_caption"><b>Title</b></td>
+														<td class="td_field" colspan="5"><B>Vertical Mounted VS-1 Type API-610 Pumps for LPG  Bullets </B></td>
+													</tr>
+													<tr>
+														<td class="td_caption"><b>Work Description</b></td>
+														<td class="td_field" colspan="5"><b>Vertical Mounted VS-1 Type API-610 Pumps for LPG 
+Bullets </b></td>
+													</tr>
+													<tr>
+														<td class="td_caption"><b>NDA/Pre Qualification</b></td>
+														<td class="td_field" colspan="5"><b>Ref. NIT</b></td>
+													</tr>
+													
+													<tr>
+														<td class="td_caption"><b>Independent External Monitor/Remarks</b></td>
+														<td class="td_field" colspan="5"><b>NA</b></td>
+													</tr>
+													
+													<tr>
+														
+														<span>
+															<td width="20%" valign="top" class="td_caption"><b>Tender Value in &#8377; </b></td>
+															<td valign="top" class="td_field">NA</td>
+														</span>
+															<td width="20%" valign="top" class="td_caption"><b>Product Category</b></td>
+															<td valign="top" class="td_field">Mechanical - All </td>
+															<td width="15%" valign="top" class="td_caption"><b>Sub category</b></td>
+															<td valign="top" class="td_field">NA&nbsp;</td>
+													</tr>	
+													<tr>
+														<td width="15%" valign="top" class="td_caption"><b>Contract Type</b></td>
+														<td valign="top" class="td_field">Tender</td>
+														<td width="20%" class="td_caption" valign="top"><b>Bid Validity(Days)</b></td>
+														<td valign="top" class="td_field">180</td>
+														<td valign="top" class="td_caption"><b>Period Of Work(Days)</b></td>
+														<td valign="top" class="td_field">960&nbsp;</td>
+													</tr>	
+													<tr>	
+														<td width="20%" class="td_caption" valign="top"><b>Location</b></td>
+														<td valign="top" class="td_field">IOCL Gujarat Refinery</td>
+														<td width="20%" class="td_caption" valign="top"><b>Pincode</b></td>
+														<td valign="top" class="td_field">391320 </td>																	
+														<td width="20%" class="td_caption" valign="top"><b>Pre Bid Meeting Place</b></td>
+														<td valign="top" class="td_field">Virtual Pre bid meeting&nbsp;</td>
+													</tr>
+													<tr>	
+														<td width="15%" class="td_caption" valign="top"><b>Pre Bid Meeting Address</b></td>
+														<td valign="top" class="td_field">Please email to the officers mentioned in the NIT for pre-bid meeting link&nbsp;</td>
+														<td width="15%" class="td_caption" valign="top"><b>Pre Bid Meeting Date</b></td>
+														<td valign="top" class="td_field">01-Sep-2026 11:00 AM&nbsp;</td>
+														<td width="15%" class="td_caption" valign="top"><b>Bid Opening Place</b></td>
+														<td valign="top" class="td_field">IOCL Gujarat Refinery</td>
+													</tr>
+													<tr>	
+														<td width="15%" class="td_caption" valign="top"><b>Should Allow NDA Tender</b></td>
+														<td valign="top" class="td_field">No&nbsp;</td>
+														<td width="15%" class="td_caption" valign="top"><b>Allow Preferential Bidder</b></td>
+														<td valign="top" class="td_field">Yes</td>
+																																											
+													</tr>
+													
+													<tr>
+														
+													</tr>
+													
+													<tr>
+														
+													
+														
+													</tr>
+														
+														<tr>
+														
+													</tr>
+													
+												<tr>
+																								<td class="td_caption" valign="top">Tenderer Class</td>
+																									<td class="td_field" valign="top">NA </td>
+																									</tr>
+													
+												</table>
+										  </td>						 
+									</tr>
+									<tr>
+										<td class="td_space">&nbsp;</td>
+									</tr>	
+									
+									
+																										
+										<span id="If_56">
+											<tr> 
+												<td height="25" class="pageheader"><table width="250" height="25" border="0" cellpadding="0" cellspacing="0">
+													<tr> 
+													  <td width="10"align="center"><img src="images/leftcurve.png" width="10" height="25"></td>
+													  <td align="center" background="images/midbg.png" class="textbold1">Preferential Bidder Category</td>
+													  <td width="10"><img src="images/rightcurve.png" width="10" height="25"></td>
+													</tr></table>
+												</td>
+											 </tr>
+											<tr>
+												<td>
+														
+
+<table border="0" cellpadding="0" width="100%" cellspacing="0" id="privilegetable" class="tablebg">
+	
+															
+															<tr class="list_header">
+																<td class="list_header" width="10%"><b>S.No</b></td>
+																<td class="list_header" width="40%"><b>Preference Category</b></td>
+																<td class="list_header" width="40%"><b>Tolerance Percentage</b></td>
+																
+															</tr>
+															
+
+
+	<tr class="even" id="informal_14">
+																		
+																<td>1.</td>
+																<td>PPP-MII Order 2017</td>
+																<td align="right">20.00</td>		
+																
+															
+	</tr>
+
+	<tr class="odd" id="informal_15">
+																		
+																<td>2.</td>
+																<td>Purchase Preference to MSEs against PPP 2012</td>
+																<td align="right">15.00</td>		
+																
+															
+	</tr>
+
+
+
+														
+</table>
+
+
+													
+												</td>
+											</tr>											
+											<tr>
+												<td class="td_space">&nbsp;</td>
+											</tr>
+					
+										</span>															
+										
+																	 
+									 <tr> 
+										<td height="25" class="pageheader"><table width="172" height="25" border="0" cellpadding="0" cellspacing="0">
+											<tr> 
+											  <td width="10"align="center"><img src="images/leftcurve.png" width="10" height="25"></td>
+											  <td align="center" background="images/midbg.png" class="textbold1"><b>Critical Dates</b></td>
+											  <td width="10"><img src="images/rightcurve.png" width="10" height="25"></td>
+											</tr></table>
+										</td>
+									 </tr>
+									 <tr>									
+										  <td height="20">
+											<table width="100%" border="0" align="center" cellpadding="0" cellspacing="1" class="tablebg">
+												
+											
+													  
+												<tr> 
+													<td width="20%" class="td_caption"><b>Published Date</b></td>
+													<td width="20%" class="td_field">20-Aug-2026 05:30 PM</td>
+													<td width="20%" class="td_caption"><b>Bid Opening Date</b></td>
+													<td width="20%"class="td_field">18-Sep-2026 03:00 PM</td>
+													
+												</tr>
+												<tr> 
+													<td width="30%" class="td_caption"><b>Document Download / Sale Start Date</b></td>
+													<td width="20%" class="td_field">20-Aug-2026 05:30 PM</td>
+													<td width="30%" class="td_caption"><b>Document Download / Sale End Date</b></td>
+													<td width="20%" class="td_field">17-Sep-2026 03:00 PM</td>													
+												</tr>
+												<tr> 
+													<td width="20%" class="td_caption"><b>Clarification Start Date</b></td>
+													<td width="20%" class="td_field">NA</td>
+													<td width="20%"class="td_caption"><b>Clarification End Date</b></td>
+													<td width="20%" class="td_field">NA</td>
+												</tr>
+												<tr> 
+													<td width="20%" class="td_caption"><b>Bid Submission Start Date</b></td>
+													<td width="20%" class="td_field">04-Sep-2026 03:00 PM </td>
+													<td width="20%" class="td_caption"><b>Bid Submission End Date</b></td>
+													<td width="20%"class="td_field">17-Sep-2026 03:00 PM</td>
+												</tr>												
+												
+												
+												
+											</table>
+										</td>
+									</tr>
+								 	<tr>
+										<td class="td_space">
+											&nbsp;
+										</td>
+									</tr>
+																									
+									<tr> 
+										<td height="25" class="pageheader"><table width="172" height="25" border="0" cellpadding="0" cellspacing="0">
+											<tr> 
+											  <td width="10"align="center"><img src="images/leftcurve.png" width="10" height="25"></td>
+											  <td align="center" background="images/midbg.png" class="textbold1">Tenders Documents </td>																	  
+											  <td width="10"><img src="images/rightcurve.png" width="10" height="25"></td>
+											</tr></table>
+										</td>
+									 </tr>
+									 <tr>
+										<td height="20">
+											<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="tablebg">																	
+											<tr> 
+											  <td valign="top">
+												<table width="100%" border="0" cellspacing="1" cellpadding="1">
+													<tr> 
+														<td width="12%" class="td_caption" valign="top"><b>NIT Document</b></td>
+														<td class="td_field" valign="top">
+															<span id="If_68">
+																<table width="100%" cellspacing="1" cellpadding="0">
+																	<tr>
+																		<td align="left">
+																			
+
+<table border="0" cellpadding="0" width="100%" cellspacing="1" id="table" class="list_table">
+	
+																					<tr class="list_header">																														
+																						<td width="5%">S.No</td>
+																						<td width="35%">Document Name</td>
+																						<td width="45%">Description</td>
+																						<td width="15%">Document Size (in KB)</td>																							
+																					</tr>					            																										
+																					
+
+
+	<tr id="informal_16">
+		
+																						<td class="td_field">1</td>
+																						<td class="td_field">
+																							
+																							
+																							<span>
+																								
+																								<span>
+																									<a id="docDownoad" href="/nicgep/app?component=docDownoad&amp;page=FrontEndTenderDetails&amp;service=direct&amp;session=T">Tendernotice_1.pdf</a>
+																								</span>		
+																							</span>
+																							
+																							<span>
+																								<span id="If_76">
+																									<a id="DirectLink_1" onClick="return openPopUp(this, 'location=no, scrollbars=yes, toolbar=no, width=400, height=250, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes')" href="/nicgep/app?component=%24DirectLink_1&amp;page=FrontEndTenderDetails&amp;service=direct&amp;session=T&amp;sp=ZH4sIAAAAAAAAAFvzloG1uIhBKz2%2FTC8vM1kvPbVAryQ1LyW1SC81rySzpFIvBMhzyU8uzQXyfTKLSwJ4P3zsccg0YGLgcGHgSYHKBGdWpXoxMGWm%2BDBwp6QWJxdlFpRk5ueVMAj5ZCWWJernJOal6weXFGXmpVv7MAjAtIWlFmWmZaamlDAII6lzys%2FPSU3MAyrkLc5MzwPqcU4tKvEEqhJAUuWTDzaLuTgvH1W7Z15JanpqEVBOCOIVmPP9EnNTCxnqGBgxZAISSzLAMhUFDnN3Fyy%2BzmXLAALMx41KGJj9PEOAYSQIskEPZIMe1IFnFYoars759Y6JgTGKgbUsMac0taKAEaiUD6EU7MruJxPO9CvfB6rzgqkrYhBAKPIrzU1KLWpbM1WWe8qDbiYGhooCsPUsWcGoFkO9JvRowZLvje0WQAM9YQaCnM8F1MNYAAz0ELDvgAGTmZwab6hXkJIGAFZaAE%2FpAQAA">
+																										<img src="images/certificate.png" border="0" align="absmiddle" />&nbsp;
+																									</a>
+																								</span>
+																							</span>
+																						</td>
+																						<td align="left">
+																							NIT
+																						</td>
+																						<td align="right">
+																							1902.86
+																						</td>
+																																														
+																					
+	</tr>
+
+
+
+																			
+</table>
+
+
+																		</td>
+																	</tr>
+																</table>
+																</span>
+																																		
+														</td>
+													</tr>
+													
+													 
+													
+													<!-- PreBid Meeting Document Starts -->
+													
+													 <span id="If_78">
+    													<tr> 
+    														<td class="td_caption" valign="top"><b>PreBid Meeting Document </b></td>
+    														<td class="td_field" valign="top">
+    																<table width="100%" cellspacing="1" cellpadding="0">
+    																	<tr>
+    																		<td align="left">
+    																			
+
+<table border="0" width="100%" cellspacing="1" id="preBidTable" cellpadding="0">
+	
+    																					<tr class="list_header">																														
+    																						<td width="5%">S.No</td>
+    																						<td width="30%">Document Name</td>
+    																						<td width="25%">Description</td>
+    																						<td width="15%">Document Size (in KB)</td>																							
+    																					</tr>					            																										
+    																					
+
+
+	<tr id="informal_17">
+		
+    																						<td class="td_field">1</td>
+    																						
+    																						<span>
+    																						<td class="td_field">
+    																							<a id="DirectLink_2" title="View Prebid Documents" href="/nicgep/app?component=%24DirectLink_2&amp;page=FrontEndTenderDetails&amp;service=direct&amp;session=T&amp;sp=SRp9k63hB%2BKtfK12J3luUWfkUIfcnQ85V8Ieoxg%2FcTNDt2Z4%2F0ojWpKoo80On7NM%2B">tech_prebid_201364.pdf</a>
+																									<a id="DirectLink_3" onClick="return openPopUp(this, 'location=no, scrollbars=yes, toolbar=no, width=400, height=250, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes')" class="blue_link" href="/nicgep/app?component=%24DirectLink_3&amp;page=FrontEndTenderDetails&amp;service=direct&amp;session=T&amp;sp=ZH4sIAAAAAAAAAFVRzy8DQRR%2BrTZEkXLARdKQSFy2fl9chL2ULaLCUbY7r9vR7e6Yfdu0DuLk0gMH%2FBVuTq7OElc3Iq7%2BAheza0s7h0ne9733fd%2Bbuf%2BCtC9hxfYamsstzUahEboMpYYucWppB1F15MlagbCue1ZQV4xvcJ9eP%2B5e9O3v2SRkDMgw9C3JBXHPJRgzTsyGmXdM186XSHLXXjOgn3lWiZ9hL617QdlBRWdZLF7kdTxoCTyFc0gYMNLBS2RS4MfoUAft6hztxooeQycmkpwRZLtMDS9KlBImVeOeYZ%2Fbrgq6iZIKLAT71FaBYCYh09X1pxAQd%2FIhohQGGyh5hSPbaEUjTUGQ2ZOY2%2BAsV9wtqsfNhkNaaKv97nrx8LQ1V%2FtOJSGhQ7phOgE2e9p2gnoZ5eX97VTm5r2dBGiK9f09CI%2BSHziMLQkmlFNkhEgqeq7zPULZjvzrRdu2P6%2Bfr2belOlWxzRMPBDJTk4%2FEowTWtVjIbHM2fHi%2FMLS6rImWCV68aGoLXVSEl0lQOIHKmBhvkECAAA%3D">
+																									<img src="images/certificate.png" border="0" alt="Digital Signature"/>
+																									</a>																										
+    																						</td>
+    																						</span>
+    																						<td align="left">
+    																							Pre Bid MOM
+    																						</td>
+    																						<td align="right">
+    																							73.25
+    																						</td>
+    																																														
+    																					
+	</tr>
+
+
+
+    																			
+</table>
+
+
+    																		</td>
+    																	</tr>
+    																</table>
+    														</td>
+    													</tr>
+													</span> 
+													<!-- PreBid Meeting Document Ends -->
+													
+													<span>
+														<span id="If_84">
+															<span id="If_86">
+																<tr>
+																	<td align="right" class="td_space" colspan="2">
+																		
+																		<span>
+																			<a id="DirectLink_8" href="/nicgep/app?component=%24DirectLink_8&amp;page=FrontEndTenderDetails&amp;service=direct&amp;session=T"><img src="images/zipicon.png" align="absmiddle" title="Download the packet document as zipicon" border="0" /> Download as zip file</a>
+																		</span>
+																	</td>
+																</tr>
+															</span>
+														</span> 
+														<tr> 
+															<td class="td_caption" valign="top"><b>Work Item Documents</b></td>
+															<td class="td_field">
+															
+																<span id="If_90">
+																		
+
+<table width="100%" cellspacing="1" id="workItemDocumenttable" class="list_table" cellpadding="0">
+	
+																			<tr class="list_header">
+																				<td width="5%">S.No</td>
+																				<td width="25%">Document Type</td>		
+																				<td width="30%">Document Name</td>
+																				<td width="25%">Description</td>
+																				<td width="15%">Document Size (in KB)</td>																			
+																			</tr>
+																			
+
+
+	<tr class="even" id="informal_18">
+		
+																				<td align="left">1</td>   
+																				<td align="left">Tender Documents</td>	     																													
+																				<td align="left">
+																				
+																				
+																				<span>
+																					
+																					<span>
+																						GPC_HL_ITB.pdf</span>
+																				</span>
+																				<a id="DirectLink_9" onClick="return openPopUp(this, 'location=no, scrollbars=yes, toolbar=no, width=400, height=250, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes')" class="blue_link" href="/nicgep/app?component=%24DirectLink_9&amp;page=FrontEndTenderDetails&amp;service=direct&amp;session=T&amp;sp=ZH4sIAAAAAAAAAF1RPWgUQRSevbtA9JIzns2JGE%2BEgCBzkEq4JlwOzMYlJNwRUYs4uX3ZzGV3djLz9tyzEFOoSAottE9hIRiwUFArwcrCVgQbRezE2sLG2b2fXDLlN9%2FPe9%2Fb%2F0PGtCJVL%2BxQwVvUA0kRhAuKgkCOXbqsoMbdZopdC9WWjRDUw1YUmH%2FtcI1nbn57%2BWhm9m2G5B2Sd0G3FJfIQ4Gk6LRZh1V8JrxKAxUXXtUhE25fvcQC2CZ3iTWCNfgdOKyrh9G6D0ZXGHKQYaSPKptdOXDLcBfJ1IiHE6bJOclws8%2BZ1NwTZqB5UGi7CZh1SFaLEMmpEaUtEDxQRnw8kn7IXHBr3T57YoDUGcIwMELuVxKkGkskJ%2Bxm7VJ5wSkz4ZavLM9LU%2FZUwqOJPe0td%2B%2F1x8WLW%2F9yGWLVyViH%2BRHEh2hLUbAO6sH%2Bs7P5pz92M4TEcu7VjXcrv%2B%2BfQzK%2BCopvcEh27p2pPLyPSSsc2KQ17P568vnxhe8ma3GQlexzjCSvVLqFpGDmXFtw1szoVLobadOT6Xeu3TCOJw8c%2B%2FUUf%2B49%2F7vz8LIxtY%2BaWiN66%2FxXoy%2Bmer3t0yYPQCML5Ezpyyer8QF6BoKJUMeD0ZNCaVLoZnvHunodT2eT%2FW%2BPG7u96TcrL%2BLp1fdz%2FwFY66jHyAIAAA%3D%3D">
+																					<img src="images/certificate.png" border="0" alt="Digital Signature"/>
+																				</a>
+																				</td>
+																				<td align="left">ITB, HL and GPC</td>																		
+																				<td align="right">4013.36</td>																		
+																			
+	</tr>
+
+	<tr class="odd" id="informal_19">
+		
+																				<td align="left">2</td>   
+																				<td align="left">Additional Documents</td>	     																													
+																				<td align="left">
+																				
+																				
+																				<span>
+																					
+																					<span>
+																						Tender-Acceptance-Format.pdf</span>
+																				</span>
+																				<a id="DirectLink_9_0" onClick="return openPopUp(this, 'location=no, scrollbars=yes, toolbar=no, width=400, height=250, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes')" class="blue_link" href="/nicgep/app?component=%24DirectLink_9&amp;page=FrontEndTenderDetails&amp;service=direct&amp;session=T&amp;sp=ZH4sIAAAAAAAAAHVRPWgUQRidvbtA9JIjnhYn%2FiMELDIHVuI1Jh7CxSUodyqizWTny2Yuu7OT2W%2FPPQsxhYqk0ELBwiKCnQELC%2B0EKwtbEWwUtRNrCxtn9n5yCWTLt%2B9n3vs2%2F5CxWJOaH3WoFB71QVEEyUFTkCiwSy9pmBO8lWHXIr3SQAjrkZeE5n%2FsihgP3fj66uH06bc5UnRJkUPsaaFQRBJJ2W2zDqsGTPrVJmoh%2FZpLJnhfvcBCWCV3iDOCNcVt2K6rR8liAEZXGnKQYRLvVLa6auCWExzJ1IiHG2XJBcVwuc%2BZjIUvzYPOg8YGt2DeJflYRkj2jygbEsEHbcR7ExVEjAOf6%2FbZEwOkzhCGgQmKoGqRWqqQVHrDzcx6Hihk0oOZC5EOGSqz%2BpQVUJtDey3vvvkwf2rlXyFHnDoZ67AggXQbbSEJF0Hf33x6pPjk%2B3qOkFSdu1J6d%2Fn3vWNIxq%2BCFksCTPkDs5wLewMWHB8eyySWtqyyTdZ%2FPf706OQ3kzc%2FyLPl9hD7VSo3kRzerQBVfCk7wmRGLrSbxn%2Ffln9%2FufKPjZd%2F1x6cMRGNnRG5Eb1z4ovRlzN9vBrQlgghRhaq6crnj07zPfQMJJNRnA6K2K2p3Xq5veZcvI4H83aRW%2BPGbuPoi%2BfP0rM%2FX5P%2FYfYBw%2BMCAAA%3D">
+																					<img src="images/certificate.png" border="0" alt="Digital Signature"/>
+																				</a>
+																				</td>
+																				<td align="left">Tender-Acceptance-Format</td>																		
+																				<td align="right">84.23</td>																		
+																			
+	</tr>
+
+	<tr class="even" id="informal_20">
+		
+																				<td align="left">3</td>   
+																				<td align="left">Tender Documents</td>	     																													
+																				<td align="left">
+																				
+																				
+																				<span>
+																					
+																					<span>
+																						BIDDOCUMENTS-26C26.xls</span>
+																				</span>
+																				<a id="DirectLink_9_1" onClick="return openPopUp(this, 'location=no, scrollbars=yes, toolbar=no, width=400, height=250, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes')" class="blue_link" href="/nicgep/app?component=%24DirectLink_9&amp;page=FrontEndTenderDetails&amp;service=direct&amp;session=T&amp;sp=ZH4sIAAAAAAAAAF2RP4gTQRTGZ5McnOYunBEkIkoO4cDCCaQ4DtIcyVpsXKOwURGruexzb3K7s3szb%2BPGQrxGkSu00NorLAQPLCxsRMHKwlYEG0VsrS1snN38udxN%2Beb7fm%2B%2Bb%2Fb%2FkDklScMLB1TwHvUgogjCBUlBIMchvSahyd1uNrsZyi0LITDDXhzoe2VzhWduf3%2F9eKX%2BLkeKNim6oHqSR8hDgaRs99mA1XwmvJqDkguvYZMFd%2BzusAC2yX1izMwcfg8O%2B8ww3vBB%2B0pTDTKM1VFndxhNaDnuIlmaYdhhtrkQMdwcaxYV94R%2BUAskWm46zNskr0SI5OSM0xIIHkhtPh5HfshccJvDsXphMjEZwnRhjNyvpZNGEiEpVXV51ckbVaS7XkplNKXTUbYHbz%2B1L2z9K%2BSIYZK5AfNjSA7JOnGwAfLh%2FvOzxWc%2Fd3OEJNH6mxckPUjmb4DkdzikkUe%2FVJ1%2Bj95WOsBkLez%2Bfvrlyfkfeld7siuNcyyjVSo6x6mmZZpXW9evXOp0nYv11VZ9lSa%2BygpfzGSFvqPJJw7I45bKv%2FZe%2Ft15tKbh1lF4fsZvLH%2FT%2FnLmV9s%2B7fIAFLIgWql8%2FWw4H2EEEEyEKplESHulaa%2Bb%2FR3j8i08nU97uDuvcXvn3i%2B%2FSmof2uv%2FAczuA%2BHPAgAA">
+																					<img src="images/certificate.png" border="0" alt="Digital Signature"/>
+																				</a>
+																				</td>
+																				<td align="left"> Bid documents</td>																		
+																				<td align="right">4047.50</td>																		
+																			
+	</tr>
+
+	<tr class="odd" id="informal_21">
+		
+																				<td align="left">4</td>   
+																				<td align="left">Additional Documents</td>	     																													
+																				<td align="left">
+																				
+																				
+																				<span>
+																					
+																					<span>
+																						FAQs-IOCL-Online-EMD.pdf</span>
+																				</span>
+																				<a id="DirectLink_9_2" onClick="return openPopUp(this, 'location=no, scrollbars=yes, toolbar=no, width=400, height=250, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes')" class="blue_link" href="/nicgep/app?component=%24DirectLink_9&amp;page=FrontEndTenderDetails&amp;service=direct&amp;session=T&amp;sp=ZH4sIAAAAAAAAAG1RPWgUQRidvbtAzCUhnilORFGEgMXNgZVwCPnZCBvXRLlDEbGY3HzZzGV3drLz7WVPQbxGkRRaKFhYREhnOgtLwcrCVgI2ithaW9g4u7m7XIJTvnk%2F897s%2FSYjOiI1L2xTKZrUA0URJIeIgkSBHXozgnnBGxl2J4w2HITADptxYO61KzSeufft3bOZyx9ypOiSIgfdjIRCEUokJbfF2qzqM%2BlV6xgJ6dVcMs576mUWwCZ5RKwhrC4ewFGdHcarPhjd5ICDDGN9XNnoqL5bTnAkU0MebpglFxTD9R5nQgtPmgctQIQOT8G8S%2FJahkhODSkdieBBZMRjsfJDxoHPd3rs8T5iM4RBYIzCr6ZILVFIpq%2FN3dIVZ2XBraxIX0ioLN6wlVl8KiXTNIMeNHz8%2FtPSpY2%2FhRyxbDLSZn4MyRHachysQvRk79XZ4ssf2zlCEjXbfbg%2FdlXtIhm9DZFYE2CKT89xLtL9mX9%2B8FEmcfLQKttj%2B9eLL88vfjd5S%2F28tNgJkp5y%2BT6S8v8eTxVfy8afyIiFVt14nzz07i1W%2Brmz%2B6f79Iqxd47bF4b01oV9oy9ler3p04YIQCML1Ez562er%2FhEODCSToU76JdKNabrxeqtrXb%2BLp%2FPpGlujxm7n3Ns3r5NakJ%2F9B3I2ECHbAgAA">
+																					<img src="images/certificate.png" border="0" alt="Digital Signature"/>
+																				</a>
+																				</td>
+																				<td align="left">FAQs-IOCL-Online-EMD</td>																		
+																				<td align="right">559.48</td>																		
+																			
+	</tr>
+
+	<tr class="even" id="informal_22">
+		
+																				<td align="left">5</td>   
+																				<td align="left">Additional Documents</td>	     																													
+																				<td align="left">
+																				
+																				
+																				<span>
+																					
+																					<span>
+																						Bidders_help_Document_for_Preferencial_Bidding_20230207_v1.pdf</span>
+																				</span>
+																				<a id="DirectLink_9_3" onClick="return openPopUp(this, 'location=no, scrollbars=yes, toolbar=no, width=400, height=250, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes')" class="blue_link" href="/nicgep/app?component=%24DirectLink_9&amp;page=FrontEndTenderDetails&amp;service=direct&amp;session=T&amp;sp=ZH4sIAAAAAAAAAI1RP2hTQRi%2Flz%2FQmrbU1CEiSkUouLzEdFAIiNYsqc8iJCgi%2BLjmfXm59L1717vvxcRB2kXRDjroHsHNbg6OipOD4CSCiyKuzg4u3r0maVocvPG77%2Ffn%2B%2F12f5GskqTiR12bs6btg7ARuAfSBo4M%2B%2FZ1CSvMaySzm5HcqCGE1agZh%2FpfOUzhidtfXz1aKr9JkZxDch6opmQCWcSR5J0O7dJiQLlfrKNk3K84ZMYbotdoCJvkPrEmZnV2Dw7iqlG8HoDGzY13kGKsDiMbfTFiSzEPyfwEhxMlyhlBsT3cmVXM59rQFZBY88ww7ZC04hGShQlkjSP4IDX4SCyCiHrgrfSH2zOjSZUijAVjZEHRTCo9gaSis9PBKbcNgXBHubmtSLo62BZI4E1GA3fR7Gk7brlUXi6VS%2Bfd7jmhi5k3nLaxYu8FsfX6%2FerZjT%2BZFLGqJNulQQy9A2trcbgO8sHu85O5Z993UoT0xKXH15bNQzJ1AyRrMdD5HLusBU1NNFgc96kV5%2Fapkth2fj79%2BOTMN623OtIz908T8wqFO0gu%2FueN%2FzjRFl4raXI2oct06trB0X0Hw%2FjzPwYvf28%2FvKBN1A6byE7grdNfND6f4NVmYDdYCAppKJYKnz9Y9bewR8Apj1RvdKopzDaFtTvb1tVbeDxtMrs7pekGp14Mtnqk8%2BndX4%2FrL4ooAwAA">
+																					<img src="images/certificate.png" border="0" alt="Digital Signature"/>
+																				</a>
+																				</td>
+																				<td align="left">Bidders_help_Document_for_Preferencial_ Bidding_20230207_v1</td>																		
+																				<td align="right">841.65</td>																		
+																			
+	</tr>
+
+	<tr class="odd" id="informal_23">
+		
+																				<td align="left">6</td>   
+																				<td align="left">Additional Documents</td>	     																													
+																				<td align="left">
+																				
+																				
+																				<span>
+																					
+																					<span>
+																						Special_Instructions_to_the_Bidders_Version_5_dated_30_June_2025.pdf</span>
+																				</span>
+																				<a id="DirectLink_9_4" onClick="return openPopUp(this, 'location=no, scrollbars=yes, toolbar=no, width=400, height=250, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes')" class="blue_link" href="/nicgep/app?component=%24DirectLink_9&amp;page=FrontEndTenderDetails&amp;service=direct&amp;session=T&amp;sp=ZH4sIAAAAAAAAAF1RTWgTQRSe%2FFTapi1t9BDxh0ih4GVTIgUhFLTmkrgUIUERkWWaed1Mujsz3XkbEw%2FSXhTpQQ96jyhe7M2DR8WTB69S8KKIV88evDi73aRp5%2FjN%2B9738%2Fb%2FkAkdkIoru5bgLcsFZSEIBoEFAjn2rVsBrHHWjLE7MtiqIfhV2Qp9869trvHcve%2Fvni6VP6RJziY5BroVcIVcCiR5u0O7tORR4ZYaGHDhVmwywxL2OvVhmzwiqTGswR%2FCcV5VhhseGN7caAYphvoks9lXw21pzpDMj%2B2wZaycVRTbycys5q4whm5AgDUWgRmbZLSQSE6PMWsCwYXAkKdD5UnKgK31k%2BmZIVKlCCPBELlXipBKTyFZbChoceoVa0JjELaiXnQRZRHbUDS9mlK1MgeYj7hWJGkdBt55%2F7l%2BeetfNk1SVTLRpV4IvWNj66G%2FAcHj%2FZcXci9%2B7qUJ6alrb%2B9Pr6rXB0gmb0PANzmYHs5cZ4xHssbE6G5Gce5oVVzP3u%2FnX58t%2FjB69aFelHOKRK9QcJBUkyzOeBYHpWOyOEkWxwhrgzsrDjMdMOfKslMPBTjl5fKKpdhmfLfZeGm20zA%2BFo58JGXnfw3e%2FN19ctVYqZ20cmqMn7p0YPj5mK%2B3PavJfdBIfbVU%2BPYl1fgIhwsEFVL3hoGj81jRedqd3dTNu3g2EzX3YNKsG1x8NdjpTa2e%2F%2FQf6UBa%2BxYDAAA%3D">
+																					<img src="images/certificate.png" border="0" alt="Digital Signature"/>
+																				</a>
+																				</td>
+																				<td align="left">Special Instructions to the Bidders</td>																		
+																				<td align="right">2862.52</td>																		
+																			
+	</tr>
+
+	<tr class="even" id="informal_24">
+		
+																				<td align="left">7</td>   
+																				<td align="left">BOQ</td>	     																													
+																				<td align="left">
+																				
+																				
+																				<span>
+																					
+																					<span>
+																						BOQ_201364.xls</span>
+																				</span>
+																				<a id="DirectLink_9_5" onClick="return openPopUp(this, 'location=no, scrollbars=yes, toolbar=no, width=400, height=250, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes')" class="blue_link" href="/nicgep/app?component=%24DirectLink_9&amp;page=FrontEndTenderDetails&amp;service=direct&amp;session=T&amp;sp=ZH4sIAAAAAAAAAF2QP2gTURzHf5ekWE0bYlwioiBiweVFq5RCFolBSD2qkqCIg7zmfr2%2B9O7d63u%2FixcHsYiKdNBB9w5udnNwFJwcXEVwUcTBxdnBxXeXpE37xu%2F7fT6%2FPzt%2FYMpoqPtRn0nRZT4qRig91AwlCRqwGxobwutk2e1Ir7cIw2bUjUP7b1xh6MTdb2%2Bfz82%2Fz0HRhaKHpquFIhFJgorb431eC7j0a23SQvp1F2a8Eb3MQ9yAh%2BBMZG3xAPdzzSheCdBypd0a4hSbg2RnoMa2nPAIyhMON8o6FxSntVHNrBG%2BtANdQU0tLw3zLuSNjAiOTZAtSeijtvCRWAUR99BrDEbVM%2BOkyQl3G8Ykglqa1BNFkG9cv6nsgcvpH0uVbLjQo3cfl86t%2FyvkwGnCVJ8HMSb7ypbjcAX1053XJ4uvfmzlABJ1WZYhfQTTt1CLVYHesINtUNojs223fr38%2FOLMd6tfGuvTsQ9ngmr1MUHJgvfmz1%2B4uHCJJYHJDjqbfRd6bWs8umccXaHyc%2FvN381ni1baOig9NME7p79avpLxZiNgHRGiIR6queqXT077Aw4FksvIJOPR07ux9G5rvU3n2h06nk9Xvj9tddunfl9VyVn5BP4DpT5XvK8CAAA%3D">
+																					<img src="images/certificate.png" border="0" alt="Digital Signature"/>
+																				</a>
+																				</td>
+																				<td align="left">BOQ</td>																		
+																				<td align="right">240.50</td>																		
+																			
+	</tr>
+
+	<tr class="odd" id="informal_25">
+		
+																				<td align="left">8</td>   
+																				<td align="left">Tender Documents</td>	     																													
+																				<td align="left">
+																				
+																				
+																				<span>
+																					
+																					<span>
+																						RFQ_part2.pdf</span>
+																				</span>
+																				<a id="DirectLink_9_6" onClick="return openPopUp(this, 'location=no, scrollbars=yes, toolbar=no, width=400, height=250, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes')" class="blue_link" href="/nicgep/app?component=%24DirectLink_9&amp;page=FrontEndTenderDetails&amp;service=direct&amp;session=T&amp;sp=ZH4sIAAAAAAAAAF2RP4gTQRTGZ5McRHM5z9hERIkIJzYTuEpIc5xByLkcaoJ%2FsJC57Mve5HZn52bexo2FeI0iV5yFYnuFnddZWApWFrZBsFHEVrCzsHFmk83lbspv3vd7733v4DeZ04o0%2FGhABe9SHyRFEB4oCgI5DulNBavc66Ta3UhttRDCZtSNQ%2FOvXa7x3INv714sLX%2FIkZJLSh7oruISeSSQVNw%2BG7B6wIRfb6Piwm%2B4ZN6buNdZCNvkCXFmtDZ%2FDEd9zSjeCMD4FqY1yDDWx52docxoOe4hWZxhuFHauSAZbk5qypr7wgx0DRS2PCvmXZLXIkJyZsbZEgg%2BKGM%2BGcsgYh54q8NJ9XymNBnCtGGMPKhbpZFII47DrGVTamnSXrSF1PLpeLun7z%2BtXdn6V8gRp0nmBiyIITlSth6HG6CeHbw%2BX3r1YzdHSCJXRqMaMQ9J8Q4o3uNglx7fqTY9kOm2cIhJc9j99fLL3qXvptda1ssudMLCSLW6h6R8%2B%2Fqth5IpXKbS66VJl9PfQr9tgKcPgZN4Kj%2F33%2F7deX7VMFvHmcUZv3Pxq%2FFXUr%2FeDmiHh6CRhXKpOvrstD%2FCGCCYiHSSTW4DpTbQzf6Oc%2BM%2Bns3b9R8VDW7%2Fwp8395LLvVMr%2FwHZu2MeyAIAAA%3D%3D">
+																					<img src="images/certificate.png" border="0" alt="Digital Signature"/>
+																				</a>
+																				</td>
+																				<td align="left">tender documents</td>																		
+																				<td align="right">22356.50</td>																		
+																			
+	</tr>
+
+	<tr class="even" id="informal_26">
+		
+																				<td align="left">9</td>   
+																				<td align="left">Tender Documents</td>	     																													
+																				<td align="left">
+																				
+																				
+																				<span>
+																					
+																					<span>
+																						RFQ_part1.pdf</span>
+																				</span>
+																				<a id="DirectLink_9_7" onClick="return openPopUp(this, 'location=no, scrollbars=yes, toolbar=no, width=400, height=250, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes')" class="blue_link" href="/nicgep/app?component=%24DirectLink_9&amp;page=FrontEndTenderDetails&amp;service=direct&amp;session=T&amp;sp=ZH4sIAAAAAAAAAF1RP2hTQRi%2Fl6TQmqbUuESspSIUXC7YScgiNQipj2JNUMRBrnlfXy9979717nvxxUHMokgHHXTv4GY3Bx0ERRAcXEXooEUcdXZw8e4lL0174%2B9%2Bf77v9%2B39IRNakZofdangbeqDpAjCA0VBIMceva5gmXutFLsVqa0GQliP2nFo%2FrXLNZ65s%2F%2FqyeLSmxwpuqTogW4rLpFHAknZ7bAuqwZM%2BNUmKi78mkumvaF6lYWwTR4QZwxr8vtwVFeP4vUAjG5mxEGGsT6ubPVk5pbjHpLZMQ83SpMLkuHmkFPS3BdmoCugsOFZMO%2BSvBYRklNjyoZA8EEZ8YlYBhHzwFvuDdnTGVJnCKPAGHlQtUgtkQYclLmQTamlaXvWEqn1p4PtHr7%2BuHJh618hR5w6meiyIIbkCG01DtdBPdp7cbb4%2FGAnR0giL%2B%2FPfZp%2Fu%2FYbyeRNUHyDg116cKeF0YFM2syhTdrDzq9nX56e%2F2GyVrIsu9AUsa9S6SMp3bi6dlcyhRep9DbSpkvpb6HTNIYnDw2H9ZR%2F7r782398yXg2jntOjemdc9%2BMvpzq9XZAWzwEjSyUi5Wvn53mexgYCCYinWST20KpLXSz03eu3cbTebv%2BvUljtzv%2Ffe4gqbyDD%2F8B89h%2BZsgCAAA%3D">
+																					<img src="images/certificate.png" border="0" alt="Digital Signature"/>
+																				</a>
+																				</td>
+																				<td align="left">tender documents</td>																		
+																				<td align="right">26739.08</td>																		
+																			
+	</tr>
+
+
+
+																		
+</table>
+
+
+																	</span>
+																	
+																
+															</td>
+														</tr>
+													</span>	
+												</table>
+											</td>
+											</tr>
+												</table>
+										</td>
+									</tr>									
+									 
+									 
+									 <!--
+									 <tr>
+										<td class="td_space">
+											&nbsp;
+										</td>
+									</tr>	
+									
+									<span jwcid="@If" condition="ognl:tenderCumAuction">
+									
+									<tr> 
+										<td height="25" class="pageheader"><table width="200" height="25" border="0" cellpadding="0" cellspacing="0">
+											<tr> 
+											  <td width="10"align="center"><img src="images/leftcurve.png" width="10" height="25"></td>
+											  <td align="center" background="images/midbg.png" class="textbold1">Auction Properties</td>
+											  <td width="10"><img src="images/rightcurve.png" width="10" height="25"></td>
+											</tr></table>
+										</td>
+									 </tr>
+									 <tr>
+									<td height="20">
+										<table width="100%" border="0" cellspacing="1" cellpadding="0" class="tablebg">
+												<tr> 
+												<td width="30%" class="td_caption"><b>Auction Type</b></td>
+												<td width="70%" class="td_field"><span jwcid="@Insert" value="ognl:auctionType"/></td>
+												</tr>
+												<tr> 
+												<td class="td_caption"><b>Elapse Time Interval In Mins</b></td>
+												<td class="td_field" ><span jwcid="@Insert" value="ognl:elapseTimeInterval"/></td>
+												</tr>	
+												<tr> 
+												<td width="30%" class="td_caption"><b>Bid Auto Extn In Mins</b></td>
+												<td width="70%" class="td_field"><span jwcid="@Insert" value="ognl:bidAutoExtn"/></td>
+												</tr>
+												<tr> 
+												<td class="td_caption"><b>Max Seal Percentage</b></td>
+												<td class="td_field" ><span jwcid="@Insert" value="ognl:maxSealPercentage"/></td>
+												</tr>																								
+										</table>
+										</td>
+									</tr>
+									<tr>
+										<td class="td_space">&nbsp;</td>
+									</tr>
+									
+									</span>	 -->	
+									<tr>
+										<td class="td_space">&nbsp;</td>
+									</tr>	
+									
+									 
+									 
+											
+																
+									 <tr> 
+										<td height="25" class="pageheader"><table width="200" height="25" border="0" cellpadding="0" cellspacing="0">
+											<tr> 
+											  <td width="10"align="center"><img src="images/leftcurve.png" width="10" height="25"></td>
+											  <td align="center" background="images/midbg.png" class="textbold1">Tender Inviting Authority</td>
+											  <td width="10"><img src="images/rightcurve.png" width="10" height="25"></td>
+											</tr></table>
+										</td>
+									 </tr>
+									 <tr>
+									<td height="20">
+										<table width="100%" border="0" cellspacing="1" cellpadding="0" class="tablebg">
+												<tr> 
+												<td width="30%" class="td_caption"><b>Name</b></td>
+												<td width="70%" class="td_field">DGM(MT)</td>
+												</tr>
+												<tr> 
+												<td class="td_caption"><b>Address</b></td>
+												<td class="td_field" >IOCL Gujarat Refinery</td>
+												</tr>																									
+										</table>
+										</td>
+									</tr>
+									<tr>
+										<td class="td_space">&nbsp;</td>
+									</tr>
+									
+											<!-- 	<tr>
+													<td colspan="2" class="list_header">Tender Creator Details</td>
+												</tr> -->
+											<!-- 	<tr> 
+										<td height="25" class="pageheader"><table width="200" height="25" border="0" cellpadding="0" cellspacing="0">
+											<tr> 
+											  <td width="10"align="center"><img src="images/leftcurve.png" width="10" height="25"></td>
+											  <td align="center" background="images/midbg.png" class="textbold1">Tender Creator Details</td>
+											  <td width="10"><img src="images/rightcurve.png" width="10" height="25"></td>
+											</tr></table>
+										</td>
+									 </tr> -->
+												<!-- <tr >
+													<td height="20">
+														<table width="100%" border="0" cellspacing="1" cellpadding="0" class="tablebg">
+															
+															<tr>
+																<td width="30%" class="td_caption"><b>Created By</b></td>
+																<td width="70%" class="td_field"><span jwcid="@Insert" value="ognl:tenderDetailsData.tenderWorkItemsList.firstName" /> </td>
+															</tr>
+															<tr>	
+																<td width="30%" class="td_caption"><b>Designation</b></td>
+																<td width="70%" class="td_field"><span jwcid="@Insert" value="ognl:tenderDetailsData.tenderWorkItemsList.designation" /></td>
+															</tr>
+															<tr>
+																<td width="30%" class="td_caption"><b>Created Date</b></td>
+																<td width="70%" class="td_field"><span jwcid="@Insert" value="ognl:tenderDetailsData.tenderWorkItemsList.createdDate" /></td> 
+															</tr>
+															
+														</table>
+												
+										</td>
+									</tr>	
+									<tr>
+										<td class="td_space">&nbsp;</td>
+									</tr>	 -->
+								<tr>
+										<td>
+											<div class="black" align="right">
+												<a id="DirectLink_11" title="Back" class="customButton_link" value="Back" href="/nicgep/app?component=%24DirectLink_11&amp;page=FrontEndTenderDetails&amp;service=direct&amp;session=T">Back</a>
+											</div>
+										</td>
+									</tr> 
+									<tr>
+										<td>&nbsp;</td>
+									</tr>																						
+								</table>
+							</tbody>
+						</form>	
+					</table>
+				</td>
+			</tr>	
+		</table>
+	<!-- Page Content -->
+
+							<!-- Page content ends here -->	
+							</td>				
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" height="40">
+					<table width="100%" cellspacing="0" cellpadding="0">
+	 <tr style="background-color:#E8E8E8;"> 
+	 <td height="25" class="text2" align="center"><b>Visitor No:16223614</b></td>
+		
+	  </tr>
+	 <tr style="background-color:#E8E8E8;"> 
+	
+		<td height="25" class="text2" align="center">Contents Owned and Maintained by IndianOil Corporation Limited		  
+		 </td>
+	  </tr>
+	  <tr valign="top" class="secondaryBg"> 
+		<td>
+			<table width="100%" height="22" border="0" cellpadding="1" cellspacing="1">
+
+				
+				<tr class="footer">
+					<td width="40%" valign="top" align="left">Designed, Developed and Hosted by<br/>  <a href="http://www.nic.in" target="_blank" rel="noopener noreferrer" class="footerlink">National Informatics Centre</a></td>
+					<td width="40%" align="left">
+						 Version : 1.09.24 08-Sep-2026<br />
+						(c) 2017 Tenders NIC, All rights reserved.<br/>Site best viewed with a screen resolution 1920 x 1080.</td>					
+					<td width="20%" valign="top" align="right"><a id="PageLink_22" class="footerlink" href="/nicgep/app?page=Disclaimer&amp;service=page">Portal policies</a></td>
+				</tr>
+			</table>
+		</td>
+	  </tr>
+</table>
+				</td>
+			</tr>
+			<tr>
+			    <td>
+			        <form method="post" action="/nicgep/app" id="WebBorder_0">
+<div style="display:none;" id="WebBorder_0hidden"><input type="hidden" name="formids" value="domainUrl" />
+<input type="hidden" name="seedids" value="ZH4sIAAAAAAAAAHVUS27bMBD1Ir0Jl1qI1H9Zw01hIC2KxmiXgiKNE8ISKZBMBPdMvVLRE/QOHUqmPSrQjfQeZ/TmzZDUzz+bdz82m7vN3a/IgnmTLbA4Gptn/2r1MGoFys1YuUYqMIgtWCu18mjEx3d42mrTYYhHe4UqjhVx9PgCfY/R9+rMsmiru/OSetDjtlGLUC/ViWN0f2RcVNG9NkzkyOqYCR596C2wNLto1pzlAQqEL3qAB/weZb6gXQ/rnJJiqfdZu6UpNYNvEib0aUCh4dlVfol81RNmSQcGkWVJGUl11GZoeiaKaDLNOELnYajAROILPMDRfQL1ih9/BOxLthdbhGFDSbSTBlp3Ce6kHfvmfJh97ABn21tcdvoE6hFaA27eh/YE7tA89cH3sjIbjMM08pTgjOCc4OKGi5hgTrAgOCGY6BdEvyD6BdUvCa5uuCR1S1K3JHVLnz8a+SZ7eMapYOe+67DQrTuv4uuRqytOsLhhHpOyPOaUCEoSSlJKMkpySnzXwaRbtlK3rwNemeU0hUTuxTvd7vSkdNPRSD4fhnAyauqPF5SU82RgK7vDdSye/aditdalrQq+jnlz0+9rdJWarFO9iUmb097BEAqHAYR1GwJ2vVt4xVl5JUlMSYKElFklppRklJDDxdP4n0Hy5f7fa+38z+Yv4E3kdOoEAAA=" />
+<input type="hidden" name="component" value="$WebBorder.WebBorder" />
+<input type="hidden" name="page" value="FrontEndTenderDetails" />
+<input type="hidden" name="service" value="direct" />
+<input type="hidden" name="session" value="T" />
+<input type="hidden" name="submitmode" value="" />
+<input type="hidden" name="submitname" value="" />
+<input type="hidden" name="domainUrl" id="domainUrl" value="Shttps://iocletenders.nic.in/nicgep/app" />
+</div>
+				       
+				   </form>
+			    </td>
+			</tr>
+		</table>
+	</div>
+<script type="text/javascript"><!--
+tapestry.addOnLoad(function(e) {
+dojo.require("tapestry.form");tapestry.form.registerForm("DisplayTenderDetails");
+
+tapestry.form.registerForm("WebBorder_0");});
+// --></script></body>
+</html>

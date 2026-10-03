@@ -1,0 +1,123 @@
+NTPC Limited eProcurement Portal I -- -����·�·
+·a■---
+l'I I I Tender Details ·-
+1enut:1::-.. 
+I', Maharntna Compa,ny Date : 05-Mar-2026 03:23 PM 
+§> Print 
+Basic Details 
+Organisation Chain NTPC Limited I I Corporate Centre I I ussq ICPG-1 
+Tender Reference Number NTPC/USSC-CPGl/9900320940 
+TenderID 2026_NTPC_105741_1 Withdrawal Allowed Yes 
+Tender Type Open Tender Form of contract Works 
+Tender Category Works No. of Covers 3 
+General Technical Yes [Compliance Required] ItemWise Technical Evaluation No Evaluation Allowed Allowed 
+Payment Mode Online Is Multi Currency Allowed For BOQ No 
+Is Multi Currency Allowed No Allow Two Stage Bidding No For Fee 
+PaY.ment Instruments Cover Details, No. Of Covers - 3 
+Online 
+1�-No IBankName 
+I
+Cover No Cover Document Type Description 
+Bankers Scanned EMO SBI Bank 1 Fee .pdf Details 
+2 PreQual/Technical .pdf Technical / QR 
+Details 
+.pdf Attachment-3 
+.pdf Power of 
+Attorney 
+Declaration 
+regarding 
+.pdf insolvency, 
+bankruptcy and 
+Liquidation 
+(Attachment-3L) 
+3 Finance .xis Price Bid / BOQ 
+Tender Fee Details,_[Total Fee in , * - 0.00] EMD Fee Details 
+Tender Fee in , 0.00 EMD Amount in , 2,00,000 EMD Exemption No 
+Fee Payable To Nil Fee Payable At !Nil Allowed 
+Tender Fee Exemption No EMDFeeType fixed EMD Percentage NA 
+Allowed EMD Payable To Nil EMD Payable At Nil 
+BG Required Yes 
+Minimum Direct EMD 0.00 
+Payment in, 
+Click to view modification history 
+Work Litem(s). 
+Title 
+Work Description 
+Supply, Erection and commissioning of Mixed Resin Storage Vessel (MRSV) at NTPC Simhadri 
+Supply, Erection and commissioning of Mixed Resin Storage Vessel (MRSV) at NTPC Simhadri  
+Pre Qualification Details As per tender documents 
+Independent External NA 
+Monitor/ Remarks 
+Show Tender Value in No 
+Public Domain 
+Tender Value in , 0.00 Product Category Miscellaneous Sub category NA 
+Works 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work(Days) 365 
+Location Western Region Head Pincode 492018 Pre Bid Meeting Place Online at TEAMS 
+Quartersll Plot No. -87, Portal 
+Secto 
+Pre Bid Meeting Address Online at TEAMS Portal Pre Bid Meeting Date 10-Mar-2026 Bid Opening Place Western Region 
+04:30 PM Head Quartersll 
+Should Allow NDA Tender No Allow Preferential Bidder No 
+Critical Dates 
+Publish Date 05-Mar-2026 04:30 PM Bid Opening Date 30-Mar-2026 04:30 PM 
+Document Download / Sale Start Date 05-Mar-2026 04:30 PM Document Download / Sale End Date 26-Mar-2026 04:30 PM 
+Clarification Start Date 05-Mar-2026 04:30 PM Clarification End Date 19-Mar-2026 06:00 PM 
+Bid Submission Start Date 10-Mar-2026 06:00 PM Bid Submission End Date 26-Mar-2026 04:30 PM 
+Tender Documents 
+NIT Document Document Size S.No Document Name Description (in KB) 
+1 ITendernotice 1.odf NIT 178.81 
+Work Item Document Size Documents S.No Document Type Document Name Description (in KB) 
+1 !Tender Documents rrenderDocument. rar irender Document 15718.03 
+2 BOO BOO 108974.xls BOO 316.00 
+View GTE Details - SERVICE GTE (OT- SINGLE STAGE-MLC-LAND BORDER CLAUSE). 
+S.No Particulars Expected Value Mandatory 
+Confirm that you are a LOCAL SUPPLIER, and the LOCAL CONirENT included in the PACKAGE 
+1.0 FOR COMPLETE SCOPE OF WORK meets the MINIMUM LOCAL CONTENT requirements of the Yes Yes 
+irender. - r MLC Declaration for Servicesl 
+2.0 Do YOU acceot NTPC Safetv Rules - r SAFETY RULES COMPLIANCEl Yes Yes 
+3.0 Do YOU acceot the Fraud Prevention Policv of NTPC - r FRAUD PREVENTIONl :i'es Yes 
+4.0 Do you accept Withholding and Banning of Business Dealing Policy of NTPC -
+[ BANNING :i,'es Yes POLICY DECLARATIONl 
+Do you certify full compliance on clause as per tender documents on Restrictions on 
+5.0 procurement from a Bidder of a country which shares a land border with India - [ LAND :i,'es Yes 
+BORDER CLAUSE COMPLIANCE] 
+6.0 Do you certify full compliance on Qualifying Requirements - [ QR COMPLIANCE] :Yes Yes 
+7.0 Do you certify full compliance to all provisions of Bid documents - [ NO DEVIATION :Yes Yes CERTIFICATIONl 
+Auto Extension Corrigendum ProP-erties for Tender 
+Iteration No. of bids required for bid opening a tender Tender gets extended to No. of days 
+1. 1 4 
+2. 1 4 
+3. 1 4 
+Bid OP-eners List 
+S.No Bid Opener Login Id Bid Opener Name Certificate Name 
+Harsh Mamodia Harsh Mamodia 
+Mkas Kumar Bhoiwani Vikas Kumar Bhoiwani 
+�NAND SHANKER ANAND SHANKER 
+1. harshmamodia@ntoc.co.in
+2. vkbhoiwani@ntoc.co.in
+3. .inandshanker@ntpc.co.in
+4. k:o
+singh@ntpc.co.in thandra Prakash Singh �handra Prakash Singh
+Tender ProP-erties 
+Auto Tendering Process No Show Technical bid status No 
+allowed 
+Show Finance bid status Yes Stage to disclose Bid Details in Public !Technical Bid Opening
+Domain 
+BoQ Comparative Chart Normal BoQ Compartive chart decimal places 2
+model 
+BoQ Comparative Chart L Form Based BoQ No 
+RankTvpe 
+TIA Undertaking 
+S.No Undertakinq to Order irender complyinq with Order Reason for non compliance of Order 
+1 PPP-Mil Order 2017 
+2 MSEs Order 2012 
+Tender Inviting Authoritv. 
+Name IDGM 
+IAaree 
+�aree 
+Address I western Region Head Quartersll Plot No. -87, Sector-24, Atal RAIPUR 492018 
+Tender Creator Details 
+Created By ANAND SHANKER  
+Designation DGM 
+Created Date 05-Mar-2026 02:54 PM

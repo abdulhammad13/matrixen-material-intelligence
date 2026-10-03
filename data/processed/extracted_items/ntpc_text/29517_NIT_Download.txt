@@ -1,0 +1,111 @@
+-- - NTPC Limited eProcurement Portal ··---'".;;;:.:;:.· 
+I• I r '-' Tender Details 
+"!II - 11!1' - - I e I IUlll:I �
+It\ Maham tn;, Com p;iny Date: 25-Feb-2026 05:55 PM 
+� Print 
+Basic Details 
+Organisation Chain NTPC Limited 11 Corporate Centre I I ussq I CPG-1 
+Tender Reference NTPC/USSC-CPGl/9900320681 Number 
+Tender ID Withdrawal Allowed Yes 
+Tender Type Form of contract Works 
+Tender Category No. of Covers 3 
+General Technical ItemWise Technical Evaluation No Evaluation Allowed Allowed 
+Payment Mode Is Multi Currency Allowed For No BOQ 
+Is Multi Currency 
+2026_NTPC_105509_1 
+Open Tender 
+Works 
+Yes [Compliance Required] 
+Online
+No Allow Two Stage Bidding No Allowed For Fee 
+Pav.ment Instruments Cover Details, No. Of Covers - 3 
+Online ls.No IBank Name Cover No Cover Document Type Description 
+Bankers 
+11 ISBI Bank Scanned EMD 1 Fee .pdf Details 
+2 PreQual/Technical .pdf Technical / QR 
+Details 
+.pdf Attachment-3 
+.pdf Power of 
+Attorney 
+Declaration 
+regarding 
+insolvency, 
+.pdf bankruptcy 
+and 
+Liquidation 
+(Attachment-
+3L) 
+3 Finance .xis Price Bid / 
+BOQ 
+Tender Fee Details,_[Total Fee in if * - 0.00] EMO Fee Details 
+Tender Fee in if 0.00 EMD Amount in if 10,00,000 EMD Exemption No 
+Fee Payable To Nil Fee Payable At jNil Allowed 
+Tender Fee No EMD Fee Type fixed EMD Percentage NA 
+Exemption Allowed EMD Payable To Nil EMD Payable At Nil 
+BG Required Yes 
+Minimum Direct EMD 0.00 
+Payment in if 
+Click to view modification history 
+Work [Item(�). 
+Title Balance Installation and Supply of Fire Detection and Protection System(FDPS) Package for Darlipali STPP-I 
+Work Description Balance Installation and Supply of Fire Detection and Protection System(FDPS) Package for Darlipali STPP-I 
+Pre Qualification Details As per tender documents 
+Independent External NA 
+Monitor /Remarks 
+Show Tender Value in No 
+Public Domain 
+Tender Value in if Product Category Miscellaneous Sub category NA 
+Works 
+Contract Type Bid Validity(Days) 120 Period Of Work(Days) 365 
+Location Pincode 492018 Pre Bid Meeting Place Online at 
+TEAMS 
+Pre Bid Meeting Pre Bid Meeting Date 06-Mar-2026 Bid Opening Place Western Region 
+Address 04:30 PM Head QuartersII 
+Should Allow NOA 
+0.00 
+Tender 
+Western Region Head 
+QuartersII Plot No. -87, 
+Secto 
+Online at TEAMS 
+No Allow Preferential No 
+Tender Bidder 
+Critical Dates 
+Publish Date 25-Feb-2026 06:55 PM Bid Opening Date 20-Mar-2026 04:30 PM 
+Document Download / Sale Start 25-Feb-2026 06:55 PM Document Download / Sale End Date 18-Mar-2026 04:30 PM 
+Date 
+Clarification Start Date 25-Feb-2026 06:55 PM Clarification End Date 09-Mar-2026 11:00 AM
+Bid Submission Start Date 07-Mar-2026 09:20 AM Bid Submission End Date 18-Mar-2026 04:30 PM
+Tender Documents 
+NIT Document Size Document S.No Document Name Description (in KB) 
+1 Tendernotice 1.odf NIT 176.14 
+Work Item Document Size Documents S.No Document Type Document Name Description (in KB) 
+1 BOO BOO 108742.xls BOO 315.00 
+2 rrender Documents Commercia Tender Document. rar �ommercia Portion of Tender 13257.52 Document
+Section- Section-VI
+3 �dditional Documents VI_ Technical_Specification_part- rrechnical_Specification Part- 37498.51 
+2 SOW TC.odf 12 SOW TC
+Section- Section-
+4 �dditional Documents VI_ Technical_Specification_part-1.rar f,/1_ Technical_Specification_Part 12056.51 
+1 
+View GTE Details - SERVICE GTE (OT- SINGLE STAGE-MLC-LAND BORDER CLAUSE). 
+S.No Particulars Expected Value Mandatory 
+Confirm that you are a LOCAL SUPPLIER, and the LOCAL CONTENT included in the 
+1.0 PACKAGE FOR COMPLETE SCOPE OF WORK meets the MINIMUM LOCAL CONTENT !Yes Yes 
+reauirements of the Tender. - r MLC Declaration for Servicesl 
+2.0 Do YOU acceot NTPC Safetv Rules - r SAFETY RULES COMPLIANCEl Yes Yes 
+3.0 Do YOU acceot the Fraud Prevention Policv of NTPC - r FRAUD PREVENTIONl Yes Yes 
+4.0 Do you accept Withholding and Banning of Business Dealing Policy of NTPC - [ !Yes !YesBANNING POLICY DECLARATION] 
+Do you certify full compliance on clause as per tender documents on Restrictions on 
+5.0 procurement from a Bidder of a country which shares a land border with India - [ !Yes Yes 
+LAND BORDER CLAUSE COMPLIANCEl 
+6.0 Do vou certifv full comoliance on Oualifvina Reauirements - r OR COMPLIANCEl Yes Yes 
+7.0 Do you certify full compliance to all provisions of Bid documents - [ NO DEVIATION !Yes !YesCERTIFICATION] 
+Auto Extension Corrigendum ProP-erties for Tender 
+Iteration No. of bids required for bid opening a tender Tender gets extended to No. of days 
+1. 1 4 
+2. 1 4 
+3. 1 4 
+Bid OReners List 
+S.No I Bid Opener Login Id I Bid Opener Name I Certificate Name
+1. lharshmamodia@ntpc.co.in !Harsh Mamodia !Harsh Mamodia

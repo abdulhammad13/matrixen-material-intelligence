@@ -1,0 +1,116 @@
+NTPC Limited eProcurement Portal
+Tender Details
+Date : 12-Jun-2026 10:23 AM
+ Print
+Basic Details
+Organisation Chain NTPC Limited||Corporate Centre||Corporate Materials
+Tender Reference
+Number NTPC/EOC/9900327196
+Tender ID 2026_NTPC_109129_1 Withdrawal Allowed Yes
+Tender Type Single Form of contract Service
+Tender Category Services No. of Covers 1
+General Technical
+Evaluation Allowed Yes [Compliance Required] ItemWise Technical Evaluation
+Allowed No
+Payment Mode Not Applicable Is Multi Currency Allowed For
+BOQ No
+Is Multi Currency
+Allowed For Fee No Allow Two Stage Bidding No
+ 
+Cover Details, No. Of Covers - 1
+Cover No Cover Document Type Description
+1 Fee/PreQual/Technical/Finance .pdf Technical Details
+.xls Price Bid
+ 
+Tender Fee Details, [Total Fee in ₹ * - 0.00]
+Tender Fee in ₹ 0.00
+Fee Payable To Nil Fee Payable At Nil
+Tender Fee
+Exemption Allowed
+No
+EMD Fee Details
+EMD Amount in ₹ 0.00 EMD Exemption
+Allowed
+No
+EMD Fee Type fixed EMD Percentage NA
+EMD Payable To Nil EMD Payable At Nil
+BG Required No
+Minimum Direct
+EMD Payment in ₹
+0.00
+ 
+ 
+Work /Item(s)
+Title Procurement of TurnitiniThenticate (with AI Detection Capabilities)
+Work Description Procurement of Turnitin iThenticate (with AI Detection Capabilities)Subscription for one year
+Pre Qualification
+Details
+NA 
+Independent External
+Monitor/Remarks
+NA 
+Tender Value in ₹ NA Product Category Serv -
+Others
+Sub category NA 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work(Days) 365 
+Location EOC Noida Office EOC, SECTOR-
+24, NOIDA 201301
+Pincode 201301 Pre Bid Meeting Place NA 
+Pre Bid Meeting
+Address
+NA Pre Bid Meeting Date NA Bid Opening Place EOC Noida
+Office
+Should Allow NDA
+Tender
+No Allow Preferential
+Bidder
+No
+ 
+Critical Dates
+Publish Date 12-Jun-2026 10:00 AM Bid Opening Date 22-Jun-2026 03:00 PM
+Document Download / Sale Start
+Date
+12-Jun-2026 10:00 AM Document Download / Sale End
+Date
+19-Jun-2026 03:00 PM
+Clarification Start Date NA Clarification End Date NA 
+Bid Submission Start Date 12-Jun-2026 10:00 AM Bid Submission End Date 19-Jun-2026 03:00 PM
+ 
+ 
+Tender Documents
+6/12/26, 10:23 AM NTPC Limited eProcurement Portal
+https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndTenderDetails&service=direct&session=T&sp=SJo9d0QXz7rv… 1/2
+NIT
+Document S.No Document Name Description Document Size
+(in KB)
+1 Tendernotice_1.pdf NIT 313.77
+ 
+Work Item
+Documents S.No Document Type Document Name Description Document Size
+(in KB)
+1 BOQ BOQ_112362.xls BOQ 376.00
+2 Tender Documents Tender-Docs-Turnitin.rar Tender Document 11565.45
+ 
+ 
+View GTE Details - PURCHASE GTE (COMMON-LAND BORDER CLAUSE)
+S.No Particulars Description Expected
+Value Mandatory
+1.0 Do you accept the Fraud Prevention Policy of NTPC FRAUD PREVENTION Yes Yes
+2.0 Do you accept Withholding and Banning of Business
+Dealing Policy of NTPC BANNING POLICY DECLARATION Yes Yes
+3.0
+Do you certify full compliance on clause as per
+tender documents on Restrictions on procurement
+from a Bidder of a country which shares a land
+border with India
+LAND BORDER CLAUSE COMPLIANCE Yes Yes
+4.0 Do you certify full compliance to all provisions of Bid
+documents NO DEVIATION CERTIFICATION Yes Yes
+ 
+ 
+Tender Inviting Authority
+Name Sr Manager(CM)
+Address EOC Noida Office EOC, SECTOR-24, NOIDA 201301
+ 
+6/12/26, 10:23 AM NTPC Limited eProcurement Portal
+https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndTenderDetails&service=direct&session=T&sp=SJo9d0QXz7rv… 2/2

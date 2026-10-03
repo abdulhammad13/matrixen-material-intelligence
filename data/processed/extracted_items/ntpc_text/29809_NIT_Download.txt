@@ -1,0 +1,208 @@
+NTPC LTD CPG-1/Raipur 
+VENDOR DEVELOPMENT CELL 
+Subject: Qualifying Requirement (QR) for Vendor Enlistment for supply of “Hydro ejector 
+  & its spares   for Various NTPC Stations Under 56 MEG-13 
+NTPC LTD 
+VENDOR ENLISTMENT FOR O&M WORKS PACKAGE ON PAN NTPC BASIS 
+56 MEG-13
+Vendor Enlistment for supply of “Hydro ejector 
+&i t s s p a r e s ”(CAT-1)
+ Responsibility Centre 
+TECHNICAL 
+Qualifying 
+Requirement 
+The applicant should be a manufacturer of ‘Water/Liquid’ type Jet 
+Ejector/Feeder Ejector/Jet Pump and should have supplied the 
+same in thermal power plant during the preceding 5 years from the 
+last date of submission of application for enlistment.
+Documents to be 
+submitted as 
+proof of meeting 
+the stipulated 
+Qualifying 
+Requirements 
+1. ‘Latest Annual Report/Udyam Registration//NSIC / SSI / 
+MSME registration certificate / BIS license / ISO certificate / 
+any other statutory document’ along with valid Factory 
+License from Directorate of Factories- will be considered as a 
+proof of manufacturer as per QR. 
+PO copies for Supply Orders and Invoice(s) / Completion 
+certificate from the concerned buyer/s in support of successful 
+execution of the supply.
+Other Documents 
+to be submitted: 
+In addition to the 
+documents 
+required in 
+support of 
+Qualifying 
+Requirements 
+       1 . Three POs of the highest executed values of supplies 
+during previous five years from the last date of submission of 
+application. Copy of Invoice(s) / Completion certificate from the 
+concerned buyer/s in support of successful execution of supply 
+against the POs to be submitted. 
+Audited balance sheet including Profit & Loss statement 
+for the previous three completed financial years reckoned 
+from the last date of submission of application. In case 
+the audited result for the preceding financial year is not 
+available, certification of financial statements from a 
+practicing-chartered accountant is to be uploaded. In 
+case, applicant is not able to submit the certificate from 
+practicing chartered accountant certifying its financial 
+parameters, the audited results of the three consecutive 
+financial years preceding the last financial years shall be 
+considered for evaluating the financial parameters. 
+Further, a certificate would be required from the 
+CEO/CFO stating that the financial results are under 
+audit as on the last date of submission of application and 
+certificate from the practicing chartered certifying the 
+financial parameters are not available 
+‘All other terms & conditions of enlistment are as pe r
+the STC available at VDC 
+            portal https://vdc.ntpc.co.in’ 
+Note-1 Supplies means: Supply of ‘Water/Liquid’ type ‘Jet Ejector/ 
+Feeder Ejector/Jet Pump’ and/or its spares during preceding 5 
+years from the last date of submission of application for 
+enlistment. 
+Maximum Three Credential Order(s) shall be considered fo r
+calculation of the Execution Capability (EC) as defined in STC.
+Note-2 The executed value means Basic value of quantity of supplies 
+executed/supplied against the reference PO (also applicable to 
+partly executed POs as on date of application). Where PO value 
+is composite (i.e., including Taxes etc.), the applicant to give 
+item-wise break-up of Composite PO value mentioning Basic 
+Value, Taxes etc. 
+The work “executed” means the applicant should have achieved 
+the criterion specified in the QR, even if the total contract is not 
+completed/closed. In case of contracts under execution as on 
+the last date of submission of application for enlistment, the 
+value of work executed till date will be considered provided the 
+same is certified by the 
+employer.
+Note-3 Attached Technical specifications & Quality Plan are indicative only, 
+may be changed subject to the requirement. 
+Technical Specifications for “56MEG-13 - Vendor Enlistment for supply of 
+“Hydro ejector  & its spares” (CAT-1) 
+ 
+(a) Hydroejector - It covers following make/models: 
+a. Tecpro – 45TPH, 80TPH & 85TPH 
+b. INDURE – 8''X8'', 8''X10'' 
+c. DCIPS – Jet Pulsion 90TPH, 62 TPH & 78TPH 
+d. Melco - 8''X8'' 
+e. MBECL – 45TPH, 71TPH & 373m3/hr 
+ 
+(b) Hydroejector spares includes – body (inlet piece), nozzle holder, diffuser, 
+clamp, nozzle casing/adapter, nozzle tip, nozzle body, throat/tail piece, 
+aligning ring, flange clamp half, nozzle insert, intermediate wear piece, 
+throat increaser, ring flange, coupling assy, combination tube, ceramic 
+sleeve of nozzle tip and associated fixtures and other similar components.  
+Complete specifications shall be as per the drawings & data sheet enclosed in 
+the tender by the Individual Sites or the drawings must be developed by the 
+vendor along with material specification from samples/ equipment at site. 
+ 
+ 
+STANDARD QUALITY PLAN 
+ 
+ 
+ 
+ 
+ 
+Item :-  Hydraulic Ejector / Jet Pump 
+SQP NO: CPG-QA-SQP-M-163 P. 1/ 1 Prepared  
+ 
+ 
+ 
+Reviewed  
+ 
+ 
+Approved 
+ 
+ 
+ Rev. 01 Date  16.10.2024 
+SL. 
+NO. 
+COMPONENT/ 
+OPERATION 
+CHARACTERISTICS QUANTUM 
+OF CHECK 
+REFERENCE 
+DOCUMENT 
+ACCEPTANCE 
+NORM 
+FORMAT 
+OF 
+RECORD 
+D 
+AGENCY REMARKS 
+M N  M N 
+1 Raw Material  
+1.1 Nozzle Casing Chemical Analysis& Physical 
+properties 
+1/ Heat  
+ 
+ 
+ 
+Tender/PO Specs/NTPC approved 
+DRG/DS 
+TC/IR  P V  
+1.2 Diffuser, Inlet Piece, 
+Pump Body 
+Surface condition 100% 100% TC/IR  P V  
+Chemical Analysis, Hardness 1/Heat 1/Heat TC/IR   V  
+1.3 Nozzle Holder  Physical properties & Hardness 1/Heat 1/Heat TC/IR  P V  
+1.4 Nozzle Tip  Material compliance, Hardness 100% 100% TC/IR  P V  
+1.5 Gasket  Shore Hardness 1/lot 1/lot TC/IR  P V  
+2 In Process Inspection 
+2.1 Machining/ Grinding  Visual, Dimension 100% 100% Tender/PO Specs/NTPC approved 
+DRG/ DS 
+TC/IR  P   
+3 Final Inspection 
+3.1 Assembly & Spares Completeness, Overall Dimensions, 
+Hardness of accessible parts /spares 
+100% 10% Tender/PO Specs/NTPC approved 
+DRG/DS 
+TC/IR Y P W  
+3.2 Pressure Test of the 
+complete assembly  
+Leakage Test 100% 10% Tender/PO Specs/ 
+NTPC appd DRG/DS 
+No leakage 
+or seepage 
+TC/IR Y P W . 
+3.3 Paint  Colour shade & DFT 100%  Tender/PO Specs/NTPC approved 
+DRG/DS 
+TC/IR Y P   
+Notes :- 
+1: Y mark in Column ‘D’ means such document shall be furnished by the manufacturer / supplier. 
+2: Calibrated equipments required for performing tests in presence of NTPC or authorized representative, shall be arranged by supplier without any extra cost. 
+3:Witness by NTPC/Authorised representative(wherever applicable) shall be on randomly chosen sample/s. For balance, NTPC shall review TCs/IRs. 
+4: Reference and acceptance norms shall be derived from following in the same sequence: 
+a.) NTPC approved Drawing & Data Sheet ; b.) NTPC tech specs ; c.) Purchase order; d.) Relevant national Standard; e.) Relevant International Standard;       
+f.) Manufacturer’s standard ;    g.) Good Engineering Practice 
+ Abbreviations :- 
+M Manufacturer  P Perform  IR Inspection Record / Report 
+N NTPC Ltd or authorized representative  W Witness  TC Test Certificate 
+DRG Drawing  V Review of records  DS Data Sheet 
+ 
+SUNIL 
+MALANI
+Digitally 
+signed by 
+SUNIL 
+MALANI
+Digitally signed by GANPATI JHA
+DN: cn=GANPATI JHA, c=IN,
+st=CHHATTISGARH, o=NTPC LIMITED,
+ou=EMPLOYEE,
+serialNumber=d3135b18b48ad4b5290533781
+1f4c80f1cc904c325d4a9bbf5bb10177c50cae7
+ANIMES
+H 
+KUMAR 
+THAKUR
+Digitally signed 
+by ANIMESH 
+KUMAR THAKUR 
+Date: 2024.10.17 
+10:23:37 +05'30'

@@ -1,0 +1,143 @@
+Government eProcurement System
+Tender Details
+Date : 26-May-2026 12:02 PM
+ Print
+Basic Details
+Organisation Chain Anushakti Vidhyut Nigam Limited (ASHVINI)||Mahi Banswara Rajasthan Atomic Power Project (MBRAPP) -
+Banswara
+Tender Reference
+Number MBRAPP/CMM/2026/Electrical/CP2
+Tender ID 2026_ASHVI_278613_1 Withdrawal Allowed Yes
+Tender Type Open Tender Form of contract EPC Contract
+Tender Category Works No. of Covers 4
+General Technical
+Evaluation Allowed No ItemWise Technical Evaluation
+Allowed No
+Payment Mode Offline Is Multi Currency Allowed For
+BOQ No
+Is Multi Currency
+Allowed For Fee No Allow Two Stage Bidding No
+ 
+Payment Instruments
+Offline S.No Instrument Type
+1 NEFT
+2 R-T-G-S
+Cover Details, No. Of Covers - 4
+Cover
+No Cover Document Type Description
+1 Fee .pdf EMD
+2 PreQual .rar Qualifying
+Requirement
+3 Technical .rar Tender Documents
+.pdf Integrity Pact
+.rar Other Documents
+.pdf TENDER FORM
+PART-I
+.pdf
+TECHNO-
+COMMERCIAL BID
+EXCEPT PRICE AS
+PER SECTION-D
+4 Finance .xls BOQ
+.pdf Tender_Form_Part_II
+ 
+Tender Fee Details, [Total Fee in ₹ * - 0.00]
+Tender Fee in ₹ 0.00
+Fee Payable To Nil Fee Payable At Nil
+Tender Fee
+Exemption Allowed
+No
+EMD Fee Details
+EMD Amount in ₹ 28,74,632 EMD Exemption
+Allowed
+No
+EMD Fee Type fixed EMD Percentage NA
+EMD Payable To Anushakti
+Vidhyut
+Nigam
+Limited
+EMD Payable At Anushakti
+Vidhyut
+Nigam
+Limited
+ 
+ 
+Work /Item(s)
+Title Design, Engineering, Procurement, Supply, Installation, Testing, Commissioning and Two Years of Operation and
+Comprehensive Maintenance of the 33/11/0.433kV Electrical Distribution System at MBRAPP in Distt. Banswara,
+Rajasthan
+Work Description Design, Engineering, Procurement, Supply, Installation, Testing, Commissioning and Two Years of Operation and
+Comprehensive Maintenance of the 33/11/0.433kV Electrical Distribution System at MBRAPP in Distt. Banswara,
+Rajasthan
+Pre Qualification
+Details
+As per Tender Document 
+Independent External
+Monitor/Remarks
+As per Tender Document 
+Tender Value in ₹ NA Product Category Electrical
+Works
+Sub category NA 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work(Days) 1096 
+
+Location Mahi Banswara Rajasthan Atomic
+Power Project
+Pincode 327001 Pre Bid Meeting Place Mahi
+Banswara
+Rajasthan
+Atomic
+Power
+Project 
+Pre Bid Meeting
+Address
+A) Physical Meeting at Mahi Banswara
+Rajasthan Atomic Power Project
+(MBRAPP), Anushakti Vidhyut Nigam
+Limited, P.O. Napla, Tehsil - Chhoti
+Sarwan, Distt.-Banswara, PIN 327001
+B) Online Meeting MSTeams link shall
+be shared through corrigendum. 
+Pre Bid Meeting Date 02-Jun-
+2026
+11:00
+AM 
+Bid Opening Place MBRAPP
+Should Allow NDA
+Tender
+No Allow Preferential
+Bidder
+No
+ 
+Critical Dates
+Publish Date 26-May-2026 12:00 PM Bid Opening Date 18-Jun-2026 03:30 PM
+Document Download / Sale Start
+Date
+26-May-2026 12:00 PM Document Download / Sale End
+Date
+17-Jun-2026 03:00 PM
+Clarification Start Date 26-May-2026 12:00 PM Clarification End Date 01-Jun-2026 03:00 PM 
+Bid Submission Start Date 08-Jun-2026 10:00 AM Bid Submission End Date 17-Jun-2026 03:00 PM
+ 
+ 
+Tender Documents
+NIT
+Document S.No Document Name Description Document Size
+(in KB)
+1 Tendernotice_1.pdf Tender Notice 156.05
+ 
+Work Item
+Documents S.No Document Type Document Name Description Document Size
+(in KB)
+1 Tender Documents TENDER_DOCUMENT.rar Tender Documents 14769.32
+2 Tender Documents INTEGRITY_PACT.pdf Integrity Pact 333.81
+3 Tender Documents Instruction_Sheet.pdf Instruction Sheet (Instruction
+to Tenderers) 276.12
+4 BOQ BOQ_325291.xls BOQ 428.50
+ 
+ 
+ 
+ 
+Tender Inviting Authority
+Name DGM CMM
+Address P.O. Napla, Tehsil - Chhoti Sarwan, Distt.-Banswara, PIN 327001
+ 

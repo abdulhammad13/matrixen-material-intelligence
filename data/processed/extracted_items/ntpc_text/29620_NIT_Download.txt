@@ -1,0 +1,191 @@
+ 
+ABRIDGED INVITATION FOR BIDS 
+ 
+ 
+NTPC GREEN ENERGY LIMITED 
+(A SUBSIDIARY OF NTPC LIMITED) 
+ 
+CONTRACTS SERVICES 
+ 
+INVITATION FOR BIDS (IFB) 
+ 
+FOR 
+ 
+ 
+EPC PACKAGE FOR DEVELOPMENT OF 100MW SOLAR WITH 50MW/ 200MWH 
+BESS PROJECT AT JHANSI, U.P 
+ 
+(DOMESTIC COMPETITIVE BIDDING) 
+ 
+  
+IFB No.: NGEL-CS-5840-004(EPC)-9      Date:   21.03.2026 
+ 
+NTPC GREEN ENERGY LIMITED (N GEL) invites online bids on behalf of NTPC UP 
+Green Energy Limited (NUGEL)  from eligible bidders on Single Stage Two Envelope 
+(i.e. Envelope-I: Techno-Commercial Bid and Envelope-II: Price Bid) followed by Reverse 
+Auction for “EPC PACKAGE FOR DEVELOPMENT OF 100MW SOLAR WITH 50MW/ 
+200MWH BESS PROJECT AT JHANSI, U.P” 
+  
+For the detailed IFB and bidding documents please visi t at https://www.bharat-
+electronictender.com or https://ntpctender.ntpc.co.in  or www.ntpc.co.in or  may contact : 
+Sr. Manager (CS) / AGM (CS),  
+NTPC Green Energy Limited,  
+4th Floor, NETRA Building E-3,  
+Ecotech-II, Udyog Vihar,  
+Greater Noida, Distt. Gautam Budh Nagar, (UP),  
+INDIA, Pin-201306 
+Mob No. +91-7637011073  
+E-mail: madhusmritidevchoudhry@ntpc.co.in/ rajandwivedi@ntpc.co.in  
+  
+Document Sale Start Date and Time :03.04.2026, 17:00 hrs 
+Document Sale Closing Date and Time : 17.04.2026, upto 17:00 hrs 
+Bid Submission End Date and Time : 04.05.2026 upto 15:00 hrs 
+Bid Opening Date and Time : 04.05.2026 at 15:30 hrs 
+ 
+Registered Office:  
+NTPC Green Energy Limited 
+NTPC Bhawan, SCOPE Complex,  
+7, Institutional Area, Lodhi Road, New Delhi-110003,  
+Corporate Identification Number (NGEL): L40100DL2022GOI396282,  
+Website: www.ngel.in 
+ 
+ 
+ 
+                                                      Brief Scope of Work  
+A) Solar Project 
+Design, engineering, manufacturing, supply, packing and forwarding, transportation, 
+unloading, storage, installation, testing and commissioning of 100MW Ground Mounted 
+Solar PV Plant (including Supply of Modules) with 50MW/ 200MWh BESS at Jhansi, U.P 
+The scope includes the following: 
+1. Site  Levelling/Grading & Clearing of Vegetation, Topographical Survey, Geotechnical 
+Investigation.  
+2. Design and Construction of foundation & erection of Module Mounting Structure (MMS) 
+for SPV panels, including fixing of PV Modules on MMS and PV Modules 
+interconnection. Bidders are to provide fixed tilt tracker system only  and the bidding is 
+MU based.  
+3. Arranging power supply and water supply for construction purposes. 
+4. Construction of Pre-Engineered type Inverter room (if applicable) with Power conditioning 
+unit associated LT and HT switchgear. In case of String Inverter, Construction of Pre-
+Engineered type HT Switchgear room. 
+5. Construction of EHV switchyard (including power transformers) along with CMCS 
+building and associated control, protection, communication, automation and other 
+auxiliary systems. 
+6. All associated electrical and civil works required for interfacing with grid (i.e. 
+transformers, panels, protection system, cables, metering at 33kV level, grid compliance 
+study as per regulation etc.), evacuation of power to 33/220kV switchyard as per 
+detailed technical Specifications and applicable technical standards. 
+7. Supply, Laying and termination of HT Cables within and between different blocks and 
+interconnection  to 33/220kV switchyard as per specification.  
+8. Performance testing for demonstration of Guaranteed Generation at 
+metering/interconnection point. 
+9. Module cleaning system including supply and installation of all accessories. 
+10. Construction of internal roads, pathways, construction of Drainage system, periphery 
+boundary wall as per General Layout and Topography, any internal / temporary fencing, 
+security cabin etc.  
+11. SCADA system for remote monitoring and control of Inverters with all hardware & 
+software, Power plant controllers, and complete set of Weather Monitoring Station 
+including cloud cover. 
+ 
+12. Dynamic reactive power compensation equipment and Harmonic filters to comply with       
+ 
+ 
+the Working Group in respect of Data Submission Procedure and Verification of 
+Compliance to CEA Regulations on Technical Standards for Connectivity to the Grid by 
+ 
+ 
+13.  
+ CCTVs along with remote monitoring system with coverage of CMCS building, 100% 
+periphery, entry/exit gates of the solar blocks, WMS inverter stations, etc. 
+14. Comprehensive Operation & maintenance of SPV Plant along with electrical equipment, 
+consumables, and spare parts for a period of Three years from the date of 
+commissioning of full Project capacity. 
+15. Supply of Mandatory spares. 
+ 
+ 
+B) BESS Project 
+The scope of work covers the following activities and services in respect of all the equipment 
+& works specified for BESS portion and covered under the specifications and read in 
+ in Technical Specifications 
+ 
+This Scope of Work (SOW) outlines the broad requirements pertaining to the Battery Energy 
+Storage System (BESS) portion of the complete EPC package for the Solar + BESS Project. 
+All project deliverables, as specified at the Point of Interconnection (POI) to the UPPTCL 
+grid, shall be met in full. The Contractor shall be responsible for the detailed design, sizing, 
+supply, installation, integration, testing, and commissioning of the BESS so as to achieve 
+the project-level guaranteed parameters. The SOW defined herein for the BESS portion is 
+indicative and shall be construed to encompass all activities, systems, and services 
+necessary to meet the overall project requirements and performance guarantees.  
+ 
+1) Design, Engineering, Supply, Packing and Forwarding, Transportation, Unloading, Storage, 
+Installation and Commissioning of grid connected Battery Energy Storage System  (BESS) 
+on turnkey basis. 
+2) Unloading at respective site, Supervision of Erection, Testing, Commissioning, Integration 
+of above equipment with Solar plant Infra to commission a complete BESS system 
+integrated with Solar plant and grid shall be included in scope of bidder.  
+3) Design life of BESS system including that of battery shall be of 25 years (with 
+proposal considering daily single cycle 
+operation) from the date of commissioning. 
+4) Batteries offered shall be rated for minimum 10,000 cycles of operation.  
+5) The BESS Supplier shall take into consideration following loss parameters beyond the 
+termination point and up to POI while sizing the nameplate capacity of the BESS:   
+Head Loss to be considered in sizing 
+Power Trafo Losses As per actual 
+Transmission Line Losses 0.25% 
+ 
+ 
+ 
+6) Bidder will guarantee minimum 92 % of dispatchable capacity at POI  across all 15 years 
+starting with 100 % of rated dispatchable capacity (as mentioned above) at CoD and 95 % for 
+first year.  Dispatchable capacity at the time of handover shall be minimum 92%. 
+ 
+7) Any augmentation required for meeting above criteria shall be included in scope of 
+bidder. 
+ 
+ 
+Minimum nameplate rated installed capacity of BESS shall be: 
+ Deliverable capacity* Min Nameplate capacity 
+Block 1 200 MWh 220 MWh 
+ 100% of Dispatchable Capacity.  
+ 
+8) Comprehensive O&M including associated warranty, annual maintenance contract 
+(Service Level Agreement) and Insurance of BESS for period of 15 years shall be 
+included in scope of bidder.  
+9) Minimum monthly Round Trip Efficiency (RTE) shall be 80% including auxiliary consumption 
+(Measured at BESS Termination point at 33 KV) 
+10) Monthly availability to be maintained is 98%. Detailed Availability requirements and other 
+details will be mentioned in detailed specifications. 
+11) BESS capacity offered shall be suitable for meeting deliverable capacity at POI including 
+reactive power compensation.  
+12) Grid compliance study to be carried out for complete Solar + BESS system by bidder. Grid 
+compliance study. If required, for each augmentation shall be in scope of bidder. 
+13) Reactive power compensations and power quality compliance for entire Solar + BESS 
+system upto 220 KV grid interconnection point at UPPTCL switchyard is included in scope of 
+bidder. 
+ 
+14) Aux supply system for the BESS Plant from 33 kV termination point shall be in the scope of 
+Bidder The aux supply required for Battery Container at site up to final commissioning shall 
+be also in the scope of Bidder.  Bidder to ensure the delivery of items at site and other works 
+related to BESS plant accordingly. 
+15) During operation of the BESS Plant, in case of grid failure, emergency supply requirement 
+for BESS Plant shall be in the scope of Bidder. 
+16) DSM Charges applicable corresponding to the metering and scheduling of BESS Plant and 
+attributable to Bidder shall be paid by bidder, during the Contract duration. 
+17) Bidder shall carry out Engineering to execution works of civil, erection, installation, and 
+commissioning works of all the supplied equipment and equipment system(s). 
+18) Bidder shall provide engineering drawings, data, process calculations, test procedures, 
+Equipment layout, Drawings/Data sheets of bought out items, Performance & Guarantee 
+Test procedure etc for review and approval of NTPC Green Energy Limited. 
+ 
+ 
+19)  Provide documentation for design and expected performance through design 
+calculations, software, design drawings, equipment drawings, and modifications to the 
+existing drawings.  
+20) Complete manufacturing including conducting all type, routine and acceptance tests, Pre-
+assembly, (if any), testing, pre-commissioning, and commissioning and putting into 
+satisfactory operation all the equipment including successful completion of initial operation. 
+21) Scope shall include EMS configuration to operate BESS at various modes as per Grid 
+requirement mentioned in specification and integrated operation with Solar plant and Plant 
+Scheduling as per Grid/RLDC requirement during O&M. Bidder is required to provide Hybrid 
+EMS which shall control the generation of Solar Plant as well BESS Plant and shall be 
+properly integrated with Solar Plant.  
+ 

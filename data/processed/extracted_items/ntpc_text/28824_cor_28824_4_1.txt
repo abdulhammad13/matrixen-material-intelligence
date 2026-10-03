@@ -1,0 +1,489 @@
+ 
+Bid Number: 
+GEM/2025/B/6452707
+Dated: 
+26-08-2025
+Bid Corrigendum
+GEM/2025/B/6452707-C9
+Following terms and conditions supersede all existing “Buyer added Bid Specific Terms and conditions” given in
+the bid document or any previous corrigendum. Prospective bidders are advised to bid as per following Terms
+and Conditions:
+Buyer Added Bid Specific Additional Terms and Conditions
+1
+. 
+Buyer Added text based ATC clauses
+CORRIGENDUM_3 dated 26.08.2025
+ to issue Clarification
+-2.
+Please refer the updated "Buyer uploaded ATC document " portfolio comprising of 15 pd
+f files.
+************************************************************************
+CORRIGENDUM_2 dated 18.08.2025
+ to issue Amendment
+-2.
+Please refer the updated "Buyer uploaded ATC document " portfolio comprising of 14 pd
+f files.
+**********************************************************************
+CORRIGENDUM_1 dated 30.07.2025 to issue clarification-1-Commercial, Clarification-1-Technic
+al & Amendment
+-1-Technical.
+Please refer the updated "Buyer uploaded ATC document " portfolio comprising of 13 pd
+f files.
+************************************************************************
+1. 
+Bidder should submit the scope of work document duly signed and stamped with their company’s seal /
+stamp as token of acceptance to the total scope of work of the bid.
+2. 
+All the bidders must submit the following certifications from THE OEM (Microsoft):
+i. A letter certifying that the bidder is a Licensing Solution Provide (LSP) of Microsoft in INDIA on the date o
+f bid submission and is authorized to submit bid against this NIT.
+Bids without tender specific authorization from Microsoft shall be liable for rejection.
+ii. 
+A letter certifying vetting of the Tender scope of work mentioning the Tender/ NIT No.
+iii. 
+An undertaking from OEM (Microsoft) that OEM will provide full support and required services to the LS
+P during entire contract period.
+iv. 
+A certification from Microsoft for continuity of the services and assignment of the balance work as per 
+the order to an alternate LSP/vendor, in the event of the existing vendor/LSP is not able to execute the co
+ntract as per NTPC terms and conditions or defaults due to any reason whatsoever.
+3. 
+Bidder must submit the price breakup sheet along with the PRICE BID only.
+4. 
+The Techno-Commercial Bid should not contain any price content entry. In case, the Techno-Commerci
+al Bid is found to contain any price content, such bid shall be outrightly rejected.
+5.
+ Pre-Bid meeting schedule is specified in the GeM bid. The meeting can be joined either physically at the
+address mentioned in the GeM bid or through Online Teams meeting with below link:
+1 / 3
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTE0YmU1MWQtNGE0My00YzMyLWFkYzAtZDI
+1ODZjZmJmNDRj%40thread.v2/0?context=%7b%22Tid%22%3a%222c631f90-6a65-4bb3-a626-c0f6f5790
+a9a%22%2c%22Oid%22%3a%2219339079-deb1-44f9-b4e3-99ef96c350ad%22%7d
+In case bidder has any issue in joining the online meeting, may please contact 
+Sh Shiva (8684846454)/ Sh
+O P Bairwa (9650906308) / Sh Biswajit Das (9437554827).
+6. 
+CPG will be applicable as per clause 16.0 of SPC (Special Purchase Conditions).
+7.
+ A complete set of tender documents is uploaded under "Buyer uploaded ATC document."
+.
+2
+. 
+Buyer uploaded ATC document 
+Click here to view the file
+.
+Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+bidding process without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+Category item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+attached categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+case may be.
+15
+. 
+Any ATC clause in contravention with GeM GTC Clause 4 (xiii)(h) will be invalid. In case of multiple L1
+bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1
+bidders through a Random Algorithm executed by GeM system.
+16
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+17
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the
+same must be added through bunching category based items or by bunching custom catalogs or
+bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+2 / 3
+the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+such representations.
+*This document shall overwrite all previous versions of Bid Specific Additional Terms and Conditions.
+This Bid is also governed by the General Terms and Conditions
+3 / 3
+ 
+Bid Number: 
+GEM/2025/B/6452707
+Dated: 
+18-08-2025
+Bid Corrigendum
+GEM/2025/B/6452707-C4
+Following terms and conditions supersede all existing “Buyer added Bid Specific Terms and conditions” given in
+the bid document or any previous corrigendum. Prospective bidders are advised to bid as per following Terms
+and Conditions:
+Buyer Added Bid Specific Additional Terms and Conditions
+1
+. 
+Buyer Added text based ATC clauses
+CORRIGENDUM_2 dated 18.08.2025
+ to issue Amendment
+-2.
+Please refer the updated "Buyer uploaded ATC document " portfolio comprising of 14 pd
+f files.
+**********************************************************************
+CORRIGENDUM_1 dated 30.07.2025 to issue clarification-1-Commercial, Clarification-1-Technic
+al & Amendment
+-1-Technical.
+Please refer the updated "Buyer uploaded ATC document " portfolio comprising of 13 pd
+f files.
+************************************************************************
+1. 
+Bidder should submit the scope of work document duly signed and stamped with their company’s seal /
+stamp as token of acceptance to the total scope of work of the bid.
+2. 
+All the bidders must submit the following certifications from THE OEM (Microsoft):
+i. A letter certifying that the bidder is a Licensing Solution Provide (LSP) of Microsoft in INDIA on the date o
+f bid submission and is authorized to submit bid against this NIT.
+Bids without tender specific authorization from Microsoft shall be liable for rejection.
+ii. 
+A letter certifying vetting of the Tender scope of work mentioning the Tender/ NIT No.
+iii. 
+An undertaking from OEM (Microsoft) that OEM will provide full support and required services to the LS
+P during entire contract period.
+iv. 
+A certification from Microsoft for continuity of the services and assignment of the balance work as per 
+the order to an alternate LSP/vendor, in the event of the existing vendor/LSP is not able to execute the co
+ntract as per NTPC terms and conditions or defaults due to any reason whatsoever.
+3. 
+Bidder must submit the price breakup sheet along with the PRICE BID only.
+4. 
+The Techno-Commercial Bid should not contain any price content entry. In case, the Techno-Commerci
+al Bid is found to contain any price content, such bid shall be outrightly rejected.
+5.
+ Pre-Bid meeting schedule is specified in the GeM bid. The meeting can be joined either physically at the
+address mentioned in the GeM bid or through Online Teams meeting with below link:
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTE0YmU1MWQtNGE0My00YzMyLWFkYzAtZDI
+1ODZjZmJmNDRj%40thread.v2/0?context=%7b%22Tid%22%3a%222c631f90-6a65-4bb3-a626-c0f6f5790
+a9a%22%2c%22Oid%22%3a%2219339079-deb1-44f9-b4e3-99ef96c350ad%22%7d
+1 / 3
+In case bidder has any issue in joining the online meeting, may please contact 
+Sh Shiva (8684846454)/ Sh
+O P Bairwa (9650906308) / Sh Biswajit Das (9437554827).
+6. 
+CPG will be applicable as per clause 16.0 of SPC (Special Purchase Conditions).
+7.
+ A complete set of tender documents is uploaded under "Buyer uploaded ATC document."
+.
+2
+. 
+Buyer uploaded ATC document 
+Click here to view the file
+.
+Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+bidding process without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+Category item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+attached categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+case may be.
+15
+. 
+Any ATC clause in contravention with GeM GTC Clause 4 (xiii)(h) will be invalid. In case of multiple L1
+bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1
+bidders through a Random Algorithm executed by GeM system.
+16
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+17
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the
+same must be added through bunching category based items or by bunching custom catalogs or
+bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+such representations.
+2 / 3
+*This document shall overwrite all previous versions of Bid Specific Additional Terms and Conditions.
+This Bid is also governed by the General Terms and Conditions
+3 / 3
+ 
+Bid Number: 
+GEM/2025/B/6452707
+Dated: 
+30-07-2025
+Bid Corrigendum
+GEM/2025/B/6452707-C3
+Following terms and conditions supersede all existing “Buyer added Bid Specific Terms and conditions” given in
+the bid document or any previous corrigendum. Prospective bidders are advised to bid as per following Terms
+and Conditions:
+Buyer Added Bid Specific Additional Terms and Conditions
+1
+. 
+Buyer Added text based ATC clauses
+CORRIGENDUM_1 dated 30.07.2025 to issue clarification-1-Commercial, Clarification-1-Technic
+al & Amendment
+-1-Technical.
+Please refer the updated "Buyer uploaded ATC document " portfolio comprising of 13 pd
+f files.
+************************************************************************
+1. 
+Bidder should submit the scope of work document duly signed and stamped with their company’s seal /
+stamp as token of acceptance to the total scope of work of the bid.
+2. 
+All the bidders must submit the following certifications from THE OEM (Microsoft):
+i. A letter certifying that the bidder is a Licensing Solution Provide (LSP) of Microsoft in INDIA on the date o
+f bid submission and is authorized to submit bid against this NIT.
+Bids without tender specific authorization from Microsoft shall be liable for rejection.
+ii. 
+A letter certifying vetting of the Tender scope of work mentioning the Tender/ NIT No.
+iii. 
+An undertaking from OEM (Microsoft) that OEM will provide full support and required services to the LS
+P during entire contract period.
+iv. 
+A certification from Microsoft for continuity of the services and assignment of the balance work as per 
+the order to an alternate LSP/vendor, in the event of the existing vendor/LSP is not able to execute the co
+ntract as per NTPC terms and conditions or defaults due to any reason whatsoever.
+3. 
+Bidder must submit the price breakup sheet along with the PRICE BID only.
+4. 
+The Techno-Commercial Bid should not contain any price content entry. In case, the Techno-Commerci
+al Bid is found to contain any price content, such bid shall be outrightly rejected.
+5.
+ Pre-Bid meeting schedule is specified in the GeM bid. The meeting can be joined either physically at the
+address mentioned in the GeM bid or through Online Teams meeting with below link:
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTE0YmU1MWQtNGE0My00YzMyLWFkYzAtZDI
+1ODZjZmJmNDRj%40thread.v2/0?context=%7b%22Tid%22%3a%222c631f90-6a65-4bb3-a626-c0f6f5790
+a9a%22%2c%22Oid%22%3a%2219339079-deb1-44f9-b4e3-99ef96c350ad%22%7d
+In case bidder has any issue in joining the online meeting, may please contact 
+Sh Shiva (8684846454)/ Sh
+O P Bairwa (9650906308) / Sh Biswajit Das (9437554827).
+6. 
+CPG will be applicable as per clause 16.0 of SPC (Special Purchase Conditions).
+7.
+ A complete set of tender documents is uploaded under "Buyer uploaded ATC document."
+1 / 2
+.
+2
+. 
+Buyer uploaded ATC document 
+Click here to view the file
+.
+Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+bidding process without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+Category item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+attached categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+case may be.
+15
+. 
+Any ATC clause in contravention with GeM GTC Clause 4 (xiii)(h) will be invalid. In case of multiple L1
+bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1
+bidders through a Random Algorithm executed by GeM system.
+16
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+17
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the
+same must be added through bunching category based items or by bunching custom catalogs or
+bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+such representations.
+*This document shall overwrite all previous versions of Bid Specific Additional Terms and Conditions.
+This Bid is also governed by the General Terms and Conditions
+2 / 2
+ 
+   
+ 
+  Bid Number: GEM/2025/B/6452707
+Dated: 15-07-2025
+  
+Bid Corrigendum
+GEM/2025/B/6452707-C1
+ 
+Pre Bid Detail(s)
+Pre-Bid Date and Time Pre-Bid Venue
+23-07-2025 10:00:00 The Bidder or his authorized representative is invited to attend pre-
+bid conference which will take place at the following address:
+AASTHA Conference Hall,
+Engineering Office Complex, NTPC Ltd,
+Plot No: A-8A, (in front of ISKON Temple), Sector 24,
+NOIDA, Dt: Gautam Budh Nagar (UP) 201301
+Or Online meetings through MS Teams with link as mentioned in
+Buyer Added text Base ATC clause 5.
+Contact: Sh Shiva (8684846454)/ Sh O P Bairwa (9650906308) / Sh
+Biswajit Das (9437554827) for any help on the matter.
+The purpose of the conference will be to clarify any issue regarding
+the Bidding Documents.
+The Bidder is requested to submit questions through email, not later
+than three (3) days before the pre-bid conference.
+Employer’s responses to the queries raised by the bidders shall be
+published through issuance of amendment/clarification to the
+bidding documents.
+Non-attendance at the pre-bid conference will not be a case for
+disqualification of a bidder.
+*This document shall overwrite all previous versions of Pre Bid parameters.
+This Bid is also governed by the General Terms and Conditions
+Powered by TCPDF (www.tcpdf.org)
+                               1 / 1

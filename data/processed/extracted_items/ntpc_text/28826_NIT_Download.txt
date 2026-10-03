@@ -1,0 +1,6148 @@
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+बड
+बड
+ 
+ 
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid End Date/Time
+04-08-2025 14:00:00
+बड
+बड
+ 
+ 
+खुलने
+खुलने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid Opening
+Date/Time
+04-08-2025 14:30:00
+बड
+बड
+ 
+ 
+पेशकश
+पेशकश
+ 
+ 
+वैधता
+वैधता
+ (
+ (
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+ 
+ 
+से
+से
+)
+)
+/Bid Offer
+Validity (From End Date)
+120 (Days)
+मं ालय
+मं ालय
+/
+/
+रा!य
+रा!य
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Ministry/State Name
+Ministry Of Power
+वभाग
+वभाग
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Department Name
+Na
+संगठन
+संगठन
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Organisation Name
+Ntpc Limited
+काया%लय
+काया%लय
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Office Name
+Cg
+कुल
+कुल
+ 
+ 
+मा ा
+मा ा
+/Total Quantity
+13996
+व&तु
+व&तु
+ 
+ 
+'ेणी
+'ेणी
+ 
+ 
+/Item Category
+M4801164756 Vindhyachal , M4801164925 Vindhyachal ,
+M4801164756 Sipat , M4801164925 Sipat , M4801243346
+Sipat , M4801245526 Kudgi , M4801162714 Lara ,
+M4801162750 Lara , M4801163338 Lara , M4801163343
+Lara , M4801163345 Lara , M4801163756 Lara ,
+M4801164125 Lara , M4801243348 Lara , M4801245526
+Lara , M4801164756 Korba , M4801163743 Korba ,
+M4801163760 Mouda , M4801164563 Mouda ,
+M4801162971 Mouda , M4801163624 Mouda ,
+M4801825267 Mouda , M4801164548 Mouda ,
+M4802161868 Mouda , M4802163569 Mouda ,
+M4801161904 KHARGONE , M4801161945 KHARGONE ,
+M4801162328 KHARGONE , M4801162992 KHARGONE ,
+M4801164875 KHARGONE , M4801165385 KHARGONE ,
+M4801242328 KHARGONE , M4801242373 KHARGONE ,
+M4801245384 KHARGONE , M4802161868 KHARGONE ,
+M4801163943 Barauni , M4801163950 Barauni ,
+M4801163978 Barauni , M4801163660 Gadarwara ,
+M4801163760 Gadarwara , M4801164165 Gadarwara ,
+M4801243648 Gadarwara , M4802174369 Gadarwara ,
+M4801163756 Ramagundam , M4801164756 Ramagundam
+, M4801164925 Ramagundam , M4801164927
+Ramagundam , M4801164783 Ramagundam ,
+M4801163734 Ramagundam , M4802174630 KHARGONE ,
+M4802175395 KHARGONE , M4802176684 KHARGONE ,
+M4802176696 KHARGONE
+GeMARPTS
+ 
+ 
+म)
+म)
+ 
+ 
+खोजी
+खोजी
+ 
+ 
+गई
+गई
+ 
+ 
+,&-ं.स
+,&-ं.स
+ / Searched
+Strings used in GeMARPTS
+T91 & T92 Boiler straight tubes for NTPC Plants
+ 
+बड
+ 
+सं/या
+/
+Bid
+ 
+Number
+: 
+GEM/2025/B/6449028
+0दनांक
+ /
+Dated
+: 15-07-2025
+बड
+बड
+ 
+ 
+द&तावेज़
+द&तावेज़
+ / Bid Document
+1 / 37
+GeMARPTS
+ 
+ 
+म)
+म)
+ 
+ 
+खोजा
+खोजा
+ 
+ 
+गया
+गया
+ 
+ 
+प9रणाम
+प9रणाम
+ / Searched
+Result generated in GeMARPTS
+MCB - Miniature Circuit - Breakers for A.C. Operation as per
+IS / IEC 60898 (Part 1), Astronomical Timer for Street Light
+Control (Timer Controls) as per IS 9000, Steel Tubes for
+Idlers for Belt Conveyors as per IS 9295, Steel Tubes used
+for Water Wells (V2) as per IS 4270, Steel Pipes for Water
+and Sewage as per IS 3589, Steel Tubes, Tubulars and
+Other Wrought Steel Fittings (V2) as per IS 1239 Part 1
+अिधसूचना
+अिधसूचना
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+चयिनत
+चयिनत
+ 
+ 
+?ासंिगक
+?ासंिगक
+ 
+ 
+'े,णयाँ
+'े,णयाँ
+ / Relevant
+Categories selected for notification
+Copper Tube 104.9mm-OFB
+बीओBयू
+बीओBयू
+ 
+ 
+शीष%क
+शीष%क
+ 
+ 
+/BOQ Title
+Procurement of Boiler Tubes for NTPC Plants
+एमएसएमई
+एमएसएमई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वषD
+वषD
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+?दान
+?दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+/MSE Exemption for Years of
+Experience and Turnover
+No
+&टाट%अप
+&टाट%अप
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वषD
+वषD
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+?दान
+?दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+ /Startup Exemption for Years of
+Experience and Turnover
+No
+वHेता
+वHेता
+ 
+ 
+से
+से
+ 
+ 
+मांगे
+मांगे
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़
+द&तावेज़
+/Document required
+from seller
+Certificate (Requested in ATC),Additional Doc 1 (Requested
+in ATC),Additional Doc 2 (Requested in ATC),Additional Doc
+3 (Requested in ATC),Additional Doc 4 (Requested in ATC)
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by
+the buyer
+Bया
+Bया
+ 
+ 
+आप
+आप
+ 
+ 
+िनवदाकारJ
+िनवदाकारJ
+ 
+ 
+Kारा
+Kारा
+ 
+ 
+अपलोड
+अपलोड
+ 
+ 
+0कए
+0कए
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़J
+द&तावेज़J
+ 
+ 
+को
+को
+िनवदा
+िनवदा
+ 
+ 
+म)
+म)
+ 
+ 
+भाग
+भाग
+ 
+ 
+लेने
+लेने
+ 
+ 
+वाले
+वाले
+ 
+ 
+सभी
+सभी
+ 
+ 
+िनवदाकारJ
+िनवदाकारJ
+ 
+ 
+को
+को
+ 
+ 
+0दखाना
+0दखाना
+चाहते
+चाहते
+ 
+ 
+हL
+हL
+? 
+? 
+संदभ%
+संदभ%
+ 
+ 
+मेनू
+मेनू
+ 
+ 
+है
+है
+/Do you want to show
+documents uploaded by bidders to all
+bidders participated in bid?
+No
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+ 
+ 
+बढ़ाने
+बढ़ाने
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+आवOयक
+आवOयक
+ 
+ 
+Pयूनतम
+Pयूनतम
+सहभागी
+सहभागी
+ 
+ 
+वHेताओं
+वHेताओं
+ 
+ 
+क
+क
+ 
+ 
+सं/या
+सं/या
+।
+।
+ / Minimum number of
+bids required to disable automatic bid
+extension
+3
+0दनJ
+0दनJ
+ 
+ 
+क
+क
+ 
+ 
+सं/या
+सं/या
+, 
+, 
+,जनके
+,जनके
+ 
+ 
+िलए
+िलए
+ 
+ 
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+बढ़ाई
+बढ़ाई
+ 
+ 
+जाएगी
+जाएगी
+। / 
+। / 
+Number
+ 
+ 
+of
+ 
+ 
+days
+ 
+ 
+for
+ 
+ 
+which
+ 
+ 
+Bid
+would
+ 
+ 
+be
+ 
+ 
+auto
+-
+-
+extended
+7
+बड
+बड
+ 
+ 
+से
+से
+ 
+ 
+9रवस%
+9रवस%
+ 
+ 
+नीलामी
+नीलामी
+ 
+ 
+स0Hय
+स0Hय
+ 
+ 
+0कया
+0कया
+/Bid to RA enabled
+No
+बड
+बड
+ 
+ 
+का
+का
+ 
+ 
+?कार
+?कार
+/Type of Bid
+Two Packet Bid
+?ाथिमक
+?ाथिमक
+ 
+उUपाद
+उUपाद
+ 
+'ेणी
+'ेणी
+/Primary product category
+M4801164756 Vindhyachal
+तकनीक
+तकनीक
+ 
+ 
+मूVयांकन
+मूVयांकन
+ 
+ 
+के
+के
+ 
+ 
+दौरान
+दौरान
+ 
+ 
+तकनीक
+तकनीक
+ 
+ 
+&पXीकरण
+&पXीकरण
+ 
+ 
+हेतु
+हेतु
+अनुमत
+अनुमत
+ 
+ 
+समय
+समय
+ 
+ 
+/Time allowed for Technical
+Clarifications during technical evaluation
+2 Days
+िनरYण
+िनरYण
+ 
+आवOयक
+आवOयक
+ (
+सूचीबZ
+सूचीबZ
+ 
+िनरYण
+िनरYण
+ 
+?ािधकरण
+?ािधकरण
+ /
+जेम
+जेम
+ 
+के
+के
+ 
+साथ
+साथ
+पूव%
+पूव%
+ 
+पंजीकृत
+पंजीकृत
+ 
+एज)िसयJ
+एज)िसयJ
+ 
+Kारा
+Kारा
+)/Inspection Required (By
+Empanelled Inspection Authority / Agencies
+pre-registered with GeM)
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+2 / 37
+मूVयांकन
+मूVयांकन
+ 
+ 
+पZित
+पZित
+/Evaluation Method
+Item wise evaluation/
+म\य&थता
+म\य&थता
+ 
+खंड
+खंड
+/Arbitration Clause
+No
+सुलह
+सुलह
+ 
+खंड
+खंड
+/Mediation Clause
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+ईएमड
+ईएमड
+ 
+ 
+ववरण
+ववरण
+/EMD Detail
+एडवाईजर
+ 
+बLक
+/Advisory Bank
+ICICI
+Schedule 1 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+118100
+Schedule 2 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+26334
+Schedule 3 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+31493
+Schedule 4 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+52666
+Schedule 5 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+36037
+Schedule 6 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+86585
+Schedule 7 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+20911
+Schedule 8 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+22726
+Schedule 9 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+17765
+Schedule 10 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+41930
+Schedule 11 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+43665
+Schedule 12 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+26788
+Schedule 13 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+16545
+Schedule 14 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+29626
+Schedule 15 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+69268
+Schedule 16 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+78733
+Schedule 17 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+2787
+Schedule 18 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+17405
+Schedule 19 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+13016
+Schedule 20 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+6054
+Schedule 21 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+4495
+Schedule 22 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+7389
+Schedule 23 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+3657
+3 / 37
+Schedule 24 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+2272
+Schedule 25 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+3461
+Schedule 26 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+3785
+Schedule 27 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+3469
+Schedule 28 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+2889
+Schedule 29 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+2954
+Schedule 30 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+5629
+Schedule 31 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+7528
+Schedule 32 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+3467
+Schedule 33 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+3523
+Schedule 34 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+8637
+Schedule 35 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+3408
+Schedule 36 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+6344
+Schedule 37 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+6966
+Schedule 38 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+38474
+Schedule 39 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+7036
+Schedule 40 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+6694
+Schedule 41 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+9119
+Schedule 42 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+3133
+Schedule 43 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+11082
+Schedule 44 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+6697
+Schedule 45 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+7873
+Schedule 46 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+5267
+Schedule 47 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+6669
+Schedule 48 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+13317
+Schedule 49 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+5204
+Schedule 50 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+6579
+Schedule 51 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+10075
+Schedule 52 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+10946
+4 / 37
+Schedule 53 
+ईएमड
+ 
+रािश
+/
+EMD Amount (In INR)
+13528
+ईपीबीजी
+ईपीबीजी
+ 
+ 
+ववरण
+ववरण
+ 
+ 
+/ePBG Detail
+एडवाइजर
+ 
+बLक
+/Advisory Bank
+ICICI
+ईपीबीजी
+ 
+?ितशत
+ (%)
+/ePBG Percentage(%)
+5.00
+ईपीबीजी
+ 
+क
+ 
+आवOयक
+ 
+अविध
+ (
+माह
+) 
+/Duration of ePBG
+required (Months).
+21
+(a). 
+जेम
+ 
+क
+ 
+शतD
+ 
+के
+ 
+अनुसार
+ 
+ईएमड
+ 
+छू ट
+ 
+के
+ 
+इ_छु क
+ 
+बडर
+ 
+को
+ 
+संबंिधत
+ 
+केटेगर
+ 
+के
+ 
+िलए
+ 
+बड
+ 
+के
+ 
+साथ
+ 
+वैध
+ 
+समिथ%त
+ 
+द&तावेज़
+ 
+?&तुत
+ 
+करने
+ 
+है
+।
+ 
+एमएसई
+केटेगर
+ 
+के
+ 
+अंतग%त
+ 
+केवल
+ 
+व&तुओं
+ 
+के
+ 
+िलए
+ 
+विनमा%ता
+ 
+तथा
+ 
+सेवाओं
+ 
+के
+ 
+िलए
+ 
+सेवा
+ 
+?दाता
+ 
+ईएमड
+ 
+से
+ 
+छू ट
+ 
+के
+ 
+पा 
+ 
+हL
+।
+ 
+`यापा9रयJ
+ 
+को
+ 
+इस
+ 
+नीित
+ 
+के
+ 
+दायरे
+ 
+से
+बाहर
+ 
+रखा
+ 
+गया
+ 
+है
+।
+/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document
+for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and
+Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this
+Policy.
+(b). The EMD Amount will be applicable for each schedule/group selected during Bid creation.
+(c).
+ईएमड
+ 
+और
+ 
+संपादन
+ 
+जमानत
+ 
+रािश
+, 
+जहां
+ 
+यह
+ 
+लागू
+ 
+होती
+ 
+है
+, 
+लाभाथa
+ 
+के
+ 
+पY
+ 
+म)
+ 
+होनी
+ 
+चा0हए
+।
+ / EMD & Performance securityshould be
+in favour of Beneficiary, wherever it is applicable. 
+लाभाथa
+लाभाथa
+ 
+ 
+/Beneficiary :
+ 
+NTPC LIMITED
+NTPC Limited NTPC Bhawan, SCOPE Complex, Institutional Area, Lodhi Road, New Delhi - 110003
+(Ntpc Limited)
+UIN Number NCTGC2415P
+वभाजन
+वभाजन
+/Splitting
+बोली
+ 
+वभाजन
+ 
+लागू
+ 
+नहं
+ 
+0कया
+ 
+गया
+/ 
+Bid splitting not applied.
+Reserved for Make In India products
+Reserved for Make In India products
+Yes
+एमएसई
+एमएसई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MSE Purchase Preference
+एमएसई
+ 
+खरद
+ 
+वरयता
+/MSE Purchase Preference
+Yes
+1. Bid reserved for Make In India products: : Procurement under this bid is reserved for purchase from Class 1
+local supplier as defined in public procurement (Preference to Make in India), Order 2017 as amended from time
+to time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products.
+However, eligible micro and small enterprises will be allowed to participate. The minimum local content to
+qualify as a class 1 local supplier is denoted in the bid document. All bidders must upload a certificate from the
+OEM regarding the percentage of the local content and the details of locations at which the local value addition is
+5 / 37
+made along with their bid, failing which the bid is liable to be rejected. In case the bid value is more than Rs 10
+Crore, the declaration relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered accountant for OEMs other
+than companies as per the Public Procurement (preference to Make-in -India) order 2017 dated 04.06.2020 . In
+case Buyer has selected Purchase preference to Micro and Small Enterprises clause in the bid, the same will get
+precedence over this clause. 
+2. Purchase preference will be given to MSEs having valid Udyam Registration and whose credentials are
+validated online through Udyam Registration portal as defined in Public Procurement Policy for Micro and Small
+Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and
+its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail themselves of the
+Purchase preference, the bidder must be the manufacturer / OEM of the offered product on GeM. Traders are
+excluded from the purview of Public Procurement Policy for Micro and Small Enterprises and hence resellers
+offering products manufactured by some other OEM are not eligible for any purchase preference. In respect of bid
+for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in
+this regard shall be uploaded along with the bid in respect of the offered product or service and Buyer will decide
+eligibility for purchase preference based on documentary evidence submitted, while evaluating the bid. If L-1 is
+not an MSE and MSE Seller (s) has / have quoted price within L-1+ 15% (Selected by Buyer) of margin of
+purchase preference /price band defined in relevant policy, such MSE Seller shall be given opportunity to match
+L-1 price and contract will be awarded for 25% (selected by Buyer) percentage of total quantity. The buyers are
+advised to refer the OM No. F.1/4/2021-PPD dated 18.05.2023 
+OM_No.1_4_2021_PPD_dated_18.05.2023
+ 
+for
+compliance of Concurrent application of Public Procurement Policy for Micro and Small Enterprises Order, 2012
+and Public Procurement (Preference to Make in India) Order, 2017. Benefits of MSE will be allowed only if seller is
+validated on-line in GeM profile as well as validated and approved by Buyer after evaluation of documents
+submitted. 
+3. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and
+for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.
+This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any
+impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of
+quoted prices which would be determined by the buyer based on its own assessment of reasonableness and
+based on competitive prices received in Bid / RA process. 
+मूVयांकन
+मूVयांकन
+ 
+ 
+विध
+विध
+(
+(
+मदवार
+मदवार
+ 
+ 
+मूVयांकन
+मूVयांकन
+ 
+ 
+विध
+विध
+)
+)
+ / 
+Evaluation Method 
+( Item Wise Evaluation Method )
+Contract will be awarded schedulewise and the determination of L1 will be done separately for each schedule.
+The details of item-consignee combination covered under each schedule are as under:
+मूVयांकन
+ 
+अनुसूिचयां
+ / 
+Evaluation Schedules
+व&तु
+/
+'ेणी
+ / 
+Item/Category
+मा ा
+ 
+/ 
+Quantity
+Schedule 1
+M4801164756 Vindhyachal
+1500
+Schedule 2
+M4801164925 Vindhyachal
+500
+Schedule 3
+M4801164756 Sipat
+400
+Schedule 4
+M4801164925 Sipat
+1000
+Schedule 5
+M4801243346 Sipat
+200
+Schedule 6
+M4801245526 Kudgi
+1000
+Schedule 7
+M4801162714 Lara
+500
+Schedule 8
+M4801162750 Lara
+500
+Schedule 9
+M4801163338 Lara
+400
+Schedule 10
+M4801163343 Lara
+800
+Schedule 11
+M4801163345 Lara
+800
+Schedule 12
+M4801163756 Lara
+400
+Schedule 13
+M4801164125 Lara
+401
+6 / 37
+Schedule 14
+M4801243348 Lara
+400
+Schedule 15
+M4801245526 Lara
+800
+Schedule 16
+M4801164756 Korba
+1000
+Schedule 17
+M4801163743 Korba
+50
+Schedule 18
+M4801163760 Mouda
+247
+Schedule 19
+M4801164563 Mouda
+150
+Schedule 20
+M4801162971 Mouda
+100
+Schedule 21
+M4801163624 Mouda
+100
+Schedule 22
+M4801825267 Mouda
+100
+Schedule 23
+M4801164548 Mouda
+50
+Schedule 24
+M4802161868 Mouda
+50
+Schedule 25
+M4802163569 Mouda
+50
+Schedule 26
+M4801161904 Khargone
+85
+Schedule 27
+M4801161945 Khargone
+85
+Schedule 28
+M4801162328 Khargone
+85
+Schedule 29
+M4801162992 Khargone
+50
+Schedule 30
+M4801164875 Khargone
+50
+Schedule 31
+M4801165385 Khargone
+50
+Schedule 32
+M4801242328 Khargone
+81
+Schedule 33
+M4801242373 Khargone
+50
+Schedule 34
+M4801245384 Khargone
+50
+Schedule 35
+M4802161868 Khargone
+75
+Schedule 36
+M4801163943 Barauni
+100
+Schedule 37
+M4801163950 Barauni
+100
+Schedule 38
+M4801163978 Barauni
+400
+Schedule 39
+M4801163660 Gadarwara
+95
+Schedule 40
+M4801163760 Gadarwara
+95
+Schedule 41
+M4801164165 Gadarwara
+97
+Schedule 42
+M4801243648 Gadarwara
+50
+Schedule 43
+M4802174369 Gadarwara
+100
+Schedule 44
+M4801163756 Ramagundam
+100
+Schedule 45
+M4801164756 Ramagundam
+100
+Schedule 46
+M4801164925 Ramagundam
+100
+Schedule 47
+M4801164927 Ramagundam
+100
+Schedule 48
+M4801164783 Ramagundam
+100
+7 / 37
+Schedule 49
+M4801163734 Ramagundam
+100
+Schedule 50
+M4802174630 Khargone
+50
+Schedule 51
+M4802175395 Khargone
+50
+Schedule 52
+M4802176684 Khargone
+50
+Schedule 53
+M4802176696 Khargone
+50
+M4801164756 Vindhyachal
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Avijeet Kumar
+486885,Vindhyachal Super
+Thermal Power Station P.O.
+Vindhyanagar District Singrauli
+486885 
+Vindhyanagar
+1500
+180
+M4801164925 Vindhyachal
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+8 / 37
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Avijeet Kumar
+486885,Vindhyachal Super
+Thermal Power Station P.O.
+Vindhyanagar District Singrauli
+486885 
+Vindhyanagar
+500
+180
+M4801164756 Sipat
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kapil Dev Sharma
+495555,Sipat Super Thermal
+Power Project, PO Ujwal Nagar,
+District Bilaspur, Chhattisgarh
+400
+180
+M4801164925 Sipat
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+9 / 37
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kapil Dev Sharma
+495555,Sipat Super Thermal
+Power Project, PO Ujwal Nagar,
+District Bilaspur, Chhattisgarh
+1000
+180
+M4801243346 Sipat
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kapil Dev Sharma
+495555,Sipat Super Thermal
+Power Project, PO Ujwal Nagar,
+District Bilaspur, Chhattisgarh
+200
+180
+M4801245526 Kudgi
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+10 / 37
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Doraiah Naidu Karri
+586121,Kudgi Super Thermal
+Power Project 
+BASAVANA
+BAGEWADI, 586121 
+BIJAPUR
+1000
+180
+M4801162714 Lara
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Suresh
+Paranthaman
+496440,NTPC Lara, Village -
+Chhapora, Tehsil - Pussore,
+Distt - Raigarh (CG) - 496440
+500
+180
+M4801162750 Lara
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+11 / 37
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Suresh
+Paranthaman
+496440,NTPC Lara, Village -
+Chhapora, Tehsil - Pussore,
+Distt - Raigarh (CG) - 496440
+500
+180
+M4801163338 Lara
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Suresh
+Paranthaman
+496440,NTPC Lara, Village -
+Chhapora, Tehsil - Pussore,
+Distt - Raigarh (CG) - 496440
+400
+180
+M4801163343 Lara
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+12 / 37
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Suresh
+Paranthaman
+496440,NTPC Lara, Village -
+Chhapora, Tehsil - Pussore,
+Distt - Raigarh (CG) - 496440
+800
+180
+M4801163345 Lara
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Suresh
+Paranthaman
+496440,NTPC Lara, Village -
+Chhapora, Tehsil - Pussore,
+Distt - Raigarh (CG) - 496440
+800
+180
+M4801163756 Lara
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+13 / 37
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Suresh
+Paranthaman
+496440,NTPC Lara, Village -
+Chhapora, Tehsil - Pussore,
+Distt - Raigarh (CG) - 496440
+400
+180
+M4801164125 Lara
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Suresh
+Paranthaman
+496440,NTPC Lara, Village -
+Chhapora, Tehsil - Pussore,
+Distt - Raigarh (CG) - 496440
+401
+180
+M4801243348 Lara
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+14 / 37
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Suresh
+Paranthaman
+496440,NTPC Lara, Village -
+Chhapora, Tehsil - Pussore,
+Distt - Raigarh (CG) - 496440
+400
+180
+M4801245526 Lara
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Suresh
+Paranthaman
+496440,NTPC Lara, Village -
+Chhapora, Tehsil - Pussore,
+Distt - Raigarh (CG) - 496440
+800
+180
+M4801164756 Korba
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+15 / 37
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Priyanshu
+Srivastava
+495450,NTPC Korba, Jamnipali,
+District Korba, Chattisgarh
+1000
+180
+M4801163743 Korba
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Priyanshu
+Srivastava
+495450,NTPC Korba, Jamnipali,
+District Korba, Chattisgarh
+50
+180
+M4801163760 Mouda
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+16 / 37
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Ekta Kohle
+441104,Mouda Super Thermal
+Power Project Mouda -Ramtek
+Road ,Mouda District Nagpur
+441104 
+Mouda
+247
+180
+M4801164563 Mouda
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Ekta Kohle
+441104,Mouda Super Thermal
+Power Project Mouda -Ramtek
+Road ,Mouda District Nagpur
+441104 
+Mouda
+150
+180
+M4801162971 Mouda
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+17 / 37
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Ekta Kohle
+441104,Mouda Super Thermal
+Power Project Mouda -Ramtek
+Road ,Mouda District Nagpur
+441104 
+Mouda
+100
+180
+M4801163624 Mouda
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Ekta Kohle
+441104,Mouda Super Thermal
+Power Project Mouda -Ramtek
+Road ,Mouda District Nagpur
+441104 
+Mouda
+100
+180
+M4801825267 Mouda
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+18 / 37
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Ekta Kohle
+441104,Mouda Super Thermal
+Power Project Mouda -Ramtek
+Road ,Mouda District Nagpur
+441104 
+Mouda
+100
+180
+M4801164548 Mouda
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Ekta Kohle
+441104,Mouda Super Thermal
+Power Project Mouda -Ramtek
+Road ,Mouda District Nagpur
+441104 
+Mouda
+50
+180
+M4802161868 Mouda
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+19 / 37
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Ekta Kohle
+441104,Mouda Super Thermal
+Power Project Mouda -Ramtek
+Road ,Mouda District Nagpur
+441104 
+Mouda
+50
+180
+M4802163569 Mouda
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Ekta Kohle
+441104,Mouda Super Thermal
+Power Project Mouda -Ramtek
+Road ,Mouda District Nagpur
+441104 
+Mouda
+50
+180
+M4801161904 KHARGONE
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+20 / 37
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Bhagwati Prasad
+Sharma
+451113,NTPC LIMITED,
+KHARGONE SUPER THERMAL
+POWER PROJECT, VILLAGE:
+SELDA, PO-KHEDI(BUZURG)
+,SO-BEDIYA, DISTRICT-
+KHARGONE(MP)-451113
+85
+180
+M4801161945 KHARGONE
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Bhagwati Prasad
+Sharma
+451113,NTPC LIMITED,
+KHARGONE SUPER THERMAL
+POWER PROJECT, VILLAGE:
+SELDA, PO-KHEDI(BUZURG)
+,SO-BEDIYA, DISTRICT-
+KHARGONE(MP)-451113
+85
+180
+M4801162328 KHARGONE
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+21 / 37
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Bhagwati Prasad
+Sharma
+451113,NTPC LIMITED,
+KHARGONE SUPER THERMAL
+POWER PROJECT, VILLAGE:
+SELDA, PO-KHEDI(BUZURG)
+,SO-BEDIYA, DISTRICT-
+KHARGONE(MP)-451113
+85
+180
+M4801162992 KHARGONE
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Bhagwati Prasad
+Sharma
+451113,NTPC LIMITED,
+KHARGONE SUPER THERMAL
+POWER PROJECT, VILLAGE:
+SELDA, PO-KHEDI(BUZURG)
+,SO-BEDIYA, DISTRICT-
+KHARGONE(MP)-451113
+50
+180
+M4801164875 KHARGONE
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+22 / 37
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Bhagwati Prasad
+Sharma
+451113,NTPC LIMITED,
+KHARGONE SUPER THERMAL
+POWER PROJECT, VILLAGE:
+SELDA, PO-KHEDI(BUZURG)
+,SO-BEDIYA, DISTRICT-
+KHARGONE(MP)-451113
+50
+180
+M4801165385 KHARGONE
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+23 / 37
+1
+Bhagwati Prasad
+Sharma
+451113,NTPC LIMITED,
+KHARGONE SUPER THERMAL
+POWER PROJECT, VILLAGE:
+SELDA, PO-KHEDI(BUZURG)
+,SO-BEDIYA, DISTRICT-
+KHARGONE(MP)-451113
+50
+180
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+M4801242328 KHARGONE
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Bhagwati Prasad
+Sharma
+451113,NTPC LIMITED,
+KHARGONE SUPER THERMAL
+POWER PROJECT, VILLAGE:
+SELDA, PO-KHEDI(BUZURG)
+,SO-BEDIYA, DISTRICT-
+KHARGONE(MP)-451113
+81
+180
+M4801242373 KHARGONE
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+24 / 37
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Bhagwati Prasad
+Sharma
+451113,NTPC LIMITED,
+KHARGONE SUPER THERMAL
+POWER PROJECT, VILLAGE:
+SELDA, PO-KHEDI(BUZURG)
+,SO-BEDIYA, DISTRICT-
+KHARGONE(MP)-451113
+50
+180
+M4801245384 KHARGONE
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Bhagwati Prasad
+Sharma
+451113,NTPC LIMITED,
+KHARGONE SUPER THERMAL
+POWER PROJECT, VILLAGE:
+SELDA, PO-KHEDI(BUZURG)
+,SO-BEDIYA, DISTRICT-
+KHARGONE(MP)-451113
+50
+180
+M4802161868 KHARGONE
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+25 / 37
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Bhagwati Prasad
+Sharma
+451113,NTPC LIMITED,
+KHARGONE SUPER THERMAL
+POWER PROJECT, VILLAGE:
+SELDA, PO-KHEDI(BUZURG)
+,SO-BEDIYA, DISTRICT-
+KHARGONE(MP)-451113
+75
+180
+M4801163943 Barauni
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Bijaya Kumar Sahoo
+851116,Barauni 
+Thermal Power
+Plant Project NH31, Barauni
+Begusarai 851116 
+Begusarai
+100
+180
+M4801163950 Barauni
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+26 / 37
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Bijaya Kumar Sahoo
+851116,Barauni 
+Thermal Power
+Plant Project NH31, Barauni
+Begusarai 851116 
+Begusarai
+100
+180
+M4801163978 Barauni
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Bijaya Kumar Sahoo
+851116,Barauni 
+Thermal Power
+Plant Project NH31, Barauni
+Begusarai 851116 
+Begusarai
+400
+180
+M4801163660 Gadarwara
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+27 / 37
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Basant Kumar Jha
+487770,Gadarwara, District:
+Narshingpur, State: Madhya
+Pradesh
+95
+180
+M4801163760 Gadarwara
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Basant Kumar Jha
+487770,Gadarwara, District:
+Narshingpur, State: Madhya
+Pradesh
+95
+180
+M4801164165 Gadarwara
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+28 / 37
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Basant Kumar Jha
+487770,Gadarwara, District:
+Narshingpur, State: Madhya
+Pradesh
+97
+180
+M4801243648 Gadarwara
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Basant Kumar Jha
+487770,Gadarwara, District:
+Narshingpur, State: Madhya
+Pradesh
+50
+180
+M4802174369 Gadarwara
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+29 / 37
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Basant Kumar Jha
+487770,Gadarwara, District:
+Narshingpur, State: Madhya
+Pradesh
+100
+180
+M4801163756 Ramagundam
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Jayaraju Pagi
+505215,Ramagundam Super
+Thermal Power Station PO
+JYOTINAGAR 505215 
+DISTRICT
+PEDDAPALLI
+100
+180
+M4801164756 Ramagundam
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+30 / 37
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Jayaraju Pagi
+505215,Ramagundam Super
+Thermal Power Station PO
+JYOTINAGAR 505215 
+DISTRICT
+PEDDAPALLI
+100
+180
+M4801164925 Ramagundam
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Jayaraju Pagi
+505215,Ramagundam Super
+Thermal Power Station PO
+JYOTINAGAR 505215 
+DISTRICT
+PEDDAPALLI
+100
+180
+M4801164927 Ramagundam
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+31 / 37
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Jayaraju Pagi
+505215,Ramagundam Super
+Thermal Power Station PO
+JYOTINAGAR 505215 
+DISTRICT
+PEDDAPALLI
+100
+180
+M4801164783 Ramagundam
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Jayaraju Pagi
+505215,Ramagundam Super
+Thermal Power Station PO
+JYOTINAGAR 505215 
+DISTRICT
+PEDDAPALLI
+100
+180
+M4801163734 Ramagundam
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+32 / 37
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Jayaraju Pagi
+505215,Ramagundam Super
+Thermal Power Station PO
+JYOTINAGAR 505215 
+DISTRICT
+PEDDAPALLI
+100
+180
+M4802174630 KHARGONE
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Bhagwati Prasad
+Sharma
+451113,NTPC LIMITED,
+KHARGONE SUPER THERMAL
+POWER PROJECT, VILLAGE:
+SELDA, PO-KHEDI(BUZURG)
+,SO-BEDIYA, DISTRICT-
+KHARGONE(MP)-451113
+50
+180
+33 / 37
+M4802175395 KHARGONE
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Bhagwati Prasad
+Sharma
+451113,NTPC LIMITED,
+KHARGONE SUPER THERMAL
+POWER PROJECT, VILLAGE:
+SELDA, PO-KHEDI(BUZURG)
+,SO-BEDIYA, DISTRICT-
+KHARGONE(MP)-451113
+50
+180
+M4802176684 KHARGONE
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+34 / 37
+1
+Bhagwati Prasad
+Sharma
+451113,NTPC LIMITED,
+KHARGONE SUPER THERMAL
+POWER PROJECT, VILLAGE:
+SELDA, PO-KHEDI(BUZURG)
+,SO-BEDIYA, DISTRICT-
+KHARGONE(MP)-451113
+50
+180
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+M4802176696 KHARGONE
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशXयाँ
+विशXयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+H.सं.
+H.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टbग
+9रपो0टbग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Bhagwati Prasad
+Sharma
+451113,NTPC LIMITED,
+KHARGONE SUPER THERMAL
+POWER PROJECT, VILLAGE:
+SELDA, PO-KHEDI(BUZURG)
+,SO-BEDIYA, DISTRICT-
+KHARGONE(MP)-451113
+50
+180
+Hेता
+Hेता
+ 
+ 
+Kारा
+Kारा
+ 
+ 
+जोड़
+जोड़
+ 
+ 
+गई
+गई
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+वशेष
+वशेष
+ 
+ 
+शतe
+शतe
+/Buyer Added Bid Specific Terms and Conditions
+1
+. 
+Buyer Added Bid Specific ATC
+Buyer uploaded ATC document 
+Click here to view the file
+.
+2
+. 
+Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+35 / 37
+1. Qualifying Requirement is applicable for this tender. Only vendors meeting Qualifying re
+quirement of tender and meeting product technical specification to submit bid. 
+2. EMD BG of consolidated
+ 
+a
+mount for participating schedule  to be submitted by bidders i
+n NTPC format only provided in 
+Buyer uploaded ATC document 
+3. Vendors are advised to refer attached Buyer uploaded ATC document  for Qualifying req
+uirement, Formats, documents required and compliances to be submitted along with bid. 
+.
+3
+. 
+Generic
+Bidder shall submit the following documents along with their bid for Vendor Code Creation:
+ a. Copy of PAN Card.
+ b. Copy of GSTIN.
+ c. Copy of Cancelled Cheque.
+ d. Copy of EFT Mandate duly certified by Bank.
+4
+. 
+Scope of Supply
+Scope of supply (Bid price to include all cost components) : Only supply of Goods
+अ&वीकरण
+अ&वीकरण
+/Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+bidding process without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+Category item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+attached categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+36 / 37
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+case may be.
+15
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+16
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the
+same must be added through bunching category based items or by bunching custom catalogs or
+bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+such representations.
+All GeM Sellers / Service Providers are mandated to ensure compliance with all the applicable laws /
+acts / rules including but not limited to all Labour Laws such as The Minimum Wages Act, 1948, The
+Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The Equal Remuneration Act, 1976,
+The Payment of Gratuity Act, 1972 etc. Any non-compliance will be treated as breach of contract
+and Buyer may take suitable actions as per GeM Contract.
+यह
+ 
+बड
+ 
+सामाPय
+ 
+शतD
+ 
+के
+ 
+अंतग%त
+ 
+भी
+ 
+शािसत
+ 
+है
+ 
+/This Bid is also governed by the General Terms and Conditions
+जेम
+ 
+क
+ 
+सामाPय
+ 
+शतD
+ 
+के
+ 
+खंड
+ 26 
+के
+ 
+संदभ%
+ 
+म)
+ 
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+के
+ 
+बडर
+ 
+से
+ 
+खरद
+ 
+पर
+ 
+?ितबंध
+ 
+के
+ 
+संबंध
+ 
+म)
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+का
+ 
+कोई
+ 
+भी
+ 
+बडर
+ 
+इस
+ 
+िनवदा
+ 
+म)
+ 
+बड
+ 
+देने
+ 
+के
+ 
+िलए
+ 
+तभी
+ 
+पा 
+ 
+होगा
+ 
+जब
+ 
+वह
+ 
+बड
+ 
+देने
+ 
+वाला
+सYम
+ 
+?ािधकार
+ 
+के
+ 
+पास
+ 
+पंजीकृत
+ 
+हो
+।
+बड
+ 
+म)
+ 
+भाग
+ 
+लेते
+ 
+समय
+ 
+बडर
+ 
+को
+ 
+इसका
+ 
+अनुपालन
+ 
+करना
+ 
+होगा
+ 
+और
+ 
+कोई
+ 
+भी
+ 
+गलत
+ 
+घोषणा
+ 
+0कए
+ 
+जाने
+व
+ 
+इसका
+ 
+अनुपालन
+ 
+न
+ 
+करने
+ 
+पर
+ 
+अनुबंध
+ 
+को
+ 
+तUकाल
+ 
+समाi
+ 
+करने
+ 
+और
+ 
+कानून
+ 
+के
+ 
+अनुसार
+ 
+आगे
+ 
+क
+ 
+कानूनी
+ 
+कार%वाई
+ 
+का
+ 
+आधार
+ 
+होगा
+।
+/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---
+धPयवाद
+धPयवाद
+/Thank You---
+37 / 37

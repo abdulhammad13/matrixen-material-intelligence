@@ -1,0 +1,1009 @@
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 1 of 25 
+ 
+ 
+ 
+NTPC Limited 
+ 
+(A Government of India Enterprise) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INVITATION FOR EXPRESSION OF INTEREST (EOI) 
+ 
+FOR 
+ 
+IDENTIFICATION OF DOMESTIC VENDORS  
+ 
+ 
+IN THE FIELD OF  
+ 
+COMPUTATIONAL FLUID DYNAMICS (CFD) FOR THERMAL 
+POWER PLANTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 2 of 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DETAILED NOTICE INVITING EXPRESSION OF INTEREST (EOI) 
+ 
+EOI No.: NTPC/PEM/EOI/CFD/2025      Date: .................  
+ 
+NTPC is Inviting an Expression of Interest for “Identification of domestic vendors for 
+COMPUTATIONAL FLUID DYNAMICS (CFD) in thermal power plants”. 
+ 
+1.0 Objective: 
+(i) NTPC Ltd., invites Expression of Interest from Companies in India for carrying 
+out the Computational Fluid Dynamics (CFD) for various systems/equipment 
+of thermal power plants. This EOI is to identify such interested domestic 
+vendors who have adequate expertise & experience in the field of CFD 
+with exposure in carrying out CFD for the systems/equipment (mentioned 
+at Annexure-A along with minimum eligibility criteria) which are similar 
+to those as in the coal/lignite based thermal power plants.    
+(ii) Based on EOI response, NTPC will prepare a database of such capable 
+domestic vendors and may explore the possibility of utilizing the services for 
+carrying out CFD for the identified Systems / equipment(s) at NTPC.  
+(iii) Ascertaining capabilities of vendors in the field of CFD w.r.t. their available 
+infrastructure, resources, expert manpower, technical tie-ups etc. towards 
+successfully carrying  out CFD (model creation & its validation, fine-tuning the 
+model, conducting CFD analysis, identification of problem & suggesting 
+corrective measures based on the CFD, as applicable).  
+(iv) As per NTPC decision & based on the EOI response, detailed discussions may 
+be done with the applicants towards narrowing down on the ‘technical and 
+commercial’ terms and conditions.  
+ 
+ 
+2.0 DOWNLOAD AND TIMELINES FOR SUBMISSION OF EOI 
+ 
+1. Interested APPLICANTs may download the documents of EOI free of cost from 
+www.ntpctender.com & https://eprocurentpc.nic.in 
+ 
+2. Last date for EOI submission:  15.11.2025 
+ 
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 3 of 25 
+ 
+ 
+3.0 NTPC encourages submission of EOI in soft copy. For consideration of EOI, 
+Applicants are required to e-mail softcopy, completed in all respect, from its official e-
+mail ID to below mentioned e-mail IDs. If applicants also wish to submit hard copy of 
+the EOI, the same can be submitted either in person or by registered/ speed post till 
+the last date of submission of EOI to the following address: - 
+ 
+To: Deputy General Manager (PE-Mechanical/SG & Auxiliaries) 
+Email: vivekbharti@ntpc.co.in 
+CC to: prsomraj@ntpc.co.in 
+Project Engineering (Mechanical/SG & Auxiliaries), 3rd Floor 
+NTPC Limited, SRHQ, NTPC Bhavan, Kavadiguda, Secunderabad-500080 
+ 
+4.0 NTPC reserves the right to reject or accept any or all applications, cancel/withdraw 
+the EOI process without assigning any reason whatsoever and in such case, applicant 
+shall not have any claim arising out of such action. NTPC bears no responsibility or 
+liability of any kind in reference to the EOI. 
+  
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 4 of 25 
+ 
+SECTION-I 
+ 
+INFORMATION TO APPLICANT 
+ 
+1. NTPC Limited is a Govt. of India Enterprise. NTPC group produces around 438 billion 
+units of electricity annually through its cluster of gas, coal, hydro and RE based power 
+stations of more than 83 GW capacity spanning across the country. 
+ 
+2. INTENT OF THE EXPRESSION OF INTEREST (EOI) 
+ 
+This EOI is to identify interested domestic vendors in India to partner with NTPC for 
+carrying out CFD analysis. The vendor should have adequate technical capabilities & 
+domain expertise, past performance experience, team & resources, with an exposure 
+of carrying out CFD in coal fired power related applications. The minimum eligibility 
+criteria for participation in the tender are mentioned at Annexure-A of this document. 
+ 
+3. THE APPLICANTS SHOULD NOTE THAT: 
+ 
+a. Language of the responses to EOI or any query/clarifications/correspondences 
+shall be in English only. 
+ 
+b. For expression of interest, the Application Form and Annexures given in Section-
+II shall be duly filled out and sent to NTPC by the applicant in a soft copy. 
+ 
+c. Applicants should go through Section-I thoroughly before filling and submitting 
+the application form, annexures and schedules in Section-II. 
+ 
+d. Applicants shall mention the name and contact details of two people, with their 
+complete address, phone number and official email id. 
+ 
+e. NTPC Ltd. may, at its sole discretion, ask for additional information/ documents 
+and/ or seek clarifications from the applicant(s) after the deadline for submission 
+of response, inter alia, for the purpose of removal of inconsistencies or infirmities 
+in their responses. 
+ 
+f. Based on EOI response, NTPC will prepare a database of capable domestic 
+vendors for CFD and may explore the possibility of utilizing their services for 
+carrying out CFD for the identified system (s) / equipment(s) at NTPC towards 
+analysis & trouble-shooting purposes. 
+ 
+g. This EOI is indicative only and non-committal. 
+ 
+ 
+4. ENQUIRIES AND CLARIFICATIONS 
+ 
+Any clarifications on the EOI may be sought to the following via email:  
+ 
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 5 of 25 
+ 
+To: Deputy General Manager (PE-Mech/SG & Aux.) 
+Email: vivekbharti@ntpc.co.in 
+CC to: prsomaraj@ntpc.co.in 
+ 
+5. CORRIGENDUM 
+ 
+At any time before the last date of submission of EOIs, NTPC may, for any reason, 
+whether at its own initiative or in response to a clarification requested by an applicant, 
+modify the EOI document. The amendment will be posted on the website and will be 
+binding on all the applicants and the applicant will give due consideration to the same, 
+while they submit their EOIs, and would invariably enclose documents/ information, 
+as required, on account of the amendment, as a part of the EOI. NTPC may, at its 
+discretion, extend the deadline for the submission of EOIs. 
+ 
+ 
+6. SUBMISSION OF THE RESPONSE TO EOI 
+ 
+The responses to the EOI are to be submitted in soft copy via below e-mail & format:  
+To: vivekbharti@ntpc.co.in 
+CC to: prsomaraj@ntpc.co.in 
+ 
+Ref. EOI No.  NTPC/PEM/EOI/CFD/2025             Dated: ................. 
+ 
+Submitted to: 
+To: Deputy General Manager (PE-Mechanical/SG & Auxiliaries) 
+Email: vivekbharti@ntpc.co.in 
+CC to: prsomaraj@ntpc.co.in 
+Project Engineering (Mechanical/SG & Auxiliaries), 3rd Floor 
+NTPC Limited, SRHQ, NTPC Bhavan, Kavadiguda, Secunderabad-500080 
+ 
+Submitted by: 
+  Name, address & contact no. of the Applicant 
+ 
+All the pages of the response should be duly stamped and signed by the authorized 
+signatory and the same should be reflected in the soft version also. 
+ 
+The responses to the EOI should be submitted within the deadline as mentioned in 
+this document.  
+ 
+ 
+ 
+7. COSTS AND EXPENSES TOWARDS RESPONSE TO EOI 
+ 
+The applicants shall bear all the costs associated with the complete process including 
+preparation of the response and participation in discussions and finalization & 
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 6 of 25 
+ 
+execution of the documents related with this EOI, regardless of the conduct or 
+outcome of this process. 
+ 
+8. CONFIDENTIALITY 
+ 
+The applicants undertake to hold in confidence this EOI and any document related or 
+pursuant to this EOI and not to disclose the terms and conditions of the transaction 
+contemplated hereby to third parties, except: 
+ 
+(a) To their professional advisors. 
+ 
+(b) To their officers, contractors, employees, agents or representatives, financiers, who 
+need to have access to such information for the proper performance of their activities 
+towards this EOI. 
+ 
+(c) Disclosures required under applicable Law, without the prior written consent of the 
+other parties of the concerned agreements. 
+ 
+Provided that the applicant(s) agrees and acknowledges that NTPC may at any time, 
+disclose the terms and conditions of this EOI and any document related or pursuant 
+to this EOI to any person, to the extent stipulated under the applicable Law. 
+ 
+ 
+ 
+ 
+ 
+×××× 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 7 of 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION-II 
+APPLICATION FORM, ANNEXURES & SCHEDULES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 8 of 25 
+ 
+ 
+ 
+Annexure-1 
+ 
+FORMAT FOR COVERING LETTER CUM UNDERTAKING 
+(The covering letter should be on the Letter Head of the Applicant) 
+  Date:     
+Place:     
+ 
+To, 
+Deputy General Manager (PE-Mechanical/SG & Auxiliaries) 
+Project Engineering (Mechanical/SG & Auxiliaries), 3rd Floor 
+ 
+NTPC Limited, SRHQ, NTPC Bhavan, 
+Kavadiguda, Secunderabad-500080 
+ 
+ 
+Subject: IDENTIFICATION OF DOMESTIC VENDORS FOR CARRYING OUT CFD IN 
+EQUIPMENT (S) / SYSTEMS (S) FOR THERMAL POWER PLANTS. 
+ 
+ 
+ 
+Ref.:  EOI No. NTPC/PEM/EOI/CFD/2025,    dated............... 
+ 
+ 
+Dear Sir, 
+ 
+We, the undersigned ……. [insert name of the “Applicant”] having read, examined and 
+understood in detail the (INVITATION FOR EXPRESSION OF INTEREST). 
+ 
+ 
+1. We give our unconditional acceptance to the EOI, issued by NTPC, as amended. In token 
+of our acceptance to the EOI, the same have been signed & stamped by us and 
+enclosed to the response. We hereby confirm that the provisions of the EOI shall be 
+binding on us. 
+ 
+2. We have submitted our response strictly as per the provisions and formats of the EOI, 
+without any deviations, conditions and without mentioning any assumptions or notes. 
+ 
+3. We hereby unconditionally and irrevocably agree and accept that the decision made by 
+NTPC LTD. in respect of any matter regarding or arising out of the EOI shall be binding 
+on us. We hereby expressly waive any and all claims in respect of the EOI process. We 
+confirm that there are no litigations or disputes against us, which materially affect our 
+ability to participate or function under the obligations with regard to the EOI.
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 9 of 25 
+ 
+4. Details of the contact person are furnished as below: 
+Name: 
+Designation: 
+Address: 
+Contact numbers: 
+Email Id: 
+We are enclosing herewith the entire response containing duly signed formats in 
+electronic format sent via email to vivekbharti@ntpc.co.in  
+CC to: prsomraj@ntpc.co.in as per the EOI for consideration. 
+ 
+5. It is confirmed that our response is consistent with all the requirements of submission 
+as stated in the EOI and subsequent communications from NTPC, if any. 
+ 
+6. The information submitted in our response is complete, strictly as per the requirements 
+stipulated in the EOI and is correct to the best of our knowledge and understanding. We 
+would be solely responsible for any errors or omissions in our response. 
+ 
+ 
+ 
+ 
+ 
+We remain, 
+ 
+Yours sincerely 
+ 
+ 
+ 
+ 
+(Name, Designation and Signature of Authorized Person) 
+ 
+ 
+ 
+ 
+ 
+  
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 10 of 25 
+ 
+ 
+Annexure-A 
+ 
+CATEGORY - 1  
+Sl. No. System Description Minimum Eligibility Criteria 
+I 
+Carrying out Computational Fluid 
+Dynamics (CFD) Analysis for Flue 
+gas ducting system of a coal fired 
+thermal power plant 
+The vendor should have (in-house; utilizing its own resources, 
+including established commercial CFD softwares), carried out the 
+complete CFD analysis for two/multi-phase flue gas flow (flue gas 
+with coal ash particles) for a coal fired power plant (minimum 200 
+MW size) application with the following scope- 
+1. Analysis of the flow patterns and associated ash drop-out 
+studies & pressure drops, and  
+2. Suggesting measures to improve flow patterns or 
+troubleshooting.  
+The above project should have been successfully completed with 
+results along with the report submitted and accepted by the 
+client, as on the last date of submission of Expression of Interest 
+(EOI). 
+ 
+CATEGORY - 2 
+Sl. No System Description Minimum Eligibility Criteria 
+II 
+Carrying out Computational 
+Fluid Dynamics (CFD) Analysis 
+in the field of combustion & 
+heat transfer for a coal fired 
+thermal power plant 
+ 
+The vendor should have (in-house; utilizing its own resources, 
+including established commercial CFD softwares), carried out 
+the complete CFD analysis for combustion in the furnace for a 
+coal fired power plant (minimum 200 MW size) application with 
+the following scope- 
+1. Computation & Analysis of the heat generation & heat 
+transfer in the various heat transfer surfaces,  
+2. Estimation of emissions form the coal combustion 
+3. Suggesting measures to improve any of the above. 
+The above project should have been successfully completed 
+with results along with the report submitted and accepted by the 
+client, as on the last date of submission of Expression of Interest 
+(EOI). 
+ 
+CATEGORY - 3 
+Sl. No System Description Minimum Eligibility Criteria 
+III 
+Carrying out Computational 
+Fluid Dynamics (CFD) as per 
+the System Description  
+ of CATEGORY – 1 or 2 above. 
+The vendors who meet the corresponding criteria of 
+CATEGORY-1 or 2 in association with any academic or 
+research Institutes/establishments. 
+ 
+Note:  
+1. Vendor can also include academic or research Institutes/establishments. 
+2. Vendors to submit all the necessary details to support the above criteria. Also, refer the relevant 
+schedule appended with the EOI for data requirements. 
+  
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 11 of 25 
+ 
+Annexure-2 
+ 
+GENERAL INFORMATION TO BE SUBMITTED BY APPLICANT FOR CFD STUDY 
+OF IDENTIFIED SYSTEM/ EQUIPMENT(S) 
+ 
+1. Name of Applicant Company: 
+2. Legal status of the Applicant Company: 
+3. Brief description of the Company including details of its business groups/subsidiaries/ 
+affiliates: 
+4. Date of Incorporation: 
+5. Date of Commencement of Business: 
+6. Shareholding details:  
+7. Full address including Telephone nos. / Fax nos.: 
+a. Registered Office: 
+b. Head Office: 
+c. Address for communication: 
+d. Contact Details: 
+e. Office Address in India, if any: 
+8. Existing Infrastructure & computational facilities – locations, capacity, Complete address 
+ 
+9. Documents to be enclosed: 
+ 
+Technical Credentials –  
+a)  Supporting document for technology ownership/ licensing details for the proposed 
+infrastructure & softwares (like ANSYS Fluent, Rocky DEM, EDEM, Siemens FLO EFD, 
+STAR-CCM+ etc.) 
+b)  Details of Intellectual Property Rights (IPR) held, patent filed/held, and MOU/agreement 
+signed. 
+ 
+Financial Credentials –  
+a)  Copies of Audited Financial Statements (Annual Reports) for preceding five (5) financial 
+years as on the date of EOI submission.  
+i. Average Annual Turnover for preceding five (5) financial years. 
+ii. Net worth for the preceding financial year. 
+iii. Paid up Share capital for the preceding financial year. 
+ 
+We confirm that we are interested in carrying out Computational Fluid Dynamics (CFD)  
+analysis of system(s)/ equipment(s) (indicated at Schedule-5) similar to successfully 
+completed projects & credentials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 12 of 25 
+ 
+ 
+10.  We agree that the conductance of Computational Fluid Dynamics (CFD) analysis shall be 
+considered successful based on the acceptance of the results and the report along with 
+suggestive measures for the given system (s) / equipment (s). We also agree that successful 
+completion of the project to establish the performance shall be as stipulated by NTPC for 
+respective system (s) / equipment(s). 
+ 
+11. We confirm that the conductance of the Computational Fluid Dynamics (CFD) analysis of 
+system/equipment will follow specification requirements and Codes & Standards as 
+specified/ applicable. 
+ 
+ 
+ 
+ 
+ 
+(Sign & Company Seal) 
+Authorized signatory 
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 13 of 25 
+ 
+Annexure-3 
+ESSENTIAL INFORMATION TO BE SUBMITTED BY APPLICANT FOR SYSTEM/ EQUIPMENT 
+MENTIONED AT ANNEXURE-A 
+ 
+Essential Information: 
+S.No. Information/ Details Head Details Additional 
+Data 
+1 Application Category (Category-1/ 2/ 3 as per Annexure-A)   
+2 CFD Infrastructure owned by Applicant   
+ 
+a) Hardware Resources (such as CPU Cores, RAM, GPU 
+etc)   
+ b) Software Tools & Licenses (Name, License validity)   
+3 Location of CFD infrastructure facility   
+4 Technical Expertise    
+        a) CFD Engineers (with Qualification)   
+               b) CFD Experience (in years) of Engineers at 4(a) above   
+5 Data Security (Policy docs, compliance certificates etc)   
+6 
+Areas/ Industrial Sectors of successfully completed CFD projects/ 
+assignments   
+7 
+CFD Analysis/ projects in coal fired thermal power plants (>=200MW 
+units)   
+ 
+i) No. of projects completed related to flue gas flow (fill relevant 
+schedules for details)   
+ ii)  No. of studies conducted in compliance with ICAC standard   
+ iii) Turbulence models used    
+ 
+iv)  Whether any completed projects in coal fired thermal power 
+plants involved particle tracking of flue gas ash particles using 
+discrete element method (DEM) or other specific method/ 
+software (also fill details of such project in relevant schedules) 
+ 
+ 
+ v)  No. of studies conducted & analysis done for Flue gas wrt-   
+ a) Mass-flow distribution   
+ b) Ash particle trajectory   
+ 
+vi) Average delivery time for such projects of coal fired thermal 
+power plants (in months)   
+7 Collaborations (domestic/ international) for support (if any)   
+ i) Name of Firm/ reputed academic Institute   
+ 
+ii) Validity of collaboration(s) –  
+(project specific or otherwise, specify)   
+ 
+iii) Specify type of support sought by applicant through 
+collaboration(s)   
+ 
+ 
+  
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 14 of 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SCHEDULES 
+ 
+ 
+(SCHEDULES ARE TO BE FILLED UP AND SUBMITTED IN MS WORD 
+FORMAT. All CREDENTIALS/SUPPORTING DOCUMENTS RELEVANT TO THE 
+SCHEDULES ARE TO BE SUBMITTED PREFERABLY IN SINGLE PDF FILE) 
+(All the documents are to be submitted on Company’s Letter Head) 
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 15 of 25 
+ 
+(To be submitted on Company’s Letter Head) 
+ 
+ 
+Schedule – 1 
+ 
+(Company Profile and Organization Structure)  
+ 
+ 
+Name of the Company: 
+Registered Address: 
+ 
+Contact Person & Designation: 
+ 
+Postal address for communication: 
+Telephone No.: 
+Fax No.: 
+E-mail address: 
+ 
+ 
+ 
+ 
+ 
+Document regarding Organization Structure and Ownership are enclosed. 
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 16 of 25 
+ 
+ 
+(To be submitted on Company’s Letter Head) 
+ 
+Schedule – 2 
+(TURNOVER OF THE COMPANY IN THE LAST FIVE FINANCIAL YEARS AND 
+NETWORTH OF THE COMPANY) 
+ 
+A) We confirm that annual turnover of M/s. ............................ [Applicant] for the preceding five 
+financial years is indicated below:- 
+ 
+Sl. No.  Financial Year  Turnover amount (In Million Rs.)  
+1.  24-25   
+2.  23-24   
+3.  22-23   
+4.  21-22   
+5.  20-21   
+6. 19-20  
+ 
+B) We confirm that Networth of M/s… ………….[Applicant] for the preceding five financial 
+years is indicated below:-  
+ 
+Sl. No.  Financial Year  Networth (In Million Rs.)  
+1.  24-25   
+2.  23-24   
+3.  22-23   
+4.  21-22   
+5.  20-21   
+6. 19-20  
+ 
+ 
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 17 of 25 
+ 
+We have enclosed Balance Sheets and Profit & Loss account duly certified by Chartered 
+Accountant 
+ 
+A) We hereby confirm that net worth of M/s --------- (Applicant) as on the last day of the 
+preceding financial year on the date of publication of the EOI is given below:- 
+ 
+Sl. No.  Description  As on last day of the preceding  
+financial  year 
+1.  Paid-up  Share  Capital   
+2.  Net worth   
+3.  % age  of  Net  worth  to  paid-up  Share  Capital   
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 18 of 25 
+ 
+ 
+(To be submitted on Company’s Letter Head) 
+ 
+Schedule – 3 
+ 
+Relevant experience in the conductance of the Computational Fluid Dynamics (CFD) analysis  
+ 
+S.N.  Name of the project  Plant MW   
+Location  
+Date of 
+award 
+of 
+project  
+Completion 
+Report / 
+Acceptance 
+date of the 
+project  
+Scope of the 
+project  
+Attach Client 
+Certificates  
+      As per following 
+scope description 
+sheet  
+ 
+      --do--   
+      --do--   
+ 
+ 
+I. Scope Description Sheet (Fill in case of Category-1, 3 as per Annexure-A) 
+Name  of the project  [at least  one project]  
+S.N. Scope Whether  Yes/  No  Attach documents in support  
+of  the  claim  
+1. Carried out the complete CFD analysis:   
+a.  In-House   
+b.  Utilizing Its Own Resources   
+c.  Commercial CFD Softwares used (along with software 
+names)   
+d.  Two/multi-phase   
+e.  Flue Gas Flow   
+f.  For A Coal Fired Power Plant 
+  
+g.  Minimum 200 MW Size 
+  
+2 Scope of the CFD project   
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 19 of 25 
+ 
+a.  Analysis of the Flow Patterns 
+  
+b.  Associated Ash Drop-Out Studies 
+  
+c.  Pressure Drops   
+3  Suggesting measures – 
+1. To improve flow patterns or 
+2. Troubleshooting.  
+(choose 1 or 2 or both, as applicable) 
+ 
+ 
+4 Status of the CFD project 
+  
+a. Whether successfully completed    
+b. Whether the results submitted along with the report and 
+accepted by the client   
+c. Whether the results & the report accepted by the client 
+  
+d. Date with month & year when the report was submitted  
+  
+e. Date with month & year when the report was accepted. 
+  
+5 Meeting Category-1 criteria in association with any 
+academic or research Institutes/ establishment   
+5a  Scope of the academic or research institutes/ establishments 
+wrt utilization of following services/ infrastructure: 
+i) Hardware 
+ii) Software tools 
+iii) Experts CFD manpower & type 
+iv) Technical advice/ assistance & its nature 
+v) Any other 
+ 
+ 
+ Contact  detail  of  customer  Name : 
+ 
+Address: 
+ 
+ 
+ 
+Email:   
+ 
+Phone Number : 
+ 
+Website  address: 
+ 
+ 
+ 
+  
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 20 of 25 
+ 
+II. Scope Description Sheet (Fill in case of Category-2, 3 as per Annexure-A) 
+Name  of the project  at least  one project]  
+S.N. Scope Whether  Yes/  No  Attach documents in support  
+of  the  claim  
+1. Carried out the complete CFD analysis:   
+a.  In-House   
+b.  Utilizing Its Own Resources   
+c.  Commercial CFD Softwares used   
+d.  Combustion in the furnace   
+e.  For A Coal Fired Power Plant 
+  
+f.  Minimum 200 MW Size 
+  
+2 Scope of the CFD project   
+a.  Computation & Analysis of Heat Generation and 
+Heat Transfer in various heat transfer surfaces   
+b.  Estimation of emissions from the coal combustion   
+c.  Suggestive measures to improve 2(a) & (b) above.   
+3 Status of the CFD project 
+  
+a. Whether successfully completed  
+  
+b. Whether the results submitted along with the report and 
+accepted by the client   
+c. Whether the results & the report accepted by the client 
+  
+d. Date with month & year when the report was submitted  
+  
+e. Date with month & year when the report was accepted. 
+  
+4.  Meeting Category-2 criteria in association with any 
+academic or research Institutes/ establishment   
+4a  Scope of the academic or research institutes/ establishments 
+wrt utilization of following services/ infrastructure: 
+i) Hardware 
+ii) Software tools 
+iii) Experts CFD manpower & type 
+iv) Technical advice/ assistance & its nature 
+v) Any other 
+ 
+ 
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+Page 21 of 25 
+ 
+ Contact  detail  of  customer  Name : 
+ 
+Address: 
+ 
+ 
+ 
+Email:   
+ 
+Phone Number : 
+ 
+Website  address: 
+ 
+ 
+ 
+ 
+ 
+III. Client certificates or any other certificates 
+ 
+All relevant certificates or documents shall be submitted in pdf. file format. 
+ 
+ 
+ 
+ 
+Note: Applicant to fill the above applicable table(s) with confirmations against each point.
+ 
+Page 22 of 25  
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+ 
+(To be submitted on Company’s Letter Head) 
+Schedule – 4 
+ 
+1. System description and Plant layout 
+                    
+          
+ 
+Sl. 
+N
+o. 
+Name of 
+Power Plant 
+with location 
+No. of Units with 
+MW Capacity in 
+which study was 
+conducted 
+Objective of CFD study 
+(Documentary 
+evidence attached) 
+Ash % in 
+the coal  
+Section for which 
+the CFD study 
+was conducted 
+(Attach layout) 
+Major 
+Recommendations 
+of CFD study 
+No. of years 
+since the 
+report was 
+accepted 
+Effect of 
+Implementation of 
+recommendations, 
+if available. 
+Remarks 
+          
+          
+          
+ 
+ 
+ 
+2. Details of Coal Properties: Ultimate / Proximate Analysis 
+ 
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+ Page 23 of 25  
+ 
+(To be submitted on Company’s Letter Head) 
+ 
+Schedule - 5 
+Budgetary offer for carrying up CFD analysis for flue gas flow from Steam Generator goose-
+neck area to Chimney inlet (complete flow path)   
+ 
+Brief Scope: 
+Carrying out the complete CFD analysis (Steady & Transient) for two/multi-phase flue gas flow for 
+a 800 MW coal fired power plant (at 40%, 55%, 80%, 100% TMCR operating conditions) with the 
+following scope- 
+1. Analysis of the flow patterns and associated ash drop-out studies & pressure drops, and  
+2. Suggesting measures to improve flow patterns or troubleshooting.  
+ 
+Note: Indicative typical layout drawing of coal fired thermal power plant attached for reference. 
+ 
+ 
+ 
+ 
+Sl No Description of Item/ System 
+Total Cost (in Indian 
+currency) 
+1. Development of 3D CFD model/ geometry/ meshing  
+2. Conducting study & report preparation (at various operating 
+conditions, including validations)  
+3. Visit Charges to the power plant (1 no.) & Engineering office (2 
+nos.)  
+4. Manpower Charges   
+5. 
+ Overheads   
+6. Sub-Total  
+6a. GST    
+7. Grand Total   
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+ Page 24 of 25  
+(To be submitted on Company’s Letter Head) 
+Schedule - 6 
+ 
+ 
+Time schedule for carrying up CFD analysis for flue gas path as per scope mentioned in 
+schedule-5  
+ 
+ 
+S. No.  
+ 
+Activities/Milestone  Period in Weeks  
+Start Finish  
+1. Input Data Receiving   
+2.  3D Model Development (Geometry, Meshing 
+etc) 
+  
+3.  Conducting Study & Validation (for all given 
+operating conditions) 
+  
+4.  Report Preparation, Iterations & Submission    
+5. Visit to the power plant (1 No.)   
+6. Visit to the Engineering office (2 nos.)   
+7. Any other activity   
+8. Acceptance of the report   
+9. Project Closure   
+ 
+  
+(INVITATION FOR EXPRESSION OF INTEREST) 
+ 
+ Page 25 of 25  
+ (To be submitted on Company’s Letter Head) 
+Schedule – 7 
+ 
+Additional Information relevant to the work / assignment to be enclosed: 
+ 
+1. Technical Support during performance measurement post implementation. 
+2. Technical tie-ups, if required or willing with any research/academic Indian Institute 
+of repute for resource utilization. 
+3. Particle motion study related experiences 
+4. Details of any existing tie-ups 
+5. Suggestions for enhancing participation 
+6. Willingness in carrying out CFD analysis for NTPC projects 
+7. Any other information 
+ 
+ECO HOPPER
+ECO DUCT HOPPER
+APH GAS SIDEAPH AIR SIDE
+APH GAS SIDE HOPPER
+SECOND PASS
+LTRH TUBE BANK
+ECO TUBE BANK
+APH FG OUT DUCT HOPPER
+ESP INLET GATE
+ESP
+ESP HOPPER
+ESP OUTLET GATE
+ID INLET GATE
+ID FAN
+ID OUTLET COMMON DUCT
+CHIMNEY SHELL
+TRANSITION DUCT
+FLUE CAN
+APH OUT FG DUCT
+FIRST PASS
+PLATEN  SH
+FINAL RH
+FINAL SH

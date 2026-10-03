@@ -1,0 +1,328 @@
+MEG No.:
+MEG Description:
+Responsibility centre:
+C) NOTE:
+i) Similar Works: The applicant should have supplied Plastic Refractory (Al2O3(Min):90 %) to any 
+Thermal Power Plants in India.
+ii) The executed value means Basic value of quantity of similar works executed/supplied against the 
+reference PO(also applicable to partly executed POs as on date of application).Where PO value is 
+composite(i.e. including Taxes etc.),the applicant to give item-wise break-up of Composite PO value 
+mentioning Basic Value, Taxes etc.
+04-MEG-04
+Plastic Refractory
+VDC
+3.Three POs of the highest executed values of similar work during previous five years from the date of 
+application. Copy of Invoice/Completion certificate from the concerned buyer/s in support of 
+successful execution of supply against the POs are to be submitted.
+4.Audited balance sheet including Profit & Loss statement for the previous three completed financial 
+years reckoned from the date of application. In case the audited documents are not ready / available, 
+then certified copy by a registered practicing Chartered accountant may be submitted.
+5.Standard Published catalogue.
+6.Any other documents in addition to the above which the applicant wants to submit.
+NTPC LTD
+Vendor Development Cell
+CPG-1 RAIPUR
+A) Technical Criteria of QR
+B) Other documents to be submitted:
+1.The applicant should be a manufacturer of Plastic refractory in India. 
+2. The applicant should have supplied Plastic refractory as per IS 10570 – 1983 or its latest edition with 
+Al2O3(Min):90 % to any Thermal Power Plant in India in last five years from the date of application.
+In addition to the documents required in support of meeting technical requirements as stated above, 
+following documents are required to be submitted by the applicants applying for enlistment:
+1.Latest annual report or NSIC / SSI / MSME registration certificate / BIS license / ISO certificate / 
+Certificate of registration from the concerned excise department / any other statutory document as a 
+proof of being manufacturer as per QR.
+2.The PO (issued within last five years from the date of application for enlistment) in support of award 
+and completion certificate/copies of invoice to establish successful execution as per QR.
+PLASTIC REFRACTORY WITH LIQUID BINDER 
+ 
+Technical Specification: - PLASTIC REFRACTORY (M0440560003) 
+ 
+1. Chemically bonded plastic refractory (Two component system: Powder & liquid to be supplied separately) 
+ 
+2) Service Temp.Deg.Cel. (Max) -   1650 
+ 
+3) Refractoriness Deg.Cel.(min)-   1785 
+ 
+4) Bulk Density, g/cc     (min) 
+   Sample dried at 110 Deg.Cel. for 24 hr. - 2.7 
+ 
+5) Modulus of Rupture, Kg/Cm2 (Min) 
+   110 Deg Cel/24 hr. - 100 
+   1300 Deg Cel/ 5 hr  - 160 
+Or 
+Cold Crushing Strength, Kg/Cm2 (Min) 
+110 Deg Cel/24 hr. - 650 
+1300 Deg.Cel/ 5 hr. - 875 
+ 
+6) Permanent Linear Change, % (Max) 
+   1300 Deg.Cel./5 hr  %  -0.60 
+ 
+7) Chemical Analysis % :- 
+   Al2O3 (Nominal) - 90 
+   Fe2O3 (max) - 0.3 
+   SiO2: (max) - 4 
+ 
+8) Abrasion loss, CC (Max) 
+   (ASTM:C-704-93) 
+   Prefired at 110 Deg.Cel/24 hr - 5.0 
+            at 1300 Deg.Cel/5 hr - 3.5 
+ 
+9) Binder Requirement, Wt.% - 9.5 to 10% 
+ 
+10) Thermal Conductivity at 1000 Degree C (HFT) 
+    Kcal / M / Hr / deg.Cel - 2.0 - 2.2 
+ 
+11) MAXIMUM GRAIN SIZE (95 % PASSING THROUGH) = 5 MM  
+  
+12) Method of application - Ramming (Hand/Machine). 
+ 
+13) Self life should be more than 08 months (Powder & binder)  from the date of supply . Vendor has to supply 
+recently manufactured material and not the materials manufactured two mo nths before the date of supply. 
+ 
+14) Agency has to supply the Refractory in 50 KG polythene/HDPE bags with extra liner. The thickness of 
+polythene bags shall be at least 0.2mm. Then the sealed bags shall be  put inside the HDPE bags and these 
+HDPE bags are to be sealed by machine stitching and lamination.  Liquid binder free of cost supplied by 
+vendor and to be supplied in 20 liters to 50 liters drums/package only. 
+ 
+15) Party should submit the Procedure for Application of supplied Refractory incorporating the Water Ratio. 
+ 
+14) Packing sizes: Loose; Batch no, Manufacturing date and self life to be recorded on the packing bags.  
+ 
+15) Party has to submit the test certificate as per specification along with materials from NTPC approved lab. 
+16) Qty. mentioned (MT) is of powder only. 
+17) All the TEST to be done as per IS 10570 – 2011 & IS: 1528- PART-I. 
+18) Party has to submit the test certificates as per specification along with materials. 
+19) PDI will be carried out as per the technical specifications & Approved Quality Plan. 
+SSC-QA 
+ 
+NTPC MANUFACTURING QUALITY PLAN  
+" 
+Name & Address of Manufacturer : Item: Plastic Refractory QP No  Project : ER2 
+Rev No.  Package :  
+Date  Contract No :  
+Sub-system: Page 1 of 1 Main-Supplier 
+: 
+ 
+S.No Component & Operation Characterstics Classifi 
+cation 
+Type of 
+Check 
+Quantum of Check Reference 
+Document 
+Acceptence 
+Norm 
+Record Agency Remark 
+M C/N Format D M C N 
+1.0 Raw Material; Refractory Chemical 
+Properties 
+ 
+Critical Chemical 
+Analysis 
+Sample as 
+per IS 
+10570 
+Sample as 
+per IS 
+10570 
+MFR;s 
+specificati
+on 
+MFR;s 
+specificati
+on 
+ 
+TC 
+ 
+Y 
+ 
+P 
+  
+V 
+ 
+2.1 Final Inspection Cold Crushing 
+Strength 
+ 
+Critical Physical 
+test 
+ 
+- Do - 
+ 
+- Do - 
+IS 10570 & 
+IS 1528 Part 
+4 
+PO Spec/ 
+Apvd 
+Datasheet 
+ 
+IR 
+ 
+Y 
+ 
+P 
+  
+W 
+ 
+2.2   
+Bulk Density 
+ 
+Critical Physical 
+test 
+ 
+- Do - 
+ 
+- Do - 
+IS 10570 & 
+IS 1528 Part 
+12 
+ 
+- Do - 
+ 
+IR 
+ 
+Y 
+ 
+P 
+  
+W 
+ 
+2.3  Maximum Grain 
+Size 
+ 
+Critical Physical 
+test 
+ 
+- Do - 
+ 
+- Do - 
+IS 10570 & 
+IS 1528 Part 
+14 
+ 
+- Do - 
+ 
+IR 
+ 
+Y 
+ 
+P 
+  
+W 
+ 
+2.4  Refractoriness 
+(PCE) 
+ 
+Critical Physical 
+test 
+ 
+- Do - 
+ 
+- Do - 
+IS 10570 & 
+IS 1528 Part 
+1 
+ 
+- Do - 
+ 
+IR 
+ 
+Y 
+ 
+P 
+  
+W 
+ 
+2.5  Permanent Linear 
+Change 
+ 
+Critical Physical 
+test 
+ 
+- Do - 
+ 
+- Do - 
+IS 10570 & 
+IS 1528 Part 
+6 
+ 
+- Do - 
+ 
+IR 
+ 
+Y 
+ 
+P 
+  
+W 
+ 
+2.6   
+Abrasion Loss 
+ 
+Critical Physcal 
+test 
+1 Sample/ 
+Offered lot 
+1 Sample/ 
+Offered lot 
+IS 1528 Part- 
+23/ ASTM C 
+704 
+ 
+- Do - 
+ 
+TC 
+ 
+Y 
+ 
+P 
+  
+V 
+ 
+2.7   
+Binder Requirement 
+ 
+Major 
+ 
+Visual 
+ 
+100% 
+ 
+--- 
+MFR;s 
+specificati
+on 
+ 
+MFR;s 
+specificati
+on 
+ 
+- 
+ 
+Y 
+ 
+P 
+  
+V 
+ 
+Remarks : 
+D-Documents. Records identified with 'Y' mark shall be included by supplier in QA Documentation. M-Manufacturer / Sub-supplier, C-Supplier, N-NTPC, P-Perform, V-Verify, W-Witness 
+   
+CHP - Customer Hold Point, CHPs are to be witnessed and 
+cleared by NTPC authorised representative, IR - Inspection 
+report, TC-Test Certificate 
+ 
+For NTPC 
+Use 
+NTPC Doc No.  
+Manufacturer/ Sub-supplier Main Supplier    
+Signature & Seal Reviewed by Approved 
+by Approval Seal 
+ 
+ 
+GANPATI 
+JHA
+Digitally signed by 
+GANPATI JHA 
+Date: 2020.05.21 
+16:03:50 +05'30'

@@ -1,0 +1,2214 @@
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+बड
+बड
+ 
+ 
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid End Date/Time
+31-12-2025 15:00:00
+बड
+बड
+ 
+ 
+खुलने
+खुलने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid Opening
+Date/Time
+31-12-2025 15:30:00
+बड
+बड
+ 
+ 
+पेशकश
+पेशकश
+ 
+ 
+वैधता
+वैधता
+ (
+ (
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+ 
+ 
+से
+से
+)
+)
+/Bid Offer
+Validity (From End Date)
+120 (Days)
+मं ालय
+मं ालय
+/
+/
+रा!य
+रा!य
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Ministry/State Name
+Ministry Of Power
+वभाग
+वभाग
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Department Name
+Contracts And Materials
+संगठन
+संगठन
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Organisation Name
+Aravali Power Company Private Limited
+काया%लय
+काया%लय
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Office Name
+Apcpl
+कुल
+कुल
+ 
+ 
+मा ा
+मा ा
+/Total Quantity
+1237350
+व&तु
+व&तु
+ 
+ 
+'ेणी
+'ेणी
+ 
+ 
+/Item Category
+Agro Residue Based Biomass Pellets (V2) (Q3)
+एमएसएमई
+एमएसएमई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष.
+वष.
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+4दान
+4दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+/MSE Exemption for Years of
+Experience and Turnover
+No
+&टाट%अप
+&टाट%अप
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष.
+वष.
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+4दान
+4दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+ /Startup Exemption for Years of
+Experience and Turnover
+No
+व5ेता
+व5ेता
+ 
+ 
+से
+से
+ 
+ 
+मांगे
+मांगे
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़
+द&तावेज़
+/Document required
+from seller
+Experience Criteria,Bidder Turnover,Additional Doc 1
+(Requested in ATC),Additional Doc 2 (Requested in
+ATC),Compliance of BoQ specification and supporting
+document
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by
+the buyer
+7या
+7या
+ 
+ 
+आप
+आप
+ 
+ 
+िनवदाकार9
+िनवदाकार9
+ 
+ 
+:ारा
+:ारा
+ 
+ 
+अपलोड
+अपलोड
+ 
+ 
+;कए
+;कए
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़9
+द&तावेज़9
+ 
+ 
+को
+को
+िनवदा
+िनवदा
+ 
+ 
+म<
+म<
+ 
+ 
+भाग
+भाग
+ 
+ 
+लेने
+लेने
+ 
+ 
+वाले
+वाले
+ 
+ 
+सभी
+सभी
+ 
+ 
+िनवदाकार9
+िनवदाकार9
+ 
+ 
+को
+को
+ 
+ 
+;दखाना
+;दखाना
+चाहते
+चाहते
+ 
+ 
+ह>
+ह>
+? 
+? 
+संदभ%
+संदभ%
+ 
+ 
+मेनू
+मेनू
+ 
+ 
+है
+है
+/Do you want to show
+documents uploaded by bidders to all
+bidders participated in bid?
+Yes (Documents submitted as part of a clarification or
+representation during the tender/bid process will also be
+displayed to other participated bidders after log in)
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+ 
+ 
+सीमा
+सीमा
+ 
+ 
+&वतः
+&वतः
+ 
+ 
+नहं
+नहं
+ 
+ 
+बढ़ाने
+बढ़ाने
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+आवBयक
+आवBयक
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+संCया
+संCया
+।
+।
+ / Minimum number of
+bids required to disable automatic bid
+extension
+3
+ 
+बड
+ 
+संCया
+/
+Bid
+ 
+Number
+: 
+GEM/2025/B/6953918
+;दनांक
+ /
+Dated
+: 10-12-2025
+बड
+बड
+ 
+ 
+द&तावेज़
+द&तावेज़
+ / Bid Document
+1 / 11
+;दन9
+;दन9
+ 
+ 
+क
+क
+ 
+ 
+संCया
+संCया
+, 
+, 
+Lजनके
+Lजनके
+ 
+ 
+िलए
+िलए
+ 
+ 
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+बढ़ाई
+बढ़ाई
+ 
+ 
+जाएगी
+जाएगी
+। / 
+। / 
+Number
+ 
+ 
+of
+ 
+ 
+days
+ 
+ 
+for
+ 
+ 
+which
+ 
+ 
+Bid
+would
+ 
+ 
+be
+ 
+ 
+auto
+-
+-
+extended
+5
+ऑटो
+ऑटो
+ 
+ 
+ए7सट<शन
+ए7सट<शन
+ 
+ 
+अिधकतम
+अिधकतम
+ 
+ 
+;कतनी
+;कतनी
+ 
+ 
+बार
+बार
+ 
+ 
+;कया
+;कया
+ 
+ 
+जाना
+जाना
+ 
+ 
+है
+है
+। /
+। /
+Number
+ 
+ 
+of
+ 
+ 
+Auto
+ 
+ 
+Extension
+ 
+ 
+count
+1
+बड
+बड
+ 
+ 
+से
+से
+ 
+ 
+Oरवस%
+Oरवस%
+ 
+ 
+नीलामी
+नीलामी
+ 
+ 
+स;5य
+स;5य
+ 
+ 
+;कया
+;कया
+/Bid to RA enabled
+No
+बड
+बड
+ 
+ 
+का
+का
+ 
+ 
+4कार
+4कार
+/Type of Bid
+Two Packet Bid
+तकनीक
+तकनीक
+ 
+ 
+मूPयांकन
+मूPयांकन
+ 
+ 
+के
+के
+ 
+ 
+दौरान
+दौरान
+ 
+ 
+तकनीक
+तकनीक
+ 
+ 
+&पRीकरण
+&पRीकरण
+ 
+ 
+हेतु
+हेतु
+अनुमत
+अनुमत
+ 
+ 
+समय
+समय
+ 
+ 
+/Time allowed for Technical
+Clarifications during technical evaluation
+2 Days
+िनरSण
+िनरSण
+ 
+आवBयक
+आवBयक
+ (
+सूचीबT
+सूचीबT
+ 
+िनरSण
+िनरSण
+ 
+4ािधकरण
+4ािधकरण
+ /
+जेम
+जेम
+ 
+के
+के
+ 
+साथ
+साथ
+पूव%
+पूव%
+ 
+पंजीकृत
+पंजीकृत
+ 
+एज<िसय9
+एज<िसय9
+ 
+:ारा
+:ारा
+)/Inspection Required (By
+Empanelled Inspection Authority / Agencies
+pre-registered with GeM)
+No
+7या
+7या
+ 
+ 
+पाट%
+पाट%
+ 
+ 
+7वां;टट
+7वां;टट
+ 
+ 
+बोली
+बोली
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+अनुमित
+अनुमित
+ 
+ 
+है
+है
+?
+?
+ / Is Part
+Quantity Bidding Allowed?
+Yes
+मूPयांकन
+मूPयांकन
+ 
+ 
+पTित
+पTित
+/Evaluation Method
+Total value wise evaluation
+वWीय
+वWीय
+ 
+ 
+द&तावेज
+द&तावेज
+ 
+ 
+क
+क
+ 
+ 
+आवBयकता
+आवBयकता
+ 
+ 
+है
+है
+ / Financial
+Document Required
+Yes
+मXय&थता
+मXय&थता
+ 
+खंड
+खंड
+/Arbitration Clause
+No
+सुलह
+सुलह
+ 
+खंड
+खंड
+/Mediation Clause
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+ईएमड
+ईएमड
+ 
+ 
+ववरण
+ववरण
+/EMD Detail
+एडवाईजर
+ 
+ब>क
+/Advisory Bank
+PUNJAB NATIONAL BANK
+ईएमड
+ 
+रािश
+/EMD Amount
+2000000
+ईपीबीजी
+ईपीबीजी
+ 
+ 
+ववरण
+ववरण
+ 
+ 
+/ePBG Detail
+आवBयकता
+/Required
+No
+(a). 
+जेम
+ 
+क
+ 
+शत.
+ 
+के
+ 
+अनुसार
+ 
+ईएमड
+ 
+छू ट
+ 
+के
+ 
+इZछु क
+ 
+बडर
+ 
+को
+ 
+संबंिधत
+ 
+केटेगर
+ 
+के
+ 
+िलए
+ 
+बड
+ 
+के
+ 
+साथ
+ 
+वैध
+ 
+समिथ%त
+ 
+द&तावेज़
+ 
+4&तुत
+ 
+करने
+ 
+है
+।
+ 
+एमएसई
+केटेगर
+ 
+के
+ 
+अंतग%त
+ 
+केवल
+ 
+व&तुओं
+ 
+के
+ 
+िलए
+ 
+विनमा%ता
+ 
+तथा
+ 
+सेवाओं
+ 
+के
+ 
+िलए
+ 
+सेवा
+ 
+4दाता
+ 
+ईएमड
+ 
+से
+ 
+छू ट
+ 
+के
+ 
+पा 
+ 
+ह>
+।
+ 
+[यापाOरय9
+ 
+को
+ 
+इस
+ 
+नीित
+ 
+के
+ 
+दायरे
+ 
+से
+बाहर
+ 
+रखा
+ 
+गया
+ 
+है
+।
+/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document
+for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and
+Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this
+Policy.
+(b).
+ईएमड
+ 
+और
+ 
+संपादन
+ 
+जमानत
+ 
+रािश
+, 
+जहां
+ 
+यह
+ 
+लागू
+ 
+होती
+ 
+है
+, 
+लाभाथ\
+ 
+के
+ 
+पS
+ 
+म<
+ 
+होनी
+ 
+चा;हए
+।
+ / EMD & Performance securityshould be
+in favour of Beneficiary, wherever it is applicable. 
+लाभाथ\
+लाभाथ\
+ 
+ 
+/Beneficiary :
+ 
+2 / 11
+AGM
+APCPL, Contracts and Materials, ARAVALI POWER COMPANY PRIVATE LIMITED, Ministry of Power
+(Apcpl)
+वभाजन
+वभाजन
+/Splitting
+वभाजन
+/Splitting Applied
+Yes
+बोलीदाताओं
+ 
+क
+ 
+अिधकतम
+ 
+संCया
+, 
+Lजनके
+ 
+बीच
+ 
+ऑड%र
+वभाLजत
+ 
+;कया
+ 
+जा
+ 
+सकता
+ 
+है
+।
+ / Maximum No. Of
+Bidders Amongst Which Order May Be Split
+100
+वभाजन
+ 
+मानदंड
+ 
+इस
+ 
+बात
+ 
+पर
+ 
+आधाOरत
+ 
+है
+ 
+;क
+ 
+कौन
+ 
+सी
+7वां;टट
+ 
+को
+ 
+वतOरत
+ 
+;कया
+ 
+जाएगा
+ / Split Criteria based
+on which quantity will be distributed
+Split criteria based on which quantity will be
+distributed,may please refer to allocation criteria, bucket
+filling and other related terms of bidding documents.
+एमआईआई
+एमआईआई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आरLSत
+आरLSत
+ / Reserved for Make In India products
+एमआईआई
+ 
+के
+ 
+िलए
+ 
+आरLSत
+ / Reserved for Make In
+India products
+Yes
+एमएसई
+एमएसई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MSE Purchase Preference
+एमएसई
+ 
+खरद
+ 
+वरयता
+/MSE Purchase Preference
+Yes
+सू]म
+ 
+और
+ 
+लघु
+ 
+उ`म
+ 
+मूल
+ 
+उपकरण
+ 
+िनमा%ताओं
+ 
+को
+ 
+खरद
+ 
+म<
+4ाथिमकता
+, 
+य;द
+ 
+उनका
+ 
+मूPय
+ 
+L
+1+
+X
+% 
+तक
+ 
+क
+ 
+सीमा
+ 
+म<
+ 
+हो
+ /
+Purchase Preference to MSE OEMs available upto
+price within L1+X%
+15
+सू]म
+ 
+और
+ 
+लघु
+ 
+उ`म
+ 
+को
+ 
+खरद
+ 
+म<
+ 
+4ाथिमकता
+ 
+के
+ 
+िलए
+ 
+बड
+क
+ 
+मा ा
+ 
+का
+ 
+अिधकतम
+ 
+4ितशत
+ / Maximum
+Percentage of Bid quantity for MSE purchase
+preference
+25
+1. Bid reserved for Make In India products: : Procurement under this bid is reserved for purchase from Class 1
+local supplier as defined in public procurement (Preference to Make in India), Order 2017 as amended from time
+to time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products.
+However, eligible micro and small enterprises will be allowed to participate. The minimum local content to
+qualify as a class 1 local supplier is denoted in the bid document. All bidders must upload a certificate from the
+OEM regarding the percentage of the local content and the details of locations at which the local value addition is
+made along with their bid, failing which the bid is liable to be rejected. In case the bid value is more than Rs 10
+Crore, the declaration relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered accountant for OEMs other
+than companies as per the Public Procurement (preference to Make-in -India) order 2017 dated 04.06.2020 . In
+case Buyer has selected Purchase preference to Micro and Small Enterprises clause in the bid, the same will get
+precedence over this clause. 
+2. Purchase preference will be given to MSEs having valid Udyam Registration and whose credentials are
+validated online through Udyam Registration portal as defined in Public Procurement Policy for Micro and Small
+Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and
+its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail themselves of the
+Purchase preference, the bidder must be the manufacturer / OEM of the offered product on GeM. Traders are
+excluded from the purview of Public Procurement Policy for Micro and Small Enterprises and hence resellers
+3 / 11
+offering products manufactured by some other OEM are not eligible for any purchase preference. In respect of bid
+for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in
+this regard shall be uploaded along with the bid in respect of the offered product or service and Buyer will decide
+eligibility for purchase preference based on documentary evidence submitted, while evaluating the bid. If L-1 is
+not an MSE and MSE Seller (s) has / have quoted price within L-1+ 15% (Selected by Buyer) of margin of
+purchase preference /price band defined in relevant policy, such MSE Seller shall be given opportunity to match
+L-1 price and contract will be awarded for 25% (selected by Buyer) percentage of total quantity. The buyers are
+advised to refer the OM No. F.1/4/2021-PPD dated 18.05.2023 
+OM_No.1_4_2021_PPD_dated_18.05.2023
+ 
+for
+compliance of Concurrent application of Public Procurement Policy for Micro and Small Enterprises Order, 2012
+and Public Procurement (Preference to Make in India) Order, 2017. Benefits of MSE will be allowed only if seller is
+validated on-line in GeM profile as well as validated and approved by Buyer after evaluation of documents
+submitted.
+पाट%
+पाट%
+ 
+7वां;टट
+7वां;टट
+ 
+बोली
+बोली
+ 
+लगाना
+लगाना
+ / Part Quantity Bidding
+Buyer has allowed part quantity bidding, bidders can offer maximum quantity that they can deliver keeping in
+mind their capacity and delivery period requirements. The offer quantity has to be more than minimum bid
+quantity as specified by the Buyer in the bid. Offers with quantity less than Minimum are liable to be rejected. It
+may however be noted that there is no guarantee that full offer quantity will be ordered by the buyer. Quantity
+to be ordered by the buyer will depend on various factors including the Ranking of the bidder, Offered quantity,
+Splitting criteria indicated by the buyer in the bid and the requirement of the buyer to have multiple sources of
+supply for ensuring supply chain etc. Sellers would be notified about likely order quantity or range of possible
+order quantity at the time of price match request made by the buyer. ward of contract will be subject to
+acceptance of price match request along with min / max offer quantity as decided by the Buyer.
+ए7सेल
+ए7सेल
+ 
+ 
+म<
+म<
+ 
+ 
+अपलोड
+अपलोड
+ 
+ 
+;कए
+;कए
+ 
+ 
+जाने
+जाने
+ 
+ 
+क
+क
+ 
+ 
+आवBयकता
+आवBयकता
+ 
+ 
+/Excel Upload Required :
+Agro Residue Based Biomass Pellets: PRICE BID - 
+1764762826.xlsx
+Pre Bid Detail(s)
+मूPय
+मूPय
+ 
+िभcनता
+िभcनता
+ 
+खंड
+खंड
+ 
+द&तावेज़
+द&तावेज़
+/Pre-Bid
+Date and Time
+4ी
+4ी
+-
+बड
+बड
+ 
+&थान
+&थान
+/Pre-Bid Venue
+16-12-2025 11:00:00
+THROUGH MS TEAMS (LINK AVAILABLE IN IFB/NIT)
+https://teams.microsoft.com/l/meetup-
+join/19:meeting_NTgxYzQ4M2ItNGVkMi00NTgwLWI1YjEtODU0ZjIxMDQyZTkx
+@thread.v2/0?context={"Tid":"2c631f90-6a65-4bb3-a626-
+c0f6f5790a9a","Oid":"76d01a96-d51a-4bd3-a060-3f2d77a2bcb3"}
+व5ेता
+व5ेता
+ 
+से
+से
+ 
+आवBयक
+आवBयक
+ 
+मदवार
+मदवार
+ 
+cयूनतम
+cयूनतम
+ 
+Sमता
+Sमता
+ / Itemwise Minimum Capacity Required From Seller
+5.सं.
+5.सं.
+ /
+S.No.
+व&तु
+व&तु
+ 
+'ेणी
+'ेणी
+ 
+/ Item Category
+मा ा
+मा ा
+ 
+/ Item
+Quantity
+cयूनतम
+cयूनतम
+ 
+Sमता
+Sमता
+ / Minimum
+Capacity
+1
+Agro Residue Based Biomass Pellets
+(V2)
+1237350
+14600
+Agro Residue Based Biomass Pellets (V2) ( 1237350 metric tonne ) 
+(Minimum 100% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशRयाँ
+विशRयाँ
+ 
+ 
+/Technical Specifications
+* 
+जेम
+ 
+केटेगर
+ 
+विशR
+ 
+के
+ 
+अनुसार
+ / 
+As
+ 
+per
+ 
+GeM
+ 
+Category
+ 
+Speciﬁcation
+4 / 11
+ववरण
+ववरण
+/Speciﬁcation
+विशR
+विशR
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+ 
+ 
+/Specification
+Name
+बड
+बड
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+आवBयक
+आवBयक
+ 
+ 
+अनुमत
+अनुमत
+ 
+ 
+मूPय
+मूPय
+ 
+ 
+/Bid Requirement
+(Allowed Values)
+Physical
+Characteristic
+Type
+Non-Torrefied
+Acceptable GCV range
+(Kcal/kg) for the pellet
+Non-Torrefied : 2800-4000
+Additional Specification Parameters - Agro Residue Based Biomass Pellets (V2) ( 1237350 metric
+tonne )
+ 
+Specification Parameter
+Name
+Bid Requirement (Allowed Values)
+Acceptable GCV range (Kcal/kg)
+for the pellet (Should be read
+as) (GCV-ARB): (IS 17654:
+2021)
+Acceptable range 2800 Kcal/Kg to 3400 kcal/Kg [both inclusive] (As per
+Tender Documents).
+Technical specification
+Technical specification are as per the bidding documents Section -IV
+technical specification and it shall supersede any other specification
+mentioned in GEM portal.
+Shape - Cylindrical Shape; 
+Size-
+Diameter: 
+Option-1: Not more
+than 10 mm. OR Option-2: Not
+more than 25 mm 
+(Vendor will
+have to select any one option)
+Length: should not exceed 35
+mm in.
+Sulphur-S (ISO-16994) Mass fraction in % dry: S < = 1%
+Fines% (length<3 mm) (ARB*)
+(IS 17656 : 2021) Mass fraction
+in % as received
+Fines should be 
+< = 
+5%, [Less than 5% by weight]
+Moisture -M IS 17655 (Part 1)
+:2021/, IS 17655 (Part 2) :2021/,
+IS 17655 (Part 3) :2021
+Moisture fraction in % as
+received wet basis
+i) M < = 14%- Acceptable 
+ii) If M between 14.01% to 16% - 5% reduction in
+quantity received iii) If M between 16.01% to 17.99%: 
+10% reduction in
+quantity received iv) If M >18.0% - No payment shall be made, and material
+will not be returned
+* Bidders offering must also comply with the additional specification parameters mentioned above. 
+अितOरf
+अितOरf
+ 
+ 
+विशR
+विशR
+ 
+ 
+द&तावेज़
+द&तावेज़
+ 
+ 
+/Additional Specification Documents
+Applicable Specification
+Document
+View
+परेषती
+परेषती
+/
+/
+Oरपो;टgग
+Oरपो;टgग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+5.सं.
+5.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो;टgग
+Oरपो;टgग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+;डलीवर
+;डलीवर
+ 
+के
+के
+ 
+;दन
+;दन
+/Delivery
+Days
+5 / 11
+1
+Amit Kumar Gautam
+124106,APCPL Indira Gandhi
+Super Thermal Power Project,
+PO-Jharli, distt- Jhajjar
+1237350
+730
+5.सं.
+5.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Oरपो;टgग
+Oरपो;टgग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+;डलीवर
+;डलीवर
+ 
+के
+के
+ 
+;दन
+;दन
+/Delivery
+Days
+Special terms and conditions-Version:1 effective from 06-11-2024 for category Agro Residue Based
+Biomass Pellets (V2)
+1
+. 
+Following clauses of OM No. 11/86/2017-Th.II-Part(II) dated 2nd March 2022, issued by the Ministry of
+Power (copy attached) will form the STC for this product category:
+(i) Clause no. 2  RAW MATERIAL FOR PELLET MANUFACTURING
+(ii) Clause no. 6  QUALITY DETERMINATION
+(ii) Clause no. 7  COMPUTATION METHODOLOGY FOR VARIOUS RECOVERIES /QUANTITY ADJUSTMENTS
+5ेता
+5ेता
+ 
+ 
+:ारा
+:ारा
+ 
+ 
+जोड़
+जोड़
+ 
+ 
+गई
+गई
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+वशेष
+वशेष
+ 
+ 
+शतi
+शतi
+/Buyer Added Bid Specific Terms and Conditions
+1
+. 
+Generic
+OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up
+to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to
+increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at
+the contracted rates. The delivery period of quantity shall commence from the last date of original
+delivery order and in cases where option clause is exercised during the extended delivery period the
+additional time shall commence from the last date of extended delivery period. The additional delivery
+time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to
+minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the
+original delivery period. The Purchaser may extend this calculated delivery duration up to the original
+delivery period while exercising the option clause. Bidders must comply with these terms.
+2
+. 
+Generic
+Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any
+responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates
+(whichever is lower), subject to the maximum of quoted GST %.
+3
+. 
+Generic
+Bidder shall submit the following documents along with their bid for Vendor Code Creation:
+ a. Copy of PAN Card.
+ b. Copy of GSTIN.
+ c. Copy of Cancelled Cheque.
+ d. Copy of EFT Mandate duly certified by Bank.
+4
+. 
+Scope of Supply
+Scope of supply (Bid price to include all cost components) : Only supply of Goods
+5
+. 
+Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+6 / 11
+1.0 Qualifying Requirements for
+ 
+Bidders/ 
+Eligibility Criteria
+:
+ 
+A)
+ 
+Only Pellets manufacturers and Pellets Traders/Aggregators shall be allowed to participate in t
+he tender.
+AND
+B)
+     
+In case of individual applicant, the bidder should be of minimum 18 years of age.
+AND
+C)   The vendor should have supplied at least 5,000 MT of biomass pellets in any continuous twel
+ve (12) months (consecutive 365 days) in one or multiple contracts during the preceding thr
+ee (3) ﬁnancial years along with the current ﬁnancial year as on the last date of Techno-com
+mercial bid opening. 
+Bidders shall submit all the documents, in support of Technical Qualification Requirements (s
+uch as copy of Purchase Orders/ Work Orders/ Contract Agreements and supply certiﬁcation)
+, duly certiﬁed and veriﬁed for authenticity from Independent Statutory Auditor of their Com
+pany or speciﬁed Third-Party Inspection Agency (TPIA) in case of companies and for others fr
+om Third-Party Inspection Agency (TPIA).
+AND
+D)   The Bidder shall be of Indian nationality AND / OR a Company/ Sole Proprietorship /      Partn
+ership / Limited Liability Partnership / Consortium / Cooperative Society registered in India A
+ND / OR Non-Resident Indians/ Person of Indian Origin AND / OR a Multinational Company ha
+ving its registered oﬃce in India / Overseas Corporate Bodies having its registered oﬃce in I
+ndia.
+AND
+E)   Bidding for the subject package is open to bidders from within the Employer's country only, s
+ubject to fulﬁlment of conditions "Restrictions on procurement from a Bidder of a country wh
+ich shares a land border with India".
+2.
+0
+      Further 
+If bidder fails to submit following documents (but not limited to) in required format, th
+e bid may be considered as substantially non-responsive 
+and 
+may be liable for rejection
+:
+           
+A.    Attachment 3 & 3A: Details/ credential in support of QR
+B.    Annexure C: Certificate of Compliance
+C.    
+Attachment 7B
+: Certiﬁcate by Practicing Chartered Accountant/ Practicing cost Accountant (a
+long with UDIN) on Letter Head for Bidders manufacturing capacity and also availing MSE ben
+efits/ Purchase preference as per Employer’s format 
+(Applicable for Manufacturer and consort
+ium Manufacturer).
+D.    Attachment 7C: Bidder’s turnover data for last 03 financial years certified by statutory auditor
+/ Chartered Accountant (along with UDIN)
+E.    Attachment 7D: Bidder’s QR documents duly certiﬁed and veriﬁed documents by Independen
+t Statutory Auditor of their Company (along with UDIN)  or speciﬁed Third-Party Inspection Ag
+ency (TPIA) in case of companies and for others from Third-Party Inspection Agency (TPIA) (al
+ong with Accreditation Cert. No of TPIA).
+F.    Attachment 8: Certiﬁcate by Practicing Chartered Accountant/ Practicing Cost Accountant (alo
+ng with UDIN) on Letter Head for Bidders DECLARATION OF PAST  ORDERS 
+(Applicable for Ma
+nufacturer and consortium Manufacturer).
+G.   Declaration by Bidder (Attachment 10) to be submitted on bidder letter head along with tech
+nical bid
+H.    BOQ/Excel sheet in pdf format with quoted quantity
+I.     Bid Security (Attachment-1)
+J.    Annexure- F10: INTEGRITY PACT to be submitted on plain paper duly  signed  on  all  pages  b
+y the Bidder's Authorized signatory (along with two witnesses)
+K.    Documentary proof of connected electricity load. 
+(Applicable for Manufacturer and consortium
+Manufacturer).
+L.    Complete GST certificate
+M.
+  
+MSE bidders (if applicable) seeking EMD exemption have to submit UDYAM Registration Certiﬁ
+cate 
+(containing code of Biomass pellets i.e. 38300)
+.
+3.0 Bid Security/EMD:
+7 / 11
+        
+All bids must be accompanied by Bid security as per the following table in the form as stipulate
+d in Bidding Documents:
+ 
+Quoted
+ 
+quantity
+ 
+in
+ 
+TPD
+ 
+(Tonne
+ 
+per
+ 
+day)
+Bid
+ 
+security
+ 
+/
+ 
+EMD
+ 
+amount 
+(
+INR)
+20
+20
+ 
+Lakh
+30
+ 
+to
+ 4
+0
+20
+ 
+Lakh
+50
+ 
+to
+ 
+80
+50
+ 
+Lakh
+90
+ 
+to
+ 
+170
+1
+ 
+Cr
+180
+ 
+to
+ 
+430
+2
+ 
+Cr
+440
+ 
+to
+ 8
+60
+5
+ 
+Cr
+870
+ 
+to
+ 1695
+10
+ 
+Cr
+ 
+Minimum EMD amount (corresponding to
+ minimum 20 TPD quantity to be quoted by a bidder) 
+shall be  Rs 20 lakh and it shall remain same for quantity quoted upto 40TPD. Afterwards, EMD
+amount will increase as per above table.
+ 
+In case of any discrepancy between the required Earnest Money Deposit (E
+MD) for the quoted quantity and the actual EMD submitted by the bidder, th
+e quantity considered for evaluation and allocation shall be the lesser of the
+quoted quantity or the quantity corresponding to the submitted EMD amou
+nt.
+All bidders including Traders/Aggregators/ Consortium have to submit EMD.
+The exemption from submission of EMD is allowed only to MSE bidder who i
+s a manufacturer of biomass pellets.
+ 
+  EMD exemption: Micro and Small Enterprises (MSEs) having UDYAM Registration, for goods pro
+duced and services rendered, shall be exempted from paying Earnest Money Deposit. Such re
+gistered bidders will have to submit UDYAM Registration Certiﬁcate 
+(containing code of Bio
+mass pellets i.e. 38300)
+ only, as a proof of being MSE on GeM Portal. Other MSE certiﬁcate 
+will not be considered as a proof of being MSE.
+  In case of Traders/Aggregators/ Consortium, MSE benefits shall not be extended.
+4.0
+         
+Procurement price:
+  Biomass pellets benchmark price has been notified for NCR region by Mi
+nistry of Power  vide letter No. 
+F. No.11/86/2017-Th.11 (C.No:238797) dated 21.08.2025
+.
+ 
+The notified benchmark price for NCR is Rs. 2.32/1000 kcal (excluding GST) or 2.436 Rs/1000 k
+cal(including GST) @3400 Kcal. GST shall be paid as per extant rates, and will change if the ra
+tes of GST are changed.
+ 
+Total procurement price shall be (A+B) as follows:
+ 
+A
+ i.e. Ex factory Price for non-torrefied Biomass {Rs. 2.436 Rs/1000Kcal or Rs 8282.40 / MT @3
+400 Kcal   as notified by GoI including GST @5%} +
+B
+ i.e. Transportation price (to be quoted by Bidder)  including GST in Rs/Ton for GCV 3400 Kca
+l/KG.
+ 
+Note: 1) The bidders are required to ﬁll the quantity in MT per day in the BOQ/Excel sheet. In cas
+e, bidder quotes any negative price which lower the base price of 
+Rs. 8282.40 per MT
+(incl GST)
+ in the Gem Portal, the same shall be ignored and the base price shall be con
+sidered as Rs. 8282.40 per MT (incl GST). The quantity quoted in BOQ/Excel sheet shall 
+be considered for evaluation/allocation for issuance of award, subject to Allocation criter
+ia as mentioned in ITB, Section-II of Bidding Document.
+8 / 11
+2) The bidders shall quote for total transportation cost from Ex factory to  IGSTPP, APCPL in
+Rs/ MT for 3400 Kcal/Kg GCV excluding of GST in the BOQ/Excel sheet (GST @ 5% on tra
+nsportation charge will automatically be calculated in Excel sheet). The transportation c
+ost quoted by bidder shall be paid full in case test value of GCV (ARB) comes equal to o
+r above 3400Kcal/Kg. Further transportation will be paid at pro rata basis between 2800
+-4000 Kcal/kg (refer Technical Specifications clause 10, Section IV).
+3) BOQ/ Excel sheet of Bidding Document is to be converted into pdf for uploading in price 
+bid of GeM. If bidder does not quote/ﬁll zero transportation charges per MT in the BOQ s
+heet then the transportation charges shall be considered inclusive in base price without
+further clarification from Bidder.
+4) Bidder shall enter Quantity in MT per Day in Financial document (Excel sheet converted 
+to PDF) as uploaded in GeM portal. Total quantity for 730 days will automatically be cal
+culated in the excel sheet. Excel sheet is to be converted in pdf for uploading in price bi
+d of GeM.
+5) 
+In case of any diﬀerence between the values quoted in the BOQ table (excel sheet) and 
+the values in the GEM BOQ ﬁelds, values (quantity & transportation charges) quoted in 
+BOQ Excel sheet shall be considered for evaluation/allocation for issuance of award subj
+ected to Allocation criteria as mentioned in ITB, Section-II of Bidding Document.
+Note: Bidder has to quote Total Qty for 730 Days (in MT) in the Quantity Tab in Ge
+M portal & Total price in (Rs/MT) of Biomass pellets on FOR Power station bas
+is inclusive of GST, any other taxes, duties and cess in the Total Oﬀer price T
+ab in GeM portal. However, Quantity Allocation shall be done as per ITB Claus
+e 1.5.
+5.0
+   
+CONTRACT PERFORMANCE GAURANTEE
+ 
+Security Deposit:
+a. 
+Manufacturer
+: CPG/SD is @ 5 % of total contract value The CPG/SD shall be deposited 100% within 30 
+days of placement of LOA. Alternatively, 25% of CPG shall be submitted as initial Security deposit within 30
+days of LOA and the remaining amount shall be deducted @ 10% of each bill till the total security deposit i
+s deducted. CPG/SD is @ 2.5 % of contract value for SC/ST & Women MSEs.
+b. 
+Traders:
+ CPG/SD is @ 5 % of total contract value.100% of the CPG amount must be deposited by the tr
+ader within 30 days of issuance of the LOA. 
+6.0
+ The successful bidder to whom PO shall be placed may please send Original Hard copy (within 2 days 
+of getting PO) of EFT and Original cancelled cheque to APCPL through speed post only at the following Add
+ress:
+Aravali Power Company Private Limited,
+Indira Gandhi Super Thermal Power Project,
+Admin Building, IIIrd Floor,
+P.O.: Jharli, Distt. Jhajjar
+HARYANA – 124141
+ 
+7.0 Additional Specification Documents Head in GEM bid 
+: PDF file attached  under Applicable Speci
+fication Document (Hyperlink for “Approved_model_contract_biomass”) may be considered ignored by Bid
+der and not to be considered while preparing  bid.
+.
+9 / 11
+6
+. 
+Buyer Added Bid Specific ATC
+Buyer uploaded ATC document 
+Click here to view the file
+.
+अ&वीकरण
+अ&वीकरण
+/Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+bidding process without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+Category item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+attached categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+case may be.
+15
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+16
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the
+same must be added through bunching category based items or by bunching custom catalogs or
+bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+such representations.
+All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws,
+including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code
+on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working
+Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into
+force by the Government of India.
+For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or
+10 / 11
+notifications, the corresponding provisions of the pre-existing labour enactments (such as The
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The
+Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules)
+shall continue to remain applicable.
+The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:
+All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove;
+and
+All operative provisions of the erstwhile Labour Laws until their complete substitution.
+All obligations relating to wages, social security, safety, working conditions, industrial relations etc.
+and any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-
+compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate
+action in accordance with the contract and applicable law.
+यह
+ 
+बड
+ 
+सामाcय
+ 
+शत.
+ 
+के
+ 
+अंतग%त
+ 
+भी
+ 
+शािसत
+ 
+है
+ 
+/This Bid is also governed by the General Terms and Conditions
+जेम
+ 
+क
+ 
+सामाcय
+ 
+शत.
+ 
+के
+ 
+खंड
+ 26 
+के
+ 
+संदभ%
+ 
+म<
+ 
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+के
+ 
+बडर
+ 
+से
+ 
+खरद
+ 
+पर
+ 
+4ितबंध
+ 
+के
+ 
+संबंध
+ 
+म<
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+का
+ 
+कोई
+ 
+भी
+ 
+बडर
+ 
+इस
+ 
+िनवदा
+ 
+म<
+ 
+बड
+ 
+देने
+ 
+के
+ 
+िलए
+ 
+तभी
+ 
+पा 
+ 
+होगा
+ 
+जब
+ 
+वह
+ 
+बड
+ 
+देने
+ 
+वाला
+सSम
+ 
+4ािधकार
+ 
+के
+ 
+पास
+ 
+पंजीकृत
+ 
+हो
+।
+बड
+ 
+म<
+ 
+भाग
+ 
+लेते
+ 
+समय
+ 
+बडर
+ 
+को
+ 
+इसका
+ 
+अनुपालन
+ 
+करना
+ 
+होगा
+ 
+और
+ 
+कोई
+ 
+भी
+ 
+गलत
+ 
+घोषणा
+ 
+;कए
+ 
+जाने
+व
+ 
+इसका
+ 
+अनुपालन
+ 
+न
+ 
+करने
+ 
+पर
+ 
+अनुबंध
+ 
+को
+ 
+तlकाल
+ 
+समाm
+ 
+करने
+ 
+और
+ 
+कानून
+ 
+के
+ 
+अनुसार
+ 
+आगे
+ 
+क
+ 
+कानूनी
+ 
+कार%वाई
+ 
+का
+ 
+आधार
+ 
+होगा
+।
+/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---
+धcयवाद
+धcयवाद
+/Thank You---
+11 / 11

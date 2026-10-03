@@ -1,0 +1,280 @@
+Sr No Pg. No. Clause Existing specification Amended specification
+1 10 Annexure-A, 1. Solution specifications. 
+Clause A ,2.ii.
+Amended Spec (Corrigendum 2) 
+Each node should have 2 x 960GB SAS SSD or NVMe SSD configured in RAID 1 Each node should have 2 x 960GB NVMe SSD  configured in RAID 1
+2 2 Vol III, Tech. specs and SoW (ix) In case, the offered Virtualization(Hypervisor) Software is other than VMware or 
+Microsoft , then Bidder must submit proofs of at least three successful active 
+installations in India and in which, the offered virtualization software has been 
+deployed in clustered environment with a minimum of 200 Cores. Undertaking from 
+OEM of the offered virtualization software with the details of the deployment, 
+substantiated with customer PO as the proof of experience can also be considered. 
+A non-compliance to this requirement may lead to the rejection of the bid.
+(ix) In case, the offered Virtualization(Hypervisor) Software is other than VMware or 
+Microsoft , then Bidder must submit proofs of at least ONE successful active 
+installations in India and in which, the offered virtualization software has been 
+deployed in clustered environment with a minimum of 190 Cores. Undertaking from 
+OEM of the offered virtualization software with the details of the deployment, 
+substantiated with customer PO and contact details as the proof of experience can 
+also be considered. A non-compliance to this requirement may lead to the rejection 
+of the bid.
+3 7.2 Vol III, Tech. specs and SoW Payment on Installation and migration:
+Twenty percent (20%) of contract price for supply portion and 100% Payment for 
+installation & commissioning charges shall be paid within 30 days subject to the 
+fulfilling of all the following conditions:-
+1. Warranty Certificate from all OEMs
+2. Removal of old items which are under Buyback from NTPC
+3. Certification by engineer-in-charge that the complete system has been 
+successfully installed and accepted as per Cl 2.13 of scope of work and completion 
+of migration.
+Payment on Installation , migration and stablization:
+(i) Fifteen percent (15%) of contract price for supply portion and 100% Payment for 
+installation & commissioning charges shall be paid within 30 days subject to the 
+fulfilling of all the following conditions:-
+1. Warranty Certificate from all OEMs
+2. Removal of old items which are under Buyback from NTPC
+3. Certification by engineer-in-charge that the complete system has been 
+successfully installed and accepted as per Cl 2.13 of scope of work and completion 
+of migration.
+(ii) Five percent (5%) of contract price for supply portion shall be released after 
+succussful completion of stablization period of 6 months. Stabilization period shall 
+start from the date of completion of migration.
+4 2 Vol III, Tech. specs and SoW ( New Clause, 2.14 ) The proposed solution shall be subject to a stabilization period of six (6) months 
+from the date of completion of migration. During this period, the bidder shall ensure 
+that the virtualization software and all associated software components operate 
+smoothly and are free from errors, bugs, defects, or performance issues.
+In the event that NTPC identifies any bug, fault, defect, functional limitation, or 
+inability of the virtualization software and/or associated software to meet the 
+requirements specified in the tender, the bidder shall, at its own cost, provide 
+suitable replacement software that fully complies with the tender specifications. 
+Such replacement software shall be subject to NTPC’s inspection, testing, and 
+acceptance procedures.
+The bidder shall complete the replacement and commissioning of the compliant 
+software within four (4) weeks from the date of receiving written notification from 
+NTPC. During this period, the bidder shall ensure continuity of services and system 
+functionality without any adverse impact on NTPC’s operations.
+5 Annexure-A, 2. On-site operation and 
+management support Service, clause 1
+Note:
+i. FMSA – Activity to be performed by the On-Site Resource Person
+ii. FMSC – Activity to be coordinated with OEM/OES On-Site Resource Person
+iii. The deployed on-site support resource shall also be responsible for the below activities ( through 
+remote support ) from DC-Noida
+Note:
+i. FMSA – Activity to be performed by the On-Site Resource Person
+ii. FMSC – Activity to be coordinated with OEM/OES On-Site Resource Person
+iii. The deployed on-site support resource shall also be responsible for the below activities ( through 
+remote support ) at DC-Noida 
+AMENDMENT-4-TECHNICAL
+Sr 
+No
+Pg. 
+No.
+Clause Specification
+1 10 Annexure-A, 1. Solution 
+specifications. Clause A ,2.ii.
+Amended Spec (Corrigendum 
+2) 
+Each node should have 2 x 960GB SAS SSD or NVMe SSD 
+configured in RAID 1
+Request for NVMe drives so that everyone on the same platform as 
+below
+(iii) Each node should have 2 x 960GB NVMe configured in RAID 1
+Refer  Amendment-4-Technical
+2 2 Vol III, Tech. specs and SoW (ix) In case, the offered Virtualization(Hypervisor) Software is other 
+than VMware or Microsoft , then Bidder must submit proofs of at 
+least three successful active installations in India and in which, the 
+offered virtualization software has been deployed in clustered 
+environment with a minimum of 200 Cores. Undertaking from OEM 
+of the offered virtualization software with the details of the 
+deployment, substantiated with customer PO as the proof of 
+experience can also be considered. A non-compliance to this 
+requirement may lead to the rejection of the bid.
+Request you to remove this clause as specific clause restrict the 
+competition as RFP stated another clause i.e. “Open source 
+virtualization software is not acceptable.” 
+Further if clause still exists we request for the relaxation in criteria so 
+that competitive bids can participate, as below :  
+(ix) In case, the offered Virtualization(Hypervisor) Software is other 
+than VMware or Microsoft , then Bidder must submit proofs of at least 
+ONE successful active installations in India and in which, the offered 
+virtualization software has been deployed in clustered environment 
+with a minimum of 190 Cores.
+Undertaking from OEM of the offered virtualization software with the 
+details of the deployment, substantiated with customer PO as the proof 
+of experience can also be considered. A non-compliance to this 
+requirement may lead to the rejection of the bid.
+Refer  Amendment-4-Technical
+NTPC ResponseRFP Reference Bidder Query/Responses
+CLARIFICATION-4-TECHNICAL
+Sr No Pg. No. Clause Existing specification Amended specification
+1 10 Annexure-A, 1. Solution specifications. 
+Clause A ,2.ii.
+Amended Spec (Corrigendum 2) 
+Each node should have 2 x 960GB SAS SSD or NVMe SSD configured in RAID 1 Each node should have 2 x 960GB NVMe SSD  configured in RAID 1
+2 2 Vol III, Tech. specs and SoW (ix) In case, the offered Virtualization(Hypervisor) Software is other than VMware or 
+Microsoft , then Bidder must submit proofs of at least three successful active 
+installations in India and in which, the offered virtualization software has been 
+deployed in clustered environment with a minimum of 200 Cores. Undertaking from 
+OEM of the offered virtualization software with the details of the deployment, 
+substantiated with customer PO as the proof of experience can also be considered. 
+A non-compliance to this requirement may lead to the rejection of the bid.
+(ix) In case, the offered Virtualization(Hypervisor) Software is other than VMware or 
+Microsoft , then Bidder must submit proofs of at least ONE successful active 
+installations in India and in which, the offered virtualization software has been 
+deployed in clustered environment with a minimum of 190 Cores. Undertaking from 
+OEM of the offered virtualization software with the details of the deployment, 
+substantiated with customer PO and contact details as the proof of experience can 
+also be considered. A non-compliance to this requirement may lead to the rejection 
+of the bid.
+3 7.2 Vol III, Tech. specs and SoW Payment on Installation and migration:
+Twenty percent (20%) of contract price for supply portion and 100% Payment for 
+installation & commissioning charges shall be paid within 30 days subject to the 
+fulfilling of all the following conditions:-
+1. Warranty Certificate from all OEMs
+2. Removal of old items which are under Buyback from NTPC
+3. Certification by engineer-in-charge that the complete system has been 
+successfully installed and accepted as per Cl 2.13 of scope of work and completion 
+of migration.
+Payment on Installation , migration and stablization:
+(i) Fifteen percent (15%) of contract price for supply portion and 100% Payment for 
+installation & commissioning charges shall be paid within 30 days subject to the 
+fulfilling of all the following conditions:-
+1. Warranty Certificate from all OEMs
+2. Removal of old items which are under Buyback from NTPC
+3. Certification by engineer-in-charge that the complete system has been 
+successfully installed and accepted as per Cl 2.13 of scope of work and completion 
+of migration.
+(ii) Five percent (5%) of contract price for supply portion shall be released after 
+succussful completion of stablization period of 6 months. Stabilization period shall 
+start from the date of completion of migration.
+4 2 Vol III, Tech. specs and SoW ( New Clause, 2.14 ) The proposed solution shall be subject to a stabilization period of six (6) months 
+from the date of completion of migration. During this period, the bidder shall ensure 
+that the virtualization software and all associated software components operate 
+smoothly and are free from errors, bugs, defects, or performance issues.
+In the event that NTPC identifies any bug, fault, defect, functional limitation, or 
+inability of the virtualization software and/or associated software to meet the 
+requirements specified in the tender, the bidder shall, at its own cost, provide 
+suitable replacement software that fully complies with the tender specifications. 
+Such replacement software shall be subject to NTPC’s inspection, testing, and 
+acceptance procedures.
+The bidder shall complete the replacement and commissioning of the compliant 
+software within four (4) weeks from the date of receiving written notification from 
+NTPC. During this period, the bidder shall ensure continuity of services and system 
+functionality without any adverse impact on NTPC’s operations.
+5 Annexure-A, 2. On-site operation and 
+management support Service, clause 1
+Note:
+i. FMSA – Activity to be performed by the On-Site Resource Person
+ii. FMSC – Activity to be coordinated with OEM/OES On-Site Resource Person
+iii. The deployed on-site support resource shall also be responsible for the below activities ( through 
+remote support ) from DC-Noida
+Note:
+i. FMSA – Activity to be performed by the On-Site Resource Person
+ii. FMSC – Activity to be coordinated with OEM/OES On-Site Resource Person
+iii. The deployed on-site support resource shall also be responsible for the below activities ( through 
+remote support ) at DC-Noida 
+AMENDMENT-4-TECHNICAL
+Sr 
+No
+Pg. 
+No.
+Clause Specification
+1 10 Annexure-A, 1. Solution 
+specifications. Clause A ,2.ii.
+Amended Spec (Corrigendum 
+2) 
+Each node should have 2 x 960GB SAS SSD or NVMe SSD 
+configured in RAID 1
+Request for NVMe drives so that everyone on the same platform as 
+below
+(iii) Each node should have 2 x 960GB NVMe configured in RAID 1
+Refer  Amendment-4-Technical
+2 2 Vol III, Tech. specs and SoW (ix) In case, the offered Virtualization(Hypervisor) Software is other 
+than VMware or Microsoft , then Bidder must submit proofs of at 
+least three successful active installations in India and in which, the 
+offered virtualization software has been deployed in clustered 
+environment with a minimum of 200 Cores. Undertaking from OEM 
+of the offered virtualization software with the details of the 
+deployment, substantiated with customer PO as the proof of 
+experience can also be considered. A non-compliance to this 
+requirement may lead to the rejection of the bid.
+Request you to remove this clause as specific clause restrict the 
+competition as RFP stated another clause i.e. “Open source 
+virtualization software is not acceptable.” 
+Further if clause still exists we request for the relaxation in criteria so 
+that competitive bids can participate, as below :  
+(ix) In case, the offered Virtualization(Hypervisor) Software is other 
+than VMware or Microsoft , then Bidder must submit proofs of at least 
+ONE successful active installations in India and in which, the offered 
+virtualization software has been deployed in clustered environment 
+with a minimum of 190 Cores.
+Undertaking from OEM of the offered virtualization software with the 
+details of the deployment, substantiated with customer PO as the proof 
+of experience can also be considered. A non-compliance to this 
+requirement may lead to the rejection of the bid.
+Refer  Amendment-4-Technical
+NTPC ResponseRFP Reference Bidder Query/Responses
+CLARIFICATION-4-TECHNICAL
+Corrigendum 
+ 
+Source of NIT 
+ 
+Corporate Contracts 
+State 
+ 
+Uttar Pradesh 
+Region 
+ 
+Corporate Center 
+NIT No. 
+ 
+NTPC/EOC/9900326627 
+Brief NIT Description 
+ 
+Supply, Installation and On-site Operation Support Services for 
+Disaggregated Infrastructure System at DC-Noida and DR-Hyderabad 
+ 
+Contracts Classification 
+ 
+Services 
+Bid Submission End Date 
+ 
+23.07.2026 at 15:00 Hrs. 
+Bid Opening Date 
+ 
+24.07.2026 at 15:00 Hrs. 
+ 
+Sr 
+No
+Pg. 
+No.
+Clause Specification
+1 10 Annexure-A, 1. Solution 
+specifications. Clause A ,2.ii
+Each node should have 2 x 960GB SAS 
+SSD configured in RAID 1
+We would request you to amend this specification to either 
+SATA/SAS SSD or move the requirement to NVMe drives to keep 
+everyone on the same platform.
+Refer  Amendment-2-Technical
+2 14 Annexure-A, 1. Solution 
+specifications. Clause B
+Please specify protocol support for backup appliance like OST, 
+CIFS, NFS, VTL etc. 
+No change. Tender specifications shall prevail.
+3 14 Annexure-A, 1. Solution 
+specifications. Clause B
+Bidders should propose Backup software and Backup Appliance 
+form single OEM. 
+No change. Tender specifications shall prevail.
+NTPC ResponseRFP Reference Bidder Query/Responses
+CLARIFICATION-2-TECHNICAL
+Sr No Pg. No. Clause Existing specification Amended specification
+1 10 Annexure-A, 1. Solution specifications. 
+Clause A ,2.ii
+Each node should have 2 x 960GB SAS SSD 
+configured in RAID 1
+Each node should have 2 x 960GB  SAS SSD or NVMe SSD  configured in 
+RAID 1
+AMENDMENT-2-TECHNICAL

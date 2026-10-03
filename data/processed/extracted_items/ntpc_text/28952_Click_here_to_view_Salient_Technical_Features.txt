@@ -1,0 +1,39 @@
+Salient Technical Features 
+Salient Technical Features for EPC Package for Development of 80 MW/ 
+320 MWh BESS Capacity by NGEL at KSEB Substations at  Pothencode 
+and Sreekantapuram in Kerala 
+ 
+“Salient Technical Features of the equipment/ systems/ services covered in IFB No.               
+NGEL-CS-5833-004(BESS)-9 are mentioned below. These Salient Technical Features 
+are mentioned only to facilitate the prospective bidders to prima-facie understand the 
+requirements under the tender and shall not in any way limit or alter the scope of work 
+and technical features/specification of equipment/ systems/ services covered in the 
+Bidding Documents. Detailed provisions in regard of scope of work and technical 
+features/specification of equipment/ systems/ services, contained in the Bidding 
+Document shall be final and binding.” 
+ 
+ 
+Name of the Project 
+EPC Package for Development of 80 MW  320 MWh 
+BESS Capacity by NGEL at KSEB Substations 
+at Pothencode and Sreekantapuram in Kerala. 
+Project capacity 
+Project is divided into two blocks as follows: 
+Block-1: 40 MW / 160 MWhr at KSEB Pothencode  
+Block-2: 40 MW / 160 MWhr at KSEB Sreekantapuram. 
+BESS Service Life 
+Designed service life of BESS shall be of 12 years for daily 
+single cycle operation. O&M of 12 years is included the 
+scope of this project.  
+Degradation As mentioned in Technical Specifications 
+ 
+ Determination of basic design criteria for the Battery Energy Storage System ( BESS). 
+ The BESS shall comprise of BESS containers with Battery Racks, Battery 
+Management System (BMS), Energy Management System (EMS) and SCADA, 
+Power Conversion System (PCS), Protection system, Power Transformers, Power 
+Evacuation system, Communication System, HT & LT System, Auxiliary power 
+system, Monitoring & Control system, Fire Fighting, remote control and monitoring, 
+any other associated materials and services necessary for trouble free operation and 
+maintenance of the BESS. 
+ Comprehensive Operation and Maintenance (O&M) works of BESS system for entire 
+design life of 12 years from the date of commissioning.  

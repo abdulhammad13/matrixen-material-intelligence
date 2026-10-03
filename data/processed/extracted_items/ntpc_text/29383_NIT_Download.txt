@@ -1,0 +1,164 @@
+NTPC Limited eProcurement Portal
+Tender Details
+Date : 29-Jan-2026 01:01 PM
+ Print
+Basic Details
+Organisation Chain NTPC Vidyut Vyapar Nigam Limited
+Tender Reference
+Number NVVN/CandM/2025-26/RE-495
+Tender ID 2026_NVVN_104497_1 Withdrawal Allowed Yes
+Tender Type Limited Form of contract Works
+Tender Category Works No. of Covers 3
+General Technical
+Evaluation Allowed Yes [Compliance Required] ItemWise Technical Evaluation
+Allowed No
+Payment Mode Offline Is Multi Currency Allowed For
+BOQ No
+Is Multi Currency
+Allowed For Fee No Allow Two Stage Bidding No
+ 
+Payment Instruments
+Offline S.No Instrument Type
+1 DD
+Cover Details, No. Of Covers - 3
+Cover
+No Cover Document Type Description
+1 Fee .pdf Bid Security
+.pdf Power of
+Attorney
+.rar Other
+Documents
+2 PreQual/Technical .pdf
+Techno
+Commercial Bid
+Form
+.pdf
+UNDERTAKING
+FOR SITE
+SURVEY,
+ATTACHMENT 2A
+.pdf
+Declaration on
+Local Content for
+granting of
+purchase
+preference ,
+ATTACHMENT 13
+.pdf
+UNDERTAKING
+FOR
+COMPLIANCE TO
+TECHNICAL
+SPECIFICATIONS
+, ATTACHMENT
+2B
+.pdf
+Declaration
+regarding
+insolvency,
+bankruptcy and
+Liquidation,
+Attachment 3M
+.rar OTHER
+DOCUMENTS
+3 Finance .xls Price Schedule
+.pdf
+ATTACHMENTS
+FOR ENVELOPE-
+2 (PRICE BID)
+.rar Other
+Documents
+ 
+Tender Fee Details, [Total Fee in ₹ * - 0.00]
+Tender Fee in ₹ 0.00
+Fee Payable To Nil Fee Payable At Nil
+EMD Fee Details
+EMD Amount in ₹ 10,00,000 EMD Exemption
+Allowed
+No
+
+Tender Fee
+Exemption Allowed
+No EMD Fee Type fixed EMD Percentage NA
+EMD Payable To NTPC
+Vidyut
+Vyapar
+Nigam
+Limited
+EMD Payable At NTPC
+Vidyut
+Vyapar
+Nigam
+Limited
+BG Required Yes
+Minimum Direct
+EMD Payment in ₹
+0.00
+ 
+ 
+Work /Item(s)
+Title DEVELOPMENT OF 1000 KW GRID CONNECTED GROUND MOUNTED SOLAR POWER PROJECT AT GAIL AJMER
+Work Description DEVELOPMENT OF 1000 KW GRID CONNECTED GROUND MOUNTED SOLAR POWER PROJECT AT GAIL AJMER
+Pre Qualification
+Details
+Please refer Tender documents. 
+Independent External
+Monitor/Remarks
+NA 
+Tender Value in ₹ NA Product Category Miscellaneous Works Sub category NA 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work(Days) NA 
+Location GAIL AJMER Pincode 305601 Pre Bid Meeting Place NA 
+Pre Bid Meeting
+Address
+NA Pre Bid Meeting Date NA Bid Opening Place NVVN Office Noida
+Should Allow NDA
+Tender
+No Allow Preferential
+Bidder
+No
+ 
+Critical Dates
+Publish Date 29-Jan-2026 01:00 PM Bid Opening Date 13-Feb-2026 03:00 PM
+Document Download / Sale Start
+Date
+29-Jan-2026 01:00 PM Document Download / Sale End
+Date
+12-Feb-2026 05:00 PM
+Clarification Start Date 29-Jan-2026 01:00 PM Clarification End Date 05-Feb-2026 06:00 PM 
+Bid Submission Start Date 29-Jan-2026 01:00 PM Bid Submission End Date 12-Feb-2026 05:00 PM
+ 
+ 
+Tender Documents
+NIT
+Document S.No Document Name Description Document Size
+(in KB)
+1 Tendernotice_1.pdf NIT 175.33
+ 
+Work Item
+Documents S.No Document Type Document Name Description Document Size
+(in KB)
+1 Tender Documents Bid_documents.pdf Tender Document 14125.86
+2 Additional Documents BOQ.xls BOQ 123.50
+ 
+ 
+View GTE Details - PURCHASE GTE(LT-COMMON-LAND BORDER CLAUSE-INTEGRITY PACT)
+S.No Particulars Expected Value Mandatory
+1.0 Do you accept the Fraud Prevention Policy as per bid douments - [ FRAUD
+PREVENTION] Yes Yes
+2.0 Do you accept Withholding and Banning of Business Dealing Policy as per bid
+documents - [ BANNING POLICY DECLARATION] Yes Yes
+3.0 Do You certify full compliance of Integrity Pact - [ INTEGRITY PACT COMPLIANCE] Yes Yes
+4.0
+Do you certify full compliance on clause as per tender documents on Restrictions
+on procurement from a Bidder of a country which shares a land border with India -
+[ LAND BORDER CLAUSE COMPLIANCE]
+Yes Yes
+5.0 Do you certify full compliance to all provisions of Bid documents - [ NO DEVIATION
+CERTIFICATION] Yes Yes
+ 
+ 
+Tender Inviting Authority
+Name Sr. Manager
+Address NTPC VIDYUT VYAPAR NIGAM LIMITED Engineering Office Complex, Plot No. A-8A Sector 24, Block A, Noida,
+Uttar Pradesh 201301
+ 

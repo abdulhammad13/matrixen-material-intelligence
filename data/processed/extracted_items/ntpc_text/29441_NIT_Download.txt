@@ -1,0 +1,653 @@
+EPC PACKAGE FOR DEVELOPMENT OF 1000 MWh BESS CAPACITY AT 
+NTPC REL BIKANER SOLAR PLANT  
+BIDDING DOCUMENT NO. NREL-CS-5800-004(BESS1)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 1 of 11 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+NTPC RENEWABLE ENERGY LIMITED 
+(A SUBSIDIARY OF NTPC LIMITED) 
+ 
+CONTRACTS SERVICES 
+ 
+INVITATION FOR BIDS (IFB) 
+ 
+FOR 
+ 
+EPC PACKAGE FOR DEVELOPMENT OF 1000 MWh BESS CAPACITY AT NTPC REL 
+BIKANER SOLAR PLANT 
+ 
+(International Competitive Bidding) 
+ 
+IFB No.: NREL-CS-5800-004(BESS1)-9                                                               Date: 06.02.2026 
+ 
+ETS Portal Tender Search Code: NTPCREL-2026-TN000002 
+Bidding Document No: NREL-CS-5800-004(BESS1)-9 
+1.0 NTPC Renewable Energy Limited (NTPC REL), invites online bids from eligible bidders on Single 
+Stage Two Envelope (i.e., Envelope-I: Techno-Commercial Bid and Envelope-II: Price Bid) basis 
+followed by Reverse Auction for EPC Package for Development of 1000 MWh BESS Capacity 
+at NTPC REL Bikaner Solar Plant. 
+ 
+2.0 BRIEF SCOPE OF WORK 
+ 
+The Brief Scope of Works consists of the following: 
+ 
+SCOPE OF WORK: The scope of work covers the following activities and services in respect of 
+all the equipment & works specified and covered under the specifications and read in conjunction 
+with “Scope of Supply & services” specified in Technical Specifications: 
+1.01 Project is divided into single block as follows: 
+Block-1: 250 MW / 1000 MWh (Single cycle 4-hour discharge) at NTPC REL Bikaner Solar 
+Plant BESS capacity to be considered is the rated AC discharge capacity at Point of 
+injection at ISTS substation. Bidder needs to consider aux consumption of BESS Plant 
+during discharge to arrive at the discharge capacity of the BESS Plant. 
+1.02 Design, Engineering, Supply, Packing and Forwarding, Transportation, Unloading, 
+Storage, Installation and Commissioning of grid connected Battery Energy Storage System 
+(BESS) on turnkey basis. 
+1.03 Unloading at respective site, Erection, Testing, Commissioning, Integration of above 
+equipment with existing 33 kV System to commission a complete BESS integrated with 
+Solar plant and grid shall be included in scope of bidder.  
+1.04 Design life of BESS including that of battery shall be of 25 years (with degraded 
+capacity as per bidder’s proposal considering daily single cycle operation) from the 
+date of commissioning. 
+1.05 Batteries offered shall be rated for minimum 10,000 cycles of operation.  
+
+EPC PACKAGE FOR DEVELOPMENT OF 1000 MWh BESS CAPACITY AT 
+NTPC REL BIKANER SOLAR PLANT  
+BIDDING DOCUMENT NO. NREL-CS-5800-004(BESS1)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 2 of 11 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+1.06 The BESS Supplier shall take into consideration following loss parameters beyond the 
+termination point (Point of Coupling) and up to POI while sizing the nameplate capacity of 
+the BESS:   
+Head Loss to be considered in sizing 
+Power Trafo Losses 1% 
+Transmission Line Losses 0.25% 
+1.07 Bidder will guarantee minimum 92 % of dispatchable capacity at POI  across all 15 
+years starting with 100 % of rated dispatchable capacity (as mentioned above) at 
+CoD and 95 %for first year.  Dispatchable capacity at the time of handover shall be 
+minimum 92%. 
+1.08 Any augmentation required for meeting above criteria shall be included in scope of 
+bidder. 
+Minimum nameplate rated installed capacity of BESS shall be : 
+ Deliverable capacity* Min Nameplate capacity 
+Block 1 1000 MWh 1100 MWh 
+• 100% of Dispatchable Capacity.  
+1.09 Comprehensive O&M including associated warranty, annual maintenance contract 
+(Service Level Agreement) and Insurance of BESS for period of 15 years shall be 
+included in scope of bidder.  
+1.10 Minimum monthly Round Trip Efficiency (RTE) shall be 80% including auxiliary 
+consumption (Measured at Termination point/POC). 
+1.11 Monthly availability to be maintained is 98%. Detailed Availability requirements and other 
+details will be mentioned in detailed specifications. 
+1.12 BESS capacity offered shall be suitable for meeting deliverable capacity at POI including 
+reactive power compensation.  
+1.13 Grid compliance study is excluded from scope of bidder.  However, inputs for conducting 
+grid power study by owner to be provided by bidder. Grid compliance study. If required, for 
+each augmentation shall be in scope of bidder. 
+1.14 Reactive power compensations and power quality compliance for entire BESS system upto 
+220 KV/400 KV grid interconnection point at ISTS switchyard is included in scope of bidder. 
+1.15 Aux supply system for the BESS Plant from 33 kV termination point/POC shall be in the 
+scope of Bidder . The aux supply required for Battery Container at site up to final 
+commissioning shall be also in the scope of Bidder.  Bidder to ensure the delivery of items 
+at site and other works related to BESS plant accordingly. 
+1.16 The Bidder shall design the system in such a way that during non-solar hours the stand-by 
+aux consumption of the BESS Plant shall be in the scope of Bidder. Accordingly, the bidder 
+should design its BESS Capacity for the entire contract period. 
+1.17 During operation of the BESS Plant, in case of grid failure, emergency supply requirement 
+for BESS Plant shall be in the scope of Bidder. 
+
+EPC PACKAGE FOR DEVELOPMENT OF 1000 MWh BESS CAPACITY AT 
+NTPC REL BIKANER SOLAR PLANT  
+BIDDING DOCUMENT NO. NREL-CS-5800-004(BESS1)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 3 of 11 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+1.18 DSM Charges applicable corresponding to the metering and scheduling of BESS Plant and 
+attributable to Bidder shall be paid by bidder, during the Contract duration. 
+1.19 Bidder shall carry out Engineering to execution works of civil, erection, installation and 
+commissioning works of all the supplied equipment and equipment system(s). 
+1.20 Bidder shall provide engineering drawings, data, process calculations, test procedures, 
+Equipment layout, Drawings/Data sheets of bought out items, Performance & Guarantee 
+Test procedure etc for review and approval of NTPC REL. 
+1.21  Provide documentation for design and expected performance through design calculations, 
+software, design drawings, equipment drawings, and modifications to the existing drawings.  
+1.22 Complete manufacturing including conducting all type, routine and acceptance tests, Pre -
+assembly, (if any), testing, pre -commissioning and commissioning and putting into 
+satisfactory operation all the equipment including successful completion of initial operation. 
+Scope shall include EMS configuration to operate BESS at various modes as per Grid requirement 
+mentioned in specification and integrated operation with Solar plant and Plant Scheduling as per 
+Grid/RLDC requirement during O&M. Bidder is required to provide Hybrid EMS which shall control 
+the generation of Solar Plant as well BESS Plant and shall be properly integrated with Solar Plant. 
+Further details shall be shared during detailed specification. 
+1.23 Develop detailed start up and site acceptance plan. Reliability and Functional/Performance 
+guarantee tests after successful completion of commissioning. 
+1.24 Provide training for the operators, engineers, technicians, and maintenance personnel. 
+1.25 Special tools and tackles, if any, required for maintenance of the plant. 
+1.26 BESS should be in line with latest guidelines of CEA, CERC and LDC. BMS, EMS, Fire 
+Safety of the BESS should comply with the latest IS or/and IEC or/and IEEE standards and 
+guidelines issued by statutory authorities. Fire safety of the Battery and container  should 
+be in line with latest Indian or/and international standards.  
+1.27 All equipment, materials and services whether explicitly stated or otherwise and that are 
+necessary for the satisfactory operation of the BESS system and its integration with owner’s 
+system at 33 KV , as described in the specification shall be deemed to be  included in the 
+scope of work. 
+1.28 Further the bidder has to obtain site -specific data from the owner in preparation for 
+developing installation and implementation plans. All other details will be provided in the 
+IFB. 
+Detailed provisions in regard of scope of work and technical features/specification of equipment/ 
+systems/ services, contained in the Bidding Document shall be final and binding. 
+1.0 TERMINAL POINT/ Point of Coupling (POC) 
+The terminal point/ Point of Coupling (POC) under the scope of this assignment shall be up to 
+commissioning and Integration with Owner’s 33 KV pooling switchgear. 
+ 
+ 
+The detailed scope of work is as defined in bidding document No.: NREL-CS-5800-
+004(BESS1)-9. 
+3.0 NTPC REL intends to finance the subject package through Own Resources/ Borrowings. 
+ 
+
+EPC PACKAGE FOR DEVELOPMENT OF 1000 MWh BESS CAPACITY AT 
+NTPC REL BIKANER SOLAR PLANT  
+BIDDING DOCUMENT NO. NREL-CS-5800-004(BESS1)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 4 of 11 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+4.0 Detailed specification, Scope of work and Terms & Conditions are given in the bidding documents, 
+which are available for examination and downloading at e-tender portal (as specified in this notice) 
+and as per the following schedule: 
+*Note: Bidders are advised to visit the ETS portal (https://www.bharat -
+electronictender.com) for updated bidding schedule of the Tender, if any. 
+ 
+No Queries from Bidders, whatsoever, shall be entertained by the Employer beyond the last 
+date of receipt of Queries/ Pre-Bid Conference as specified above. 
+ 
+ETS Portal Tender Search Code (TSC) NTPCREL-2026-TN000002 
+IFB Date 06.02.2026* 
+Period of Downloading of Bidding Documents From 12.02.2026* 17:00 HRS to 
+23.02.2026* [up to 17:00 HRS 
+(IST)] 
+Pre-Bid Conference and Last Date for receipt of queries 
+from prospective Bidders  25.02.2026* 
+Last Date and Time for receipt of bids comprising both 
+Techno-Commercial Bid and Price Bid 11.03.2026* 15:00:00 (IST) 
+Date & Time of opening of Techno-Commercial Bid  11.03.2026* 15:30:00 (IST) 
+Cost of Bidding Documents in INR Not Applicable 
+5.0 All bids must be accompanied by Bid Security for an amount as mentioned below in the form as 
+stipulated in the Bidding Documents.  
+For Indian Bidders INR 20,00,00,000/-  
+[Indian Rupees Twenty Crore only] 
+OR 
+For Foreign Bidders 
+USD ($) 2,171,100/-  
+[United States Dollars Two million, one hundred seventy -one 
+thousand, one hundred only] 
+ 
+ANY BID NOT ACCOMPANIED BY AN ACCEPTABLE BID SECURITY IN A 
+SEPARATE SEALED ENVELOPE SHALL BE REJECTED BY THE EMPLOYER AS 
+BEING NON-RESPONSIVE. IN CASE, THE BID SECURITY IS SUBMITTED THROUGH 
+AS E -BG/THROUGH ELECTRONIC FUND TRANSFER (EFT), BIDDER TO SUBMIT 
+THE COPY OF E -BG/PROOF OF E -PAYMENT OF BID SECURITY IN SEPARATE 
+SEALED ENVELOPE. 
+ 
+6.0 QUALIFYING REQUIREMENTS FOR BIDDERS 
+  
+ In addition to the requirements stipulated under section Instruction to Bidder (ITB), the 
+Bidder should also meet the qualifying requirements stipulated hereunder in Clause 1.0 
+and clause 2.0: 
+ 
+1.0 TECHNICAL CRITERIA 
+ 
+
+EPC PACKAGE FOR DEVELOPMENT OF 1000 MWh BESS CAPACITY AT 
+NTPC REL BIKANER SOLAR PLANT  
+BIDDING DOCUMENT NO. NREL-CS-5800-004(BESS1)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 5 of 11 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+1.1 The bidder should have manufactured and supplied Batteries of cumulative capacity 
+of minimum 80.0 MWh for grid interactive battery energy storage system(s), out of which 
+at least one supply order should be of minimum 20.0 MWh capacity. The reference grid 
+interactive battery energy storage system, where minimum 20 MWh capacity has been 
+supplied in a single order, must have been in successful operation for at least six (6) 
+months prior to the date of techno-commercial bid opening. 
+ 
+OR 
+ 
+1.2 The bidder should have supplied, installed/ supervised installation and commissioned/ 
+supervised commissioning of grid interactive battery energy storage system(s) of 
+cumulative installed capacity of minimum 80.0 MWh, out of which  at least one  grid 
+interactive battery energy storage system should be of minimum 20.0 MWh capacity. 
+The reference grid interactive battery energy storage system of minimum 20.0 MWh 
+capacity must have been in successful operation for at least six (6) months prior to the 
+date of techno-commercial bid opening.  
+OR 
+1.3 The Bidder should have designed, supplied, erected/ supervised erection and 
+commissioned/ supervised commissioning of Solar Photo Voltaic (SPV)/Wind based grid 
+connected power plant(s) of cumulative installed capacity of 40 MW AC or higher, out of 
+which at least one plant should have been of 10 MW AC or higher capacity. The reference 
+plant of 10 MW AC or higher capacity must have been in successful operation for at least 
+six (6) months prior to the date of techno commercial bid opening. 
+OR 
+1.4 The Indian  Bidder should have technical collaboration agreement with a Battery 
+Manufacturer meeting the requirements stipulated at Clause 1.1 above or should have a 
+manufacturing license from a Battery manufacturer meeting the requirements stipulated at 
+Clause 1.1 above or should be a joint venture company of a Battery Manufacturer meeting 
+the requirements stipulated at Clause 1.1 above. In case of technical collaboration/license, 
+bidder shall furnish along with the bid a copy of such license/collaboration agreement done 
+with the battery manufacturer and such agreement should be ongoing and valid for a 
+period of at least 12 years from the originally scheduled last date of techno commercial 
+bid submission. In case the bidder is a joint venture company of a battery manuf acturer 
+meeting the requirements stipulated at clause 1.1, the bidder shall submit a copy of joint 
+venture formation document along with their techno commercial bid. Bidder has to furnish 
+an Undertaking jointly executed by the license provider/ technology collaborator/ JV 
+partner qualified as per clause 1.1 and the Bidder along with its techno commercial bid for 
+complete performance of the contract jointly  and severally as per format enclosed in the 
+bid document, failing which the Bidder’s bid is liable to be rejected. 
+OR 
+1.5 (i) The bidder should have executed in the  last ten (10)  years an industrial project 
+either as developer or as EPC Contractor in the area of power/ steel/ oil and gas/ petro - 
+chemical/ fertilizer/cement/ or any other process industry, of minimum financial figure 
+as mentioned in table below, in a single project or single work and the  same must be in 
+successful operation for at least one (1) year/ six (6) months* prior to the date  of 
+techno-commercial bid opening. 
+Total Quoted 
+Capacity 
+Minimum Financial Figure 
+
+EPC PACKAGE FOR DEVELOPMENT OF 1000 MWh BESS CAPACITY AT 
+NTPC REL BIKANER SOLAR PLANT  
+BIDDING DOCUMENT NO. NREL-CS-5800-004(BESS1)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 6 of 11 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+1000 MWh INR 1530 Million 
+(Indian Rupees One Thousand Five Hundred 
+and Thirty  Million Only) 
+*Successful operation:  
+At least One (1) year for industrial projects other than RE sector i.e., Solar/Wind. 
+At least Six (6) months for projects in RE sector (i.e., Solar/Wind) 
+          AND 
+ 
+(ii) The bidder should have executed at least one (1) Electrical Sub -station of 
+minimum 33kV  voltage level, consisting of equipment such as 33kV or above 
+voltage level circuit breakers and power transformer, either as developer or as EPC 
+Contractor which must be in successful operation for at least one (1) year/ six (6) 
+months# prior to the date of techno-commercial bid opening. 
+ 
+# Successful operation:  
+At least One (1) year for Electrical Sub-station in Projects other than RE sector i.e., 
+Solar/Wind. 
+At least Six (6) months for Electrical Sub-station in RE Projects (i.e., Solar/Wind). 
+ 
+The works referred to at Clause 1.5(i) & 1.5(ii) can be in same or different projects. 
+OR 
+ 
+1.6 The bidder should be an Indian company registered in India and should be Group 
+company/Holding Company/Subsidiary company of a firm meeting the requirement (s) of 
+Clause 1.1 or 1.2 or 1.3 or 1.5 above. In such a case, Bidder shall furnish an Undertaking 
+jointly executed by the firm qualified as per clause 1.1 or 1.2 or 1.3 or 1.5 and the  Bidder 
+along with its bid for complete performance of the contract jointly and severally as per 
+format enclosed in the bid document, failing which the Bidder’s bid is liable to be rejected. 
+ 
+Notes for Clause 1.0: 
+a. For clause 1.1, reference projects for meeting cumulative manufacturing and supply 
+experience of 80 MWh, may or may not be commissioned.  
+b. For clause 1.1, the reference grid interactive battery energy storage system, 
+where supply of minimum 20.0 MWh has been done, should be at a single 
+location. 
+c. For clause 1.2, Projects with Battery supplied by developer/owner as free issue 
+item to bidder shall also be considered eligible for QR purpose. 
+d. For clause 1.2, the reference grid interactive battery energy storage system of 
+minimum 20.0 MWh capacity should be at a single location developed by Bidder 
+for itself or any other client. 
+
+EPC PACKAGE FOR DEVELOPMENT OF 1000 MWh BESS CAPACITY AT 
+NTPC REL BIKANER SOLAR PLANT  
+BIDDING DOCUMENT NO. NREL-CS-5800-004(BESS1)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 7 of 11 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+ 
+e. For clause 1.1 and 1.2, Grid interactive Battery Energy Storage System (BESS) shall 
+consist of Battery System (BS), Power Conversion System (PCS) & Energy 
+Management System (EMS) and used for grid connected renewable energy 
+application or energy time shifting/ peak shaving application or frequency regulation 
+application or Load leveling application and the same shall have to be established by 
+bidder by providing relevant supporting documents. 
+f. For Clause 1.3,  the reference SPV/Wind based grid -connected power plant of 
+10MWAC or above capacity should be at a single location developed by Bidder for 
+itself or any other client. 
+g. For clause 1.3, SPV based Roof -top/Floating solar power projects, which are grid 
+connected, shall also be considered eligible for QR purpose. 
+h. For Clause 1.3, reference plants with solar PV module/Wind Turbine supplied by 
+developer/owner as free issue item to bidder shall also be considered eligible for QR 
+purpose. 
+i. For Clause 1.3, bidder shall provide relevant support documents to establish that 
+reference projects are Grid Connected. 
+j. For clause 1.5, developer means an entity who has either executed or got executed 
+the work/ project as owner of industrial projects. 
+k. For clause 1.5, the execution of industrial project as EPC Contractor means that such 
+EPC Contractor is responsible for all the activities i.e. Design/Engineering, 
+Procurement, Construction (with/without civil works) and Commissioning of the 
+project/work. 
+l. For Clause 1.5, the portion of work related to power transformer such as supply 
+and /or installation mentioned  at cl. no. 1.5  (ii) can either be done  by EPC 
+contractor by themselves or by the owner. 
+m. For Clause 1.5, bidder shall submit documentary evidence for the value of the 
+project certified by a Chartered Accountant. The specified value of executed work 
+shall be exclusive of Taxes. 
+n. For clause 1.5, if the value of reference work is indicated in foreign currency, the 
+exchange rate as on date of award of the reference work shall be considered. In case 
+the exchange rate as on the date of award is not available, the exchange rate as on 
+the next available day shall be considered. 
+o. For establishing successful commissioning and operation of the reference projects 
+as required in different clauses, bidder shall submit the certificate of successful 
+commissioning and operation from the Owner of such reference project/plant. 
+Certificate issued by owner in the name of Bidder/intermediary Organization shall be 
+acceptable. However, if bidder in clause 1.1 or 1.2 or 1.3 is also the owner of the 
+reference project or if the bidder in clause 1.5  is a developer, certificate of successful 
+commissioning of the project issued from Government Renewable Nodal 
+Agency/Government Enterprise/ Discom/ Electricity Board etc and evidence of 
+successful operation from intermediary procurer/ procurer/Discom/ Electricity 
+Board etc shall be submitted. 
+
+EPC PACKAGE FOR DEVELOPMENT OF 1000 MWh BESS CAPACITY AT 
+NTPC REL BIKANER SOLAR PLANT  
+BIDDING DOCUMENT NO. NREL-CS-5800-004(BESS1)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 8 of 11 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+p. Direct/Indirect Order 
+The bidder shall also be considered qualified, in case the award for executing the 
+reference work has been received by the bidder either directly from the owner of the 
+plant or any other intermediary organization. In such a case, a certificate from such 
+owner of plant or any other intermediary organization shall be required to be furnished 
+by the bidder along with its techno -commercial bid in support of bidder’s claim of 
+meeting the qualification requirement as per different clauses. Bidder shall also 
+submit a certificate of successful completion and  operation from the Owner in line 
+with note(o) above. 
+2.0 FINANCIAL CRITERIA 
+2.1 The average annual turnover of the Bidder should not be less than the financial 
+figure mentioned in Table below, during the preceding three (3) financial years as 
+on the date of techno-commercial bid opening.  
+Total Quoted 
+Capacity 
+Minimum Financial Figure 
+1000 MWh  INR 1530 Million 
+(Indian Rupees One Thousand Five Hundred and 
+Thirty Million Only) 
+In case a Bidder does not satisfy the average annual turnover criteria on its own, 
+its Holding Company would be required to meet the stipulated turnover 
+requirements as above, provided that the Net Worth of such Holding Company as 
+on the last day of the preceding financial year is at least equal to or more than the 
+paid-up share capital of the Holding Company. In such an event, the Bidder would 
+be required to furnish along with its Techno -Commercial bid, a Letter of 
+Undertaking from its Holding Company, supported by the Holding Company’s 
+Board Resolution, as per the format enclose d in the bid documents, pledging 
+unconditional and irrevocable financial support for the execution of the contract by 
+the Bidder in case of award. 
+2.2 Net Worth of the Bidder as on the last day of the preceding financial year should 
+not be less than 100% (one hundred percent) of bidder’s paid-up share capital. 
+In case the Bidder does not satisfy the Net Worth criteria on its own, it can meet 
+the requirement of Net worth based on the strength of its Subsidiary(ies) and/or 
+Holding Company  and/or Subsidiaries of its Holding companies wherever 
+applicable. In such a case, however the Net worth of the Bidder and its 
+Subsidiary(ies) and/or Holding Company and/or Subsidiary(ies) of the Holding 
+Company, in combined manner should not be less than 100% (one hundred 
+percent) of their total paid up share capital. However individually, their Net 
+worth should not be less than 75% (seventy five percent) of their respective 
+paid up share capitals. 
+Net worth in combined manner shall be calculated as follows: 
+Net worth (combined) = (X1+ X2+X3) / (Y1+Y2+Y3) X 100 where X1, X2, X3 are 
+
+EPC PACKAGE FOR DEVELOPMENT OF 1000 MWh BESS CAPACITY AT 
+NTPC REL BIKANER SOLAR PLANT  
+BIDDING DOCUMENT NO. NREL-CS-5800-004(BESS1)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 9 of 11 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+individual Net worth which should not be less than 75% (seventy five percent) of 
+the respective paid up share capitals and Y1,Y2,Y3 are individual paid up share 
+capitals. 
+ 
+ 
+2.3 In case the Bidder is not able to furnish its audited financial statements on 
+standalone entity basis, the unaudited unconsolidated financial statements of 
+the Bidder can be considered acceptable provided the Bidder further furnishes 
+the following documents on substantiation of its qualification: 
+(i) Copies of the unaudited unconsolidated financial statements of the Bidder 
+along with copies of the audited consolidated financial statements of its Holding 
+Company 
+(ii) Certificate from the CEO/CFO of the Holding Company, as per the format 
+enclosed in the bidding documents, stating that the unaudited unconsolidated 
+financial statements form part of the consolidated financial statement of the Holding 
+Company. 
+In case where audited results for the last financial year as on date of techno - 
+commercial bid opening are not available, the financial results certified by a 
+practicing Chartered  Accountant shall be  considered acceptable. In case the 
+Bidder is not able to submit the Certificate from a practicing Chartered Accountant 
+certifying its financial parameters, the audited result of three (3) consecutive 
+financial years preceding the last financial year shall be considered for evaluating  
+financial parameters. Further, a certificate would be required from the CEO/CFO as 
+per the format enclosed in the bidding documents stating that the financial results 
+of the company are under audit as on techno -commercial bid opening and  the 
+Certificate from a practicing Chartered Accountant certifying the financial 
+parameters is not available. 
+Notes for Clause 2.0: 
+i. Net worth means the sum total of the paid up share capital and free reserves. 
+Free reserves means all reserves credited out of the profits and share premium 
+account but does not include reserves credited out of the revaluation of the 
+assets, write back of depreciation provision and amalgamation. Further any debit 
+balance of Profit and Loss account and miscellaneous expenses to the extent 
+not adjusted or written off, if any, shall be reduced from reserves and surplus. 
+ii. Other income shall not be considered for arriving at annual turnover. 
+iii. “Holding Company” and “Subsidiary” shall have the meaning ascribed to them 
+as per Companies Act of India. 
+iv. For financial figure indicated in foreign currency in Clause 2.1, the exchange 
+rates as on seven (7) days prior to the last date of submission  of bid shall be 
+used. 
+v. ‘Group Company’ means two or more enterprises which, directly or indirectly, are 
+
+EPC PACKAGE FOR DEVELOPMENT OF 1000 MWh BESS CAPACITY AT 
+NTPC REL BIKANER SOLAR PLANT  
+BIDDING DOCUMENT NO. NREL-CS-5800-004(BESS1)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 10 of 11 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+in a position to:  
+a) Exercise twenty-six percent or more of voting rights in other enterprise. 
+Or 
+b) Appoint more than fifty percent of members of Board of Directors in the other 
+enterprise. 
+The meaning of Holding/Subsidiary/Group Company mentioned above shall be 
+applicable for Clause 1.6 also. 
+  
+7.0 NTPC REL reserves the right to reject any or all bids or cancel/ withdraw the Invitation for Bids 
+without assigning any reason whatsoever and in such case no bidder/ intending bidder shall have 
+any claim arising out of such action. 
+ 
+8.0 
+(a) 
+Interested parties are required to get registered with M/s ISN Electronic Tender Services (ETS) 
+website https://www.bharat-electronictender.com (if not already registered).  
+ 
+  
+(b) The bidder shall be mandatorily required to submit a copy of “Non -Disclosure Agreement” 
+duly signed by the authorized signatory as per the format enclosed (Annexure-A) along with 
+the IFB to enable the Employer to authorize the Bidder for procurement of the Bidding 
+Documents. 
+ 
+In case of any non -compliance in submission of Non -Disclosure Agreement, authorization 
+shall not be provided to the bidders for procurement of bidding documents. 
+  
+(c) Interested bidders are required to submit duly signed NDA prior to closing of Bidding 
+documents sale period to enable the employer for authorizing the bidder to download the 
+bidding documents online from the ETS portal 
+  
+8.1 Issuance of Bid Documents to any Bidder shall not construe that such Bidder is considered to be 
+qualified. The bids shall be submitted online. Bidder shall furnish hard copy of Bid Security and 
+other documents as detailed in Bidding Documents before the stipulated bid submission closing 
+date and time at the address given below. 
+ 
+8.2 After registration with ETS and submission of duly signed NDA as above, a complete set of Bidding 
+Documents may be downloaded by any interested Bidder from ETS Portal https://www.bharat-
+electronictender.com with Tender Search Code NTPCREL-2026-TN000002.  
+ 
+Interested bidders are required to ensure that they have downloaded the official copy of bidding 
+documents against Tender Search code  NTPCREL-2026-TN000002 from website of ETS before 
+closure of Bid Sale Period. If only free copy of Bidding Documents are downloaded from ETS portal 
+or Bidding Documents are downloaded without confirmation or without generating official copy 
+serial number, then the bidders will not be able to submit the bids.  
+ 
+For technical assistance, interested parties may call ETS Helpdesk at 0124 -4229071, 0124 -
+4229072. 
+ 
+Note: No hard copy of Bidding Documents shall be issued. 
+ 
+
+EPC PACKAGE FOR DEVELOPMENT OF 1000 MWh BESS CAPACITY AT 
+NTPC REL BIKANER SOLAR PLANT  
+BIDDING DOCUMENT NO. NREL-CS-5800-004(BESS1)-9 
+SECTION-I 
+INVITATION FOR BIDS (IFB) Page 11 of 11 
+ 
+ 
+INVITATION FOR BIDS 
+ 
+8.3 For foreign bidders, please refer Annexure-I to IFB regarding procedures regarding Digital 
+Signature for Foreign Vendor. 
+  
+9.0 Transfer of Bidding Documents purchased by one intending Bidder to another is not permissible. 
+ 
+10.0 Any ‘Bidder from a country which shares a land border with India’, as specified in the Bidding 
+Documents, will be eligible to bid in this tender only if bidder is registered with the Competent 
+Authority as mentioned in the Bidding Documents.  
+ 
+Further, any bidder (including bidder from India) having specified Transfer of Technology (ToT) 
+arrangement with an entity from a country which shares a land border with India, will be eligible to 
+bid only if the bidder is registered with the same competent authority. 
+ 
+Further, the Ministry of Power has waived the requirement of registration, in respect of para 3 of 
+DoE Order (Public Procurement No. 4) vide F No.7lI0l2021-PPD (1) dated 23.02.2023, for bidders 
+utilizing lithium-ion cell technology, as per Letter No. F.No. 48-15/23/2025 dated 09.01.2026 issued 
+from Ministry of Power (NRE Section) enclosed at Annexure-II to IFB. 
+ 
+However, the said requirement of registration will not apply to bidders from those countries (even if 
+sharing a land border with India) to which the Government of India has extended lines of credit or 
+in which the Government of India is engaged in development projects. 
+ 
+11.0 ADDRESS FOR COMMUNICATION 
+  
+Contracts Services 
+NTPC Renewable Energy Limited  
+4th Floor, Renewables Building, NETRA Complex 
+E-3, Ecotech-II, Udyog Vihar, Greater Noida 
+Gautam Buddha Nagar, Uttar Pradesh, India, Pin – 201306 
+ 
+Contact Persons 
+Name & Designation Telephone No Mobile No E-Mail ID 
+Om Prakash 
+AGM (CS) +91-120-2356605 9650994070 omprakash08@ntpc.co.in 
+Krishna M Goyal 
+DGM (CS) +91-120-2356603 9413354964 kmgoyal01@ntpc.co.in 
+ 
+Corporate Identification Number: U40107DL2020GOI371032, Website: www.ntpcrel.co.in 
+ 
+
+
+
+
+
+
+
+
+ 
+Annexure-I to IFB 
+ANNEXURE-I TO INVITATION TO BID (IFB) 
+ 
+IFB No: NREL-CS-5800-004(BESS1)-9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+F. No. 48-1512312025
+Government of India
+Ministry of Power
+(NRE Section)
+Shram Shakti Bhawan,
+Rafi Marg, New Delhi-l10001
+Dated the 9th Jantary,2026
+To
+1. Principal Secretaries/Secretary (Power/Energy) of all State Governments/UTs
+2. CMDs, CPSUs (Power)
+3. Head, REIAs
+Subject: Registration waiver under clause 15(iv) of Department of Expenditure's Public
+Procurement Order No. 4 dated 23.02.2023 in respect of utilizing lithium-ion cell technology
+for Grid Connected Battery Energy Storage System (BESS) tenders.
+Sir/Madam
+The Ministry is in receipt of requests from BESS manufacturers seeking waiver of the
+DPIIT registration requirement, for bidders with Transfer of Technology (ToT) arrangements
+with land-border sharing countries, using lithium-ion cell technology in grid-connected BESS
+tenders.
+2. India's revised NDC targets a 45o/o reduction in GDP emission intensity, 50olo non-fossil
+installed capacity by 2030, and net-zero emissions by 2070, necessitating large-scale deplo5rment
+of Energy Storage Systems (ESS) for a secure and reliable grid. CEA has projected the BESS
+requirements of 208 GWh by 2029-30, against the existing capacity of about 0.5 GWh. The
+domestic grid-scale battery manufacturing is in a nascent stage. At present,lithium-ion cells
+remain the most mature and cost-effective technology used in the grid connected Battery Energy
+storage system world-wide.
+3. In view of the non-availability of adequate domestic manufacturing of lithium-ion cells in the
+country, the Ministry hereby waives the requirement of registration, in respect of para 3 of DoE
+Order (Public Procurement No. 4) vide F No.7lI0l2021-PPD (1) dated 23.02.2023, for bidders
+utilizing lithium-ion cell technology, for 1 year from the date of issue of this letter, to facilitate
+their participation in BESS tenders.
+This issues with the approval of Competent Authority.
+w*_"
+(SuniiKumar Sharma)
+Director (RCMAIRE)
+Email: sunil. sharm a24@gov .in
+Encl: DoE Order (Public Procurement No. 4) dated23.02.2023
+Annexure-II to IFB
+,:Copy to:
+1. secretary, Department for Promotion of Industry and Internal Trade.
+2. National security council secretariat (As per para 15(iv) of Ministry of Finance
+Department of Expenditure Procurement Policy Division Order No.F.7/10/2021-PPD(1)
+dated 23.02.2023)

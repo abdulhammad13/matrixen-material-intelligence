@@ -1,0 +1,219 @@
+ 
+ABRIDGED INVITATION FOR BIDS   
+NTPC GREEN ENERGY LIMITED 
+(A SUBSIDIARY OF NTPC LIMITED) 
+ 
+CONTRACTS SERVICES 
+ 
+INVITATION FOR BIDS (IFB)   
+ 
+FOR 
+ 
+EPC PACKAGE FOR DEVELOPMENT OF 7800 MWH BESS CAPACITY BY NGEL AT NTPC REL BIKANER 
+SOLAR PLANT  
+ 
+(Domestic Competitive Bidding) 
+ 
+IFB No.: NGEL-CS-5800-004(BESS2)-9       
+Date: 29.05.2026 
+ETS Portal Tender Search Code: NGEL-2026-TN000005 
+Bidding Document No: NGEL-CS-5800-004(BESS2)-9 
+1.0 NTPC GREEN ENERGY LIMITED , invites online bids on Single Stage Two Envelope Bidding 
+basis (Envelope I: Techno-Commercial Bid & Envelope II: Price Bid) followed by Reverse Auction 
+from eligible bidders for “ EPC PACKAGE FOR DEVELOPMENT OF 7800 MWH BESS CAPACITY BY 
+NGEL AT NTPC REL BIKANER SOLAR PLANT” 
+ 
+Project will be divided into blocks with location as follows: 
+ 
+Blocks Location BESS Capacity* 
+Block-1 PSS-1, NTPC REL Bikaner, 
+Rajasthan 500 MW /2000 MWh 
+Block-2 PSS-2, NTPC REL Bikaner, 
+Rajasthan 550 MW /2200 MWh 
+Block-3 
+PSS-3, NTPC REL Bikaner, 
+Rajasthan 
+300 MW /1200 MWh 
+Block-4 300 MW /1200 MWh 
+Block-5 300 MW /1200 MWh 
+Note: -  
+Each BESS Block shall be connected at 33 kV Level of designated Solar Plants. 
+ 
+* “BESS capacity” mentioned in Table above, is the deliverable capacity to be demonstrated by 
+Bidder at the time of COD at the Point of Interconnection (POI).  
+ 
+Bidder needs to consider the aux consumption of the BESS Plant(s) in addition to other losses 
+during discharge to arrive at the Discharge capacity of the BESS Plant(s). 
+ 
+2.0 NTPC GREEN ENERGY LIMITED intends to finance the subject package through Own 
+Resources/Borrowings. 
+  
+3.0 For the detailed IFB please visit, https://www.bharat-electronictender.com  or 
+https://ntpctender.ntpc.co.in  or https://www.ngel.in  or https://www.ntpc.co.in  
+For bidding documents please visit https://www.bharat-electronictender.com. 
+
+ 
+ABRIDGED INVITATION FOR BIDS   
+ 
+Important dates: - 
+ 
+Period for downloading Bidding Documents: - 05.06.2026 to 15.06.2026 up to 17:00 hrs 
+Last date for receipt of Both Techno-Commercial bid and Price bid: - 25.06.2026 up to 15:00 hrs 
+Techno-Commercial Bid opening date: - 25.06.2026 at 15:30 Hrs 
+ 
+For any details, contact DGM(CS) / AGM (CS), NTPC Green Energy Limited, as mentioned 
+below: 
+ 
+ADDRESS FOR COMMUNICATION 
+DGM (RE-CS) / AGM (RE-CS) 
+NTPC Green Energy Limited (Contract Services) 
+4th Floor, RE Building, NETRA Complex, 
+E-3, Ecotech-II, Udyog Vihar, Greater Noida 
+Gautam Budh Nagar, Uttar Pradesh, India, Pin – 201306 
+Landline: +91 120 2356557 Mobile: +91 9650990766 
+E-mail: sanjaykumar@ntpc.co.in , rajandwivedi@ntpc.co.in 
+ 
+Registered Office 
+NTPC Limited 
+NTPC Bhawan, SCOPE 
+Complex, 7, Institutional Area, 
+Lodi Road, New Delhi – 100003 
+Corporate Identification Number: 
+L40101DL1975GOI007966. Website: www.ntpc.co.in 
+ 
+
+ 
+ 
+ 
+Brief Scope of Work for EPC Package for Development of BESS capacity at NTPC REL Bikaner 
+Solar Project 
+ 
+SCOPE OF WORK: The scope of work covers the following activities and services in respect of all the 
+equipment & works specified and covered under the specifications and read in conjunction with “Scope of 
+Supply & services” specified in Technical Specifications 
+  
+1.01 Project is divided into different blocks with location as follows: 
+Table 01: 
+Blocks Location BESS Capacity* 
+Block-1 PSS-1, NTPC REL Bikaner, Rajasthan 500 MW /2000 MWh 
+Block-2 PSS-2, NTPC REL Bikaner, Rajasthan 550 MW /2200 MWh 
+Block-3 
+PSS-3, NTPC REL Bikaner, Rajasthan 
+300 MW /1200 MWh 
+Block-4 300 MW /1200 MWh 
+Block-5 300 MW /1200 MWh 
+Note:  
+Each BESS Block shall be connected at 33 kV Level of designated Solar Plants as indicated in the Detailed 
+Technical Specification and Tender SLD.  
+“BESS capacity” mentioned in Table 01, above, is the deliverable capacity to be demonstrated by Bidder 
+at the time of COD at the Point of Interconnection (POI).  
+Bidder needs to consider the aux consumption of the BESS Plant(s) in addition to other losses during 
+discharge to arrive at the Discharge capacity of the BESS Plant(s). 
+ 
+1.02 Design, Engineering, Supply, Packing and Forwarding, Transportation, Unloading, Storage, 
+Installation and Commissioning of grid connected Battery Energy Storage System (BESS) on turnkey 
+basis. 
+1.03 Unloading at respective sites, Supervision of Erection, Testing, Commissioning, Integration of 
+above equipment with BoS Infra to commission a complete BESS system integrated with Solar 
+plant(s) and grid shall be included in scope of bidder.  
+1.04 Design life of BESS system including that of battery shall be of 25 years (with degraded capacity 
+as per bidder’s proposal considering daily single cycle operation) from the date of 
+commissioning. 
+1.05 Batteries offered shall be rated for minimum 10,000 cycles of operation.  
+1.06 The BESS Supplier shall take into consideration following loss parameters beyond the termination 
+point and up to POI while sizing the nameplate capacity of the BESS for each Block:   
+Head Loss to be considered in sizing 
+Power Trafo Losses 1% 
+Transmission Line Losses 0.25% 
+ 
+1.07 Bidder will guarantee minimum 92 % of dispatchable capacity at POI across all 15 years starting 
+with 100 % of rated dispatchable capacity (as mentioned above) at CoD and 95 % for first year. 
+Dispatchable capacity at the time of handover shall be minimum 92%. 
+1.08 Any augmentation required for meeting above criteria shall be included in scope of bidder. 
+Bidder to ensure that the minimum nameplate rated installed capacity for each BESS Block shall be 
+at least 110% of the MWh Capacity mentioned under “BESS Capacity” in Table 01, above.   
+1.09 Comprehensive O&M including associated warranty, annual maintenance contract (Service Level 
+Agreement) to maintain performance of BESS for period of 15 years shall be included in scope of 
+bidder.  
+1.10 Minimum monthly Round Trip Efficiency (RTE) shall be 80% including auxiliary consumption 
+(Measured at Termination point/Point of Coupling) 
+ 
+1.11 Annual availability to be maintained is 98%.  Detailed Availability requirements and other details 
+will be mentioned in detailed specifications. 
+ 
+1.12 BESS capacity offered shall be suitable for meeting deliverable capacity at POI including reactive 
+power compensation.  
+ 
+1.13 Grid compliance study for complete project (designated Solar + BESS + Power Evacuation) is 
+included in scope of bidder. However, inputs for conducting grid power study to be provided by 
+owner for Solar & Power evacuation package. Grid compliance study, if required, for each 
+augmentation shall be in scope of bidder. 
+ 
+1.14 Power quality compliance for entire designated Solar + BESS + Power Evacuation system up to grid 
+interconnection point (POI) at ISTS switchyard is included in scope of bidder.  
+ 
+1.15 Aux supply system for the BESS Plant(s) from 33 kV termination point/Point of Coupling shall be in 
+the scope of Bidder. The aux supply required for Battery Container at site up to final commissioning 
+shall be also in the scope of Bidder.  Bidder to ensure the delivery of items at site and other works 
+related to BESS plant(s) accordingly. 
+ 
+1.16 Bidder shall design the system in such a way that during non-Solar hours the standby aux 
+consumption of the BESS Plant(s) shall be in the scope of Bidder. Accordingly, the Bidder should 
+design its BESS capacity for the entire contract period. 
+ 
+1.17 Required bus extension work and any other associated work for integrating BESS plant into the 33 
+kV Switchgear of each designated Solar Plant shall be in the scope of Bidder. 
+ 
+1.18 During operation of the BESS Plant(s), in case of grid failure, emergency supply requirement for 
+BESS Plant(s) shall be in the scope of Bidder. 
+ 
+1.19 DSM Charges applicable corresponding to the metering and scheduling of BESS Plant(s) and 
+attributable to Bidder shall be paid by bidder, during the Contract duration. 
+ 
+1.20 Bidder shall carry out Engineering to execution works of civil, erection, installation and 
+commissioning work of all the supplied equipment and equipment system(s). 
+ 
+1.21 Bidder shall provide engineering drawings, data, process calculations, test procedures, Equipment 
+layout, Drawings/Data sheets of bought out items, Performance & Guarantee Test procedure etc 
+for review and approval of Owner. 
+ 
+1.22  Provide documentation for design and expected performance through design calculations, 
+software, design drawings, equipment drawings, and modifications to the existing drawings.  
+ 
+1.23 Complete manufacturing including conducting all type, routine and acceptance tests, Pre-
+assembly, (if any), testing, pre-commissioning and commissioning and putting into satisfactory 
+operation all the equipment including successful completion of initial operation. 
+ 
+1.24 Scope shall include EMS configuration to operate BESS at various modes as per Grid requirement 
+mentioned in specification and integrated operation with Solar plant(s) and Plant(s) Scheduling as 
+per Grid/RLDC requirement during O&M. EMS Scope shall include the BESS to be operated as per 
+charging from Grid and with future provision to be integrated with Solar Plant(s). Further details 
+shall be shared during detailed specification. 
+ 
+1.25 Develop detailed start up and site acceptance plan. Reliability and Functional/Performance 
+guarantee tests after successful completion of commissioning. 
+ 
+1.26 Provide training for the operators, engineers, technicians, and maintenance personnel. 
+ 
+1.27 Special tools and tackles, if any, required for maintenance of the plant(s) 
+ 
+1.28 BESS should be in line with latest guidelines of CEA, CERC and LDC. BMS, EMS, Fire Safety of the 
+BESS should comply with the latest IS or/and IEC or/and IEEE standards and guidelines issued by 
+statutory authorities. Fire safety of the Battery and container should be in line with latest Indian 
+or/and international standards.  
+ 
+1.29 All equipment, materials and services, whether explicitly stated or otherwise and that are 
+necessary for the satisfactory operation of the BESS system and all material & services required for 
+its integration with owner’s system at 33 KV, as described in the specification shall be deemed to 
+be included in the scope of work.  
+ 
+1.30 Further the bidder has to obtain site-specific data from the owner in preparation for developing 
+installation and implementation plans. All other details will be provided in the IFB. 
+ 
+Detailed provisions in regard of scope of work and technical features/specification of equipment/ 
+systems/ services, contained in the Bidding Document shall be final and binding.  
+ 
+ TERMINAL POINT/ Point of Coupling (POC) 
+The terminal point/ Point of Coupling (POC) under the scope of this assignment shall be up to 
+commissioning and Integration with Owner’s 33 KV pooling switchgear. Extension of owner pooling 
+switchgear , to be considered in the scope of Bidder with all material & services. 

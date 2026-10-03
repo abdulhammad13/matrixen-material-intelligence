@@ -1,0 +1,539 @@
+EPC PACKAGE FOR 20 MW FLOATING SOLAR PV PROJECT AT 
+MARODA RESERVOIR-2, BHILAI  
+BIDDING DOCUMENT NO. CMCC260018 
+SECTION-I 
+INVITATION FOR BIDS 
+(IFB) 
+Page 1 of 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION - I 
+ 
+INVITATION FOR BIDS (IFB) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+EPC PACKAGE FOR 20 MW FLOATING SOLAR PV PROJECT AT 
+MARODA RESERVOIR-2, BHILAI  
+BIDDING DOCUMENT NO. CMCC260018 
+SECTION-I 
+INVITATION FOR BIDS 
+(IFB) 
+Page 2 of 6 
+ 
+ 
+ 
+            INVITATION FOR BIDS (IFB) 
+NTPC SAIL POWER COMPANY LIMITED 
+(A JV OF NTPC & SAIL) 
+ 
+(CORPORATE C&M, NEW DELHI) 
+ 
+INVITATION FOR BIDS (IFB) 
+ 
+FOR 
+ 
+EPC PACKAGE FOR 20 MW FLOATING SOLAR PV PROJECT AT  
+MARODA RESERVOIR-2, BHILAI 
+ 
+(Domestic Competitive Bidding) 
+ 
+GEPNIC Tender Ref. No: 2026_NSPCL_275573_1   
+Date: 24.04.2026 
+Bidding Document No: CMCC260018 
+ 
+ 
+1.0 
+ 
+NTPC-SAIL Power Company Limited (NSPCL) invites on-line bids at Government e-procurement 
+portal of NIC (GePNIC) at website- https://eprocurentpc.nic.in/ on Single Stage Two Envelope 
+Basis (i.e. Envelope -I: Techno-Commercial Bid and Envelope -II: Price Bid)  from eligible 
+Bidders for EPC Package for 20MW Floating Solar PV Project at Maroda Reservoir -2, Bhilai 
+as per the scope of work briefly mentioned hereinafter. 
+ 
+ 
+2.0 BRIEF SCOPE OF WORK 
+The brief scope of work interalia includes the following: 
+The scope of the project shall be detailed design of Grid Interactive Solar PV Plant, civil, electrical 
+& mechanical auxiliary systems including preparation of foundation drawings, single line diagrams, 
+installation drawings, electrical layouts, design calculations etc. Design memorandum and other 
+relevant drawings and documents required for engineering of all facilities within the scope to be 
+provided under this contract, are covered under contractor’s scope of work. 
+Scope covers development of Floating Solar PV plant along with power evacuation system 
+including supply & installation of PV modules in the designated area. The scope also includes three 
+(03) years Operation and Maintenance (O&M) of the solar PV plant as well as Annual Maintenance 
+Contract (AMC) of critical equipment for the period specified in relevant part of the technical 
+specification. The scope of work covers the following activities and services in respect of all the 
+equipment & wor ks specified and covered under the specifications and read in conjunction with 
+“Scope of Supply & services” elaborated elsewhere in the technical specification. 
+All equipment, materials and services whether explicitly stated or otherwise and that are necessary 
+for the satisfactory operation of the Solar PV system and its integration with the existing AC 
+Systems as described in the specification shall be deemed to be included in the scope of work of 
+the Contractor and shall not be limited to the following: 
+ 
+EPC PACKAGE FOR 20 MW FLOATING SOLAR PV PROJECT AT 
+MARODA RESERVOIR-2, BHILAI  
+BIDDING DOCUMENT NO. CMCC260018 
+SECTION-I 
+INVITATION FOR BIDS 
+(IFB) 
+Page 3 of 6 
+ 
+            INVITATION FOR BIDS (IFB) 
+ 
+1) Basic Engineering at the plant and systems. 
+2) Detailed design of all the equipment and equipment system(s) including civil works. 
+3) Providing, Review and approval of engineering drawings, data, process. 
+4) Calculations, test procedures, Structural Design Calculations, Equipment Layout, Drawings / 
+Data sheets of bought out items, Civil Structural/ Architectural Drawings, OTGT/PG test etc. 
+5) Providing Operation & Maintenance/ instruction manuals, as built drawings and other 
+information 
+6) Providing training of Employer's personnel 
+7) Finalization of sub-vendors, manufacturing quality plans and Field quality plans. 
+8) Mandatory permission/ licenses/ statutory clearances from Competent Authorities for 
+undertaking blasting related works, disposal of cutting material, etc. shall be carried out by 
+the Bidder 
+9) Complete manufacturing including conducting all type, routine and acceptance tests; Civil, 
+Structural and Architectural works to the extent applicable, including construction facilities 
+and construction power distribution. 
+10) Packing and transportation from the manufacturer's works to the site including customs 
+clearance & port clearance, port charges, (if any). 
+11) Receipt, storage, preservation and conservation of equipment at the site; Fabrication, pre -
+assembly, (if any), erection, testing, pre-commissioning and commissioning and putting into 
+satisfactory operation all the equipment including successful completion of initial operation. 
+12) Topographical survey & Gee -Technical investigation of land/waterbody and bathymetry 
+survey of water body (if required). 
+13) Site - Grading & Clearing of Vegetation (if required), dredging works, if required, for floater 
+blocks, inverter platform, access ways etc. 
+14) Supply of floaters, Installation, anchoring, fixing of floaters for SPV panels, pathways for the 
+floating system, including fixing of PV Modules on Floaters. 
+15) Launching platforms, O&M platforms with suitable road and water access as per requirement. 
+16) Arranging power supply and water supply for construction purposes. 
+17) Construction of Pre-Engineered type Inverter room/platform (if applicable) with Central/String 
+Inverter along with associated LT and HT switchgear. 
+18) All associated electrical and civil works required for interfacing with grid i.e. transformers, 
+Isolators, CTs, CBs, panels, protection system, cables, metering at 33 kV and 132 kV level, 
+grid compliance study as per regulation etc. 
+19) All equipment, materials and services that are necessary for implementation of the reactive 
+power compensations system as per the grid study with satisfactory o peration of the Solar 
+PV system and its integration with the existing AC Systems. 
+20) Evacuation of power as per tender drawing. 
+21) Construction of Central Monitoring and Control Station, with SCADA, PPC panel and 
+associated equipment at identified location within Floating Solar Plant Premises. 
+22) Underground Cabling of 33 kV from Pooling Switchgears of FSPV to 132 kV NSPCL Bhilai 
+Switchyard which includes multiple railway crossings, augmentation of 132KV bay with 
+EPC PACKAGE FOR 20 MW FLOATING SOLAR PV PROJECT AT 
+MARODA RESERVOIR-2, BHILAI  
+BIDDING DOCUMENT NO. CMCC260018 
+SECTION-I 
+INVITATION FOR BIDS 
+(IFB) 
+Page 4 of 6 
+ INVITATION FOR BIDS (IFB) 
+suitable bus bar extension with dedicated control fro m SAS and integration of SAS with 
+Floating plant SCADA. 
+23) Module cleaning system Wet Method) including supply and installation of all accessories like
+monitoring system at CMCS and associated equipment and services at identified location.
+24) SCADA system for re mote monitoring and control of Inverters with all hardware & software
+and complete set of Weather Monitoring Station including cloud cover.
+25) CCTV System for remote monitoring of the complete project including supply and installation
+of all accessories like monitoring system at CMCS and associated equipment and services
+at identified location.
+26) Comprehensive Operation & maintenance of SPV Plant along with electrical equipment,
+consumables, and spare parts for a period of Three years from the date of commissioning.
+27) Reliability and Functional guarantee tests after successful commissioning of full capacity.
+28) Supply of Mandatory Spares.
+29) Satisfactory completion of the contract.
+30) Special tools and tackles if any required for maintenance of the plant.
+31) Detailed system wise scope is elaborated in respective part of the technical specification.
+The work to be carried out as per the above scope shall be all in accordance with the requirements, 
+conditions, appendices etc. given in Technical Specifications together with those stated in other 
+Sections/Sub-sections of Bid Documents which shall be considered as a part of this volumes 
+completely as if bound herewith. It is not the intent to specify herein all aspects of design and 
+construction nevertheless, the equipment  and civil works shall conforming all aspects to high 
+standard of engineering, design and workmanship and shall be capable of performing in continuous 
+commercial operation in a manner acceptable to the Employer, who will interpret the meaning of 
+the specification and drawings and shall have a right to reject or accept any work or material which 
+in his assessment is not complete to meet the requirements of this specification and/or applicable 
+Indian / International standards mentioned elsewhere in this specification 
+The detailed scope of work shall be as per specifications and scope defined in the Bidding 
+Document. 
+3.0 NSPCL intends to finance the aforesaid Package through NSPCL – Internal resources. 
+4.0 Detailed specification, scope of work and terms & conditions are given in the Bidding Documents, 
+which are available at the GePNIC (e -tender) portal at https://eprocurentpc.nic.in/. The Bidding 
+Schedule* for the Tender is as under:   
+Issuance of IFB 24.04.2026 11:00 hrs (IST) 
+Documents Download Dates 
+and Time 
+24.04.2026 11:00 hrs (IST) 
+Last date for receipt of 
+queries from bidders (if any)**
+07.05.2026 18:00 hrs (IST)
+Pre-bid conference date & time 07.05.2026 11:30 hrs (IST)
+Bid (both Techno-Commercial 
+and Price) start date & time 
+08.05.2026 09:00 hrs (IST)
+Bid (both Techno-Commercial 
+and Price) submission end date 
+& time 
+18.05.2026 14:00 hrs (IST)
+EPC PACKAGE FOR 20 MW FLOATING SOLAR PV PROJECT AT 
+MARODA RESERVOIR-2, BHILAI  
+BIDDING DOCUMENT NO. CMCC260018 
+SECTION-I 
+INVITATION FOR BIDS 
+(IFB) 
+Page 5 of 6 
+ INVITATION FOR BIDS (IFB) 
+Date & Time for opening of 
+Envelop-I (Techno-Commercial 
+bid) 
+19.05.2026 14:00 hrs (IST)
+Date & Time for opening of 
+Envelop-II (Price bid) 
+Shall be intimated after opening of Techno - 
+Commercial Bid. 
+Bid Security/EMD Amount INR 2,00,00,000/- (Indian Rupees Two Crores Only) 
+*Bidders are advised to visit the GePNIC (e-tender) portal of NSPCL for updated bidding schedule of
+the Tender.
+**It is to be noted that “No Queries from Bidders, whatsoever, shall be entertained by the Employer beyond 
+the last date of receipt of Queries/ Pre -Bid Conference (if applicable) as specified at GePNIC portal of 
+NSPCL”. 
+5.0 All bids must be accompanied by Bid Security for an amount of INR 2,00,00,000/- (Indian Rupees 
+Two Crore only) in the form as stipulated in the Bidding Documents. 
+ANY BID NOT ACCOMPANIED BY AN ACCEPTABLE BID SECURITY IN A SEPARATE 
+SEALED ENVELOPE SHALL BE REJECTED BY THE EMPLOYER AS BEING NON -
+RESPONSIVE AND SHALL NOT BE OPENED. IN CASE, THE BID SECURITY IS SUBMITTED 
+THROUGH ELECTRONIC FUND TRANSFER (EFT), BIDDER TO SUBMIT THE PROOF OF E -
+PAYMENT OF BID SECURITY IN THE E-TENDERING PORTAL. 
+(Bidders who are unable to send the Original Bank Guarantee in physical form at the tender 
+opening location, may adopt procedure given in Bidding documents or may opt for Online Transfer 
+of Bid Security through NEFT/RTGS to NSPCL’s Bank whose details are provided in the Bidding 
+Document). 
+6.0 
+7.0 
+A complete set of Bidding Documents may be downloaded by any interested Bidder from the e-Tender Portal 
+as per specified schedule. The  tender is invited under e -tendering process. The bidders can enroll 
+themselves on the website https://etenders.gov.in/eprocure/app. The use of Digital Signature Certificate 
+(DSC) Class-3 key is mandatory for e-tendering activities. Accordingly, bidders should have Digital Signature 
+Certificate (DSC) key of Class 3 to participate in e -tendering. Bidders, if required, can obtain  DSC Class-3 
+key from agencies authorized by Govt. of India. The e-Tender Portal also has the user manuals with detailed 
+guidelines on enrolment and participation in the bidding process.   
+No hard copy of Bidding Documents shall be issued. Bids shall be submitted ONLY at the e -Tender 
+Portal i.e., https://etenders.gov.in/eprocure/app 
+QUALIFYING REQUIREMENTS FOR BIDDERS 
+Qualifying Requirement (QR) for subject package is Attached as Appendix-1 
+8.0 
+9.0 
+The bidder shall be mandatorily required to certify their compliance on “Non -Disclosure 
+Agreement”. 
+NSPCL reserves the right to reject any or all bids or cancel/ withdraw the Invitation for Bids without 
+assigning any reason whatsoever and in such case no bidder/ intending bidder shall have any 
+claim arising out of such action. 
+10.0 Downloading/Issuance of Bidding Documents and /or submission of Bid shall not construe that 
+bidder is considered qualified. 
+11.0 Transfer of Bidding Documents purchased by one intending Bidder to another is not permissible. 
+EPC PACKAGE FOR 20 MW FLOATING SOLAR PV PROJECT AT 
+MARODA RESERVOIR-2, BHILAI  
+BIDDING DOCUMENT NO. CMCC260018 
+SECTION-I 
+INVITATION FOR BIDS 
+(IFB) 
+Page 6 of 6 
+ 
+            INVITATION FOR BIDS (IFB) 
+ 
+12.0 
+ 
+ 
+ 
+ 
+13.0 
+'Class-I local suppliers’ and ‘Class-II local suppliers’ only are eligible to participate in this tender, as defined 
+in the bidding documents/ Public Procurement (Preference to Make in India), Order 2017 and its subsequent 
+amendments/ revisions issued by DPIIT. The bidders may apprise themselves of the relevant provisions of 
+bidding documents in this regard before submission of their bids." 
+ 
+Any ‘Bidder from a country which shares a land border with India’, as specified in the Bidding 
+Documents, will be eligible to bid in this tender only if bidder is registered with the Competent 
+Authority as mentioned in the Bidding Documents.  
+ 
+Further, any bidder (including bidder from India) having specified Transfer of Technology (ToT) 
+arrangement with an entity from a country which shares a land border with India, will be eligible to 
+bid only if the bidder is registered with the same competent authority. 
+ 
+However, the said requirement of registration will not apply to bidders from those countries (even 
+if sharing a land border with India) to which the Government of India has extended lines of credit 
+or in which the Government of India is engaged in development projects. 
+ 
+14.0 ADDRESS FOR COMMUNICATION  
+HOD (CC&M),  
+NTPC SAIL Power Company Limited,  
+4th Floor, NBCC Tower,  
+15, Bhikaiji Cama Place,  
+New Delhl-110066 
+Contact: 011-26717379  
+e-mail  : sk.babel@nspcl.co.in / hodcnm.cc@nspcl.co.in  
+ Websites: https://etenders.gov.in/eprocure/app  or  www.nspcl.co.in 
+ 
+Registered Office 
+ 
+NTPC- SAIL POWER COMPANY LIMITED 
+4th Floor, NBCC Tower, 
+15 Bhikaiji Cama Place, 
+New Delhi - 110066 
+Corporate Identification Number:U74899DL1999PLC098274,  
+  Website: www.nspcl.co.in 
+  
+ 
+ APPENDIX-1 TO IFB 
+Page 1 of 3 
+ 
+ 
+QR for Development of 20 MW Floating Solar PV Project at Maroda Reservoir-2, Bhilai 
+ 
+ 
+In addition to the requirements stipulated under section Instruction to Bidder (ITB), the Bidder 
+should also meet the qualifying requirements stipulated hereunder in Clause 1.0 and Clause 2.0. 
+ 
+ 
+1.0 Technical Criteria 
+ 
+1.1 The Bidder should have designed, supplied, erected/ supervised erection and 
+commissioned/ supervised commissioning of Solar Photo Voltaic (SPV) based grid 
+connected power plant(s) of cumulative installed capacity of 16 MWp or higher, out of which 
+at least one plant should have been of 10 MWp or higher capacity. The reference plant of 
+10 MWp or higher capacity must have been in successful operation for at least six (6) 
+months prior to the date of techno-commercial bid opening. 
+ 
+OR 
+ 
+1.2 The Bidder should be a developer of Solar Photo Voltaic (SPV) based grid connected power 
+plant(s) of cumulative installed capacity of 16 MWp or higher, out of which at least one plant 
+should have been of 10 MWp or higher capacity. The reference plant of 10 MWp or higher 
+capacity must have been in successful operation for at least six (6) months prior to the date 
+of techno-commercial bid opening. 
+ 
+OR 
+ 
+1.3 (a) The Bidder should have executed in the last ten (10) years an industrial project either 
+as developer or as EPC Contractor in the area of power/ steel/ oil and gas/ petro-chemical/ 
+fertilizer/cement/coal mining including coal handling plant and/ or any other process 
+industry, of a value of Rs. 120 Crore (Indian Rupees One Hundred Twenty Crore only) or 
+more in a single project or single work and the same should be in successful operation for 
+at least one (1) year prior to the date of techno-commercial bid opening. 
+AND 
+(b) The Bidder should have executed at least one (1) Electrical Sub-station of 33 kV or 
+above voltage level, consisting of equipment such as 33kV or above voltage level circuit 
+breakers and Power transformer, either as developer or as EPC Contractor which should 
+be in successful operation for at least one (1) year prior to the date of techno-commercial 
+bid opening 
+ 
+The works referred at clause 1.3 (a) & 1.3 (b) can be in same or different projects. 
+ 
+OR 
+ 
+1.4 The bidder should be an Indian company r egistered in India and should be Group 
+company/Holding Company/Subsidiary company of a firm meeting the requirement (s) of 
+Clause 1.1 or 1.2 or 1.3 above. In such as case, Bidder shall furnish an Undertaking jointly 
+executed by the firm qualified as per clause 1.1 or 1.2 or 1.3 and the Bidder along with its 
+bid for complete performance of the contract jointly and severally as per format enclosed in 
+the bid document failing which the Bidder’s bid is liable to be rejected. 
+ 
+ 
+ 
+ 
+ APPENDIX-1 TO IFB 
+Page 2 of 3 
+ 
+Note for 1.0 
+a. The reference SPV based grid-connected power plant of 10 MWp or above capacity should 
+be at a single location developed by Bidder for itself or any other client. 
+b. SPV based Roof-top/Floating solar power projects, which are grid connected, shall also be 
+considered eligible for QR purposes. 
+c. For clause 1.1 & 1.3, bidder shall submit certificate of successful completion and operation 
+from the Owner. However, if bidder in clause 1.3 is a developer, certificate of successful 
+commissioning of the project issued from Government Renewable Nodal 
+Agency/Government Enterprise/Discom/ Electricity Board etc. and evidence of successful 
+operation from intermediary procurer/procurer/Discom/ Electricity Board etc. shall be 
+submitted. 
+d. For Clause 1.3, bidder shall submit a docu mentary evidence for the value of the project 
+certified by a Chartered Accountant. 
+e. Direct/Indirect Order. 
+The bidder shall also be considered qualified, in case the award for executing the reference 
+work has been received by the bidder either directly from the owner of the plant or any other 
+intermediary organization. In such a case, a certificate from such owner of plant or any 
+other intermediary organization shall be required to be furnished by the bidder along with 
+its techno -commercial bid in support  of bidder’s claim of meeting the qualification 
+requirement as per clause 1.1 and 1.3 above. Bidder shall also submit a certificate of 
+successful completion and operation from the Owner. 
+f. For Clause 1.2, bidder shall submit certificate of successful comm issioning of the project 
+issued from Government Renewable Nodal Agency/ Government Enterprises/ Discom/ 
+Electricity Board etc. 
+g. For Clause1.2, bidder shall submit evidence of successful operation from intermediary 
+procurer/ procurer/Discom/ Electricity Board etc. 
+h. Developer means an entity who has either executed or got executed the work/ project as 
+owner of industrial projects  
+ 
+i. The execution of industrial project as EP C Contractor under Clause No. 1.3 means, such 
+EPC Contractor is responsible for a ll the activities i.e. Design/Engineering, Procurement, 
+Construction (with/without civil works) and Commissioning of a project/work.  
+j. The portion of work related to power transformer such as supply and or installation mentioned 
+at clause No. 1.3 (b) can either be done by EPC contractor by themselves or by the owner.  
+k. EPC projects with solar PV module supplied by developer/owner as free issue item to EPC 
+contractor shall also be considered eligible for route 1.1 of QR.  
+l. The figures indicated in 1.3( a) are exclusive of Taxes and Duties. If required, certificate in 
+support of taxes and duties to be provided from Chartered Accountant.  
+ 
+2.0 Financial Criteria 
+ 
+2.1 The average annual turnover of the Bidder, should not be less than Rs. 120 Crore (Indian 
+Rupees One Hundred Twenty Crore only) during the preceding three (3) financial years 
+as on date of techno-commercial bid opening. 
+ 
+In case a Bidder does not satisfy the annual turnover criteria, stipulated above on its own, 
+its Holding Company would be required to meet the stipulated turnover requirements as 
+above, provided that the Net Worth of such Holding Company as on the last day of the 
+preceding financial year is at least equal to or more than the paid - up share capital of the 
+Holding Company. In such an event, the Bidder would be required to furnish along with its 
+Techno-commercial Bid, a Letter of Undertaking from the Holding Company, supported by 
+the Holding Company’s Board Resolution, as per the format enclosed in the bid documents, 
+pledging unconditional and irrevocable financial support for the execution of the Contract 
+by the Bidder in case of award. 
+ APPENDIX-1 TO IFB 
+Page 3 of 3 
+ 
+2.2 Net Worth of the Bidder as on the last day of the preceding financial year should not be less 
+than 100% (hundred percent) of bidder’s paid-up share capital. In case the Bidder does not 
+satisfy the Net Worth criteria on its own, it can meet the requirement of Net worth based on 
+the strength of its Subsidiary (ies) and/or Holding Company and/or Subsidiaries of its 
+Holding companies wherever applicable. The Net worth of the Bidder and its Subsidiary(ies) 
+and/or Holding Company and/or Subsidiary(ies) of the Holding Company, in combined 
+manner should not be less than 100% (hundred percent) of their total paid up share capital. 
+However individually, their Net worth should not be less than 75% (seventy-five percent) of 
+their respective paid up share capitals. 
+Net worth in combined manner shall be calculated as follows: 
+Net worth (combined) = (X1+ X2+X3) / (Y1+Y2+Y3) X 100 where X1, X2, X3 are individual 
+Net worth which should not be less than 75% of the respective paid up share capitals and 
+Y1,Y2,Y3 are individual paid up share capitals. 
+ 
+2.3 In case the Bidder is not able to furnish its audited financial statements on standalone entity 
+basis, the unaudited unconsolidated financial statements of the Bidder can be considered 
+acceptable provided the Bidder further furnishes the following documents on substantiation 
+of its qualification: 
+ 
+(a) Copies of the unaudited unconsolidated financial statements of the Bidder along with 
+copies of the audited consolidated financial statements of its Holding Company. 
+(b) Certificate from the CEO/ CFO of the Holding Company, as per the format enclosed 
+in the bidding documents, stating that the unaudited unconsolidated financial 
+statements form part of the consolidated financial statement of the Holding Company. 
+ 
+In case where audited results for the last financial year as on date of techno -commercial 
+bid opening are not available, the financial results certified by a practicing Chartered 
+Accountant shall be considered acceptable. In case the Bidder is not able to submit the 
+Certificate from a practicing Chartered Accountant certifying its financial parameters, the 
+audited result of three consecutive financial years preceding the last financial year shall be 
+considered for evaluating financial parameters. Further, a certificate would be required from 
+the CEO/CFO as per the format enclosed in the bidding documents stating that the financial 
+results of the company are under audit as on techno -commercial bid opening and the 
+Certificate from a practicing Chartered Accountant certifying the financial parameters is not 
+available. 
+ 
+Note 
+ 
+a. Net worth means the sum total of the paid up share capital and free reserves. Free reserves 
+means all reserves cred ited out of the profits and share premium account but does not 
+include reserves credited out of the revaluation of the assets, write back of depreciation 
+provision and amalgamation. Further, any debit balance of Profit and Loss account and 
+miscellaneous expenses to the extent not adjusted or written off, if any, shall be reduced 
+from reserves and surplus.  
+b. Other income shall not be considered for arriving at annual turnover.  
+c. “Holding Company” and “Subsidiary” shall have the meaning ascribed to them a s per 
+Companies Act of India.  
+d. For the value of industrial project in clause 1.3(a) and/ or the annual turnover and net worth 
+indicated in foreign currency, the exchange rate as on seven (7) days prior to the date of 
+Techno-commercial bid opening shall be used.  
+e. The figures indicated in  2.1 are exclusive of Taxes a nd Duties. If required, certificate in 
+support of taxes and duties to be provided from Chartered Accountant.  
+ 
+*** 
+,uVhihlh-lsy ikoj dEiuh fyfeVsM 
+(,uVhihlh vkSj lsy dk la;qDr midze) dsUnzh; dk;kZy;
+--------------------------------------------------------------------------------------- 
+ NTPC-SAIL Power Company Limited  Corporate Centre 
+(A joint venture of NTPC & SAIL)
+iathd`r dk;kZy;( prqFkZ ry] ,uchlhlh Vkoj] 15 Hkhdkth dkek Iysl] ubZ fnYyh& 110066 
+Registered & Corporate Office: 4th Floor, NBCC Tower, 15, Bhikaji Cama Place, New Delhi – 110066 
+Phone nwjHkk’k : 26717380, C&M 26717376 / 77 QsDl Fax: 26717365.
+U74899DL1999PLC098274 
+CORRIGENDUM NO. 1 dated 24.04.2026 
+Tender ID No: 2026_NSPCL_275573_1  dated 24.04.2026 
+Package:. EP C Package fo r 20MW Floa ting Solar PV Projec t a t Maroda 
+Reservoir-2, Bhilai 
+Dear Sir 
+This is in  reference to IFB bearing Bidding Document No: CMCC260018 and above 
+mentioned Tender  ID  No:  2026_NSPCL_275573_1   dated  24.0 4.2026 and  for  EPC 
+Package for  20MW  Floating  Solar  PV  Project  at  Maroda  Reservoir-2,  Bhilai,  
+available on  Government  e-procurement  portal  of  NIC (GePNIC)  at  website  - 
+https://etenders.gov.in/eprocure/app 
+Kindly note the following change s withou t any change in the bidding schedules and 
+arrange to submit your offer accordingly. 
+An Errata No-01 dated 24.04.2026 to the Bidding Documents is issued which will 
+form integral part of the bidding documents.  All other details and terms and 
+conditions of NIT/IFB will remain same.  
+Thanking You. 
+Your faithfully 
+For & on Behalf of NSPCL 
+(S.K. Babel) 
+  Sr.  Manager (C&M) 
+Doc. No.: CMCC260018 Errata No. 01 to Bidding Documents  Page 1 of 1 
+ 
+EPC Package for 20MW Floating Solar PV Project at Maroda Reservoir-2, Bhilai Errata No. 01 (Commercial) to Bidding 
+Document No.: CMCC260018 
+Sl.  
+No.  
+Clause  
+Reference  
+ERRATA No.1  
+Existing Provision  Amended Provision  
+1.  IFB Clause 
+1.0  
+NTPC-SAIL Power Company Limited (NSPCL) 
+invites on -line bids at Government e -
+procurement portal of NIC (GePNIC) at website - 
+https://eprocurentpc.nic.in/ on Single Stage 
+Two Envelope Basis (i.e. Envelope-I: Techno-
+Commercial Bid and Envelope -II: Price Bid)  
+from eligi ble Bidders for EPC Package for 
+20MW Floating Solar PV Project at Maroda 
+Reservoir-2, Bhilai  as per the scope of work 
+briefly mentioned hereinafter 
+NTPC-SAIL Power Company Limited (NSPCL) 
+invites on-line bids at Government e-procurement 
+portal of NIC (GePN IC) at website - 
+https://etenders.gov.in/eprocure/app on 
+Single Stage Two Envelope Basis (i.e. 
+Envelope-I: Techno -Commercial Bid and 
+Envelope-II: Price Bid) from eligible Bidders for 
+EPC Package for 20MW Floating Solar PV 
+Project at Maroda Reservoir -2, Bhilai  as per 
+the scope of work briefly mentioned hereinafter 
+ 

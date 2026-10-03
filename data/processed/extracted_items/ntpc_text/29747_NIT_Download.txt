@@ -1,0 +1,117 @@
+Government eProcurement System
+Tender Details
+Date : 23-Apr-2026 09:25 AM
+ Print
+Basic Details
+Organisation Chain Anushakti Vidhyut Nigam Limited (ASHVINI)||Mahi Banswara Rajasthan Atomic Power Project (MBRAPP) -
+Banswara
+Tender Reference
+Number MBRAPP/CMM/2026/Civil/12
+Tender ID 2026_ASHVI_273633_1 Withdrawal Allowed Yes
+Tender Type Open Tender Form of contract Item Rate
+Tender Category Works No. of Covers 3
+General Technical
+Evaluation Allowed No ItemWise Technical Evaluation
+Allowed No
+Payment Mode Offline Is Multi Currency Allowed For
+BOQ No
+Is Multi Currency
+Allowed For Fee No Allow Two Stage Bidding No
+ 
+Payment Instruments
+Offline S.No Instrument Type
+1 NEFT
+2 R-T-G-S
+Cover Details, No. Of Covers - 3
+Cover
+No Cover Document
+Type Description
+1 Fee .pdf EMD/Bid Security
+2 PreQual/Technical .pdf Tender Document
+.pdf GCC
+.xls Technocommercialbidformats.xls
+.rar Other Document
+3 Finance .xls BOQ
+ 
+Tender Fee Details, [Total Fee in ₹ * - 0.00]
+Tender Fee in ₹ 0.00
+Fee Payable To Nil Fee Payable At Nil
+Tender Fee
+Exemption Allowed
+No
+EMD Fee Details
+EMD Amount in ₹ 15,592 EMD Exemption
+Allowed
+No
+EMD Fee Type percentage EMD Percentage 2.0%
+EMD Payable To Anushakti
+Vidhyut
+Nigam
+Limited
+EMD Payable At Anushakti
+Vidhyut
+Nigam
+Limited
+ 
+ 
+Work /Item(s)
+Title Improvement and Repairing Works at MBRAPP Guest House/Transit Camp at BSNL Officers Colony, Banswara
+(Rajasthan)
+Work Description Improvement and Repairing Works at MBRAPP Guest House/Transit Camp at BSNL Officers Colony, Banswara
+(Rajasthan)
+Pre Qualification
+Details
+As per Tender Document 
+Independent External
+Monitor/Remarks
+As per Tender Document 
+Tender Value in ₹ 7,79,604 Product Category Civil
+Works
+Sub category NA 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work(Days) 180 
+Location Mahi Banswara Rajasthan Atomic
+Power Project
+Pincode 327001 Pre Bid Meeting Place NA 
+Pre Bid Meeting
+Address
+NA Pre Bid Meeting Date NA Bid Opening Place MBRAPP
+Should Allow NDA
+Tender
+No Allow Preferential
+Bidder
+No
+ 
+Critical Dates
+Publish Date 13-Apr-2026 03:00 PM Bid Opening Date 05-May-2026 03:00 PM
+
+Document Download / Sale Start
+Date
+13-Apr-2026 03:00 PM Document Download / Sale End
+Date
+04-May-2026 03:00 PM
+Clarification Start Date 13-Apr-2026 03:00 PM Clarification End Date 20-Apr-2026 03:00 PM 
+Bid Submission Start Date 27-Apr-2026 10:00 AM Bid Submission End Date 04-May-2026 03:00 PM
+ 
+ 
+Tender Documents
+NIT
+Document S.No Document Name Description Document Size
+(in KB)
+1 Tendernotice_1.pdf TenderNotice 1721.63
+ 
+Work Item
+Documents S.No Document Type Document Name Description Document Size
+(in KB)
+1 Tender Documents 4_GCC_uploaded.pdf GCC 2438.36
+2 Tender Documents 0_TD_C12_ImpGH.pdf Tender Document 7764.27
+3 Tender Documents TechnocommercialBidFormats.xls TechnocommercialBidFormats.xls 223.50
+4 BOQ BOQ_319443.xls BOQ 427.00
+ 
+ 
+ 
+ 
+Tender Inviting Authority
+Name Senior Manager CMM
+Address MBRAPP (Mahi Banswara Rajasthan Atomic Power Project) P. O. Napla, Tehsil Chhoti Sarwan, District Banswara,
+Rajasthan, Pin 327001
+ 

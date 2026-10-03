@@ -1,0 +1,117 @@
+-- -
+"'�;;:��· ,_ 
+NTPC Limited eProcurement Portal ··---l'W I I""- Tender Details -- - - 1enut:r::-t Date : 08-Jan-2026 03:53 PM p. Mahar.atn.a Company 
+� Print 
+Basic Details 
+Organisation Chain 
+Tender Reference Number 
+TenderID Withdrawal Allowed Yes 
+TenderType Form of contract Works 
+Tender Category 
+NTPC Limited I jCorporate Centrej jUSSCj 
+jCPG-1 NTPC/USSC-CPGl/9900316874
+2026_NTPC_103812_1 
+Open Tender 
+Works No. of Covers 3 
+General Technical Evaluation Yes [Compliance Required] ItemWise Technical Evaluation Allowed No Allowed 
+Payment Mode Online Is Multi Currency Allowed For BOQ No 
+Is Multi Currency Allowed For No Allow Two Stage Bidding No Fee 
+PaY.ment Instruments Cover Details, No. Of Covers - 3 
+�nline IIS.No !Bank Name Cover No Cover Document Type Description 
+Bankers 
+II 1 lsBr Bank Scanned Tender 1 Fee .pdf Fee Details 
+.pdf Scanned EMD 
+Details 
+.pdf Signed Integrity 
+Pact 
+2 PreQual/Technical .pdf Technical / QR 
+Details 
+.pdf Attachment-3 
+.pdf Power of Attorney 
+Declaration 
+regarding 
+.pdf insolvency, 
+bankruptcy and 
+Liquidation 
+(Attachment-3L) 
+3 Finance .xis Price Bid / BOQ 
+Tender Fee Details,_[Total Fee inf* - 0.00] EMO Fee Details 
+Tender Fee in , 0.00 EMO Amount in , 50,00,000 EMO Exemption Allowed No 
+Fee Payable To Nil Fee Payable At !Nil EMO Fee Type fixed EMO Percentage NA 
+Tender Fee Exemption No EMO Payable To Nil EMO Payable At Nil 
+Allowed BG Required Yes 
+Minimum Direct EMO 0.00 
+Payment in, 
+Click to view modification history 
+Work Litem(s). 
+Title Replacement of all 9 Nos. of DG sets of main plant area of TSTPS, Kaniha 
+Work Description Replacement of all 9 Nos. of DG sets of main plant area of TSTPS, Kaniha 
+Pre Qualification Details As per tender documents 
+Independent External NA 
+Monitor/Remarks 
+Show Tender Value in Public No 
+Domain 
+Tender Value in , 0.00 Product Category Miscellaneous Sub category NA 
+Works 
+Contract Type Tender Bid Validity{Days) 120 Period Of Work{Days) 730 
+Location Western Region Head QuartersII Pincode 492018 Pre Bid Meeting Place Online at TEAMS 
+Plot No. -87, Secto Portal 
+Pre Bid Meeting Address Online at TEAMS Portal Pre Bid Meeting Date 12-Jan-2026 Bid Opening Place Western Region 
+04:30 PM Head QuartersII 
+Should Allow NOA Tender No Allow Preferential Bidder No 
+Critical Dates 
+Publish Date 08-Jan-2026 04:30 PM Bid Opening Date 30-Jan-2026 04: 30 PM 
+Document Download / Sale Start Date 08-Jan-2026 04:30 PM Document Download / Sale End Date 28-Jan-2026 04: 30 PM 
+Clarification Start Date 08-Jan-2026 04:30 PM Clarification End Date 20-Jan-2026 06:00 PM 
+Bid Submission Start Date 16-Jan-2026 09:20 AM Bid Submission End Date 28-Jan-2026 04:30 PM 
+Tender Documents 
+NIT Document Document Size (in S.No Document Name Description KB) 
+1 rrendernotice 1.odf NIT 188.4( 
+Work Item Document Size (in Documents S.No Document Type Document Name Description KB) 
+1 BOQ BOO 107041.xls BOQ 315.5( 
+2 lfender Documents TenderDocument.rar render Documents 16383.55 
+3 �dditional Documents PresianedintearitvPact.pdf Pre-sianed Intearitv Pact 395.5� 
+View GTE Details - SERVICE GTE (OT- SINGLE STAGE-MLC-LAND BORDER CLAUSE). 
+S.No Particulars Expected Value Mandatory 
+�onfirm that you are a LOCAL SUPPLIER, and the LOCAL CONTENT included in the PACKAGE FOR 
+1.0 K;OMPLETE SCOPE OF WORK meets the MINIMUM LOCAL CONTENT requirements of the Tender. • [ Yes Yes 
+MLC Declaration for Servicesl 
+2.0 Do YOU accept NTPC Safetv Rules " r SAFETY RULES COMPLIANCEl Ves Ves 
+3.0 Do vou accept the Fraud Prevention Policv of NTPC • FRAUD PREVENTIONl Ves Ves 
+4.0 Do you accept Withholding and Banning of Business Dealing Policy of NTPC" [ BANNING POLICY Yes Yes DECLARATIONl 
+5.0 Do you certify full compliance on clause as per tender documents on Restrictions on procurement from Yes Yes a Bidder of a countrv which shares a land border with India • f LAND BORDER CLAUSE COMPLIANCEl 
+o.O Do vou certifv full comoliance on Oualifvina Reauirements • r OR COMPLIANCEl Yes Yes 
+7.0 Do YOU certifv full comoliance to all orovisions of Bid documents " r NO DEVIATION CERTIFICATIONl Yes Yes 
+Auto Extension Corrigendum ProRerties for Tender 
+Iteration No. of bids required for bid opening a tender Tender gets extended to No. of days 
+1. 1 4 
+2. 1 4 
+3. 1 4 
+Bid OReners List 
+S.No Bid Opener Login Id Bid Opener Name Certificate Name 
+1. iTAPAS MISHRA TAPAS MISHRA 
+2. ANAND SHANKER ANAND SHANKER 
+3. handra Prakash Sinah :::handra Prakash Sinah 
+4. 
+taoasmishra@ntoc.co.in  
+anandshanker@ntpc,co.in 
+cpsinah@ntoc.co.in 
+pramodkumar04@ntpc,co.in )ramod Kumar PRAMOD KUMAR 
+Tender ProRerties 
+Auto Tendering Process No Show Technical bid status No 
+allowed 
+Show Finance bid status Yes $tage to disclose Bid Details in Public Domain Technical Bid Opening 
+Boo ComDarative Chart model Normal Boo Comoartive chart decimal olaces 2 
+BoQ Comparative Chart Rank L Form Based BoQ No 
+Type 
+TIA Undertaking_ 
+IS.No IUndertakina to Order !Tender comPIYina with Order !Reason for non comPliance of Order 
+1 IPPP·MII Order 2017 IAnree I 
+2 IMSEs Order 2012 IAnree I 
+Tender Inviting Authoritv. 
+Name DGM 
+Address Western Region Head Quartersll Plot No. -87, Sector-24, Atal RAIPUR 492018 
+Tender Creator Details 
+Created By ANAND SHANKER 
+Designation DGM 
+Created Date 08-Jan-2026 02:44 PM 

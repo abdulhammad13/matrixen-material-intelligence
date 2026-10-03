@@ -1,0 +1,153 @@
+ 
+NTPC LTD 
+CORPORATE OPERATION SERVICES, EOC, NOIDA 
+VENDOR ENLISTMENT FOR O&M WORKS PACKAGE ON PAN NTPC BASIS 
+1 CEG No.   BMD-21 
+2 Brief description of 
+CEG 
+Phased Array Ultrasonic Testing (PAUT) of Weld Joints of Boiler Tubes 
+3 Responsibility Centre CPC 
+4 Brief scope of work Phased Array Ultrasonic Testing (PAUT) of Weld Joints of Boiler Tubes: 
+1. Phased Array Ultrasonic testing for circumferential old weld joint 
+inspection of boiler tubes (Waterwall, Superheater, Reheater, Economiser & 
+other tubes, as identified by EIC) is to be carried out for assessment of the 
+weld joints. For water wall tubes, covered by insulation, only portion of weld 
+on fireside will be tested with probes/wedges dismantled from the scanner.  
+2. Agency to quote for each weld joint to be inspected. For mobilisation 
+during overhaul, there would be minimum payment for inspection of 500 
+joints and additional payment would be made for inspection of additional weld 
+joints beyond 500 joints.  
+3. No ex tra payment will be made for tube sample calibration, testing of 
+reference tubes or inspection on any other tube pieces (on sample basis) with 
+known defects for verification of reliability of test set up  
+4. For reliability of calibration, 2% of the test r esults of PAUT in each type of 
+tube dimension and thickness will be cross checked by NTPC thru 
+radiography. If any defect is observed in radiography and same is not 
+observed in PAUT M/C, calibration & test set up of PAUT M/C are needed to 
+be rechecked and PAUT to be repeated. However, defect noticed in PAUT but 
+not detected in radiography will be treated as defect.  
+5. Test System: For PAUT inspection of boiler tubes, service provider agency 
+will bring the PAUT equipment & accessories with following or higher 
+capability:  
+(i) PAUT equipment: 16:68 or higher configuration, having  
+(a) Weld inspection features including setting up of weld profile  
+(b) Multi grouping capability  
+(c) Capability of using two UTPA probes simultaneously. Necessary 
+adapter/splitter (if required) for attaching two probes for simultaneously 
+working should be available for inspection.  
+(e) Operation with battery (f) A-scan, B-Scan, C-scan, S- Scan, Linear scan, 
+Sectorial scan  (g) Calibration: Velocity, Wedge Delay, Sensitivity, TCG, 
+DAC, Encoder calibration features (h) Data analysis and report building  (i) 
+Encoder recognition  
+Probes: At least two numbers of low profile suitable PAUT probes for (MS 
+and Alloy Steel) of 7.5-10 MHz frequency, 16- 32 element with more than 2 
+meters of cable length. The probes shall have couplant supply mechanism for 
+passage of couplant (water to be used in this case) to test sur face. A water 
+irrigation channel along with water storage container & pressure mechanism 
+for providing continuous couplant (water) to the probe during testing. Suitable 
+probe for SS will be required for inspection of SS Joints.  
+(ii) Wedges: Specially desi gned wedges to fit in the above probes and having 
+refractive angle of 50 to 60- degree shear wave in steel. Wedges should have 
+suitable contour to fit with around 25-100 mm outer diameter tubes.  
+(iii) Scanner: A manual/automated scanner capable for scanning of around 25-
+100 mm outer diameters tubes. The scanner shall have encoder with it for 
+precise data acquisition. The scanner shall be able to hold two low profile 
+phased array probes and wedges, as mentioned above, for complete inspection 
+of the weld in o ne rotation of the scanner. The design of scanner, probe & 
+wedges shall allow complete inspection of circumferential weld on tube 
+having gap of more than 15 mm with any adjacent tubes, supports and 
+structures etc.  
+6. Manpower/Machine: Inspection/service provider agency shall depute two 
+persons with minimum UT Level- 2 qualification/certification from PCN, 
+CSWIP, ASNT, ISNT. Also at least one person should have sufficient training 
+(at least 7 days) in PAUT for operation, data analysis and interpretation of 
+signal/data acquired. The necessary document/certificate for above to be 
+produced to station.  Also, vendor must have two sets of PA UT equipment & 
+accessories of minimum 16:64 configuration PAUT equipment with encoder 
+assisted scanner, curved wedges (as per OD of tube) and focused probes and 
+analysis software.  
+7. Test plan: 
+(a) The agency shall submit the written inspection procedure for PAUT of 
+boiler tube weld joints. Scan plan (linear/sectorial) shall cover the entire 
+volume of the weld for inspection an d should mention parameters, like 
+thickness, OD, Index offset, weld profile, probe, wedge, scan angles etc. 
+There shall be minimum one sectorial scan for one probe. Total minimum two 
+groups for two probes, positioned at 90 & 270 degree. Angle step shall be 0.5 
+degree.  
+(b) Calibration: velocity, wedge delay, sensitivity, TCG, encoder calibration 
+shall be performed before inspection.  
+Reference block: Tubes with similar diameter & wall thickness (within 10%) 
+and circumferential notches/grooves (detailed belo w) shall be used as 
+reference block. The Reference block should have length not less than 200 
+mm. It should have two circumferential grooves/notches (one each on ID & 
+OD) having depth of 10% wall thickness, 1 to 1.5 mm width and length 
+between 25 to 50 mm. These two grooves should be located at opposite ends 
+of the tube. The notches should be separated from adjacent tube edge by about 
+50 mm. The length of reference block and location of reflectors 
+(notches/grooves) should comply the requirement of calibrati on for angle 
+beams. Agency to take tube samples in advance so that M/C Calibration work 
+can be completed before start of overhauling work. Samples to be returned 
+back to NTPC and to be kept in safe custody by NTPC for future reference.  
+(c) Data storage: The calibration data and inspection data should be stored in 
+the equipment and should be available for verification to NTPC Personnel. 
+Inspection data file is to be stored by giving identifiable marking for reporting 
+& interpretation. Soft copy of all the data to be provided to NTPC.  
+(d) Test Results : The test results for each tested tube should provide 
+information on type of defects (like Lack of penetration, porosity, Lack of 
+Fusion etc.), their location, length, height, depth etc. The final report with 
+above information to be given in an excel sheet along with PAUT inspection 
+data file & images for all the tested tubes.  
+8. Surface preparation & access to test area: NTPC will provide suitable 
+arrangement (scaffolding etc.) for safe access to test location s. Also surface 
+cleaning /buffing on weld regions of tube, lighting (hand lamps etc. as 
+required) would be within the scope of NTPC.  
+9. Representatives of NTPC will be allowed to check the test set- up, examine 
+the test procedure and the results.  
+10. Agency will have to abide all the safety regulations of NTPC without any 
+exception and any noncompliance stipulated damage will be deducted as per 
+safety rules and regulations of NTPC. 
+Other details of works shall be given in tender document. 
+2.  Technical Qualifying 
+requirements 
+The Applicant must have executed the job of  Phased Array Ultrasonic 
+Testing (PAUT) of at least 500 number of boiler tube welds in Single Work 
+Order in thermal power plant during last five years from the date of 
+application. 
+Document to be 
+submitted by Vendor 
+in support  of 
+meeting QR 
+Relevant PO copy and Client’s Completion Certificate/RA bill/Final 
+Deviation Statement and other certificate/documents as mentioned elsewhere 
+NTPC LTD 
+CORPORATE OPERATION SERVICES, EOC, NOIDA 
+VENDOR ENLISTMENT FOR O&M WORKS PACKAGE ON PAN NTPC 
+BASIS 
+CEG No. BMD-21 
+6 Additional 
+Documents to be 
+submitted 
+In addition to the documents required in support of meeting Technical 
+Qualifying Requirements as stated above, following documents are required to 
+be submitted by the Applicants applying for enlistment:- 
+i . Three POs with BOQ of the highest executed values of similar work during 
+previous five years from the date of application and Copy of Completion 
+Certificate /RA Bill/Final Deviation Statement from the concerned client in 
+support of successful execution of work against each of the POs to 
+besubmitted. 
+i i . Audited balance sheet including Profit & Loss statement for the previous 
+three completed financial years reckoned from the date of application. Incase, 
+the audited documents are not ready/available, then certified copy of 
+financial statement by a registered practicing chartered accountant may be 
+submitted. 
+i i i . NSIC / SSI / MSME registration certificate 
+i v . PF and GST/Service Tax registration certificate 
+v . Any other documents in addition to the above which the applicant wants 
+tosubmit. 
+7 NOTES: 1.0 Similar work means: Phased Array Ultrasonic Testing (PAUT) of BOILER 
+TUBES in thermal power plant 
+2.0 Value means basic value of the PO. Where PO value is composite (i.e. 
+including Service taxes etc.), the applicant has to give break-up of composite PO 
+value mentioning basic value, taxes etc. Executed value of contracts shall 
+include escalation amount because of price adjustment, if any, in thecontract. 
+ 

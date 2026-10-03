@@ -1,0 +1,159 @@
+NTPC Limited eProcurement Portal
+Tender Details
+Date : 26-Jun-2026 12:26 PM
+ Print
+Basic Details
+Organisation Chain NTPC Limited||Corporate Centre||Corporate Materials
+Tender Reference
+Number NTPC/EOC/9900327366
+Tender ID 2026_NTPC_109572_1 Withdrawal Allowed Yes
+Tender Type Single Form of contract Service
+Tender Category Services No. of Covers 1
+General Technical
+Evaluation Allowed No ItemWise Technical Evaluation
+Allowed No
+Payment Mode Not Applicable Is Multi Currency Allowed For
+BOQ No
+Is Multi Currency
+Allowed For Fee No Allow Two Stage Bidding No
+ 
+Cover Details, No. Of Covers - 1
+Cover No Cover Document Type Description
+1 Fee/PreQual/Technical/Finance .pdf Technical Details
+.xls Price Bid
+ 
+Tender Fee Details, [Total Fee in ₹ * - 0.00]
+Tender Fee in ₹ 0.00
+Fee Payable To Nil Fee Payable At Nil
+Tender Fee
+Exemption Allowed
+No
+EMD Fee Details
+EMD Amount in ₹ 0.00 EMD Exemption
+Allowed
+No
+EMD Fee Type fixed EMD Percentage NA
+EMD Payable To Nil EMD Payable At Nil
+BG Required No
+Minimum Direct
+EMD Payment in ₹
+0.00
+ 
+Click to view modification history
+ 
+Work /Item(s)
+Title SAP Enterprise Support (SES) of SAP Licenses
+Work Description SAP Enterprise Support (SES) of SAP Licenses
+Pre Qualification
+Details
+NA 
+Independent External
+Monitor/Remarks
+NA 
+Show Tender Value in
+Public Domain
+No 
+Tender Value in ₹ 0.00 Product Category Serv -
+Others
+Sub category NA 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work(Days) 365 
+Location EOC Noida Office EOC, SECTOR-
+24, NOIDA 201301
+Pincode 201301 Pre Bid Meeting Place NA 
+Pre Bid Meeting
+Address
+NA Pre Bid Meeting Date NA Bid Opening Place EOC Noida
+Office
+Should Allow NDA
+Tender
+No Allow Preferential
+Bidder
+No
+ 
+Critical Dates
+Publish Date 26-Jun-2026 05:00 PM Bid Opening Date 03-Jul-2026 12:00 PM
+Document Download / Sale Start
+Date
+26-Jun-2026 05:00 PM Document Download / Sale End
+Date
+02-Jul-2026 05:00 PM
+Clarification Start Date 26-Jun-2026 05:00 PM Clarification End Date 29-Jun-2026 05:00 PM 
+Bid Submission Start Date 26-Jun-2026 05:00 PM Bid Submission End Date 02-Jul-2026 05:00 PM
+ 
+6/26/26, 12:26 PM NTPC Limited eProcurement Portal
+https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=PublishedViewTender&service=direct&session=T&sp=SQAo0BFqFUoq… 1/3
+ 
+Tender Documents
+NIT
+Document S.No Document Name Description Document Size
+(in KB)
+1 Tendernotice_1.pdf NIT 101.95
+ 
+Work Item
+Documents S.No Document Type Document Name Description Document Size
+(in KB)
+1 Tender Documents Binder1.pdf Tender Documents 2183.83
+2 BOQ BOQ_112802.xls BOQ 315.00
+ 
+ 
+ 
+Single Bidders List
+S.No. Bidder Name Bidder Login Id
+1. SAP INDIA PVT LTD girish.bantwal@sap.com
+ 
+Auto Extension Corrigendum Properties for Tender
+Iteration No. of bids required for bid opening a tender Tender gets extended to No. of days
+1. 0 4
+2. 0 4
+3. 0 4
+ 
+Bid Openers List
+S.No Bid Opener Login Id Bid Opener Name Certificate Name
+1. rajeshkumarmeena01@ntpc.co.in Rajesh Kumar Meena RAJESH KUMAR MEENA
+2. parixitrariya@ntpc.co.in Parixit Rariya PARIXIT RARIYA
+3. deepaverma@ntpc.co.in DEEPA VERMA DEEPA VERMA
+4. satishksharma@ntpc.co.in SATISH KUMAR SHARMA SATISH KUMAR SHARMA
+ 
+ 
+GeMARPTS Details
+GeMARPTS ID MVO1YKK8BJO0
+Description GeMARPTS
+Report Initiated On 26-Jun-2026
+Valid Until 26-Jul-2026
+ 
+Tender Properties
+Auto Tendering Process
+allowed
+No Show Technical bid status No
+Show Finance bid
+status
+Yes Stage to disclose Bid Details in
+Public Domain
+Technical Bid Opening
+BoQ Comparative Chart
+model
+Normal BoQ Compartive chart decimal
+places
+2
+BoQ Comparative Chart
+Rank Type
+L Form Based BoQ No
+ 
+TIA Undertaking
+S.No Undertaking to Order Tender complying with Order Reason for non compliance of Order
+1 PPP-MII Order 2017 Not Applicable As per approval
+2 MSEs Order 2012 Not Applicable As per approval
+ 
+Tender Inviting Authority
+Name Manager (CM)
+Address EOC Noida Office EOC, SECTOR-24, NOIDA 201301
+ 
+Tender Creator Details
+Created By Rajesh Kumar Meena
+Designation manager
+Created Date 26-Jun-2026 11:04 AM
+ 
+6/26/26, 12:26 PM NTPC Limited eProcurement Portal
+https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=PublishedViewTender&service=direct&session=T&sp=SQAo0BFqFUoq… 2/3
+6/26/26, 12:26 PM NTPC Limited eProcurement Portal
+https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=PublishedViewTender&service=direct&session=T&sp=SQAo0BFqFUoq… 3/3

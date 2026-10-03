@@ -1,0 +1,52 @@
+Balance of Plant (BOP) Package for 1X25TPD & 2x325 TPD CO2 Capture Units at NTPC 
+Simhadri 
+Salient Technical Features 
+ 
+This package shall be used to cater diƯerent types of utilities required for CO2 Capture Units. 
+This ‘Balance of Plant’ package includes following sub-packages:  
+ 
+SN Details of Facilities  Remarks 
+1 CO2 Hub CO2 Liquefaction and Transfer System (including CO2 
+Liquefaction System, Liquid CO2 Storage Tank, Liquid CO2 
+Transfer Pump etc. 
+2 Cooling Water System Includes Adiabatic Cooling Tower, CW Pumps, CW Piping, CW 
+Valves, and associated auxiliaries to cater 40 MWth Load. 
+3 Integrated pipe rack and 
+cable tussle 
+The system is designed to cater to clarified water, DM Water, 
+drinking Water, firefighting, air, steam, condensate, and flue gas 
+ducts and pipelines supplying CO₂ capture units and different 
+equipment or unit. This includes a water supply of of treated 
+water and DM water, supported by appropriate storage and 
+pumping facilities, shall have provisions for routing electrical 
+power cables and control & instrumentation (C&I) cables. 
+4 Fire Fighting System Fire water pipelines with necessary tap -offs for hydrants and 
+sprinkler systems, Fire Detection and Alarm system, Fire 
+Protection system 
+5 Steam Condensate Water 
+System 
+Includes condensate polishing unit to meet site parameters with 
+storage tank, pumps, and piping network. 
+6 Steam Pipelines and PRDS 
+System 
+Main steam distribution pipelines along with Pressure Reducing 
+and De-superheating Station (PRDS).  
+7 Compressed Air System Including Air Compressor, Air Receiver Tank, Instrument Air 
+Dryer etc. 
+8 Electrical System Gas Insulated Switch Gear,  420kV, substation with MCR 
+comprising Transformers, Switchgear, High Tension (HT) and 
+Low Tension (LT) Motor Control Centres (MCCs), and other 
+electrical auxiliaries. 
+9 Control & Instrumentation 
+System 
+Includes Programmable Logic Controllers (PLC), Uninterruptible 
+Power Supply (UPS), and instrumentation required for plant 
+control and monitoring. 
+10 Civil Works Includes construction of Control Room, Machine Room  with 
+proper ventilation and air conditioning, structural steel works, 
+RCC works, internal road, drains, and other supporting civil 
+infrastructure. All painting and surface finish of structural steel 
+and other equipment/pipe/ducts shall meet coastal region 
+specifications. 
+Comprehensive O&M of ‘Balance of Plant’ package for a period of 2 years from the date of 
+commissioning. 

@@ -1,0 +1,742 @@
+                                                     NTPC LTD 
+USSC: CPG-1/VEC, Raipur 
+ 
+Sub: Qualifying Requirement (QR) for Vendor Enlistment for Supply of Energy Efficient LT 
+Motors up to 100 kW. 
+ 
+A) MEG 
+DETAILS 
+ 86MEG-08 
+ 1.0 MEG Description Energy Efficient LT Motors up to 100 kW. 
+(Enlistment Category-I) 
+ 
+ 2.0 MEG Responsibility VEC 
+ 3.0 Category Category I (Up to 4 Cr) 
+ 4.0 Critical/ Not critical (for 
+Requirement of Physical 
+Assessment) 
+Critical 
+B) Technical Criteria of QR:  
+            
+ 
+a) The Applicant should be a manufacturer of 415 V ,75 kW or above rating Motors.  
+b) The Applicant should have valid BIS licence (IS 12615) for IE3 or better Energy 
+efficient Motors up to 100 kW rating. 
+c)  The Applicant should have supplied minimum five (05) no 415 V, 75 kW or above 
+rating LT motors to any industry during the preceding five (05) years from the last 
+date of submission of application.  
+ 
+ 
+C) Documents required in support of meeting QR: 
+ 
+(1) Supporting Documents for QR - B. 
+ 
+(a) Latest Annual report or Udyam Registration / NSIC / SSI / MSME registration 
+certificate / Valid BIS license / ISO certificate / Certificate of registration/Type Test 
+Report / MDCC issued by the client or certified testing agency / any other statutory 
+document as a proof of being manufacturer of the LT Motors. Brief details of 
+Manufacturing facilities or the Standard published catalogue for LT Motors to be 
+given. 
+ 
+ 
+     (b) Copy of Purchase order(s) in support of award and copy of invoice(s) / Completion 
+certificate from the buyer concerned to establish successful execution of the supply 
+of LT Motors as per the QR.  
+ 
+ 
+(D) Documents to be submitted to establish the Execution Capability (EC):  
+ 
+ 
+In addition to the documents required in support of meeting technical   requirements as 
+stated above, following documents are required to be submitted by the Applicants applying 
+for enlistment: - 
+ 
+4.1. Three (3) POs of the highest executed values of similar works (see definition at 
+point E: Note- 1 below) executed during the previous five (5) years from the last date 
+of submission of application. Copy of Invoice(s) /   Completion certificate from the 
+concerned buyer/s in support of successful execution of   supply against the POs to 
+be submitted. These will be required for calculation of execution   capability.  
+ 
+4.2 Financials: 
+ 
+1. Audited balance sheet including Profit & Loss statement for the previous three 
+completed financial years reckoned from the last date of submission of application. 
+In case the audited result for the preceding financial year is not available or not 
+applicable for the applicant as per the GST and Tax Audit policy, certification of 
+financial statements from a practicing-chartered accountant is to be uploaded. In 
+case, applicant is not able to submit the certificate from practicing chartered 
+accountant certifying its financial parameters, the audited results of the three 
+consecutive financial years preceding the last financial years shall be considered 
+for evaluating the financial parameters. Further, a certificate would be required from 
+the CEO/CFO stating that the financial results are under audit as on the last date 
+of submission of application and certificate from the practicing Chartered 
+Accountant certifying the financial parameters are not available. 
+2. In case the applicant is not able to furnish its audited financial statements on stand-
+alone entity basis, the unaudited unconsolidated financial statements of the 
+applicant can be considered acceptable provided the applicant further furnishes the 
+following documents for substantiation of its qualification.  
+(a) Copies of the unaudited unconsolidated financial statements of the applicant 
+along with copies of the Audited consolidated financial statements of its Holding 
+Company.  
+(b) A Certificate from the CEO/CFO of the Holding Company, as per the format 
+enclosed in the bidding documents, stating that the unaudited unconsolidated 
+financial statements form part of the Consolidated Annual Report of the company. 
+4.3. GSTIN certificate, PAN, Power of attorney, Letter of undertaking, works information 
+etc. as mentioned in enlistment application pages of website https://vdc.ntpc.co.in. 
+ 
+ 
+Note: 
+(i) Maximum Three Credential Order(s) / Similar Work(s) shall be considered for calculation 
+of the EC. 
+(ii) “All other terms & conditions of enlistment are as per the STC available 
+at  VDC portal  https://vdc.ntpc.co.in’. 
+ 
+E) 
+ 
+NOTE-
+1 
+ 
+Similar works means: " Supply of 415 V or above Voltage rating motors “. 
+ NOTE-
+2 
+The executed value means Basic value of quantity of similar works 
+executed/supplied against the reference PO (also applicable to partly 
+executed POs as on date of application). Where PO value is composite (i.e. 
+including Taxes etc.), the applicant to give item-wise break-up of Composite 
+PO   value mentioning Basic Value, Taxes etc  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STANDARD QUALITY PLAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item: -LT Induction Motor 
+(IEC:60034/IS:12615)   
+ 
+SQP NO: 
+ 
+CPG-QA-SQP-E004 P 1/4 
+Prepared by 
+ 
+ 
+ 
+(J P Maurya) 
+Reviewed by 
+ 
+ 
+ 
+(Ankush Birla) 
+Approved by 
+ 
+ 
+ 
+(Sunil Malani) 
+  
+            Rev. 01       Date  21.07.2023 
+SL. 
+NO. 
+COMPONENT/ 
+OPERATION 
+CHARAC-TERISTICS QUANTUM 
+OF CHECK 
+REFERENCE 
+DOCUMENT 
+ACCEPTANCE 
+NORM 
+FORMAT 
+OF 
+RECORD 
+D
+AGENCY REMARKS 
+M N  M N 
+ 
+A) Raw material/BOI 
+1 Dual coated 
+enameled round 
+copper wire 
+Dimension, resistance, elongation, cut through 
+test, resistance to abrasion, continuity 
+(insulation), Mandrel winding test, 
+springiness, BD voltage test, Heat shock test, 
+Peel test.  
+1 sample/lot 
+ 
+NTPC Approved Drg/ DS / Tender 
+Tech. Spec./PO/IS 13730-Pt-13. 
+TC/IR   P/
+V 
+@  
+2 Insulation 
+material- slot 
+insulation 
+TS, Elongation, BDV & IR.  1 sample/lot 
+ 
+NTPC Approved Drg/  DS / 
+Tender Tech. Spec./PO/Mfrr std 
+TC/IR    P/
+V 
+@  
+ 
+3 Insulation 
+material. 
+Bore dia thickness, BDV, IR, Bending before 
+& after ageing, glass content, Voltage proof 
+test at elevated temp, stability of coating.  
+1 sample/lot 
+ 
+NTPC Approved Drg/ DS / Tender 
+Tech. Spec./PO/Mfrr std 
+TC/IR  P/
+V 
+@  
+4 Shaft  Dimension, Chemic al Composition, Hardness, 
+TS & Elongation, Yield strength,  
+1 sample 
+/heat 
+ 
+NTPC Approved Drg/  DS / 
+Tender Tech. Spec./PO/Mfrr std/IS 
+1570, Part-II. 
+TC/IR  P/
+V 
+V  
+Heat treatment (If applicable) 10 0% NTPC Approved Drg/  DS / 
+Tender Tech. Spec./PO/Mfrr std 
+HT 
+chart/HT 
+report 
+ P/
+V 
+@  
+ UT (≥50mm dia) 100% NTPC Approved Drg/ DS 
+/ Tender Tech. Spec./PO/ 
+ASTM A 388/ Mfrr std. 
+Note 4 TC/IR  P/
+V 
+V  
+5 Castings (stator 
+body, End 
+shields, terminal 
+box, Die cast 
+rotor body) 
+Dimension conformity, Hardness, Tensile 
+strength.  
+1 sample 
+/heat 
+ 
+NTPC Approved Drg/  DS / 
+Tender Tech. Spec./PO/Mfrr 
+std./IS:210 
+TC/IR  P/
+V 
+@  
+Visible surface defects 100% 
+ 
+NTPC Approved Drg/  DS / 
+Tender Tech. Spec./PO/Mfrr std 
+TC/IR  P/
+V 
+@  
+6 Stampings Stamping thickness, coating thickness, 
+specific losses , Insulation resistance, 
+Permeability, stacking factor, Burr height.  
+1 sample/lot 
+ 
+NTPC Approved Drg/  DS / 
+Tender Tech. Spec./PO/Mfrr 
+std./IS:648 
+TC/IR  P/
+V 
+V  
+ANKUS
+H BIRLA
+Digitally signed 
+by ANKUSH BIRLA 
+Date: 2023.07.21 
+12:27:01 +05'30'
+JAI 
+PRAKASH 
+MAURYA
+Digitally signed 
+by JAI PRAKASH 
+MAURYA 
+Date: 2023.07.21 
+12:29:22 +05'30'
+SUNIL 
+MALANI
+Digitally signed by 
+SUNIL MALANI 
+Date: 2023.07.21 
+16:08:36 +05'30'
+STANDARD QUALITY PLAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item: -LT Induction Motor 
+(IEC:60034/IS:12615)   
+ 
+SQP NO: 
+ 
+CPG-QA-SQP-E004 P 2/4 
+Prepared by 
+ 
+ 
+ 
+(J P Maurya) 
+Reviewed by 
+ 
+ 
+ 
+(Ankush Birla) 
+Approved by 
+ 
+ 
+ 
+(Sunil Malani) 
+  
+            Rev. 01       Date  21.07.2023 
+SL. 
+NO. 
+COMPONENT/ 
+OPERATION 
+CHARAC-TERISTICS QUANTUM 
+OF CHECK 
+REFERENCE 
+DOCUMENT 
+ACCEPTANCE 
+NORM 
+FORMAT 
+OF 
+RECORD 
+D
+AGENCY REMARKS 
+M N  M N 
+7 Fan  Dimensions Mfrr’s Std NTPC Approved Drg/  DS / 
+Tender Tech. Spec./PO/Mfrr std 
+TC/IR  P/
+V 
+@  
+Visible surface defects 100% -- TC/IR  P/
+V 
+-  
+8 Space heater  HV, IR & Wattage  100% --- Mfrr std.. TC/IR  P/
+V 
+-  
+9 Bearing  Type & Model  100% Mfrr std. TC/IR  P/
+V 
+  
+10 Varnish  Viscosity, shelf life Mfrr 
+std. 
+-- Mfrr std. TC/IR  P/
+V 
+-  
+11 Gasket  Dimension, TS & Hardness before & after 
+ageing, Neoprene test.  
+Mfrr’s 
+Std 
+-- NTPC Approved Drg/  DS / 
+Tender Tech. Spec./PO/Mfrr std 
+/IS:11149 & IS:3400 part-22.  
+TC/IR  P/
+V 
+-  
+12 Terminal block 
+(Epoxy/DMC) 
+Dimension, Proof voltage test 1/lot -- Mfrr std. TC/IR  P/
+V 
+-  
+13 Paint  Shelf life, shade Mfrr’s 
+Std 
+-- NTPC Approved Drg/  DS / 
+Tender Tech. Spec./PO/Mfrr std 
+TC/IR  P/
+V 
+-  
+B) Process /Assembly check        
+1 Machined casting 
+(stator body, End 
+shields, terminal 
+box, Die cast 
+rotor body)  
+Dimensions, surface finish (Blowholes). Mfrr’s Std NTPC Approved Drg/  DS / 
+Tender Tech. Spec./PO/Mfrr std 
+TC/IR  P -  
+Overpressure test, Flame path dimensions. 100% NTPC Approved Drg/  DS / 
+Tender Tech. Spec./PO/ 
+IS:2148/IS:60079 
+TC/IR  P V For flame 
+proof 
+motors.  
+2 Stator core  Core length, Rigid ity of core (*Pen knife test) 100% -- NTPC Approved Drg/  DS / 
+Tender Tech. Spec./PO/Mfrr std 
+TC/IR  P - *as 
+applicable 
+3 Wound stator Resistance, polarity, Intern turn(surge) test, 
+HV, slot wedge tightness, Visual(joints) 
+100% -- TC/IR   P -  
+4 Impregnation 
+(VPI) 
+Viscosity, temp, pressure & curing time.  Mfrr 
+std. 
+-- NTPC Approved Drg/   DS / 
+Tender Tech. Spec./PO/Mfrr std 
+TC/IR  P -  
+5 Rotor with fan  D ynamic balancing.  100% ISO:21940 TC/IR  P V  
+ANKUS
+H BIRLA
+Digitally signed by 
+ANKUSH BIRLA 
+Date: 2023.07.21 
+12:27:15 +05'30'
+JAI 
+PRAKASH 
+MAURYA
+Digitally signed 
+by JAI PRAKASH 
+MAURYA 
+Date: 2023.07.21 
+12:29:56 +05'30'
+SUNIL 
+MALANI
+Digitally signed 
+by SUNIL MALANI 
+Date: 2023.07.21 
+16:08:10 +05'30'
+STANDARD QUALITY PLAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item: -LT Induction Motor 
+(IEC:60034/IS:12615)   
+ 
+SQP NO: 
+ 
+CPG-QA-SQP-E004 P 3/4 
+Prepared by 
+ 
+ 
+ 
+(J P Maurya) 
+Reviewed by 
+ 
+ 
+ 
+(Ankush Birla) 
+Approved by 
+ 
+ 
+ 
+(Sunil Malani) 
+  
+            Rev. 01       Date  21.07.2023 
+SL. 
+NO. 
+COMPONENT/ 
+OPERATION 
+CHARAC-TERISTICS QUANTUM 
+OF CHECK 
+REFERENCE 
+DOCUMENT 
+ACCEPTANCE 
+NORM 
+FORMAT 
+OF 
+RECORD 
+D
+AGENCY REMARKS 
+M N  M N 
+6 Final assembly Shaft run out, check terminal box assembly, 
+gasketing, crimping. 
+100% Mfrr std. TC/IR  P @  
+C) Finished Product / Final Inspection 
+1 Final test  Name plate verification, paint shade, 
+thickness & adhesion test (cross hatch 
+method), mounting & overall dimensions, 
+Degree of protection (by feeler gauge wire). 
+Random  NTPC Approved Drg/  DS / 
+Tender Tech. Spec./PO/IS 60034      
+/IS 12615 
+IR Y P W  
+2 HV test on winding & space heater, IR test 
+before & after HV test on winding & space 
+heater, reduced voltage running test, Over 
+speed test (at 120% of rated speed for 2 
+Minute), Vibration measurement, Direction of 
+rotation, Measurement of  winding resistance, 
+No load & locked rotor test. 
+100% NTPC Approved Drg/  DS / 
+Tender Tech. Spec./PO/IS 60034      
+/IS 12615 
+IR Y P W  
+3 Pre-Dispatch Completeness & Packing.  100% NTPC Approved DS / Tender 
+Tech. Spec./PO/Mfrr std 
+IR  P -  
+D) Type Test clearance from NTPC site shall be reviewed during final inspection if envisaged by tender/PO spec.  
+ 
+Notes: - 
+ 
+1. Y mark in Column ‘D’ means such document shall be furnished by the manufacturer / supplier. 
+2. Calibrated equipments required for performing the tests in the presence of NTPC or authorized representative, shall be arranged by the supplier without any extra 
+cost. 
+3. Reference and Acceptance norms shall be derived from following in the same sequence a) NTPC Approved drawing / data sheet, b) NTPC tech specs, c) Purchase 
+Order, d) Relevant national standard. e) Relevant International standard, f) Manufacturer's standard g) Good Engineering practices. 
+4. When back wall echo(BWE)  is set to 100% of full screen height(FSH), a defect echo>20% of FSH is not acceptable. Also loss of BWE>20% is not acceptable. 
+Frequency of probe used shall be 2MHZ min. 
+5. @Motor manufacturer shall maintain records for surveillance check by NTPC. 
+6. For energy efficient motors, core length, core material and frame size shall be same as those used in type tested motors.  
+ 
+ANKUSH 
+BIRLA
+Digitally signed by 
+ANKUSH BIRLA 
+Date: 2023.07.21 
+12:27:27 +05'30'
+JAI 
+PRAKASH 
+MAURYA
+Digitally signed 
+by JAI PRAKASH 
+MAURYA 
+Date: 
+2023.07.21 
+12:30:22 +05'30'
+SUNIL 
+MALANI
+Digitally signed 
+by SUNIL 
+MALANI 
+Date: 2023.07.21 
+16:07:37 +05'30'
+STANDARD QUALITY PLAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item: -LT Induction Motor 
+(IEC:60034/IS:12615)   
+ 
+SQP NO: 
+ 
+CPG-QA-SQP-E004 P 4/4 
+Prepared by 
+ 
+ 
+ 
+(J P Maurya) 
+Reviewed by 
+ 
+ 
+ 
+(Ankush Birla) 
+Approved by 
+ 
+ 
+ 
+(Sunil Malani) 
+  
+            Rev. 01       Date  21.07.2023 
+SL. 
+NO. 
+COMPONENT/ 
+OPERATION 
+CHARAC-TERISTICS QUANTUM 
+OF CHECK 
+REFERENCE 
+DOCUMENT 
+ACCEPTANCE 
+NORM 
+FORMAT 
+OF 
+RECORD 
+D
+AGENCY REMARKS 
+M N  M N 
+7. For energy efficient motors, comparison of winding resistance and no-load losses measured in identical conditions (either cold or hot) w.r.t. type tested motor of 
+same rating –  
+ 
+(a) Winding resistance with (+/-)5% of type tested motor value, both values corrected at 20 degree centigrade. 
+(b) If winding resistance and no-load losses are not within tolerances w.r.t type tested motor, motor manufacturer to conduct efficiency test on the offered motor for 
+witness by NTPC.  
+(c) Tolerances: i) No-load current: +/- 15%.  ii) No-load loss: +/- 15% (on motor rating ≤150KW)/ +/- 10 % (on motor rating>150KW) 
+ 
+Abbreviations: - 
+ 
+M/Mfrr  Manufacturer  P Perform  IR Inspection Record / Report 
+N  NTPC Ltd or authorized representa tive  W Witness  TC Test Certificate 
+CoC  Certificate of Conformance  V Verification/Revi ew of records  MTC Manufacturer’s Test Certificate 
+DS   Data sheet  PO  Purchase Order  Drg Drawing 
+ 
+ 
+ANKUSH 
+BIRLA
+Digitally signed 
+by ANKUSH BIRLA 
+Date: 2023.07.21 
+12:27:40 +05'30'
+JAI 
+PRAKASH 
+MAURYA
+Digitally signed 
+by JAI PRAKASH 
+MAURYA 
+Date: 2023.07.21 
+12:30:48 +05'30'
+SUNIL 
+MALANI
+Digitally signed 
+by SUNIL 
+MALANI 
+Date: 2023.07.21 
+16:06:27 +05'30'
+ 
+Attributes / Criteria for Physical Assessment MAX 
+Marks 
+Obtained 
+Marks 
+GENERAL   
+ 
+1. Premises and Resources 
+a. Statutory document viz. Factory License / SME registration /BIS License 
+permitting manufacturing of intended item at proposed works location  
+and long-term lease / ownership document / Electricity bill as evidence of 
+possession of declared premises. PCB clearance for applicable industry 
+b. Adequacy of space including housekeeping, identification, 
+Storing/stacking for input material, 
+c. Physical Verification of available working well-maintained machines as 
+per declaration with evidence of owning (viz. invoices in the applicant's 
+name) AND Physical Verification of available working maintained 
+calibrated test facilities & measuring instruments as per declaration with 
+evidence of owning (viz. invoices or calibration certificates in the 
+Applicant's name) 
+d. Availability of Qualified & Experienced regular manpower in design-as 
+applicable, production & quality control with permanent staff on key 
+positions with salary statement & pf statement (if applicable) as evidence 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50 
+ 
+ 
+2. Experience & Quality Control 
+a. Supply experience for same item for last 3 years , commissioning 
+protocol / customer feedback / repeat orders AND delivery commitment 
+through random verification of invoices & LRs against randomly selected 
+orders or the for orders submitted as credentials, from the declared 
+works location 
+b. Control on quality of raw material , bought out items, and out-sourced 
+processes (if any) through controlled procurement from the established 
+listed sources, regular quality checks / audits at suppliers’ works, checks 
+/ verification of test records at incoming stage, controlled receipt & issue 
+of material, actions for non-compliant supplies. 
+c. Control on quality of in-process inventories at various critical stages, 
+proper identification on items and maintenance of corresponding 
+updated QC records for traceability from raw material till finished 
+product.Display of key processes critical steps / parameters /SOPs in 
+local language at shop floor 
+d. Capability for & Acceptability to NTPC’s Quality Plan. Successful 
+Random inspection / witnessing tests on finished products available on 
+the shop floor / test lab 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50 
+ 
+ 
+MEG ITEM SPECIFIC 
+  
+ 
+1. Resources : 
+a. Availability of approved BPS,PQR and qualified brazers , in-house or tied 
+up lab/qualified personnel for carrying out UT for plates and rounds 
+>=40mm 
+b. Facilities to manufacture formed coils, stator winding, brazing , dynamic 
+rotor balancing, seamless smooth varnishing / VPI, painting 
+c. Availability of dust free and controlled atmosphere (Clean, pressurized 
+and / or A.C) in Coil forming & Stator Winding areas. 
+d. Availability of expert experienced manpower in design and validated 
+software for motor design capable of taking care of customised motors’ 
+requirements substantiated simulation tools (electromagnetic, thermal, 
+vibration analysis). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50 
+ 
+ 
+2. Quality Management System: 
+a. WIs / SOPs at working places for critical processes like coil making, 
+core building, varnishing, rotor balancing 
+b. Type test certificate for the highest rating motor supplied, NFPA 
+certification / compliance for flameproof machines 
+c. Availability of inhouse calibrated test facilities for conducting routine 
+tests as per IS / IEC 60034,IS including following additional tests- 
+i. Vibration 
+ii. Noise Level 
+iii. Overspeed Test 
+iv. Direct load test facility and Efficiency measurement for 
+IE2/IE3/IE4 Motors 
+v. Elcometer for paint thickness 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50 
+ 
+ 

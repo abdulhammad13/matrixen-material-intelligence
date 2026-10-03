@@ -1,0 +1,1738 @@
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+बड
+बड
+ 
+ 
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid End Date/Time
+15-10-2025 15:00:00
+बड
+बड
+ 
+ 
+खुलने
+खुलने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid Opening
+Date/Time
+15-10-2025 15:30:00
+बड
+बड
+ 
+ 
+पेशकश
+पेशकश
+ 
+ 
+वैधता
+वैधता
+ (
+ (
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+ 
+ 
+से
+से
+)
+)
+/Bid Offer
+Validity (From End Date)
+120 (Days)
+मं ालय
+मं ालय
+/
+/
+रा!य
+रा!य
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Ministry/State Name
+Ministry Of Power
+वभाग
+वभाग
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Department Name
+Na
+संगठन
+संगठन
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Organisation Name
+Ntpc Limited
+काया%लय
+काया%लय
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Office Name
+Cg
+कुल
+कुल
+ 
+ 
+मा ा
+मा ा
+/Total Quantity
+6200
+व&तु
+व&तु
+ 
+ 
+'ेणी
+'ेणी
+ 
+ 
+/Item Category
+Ordinary Portland Cement (V3) Conforming to IS 269 for
+Bulk Buying (Q3)
+एमएसएमई
+एमएसएमई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष.
+वष.
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+4दान
+4दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+/MSE Exemption for Years of
+Experience and Turnover
+No
+&टाट%अप
+&टाट%अप
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वष.
+वष.
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+4दान
+4दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+ /Startup Exemption for Years of
+Experience and Turnover
+No
+व5ेता
+व5ेता
+ 
+ 
+से
+से
+ 
+ 
+मांगे
+मांगे
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़
+द&तावेज़
+/Document required
+from seller
+Certificate (Requested in ATC)
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by
+the buyer
+7या
+7या
+ 
+ 
+आप
+आप
+ 
+ 
+िनवदाकार9
+िनवदाकार9
+ 
+ 
+:ारा
+:ारा
+ 
+ 
+अपलोड
+अपलोड
+ 
+ 
+;कए
+;कए
+ 
+ 
+गए
+गए
+ 
+ 
+द&तावेज़9
+द&तावेज़9
+ 
+ 
+को
+को
+िनवदा
+िनवदा
+ 
+ 
+म<
+म<
+ 
+ 
+भाग
+भाग
+ 
+ 
+लेने
+लेने
+ 
+ 
+वाले
+वाले
+ 
+ 
+सभी
+सभी
+ 
+ 
+िनवदाकार9
+िनवदाकार9
+ 
+ 
+को
+को
+ 
+ 
+;दखाना
+;दखाना
+चाहते
+चाहते
+ 
+ 
+ह>
+ह>
+? 
+? 
+संदभ%
+संदभ%
+ 
+ 
+मेनू
+मेनू
+ 
+ 
+है
+है
+/Do you want to show
+documents uploaded by bidders to all
+bidders participated in bid?
+No
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+ 
+ 
+सीमा
+सीमा
+ 
+ 
+&वतः
+&वतः
+ 
+ 
+नहं
+नहं
+ 
+ 
+बढ़ाने
+बढ़ाने
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+आवBयक
+आवBयक
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+संCया
+संCया
+।
+।
+ / Minimum number of
+bids required to disable automatic bid
+extension
+3
+;दन9
+;दन9
+ 
+ 
+क
+क
+ 
+ 
+संCया
+संCया
+, 
+, 
+Fजनके
+Fजनके
+ 
+ 
+िलए
+िलए
+ 
+ 
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+बढ़ाई
+बढ़ाई
+ 
+ 
+जाएगी
+जाएगी
+। / 
+। / 
+Number
+ 
+ 
+of
+ 
+ 
+days
+ 
+ 
+for
+ 
+ 
+which
+ 
+ 
+Bid
+would
+ 
+ 
+be
+ 
+ 
+auto
+-
+-
+extended
+7
+ 
+बड
+ 
+संCया
+/
+Bid
+ 
+Number
+: 
+GEM/2025/B/6650175
+;दनांक
+ /
+Dated
+: 23-09-2025
+बड
+बड
+ 
+ 
+द&तावेज़
+द&तावेज़
+ / Bid Document
+1 / 8
+ऑटो
+ऑटो
+ 
+ 
+ए7सट<शन
+ए7सट<शन
+ 
+ 
+अिधकतम
+अिधकतम
+ 
+ 
+;कतनी
+;कतनी
+ 
+ 
+बार
+बार
+ 
+ 
+;कया
+;कया
+ 
+ 
+जाना
+जाना
+ 
+ 
+है
+है
+। /
+। /
+Number
+ 
+ 
+of
+ 
+ 
+Auto
+ 
+ 
+Extension
+ 
+ 
+count
+3
+बड
+बड
+ 
+ 
+से
+से
+ 
+ 
+Pरवस%
+Pरवस%
+ 
+ 
+नीलामी
+नीलामी
+ 
+ 
+स;5य
+स;5य
+ 
+ 
+;कया
+;कया
+/Bid to RA enabled
+No
+बड
+बड
+ 
+ 
+का
+का
+ 
+ 
+4कार
+4कार
+/Type of Bid
+Two Packet Bid
+तकनीक
+तकनीक
+ 
+ 
+मूQयांकन
+मूQयांकन
+ 
+ 
+के
+के
+ 
+ 
+दौरान
+दौरान
+ 
+ 
+तकनीक
+तकनीक
+ 
+ 
+&पSीकरण
+&पSीकरण
+ 
+ 
+हेतु
+हेतु
+अनुमत
+अनुमत
+ 
+ 
+समय
+समय
+ 
+ 
+/Time allowed for Technical
+Clarifications during technical evaluation
+3 Days
+िनरTण
+िनरTण
+ 
+आवBयक
+आवBयक
+ (
+सूचीबU
+सूचीबU
+ 
+िनरTण
+िनरTण
+ 
+4ािधकरण
+4ािधकरण
+ /
+जेम
+जेम
+ 
+के
+के
+ 
+साथ
+साथ
+पूव%
+पूव%
+ 
+पंजीकृत
+पंजीकृत
+ 
+एज<िसय9
+एज<िसय9
+ 
+:ारा
+:ारा
+)/Inspection Required (By
+Empanelled Inspection Authority / Agencies
+pre-registered with GeM)
+No
+मूQयांकन
+मूQयांकन
+ 
+ 
+पUित
+पUित
+/Evaluation Method
+Total value wise evaluation
+मXय&थता
+मXय&थता
+ 
+खंड
+खंड
+/Arbitration Clause
+No
+सुलह
+सुलह
+ 
+खंड
+खंड
+/Mediation Clause
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+ईएमड
+ईएमड
+ 
+ 
+ववरण
+ववरण
+/EMD Detail
+एडवाईजर
+ 
+ब>क
+/Advisory Bank
+ICICI
+ईएमड
+ 
+रािश
+/EMD Amount
+500000
+ईपीबीजी
+ईपीबीजी
+ 
+ 
+ववरण
+ववरण
+ 
+ 
+/ePBG Detail
+आवBयकता
+/Required
+No
+(a). 
+जेम
+ 
+क
+ 
+शत.
+ 
+के
+ 
+अनुसार
+ 
+ईएमड
+ 
+छू ट
+ 
+के
+ 
+इZछु क
+ 
+बडर
+ 
+को
+ 
+संबंिधत
+ 
+केटेगर
+ 
+के
+ 
+िलए
+ 
+बड
+ 
+के
+ 
+साथ
+ 
+वैध
+ 
+समिथ%त
+ 
+द&तावेज़
+ 
+4&तुत
+ 
+करने
+ 
+है
+।
+ 
+एमएसई
+केटेगर
+ 
+के
+ 
+अंतग%त
+ 
+केवल
+ 
+व&तुओं
+ 
+के
+ 
+िलए
+ 
+विनमा%ता
+ 
+तथा
+ 
+सेवाओं
+ 
+के
+ 
+िलए
+ 
+सेवा
+ 
+4दाता
+ 
+ईएमड
+ 
+से
+ 
+छू ट
+ 
+के
+ 
+पा 
+ 
+ह>
+।
+ 
+[यापाPरय9
+ 
+को
+ 
+इस
+ 
+नीित
+ 
+के
+ 
+दायरे
+ 
+से
+बाहर
+ 
+रखा
+ 
+गया
+ 
+है
+।
+/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document
+for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and
+Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this
+Policy.
+(b).
+ईएमड
+ 
+और
+ 
+संपादन
+ 
+जमानत
+ 
+रािश
+, 
+जहां
+ 
+यह
+ 
+लागू
+ 
+होती
+ 
+है
+, 
+लाभाथ\
+ 
+के
+ 
+पT
+ 
+म<
+ 
+होनी
+ 
+चा;हए
+।
+ / EMD & Performance securityshould be
+in favour of Beneficiary, wherever it is applicable. 
+लाभाथ\
+लाभाथ\
+ 
+ 
+/Beneficiary :
+ 
+GM (Purchase)
+cg, NA, NTPC Limited, Ministry of Power
+(Ntpc Ltd.)
+UIN Number NCTGC2415P
+वभाजन
+वभाजन
+/Splitting
+2 / 8
+बोली
+ 
+वभाजन
+ 
+लागू
+ 
+नहं
+ 
+;कया
+ 
+गया
+/ 
+Bid splitting not applied.
+Reserved for Make In India products
+Reserved for Make In India products
+Yes
+एमएसई
+एमएसई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MSE Purchase Preference
+एमएसई
+ 
+खरद
+ 
+वरयता
+/MSE Purchase Preference
+Yes
+1. Bid reserved for Make In India products: : Procurement under this bid is reserved for purchase from Class 1
+local supplier as defined in public procurement (Preference to Make in India), Order 2017 as amended from time
+to time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products.
+However, eligible micro and small enterprises will be allowed to participate. The minimum local content to
+qualify as a class 1 local supplier is denoted in the bid document. All bidders must upload a certificate from the
+OEM regarding the percentage of the local content and the details of locations at which the local value addition is
+made along with their bid, failing which the bid is liable to be rejected. In case the bid value is more than Rs 10
+Crore, the declaration relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered accountant for OEMs other
+than companies as per the Public Procurement (preference to Make-in -India) order 2017 dated 04.06.2020 . In
+case Buyer has selected Purchase preference to Micro and Small Enterprises clause in the bid, the same will get
+precedence over this clause. 
+2. Purchase preference will be given to MSEs having valid Udyam Registration and whose credentials are
+validated online through Udyam Registration portal as defined in Public Procurement Policy for Micro and Small
+Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and
+its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail themselves of the
+Purchase preference, the bidder must be the manufacturer / OEM of the offered product on GeM. Traders are
+excluded from the purview of Public Procurement Policy for Micro and Small Enterprises and hence resellers
+offering products manufactured by some other OEM are not eligible for any purchase preference. In respect of bid
+for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in
+this regard shall be uploaded along with the bid in respect of the offered product or service and Buyer will decide
+eligibility for purchase preference based on documentary evidence submitted, while evaluating the bid. If L-1 is
+not an MSE and MSE Seller (s) has / have quoted price within L-1+ 15% (Selected by Buyer) of margin of
+purchase preference /price band defined in relevant policy, such MSE Seller shall be given opportunity to match
+L-1 price and contract will be awarded for 25% (selected by Buyer) percentage of total quantity. The buyers are
+advised to refer the OM No. F.1/4/2021-PPD dated 18.05.2023 
+OM_No.1_4_2021_PPD_dated_18.05.2023
+ 
+for
+compliance of Concurrent application of Public Procurement Policy for Micro and Small Enterprises Order, 2012
+and Public Procurement (Preference to Make in India) Order, 2017. Benefits of MSE will be allowed only if seller is
+validated on-line in GeM profile as well as validated and approved by Buyer after evaluation of documents
+submitted. 
+Ordinary Portland Cement (V3) Conforming To IS 269 For Bulk Buying ( 6200 metric
+tonne ) 
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+Bis Required
+Yes
+तकनीक
+तकनीक
+ 
+ 
+विशSयाँ
+विशSयाँ
+ 
+ 
+/Technical Specifications
+* 
+जेम
+ 
+केटेगर
+ 
+विशS
+ 
+के
+ 
+अनुसार
+ / 
+As
+ 
+per
+ 
+GeM
+ 
+Category
+ 
+Speciﬁcation
+ववरण
+ववरण
+/Speciﬁcation
+विशS
+विशS
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+ 
+ 
+/Specification
+Name
+बड
+बड
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+आवBयक
+आवBयक
+ 
+ 
+अनुमत
+अनुमत
+ 
+ 
+मूQय
+मूQय
+ 
+ 
+/Bid Requirement
+(Allowed Values)
+3 / 8
+Classification
+Grades of Ordinary Portland
+Cement(OPC)
+OPC 43 Grade
+ववरण
+ववरण
+/Speciﬁcation
+विशS
+विशS
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+ 
+ 
+/Specification
+Name
+बड
+बड
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+आवBयक
+आवBयक
+ 
+ 
+अनुमत
+अनुमत
+ 
+ 
+मूQय
+मूQय
+ 
+ 
+/Bid Requirement
+(Allowed Values)
+Additional Specification Parameters - Ordinary Portland Cement (V3) Conforming To IS 269 For Bulk
+Buying ( 6200 metric tonne )
+ 
+Specification Parameter
+Name
+Bid Requirement (Allowed Values)
+Terms and conditions 1:
+1. Supply, transportation by rail/road up to NTPC SIPAT store/site, unloading
+and stacking is in the scope of supplier. Safety norms applicable at the plant
+to be followed strictly while stacking and unloading. 2. Damage/torn bag or
+frozen/set cement will not be accepted. 
+3. Cement shall be supplied in HDPE
+bags of capacity 50 kg each, conforming to IS 11652: 1986, bearing
+manufacture's name, week of manufacturing, and grade of cement.
+* Bidders offering must also comply with the additional specification parameters mentioned above. 
+परेषती
+परेषती
+/
+/
+Pरपो;ट^ग
+Pरपो;ट^ग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+5.सं.
+5.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+Pरपो;ट^ग
+Pरपो;ट^ग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+;डलीवर
+;डलीवर
+ 
+के
+के
+ 
+;दन
+;दन
+/Delivery
+Days
+1
+Kapil Dev Sharma
+495555,Sipat Super Thermal
+Power Project, PO Ujwal Nagar,
+District Bilaspur, Chhattisgarh
+6200
+365
+5ेता
+5ेता
+ 
+ 
+:ारा
+:ारा
+ 
+ 
+जोड़
+जोड़
+ 
+ 
+गई
+गई
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+वशेष
+वशेष
+ 
+ 
+शतa
+शतa
+/Buyer Added Bid Specific Terms and Conditions
+1
+. 
+Certificates
+Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the
+Bid document, ATC and Corrigendum if any.
+2
+. 
+Generic
+Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any
+responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates
+(whichever is lower), subject to the maximum of quoted GST %.
+3
+. 
+Generic
+Bidder shall submit the following documents along with their bid for Vendor Code Creation:
+ a. Copy of PAN Card.
+ b. Copy of GSTIN.
+4 / 8
+ c. Copy of Cancelled Cheque.
+ d. Copy of EFT Mandate duly certified by Bank.
+4
+. 
+Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+Additional Terms and Conditions:
+1. Supply, transportation by rail/road up to 
+NTPC SIPAT
+ store/site, unloading and stacking 
+is in the scope of supplier. Safety norms applicable at the plant to be followed strictly while 
+stacking and unloading.
+2. 
+Damage/torn bag or frozen/set cement will not be accepted.
+3. 
+Cement shall be supplied in HDPE bags of capacity 50 kg each, conforming to 
+IS 11652
+: 
+1986
+, bearing manufacture's name, week of manufacturing, and grade of cement.
+4. 
+Date of receipt of cement at site shall not be more than 2 weeks old from the date of ma
+nufacture.
+5. 
+Documents to be submitted:
+i) 
+Manufacturers Test Certificate against each week of manufacture as mentioned in the ba
+g of cement.
+ii) 
+Delivery Challan/Invoice mentioning week of manufacture of cement.
+6. 
+The Manufacturers Test Certificate should indicate fineness, normal consistency, initial &
+final setting time, soundness, Total Alkali Content, compressive strength and any other test
+result as per tender specification.
+7. 
+Sampling & Testing:
+i) 
+After receiving of cement at
+ NTPC Sipat
+ Store/site, cement shall be tested at 
+NTPC Sip
+at
+ 
+Lab
+ for Fineness, setting time & Compressive strength 
+as per IS: 269 with latest ame
+ndment. The 28 days compressive strength of cement shall be minimum 43 N/m
+m2
+.
+ii) 
+In case of cement fails to achieve the desired minimum 28 days compressive strength 
+o
+f 43 N/mm2 as per IS 269 with latest amendment
+ at 
+NTPC Sipat
+ 
+Lab
+, sampling of ce
+ment shall be made in presence of representatives from C&M/store department, FQA depar
+tment and supplier for the supplied quantity of each week number. Afterwards, the sample
+d cement specimen shall be tested at 
+NTPC Approved Third Party Lab
+ for Fineness, sett
+ing time as per 
+IS: 269 with latest amendment 
+and 
+28 days compressive strength o
+f 43 N/mm2 (minimum). 
+The cost of the above testing including transportation charges s
+hall be borne by the supplier.
+iii) 
+In case Cement fails to achieve the desired minimum 28 days compressive strength
+ 
+of 
+4
+3 N/mm2 (minimum)
+,
+ 
+as per IS 269 with latest amendment
+, supplier has to replace t
+he total lot without any extra financial implication to NTPC. Lot means the total supplied qu
+antity in particular week as printed on the bag of cement.
+8. 
+Vehicle deployed for transportation of cement shall have valid documents like valid natio
+nal permits. Driver license, valid fitness certificate, PUC certificate etc. as per rules.
+ 
+QUALIFYING REQUIREMENTS FOR BIDDERS.
+5 / 8
+The bidders who wish to participate in the bidding shall satisfactorily meet the Qualif
+ying Requirements stipulated hereunder:
+1.1 Technical Criteria:
+ 
+1.1.1
+ 
+The bidder should be manufacturer of OPC Cement and shall submit copy of
+valid BIS license(s) in support of the same.
+1.1.2
+ 
+The bidder should have 
+the bidder should have supplied ‘
+OPC and/or PPC’ Cement 
+within the preceding seven (07) years prior to the date of techno commercial bid ope
+ning, meeting the following criteria: -
+ 
+A.
+ 
+Single executed order of cement quantity 
+not less than 4960 MT
+OR
+B.
+  
+Two executed orders of cement 
+quantity not 
+less than 3100 MT in each order
+OR
+C.
+ 
+Three executed orders of cement quantity 
+not less than 2480 MT in each orde
+r
+ 
+Notes for Technical Criteria:
+i.
+         T
+he word “Executed" mentioned above means that the bidder should have ac
+hieved the criteria speciﬁed above within preceding seven (07) years reckone
+d from the date of Techno- commercial bid opening even if the total contract i
+s started earlier and/or is not completed/closed.
+ii.
+       
+In case of orders under execution, the Quantity of cement supply order execut
+ed prior to the date of Techno Commercial bid opening duly certiﬁed by bidde
+r’s client shall be considered acceptable.
+1.2 Financial Criteria:
+ 
+1.2.1 The 
+The average annual turnover of the Bidder, in the preceding three (3) financial ye
+ars as on the date of Techno-Commercial bid opening, shall not be less than 
+Rs. 270 Lakh
+s (Two Crore Seventy Lakhs only)
+ 
+1.2.2 
+In case the bidder does not satisfy the ﬁnancial criteria, stipulated at Cl. 3.2.1 above 
+on its own, its Holding Company would be required to meet the stipulated turnover req
+uirements at Cl. 3.2.1 above, provided that the net worth of such Holding Company as 
+on the last day of the preceding ﬁnancial year is at least equal to or more than the paid
+-up share capital of the Holding Company. In such an event, the bidder would be requir
+ed to furnish along with its Techno-Commercial bid, a Letter of Undertaking from the H
+olding Company, supported by Board Resolution, as per the format enclosed in the bid 
+documents, pledging unconditional and irrevocable ﬁnancial support for the execution 
+of the Contract by the bidder in case of award.
+ 
+1.2.3 
+In case the bidder is not able to furnish its audited financial statements on standalone
+entity basis, the unaudited unconsolidated financial statements of the bidder can be co
+nsidered acceptable provided the bidder further furnishes the following documents for
+substantiation of its qualification:
+i) 
+Copies of the unaudited unconsolidated ﬁnancial statements of the bidder along with cop
+ies of the Audited consolidated financial statements of its Holding Company.
+6 / 8
+ii) 
+A Certiﬁcate from the CEO/CFO of the Holding Company, as per the format enclosed in t
+he bidding documents, stating that the unaudited unconsolidated financial statements f
+orm part of the Consolidated Annual Report of the company.
+1.2.4 
+In cases where audited results for the last preceding ﬁnancial year as on the date of 
+Techno- Commercial bid opening are not available, the financial results certified by a pr
+acticing Chartered Accountant shall be considered acceptable. In case, Bidder is not abl
+e to submit the Certiﬁcate from practicing Chartered Accountant certifying its ﬁnancial 
+parameters, the audited results of three consecutive ﬁnancial years preceding the last 
+ﬁnancial year shall be considered for evaluating the ﬁnancial parameters. Further, a Ce
+rtificate would be required from the CEO/CFO as per the format enclosed in the bidding 
+documents stating that the financial results of the Company are under audit as on the d
+ate of Techno- Commercial bid opening and the Certiﬁcate from the practicing Chartere
+d Accountant certifying the financial parameters is not available.
+ 
+Notes for 1.2:
+1.
+ 
+Other income shall not be considered for arriving at annual turnover.
+2.
+ 
+“Holding Company" and “Subsidiary Company” shall have the meaning ascribed t
+o them as per Companies Act of India, in vogue.
+3.
+  
+Net worth means the sum total of the paid-up share capital and free reserves. Fre
+e reserve means all reserves credited out of the proﬁts and share premium acco
+unt but does not include reserves credited out of the revaluation of the assets,
+write back of depreciation provision and amalgamation. Further, any debit balanc
+e of Proﬁt and Loss account and miscellaneous expenses to the extent not adjust
+ed or written off, if any, shall be reduced from reserves and surplus.
+4.
+  
+MSE -SC/ST & MSE-Women bidders are exempted from meeting the Average Ann
+ual Turnover (AATO) requirement of ﬁnancial QR. Accordingly, for these bidders 
+Evaluation shall be carried out only based on Technical Criteria of Qualiﬁcation R
+equirements.
+.
+5
+. 
+Buyer Added Bid Specific ATC
+Buyer uploaded ATC document 
+Click here to view the file
+.
+अ&वीकरण
+अ&वीकरण
+/Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+bidding process without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+Category item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7 / 8
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+attached categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+case may be.
+15
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+16
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the
+same must be added through bunching category based items or by bunching custom catalogs or
+bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+such representations.
+All GeM Sellers / Service Providers are mandated to ensure compliance with all the applicable laws /
+acts / rules including but not limited to all Labour Laws such as The Minimum Wages Act, 1948, The
+Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The Equal Remuneration Act, 1976,
+The Payment of Gratuity Act, 1972 etc. Any non-compliance will be treated as breach of contract
+and Buyer may take suitable actions as per GeM Contract.
+यह
+ 
+बड
+ 
+सामाbय
+ 
+शत.
+ 
+के
+ 
+अंतग%त
+ 
+भी
+ 
+शािसत
+ 
+है
+ 
+/This Bid is also governed by the General Terms and Conditions
+जेम
+ 
+क
+ 
+सामाbय
+ 
+शत.
+ 
+के
+ 
+खंड
+ 26 
+के
+ 
+संदभ%
+ 
+म<
+ 
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+के
+ 
+बडर
+ 
+से
+ 
+खरद
+ 
+पर
+ 
+4ितबंध
+ 
+के
+ 
+संबंध
+ 
+म<
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+का
+ 
+कोई
+ 
+भी
+ 
+बडर
+ 
+इस
+ 
+िनवदा
+ 
+म<
+ 
+बड
+ 
+देने
+ 
+के
+ 
+िलए
+ 
+तभी
+ 
+पा 
+ 
+होगा
+ 
+जब
+ 
+वह
+ 
+बड
+ 
+देने
+ 
+वाला
+सTम
+ 
+4ािधकार
+ 
+के
+ 
+पास
+ 
+पंजीकृत
+ 
+हो
+।
+बड
+ 
+म<
+ 
+भाग
+ 
+लेते
+ 
+समय
+ 
+बडर
+ 
+को
+ 
+इसका
+ 
+अनुपालन
+ 
+करना
+ 
+होगा
+ 
+और
+ 
+कोई
+ 
+भी
+ 
+गलत
+ 
+घोषणा
+ 
+;कए
+ 
+जाने
+व
+ 
+इसका
+ 
+अनुपालन
+ 
+न
+ 
+करने
+ 
+पर
+ 
+अनुबंध
+ 
+को
+ 
+तfकाल
+ 
+समाg
+ 
+करने
+ 
+और
+ 
+कानून
+ 
+के
+ 
+अनुसार
+ 
+आगे
+ 
+क
+ 
+कानूनी
+ 
+कार%वाई
+ 
+का
+ 
+आधार
+ 
+होगा
+।
+/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---
+धbयवाद
+धbयवाद
+/Thank You---
+8 / 8

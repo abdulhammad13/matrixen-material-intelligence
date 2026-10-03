@@ -1,0 +1,198 @@
+NTPC LTD 
+Vendor Development Cell (VDC), CPG-1 Raipur 
+ 
+ 
+A MEG 
+Details 
+  
+1.0 MEG No. 94MEG-06A 
+2.0 MEG Description Temperature Transmitters 
+3.0 MEG Responsibility VDC 
+ 
+B 
+ 
+Technical Criteria of QR:  
+ 
+1.       a. The Applicant should be a Manufacturer of Temperature Transmitters. 
+             
+                   OR  
+ 
+b. Applicant should be Group Company or Subsidiary company of the 
+Holding Company who is a Manufacturer of Temperature Transmitters. 
+ 
+2. The Applicant should have successfully executed the supply of Temperature 
+Transmitters during the last five (5) years as on the date of application.  
+ 
+The Temperature Transmitters supplied should have been in operation for at least 
+one (1) year prior to the date of application. 
+ 
+ 
+C 
+ 
+Documents required in support of meeting QR: 
+ 
+1. Latest annual report OR NSIC / SSI / MSME/UDHAYAM registration certificate / 
+BIS license / ISO certificate / Certificate of registration from the concerned excise 
+department / any other statutory document as a proof of being manufacturer of 
+Temperature Transmitters in support of Clause 1. a . of Technical Criteria . Brief 
+details of manufacturing facilities or Standard published catalogue for Temperature 
+Transmitters also to be given. 
+ 
+2. The PO in support of award and completion certificate/copies of invoice /client 
+certificate to establish successful execution of the supply and operation of 
+Temperature Transmitters as per QR.  
+ 
+ 
+3. Applicant has to submit relevant documents in support of Clause 1. b. of Technical 
+Criteria. 
+ 
+ 
+D 
+ 
+Documents to be submitted to find executed value of orders:  
+ 
+In addition to the documents required in support of meeting technical requirements as 
+stated above, following documents are required to be submitted by the Applicants  
+applying for enlistment: - 
+ 
+1. Three (3) POs of the highest executed values of similar work (see definition at point 
+E: Note- 1 below) during previous five (5) years from the date of application. Copy 
+of Invoice / Completion certificate from the concerned buyer/s in support of 
+successful execution of supply against the POs to be submitted. These will be 
+required for calculation of execution capability.  
+ 
+2. Audited balance sheet including Profit & Loss statement for the previous three (3) 
+completed financial year’s reckoned from the date of application. In case where the 
+audited results for the last financial years as on the date of application are not 
+available, the financial res ult certified by a practicing Chartered accountant shall 
+be considered acceptable. 
+ 
+3. GSTIN certificate ,PAN ,Power of attorney, Letter of undertaking ,works 
+information etc. as mentioned in enlistment application pages of website 
+www.vendor.ntpc.co.in 
+ 
+4. NTPC can request for other documents as necessary during the course of 
+evaluation. 
+ 
+ 
+E 
+ 
+NOTE-1 
+ 
+Similar works means: Supply of Temperature Transmitters or Electronic 
+Transmitters for Pressure, DP and DP based Flow / Level measurements. 
+ 
+  
+ 
+ NOTE-2 
+ 
+The executed value means Basic value of quantity of similar works 
+executed/supplied against the reference PO (also  applicable to partly 
+executed POs as on date of application). Where PO value is composite 
+(i.e. including Taxes etc.), the applicant to give item -wise break-up of 
+Composite PO value mentioning Basic Value, Taxes etc. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Technical Specifications 
+ 
+ 
+ 
+1. Single Input Temperature Transmitter 
+ 
+Material Code: M9442035009 (TEMP.TRANSMTR-I/P: UNIV, O/P:4-20MA, HART) 
+ 
+Instrument:   Single Input Temperature Transmitter 
+Type:    SMART, HART Compatible 
+Mounting:   DIN Rail Mount 
+Input Type:  Universal input (Single Input, RTD: PT-100 (2, 3 or 4 wire RTD) or 
+Thermocouple:  K type, S type or R type) 
+Input Selection:  Through HART communicator 
+Input Isolation: Minimum 500 VAC or better 
+Power Supply: 24 V DC +/- 10% 
+Electromagnetic compatibility:  as per EN 61326 
+Output:  2-Wire (loop powered i.e. Power supply from input card of control 
+system) 4-20 mA output with superimposed HART protocol signal 
+Measuring Range: -200 to 800 Deg C for PT-100 or better 
+                                 -150 to 1350 Deg C for K Type or better 
+                                 0 to 1500 Deg C for S type or better 
+                                 0 to 1500 Deg C for R type or better 
+Cold Junction Compensation: In-built PT100 OR PT1000 
+Cold junction Accuracy: +/- 1 Deg C or better for Thermocouple 
+Accuracy:  RTD: =<0.25% of 0-250 Deg C span or better 
+   T/C-K type: =<0.2% of 0-600 Deg C span or better 
+Operation Conditions: Ambient Temperature: -10 to 75 Deg C or better 
+    Humidity: 0 to 95% RH (non-condensing) or better 
+Burn Out output: In case of failure of sensor output should go to extreme HIGH or LOW 
+value (selectable by HART) 
+Update Time:  <= 1 sec or better 
+Protection Class:  IP20 or better 
+Shape:   Rectangular 
+Other Requirements:  -  Vendor/supplier must supply minimum 5-point calibration report 
+of temperature transmitter. 
+- Reverse polarity protection. 
+Fault signal on sensor break/short circuit 
+ 
+ 
+ 
+ 
+2.Dual Input Temperature Transmitter 
+ 
+Material Code: M9442165304 (TEMP.TRANSMTR:0-1500DEG C, UNIV(DUAL),4WR) 
+ 
+Instrument:   Dual Input Temperature Transmitter 
+Type:    SMART, HART Compatible 
+Mounting:   Field mounting with 2-inch pipe bracket 
+Input Type:  Universal input (Dual Input, both input RTD: PT-100 (2, 3 or 4 wire 
+RTD) or both input Thermocouple:  K type, S type or R type) 
+Input Selection:  Through HART communicator 
+Input Isolation: Minimum 500 VAC or better 
+Power Supply: 24 V DC +/- 10% 
+Electromagnetic compatibility:  as per EN 61326 
+Output:  2-Wire (loop powered i.e. Power supply from input card of control 
+system) 4-20 mA output with superimposed HART protocol signal 
+Measuring Range: -200 to 800 Deg C for PT-100 or better 
+                                 -150 to 1350 Deg C for K Type or better 
+                                 0 to 1500 Deg C for S type or better 
+                                 0 to 1500 Deg C for R type or better 
+Cold Junction Compensation: In-built PT100 OR PT1000 
+Cold junction Accuracy: +/- 1 Deg C or better for Thermocouple 
+Accuracy:  RTD: =<0.25% of 0-250 Deg C span or better 
+   T/C-K type: =<0.2% of 0-600 Deg C span or better 
+Diagnostics & display: Self-Indicating feature and digital display on transmitter 
+Operation Conditions: Ambient Temperature: -10 to 70 Deg C or better 
+    Humidity: 0 to 95% RH (non-condensing) or better 
+Back-up function: Bumpless changeover facility to Second Sensor in case of failure of 
+first sensor 
+Burn Out output: In case of failure of sensor output should go to extreme HIGH or LOW 
+value (selectable by HART) 
+Update Time:  <= 1 sec or better 
+Protection Class:  IP67 or better 
+Other Requirements:  -     Vendor/supplier must supply minimum 5-point calibration 
+report of temperature transmitter. 
+- Reverse polarity protection. 
+- Fault signal on sensor break/short circuit. 
+- 2-inch pipe bracket for mounting. 
+  
+ 
+ 
+ 
+ 
+----------------------END--------------------------- 

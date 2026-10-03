@@ -1,0 +1,1450 @@
+ 
+Invitation for e -Tender for Procurement of power from generators/ energy storage 
+providers by NTPC Vidyut Vyapar Nigam Limited (Nodal Agency)  for upcoming high 
+demand period 
+Request for Supply (RfS) 
+INTRODUCTION AND BACKGROUND 
+ 
+NTPC VIDYUT VYAPAR NIGAM LIMITED (hereinafter referred to as “NVVN”), a wholly 
+Owned Subsidiary of NTPC Limited (Govt of India Enterprises) , has been nominated as a 
+Nodal Agency to facilitate peak power procurement of up to 12000 MWh (2000 MW for 6 
+hours) per day of electricity from generation/ storage resources during the crunch period April-
+June 2026.  
+ 
+NVVN intends to select suitable bidders (the “Bidders”) whose Bid shall be opened on the 
+date specified in this RfS and will be eligible for opening of Price Bids, followed by reverse 
+auction and bucket filing for issuing letter of Award (LOA) through an open competitive bidding 
+process in accordance with the procedure set out herein. 
+ 
+Supply of power from selected generation/ storage resources shall commence at least 30 days 
+after the date of issue of Letter of Award (LoA). To give effect to such supply, the selected 
+generation/ storage resources shall offer the capacity to the nodal agency (i.e., NVVN), which 
+in turn shall offer it on to High Price Day Ahead Market (HP- DAM)/ High Price Term Ahead 
+Market (HP-TAM) or other segment of any of the power exchange(s)  or bilateral or through 
+TRAS-Shortfall/SCUC.  Since the price will be discovered through competitive bidding and 
+capacity mandated through Govt. of India, this power can also be scheduled through TRAS / 
+SCUC by NLDC in case of shortfall. 
+ 
+The generation/ storage resources connected to inter-state or intra-state transmission system 
+shall provide real time telemetry of the parameters as may be specified by the appropriate 
+Load Despatch Center (LDC) (RLDC/SLDC). All necessary infrastructure/arrangements shall 
+be made by the bidder at its own expense. Failure to provide real time telemetry may lead to 
+disqualification of the bidder. 
+ 
+At inter-state level, in addition to IEGC, the generation/ storage resources shall comply with 
+the extant CERC Regulations as applicable from time to time. Intra -state grid connected 
+entities participating in the bid shall comply to the IEGC and extant CERC Regulations in 
+addition to the SERC Regulations concerned.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (“Procurement of power from Generators/ Energy Storage Providers on competitive 
+bidding basis during upcoming high demand period”) 
+Tender Specification No. NVVN\C&M\RE-501\2025-26 
+ 
+Indicative timeline 
+Sr. Event Details 
+1 Publication of RfS 13-02-26 
+2 
+Last date and time for receiving queries on 
+Bidding Document 
+20-02-26 
+3 Pre-Bid Meeting 20-02-26 
+4 Response to queries of potential bidders 
+latest by 
+21-02-26 
+5 Last date and time of submission of 
+application and bid (Bid Due Date) 
+25-02-26 
+6 Opening of Application to the extent of only 
+qualification requirement 
+26-02-26 
+7 Intimation to shortlisted and qualified Bidders 27-02-26 
+8 Opening of Price Bids of qualified bidders 28-02-26 
+9 eRA and completion of bid evaluation 
+process 
+28-02-26 
+10 Letter of Award (LoA) (to Selected Bidder(s)) 01-03-26 
+11 Validity of Bids 
+30 days of Bid Due Date or as may be 
+mutually extended 
+12 
+Signing of Agreement (between successful 
+bidders and Nodal Agency based on 
+allocated capacity) 
+Within 07 days from date of LoA 
+13 Bids to be submitted through Bharat ETS Portal 
+14 Office inviting bids & Place of submission of 
+EMD 
+NTPC Vidyut Vyapar Nigam Limited, 
+5th Floor, Engineering Office Complex, 
+A-8A, Sector -24, Noida -201301 (U.P.) 
+ 
+Tender needs to be submitted through Bharat ETS e -bidding portal . The link for same  is 
+https://www.bharat-electronictender.com. The tender documents are also available on the website 
+of NVVN ltd (www.nvvn.co.in) & of NTPC ltd. ntpctender.ntpc.co.in.  
+ 
+1.0 QUALIFICATION CRITERIA 
+ 
+The Bid shall be opened , subject to the following conditions and verification of bid / 
+documents submitted by the bidder: 
+ 
+1.1  The Bidder should be a company, which shall be verified by Certificate of Incorporation 
+as per clause 2.8 below. 
+1.2 The Bidder should be the owner of the Generator/ Energy Storage Providers from where 
+electricity shall be supplied as per clause 2.6 below. 
+1.3 If the capacity being offered is tied up in PPA, Bidder will inform the PPA beneficiaries for 
+bidding of the power during the upcoming high demand period . The Bidder shall also 
+declare that no fixed charges shall be billed to PPA beneficiaries for the total contracted 
+quantum for the contract period.  Documents in support of the same shall be submitted 
+as per Clause 2.4 below.  
+1.4 Bidders with untied capacity during identified high demand period shall submit documents 
+in support of the same as per Clause 2.5 below. 
+1.5 The bidder shall submit bid for quantum of power during identified high demand period 
+not exceeding the sum total of untied capacity and the capacity as informed to the PPA 
+beneficiaries.  
+1.6 Generators/ Energy Storage Providers  connected to  inter-state or intra-state 
+transmission grid are only eligible. Documents in support of the same shall be submitted 
+as per Clause 2.6 below. 
+1.7 The Generators/ Energy Storage Providers  connected to inter -state or intra -state 
+transmission system participating in the bid shall have all necessary infrastructure in 
+place and capability for scheduling, metering, accounting, and settlement on a 15-minute 
+time-block wise basis as specified in the Indian Electricity Grid Code (IEGC). The grid 
+connected entity (inter -state and intra -state) shall provide real time telemetry of the 
+parameters as may be specified by the appropriate  Load Despatch Center (LDC) 
+(RLDC/SLDC). Documents in support for the same shall be submitted as per Clause 2.7 
+below.  
+1.8 The generators/ energy storage providers shall provide necessary undertaking that   
+sufficient transmission capability is available for injection of power during peak hours. 
+ 
+ 
+2.0 DOCUMENTS REQUIRED FOR BID SUBMISSION  
+2.1  Bid Processing Fee as per Clause 9.1 
+2.2 Earnest Money Deposit/Bid Security as per Clause 11.0 (Annexure I) 
+2.3 Power of Attorney for signing and submission of bid. 
+2.4 If the capacity being offered is tied up in PPA, Bidder will inform the PPA beneficiaries 
+for bidding of the power during the high demand period and shall not bill fixed charges  
+for the contracted power during this contract period under this scheme (Annexure II). 
+2.5 Affidavit by bidder that they have untied capacity during identified high demand period 
+(Annexure IIA). 
+2.6 Affidavit by bidder that they are owner of the Generators/ Energy Storage Providers is 
+connected to Interstate or intrastate grid (Annexure III) 
+2.7 Declaration regarding enablement of ABT compliant metering and telemetering. 
+(Annexure-IV) 
+ 
+2.8  Certificate of Incorporation 
+2.9 No Deviation Certificate as per Annexure V. 
+ 
+3.0 Contract Period, Quantum of Energy (MWh) and General conditions of the Scheme: 
+  
+Period  Total Required 
+Quantum per day  
+(MWh)  
+Minimum Bid Quantity 
+(MW) 
+Minimum and 
+Maximum Duration 
+per day (hours) 
+1st Apr 26 – 30th Jun 26 12000 25 Min: 02 hours  
+Max: 06 hours 
+ 
+The Bidder shall offer power up to the quantum indicated in RfS Document on a firm basis. 
+ 
+General conditions of the Scheme: 
+(i) Based on the current demand forecast and resource availability, the Grid India has 
+assessed the requirement of operation of Generators/ Energy Storage providers  
+selected in the scheme for days 50 days during the period 1st Apr 26 – 30th Jun 26.  
+ 
+(ii) Minimum Guaranteed Off-take (MGO) for generators/ energy storage providers would 
+be calculated as per requirement specified by NLDC based on estimated crunch days 
+and 50% contracted capacity. MGO for each generators/ energy storage providers 
+would be allocated in proportion of contracted capacity to the total bid capacity. MGO 
+will be applicable on energy basis only. 
+ 
+(iii) The cumulative generation days as given by NLDC on provisional basis for the crunch 
+period shall be 50 days. However, the month- wise generation days for power plant for 
+crunch period shall be provided by NLDC based  on requirement and with provision for 
+extension/revision during implementation . 
+ 
+(iv) The contracted capacity shall be able to be dispatched on stressed days during non-
+solar peak hours (18:00 to 04:00 hrs), for minimum 2 hours and maximum 6 hours-The 
+generation profile of identified procured resources would be minimum 50% of 
+contracted capacity for the generators/ energy storage providers selected on D-1 days 
+for the duration quoted in the bid and may be scheduled upto 100% of contracted 
+capacity during Non-solar peak hours as per grid requirement. E.g. for  12000MWh of 
+contracted Energy, Minimum Guaranteed Off-take (MGO) per day shall be 6 MU per 
+day and shall be 300 MU for the crunch period of 50 days (considering 6 hours per 
+day).  If lesser quantity is contracted, the MGO will reduce proportionately. 
+ 
+(v) Nodal   Agency    in   consultation   with   NLDC   shall   communicate   to   the procured   
+resources   at   least   fourteen  (14)   days   in   advance   about   the approximate   
+number of crunch days based on all India demand forecast  and generation availability 
+in the following week of operation on which the generation is likely to be required in the  
+grid. Considering weather uncertainty, approximate no. of days would be reviewed 
+again in just  previous week and any changes would be intimated to all 
+generators/storage resource by Friday of previous week. The procured resources shall 
+accordingly arrange the peak power supply during the said week (Monday to Sunday) 
+as per the schedule communicated   by   NLDC   on   D -1 day.  In   case   of   energy   
+storage providers, arrangement of charging power shall be in the scope of respective   
+energy storage services for supply of power during peak hours. 
+ 
+ 
+(vi) The modalities for utilization of the contracted capacity during the crunch period shall 
+be as under: 
+ 
+a) Out of the contracted capacity,  NVVN would  endeavour  to  sell the power in any 
+segment of the power exchange  immediately  after signing of  contract. 
+ 
+b) The selected generators/ energy storage providers may also seek avenues for sale 
+of power for part or full crunch period and such sale shall be executed through the 
+Nodal Agency. This will ensure  that Nodal Agency is fully aware of the utilization 
+of the capacity and there are no contractual complications at a later stage. 
+ 
+c) The Nodal Agency in consultation with NLDC shall communicate to the 
+Generators/ storage service providers at least fourteen (14) days in advance about 
+the approximate number of crunch days in the following week s  of operation on 
+which the generation is likely to be required in the grid. 
+ 
+d) The generators/ energy storage providers shall arrange for the fuel arrangements/ 
+charging power requirement and   other necessary  arrangements based on 
+generation profile as emerging from above. 
+ 
+e) During the operating week, NLDC will give confirmation for generation/ supply of 
+energy to one or more generators/ energy storage providers at 0500 hours on D-1 
+day depending on the available MGO quantum with the generators/ energy storage 
+providers and requirement of grid. Post this, NVVN will offer the available quantum 
+in power exchange. 
+ 
+f) If NLDC   has  given   confirmation   for   part  capacity   on   D -1  basis  to   a 
+generator/  energy  storage  provider,  the  Nodal  Agency  may  sell  full/part  of 
+the  remaining  contracted  capacity  of that  generator/  energy  storage  provider 
+during  peak  hours  in the  market at a  rate which  shall  at  least  be equal  to the 
+discovered  rate for that generator/  energy  storage  provider. 
+ 
+g) Any left-over contracted quantum  from  generator/  energy  storage provider, which 
+was given confirmation on D -1 day, would be scheduled by NLDC on D  day for  
+grid support/requirement  under ancillary  services  as  per IEGC/ancillary  services  
+regulation. 
+ 
+(vii) Any energy sold out of contracted capacity shall be counted in the  MGO for that 
+generators/ energy storage providers. 
+ 
+(viii) In case of energy requirement beyond MGO quantum, Nodal Agency may schedule   
+such energy up to the Contracted Capacity to generators/ energy storage providers 
+to supply such additional energy. 
+ 
+(ix) The contract period may be extended up to 31st July 2026, with the consent of the 
+selected generators/energy storage providers as per same terms and conditions of 
+the supply. 
+ 
+ 
+(x) The selected bidders will have to arrange fuel/ charging power requirement and other 
+arrangements on their own. 
+ 
+(xi) The bidder shall provide the technical details such as maximum, minimum duration for 
+which bidder can supply the power on continuous basis along with technical constraint. 
+ 
+(xii) The supplier may be required to start/stop the plant daily in  accordance with the 
+power requirement and cleared  schedule. 
+ 
+(xiii) DSM Charges shall be in the scope of generators/ energy storage providers as per 
+the applicable DSM  Regulations. 
+ 
+(xiv) The generators/ energy storage providers connected to inter-state or intra-state 
+transmission system  participating  in the  bid  shall  have  all  necessary infrastructure  
+in place and capability  for scheduling, metering, accounting and settlement on a 15-
+minute time- block wise basis as specified in the Indian Electricity Grid Code. The 
+generators/ energy storage providers shall provide necessary undertaking that 
+sufficient transmission capability is available for injection of power during peak hours. 
+ 
+(xv) No planned maintenance shall be allowed during the identified  crunch period. 
+ 
+(xvi) The schedule which is not able to be fulfilled due to fuel supply  constraint or 
+Transmission/Grid constraint, subject to documentary evidence, shall be treated 
+as Force Majeure without any liability on either side, and deemed to be fulfilled 
+with regard to  Minimum Guaranteed Offtake (MGO) obligation.  Any consequent 
+DSM liability due to such constraint will be to the account  of generators/ energy 
+storage providers. 
+ 
+4.0   TARIFF STRUCTURE 
+ 
+The tariff payable will be on Rs/ kWh basis fixed for the entire crunch  period. The  tariff  
+shall  cover  all  inputs  costs  including  but  not  limited to  such  as  fixed  costs  and  
+other  associated  components,  O&M,  fuel,  charging energy,  RtE impact, 
+transmission  charges  and  losses  applicable during  charging (in  case  of  storage),   
+NVVN  trading   margin,   Power  Exchange  Charges,   state transmission  charges  
+and  transmission   losses  (if  any),  SLDC  charges  etc.,  as applicable 
+ 
+Discovered tariff will not be changed during the duration of the contract. 
+ 
+For generation beyond MGO, discovered tariff during competitive bidding shall be payable. 
+ 
+4.1 Availability 
+a) During the operating week, NLDC will give confirmation for generation requirement 
+to one or more Generators/ Energy Storage Providers  at 0500 hours on D -1 day 
+depending on the available MGO quantum with the generators and requirement of 
+grid. Post this, NVVN will offer the available quantum in power exchange.  This may 
+be subject to revision as per inputs received from NLDC from time to time. 
+ 
+b) On the basis of  generation requirement allocated to Generators/ Energy Storage 
+Providers, the Generators/ Energy Storage Providers shall confirm the acceptance of 
+generation of same on day ahead basis (D-1) before 08:00 hrs.  
+c) The nodal agency shall bid the accepted quantum  by Generators/ Energy Storage 
+Providers in the power exchange.  
+d) The nodal agency would calculate t he availability Factor for the day based on the 
+block wise schedule communicated by Nodal Agency and schedule accepted by 
+Generators/ Energy Storage Providers as per following: 
+S-Schedule communicated by Nodal Agency to Generators/ Energy Storage 
+Providers for the particular block of the day (MWh) 
+G- Schedule accepted by Generators/ Energy Storage Providers  for the particular  
+block of the day (MWh) 
+Energy not scheduled for the block due to non-availability (ENSB) = S-G   if S >G 
+                                                                                                    = 0 if S≤ G 
+Energy not scheduled for the day due to non-availability ENSD= ∑ENSB 
+e) No planned maintenance shall be allowed during the Contract Period under this 
+Agreement. 
+f) Liquidated damage (LD) for less delivered availability of Generators/ Energy Storage 
+Providers shall be calculated as below: 
+    LD in Rs. =ENSD*0.1*(Discovered Tariff) *1000 
+ 
+ 
+4.2   Power Exchange Charges (PXC):  
+a) All the charges deducted by Power Exchange for sale of contracted capacity by NVVN 
+shall be payable to NVVN by the Seller. NVVN shall deduct the same from the daily 
+Payment to the Seller towards sale of power.  
+b) NVVN will share the daily obligation report and schedule with the Generators/ Energy 
+Storage Providers on receipt of the same from the power exchange. 
+c) Client registration charges in Power Exchange(s) shall be in the scope of Generators/ 
+Energy Storage Providers. 
+d) The bidder  shall be responsible for arranging No Objection Certificate from the 
+concerned LDC (SLDC/RLDC) for participation in Power Exchange or TRAS/ SCUC. 
+4.3 Trading Margin for Nodal Agency (NVVN):  
+NVVN shall be charging a trading margin of Rs. 0.06/kWh (excluding GST) from the 
+Generators/ Energy Storage Providers under this scheme for the energy scheduled 
+through various segments e.g. Market, Bilateral or under shortfall provisions of TRAS/ 
+SCUC. 
+4.4 Delivery Point: 
+ 
+ 
+The power shall be sold and delivered by Seller to NVVN at the delivery point as applicable 
+for sale of power in Day Ahead Market in the Power Exchange (ISTS periphery of the region 
+where Seller is connected).  
+ 
+5.0 DISPATCH & SETTLEMENT 
+ 
+5.1 Market based dispatch and settlement. 
+ 
+a) The bidding in power exchange shall be considering discovered tariff .  In case of 
+excess amount received from power exchange sale after accounting for NVVN trading 
+margin, 90% of the same shall be deposited in the DSM and  Ancillary pool account 
+after the end of the crunch period and any extension as applicable. However, 10% of 
+such excess amount shall be paid to the generator as an incentive after the end of the 
+crunch period and any extension as applicable. 
+b) NVVN shall bid in the power exchange based on the day ahead availability declared 
+by Generators/ Energy Storage Providers as per instruction given by NLDC. The bid-
+price for sale of power in Power Exchange segment and/ or bilateral mode etc. shall be 
+discovered tariff for respective generator/energy storage provider. 
+c) The bid (MW) shall be submitted in power exchange(s) by NVVN in line with the day 
+ahead (D-1) assessment/ requirement provided by NLDC.  This may be subject to 
+revision as per inputs received from NLDC from time to time.  
+d) Generators/ Energy Storage Providers  to strictly follow schedule given by nodal 
+agency/ NLDC. 
+e) NVVN shall declare tariff for TRAS/ SCUC with adjustment for power exchange 
+charges, such that generators/ energy storage providers recover only the total tariff 
+(discovered tariff - power exchange charges). Despatch of selected generators/ energy 
+storage providers under TRAS/ SCUC shall be as per merit order amongst the selected 
+generator(s)/ energy storage provider(s) based on discovered tariff.  It may be n oted 
+that there shall not be any incentive over and above the afore mentioned declare tariff 
+for TRAS/ SCUC for scheduling of power in TRAS/ SCUC. 
+f) The supplier may be required to start/stop the plant in accordance with the NLDC 
+generation profile and cleared schedule.  
+g) NVVN shall share the daily obligation report and daily schedule with the Seller(s) on 
+receipt of the same from the power exchange. 
+h) The bidder shall be required to Schedule its power every 15 minutes on daily basis as 
+per Indian Electricity Grid Code and the applicable extant regulations. 
+i) The Seller shall communicate to NVVN its previous day’s Station Ex -Bus Schedule 
+Generation and Station Ex-Bus Actual Generation block wise on daily basis by 08:00 
+hours. 
+j) Any deviation  from the Schedule shall attract the provisions of CERC Deviation 
+Settlement Mechanism regulation. Deviation settlement shall be carried out as per the 
+applicable CERC/SERC Regulations and in the absence of SERC Regulations on 
+Deviation Settlement, the CER C Deviation Settlement Regulations shall apply to the 
+ 
+Generators/ Energy Storage Providers. 
+5.2 Metering: 
+a) For installation of Meters, Meter testing, Meter calibration and Meter reading and all 
+matters incidental thereto, the bidder shall follow the Central Electricity Authority 
+(Installation and Operation of Meters) Regulations, 2006, as amended from time to time. 
+b) The bidder shall bear all costs pertaining to installation, testing, calibration, maintenance, 
+renewal and repair of meters at its periphery. 
+c) In addition to ensuring compliance of the applicable codes, the bidder shall install Main, 
+Check as well as Stand-by meter(s) as per Central Electricity Authority (Installation and 
+Operation of Meters) Regulations, 2006, as amended from time to time. 
+5.4 Energy Accounting 
+a) The daily/weekly/ Monthly Energy Account /DSM Account/TRAS Account  issued by 
+respective RLDC/SLDC or Regional Power Committee shall be binding on all the parties 
+for billing and payment purposes. 
+b) In case of any differences, the decisions of the RPC forums/ RLDC/SLDC shall be 
+final, and both the Parties shall agree to abide by the decision so finalized. 
+c) Any change in the methodology of RLDC/SLDC or Regional Energy Account shall be 
+done only as per the decisions taken in the forums and /or CERC orders and both the 
+Parties shall agree to abide by the methodology so finalized. 
+ 
+6.0 Settlement for sale of energy in Power Exchange  
+a) On the commencement of high demand period, the Nodal Agency will participate in 
+power exchange(s)/TRAS shortfall / SCUC  or other market segments  with the 
+quantum of power as advised by NLDC sourced from the supplier in each time block.  
+ 
+b) DSM Charges shall be in the scope of Bidder.  
+ 
+7.0 Billing, Payment and Reconciliation: 
+ 
+7.1 Billing, Payment and Reconciliation to Generators/ Energy Storage Providers shall be as 
+follows: 
+a) The payment due to Generators/ Energy Storage Providers for power exchange(s) 
+transactions shall be released on a daily basis as detailed in 7.2 below. 
+b) Based on previous day’s Station Ex -Bus Schedule Generation (MWh) & 
+corresponding Station Ex -Bus Actual Generation (MWh) block wise communicated 
+by Generators/ Energy Storage Providers corresponding to contracted capacity and 
+Schedule Energy (MWh) sold in power exchange by Nodal Agency , the payment to 
+Generators/ Energy Storage Providers  shall be made towards Day’s scheduled 
+Generation in the Power exchange on Provisional Basis as per clause 7.2.  
+c) The Seller shall raise monthly invoice(s) on NVVN including the extension period if  
+any duly accounting  and adjusting  the applicable LDs , Penalties, under the 
+contract. It is further clarified that final settlement of payment towards power 
+supply to NVVN under this contract will be after the conclusion of contract based 
+on Energy Account(s) and Deviation Settlement Account(s) issued by concerned 
+RPC(s)/ RLDCs/ SLDCs. The reconciliation based on energy account issued by 
+concerned RPC/RLDC/SLDC shall be final.   
+ 
+ 
+7.2 Amount due to Seller shall be remitted provisionally based on scheduled generation in 
+the power exchange within 1 (one) business day (Due Date) from date of receipt of the 
+payment from Power exchange (excluding the date of receipt) to NVVN as elaborated below.: 
+ 
+The amount payable on account of discovered tariff and energy scheduled shall be calculated 
+based on Schedule generation in the Power exchange as per the following method: 
+ 
+Energy Charges (X) in Rs. = Discovered Tariff (Rs. /kWh) * (Energy 
+Scheduled (in kWh) in the Power Exchange in the relevant period). 
+ 
+(i) Applicable Power Exchange sale related Charges payable by Seller for a day 
+(PX): As per daily Power Exchange Obligation Report.  
+(ii) NVVN trading margin (TM) = INR 0.06 (plus GST) X Energy Schedule (kWh) 
+for the day 
+(iii) Liquidated Damage on account of less availability for a day):  
+LD in Rs. =ENSD*0.1*(Discovered Tariff) *1000  
+ENSD as per clause 4.5 above.  
+Net Amount Payable to Generators/ Energy Storage Providers for a day 
+(N)= X-PX-LD-TM 
+ 
+In the event of the due date being a holiday, the next working day would be the due date for 
+daily remittance. 
+ 
+5% of total payment corresponding to minimum Guaranteed offtake shall be kept against the 
+reconciliation amount and shall be released to the generator after the reconciliation. The 
+amount against the same shall be recovered from running bill @5% per bill. LPS shall not be 
+applicable for the above amount. 
+As per clause 7.1(c) the seller shall raise bill duly accounting for all LDs, penalty as 
+per published account of RLDC/SLDC/REA at the end of the month.   
+ 
+7.3 For power scheduled through TRAS/ SCUC the payment to the Generators shall be as 
+per CERC regulations/guidelines.  
+In case scheduling through TRAS/ SCUC, NVVN shall bill trading margin through separate 
+invoice on issuance of weekly TRAS/ SCUC  statement, same  shall be payable by 
+generator(s) within 12 days from the date of invoice. 
+    
+7.4 NVVN shall provide payment security to the seller through Revolving Letter of Credit (LC) 
+of an amount equal to one day of amount payable to the Seller (X) commensurate to Minimum 
+Guaranteed offtake with respect to their contracted capacity. 
+   
+7.5 SURCHARGE FOR LATE PAYMENT: 
+Late payment surcharge shall be payable to the Seller at the rate of 1 5% per annum for 
+amount received from power exchange to NVVN and any delay in payment beyond the due 
+ 
+date by NVVN.  Payment period for Sale in other market segments such as TRAS/ SCUC 
+and others shall be as per applicable regulations.  
+ 
+Similarly, Late payment surcharge towards trading margin shall be payable to NVVN by seller 
+at the rate of 15% per annum for delay in payment beyond due date (13th day from the date 
+of invoice).  
+ 
+8.0 BIDDING PROCESS 
+8.1 NVVN has adopted a Single-stage Two Envelope bidding process followed by Reverse 
+Auction (collectively referred to as the "Bidding Process") for selection of the bidders for 
+award of the Project. The first envelope (the "Techno Commercial Bid") of the process  
+involves Technical Document of interested parties (the "Bidder") who submit Application and 
+Bids in accordance with the provisions of this Bidding Document. Second Envelope is of 
+Financial Bids Quoted by the bidder (“Price Bid”). It shall be followed by e -Reverse Auction 
+(e-RA) 
+ 
+8.2 The Bidders will be required to submit their Application and Bid online at the Bharat ETS 
+Portal on or before the Bid Due Date. 
+ 
+8.3 Bidders would be required to furnish all the information specified in this Bidding Document 
+by submitting (a) its Techno Commercial Bid and (b) its Price Bid in accordance with the 
+Bidding Document. 
+ 
+8.4 The bidders shall be required to submit separate technical and price bids. Price bid shall 
+include offer of total capacity, duration for which it want to supply, Tariff in Rs. /kWh. It shall 
+also specify the minimum capacity that the bidder is willing to accept in case bid evaluation 
+leads to allocation of capacity lower than that offered by the bidder.  
+ 
+8.5 The Nodal Agency shall constitute a committee for evaluation of the bids (Evaluation 
+Committee), with at least three members, including at least one member with expertise in 
+financial matters and bid evaluation. The financial bid shall be rejected if it contains any 
+deviation from the requirements specified in the bid documents. 
+ 
+8.6 Subsequent to Opening of Price Bid, e-RA will be conducted. Nodal Agency may cancel 
+the bidding process in case the price discovered post e -RA is not in line with the market 
+scenario. 
+ 
+8.7 The non -financial Bids shall contain the acceptance of general terms and conditions 
+without any deviation and information about the sources from which the Bidder shall supply 
+the power. 
+ 
+8.8 Financial bids of only technically qualified bidders shall be opened. In the Financial Bid, 
+Bidder to quote Total Tariff in Rs. /kWh, Quantum (MW) and Duration (in hours) for which it 
+wants to supply.  
+ 
+9.0 Bidding Fees: 
+ 
+ 
+9.1  Bid Processing Fee: Prior to submission of the Application, the Bidder shall pay to the 
+NVVN a sum of Rs 2000/MWH plus 18% GST for the total quoted quantum subject to 
+RfS Clause 19.3, as the cost of the Bidding Process. After completion of the bidding 
+process i.e. issuance of Letter of Award to Successful Bidder, only Successful Bidder(s) 
+will have to pay the equival ent charges for the quantum allocated to each Successful 
+Bidder. The balance amount shall be refunded by the NVVN within seven (7) working 
+days of completion of the bidding process without any interest and shall not be 
+considered for adjustment against Bid  Security. The fees deposited by non -Selected 
+Bidders(s) shall also be refunded by the NVVN within seven (7) working days of 
+completion of the bidding process i.e. issuance of Letter of Award to Successful Bidder 
+without any interest. 
+ 
+Bid processing fee may be submitted through NEFT/RTGS transfer in the account of 
+NTPC Vidyut Vyapar Nigam Limited as per details given below: 
+(i) Bank Name: ICICI Bank Limited 
+(ii) Branch: CONNAUGHT PLACE BRANCH 
+(iii) Bank Address: 9A, PHELPS BUILDING, CONNAUGHT PLACE, NEW DELHI- 
+110001 
+(iv) IFSC Code: ICIC0000007 
+(v) Account No.: 000705008910 
+ 
+or in the form of DD/Pay Order in favor of “NTPC VIDYUT VYAPAR NIGAM.”, payable 
+at New Delhi. Applicants willing to participate in the bid process are required to register 
+by paying the above cost.  
+Invoicing & TDS deduction after the outcome of the bidding process/ e-Auction:  
+In case the bidder wins a particular capacity, an invoice shall be generated @8000/MW 
+plus GST. Subsequently, the remaining Bid Processing Fee shall be refunded, if any. 
+If the Bidder deposits the TDS on invoice amount and provides TDS certificate to 
+NVVN, NVVN shall reimburse the TDS amount on receipt of TDS Certificate. 
+ 
+9.2 e-Bidding Fee: In order to participate in this Tender, each Bidder would have to 
+deposit towards ‘Application Charges for Bidders’ an amount equal to Rs 400/MW 
+(Excluding GST) with the Service Provider of Bharat -Electronic Tender Portal [ETS], 
+i.e. ISN Electronic Tender Services Pvt Ltd (ISN -ETS), as per instructions given on 
+ETS. In ETS, this amount is referred to as ‘ETS Bidding -Deposit Conditionally 
+Refundable (ETS BD -CR)’ and is calculated @ Rs. 400/- per MW plus GST for the 
+Capacity for which the bidder is submitting the bid, subject to RfS Clause 19.3. 
+  
+The amount can be paid online through the following methods:  
+1. SBI Payment Gateway facility available on ETS portal  
+2. NEFT/RTGS to the following account:  
+Beneficiary Name: ISN Electronic Tender Services Pvt. Ltd.  
+A/C No.: 661405601452 
+Branch: ICICI Bank, Central Arcade, DLF City, Phase-II, Gurgaon - 122002 
+IFSC Code: ICIC0006614 
+Account Type: Current Account  
+  
+On the ‘Date of Bid Finalization’, i .e. the date on which written communication is 
+ 
+received by the Service/ Portal Provider of ETS from the Buyer Organization/ 
+Auctioneer (ie NVVN LTD.) about the successful/ unsuccessful Bidders, ETS BD -CR 
+amount corresponding to the quantity allocated/ awarded to that successful Bidder will 
+be retained by the Service/ Portal provider of ETS and treated as ‘ETS Bidding -Fee’ 
+(including GST), and the balance amount (without any interest) will be refunded by 
+Service/ Portal Provider.  
+  
+Similarly, for unsuccessful Bidders, the full ETS BD -CR (without any interest) will be 
+refunded within Seven (7) working days from the date of receipt of written 
+communication by the Service/ Portal Provide r of ETS from the Buyer Organization/ 
+Auctioneer (i.e. NVVN LTD.).  
+ 
+Invoicing & TDS deduction after the final outcome of the bidding process/ e -Auction: 
+Case -1 (Unsuccessful Bidder): In case the bidder does not win any capacity, the full 
+BD -CR amount shall be refunded and therefore no invoice will be given and will not 
+be subject to TDS. Case -2 (Successful Bidder): In case the bidder wins a particular 
+capacity, an invoice shall be generated @ 400/MW plus GST. The applicable TDS will 
+be calculated on the invoice amount and ETS portal Service Provider shall then 
+deposit this TDS amount on behalf of the bidder and share a copy of the deposit 
+challan. Subsequently, the remaining BD -CR balance shall be refunded, if any. Note: 
+The bidder must email a copy of the transaction summary and TAN Number to 
+support@isn-ets.com with the "Subject: ’Bidders Name’ - Payment for NVVN Ltd 
+Tender ETSBDCR” 
+ 
+9.3  Any bid Not accompanied with Bid Processing Fee & e- Bidding Fee shall be rejected. 
+ 
+10.0 Bid Validity Period 
+ 
+The Bid shall be valid for a period of not less than 30 days from the Bid Due Date. 
+ 
+11.0 Bid Security 
+ 
+11.1 In terms of the RfS, a Bidder will be required to deposit, along with its Bid, a bid security 
+of Rs 6,000 (Rupees Six Thousand only) per MWH of capacity offered by the Bidder 
+(the "Bid Security"). 
+ 
+11.2 The Bidders will have an option to provide Bid Security in the form of a demand draft 
+or a bank guarantee acceptable to NVVN payable at New Delhi or deposited online 
+through NEFT/IMPS/RTGS payment. The demand draft shall be kept valid for a period 
+not less than 90 (Ninety) days from the Bid Due Date, by submitting another demand 
+draft before expiry of the existing demand draft and may be further extended as may 
+be mutually agreed between NVVN and the Bidder from time to time. In case a bank 
+guarantee is provided, its validity period shall not be less than 90 (Ninety) days from 
+the Bid Due Date and may be extended as may be mutually agreed between NVVN 
+and the Bidder from time to time.  
+ 
+11.3 The Bid shall be summarily rejected if it is not accompanied by the Bid Security. 
+ 
+ 
+11.4 The last date of submission of original EMD (Hard Copy) in NVVN Office is before the 
+1200 Hrs of Bid Due date. 
+ 
+11.5 If Bid Security may be submitted through NEFT/RTGS transfer in the account of NTPC 
+Vidyut Vyapar Nigam Limited as per details given below: 
+(i) Bank Name: ICICI Bank Limited 
+(ii) Branch: CONNAUGHT PLACE BRANCH 
+(iii) Bank Address: 9A, PHELPS BUILDING, CONNAUGHT PLACE, NEW DELHI- 
+110001 
+(iv) IFSC Code: ICIC0000007 
+(v) Account No.: 000705008910 
+ 
+11.6 In case of Bidders opting for Bank Guarantee as Bid Security but unable to submit the 
+Original Bank Guarantee in physical form at the tender opening location, before the 
+deadline for submission of bids, following shall also be considered acceptable, subject 
+to below: 
+ 
+ (i) The issuing bank shall intimate through their own official e -mail id to 
+nvvncontracts@ntpc.co.in, with a copy to Bidder regarding issuance / extension of Bank 
+Guarantee (BG) along with following documents, before the deadline of submission of 
+bids: - 
+ 
+ a) The scanned copy of the BG. 
+  
+b) SFMS / SWIFT message acknowledgement copy sent to NVVN banker stating the 
+date of sending. 
+  
+c) SFMS / SWIFT message must be sent to the below mentioned NVVN’s bank: 
+ 
+(i) Bank Name: ICICI Bank Limited 
+(ii) Branch: CONNAUGHT PLACE BRANCH 
+(iii) Bank Address: 9A, PHELPS BUILDING, INNER CIRCLE, NEW DELHI- 
+110001 
+(iv) IFSC Code: ICIC0000007 
+ 
+BG issuing/amending bank must send the BG advice in the form of message format 
+via SFMS (Structured Financial Messaging System) as provided by RBI. 
+ 
+The format of the message for confirmation of the BG shall be as below: 
+BG advising message: IFN 760COV/ IFN 767COV via SFMS 
+Field Number: Particulars (to be mentioned in Row 1) 
+7037: NVVNBG8910 (unique identifier) 
+ 
+ The bidder shall be required to submit all the documents in the manner as specified at 
+para above, to reach Nodal Agency before the deadline for submission of bids, failing 
+which its bid shall be rejected as being nonresponsive and not opened. 
+ 
+ In such a case, Bidder shall also be required to submit the Original BG in physical form 
+ 
+to reach NVVN at the address mentioned, not later than 3 days from the date of 
+submission of Techno-Commercial bids or before the Price Bid opening, whichever is 
+earlier, failing which its bid shall be rejected and not considered for further evaluation.  
+ 
+(ii) The soft copy of the original EMD needs to be uploaded on Bharat ETS portal before 
+Bid due Date.  
+  
+11.7 The EMD shall be refunded to the unsuccessful Bidders within 7 days of expiry of Bid 
+validity period. 
+ 
+11.9 The EMD of the Successful Bidder(s) shall be refunded after furnishing the Contract 
+Performance Guarantee (CPG). 
+ 
+11.10 The EMD shall be forfeited:  
+a) If Bidder withdraws bid during Bid Validity Period except as provided in these 
+guidelines.  
+b) For non-submission of Contract Performance Guarantee by Successful Bidder(s). 
+c) For non-signing of Agreement. 
+d) If any declaration is found to be false. 
+ 
+12.0 Contract Performance Guarantee (CPG) 
+ 
+12.1 The Successful Bidder(s) will furnish CPG  for an amount calculated at Rs. 33,000 
+(Rupees Thirty-Three Thousand only) per MWH within 7 days from the date of letter of 
+award by NVVN or prior to start of schedule, whichever is earlier. 
+ 
+12.2 The Successful Bidders will have an option to provide CPG in the form of a demand 
+draft or a bank guarantee acceptable to NVVN payable at New Delhi or deposited online 
+through NEFT/IMPS/RTGS payment in the NVVN Bank Account.  
+ 
+12.3 If the Bank Guarantee is submitted, it shall be valid for 45 days after the period of 
+Contract with a claim period of 1 month from the expiry of bank guarantee in the format as 
+specified in Annexure VIII. In case of any extension of the contract period, unconditional 
+extension of validity of CPG shall be provided by the seller. 
+ 
+12.4 In the event that the CPG is not furnished within the stipulated date, the EMD submitted 
+against the Notification shall be forfeited and the contract shall be treated as cancelled. 
+ 
+12.5 The CPG provided by the Successful Bidder(s) shall be forfeited for non- performing the 
+contractual obligations or furnishing the false information. In case the Bidder/Seller fails to 
+offer the contracted power as per the LoA/Agreement to the Procurer and sells this power to 
+any other party, this shall be treated as non-performance, the contract shall be treated as 
+cancelled and the Procurer shall be entitled to forfeit the CPG. The seller shall be further 
+debarred from participating in power exchange and also from scheduling this power in any 
+short term/medium term/long term contracts from that generating station for a period of 3 
+months from establishment of default. 
+ 
+12.6 On successful completion of the Contract and submission of requisite certification by 
+ 
+Seller, the CPG without interest shall be released by NVVN, within 30 days from the end of 
+Contract Period. 
+ 
+13.0 Clarifications 
+ 
+13.1 Bidders requiring any clarification on the RfS may notify NVVN in writing online at 
+Bharat ETS Portal or by speed post/courier and by e -mail to 
+nvvncontracts@ntpc.co.in attaching the queries in Microsoft word file.  They should 
+send in their queries before Last date and time for receiving queries on Bidding 
+Document as per RfS Document. NVVN shall endeavour to respond to the queries 
+within the period specified therein. The responses will be sent by e -mail or online at 
+the Bharat ETS Portal. NVVN will forward all the queries and its responses thereto, 
+to all Bidders without identifying the source of queries or upload all the queries and 
+its responses on the Portal. 
+ 
+13.2 The Nodal Agency shall provide opportunities for pre -bid conference to the 
+prospective bidders in accordance with the schedule specified in this RfS.  
+ 
+13.3    NVVN shall endeavor to respond to the questions raised or clarifications sought by 
+the Bidders. However, NVVN reserves the right not to respond to any question or 
+provide any clarification, in its sole discretion, and nothing in this Clause shall be 
+taken or read as compelli ng or requiring NVVN to respond to any question or to 
+provide any clarification. 
+ 
+13.4 NVVN may also on its own motion, if deemed necessary, issue interpretations and 
+clarifications to all Bidders. All clarifications and interpretations issued by NVVN shall 
+be deemed to be part of the RfS. Verbal clarifications and information given by NVVN, 
+or its employees or representatives shall not in any way or manner be binding on 
+NVVN. 
+ 
+14.0 Amendment of RfS 
+ 
+14.1 At any time prior to the deadline for submission of Application, NVVN may, for any 
+reason, whether at its own initiative or in response to clarifications requested by a 
+Bidder, modify the RfS by the issuance of Addenda.  
+ 
+14.2 Any Addendum thus issued will be available at the Portal. The Bidders are advised 
+to check the Bharat ETS Portal for any amendments or notifications. 
+ 
+14.3 In order to afford the Bidders a reasonable time for taking an Addendum into account, 
+or for any other reason, NVVN may, in its sole discretion, extend the Bid Due Date. 
+ 
+15.0 Bid Submission 
+ 
+15.1 To ensure competitiveness, the minimum number of Bidders should be at least two. If 
+the number of Bidders responding to the RfS is less than two, and Nodal Agency still wants 
+to continue with the selection process, the selection of that single Bidder may be done.  
+ 
+ 
+15.2 The bidders shall be required to submit separate technical and price bids. Price bid shall 
+include offer of total capacity in MW, duration for which it want to supply (in hours) and Tariff 
+in Rs./kWh upto two decimal basis. It shall also specify the minimum capacity that the bidder 
+is willing to accept in case bid evaluation leads to allocation of capacity lower than that offered 
+by the bidder. The Bids shall be strictly as per the terms of RfS and shall be unconditional. 
+Conditional and incomplete bids are liable to rejection.  
+ 
+15.3 The Bidder will have the option to indicate their minimum threshold quantity and the 
+same would be considered for allocation of power to the Bidder(s), subject to the minimum 
+bid quantity. 
+ 
+15.4 Documents required to be uploaded as per this RfS shall contain: 
+ 
+1. Bid Processing Fee as per Clause 9.1  
+2. Earnest Money Deposit/Bid Security as per Clause 11.0 (Annexure I) 
+3. Power of Attorney for signing and submission of bid. 
+4. If the capacity being offered is tied up in PPA, Bidder will inform the PPA 
+beneficiaries for bidding of the power during the high demand period and shall not 
+bill fixed charges for the contracted power during this contract period under this 
+scheme (Annexure II)  
+OR 
+Affidavit by bidder that they have untied capacity during identified high demand 
+period and shall submit bid for quantum not exceeding the untied capacity for 
+bidding of the power during identified high demand period. (Annexure IIA) 
+5. Declaration regarding enablement of ABT compliant metering and telemetering. 
+(Annexure-IV) 
+6. Affidavit by bidder that plant is connected to  Interstate or Intrastate Transmission 
+System. (Annexure III) 
+7. Certificate of Incorporation 
+8. No Deviation Certificate as per Annexure V. 
+9. PAN & GST Details as per Annexure VI. 
+10. EFT Form as per Annexure VII 
+ 
+15.5 If any documents mentioned in clause 15.4 above are not submitted or is incomplete, 
+the bid will be considered non-responsive and is liable for rejection. 
+ 
+15.6 Hardcopy of the Bid Security, Bid Processing Fee, No deviation certificate and Notarized 
+Power of Attorney to be submitted at NTPC Vidyut Vyapar Nigam Limited, 5 th Floor, 
+Engineering Office Complex, A-8A, Sector -24, Noida -201301 (U.P.) before 17:00 Hours IST 
+on bid due date. 
+ 
+16.0 Bid Due Date 
+ 
+Applications should be submitted online latest by 12.00 hours IST on the Bid Due Date, at 
+the Bharat ETS Portal in the manner and form as detailed in this RfS. 
+ 
+Nodal Agency may, in its sole discretion, extend the Bid Due Date by issuing an Addendum 
+uniformly for all Bidders. 
+ 
+ 
+17.0 Late Bid 
+ 
+Applications will not be accepted for submission at the Portal after the time specified on the 
+Bid Due Date. 
+ 
+18.0 OPENING AND EVALUATION OF BID 
+ 
+18.1 Technical proposals will be opened by Nodal Agency or its authorized representative 
+electronically from the website stated above, using their Digital Signature Certificate. 
+ 
+18.2 Technical proposals for those bidders whose original copies of EMD have been 
+received, and who have deposited the Bid Processing Fees, will only be opened. Proposals 
+corresponding to which original copy of DD /BG towards EMD & proof of submission of Bid 
+Processing Fee has not been received, will not be opened and will stand rejected.  
+ 
+18.3 Decrypted (transformed into readable formats) documents of the Statutory and Non -
+statutory Covers will be downloaded for the purpose of evaluation. 
+ 
+18.4 Nodal Agency or its authorized representative can seek clarifications/documents 
+required in connection with technical bid. After acceptance of the non-financial technical Bids, 
+the Financial Bids, shall be opened as per the procedures specified in the Bid document. 
+ 
+18.5 After opening of Price Bids, the system will rank the Bidders according to their price 
+bids. The price bids of initial offer shall be ranked on the basis of ascending order for 
+conducting the eRA. The lowest price bid shall be the reference price for eRA . While 
+conducting the e-RA, the H1 bidder shall be eliminated, if such elimination does not lead to 
+availability of power below 12000 MWh per day. 
+ 
+The Nodal agency may cancel the bidding process in case the price discovered is not in line 
+with the market scenario. 
+ 
+19.0 E - REVERSE AUCTION (e-RA) 
+ 
+19.1 The shortlisted Bidder will be intimated individually by system generated emails only.  
+  
+ The Reverse Auction should start at date and time intimated to the bidders and shall 
+continue for a period of next 120 minutes. 
+  
+ Provided that during the last 10 (ten) minutes before the scheduled close time of e -
+Reverse auction, if a price bid is received which is lower than the lowest prevailing 
+price bid recorded in the system during e-Reverse auction, the close time of e-Reverse 
+Auction will be automatically extended by 10(ten) minutes from the time of the last 
+price bid received. This process of auto extension will continue till there is a period of 
+10 (ten) minutes during which no price bid are received which is lower than the  
+prevailing lowest price bid. 
+ 
+19.2 During the Reverse Auction the Bidders will have the option of reducing the 
+ 
+Tariff quoted by them in decrements of Rs 0.01 or multiples thereof and bidder 
+shall not be allowed to change the quantum and duration during the auction. During 
+the Reverse Auction the prevailing L1 price  would be visible to all the 
+Bidders. 
+ 
+ 
+20.0 ISSUANCE OF LETTER OF AWARD (LoA) 
+ 
+20.1 The Bidder after the e -RA process will be ranked in accordance with offer price in 
+Rs./kWh in ascending order. The list would also include the name, quantum offered,  
+duration for which bidder want to supply  and offer price in Rs./kWh quoted by those 
+qualified Bidder(s). The Bidder(s), in order of their rankings, offering the quantum of 
+power upto the requisitioned capacity would be the Successful Bidder(s). In the event, 
+if two or more Bidders quote the same amount of offer price in Rs./kWh during e - 
+Reverse Auction stage, the time of submission of bid will be the deciding factor for 
+their ranking. 
+ 
+ The list of shortlisted bidders for consideration of bucket filling shall be arrived at by 
+considering the bids whose offer price in Rs./kWh are less than or equal to 1 25% of 
+the discovered lowest offer price in Rs./kWh.  
+ 
+20.2 Nodal Agency shall have the right to issue Letter of Award (LoA ) to the Shortlisted 
+Bidder(s) in the same order to fulfil its requirement, which can be lower than the 
+Requisitioned Capacity but not less than minimum capacity that the bidder is willing 
+to accept. In the event Nodal Agency rejects or annuls all the Bids, it may go for fresh 
+Bids hereunder.  
+ 
+20.3 In case of additional requirement than the contracted capacity, bidder may be asked 
+to provide additional capacity at their quoted rates, terms and conditions, in the order 
+of the ranking as in clause 20.1. 
+ 
+20.4 After selection, a Letter of Award (the “LoA”) shall be issued in duplicate by Nodal 
+Agency to the Selected Bidder(s). The Selected Bidder(s) shall sign and return the 
+duplicate copy of the LoA in acknowledgement thereof. In the event the duplicate copy 
+of the LoA duly signed by the Selected Bidder(s) is not received by the stipulated date, 
+Nodal Agency may, unless it consents for extension of time for submission thereof, 
+forfeit the EMD of such Bidder as Damages on account of failure of the Selected 
+Bidder(s) to acknowledge the LoA. 
+ 
+21.0 CONTRACT AWARD AND CONCLUSION 
+ 
+21.1 After acknowledgement of LoA by the Selected Bidder(s), Nodal Agency shall cause the 
+Selected Bidder(s) to execute the PPA within the prescribed period in the Bid document. The 
+Selected Bidder(s) shall not be entitled to seek any deviation, modification or amendment in 
+the PPA. Nodal Agency would appropriate the EMD of such Bidder as Damages on account 
+of failure of the Selected Bidder(s) to execute the PPA.  
+ 
+ 
+21.2 PPA will be signed with the selected Bidders within 7 days from issuance of LOA. 
+ 
+22.0 RIGHT TO ACCEPT / REJECT THE BID 
+ 
+22.1 Lowest valid rate of the price bid should normally be accepted as per bucket filling. The 
+Nodal agency may cancel the bidding process in case the price discovered is not in line with 
+the market scenario. 
+22.2 Nodal Agency reserves the right to accept or reject a bid if Nodal Agency considers that 
+the implementation of the Award and/or PPA is affected by implications of any pending 
+litigation or otherwise disputes with the bidder / supplier or the Award and/or PPA under this 
+RfS will have any impact of implication on the pending litigation or otherwise disputes with 
+the bidder/supplier. 
+ 
+23.0 FORCE MAJEURE 
+ 
+Force Majeure means occurrence of any event or circumstance, or combination of events 
+and circumstances stated below that wholly or partly prevents an affected party in the 
+performance of its obligations under PPA. 
+ 
+i. Any restriction imposed by RLDC/SLDC in scheduling of power due to breakdown 
+of Transmission/Grid constraint shall be treated as Force Majeure without any 
+liability on either side, subject to documentary evidence. 
+ii. Any of the events or circumstances, or combination of events and circumstances 
+such as act of God, exceptionally adverse weather conditions, lightning, flood, 
+cyclone, earthquake, volcanic eruption, fire or landslide or acts of terrorism causing 
+disruption of the system. 
+iii. Non-availability of charging power to energy storage providers due to transmission 
+constraint or fuel to Generators due to constraints in fuel supply infrastructure.  
+Provided that confirmation regarding existence of such constraint is certified by the 
+Gas Transporter/grid operator (as applicable).  
+However, the schedule which is not able to be fulfilled due to above fuel supply 
+constraint or Transmission/Grid constraint, subject to documentary evidence, shall  
+be treated as Force Majeure without any liability on either side, and deemed to be 
+fulfilled with regard to Minimum Guaranteed Offtake (MGO) obligation. A ny 
+consequent DSM liability due to such constraint will be to the account of generators/ 
+energy storage providers. 
+ 
+24.0 CHANGE IN LAW 
+ 
+Change in Law provision shall not be applicable for this Contract. 
+ 
+25.0 INDEMNITY 
+ 
+Nodal Agency and it’s  representatives shall not be liable for any Compensation or Penalty 
+ 
+under any circumstances under this Agreement. Moreover the nodal agency is indemnified 
+at all times and the seller shall undertake to indemnify, defend and save the Nodal  Agency 
+harmless from any and all damages, losses, claims and actions, including thos e relating to 
+injury to or death of any person or damage to property, demands, suits, recoveries, costs 
+and expenses, court costs, attorney fees, and all other obligations by or to third parties, 
+arising out of or resulting from the bidding process and sup ply of power and it’s 
+consequences 
+26.0 COMMUNICATION 
+i. All parties shall rely on written communication only. 
+ii. The Bid submitted by the Bidder and all correspondence and documents relating to the 
+bid shall be written in English. 
+iii.  Nodal Agency reserves the right to ask for the additional information from the Bidder 
+through letter/ e-mail / fax only. The e-mail ids: nvvncontracts@ntpc.co.in 
+27.0 GOVERNING LAW 
+All matters arising out of or in conjunction with the Bid Document and/or the bidding process 
+shall be governed by and construed in accordance with Indian law and the courts of Delhi 
+shall have exclusive jurisdiction.  
+ 
+28.0 DISCLAIMER 
+ 
+Neither Nodal Agency nor its employees shall be liable to any Bidder or any other person 
+under any law including the law of contract, tort, the principles of restitution or unjust 
+enrichment or otherwise for any loss, expense or damage which may arise, or be incurred, 
+or suffered, in connection with the bid, or any other information supplied by or on behalf of 
+Nodal Agency or its employees. For the avoidance of doubt, it is expressly clarified that this 
+Bid Document is an offer to bid and it subject to the award of LoA / PPA by Nodal Agency 
+and unconditional acceptance of the LoA / PPA by the selected Bidder will be construed as 
+acceptance of terms and Condition. 
+ 
+29.0 FRAUD PREVENTION POLICY 
+ 
+The Bidder shall strictly adhere to the Fraud Prevention Policy of Nodal Agency displayed on 
+its tender website www.nvvn.co.in and shall immediately apprise Nodal Agency about any 
+fraud or suspected fraud as soon as it comes to their notice. Submission of bid is considered 
+as that the bidder’s acceptance of fraud prevention policy. If in terms of above policy, it is 
+established that the bidder/his representatives have committed any fraud while competing 
+for this contract then the bid shall be rejected and CPG/EMD shall be forfeited. 
+ 
+30.0 DISPUTE RESOLUTION 
+ 
+30.1 Any dispute, difference or controversy of whatever nature howsoever arising under 
+or out of or in relation to this Agreement (including its interpretation) between the 
+parties and so notified in writing by either Party to the other Party (the “Dispute”) shall, 
+ 
+in the first instance, be attempted to be resolved amicably. 
+30.2 The parties agree to use their best efforts for resolving all Disputes arising under or 
+in respect of this Agreement promptly, equitably and in good faith, and further agree 
+to provide each other with reasonable access during normal business hours to all 
+non-privileged records, information and data pertaining to any Dispute.  
+30.3 If in spite of their best efforts, the parties fail to resolve the dispute, the same shall be 
+referred for resolution under the conciliation Committee of Independent Experts 
+(CCIE) constituted by the central Government. 
+ 
+All other disputes shall be resolved by arbitration under the Indian Arbitration and Conciliation 
+Act, 1996. 
+ 
+31.0 VENDOR CODE CREATION 
+ 
+Bidders are required to submit Annexure VI (Details of PAN & GST) & Annexure VII (EFT 
+FORM) along with their bid for creation of Vendor code with NVVN.
+ 
+ANNEXURE I 
+BID SECURITY 
+To  
+ 
+NVVN Limited 
+5th Floor, EOC Building,  
+NTPC Sector 24, Noida  
+ 
+Dear Sirs,  
+ 
+In accordance with Invitation for Bids under your Bid Document No. M/s ............................. 
+(***) ......................... having its Registered/ Head Office at 
+..................................................................... (hereinafter ca lled the “Bidder”) wish to 
+participate in the said bid for [Name of Package] ...........................................................  
+ 
+As an irrevocable Bank Guarantee against Bid Security for an amount of .............(*) valid for 
+............ days from ……(**) required to be submitted by the Bidder as a condition precedent 
+for participation in the said bid which amount is liable to be forfeited on the happening of any 
+contingencies mentioned in the Bidding Documents.  
+ 
+We, the .....................................[Name & address of the Bank]……………………… having 
+our Head Office at………………..(#)… guarantee and undertake to pay immediately on 
+demand by ……………..[Name of the Nodal Agency] (hereinafter called the ‘Nodal 
+Agency’)… the amount of ....................(*)………….... without any reservation, protest, 
+demand and recourse. Any such demand made by the ‘Nodal Agency’ shall be conclusive 
+and binding on us irrespective of any dispute or difference raised by the Bidder.  
+ 
+This guarantee shall be irrevocable and shall remain valid upto ..............(@) If any further 
+extension of this guarantee is required, the same shall be extended to such required period 
+(not exceeding one year) on receiving instructions from M/s 
+............................(***).............................[Bidder’s Name] ................................................... on 
+whose behalf this guarantee is issued.  
+ 
+In witness where of the Bank, through its authorized officer, has set its hand and stamp on 
+this ................................ day of ............................ 20............... at ................... .  
+ 
+…………………………………………….  
+(Signature)  
+…………………………………………….  
+(Name)  
+…………………………………………….    Authorised vide  
+(Designation with Bank Stamp)   Power of Attorney No............................ 
+ 
+NOTE: - 
+1. The BG should be on Non-Judicial Stamp paper/ e-stamp paper of appropriate value 
+as per Stamp Act prevailing in the State(s) where the BG is submitted or is to be acted upon 
+or the rate prevailing in the State where the BG is executed, whichever is higher. The Stamp 
+Paper/ e-Stamp Paper shall be purchased in the name of Bidder/ Bank issuing the guarantee. 
+  
+ 
+Annexure-II 
+Declaration from bidder regarding intimation to PPA beneficiaries for bidding of the 
+power during the crunch period 
+ 
+ 
+To 
+NVVN Limited 
+5th Floor, EOC Building,  
+NTPC Sector 24, Noida  
+ 
+We, ………………………., owner of generation/ energy storage provider  is bidding for the 
+RfS reference number NVVN\C&M\RE-501\2025-26, we have informed to our beneficiary 
+…………………………. for participating in this bid.  
+ 
+We declare that no fixed charges shall be billed to PPA beneficiaries for the total contracted 
+quantum for the contract period. 
+ 
+ 
+ 
+ 
+        For Bidder: 
+ 
+        Signature & Stamp: 
+ 
+        Name: 
+        Date: 
+        Place: 
+        Designation: 
+ 
+  
+ 
+Annexure-IIA 
+Affidavit for the untied capacity 
+ 
+ 
+To 
+NVVN Limited 
+5th Floor, EOC Building,  
+NTPC Sector 24, Noida  
+ 
+ 
+With reference to the Bid Proposal No. ………………………………. dated ………… as per 
+RfS document, the bidder declares that the capacity bid under this tender is an untied 
+capacity i.e. there is no existing agreement for this capacity with any buyer. 
+ 
+ 
+ 
+ 
+          
+ 
+        Signature & Stamp: 
+ 
+Name: 
+        Date: 
+        Place: 
+        Designation: 
+         
+ 
+Annexure-III 
+Compliance Certificate for Provisions of IEGC 2010/2023 
+ 
+With reference to the Bid Proposal No. ………………………………. dated ………… as per 
+RfS document, 
+ 
+I, ………. S/…………………., aged ……… years working as …………, with ………………. 
+having its registered office at ………………………., do hereby solemnly affirm and state as 
+follows:  
+ 
+ A. I am the representative of ……….. and authorized to deal with Sale / Purchase 
+of power on behalf of ……………… (hereinafter referred to as the ‘……………’) 
+and I am duly authorized to make this affidavit.  
+ B. That I am dealing with the Sale of power on behalf of the applicant for signing 
+and submission of bid document ……published by …..dated …in Bharat ETS 
+Portal by ……..  
+ C. The applicant declares that the bidder is an owner of the Generating station/ 
+Energy Storage Provider from where electricity shall be supplied.  
+ D. The applicant further declares that the confirmed that the Generating station/ 
+energy storage provider from which the electricity shall be supplied is connected 
+to Interstate or intrastate transmission system. 
+ E. The applicant indemnifies the nodal agency (NVVN) against any consequence 
+or liability, including the cost of litigation, which may arise on account of dispute 
+involving and consequent to any liability arising out of participation and supply of 
+power against the tender …. under this application.  
+ F. I say that above affidavit is being given on the clear understanding that the 
+same is for compliance to participation as qualifying requirement against tender 
+no NVVN\C&M\RE-501\2025-26 issued under this RfS Documents.  
+ G. I Confirm that sufficient transmission capability is available for injection of 
+power during peak hours for complete period of contract including extension. 
+ 
+ 
+The statements made in this affidavit herein are based on the Company’s official record 
+maintained in the ordinary course of business and I believe them to be true and correct. 
+ 
+  
+   (Signature)......................................... 
+ 
+                              (Printed Name) .................................. 
+ 
+   (Designation).................................... 
+ 
+                    (Common Seal)................................. 
+ 
+ANNEXURE IV 
+(Declaration regarding enablement of ABT compliant metering and telemetering) 
+With reference to the Bid Proposal No. ………………………………. dated ………… as per 
+RfS document, we declare that we fulfill following qualification criteria 
+ 
+“The Generators/ Energy Storage Providers  connected to inter -state or intra -state 
+transmission system participating in the bid shall have all necessary infrastructure in place 
+and capability for scheduling, metering, accounting and settlement on a 15-minute time-block 
+wise basis as specified in the Indian Electricity Grid Code (IEGC). The grid connected entity 
+(inter-state and intra -state) shall provide real time telemetry of the parameters as may be 
+specified by the appropriate Load Dispatch Center (LDC) (RLDC/SLDC).”  
+ 
+   (Signature)......................................... 
+ 
+                              (Printed Name) .................................. 
+ 
+   (Designation).................................... 
+ 
+                    (Common Seal)................................. 
+ 
+  
+ 
+ANNEXURE V 
+NO DEVIATION CERTIFICATE 
+ 
+ 
+ 
+ BIDDER’S NAME AND ADDRESS:       
+  
+ TO: 
+ 
+NVVN Limited 
+5th Floor, EOC Building,  
+NTPC Sector 24, Noida  
+ 
+DEAR SIR, 
+ 
+1.0   With reference to our Bid Proposal No. ………………………………. dated ………… for 
+“Procurement of Electricity from Generators/ Energy Storage Providers for April 
+– June 2026”, we hereby confirm that we comply with all terms, conditions and 
+specifications of the Bidding Documents read in conjunction with Amendments(s)/ 
+Clarification(s) /Addend/Errata (if any) issued by the Nodal Agency prior to opening of 
+Techno-Commercial Bid s and the same has been taken into consideration while 
+making our Techno-Commercial Bid & Price Bid and we declare that we have not taken 
+any deviation in this regard. 
+ 
+2.0 We further confirm that any deviation, variation or additional condition etc. or any 
+mention, contrary to Bidding Documents and its Amendments(s)/Clarification(s) 
+/Addend/Errata (if any) as mentioned at 1.0 above found anywhere in our Techno -
+Commercial Bid and/ or Price Bid, implicit or explicit shall stand unconditionally with 
+drawn, without any cost implication whatsoever to Nodal Agency, failing which the bid 
+security shall be forfeited. 
+ 
+ 
+DATE: 
+ 
+PLACE: 
+    
+   (Signature)......................................... 
+ 
+                            (Printed Name) .................................. 
+ 
+   (Designation).................................... 
+  
+                    (Common Seal).................................
+ 
+ANNEXURE VI 
+DETAILS OF PAN and GSTIN 
+To, 
+NVVN Limited 
+5th Floor, EOC Building,  
+NTPC Sector 24, Noida  
+ 
+Dear Sir, 
+The details of our registration in line with the various authorities are as under: 
+(a) PAN number 
+Our PAN number is as under: 
+Note: Copy of card indicating PAN number duly attested by the bidder under his 
+seal and signature to be submitted. 
+ 
+(b) GSTIN (if applicable): 
+Our GSTIN is 
+Note : Copy of registration with up to amendment to be enclosed.
+ 
+Permanent Account Number 
+ 
+GSTIN 
+ 
+ANNEXURE VII 
+ (ELECTRONIC FUND TRANSFER) 
+ 
+Bidder's Name and Address:                         To   NTPC VIDYUT VYAPAR NIGAM LIMITED, 
+5th Floor, Engineering Office Complex 
+A-8A, Sector-24, Noida-2013001 
+Email: nvvncontracts@ntpc.co.in 
+Dear Sirs, 
+We, hereby authorize the Nodal Agency to make all our payments through Electronic Fund 
+Transfer System. The details for facilitating the payments are given below: 
+(TO BE FILLED IN CAPITAL LETTERS) 
+1. NAME OF THE BENEFICIARY 
+ 
+                                       
+                                       
+2. ADDRESS 
+ 
+                           
+                           
+                           
+PIN CODE         
+3. TELEPHONE NO. (WITH STD CODE) 
+ 
+                  
+4. BANK PARTICULARS 
+(A) BANK NAME 
+ 
+             
+(B) BANK TELEPHONE NO. (WITH STD CODE) 
+ 
+             
+ 
+ 
+(C) BRANCH 
+ADDRESS 
+ 
+                        
+                        
+                        
+PIN CODE         
+(D) BANK FAX NO (WITH STD CODE) 
+ 
+             
+(E) BRANCH CODE 
+ 
+             
+(F) 9 DIGIT MICR CODE OF THE BANK BRANCH (ENCLOSE COPY OF A CANCELLED 
+CHEQUE) 
+ 
+             
+(G) IFSC Code OF THE BANK BRANCH 
+ 
+             
+(H) BANK ACCOUNT NUMBER 
+ 
+             
+(I) BANK ACCOUNT TYPE (TICK ONE) 
+ 
+SAVING CURRENT LOAN CASH 
+CREDIT 
+OTHERS 
+IF OTHERS, SPECIFY 
+ 
+             
+5. PERMANENT ACCOUNT NUMBER (PAN) 
+ 
+                  
+6. E-MAIL ADDRESS FOR INTIMATION REGARDING RELEASE OF PAYMENTS 
+ 
+                  
+ 
+I/We hereby declare that the particulars given above are correct and complete. If the 
+transaction is delayed or credit is not affected at all for reasons of incomplete or incorrect 
+information, I/We would not hold the NVVN responsible. 
+ 
+SIGNATURE 
+DATE       (AUTHORISED SIGNATORY) 
+      
+        NAME: 
+         
+         
+ 
+OFFICIAL STAMP 
+ 
+BANK CERTIFICATION: 
+It is certified that above mentioned beneficiary holds a bank account no. 
+............................. 
+with our branch and the Bank particulars mentioned above are correct. 
+ 
+DATE        NAME: 
+      
+SIGNATURE: 
+OFFICIAL STAMP   
+(AUTHORISED SIGNATORY) 
+Authorization No. : 
+         
+         
+ 
+ANNEXURE VIII 
+PERFORMANCE BANK GUARANTEE 
+(To be submitted on Non-Judicial Stamp Paper) 
+ 
+To 
+NVVN Limited 
+ EOC, NTPC  
+ Sector -24, Noida 
+ 
+WHEREAS (name and address of Contractor) (hereinafter called “the Contractor”) has 
+undertaken, in pursuance of Contract No. dated awarded by 
+NVVN Limited (hereinafter called as “the Nodal Agency”) to execute  (name of the Contract and 
+brief description of Works) (hereinafter called “the Nodal Agency”. 
+ 
+AND WHEREAS it had been stipulated in the said Contract that the Contractor shall furnish the Nodal 
+Agency with a Bank Guarantee by a recognized bank for Rs. (Rupees  ) in 
+lieu of the deduction to be made by the contractor or in lieu of the security deposit to be made by the 
+Contractor in lieu of the deduction to be made from the Contractor’s bills for the due fulfilment by the said 
+Contractor of the terms and conditions contained in the said Contract. 
+ 
+We, (indicate the name & address of the Bank) do 
+hereby undertake to pay the amounts payable under this guarantee without any demur, reservation, 
+contest or recourse, merely on a demand from the Nodal Agency stating that the amount claimed is by 
+reason of breach by the said Contractor of any of the terms or conditions contained in the Agreement or 
+by reason of the contractor’s failure to perform the said agreement, any such demand made on the Bank 
+shall be conclusive as regards the amount due and payable by the Bank under this guarantee. However, 
+our liability under this Guarantee shall be restricted to an amount not exceeding Rs. 
+   and the Nodal Agency need not prove or show grounds or reasons for its demand. 
+ 
+We undertake to pay to the Nodal Agency any money so demanded not withstanding and dispute or 
+disputes raised by the Contractor/Supplier in any suit or proceeding pending before any court or Tribunal 
+relating thereto our liability under this present being absolute and unequivocal. The payments made by us 
+under this Bond shall be a valid discharge of our liability for payment there under and the 
+contractor/supplier shall have no claim against us for making such payment. 
+ 
+We,   (indicate name & address of the Bank) further. 
+agree that the guarantee herein contained shall remain in full force and effect during the period that will 
+be taken for the performance of the said Agreement and that it shall continue to be enforceable till all the 
+dues of the Nodal Agency under or by virtue of the said Agreement have been fully paid and its claims 
+satisfied or discharged or till the Nodal Agency certifies that the terms and conditions of the said Agreement 
+have been fully and properly carried out by the said contractor and accordingly discharges its guarantee. 
+ 
+Unless a demand or claim under this guarantee is made on us in writing on or before the   (the 
+date shall be not  earlier than 30 days beyond the completion of the period of the contract), we shall be 
+discharged from all liability under this guarantee thereafter unless the validity of the guarantee is extended.
+ 
+We, (indicate name of the Bank) 
+further agree with the Nodal Agency that the Nodal Agency shall have the fullest liberty without 
+our consent and without effecting in any manner our obligations hereunder to vary any of the 
+terms and conditions of the said Agreement or to extend time of performance by the said 
+contractor from time to time or to postpone for any time or from time to time any of the powers 
+exercisable by the Nodal Agency against the said contractor and to forbear or enforce any of the 
+terms and conditions relating to the said Agreement and we shall not be relieved from our liability 
+by reason of any such variation, or extension being granted to the said Contractor or for any 
+forbearance, act or omission on the part of the Nodal Agency or any indulgence by the Nodal 
+Agency to the said Contractor or by any such matter or thing whatsoever which under the law 
+relating to sureties would, but for this provision, have effect of so relieving us. 
+ 
+This guarantee will not be discharged due to change in the constitution of the Bank or the 
+contractor/supplier. 
+ 
+We, (indicate name of the Bank) lastly undertake 
+not to revoke this guarantee during its currency except with the previous consent of the Nodal 
+Agency in writing. 
+ 
+Dated this day of (month) (Year) 
+ 
+ 
+Yours faithfully 
+ 
+Witness: (Signature)................................... 
+ 
+....................................................... (Name)......................................... 
+(Signature) 
+(Designation with ............................ 
+...................................................... Bank Seal) 
+(Name) 
+Power of Attorney No....................... 
+..................................................... 
+(Official Address) Date............................................. 
+ 
+Stamp ............................................ 
+ 
+ 
+NOTE: - 
+1. The BG should be on Non -Judicial Stamp paper/ e -stamp paper of appropriate 
+value as per Stamp Act prevailing in the State(s) where the BG is submitted or is 
+to be acted upon or the rate prevailing in the State where the BG is executed, 
+whichever is higher. The Stamp Paper/ e-Stamp Paper shall be purchased in the 
+name of Bidder/ Bank issuing the guarantee. 
+ 

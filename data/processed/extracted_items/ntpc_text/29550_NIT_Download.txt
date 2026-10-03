@@ -1,0 +1,473 @@
+                                NTPC LTD 
+                                        CPG-1/VDC Raipur 
+ 
+Sub: Qualifying Requirement (QR) for Vendor Enlistment for Supply of HT Power(3.3 kV & 
+above & up to 11 kV) (Al) XLPE Insulated FRLS Cables 
+ 
+A) MEG DETAILS   
+ 1.0 MEG DESCRIPTION HT POWER CABLES ( 3.3 kV & Above Power cables & 
+upto 11 kV) 
+ 2.0 MEG RESPONSEBILITY VDC 
+B) Technical Criteria of QR:  
+        The bidder should have manufactured and supplied during last five years from the date         
+         of application. 
+ 
+ 
+a) Atleast one (1) km of 11/11 kV   or above XLPE Insulated Power cables. 
+b)   Atleast one (1) km of Flame retardant low smoke (FRLS) cables of any voltage grade. 
+C) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+D) 
+Documents required in support of meeting QR : 
+ 
+1. Latest annual report OR NSIC / SSI / MSME registration certificate / BIS license / ISO 
+certificate / Certificate of registration from the concerned excise department / any other 
+statutory document as a proof of being manufacturer of the HT power cables. Brief details of 
+manufacturing facilities or Standard published catalogue for HT power cables also to be given. 
+ 
+2. The PO in support of award and completion certificate/copies of invoice to establish successful 
+execution of the supply of HT power cables as per QR.  
+ 
+Documents to be submitted to find executed value of orders :  
+In addition to the documents required in support of meeting technical  requirements as stated above, 
+following documents are required to be submitted by the Applicants applying for enlistment:- 
+ 
+1. Three (3) POs of the highest executed values of similar work (see definition at point E:Note- 1  
+  below) during previous five (5) years from the date of application. Copy of Invoice /     
+  Completion certificate from the concerned buyer/s in support of successful execution of  
+  supply against the POs to be submitted. These will be required for calculation of execution  
+  capability.  
+ 
+2. Audited balance sheet including Profit & Loss statement for the previous three (3) completed 
+financial year’s reckoned from the date of application. In case where the audited results for the last 
+financial years as on the date of application are not available, the financial result certified by a 
+practicing Chartered accountant shall be considered acceptable. 
+ 
+3.GSTIN certificate ,PAN ,Power of attorney, Letter of undertaking ,works information etc. as 
+mentioned in enlistment application pages of website www.vendor.ntpc.co.in 
+ 
+4. NTPC can request for other documents as necessary during the course of evaluation. 
+ 
+ 
+E) 
+ 
+NOTE-1 
+ 
+Similar works means: "Supply of 3.3 kV or above Power Cables. 
+ 
+ NOTE-2 The executed value means Basic value of quantity of similar works executed/supplied 
+against the reference PO (also applicable to partly executed POs as on date of 
+application).Where PO value is composite(i.e. including Taxes etc.),the applicant to give 
+item-wise break-up of Composite PO  value mentioning Basic Value, Taxes etc. 
+ 
+ 
+ 
+ 
+CLAUSE NO. 
+ 
+TECHNICAL REQUIREMENTS 
+ 
+ 
+ 
+PACKAGE 
+TECHNICAL SPECIFICATION 
+SECTION – VI, PART-B 
+BID DOC NO. : CS- 
+SUB-SECTION B-19 
+HT POWER CABLES 
+PAGE 
+1 OF 7 
+ 
+ 
+1.00.00 CODES  & STANDARDS 
+1.01.00 All standards, specifications and codes of practice referred to herein shall be the latest 
+editions including all applicable official   amendments and revisions as on date of opening of 
+bid. In case of conflict between this specification and those (IS: codes, standards, etc.) 
+referred to herein, the former shall prevail. All the cables shall conform to the requirements of 
+the following standards  and codes : 
+IS:7098 (Part -II) Specification for Cross linked polyethylene insulated PVC 
+sheathed cables. Part-II: For working voltages from 3.3 KV upto 
+and including 33 KV. 
+ 
+IS : 3975 Low Carbon Galvanized steel wires, formed wires and tapes for 
+armouring of cables. 
+ 
+IS : 4905 Methods for random sampling. 
+ 
+IS : 5831 PVC insulation and sheath of electrical cables. 
+ 
+IS : 8130 Conductors for insulated electrical cables and flexible cords.  
+ 
+IS : 10418 Specification for drums for electric cables. 
+ 
+IS : 10810 Methods of tests for cables. 
+ 
+ASTM-D -2843 Standard test method for density of smoke from the burning or 
+decomposition of plastics. 
+ 
+IEC-754 (Part-I) Tests on gases evolved during combustion of electric cables. 
+IEC-332 Tests on electric cables under fire conditions. Part-3: Tests on 
+bunched wires or cables (Category-B). 
+2.00.00 TECHNICAL  REQUIREMENTS 
+2.01.00 The cables shall be suitable for laying on racks, in ducts, trenches, conduits and under 
+ground (buried) installation with chances of flooding by water. 
+2.02.00 All cables including EPR cables shall be flame retardant, low smoke (FRLS) type designed to 
+withstand all mechanical, electrical and thermal stresses developed under steady state and 
+transient operating conditions as specified elsewhere in this specification. 
+2.03.00 Aluminium conductor used in power cables shall have tensile strength of more than 100 N/ 
+sq.mm. Conductors shall be multi stranded. 
+2.04.00 XLPE insulation shall be suitable for continuous conductor temperature of 90 deg. C and 
+short circuit conductor temperature of 250 deg C. 
+2.05.00 The cable cores shall be laid up with fillers between the cores wherever necessary. It shall 
+not stick to insulation and inner sheath. All the cables, other than single core unarmoured 
+cables, shall have distinct extruded PVC inner sheath of black colour as per IS: 5831. 
+CLAUSE NO. 
+ 
+TECHNICAL REQUIREMENTS 
+ 
+ 
+ 
+PACKAGE 
+TECHNICAL SPECIFICATION 
+SECTION – VI, PART-B 
+BID DOC NO. : CS- 
+SUB-SECTION B-19 
+HT POWER CABLES 
+PAGE 
+2 OF 7 
+ 
+2.06.00 For single core armoured cables, armouring shall be of aluminium wires. For multicore 
+armoured cables armouring shall be of galvanized steel as follows : - 
+Calculated nominal dia of cable under 
+armour 
+ 
+ Size  and Type of armour 
+i) Upto 13 mm 1.4mm dia GS wire 
+ii) Above 13 & upto 25mm 0.8 mm thick GS formed wire / 1.6 mm dia 
+GS wire 
+iii) Above 25 & upto 40 mm 0.8mm thick GS formed wire / 2.0mm dia 
+GS wire 
+iv) Above 40 & upto 55mm 1.4 mm thick GS formed wire/2.5mm dia GS 
+wire 
+v) Above 55 & upto 70mm 1.4 mm thick GS formed wire/3.15mm dia 
+GS wire 
+vi)
+  
+Above 70mm 1.4 mm thick GS formed wire / 4.0 mm dia 
+GS wire 
+2.06.01 The aluminium used for armouring shall be of H4 grade as per IS: 8130 with maximum 
+resistivity of 0.028264 ohm-sq.mm/mtr at 20 deg.C. The types and sizes of aluminium 
+armouring shall be same as mentioned for galvanized steel at 2.06.00 above.   
+2.06.02 The gap between armour wires / formed wires shall not exceed one armour wire / formed 
+wire space and there shall be no cross over / over-riding of armour wires / formed wires. The 
+minimum area of coverage of armouring shall be 90%. The breaking load of armour joint 
+shall not be less than 95% of that of armour wire / formed wire. Zinc rich paint shall be 
+applied on armour joint surface of GS wires/formed wires. 
+2.07.00 Distinct extruded PVC inner sheath of black colour as per IS:5831 shall be provided for the 
+cables as follows: 
+a).   For all multicore cables.                                                                                                      
+b).   For single core armoured cables, where armouring is not being used as metallic 
+screen. 
+2.08.00 Outer sheath shall be of PVC black in colour. In addition to meeting all the requirements of 
+Indian standards referred to, outer sheath of all the cables shall have the following FRLS 
+properties. 
+(a.) Oxygen index of min. 29 (Test method as per IS 10810 Part-58) 
+(b.) Acid gas emission of max. 20%  as per IEC-754 (Part-I) 
+CLAUSE NO. 
+ 
+TECHNICAL REQUIREMENTS 
+ 
+ 
+ 
+PACKAGE 
+TECHNICAL SPECIFICATION 
+SECTION – VI, PART-B 
+BID DOC NO. : CS- 
+SUB-SECTION B-19 
+HT POWER CABLES 
+PAGE 
+3 OF 7 
+ 
+(c.) Smoke density rating shall not be more than 60% during Smoke Density Test as per 
+ASTMD-2843. 
+2.09.00 Cores of three core cables shall be identified by colouring of insulation or by providing 
+coloured tapes helically over the cores, with Red, Yellow & Blue colours. 
+2.10.00 In addition to manufacturer's identification on cables as per IS, following marking shall also 
+be provided over outer  sheath : 
+(a.) Cable size and voltage  grade - To be embossed 
+(b.) Word 'FRLS' at every 5 metre - To be embossed 
+(c.) Screen Fault current _ _ _KA  for _ _ _ Sec. ( Value of current & time shall                  
+be indicated) 
+(d.) Sequential marking of length of the cable in metres at every one metre 
+- To be embossed / printed 
+The embossing / printing shall be progressive, automatic, in line and marking shall be legible 
+and indelible. For EPR cables identification shall be printed on outer sheath. 
+2.11.00 All cables shall meet the fire resistance requirement as per Category-B of IEC-332 Part-3.     
+2.12.00 Allowable tolerances on the overall diameter of the cables shall be +\-2 mm maximum over 
+the declared value in the technical data sheets. 
+2.13.00 In plant repairs to the cables shall not be accepted. Pimples, fish eye, blow holes etc. are not 
+acceptable. 
+2.14.00 The cross-sectional area of the metallic screen strip/tape/wires shall be considered in sizing 
+calculations. 
+2.15.00 The eccentricity shall be calculated as    
+tmax -tmin 
+------------ x 100 
+t max 
+and the ovality shall be calculated as 
+dmax -dmin 
+------------ x 100 
+d max 
+ 
+Where t-max/t-min is the maximum/minimum thickness of insulation and d-max/d-min is the 
+maximum / minimum diameter of the core.  
+The eccentricity of the core shall not exceed 10% and ovality not to exceed 2% . 
+ 
+CLAUSE NO. 
+ 
+TECHNICAL REQUIREMENTS 
+ 
+ 
+ 
+PACKAGE 
+TECHNICAL SPECIFICATION 
+SECTION – VI, PART-B 
+BID DOC NO. : CS- 
+SUB-SECTION B-19 
+HT POWER CABLES 
+PAGE 
+4 OF 7 
+ 
+2.16.00  Cable  selection & sizing 
+ 
+2.16.01  HT cables shall be sized based on the following considerations: 
+ 
+ a) Rated current of the equipment 
+ 
+ b) The voltage drop in the cable, during motor starting condition, shall be limited to 10% 
+and during full load running condition, shall be limited to 3% of the rated voltage 
+ 
+ c) Short circuit withstand capability 
+ 
+2.16.02   Derating Factors 
+ 
+ Derating factors for various conditions of installations including the following shall be 
+considered while selecting the cable sizes: 
+ 
+ a) Variation in ambient temperature for cables laid in air 
+ 
+ b) Grouping of cables 
+ 
+ c) Variation in ground temperature and soil resistivity for buried cables. 
+ 
+2.16.03  Cable lengths shall be considered in such a way that straight through cable joints is avoided. 
+ 
+2.16.04  All Cables shall be of armoured type. 
+ 
+3.00.00 CONSTRUCTIONAL FEATURES 
+3.01.00 19/33 KV Grade Power Cables: 
+3.02.00 Cables shall conform to IS 7098 Part-II. These cables shall be multi-stranded, compacted 
+circular aluminium conductor, XLPE-insulated, metallic screened PVC outer sheathed. The 
+conductor screen and insulation screen shall both be of extruded semiconducting compound 
+and shall be applied along with the XLPE insulation in a single operation of triple extrusion 
+process so as to obtain continuously smooth interfaces.  Method of curing for 19/33 KV 
+Cables shall be “dry curing / gas curing “. The metallic screen for each core shall be capable 
+of carrying the system earth fault current and shall consist of copper wires or tape with 
+minimum overlap of 20%. However, for single core armoured cables, the armouring shall 
+constitute the metallic part of the screening.  
+3.03.00 11/11KV, 6.6/6.6KV  Grade Power Cables: 
+ Cables shall conform to IS-7098 Part-II. These cables shall be multi-stranded, compacted 
+circular aluminium conductor, XLPE-insulated, metallic screened, PVC outer sheathed. The 
+conductor screen and insulation screen shall both be of extruded semiconducting compound 
+and shall be applied along with the XLPE insulation in a single operation of triple extrusion 
+process so as to obtain continuously smooth interfaces.  Method of curing shall be “dry 
+curing / gas curing / steam curing “. The metallic screen for each core shall be capable of 
+carrying the system earth fault current and shall consist of copper wires or tape with 
+minimum overlap of 20%. However, for single core armoured cables, the armouring shall 
+constitute the metallic part of the screening . 
+   
+3.02.00 3.3/3.3kV Grade Power Cables: 
+  
+ Cables shall conform to IS: 7098 Part - II. These cables shall be multi- stranded, compacted 
+CLAUSE NO. 
+ 
+TECHNICAL REQUIREMENTS 
+ 
+ 
+ 
+PACKAGE 
+TECHNICAL SPECIFICATION 
+SECTION – VI, PART-B 
+BID DOC NO. : CS- 
+SUB-SECTION B-19 
+HT POWER CABLES 
+PAGE 
+5 OF 7 
+ 
+  circular aluminium conductor, XLPE insulated, metallic screened, PVC outer sheathed.    
+The metallic screen of each core shall consist of copper wires or tape with minimum overlap 
+of 20%. However, for single core armoured cables, the armouring shall constitute the metallic 
+part of the screening. The metallic screen of each core shall be capable of carrying the 
+system earth fault current Method of curing for cables shall be "dry curing / gas curing / 
+steam curing".  
+ 
+3.03.00 Trailing cables shall have tinned copper (class 5) conductor, insulated with heat resistant 
+elastomeric compound based on Ethylene Propyline Rubber (EPR) suitable for withstanding 
+90 deg.C continuous conductor temperature and 250deg C during short circuit, inner-
+sheathed with heat resistant elastomeric compound, nylon cord reinforced, outer-sheathed 
+with heat resistant, oil resistant and flame retardant heavy duty elastomeric compound 
+conforming to IS 9968. 
+ 
+4.00.00 CABLE DRUMS 
+4.01.01 Cables shall be supplied in non returnable steel drums of heavy construction. The drum shall 
+be designed on the basis of weight, diameter, bending radius and length of cable. The 
+surface of the drum and the outer most cable layer shall be covered with water proof cover. 
+Both the ends of the cables shall be properly sealed with heat shrinkable PVC/ rubber caps 
+secured by 'U' nails so as to eliminate ingress of water during transportation, storage and 
+erection.  
+4.01.02 Each drum shall carry manufacturer's name, purchaser’s name, address and contract 
+number, item number and type, size and length of cable and net gross weight stenciled on 
+both sides of the drum. A tag containing same information shall be attached to the leading 
+end of the cable. An arrow and suitable accompanying wording shall be marked on one end 
+of the reel indicating the direction in which it should be rolled. 
+4.01.03 The standard drum length for HT power cables with a maximum tolerance of +/- 5%, may be 
+decided by the bidder subject to condition that there shall not be any joint in cable, where 
+application length of cable is up to & including 1000 meter for single core cable, and 750 
+meter for multicore cable. One drum length of each cable size can be of non-standard length 
+(not less than 250 meter) so as to match the ordered quantity Subject to condition that there 
+shall not be any joint in cable 
+5.00.00  TYPE, ROUTINE AND ACCEPTANCE TESTS  
+ 
+a) The contractor shall carry out the type tests as listed in this specification on the 
+equipment to be supplied under this contract. The bidder shall indicate the charges 
+for each of these type tests separately in the relevant schedule of Section - VII- 
+(Forms & Procedures) and the same shall be considered for the evaluation of the 
+bids. 
+ 
+The type tests charges shall be paid only for the test(s) actually conducted 
+successfully under this contract and upon certification by the employer’s engineer. 
+ 
+b) The type tests shall be carried out in presence of the employer’s representative, for 
+which minimum 15 days notice shall be given by the contractor. The contractor shall 
+obtain the employer’s approval for the type test procedure before conducting the type 
+test. The type test procedure shall clearly specify the test set–up, instruments to be 
+used, procedure, acceptance norms, recording of different parameters, interval of 
+recording, precautions to be taken etc. for the type test(s) to be carried out. 
+ 
+c) In case the contractor has conducted such specified type test(s) within last ten years 
+as on the date of bid opening, he may submit during detailed engineering the type 
+CLAUSE NO. 
+ 
+TECHNICAL REQUIREMENTS 
+ 
+ 
+ 
+PACKAGE 
+TECHNICAL SPECIFICATION 
+SECTION – VI, PART-B 
+BID DOC NO. : CS- 
+SUB-SECTION B-19 
+HT POWER CABLES 
+PAGE 
+6 OF 7 
+ 
+test reports to the owner for waiver of conductance of such type test(s). These 
+reports should be for the tests conducted on the equipment similar to those proposed 
+to be supplied under this contract and test(s) should have been either conducted at 
+an independent laboratory or should have been witnessed by a client. The owner 
+reserves the right to waive conducting of any or all the specified type test(s) under 
+this contract. In case type tests are waived, the type test charges shall not be 
+payable to the contractor. 
+ 
+d) All acceptance and routine tests as per the specification and relevant standards shall 
+be carried out. Charges for these shall be deemed to be included in the equipment 
+price  
+ 
+e) The type test reports once approved for any projects shall be treated as reference. 
+For subsequent projects of NTPC, an endorsement sheet will be furnished by the 
+manufacturer confirming similarity and “No design Change”. Minor changes if any 
+shall be highlighted on the endorsement sheet. 
+All types and sizes of cables being supplied shall be subjected to type tests, routine tests and 
+acceptance tests as specified below and according to relevant standards. 
+5.01.00 The following type tests shall be carried out on one size each of 19/33kV, 11/11KV, 
+6.6/6.6KV and 3.3/3.3KV cables. Size shall be decided by the employer during detailed 
+engineering 
+S. No Type Test Remarks 
+ Conductor  
+1.  Resistance test  
+ For Armour Wires / Formed Wires  
+2. Measurement of Dimensions   
+3. Tensile Test  
+4.  Elongation test  
+5. Torsion test  For round wires only 
+6.  Wrapping test  
+7.  Resistance test  
+8(a)  Mass & uniformity of Zinc Coating   
+tests 
+For GS wires/formed wires only. 
+8(b)  Adhesion test For  GS wires/formed wires only 
+ For XLPE insulation & PVC Sheath  
+9. Test for thickness  
+10.  Tensile strength and  elongation test 
+before ageing and after ageing 
+ 
+11. Ageing in air oven   
+CLAUSE NO. 
+ 
+TECHNICAL REQUIREMENTS 
+ 
+ 
+ 
+PACKAGE 
+TECHNICAL SPECIFICATION 
+SECTION – VI, PART-B 
+BID DOC NO. : CS- 
+SUB-SECTION B-19 
+HT POWER CABLES 
+PAGE 
+7 OF 7 
+ 
+S. No Type Test Remarks 
+12. Loss of mass test For PVC outer sheath only. 
+13. Hot deformation test  For PVC outer sheath only. 
+14. Heat shock test                                       For PVC outer sheath only 
+15. Shrinkage test  
+16. Thermal stability test  For PVC outer sheath only 
+17. Hot set test                                          For XLPE insulation only 
+18.  Water  absorption test For XLPE insulation only 
+19. Oxygen index test For  PVC outer sheath only 
+20. Smoke density test For PVC outer sheath only 
+21. Acid gas generation test  For PVC outer sheath only 
+22 Flammability test as per IEC-332  
+Part-3 (Category -B) 
+For completed cable only 
+5.02.00 The following type tests shall be carried out on each type (voltage grade) & size of the cable: 
+S. No. Type Test For all cables 
+1.  Insulation resistance test (Volume Resistivity method) 
+2.  High voltage test  
+For cables of 19/33kV, 11/11KV & 6.6/6.6KV Grade only.  
+3.  Partial discharge test 
+4.  Bending test         
+5.  Dielectric power factor test  
+ a) As a function of voltage 
+ b) As a function of temperature 
+6.  Heating cycle test 
+7.  Impulse withstand test 
+ 
+Indicative list of tests/ checks, Routine and Acceptance tests shall be as per Quality 
+Assurance & Inspection table of H.T. Cables enclosed. 
+
+
+
+
+
+
+
+

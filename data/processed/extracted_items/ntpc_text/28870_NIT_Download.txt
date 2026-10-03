@@ -1,0 +1,126 @@
+Government eProcurement System
+Tender Details
+Date : 24-Jul-2025 06:23 PM
+ Print
+Basic Details
+Organisation Chain NTECL||Vallur Thermal Power Project||Contracts and Materials
+Tender Reference
+Number CS5965
+Tender ID 2025_NTECL_242396_1 Withdrawal Allowed Yes
+Tender Type Open Tender Form of contract Works
+Tender Category Works No. of Covers 2
+General Technical
+Evaluation Allowed Yes [Compliance Required] ItemWise Technical Evaluation
+Allowed No
+Payment Mode Offline Is Multi Currency Allowed For
+BOQ No
+Is Multi Currency
+Allowed For Fee No Allow Two Stage Bidding No
+ 
+Payment Instruments
+Offline S.No Instrument Type
+1 Bank Guarantee
+2 NEFT
+3 R-T-G-S
+4 Insurance Surety Bond
+Cover Details, No. Of Covers - 2
+Cover
+No Cover Document
+Type Description
+1 Fee/PreQual/Technical .pdf TENDER FEE AND EMD PAYMENT DETAILS
+.pdf TENDER DOCS SIGNED AND STAMPED OR
+DIGITALLY SIGNED
+.pdf ANNEXURE E BIDFORM . BIDDERS MUST FILL THE
+MINIMUM LOCAL DECLARATION CONTENT TABLE.
+.pdf ATTACHMENT8 FILLED WITH RELEVANT DETAILS
+AND ESI PF PAN GST COPIES
+.pdf ATTACHMENT 7 EFT FORM ATTACHMENT- 11
+VENDOR DATA FILLED WITH ALL DETAILS
+.pdf
+ATTACHMENT 3,3A,3B ,SUPPORTING DOCUMENTS
+WITH STATUTORY AUDITOR /TPIA UNDERTAKING
+FOR VERIFICATION
+.pdf
+CLEAR READABLE COPY OF POWER OF ATTORNEY/
+PROPREITORSHIP/PARTNERSHIPDEED/CERTIFICATE
+OF REGN
+2 Finance .xls BOQ SHEET
+ 
+Tender Fee Details, [Total Fee in ₹ * - 4,500]
+Tender Fee in ₹ 4,500
+Fee Payable To NTECL Fee Payable At CHENNAI
+Tender Fee
+Exemption Allowed
+No
+EMD Fee Details
+EMD Amount in ₹ 1,00,000 EMD Exemption
+Allowed
+No
+EMD Fee Type fixed EMD Percentage NA
+EMD Payable To NTECL EMD Payable At CHENNAI
+ 
+ 
+Work /Item(s)
+Title BITUMINOUS PAVEMENT FOR NTECL ASH DYKE BUND ROADS
+Work Description BITUMINOUS PAVEMENT FOR NTECL ASH DYKE BUND ROADS
+Pre Qualification
+Details
+AS per tender conditions 
+Independent External
+Monitor/Remarks
+NA 
+Tender Value in ₹ NA Product Category Civil Works Sub category NA 
+Contract Type Tender Bid Validity(Days) 180 Period Of Work(Days) 548 
+Location NTECL VALLUR Pincode 600103 Pre Bid Meeting Place NA 
+Pre Bid Meeting
+Address
+NA Pre Bid Meeting Date NA Bid Opening Place NTECL VALLUR ONLINE
+Should Allow NDA
+Tender
+No Allow Preferential
+Bidder
+No
+ 
+
+Critical Dates
+Publish Date 24-Jul-2025 06:00 PM Bid Opening Date 14-Aug-2025 03:30 PM
+Document Download / Sale Start
+Date
+24-Jul-2025 06:00 PM Document Download / Sale End
+Date
+13-Aug-2025 03:00 PM
+Clarification Start Date 24-Jul-2025 06:00 PM Clarification End Date 31-Jul-2025 03:00 PM 
+Bid Submission Start Date 04-Aug-2025 09:00 AM Bid Submission End Date 13-Aug-2025 03:00 PM
+ 
+ 
+Tender Documents
+NIT
+Document S.No Document Name Description Document Size
+(in KB)
+1 Tendernotice_1.pdf NIT 257.86
+ 
+Work Item
+Documents S.No Document Type Document Name Description Document Size
+(in KB)
+1 Tender Documents NTECLBANNINGPOLICY.pdf BANNING POLICY 851.62
+2 Tender Documents FRAUD.pdf FRAUD PREVENTION POLICY 138.06
+3 Tender Documents FQPanddrawing.pdf FQP AND DRAWINGS 1438.18
+4 Tender Documents CS5965TD.pdf TENDER CONDITIONS 2243.00
+5 BOQ BOQ_276778.xls PRICE BOQ SHEET 272.50
+ 
+ 
+View GTE Details - NTECL Contracts GTE form
+S.No Particulars Expected Value Mandatory
+1.0 NTECL Contracts GTE form - [ Contracts general technical evaluation
+form] Yes
+1.01    Acceptance of fraud prevention policy - [ Do you Accept the Fraud prevention
+policy of NTECL] Yes Yes
+1.02    Acceptance of GCC - [ Acceptance of GCC with Amendments] Yes Yes
+1.03    Banning Policy - [ Declaration of Banning policy] Yes Yes
+1.04    No Deviation Certificate - [ No Deviation is Acceptable to NTECL] Yes Yes
+ 
+ 
+Tender Inviting Authority
+Name CEO
+Address NTECL VALLUR THERMAL POWER STATION VELLIVOYAL CHAVADI CHENNAI 600103
+ 

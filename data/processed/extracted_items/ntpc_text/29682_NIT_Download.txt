@@ -1,0 +1,2197 @@
+Page 1 of 3 
+ 
+NTPC LTD 
+CPG-1/Raipur 
+VENDOR DEVELOPMENT CELL 
+  
+Sub: Qualifying Requirement (QR) for Vendor Enlistment for Fire Tenders (CAT-1) - 68MEG-01  
+ 
+  
+A)  MEG DETAILS    
+  1.0  MEG NO.  68MEG-01  
+  2.0  MEG DESCRIPTION  Fire Tenders (CAT-1) 
+  3.0  RESPONSIBILITY CENTRE  CPG-1/VDC  
+B)  
+Technical Criteria of QR:  
+1. The applicant should be a manufacturer / fabricator of ‘Water Tender(s), Foam Tender(s), 
+DCP Fire tender(s) and Multipurpose fire tender(s)’. 
+C)  
+Documents to be submitted as proof of meeting the stipulated Qualifying Requirements:  
+1. Latest annual report OR NSIC registration certificate / BIS license / ISO certificate / 
+Certificate of registration from the concerned excise department / any other statutory 
+document as a proof of being manufacturer of the required material. 
+2. Copy of Purchase Orders (POs) and inspection reports/MDCCs (Material Dispatch Clearance 
+Certificate) for fire tenders to prove credentials as a manufacturer/ Fabricator of fire 
+tenders, during previous five years from the date of application. 
+NTPC can ask more documents if felt necessary. 
+D) 
+Other Documents to be uploaded: In addition to the documents required in support of 
+Qualifying Requirements as stated at C) above, following documents are also required to be 
+uploaded by the applicants applying for enlistment: - 
+1. Three POs of the highest executed values of similar works during previous five years from 
+the date of application. Copy of Invoice / Completion certificate from the concerned 
+buyer/s in support of successful execution of supply against the POs to be submitted. 
+2. Audited balance sheet including Profit & Loss statement for the previous three completed 
+financial years reckoned from the date of application. In case the audited result for the 
+preceding financial year is not available, certification of financial statements from a 
+practicing-chartered accountant is to be uploaded. In case, applicant is not able to submit 
+the certificate from practicing chartered accountant certifying its financial parameters, the 
+audited results of the three consecutive financial years preceding the last financial years 
+shall be considered for evaluating the financial parameters. Further, a certificate would be 
+required from the CEO/CFO stating that the financial results are under audit as on date of 
+application and certificate from the practicing chartered certifying the financial parameters 
+are not available 
+3. Any other documents in addition to the above which the applicant wants to submit. 
+NTPC can ask more documents if felt necessary. 
+Page 2 of 3 
+ 
+E)  
+NOTE-1  Similar works means: Supply of fire tender(s) built on 16 Tonne Capacity Chassis or 
+more. 
+NOTE-2  
+The executed value means Basic value of quantity of similar works 
+executed/supplied against the reference PO (also applicable to partly executed POs 
+as on date of application). Where PO value is composite (i.e., including Taxes etc.), 
+the applicant to give item-wise break-up of Composite PO value mentioning Basic 
+Value, Taxes etc 
+NOTE-3  Other income shall not be considered for computing annual turnover.  
+F)  QUALITY  
+PLAN 
+ATTACHED 
+G) Category of 
+Enlistment 
+CATEGORY-1 
+ 
+  
+  
+Page 3 of 3 
+ 
+NTPC LTD 
+CPG-1/Raipur 
+VENDOR DEVELOPMENT CELL 
+  
+Sub: Technical Specifications for Vendor Enlistment for Fire Tenders (CAT-1) - 68MEG-01  
+ 
+  
+A)  MEG DETAILS    
+  1.0  MEG NO.  68MEG-01  
+  2.0  MEG DESCRIPTION  Fire Tenders (CAT-1) 
+  3.0  RESPONSIBILITY CENTRE  CPG-1/VDC  
+B)  
+Technical Specifications 
+1. Fire Tenders built on 16 tons to 25 tons (Gross Vehicle weight) Chassis Capacity. 
+Other technical requirements shall be as per Indian Standards / CISF technical 
+specifications. 
+ 
+ 
+ 
+ 
+1. SCOPE 
+This standard lays down requirements regarding materials, design and construction, workmanship and 
+finishing with accessories and equipment for DCP tender of 2000kg capacity. 
+ 
+2. GENERAL REQUIREMENTS 
+The DCP Tender would be fabricated generally conforming to IS - 10993 on TATA/LPT-1613 or equivalent 
+capacity Chassis, BS-VI or latest. The GVW of appliance will not cross the GWV of chassis manufacturer's 
+specifications with all equipment & Crew. The weight distribution diagram should be submitted for approval. 
+ 
+3. CAPACITY 
+The DCP Tender would be of 2000 kgs., i.e. 2 x 1000 kgs. capacity vessels will  be  provided. The DCP  
+Vessels  would be mounted on the chassis in such a manner that the weight is evenly distributed on the 
+chassis. 
+ii) The DCP pressure vessels would be designed & fabricated as per ASME CODE VIII of unfired pressure 
+vessels     & suitable anticorrosion treatment would be given to the internal surface of the vessels. 
+iii) Each DCP vessels would be equipped with filling aperture, pressure gauge, pressure release safety valve,  
+discharge plug, etc. suitable locations. 
+iv) Each vessel would be designed for the use of Dry Chemical Powder. The each vessel would be of adequate 
+size     to accommodate 1000 Kgs. of DCP & also have adequate empty area to facilitate  easy movement  of 
+the N2 Gas &  dry powder in the vessel to maintain fluidity. 
+ 
+Suitable device shall be provided or arrangement made to restore the fluidity of the powder to ensure its 
+capability to flow through the fittings, valves and pipelines to the outlets. 
+ 
+4. EXPELLENT 
+The expellant gas system shall preferably have nitrogen gas in cylinders of capacity not less than 50 litres 
+each, having filling pressure of not less than 200 kg/cm2. The gas shall be sufficient to discharge 2000 kg of 
+dry Chemical powder through the long-range monitor and hose-reels. Each DCP vessel will have its own 
+expellant gas cylinder assembly consisting of min. 04 Nos. brand new N2 cylinders these cylinders should be 
+CCE approved & ISI marked (IS 7285) to discharge dry chemical powder through a long range monitor  & 
+two hand lines (hose  reels) or both at  one time. The total quantity of gas would be sufficient to discharge 
+2000 Kgs. of DCP & for flushing the pipeline    etc. 
+ 
+i) The discharge valves of the Nitrogen cylinders would be lever operated. The operating pressure of the dry 
+powder vessel will not be more than 14 Kg/cm2. 
+ii) The N2 cylinders will be positioned horizontally behind the driver's cabin with proper stand & supports.  
+The entire pipelines between the N2 cylinder & vessel would be of rigid type with flexible rubber connections. 
+Pressure regulator/s would be provided between the N2 cylinders & the DCP  vessel so  as to regulate the flow 
+of gas to the  DCP vessel at not  less than 14 kg/cm2 pressure. Arrangement will be made to prevent back flow 
+of  the expellant  gas. 
+iii) Each battery of N2 cylinders would be connected to a common manifold with necessary valve regulators etc. 
+ 
+5. DESIGN AND CONSTRUCTION 
+ 
+DESIGN OF DCP VESSEL 
+ 
+a) Each vessel would be provided with a blow valve or similar device to discharge excess N2 Gas in the 
+atmosphere even if the vessel is full with dry powder. The excess gas would not affect the DCP. 
+b) The DCP vessel would be so deigned that the total discharge from each vessel is not less than 90% of its 
+total capacity. Sufficient quantity of gas would also be available to flush the entire pipelines, hand lines, 
+monitor lines etc. after use. 
+c) DCP vessel shall have following constructional details as under: 
+i. Filling aperture with cover 150mm 
+ii. Man hole with bolted cover 450mm internal dia. 
+iii. DCP filling 150mm 
+iv. Drain plug 150mm 
+v. Safety valve 02 nos. of suitable size as per norms 
+vi. Pressure gauge 01 no of suitable size as per norms 
+vii. Isolation valve 01 no of suitable size as per norms 
+ 
+ 
+viii. Discharge valve 01 no of suitable size as per norms 
+ 
+d) An alternate independent connection from the expellant gas manifold will  be provided to flush all  the lines after  
+use & the control valve for flushing the hand lines etc. will be located on the control place. The two vessels shall not 
+have any inter connection. 
+ 
+e) Deleted  
+ 
+MONITOR 
+ 
+i) A long range DCP MONITOR will be mounted on an independent platform immediately behind the driver's cabin. 
+The monitor would be  capable  of traversing 360° in horizontal  plane. A suitable locking device would  be provided  
+to lock the monitor at the desired position while in use. 
+ 
+The platform shall be adequately strengthened to avoid any vibration while the monitor is  in  use. There shall be  
+proper and sufficient moving space around the platform for movement of the operator. 
+ 
+ii) The monitor shall be capable of throwing the dry powder to a distance of not less than 40 Mtrs. in still air. The 
+discharge through the monitor would be adjustable at 15, 25 & 40 kg/sec at operating pressure. The throw of the 
+monitor would be manually regulated. The monitor would be connected to both  the  DCP  containers  to  enable 
+powder to be discharged from both vessels. 
+iii) Two hand lines connected to the rear DCP vessel will be provided with 30 M long high pressure hose fitted with 
+trigger type pistol grip nozzle & would be mounted on a hose reel confirming to IS 5132 of sufficient size. The hose 
+reels would be located at the rear of the appliance in an easily accessible position to facilitate quick withdrawal. The 
+hose reel would be designed in such a manner that overrunning of the hose is prevented at  all  times  and  also  
+prevents kinking of the hose while winding. The discharge of the dry powder from each hand lines would not be less 
+than 2.5  kg/sec & not less than 10 M at full operating pressure. 
+iv) The monitor shall be provided in a manner so as to enable  the operator to move it easily. The  monitor shall  rest  
+on a clamp, properly secured While not in use. 
+v) All necessary control valves gauges etc. will be provided on the OFF SIDE of the vehicle. 
+ 
+6. BODY WORK 
+ 
+CABIN 
+i) Two front seats, one for officer and one for driver shall be provided in the cabin and one seat for 5 Crew members 
+shall be provided behind the officer and driver seats. The seats shall  be  of good  quality and  latest design (bucket  
+type seats with 100 mm thick cushions. Also good quality removable and washable seat covers shall be provided. 
+ 
+ii) The cabin should have four doors (2 each side). The door shall open outwards.  Cabin  doors  shall  be provided  
+with splinter proof safety glasses and shall also be provided with their movement mechanism. 
+iii) First aid box made of fiberglass shall be provided and fitted in the cabin at suitable location for 10 persons & 
+contents as per The Factories Act. 
+iv) Non-slip type steps and rails shall be provided in the cabin to assist the crewmembers to get in and out. 
+v) Provision shall be made to store two no. BA sets in the back rest of the driver, officer and the crew seats with 
+suitable clamps and brackets where the BA sets (single cylinder) shall rest and shall not be kept in  a  hanging 
+condition. 
+vi) The crew cabin structure shall be so designed so as to avoid any vibration/rattling/deformation in the intended 
+usage of vehicle. 
+vii) Two numbers of large sun visors and rear view mirrors shall be provided on each sides. 
+viii) The entire floor of the crew cabin shall be provided with 3M-make Vinyl matting of minimum 6mm thickness 
+with anti-skid features. 
+ix) Cabin shall have one roof light and two sidelights 
+ 
+ 
+7. CONTROL PANEL 
+ 
+Adequately illuminated control panel shall be provided at easily accessible position to operate the dry powder system. 
+All control/items of equipment shall be clearly marked or identified by fixing suitable labels to facilitate easy operation. 
+ 
+The control panel shall include the following: 
+ 
+a) Pressure gauge for expellant gas cylinder. 
+b) Pressure gauge to indicate operating pressure 
+c) Operating levers for 
+i) Expellant gas valve 
+ii) Monitor valve 
+iii) Valves for hose reels 
+iv) Pressure release valve 
+v) Flushing valve for monitor 
+vi) Flushing valve for hose reels 
+d) Switches for lighting arrangement. 
+e) Instruction plate for operation, with line diagram 
+ 
+8. OTHER CONSTRUCTION DETAILS 
+ 
+1. The rear structure would be made out of 40 x 40 mm square tubes of 3mm thickness. The structure of the cabin 
+would be from 14swg MS pressed sections duly treated for anticorrosion. 
+ 
+2. The complete outside panelling would be done from 16g aluminium sheets & internal panelling would be from 
+18swg aluminium- chequered plates. The panelling on the cabin roof would be from 18swg aluminium sheets. 
+ 
+3. The entire flooring of the vehicle would be covered with 10swg aluminium chequered plates. The roof of the rear 
+body would be covered with 16swg aluminium-chequered plates. 
+ 
+4. The DCP  Tender would be supplied complete with initial charge of BIS marked 2000 Kg Dry Chemical Powder    
+as per IS- 4308. 
+ 
+5. The appliance shall be fitted with a towing arrangement at the rear of adequate strength to carry one tone trailer. 
+ 
+6. The unit shall be well balanced on the chassis and shall have centre of gravity as low as possible. The overall height 
+shall not exceed the permissible limits. 
+ 
+7. In addition to the enclosed accommodation, riding position shall be provided for 2  persons on  a platform  at  the 
+rear of the appliance, Grab rails and non skid steps shall be provided, wherever required to assist the crew to mount  
+and dismount. 
+ 
+8. All light fittings at the rear shall be suitably protected by expanded metal to prevent damage due to movement of 
+crew. 
+ 
+9. LOCKERS 
+ 
+1. Sufficient number of lockers for the storage of the equipment, tools and other items shall be provided. The lockers 
+shall be fitted with waterproof lining. 
+2. The cab and the lockers shall be of composite construction with sufficient rigidity and reinforcement and shall be 
+kept as light as possible. Pressed sections of sufficient strength shall be used for the super structure. 
+3. All lockers shall be provided with internal automatic on-off lighting system with a master switch in Driver / Crew 
+cabin. 
+4. The doors of lockers shall have efficient means for holding the closed by flush fitting spring loaded lockers. 
+5. The doors of side lockers shall not be hinged at the bottom. 
+ 
+ 
+10. EQUIPMENTS AND ACCESSORIES 
+ 
+The appliances shall be provided with the equipment detailed to Appendix-‘A' & Appendix-‘B'. 
+ 
+The following accessories shall be fitted/ provided in addition to those normally fitted on commercial vehicles: 
+a) Electrically operated siren - 1 km working on the batteries of the appliance, with its switch in the driver's cab. The 
+siren shall be fitted at a position where it is protected from damage due to weather conditions. 
+b) Fog lamps – 02 Nos. 
+c) Reversing light- suitably situated to assist reversing. 
+d) Search light - adjustable to give flood or beam light, mounted in a convenient position  but  capable  of  being 
+readily disconnected and mounted on a tripod away from the appliance;  complete with tripod  and with not less  than 
+30 m of TRS cable on Ii reel mounted on the appliance. The capacity of the cable shall be such that the voltage drop 
+shall be not more than 2V at the other end. 
+e) Spot light - adjustable, mounted in a convenient position on the rear side of the driver's cab. 
+f) Inspection lamp - protected type, on wander lead with plug. A socket shall be provided on the control panel in the 
+driver's cab for plugging in the lamp. 
+g) Tools - all tools required for routine maintenance of the appliance which are not included in the standard kit of   
+tools for the chassis. 
+h) Wind screen wipers - two, electrically operated. 
+i) Operation Manual – Three sets. 
+ 
+11. PAINTINGS & MARKING 
+ 
+PAINTINGS: 
+ 
+The entire appliance shall be painted in DUPONT make "FIRE RED" paint & thickness of 0.12 to 0.2mm, using  
+double coat spray painting on the outside. Lettering work in yellow color on both sides of DCP Tender  as given  
+below: 
+1. The whole vehicle shall be painted internally and  externally with zinc  chromate undercoat  and sufficient  number 
+of finishing coats. 
+2. The driving compartment and the inside lockers shall be painted in pale cream. 
+3. The chassis and wheel articles shall be painted Black. 
+4. Owner's emblem in original colour together with name (in Hindi and English) as given below shall be written in 
+golden yellow colour on both sides of the Vehicle. CISF and PSU’s emblem will be painted on both sides with  details 
+in words in between emblem. 
+ 
+MARKING: 
+ 
+Each appliance shall be clearly and permanently marked with the following information: 
+a) Manufacturer’s name or trade-mark 
+b) Year of manufacture. 
+a) Engine and chassis No., and 
+b) Capacity of DCP Vessels 
+ 
+12. ELECTRICAL SYSTEM 
+ 
+1. All the wiring will be properly fixed in position & will be protected against heat, oil  and  physical  injury.  
+Wherever, necessary wiring will pass through conduits. All electrical circuits will have separate  fuses  suitably  
+marked & grouped in common fuse located in an easily accessible position. 
+2 All important electrical circuits shall have separate fuses, suitably indicated, which shall be  grouped  into  a  
+common fuse-box located in an accessible position in the driver's cab fitted with means for carrying spares fuses 
+3. Provision will be made for min. 4 spare fuses in the Box provided in driver  cabin. All  controls  for electrical  
+system will be provided in front of driver's seat. Battery will be placed in totally enclosed box. 
+ 
+13. PUBLIC ADDRESS EQUIPMENT 
+ 
+Grand make latest type battery operated lighting bar and multi-tone hooter/mike with amplifier & flashing light Beacon 
+system with strobe should be provided. A light Bar of min 1700mm long operated on 12/24 Volts battery 
+ 
+ 
+having 2 Nos. rotating Red Beacons lights, 4 Nos. Halogen lights, 4 Nos. strobe, hooter and PA system in built 
+amplifier and a microphone shall be provided in front of officer’s seat in the Drivers cabin. The Model of PA system 
+shall be AHUJA/PHILIPSNENUSVOICE or any reputed make and shall be of minimum capacity of 75 watts.
+    SPECIAL TERMS & CONDITIONS: 
+ 
+1) Full contract value will be released within thirty days  after receipt  of  complete DCP Tender at site. However, party 
+has to furnish bank guarantee of ten percent of Purchase Order value valid for 18 months. (Performance Guarantee 
+Period) 
+ 
+2) Delivery period of the complete DCP Tender is eight months from the date of receipt of purchase order from  
+NTPC, Kahalgaon. 
+ 
+Approx. time frame for Purchase of TATA chassis / equivalent chassis and transport  of  chassis  to  agency's  
+workshop is three months. 
+ 
+Approx. time frame for Fabrication of body and equipment at agency's workshop is five months. 
+ 
+At the time of final delivery DCP Tender should have filled DCP vessels i.e. 2000Kgs of DCP is in scope of agency. 
+ 
+3) Pre dispatch inspection of chassis at TATA MOTORS or equivalent  dealer stockyard in Bihar state to be carried  
+out by NTPC Kahalgaon representatives from Auto Base and/or MM-Offsite maintenance in presence of  
+representative of agency. 
+ 
+Prior intimation at least 15 days in advance to be given. TATA MOTORS / Equivalent  Quality plan to be submitted  
+by agency for approval of NTPC Kahalgaon FQA department. 
+ 
+Inspection during fabrication : Successful agency should submit quality plan  as  per relevant  IS  Codes provided in  
+PR specifications for approval by NTPC Kahalgaon FQA Department  with  assistance  from  MM-Offsite 
+Maintenance and CISF, FIRE WING. 
+ 
+The 1st stage (Construction of under structure, DCP tanks. Placement of the  DCP  tanks, lockers  etc.)Inspection  as 
+per QP shall be carried out by the NTPC and CISF Fire Wing. Similarly, Second and Final Stage inspection will be 
+carried out by NTPC and CISF Fire Wing. Both the tests shall be carried out at vendor’s premises. 
+ 
+Testing / inspection facility shall be provided  by the vendor at the time  of  joint inspections. Prior intimation at least 
+15 days in advance shall be provided each time. 
+ 
+Final inspection shall be carried out at NTPC Kahalgaon store after receiving of the material. 
+ 
+4) Transport of chassis to agency's works and final delivery of DCP Tenders to NTPC,  Kahalgaon  will  be  in 
+vendor's scope. However, necessary road permits shall be collected from NTPC Kahalgaon as per requirement. 
+ 
+Temporary registration and transit insurance required till supply of DCP tender to NTPC-Kahalgaon will be in scope  
+of agency. 
+ 
+5) The manufacturer shall provide guarantee/warrantee for the design,  material, workmanship  and  the performance  
+of the unit for a period of 18 months from the date of supply or 12 months from the date of commissioning of the 
+vehicle whichever earlier. 
+ 
+The vendor without any extra cost shall rectify any mechanical defect, faulty workmanship or operational  defects 
+found during this period. 
+ 
+For chassis and engine TATA MOTORS / Equivalent standard warranty to be applicable. 
+ 
+However, special arrangement shall be made by dealer of TATA MOTORS / equivalent for arranging  in  site  
+servicing of Engine and chassis at NTPC, KAHALGAON during standard free services. 
+ 
+ 
+6) ACCEPTANCE TESTS 
+Acceptance test shall be carried out as per BIS standards in practice. Prior to dispatch of fire tender the vendor's site 
+/ workshop the following tests shall be carried out as acceptance test. 
+ 
+ROAD TEST 
+a) Acceleration & Performance Test 
+b) Braking Test. 
+c) Turning Circle Test 
+ 
+STABILITY TEST 
+a) Under fully laden vehicle (including crew) to the designed payload conditions. 
+b) Vehicle shall pass Overturning Test 
+i. The stability of the appliance will be such that when under fully equipped  & laden condition, if the surface on  
+which the appliance stands is titled to either side, the point at which over turning occurs is not passed at an angle  of 
+27° from horizontal. 
+ii. The bidder should carry out this test on Mechanical Tilt Platform facility in their own works. This test will be 
+carried out in the presence of CISF Fire Wing representative and management officials. 
+iii. All the piping will be SS & subjected to optimum hydraulic test pressure for a period of minimum 10 minutes. 
+ 
+ 
+7) After sale service: Equipment shall be serviced free of  cost at  regular intervals by the party during guarantee  
+period of 18 months including in site replacement/repair as per requirement. The appliances must confirm IS 
+specification 10993-2015. 
+ 
+Vendor should mention the availability of TATA MOTORS / OTHER MANUFACTURER service center within 
+50kms from NTPC, Kahalgaon for servicing of engine / chassis as per requirement. 
+ 
+8) Demonstration of the equipments in DCP Tender & training in operation of their systems to be provided to Fire 
+Service Team of CISF Unit, NTPC, Kahalgaon at the time of final delivery. 
+ 
+9) Required chassis shall be purchased by the vendor in the name of NTPC Ltd, Kahalgaon from the state of  Bihar  
+and shall be delivered after complete fabrication of DCP Tender to NTPC, Kahalgaon along with  following  
+documents : 
+ 
+a. Chassis invoice (Purchased in the state of Bihar with GST) in the name of NTPC, Kahalgaon. 
+b. Form 21 (Sale Certificate from OEM of chassis). 
+c. Form 22 (Road worthiness) 
+d. Valid Temporary Registration certificate of chassis in the state of Bihar (Bhagalpur RTO). 
+e. Any other documents required by statutory authorities. 
+ 
+Permanent Registration of vehicle will be in NTPC, Kahalgaon scope. 
+ 
+10) NTPC Kahalgaon will provide following documents as and when required: 
+ 
+a. Authorization towards collection of chassis on behalf NTPC-Kahalgaon. 
+b. Bihar Way Bill for transportation of chassis and complete vehicle 
+ 
+11) The fabricated vehicle shall meet all the regulations with respect to motor vehicle act / RTO regulation enforce. 
+ 
+12) Deleted  
+ 
+13) Mandatory Spares for two years operation of Fire Tenders shall be supplied by the Vendor. 
+ 
+14) INSTRUCTION BOOK, ACCESSORIES AND EQUIPMENT 
+ 
+ 
+Instruction Book - Instructions book for the guidance of the user, including both operating and normal maintenance 
+procedures shall be supplied. The following documents should be necessarily enclosed. 
+ 
+i) General Arrangement Drawing of the above DCP Tender 
+ii) Drawing of DCP Tank 
+iii) Flow Diagram 
+iv) Electrical Circuit Diagram. 
+v) ISO 9001 Certificate 
+vi) DGS&D Certificate all other related certificates. 
+vii) Catalogue. 
+ 
+Documents to be furnished by the vender along with the dispatch of material: 
+ 
+i) Performance certificate for the equipments if any 
+ii) Warranty Certificate 
+iii) Line diagram 
+iv) Maintenance Manual (This  manual shall  contain fully illustrated instruction on repair and overhaul of  
+the super structure with details of fitment, tolerance and special tools to be used, and procedure for 
+dismantling and assembly checks. 
+v) Material test certificate critical equipment/fittings. 
+ 
+15) Others: 
+a) The tenderer shall furnish the clause-by-clause compliance statement as per specification. 
+b) In case there is any deviation the same should be clearly brought out in the offer. 
+c) The tenderer shall indicate the make/model in their offer. 
+d) They shall mention the relevant BIS/EN/ NFPA certificate of the product offered. 
+e) Relevant Test certificates shall be provided from a Govt. Approved laboratory or from the manufacturer, along 
+with their offer, if the supplier is not a manufacture of the item. They shall submit valid authorization letter 
+from the original manufacturer of their Indian corporate office along with offer. 
+f) All equipment being quoted by vendor shall confirm to the latest version of relevant Indian/ International 
+standard. 
+g) Vendor shall mentioned the relevant standard reference against each  items  governed  by  the  Indian/ 
+overseas international standard. 
+h) Vendor shall agree to provide certificates in original of all  necessary or mandatory approvals in respect  of  
+the fire Tender before dispatch. 
+i) Along with techno-commercial offer, vendor shall submit a separate sheet  listing all items  (Installed  on  
+DCP Tender) that shall be supplied. i.e. scope of supply shall be mentioned. 
+j) The tool kits for maintenance shall be supplied along with the product. 
+k) Technical manual comprising of servicing details shall be supplied with equipment. 
+ 
+ 
+16) Minimum list of mandatory spares parts, to be supplied with DCP tender in addition to mentioned in technical 
+specification, is mentioned below. 
+1. CONTROLLER REGULATOR - 01 NO  
+2. CHECK VALVE SS-02 NOS  
+3. HP RUBBER PIPE WITH FITTING CONNECTION FROM CYL TO MMANIFOLD-02 NOS  
+4. HP RUBBER PIPE WITH FITTING CONNECTION FROM MMANIFOLD TO VESSEL, HOSE REEL-02 NOS  
+5.  1/2 INCH BALL VALVE-02 NOS  
+6. 1 INCH BALL VALVES-02 NOS  
+7. SILENSOR-3 NOS  
+8. PR. GAUGE-02 NOS  
+9. FILLING ORIFICE GASKET OF VESSEL-02 NOS  
+10. WASHER FOR HIGH PR RUBBER PIPES, HOSE REEL VALVE AND FLUSHING VALVE- 04 NOS EACH 
+ 
+However, complete list of mandatory spares is to be submitted by agency along with bid including all of the above mentioned 
+spares. 
+17) Below mentioned Appendix-A (list of tool kits items with box) & Appendix-B (L IST OF ACCESSORIES TO BE SUPPLIED 
+WITH THE VEHICLE and their specifications) are part of technical specification.  
+ 
+       
+ 
+ 
+A PPENDIX- A  
+L IST OF TOOL KIT ITEMS WITH BOX  
+ 
+S. No. Items Descriptions Quantity 
+1. Screw / Adjustable wrench - Taparia Make 02 Sets 
+2. Cutting Plier - Taparia Make 02 Nos. 
+3. Pipe Wrench 18” - Taparia Make 02 Nos. 
+4. Pipe Wrench 26” - Taparia Make 02 Nos. 
+5. Screw Driver (6”, 8” & 12”) - Taparia Make 02 Each 
+6. Ring spanners 8 Nos. - Taparia Make 01 Set 
+7. Wheel Spanner with Rod 01 Set 
+8. D-spanner 8 Nos - Taparia Make 01 Set 
+9. Hammer 500 Gram- Taparia Make 01 No. 
+10. Hydraulic jack — suitable capacity 01 No. 
+ 
+A PPENDIX- B  
+ 
+ 
+L IST OF ACCESSORIES TO BE SUPPLIED WITH THE VEHICLE and their specifications  
+ 
+S. No. Items Quantity 
+1. Spare expellant gas cylinders each of same size & capacity as provided in DCP tender, filled with 
+gas. 
+04 Nos. 
+2. Portable Hand operated Siren as BIS- 6026/1985 / EN specifications 02 Nos. 
+3. Stretcher Molded type (as per IS : 4037-1967) 04 Nos. 
+4. Portable mega phone / Wireless Amplifier (WA-320) with all accessories of good reputed 
+Company made by original manufacturer. 
+02 Nos. 
+5. Shears (bolt cutter) 02 Nos. 
+6. 3 strand 14 mm Poly propylene rescue rope 04 Nos. 
+7. Cutter Tin Heavy Duty 250mm 02 Nos. 
+ 
+ 
+ 
+ 
+Sl. 
+Name of the item / Product Description Technical Data / Specifications 
+1. Spare expellant gas cylinders each of 
+same size & capacity as provided in DCP 
+tender , filled with gas 
+N2 cylinders should be CCE approved & ISI marked (IS 7285) 
+2. Portable Hand operated Siren as BIS/EN 
+specifications 
+As per IS-6026/1985 / EN specifications and latest amendments 
+3. Stretcher Molded - HDPE Dimensions: 
+ 
+ Product Size (L x W x H) -185 cm. X 45 cm. X 6 cm. 
+ Self-Weight - 8 Kg. 
+ Load Limit - 159 Kg. 
+ Gross Weight - 10 Kg. 
+ 
+ Two handles at tapered end to allow for more stable transport. 
+ Head area is smooth to ensure all  head immobilisation devices adhere  
+to the board. 
+ Angled edges for log –rolling. 
+ Floats 70 kg. In water. 
+ One-piece, HDPE (high-density, polyethylene) plastic construction,  
+with polyurethane foam fill and greater density around the handholds. 
+ Impervious to all bodily fluids. 
+ 100 % X-Ray translucent. 
+ All board    meets OSHA recommendations and    is easy to 
+decontaminate. 
+ Guaranteed for life under normal usage. 
+ 
+Spine Board/backboard Stretcher with 
+ two handles at a tapered end (as per IS : 
+ 4037-1967) 
+4. Portable mega phone :  Power Output - 20 W Rated / 25 W Max. 
+ Voice Range - Clear sound, long range 0.4 km (01 km in quite area) 
+ Power Source - In-built rechargeable lithium battery 12V AC/ DC, /Dry 
+cell 
+ Microphone:- unidirectional 
+ Weight - Light weight ,Not more than 3.0 kg 
+ Body - All ABS body, sturdy yet lightweight. 
+ Siren - Built-in siren. 
+ Volume switch- Conveniently located volume control & switch Anti- 
+feedback. Microphone with volume Control & Press-to-talk Switch. 
+ Hanging protection on shoulder must be provided. 
+ Guarantee/ Warranty Should specified period not less than 12  month  
+from date of receipt. 
+ Wireless Amplifier (WA-320) with all 
+accessories of good reputed company 
+made by original manufacturer. 
+5. Bolt Cutter /Shears  Length 30” 
+ cutting jaws : made of high tensile solid alloy steel, specially 
+ heat treated with centre cut head 
+ Handle : With sufficient grip of rubber fro a length of 6 to 8 inches 
+ Application : Suitable for cutting  hard material  viz. bolt, iron rod of 10  
+to 14 mm diameter 
+6. RESCUE ROPE PP 
+ 
+3 strand 14mm PP Rope (35 Meters) 
+Three strand 14mm Dia PP Rope having breaking strength of more than 
+3050 Kgf. 
+ High strength and Low weight 
+ Highly resistance to acid and alkalis 
+ Float in water , does not absorb water 
+ Low elongation and better knot ability 
+7. Cutter Tin Heavy Duty 
+ 
+12-15 inches 
+Digital Craft GE-TECH Heavy Duty Sheet Metal Hand Steel Cutting Tin 
+Snips Scissors Cutters Snipers Professional Metal Cutter. 
+ 
+Size : Length 250mm - 300 mm 
+ 
+Application: For cutting tin sheets of small thickness 
+ 
+ 
+ 
+Appe ix-t'A"
+TECH ICAL SP lcATloN oF FOAM TENDER
+L. CHASSIS
+The Foam Tender shall be fabricated on a suitable 16 Ton (a x 2) - BS-VI or Latest emission norms' Cowl
+Chassis with 4700 mm wheer Base & 1go Hp Engine of Ashok Leyrand/TATA or any other simirar and reputed
+manufacturer. Drag hook or eye of adequate strength and design shall be provided at the rear & front side of
+chassis by the vendor.
+2. GENERAL
+The Foam Tender including all its accessories & equipments is required for the Department' lt shall be
+designed & manufactured in strict compliance with the specifications given below' as well as other relevant
+lndian/ lnternational standards where applicable & as per sound engineering practices' The Foam Tender
+shall be designed to effectively & efficiently carry 5,000 litres of water & 500 litres of Foam' a Godiva/
+Rosenbauer or equivalent (CE certified/ UL listed) pump with a discharge capacity of 4000 lpm @ 10 kg/cm2
+driven through heavy duty Power Take off (PTo) units, a water Monitor of approximately 1000 GPM (US)'
+equipment, r..urrori"r, etc. All the equipments & accessories shall be fixed on the appliance in a compact'
+neat & ergonomic manner and shall be easily & readily accessible for immediate use during emergencies' Due
+care shall be taken to ensure that all aggregates are designed for ease & comfort of the operator' The Foam
+Tender shall fulfill the requirements of 815:10460'
+3. DESIGN & coNsrRUCTlON . _ _ :L:'it.. +^ ^il +r-,a carr
+The Foam Tender shall be designed to be as compact as possible with ease of accessibility to all the service
+parts. The pump & other equipment controls shall be so arranged that user can operate them easily &
+conveniently. Lever type valves shall be preferred unless impractical in any way' The Foam Tender shall be
+supplied complete with all the equipments & accessories mentioned in these specifications' The MoC
+(materials of construction) shall be used with a view to combine lightness with strength & durability' No form
+of wood, (timber or ply) shall be used anywhere in the body construction' All parts which form water ways'
+come in contact with water or are made from materials that are prone to corrosion, shall be treated with a
+good quality anti-corrosion system/ treatment/ palnt (epoxy coats)/ zinc coating, etc' The vendor shall submit
+weight distribution chart along with design of supporting structure along with design calculations to the
+department along with the technical bid, failing which, the bid shall be summarily rejected'
+4, PUMPING SYSTEM
+The pump fitted on ttre Foam Tender shail be a Godiva/ Rosenbauer or equivalent (cE certified/ UL listed)
+with cFg/GM. The centrifugal pump shall be capable of delivering not less than 4000 lpm @ to kg/cm2' The
+quoted Fire pump shall be cE certified to EN 1028-1 and 2, its subsequent amendments (2008 or above) with
+EN 1050 and lso 1,412L. Fabricator shall provided five (05) years warranty and after sale service letter from
+oEM along with tender documents. Fabricator shall not make any modification (manlfold, etc') in pump and
+shall provide pump having 4 deliveries from oEM. Fabricator shall provide the warranty and after sale service
+letter from oEM along with tender documents. The warranty shall come into effect from the date of supply
+of Foam Tender. The oEM priming system shall be twin piston reciprocating type with an additional Exhaust
+ejector or water-ring type primer, which shall be capable of lifting water from 7 m depth within 30 seconds
+when tested. The primer shall be capable of working even if left dry over extended periods' The pump shall
+be of rigid construction & shall be modularly designed for ease of maintenance' lt shall be capable of
+delivering its full performance with all strainers (exiernal & internal). The details of the pump such as its
+make & model, supported with catalogs/ brochure/drawings, etc., shall be attached with the offer' The
+discharge of the pump shall be routed to the outlets for hand lines and monitor fitted on the top' The other
+construction details shall be as per the following specifications.
+4.L PumP Suction tnlet
+The suction inlet of the pump shall be capable of being connected either directly to hydrant discharge outlets
+through headers or to the water tank of the vehicle. lt shall be of a suitable size to give the rated output of
+the pump, but not less than 140 mm. The inlet shall be of male round-threaded type & provided in such a
+way that it is convenient to take water from outside sources like open wells with metal type removable
+strainer. The connection from the water tank to the pump shall be suitably sized (min 150 mm) to allow full
+pumping at the rated output. A ball/ butterfly valve of good quality shall be fitted between the suction inlet
+of the pump & the water tank. Stainless steel strainer shall be fitted inside the tank on the pipe outlet to
+pump
+4.2. Pump Discha rse Outlets
+/
+7
+There shall be 4 outlets of standard size (63mm) with screw down type delivery valves, having female
+instantaneous couplings. The pump shall have multivolute design for required pressure. Fabricator shall not
+make any modification (manifold etc.) in pump and shall provide pump having 4 deliveries from oEM. A ball/
+butterfly valve of good quality shall be fitted at the starting point of the water flow to the monitor. A second
+valve shall be provided at a suitable place near the base of the monitor. This is to ensure that in case of a
+leakage at any time in the first valve, the second valve fitted near the monitor base shall hold the pressure'
+4.3. Pump Mounting
+The pump shall be rear mounted to ensure maximum hydraulic efficiency when working from open water
+sources. lt shall be mounted in such a way that vibrations from the drive line are not transmitted to the
+control panel. The pump shall have at least four mounting points to ensure that the complete load of the
+system is evenly distributed. The mounting shall be done on heavy "C" channels/ plates only. The mounting
+shall be secured to the chassis members by bolting. welding of the mounting shall be strictly avoided. The
+rotating drive flange shall be provided with a coverf guard so that injury is minimized during operation or
+maintenance of the pump.The guard shall be bolted and easily removable.
+4.4. Pump Material of Construction
+The Pump body/ casing, impeller, delivery outlets, etc shall be made of
+parts that may be subject to frequent wear shall be of renewable typ
+confirming to lS: 6603 & shall be carried in anti-friction bearings as per
+design. The impeller neck rings & impeller rings shall be renewable type.
+lron for better heat dissipation. An easily accessible drain valve made
+An ultra high pressure pump shall be provided with a capacity of 150 LPM @ 100 barwith 02nos h'
+length, tanling distance for jet shall be around 12 lo 15 mtr., lancing distance for spray mode shall b
+mtr., weight oithe gun shali not be more than 1.5 kg. A separate PTO shall be provided for operatio
+in fire tender running condition also. Water mist system shall be provided as per lS specification.
+CF8/GM. The wearing rings & other
+e. The impeller shaft shall be of SS
+the pump manufacturer's standard
+The bearlng housing shall be of Cast
+of SS-304 shall be Provided at the
+bottom of the casing to enable easy draining of the complete system.
+4.5. Pump Shaft Sealins
+The shaft sealing shall be of self adjusting type. The sealing system shall be as per pump manufacturer's
+standard design. The mechanicalseal assembly shallwith stand dry running of pump up to 2 minutes without
+any damages.
+4.6. Pump Control Panql
+The pump control panel shall be supplied and designed keeping in mind ease of operation as well as
+maintenance. The control panel shall be ergonomically designed with the following:
+(i) Pump to DeliverY Outlets
+(ii) PumP to Monitor
+(iii) PumP to Tank Filling
+(iv) Foam Tank to PumP
+(v) PumP to Cooling line
+(vi) Tank to PumP Suction
+(vii) Outside source to Pump suction
+(viii) Water Level lndicator
+(ix) Throttle Control for engine
+(x) Foam Level lndicator
+(xi) Pressure Gauge
+(xii) Compound Gauge
+Note: The above mentioned connections are the min. requirement. other connections/ controls as may be
+required can be provided by the manufacturer. The grouping of the pipelines & valves as wellas the complete
+system layout shall be discussed with the inspecting officers at the time of the stage inspections.
+4.7. Pump Priming Svstem
+To ensure that the priming system is compatible with the pump, only an OEM (pump manufacturer) supplied
+priming system shall be incorporated with the pumping system. The OEM priming system shall be twin piston
+reciprocating type with an additional Exhaust ejector or Water-ring type primer, which shall be capable of
+lifting water from 7 m means shall be provided to automatically limit the engine RPM to the manufacturer's
+recommended speed. The primer shall get automatically disengaged once the pump is registered the
+pressure. The system shall be maintenance free to the extent possible & shall be constructed of suitable
+materials to prevent corrosion due to salty/ brackish water.
+4.8 WATER MIST CLUBED WITH COMBIN ED FOAM FIRE TENDER
+ose reels each 45 mtr.
+,e approximate 6.5 to 7
+,n of water mist system
+a-
+5. POWER TAKE OFF
+The pro for the pump sha, be of VAs/ FrRE HAWK/ HALE/''ALL of suitable ratio for the rated output of the
+pump & the torque oitr,. vehicle. The lever/switch for engaging the P.T.O' shall be provided in Driver's cabin'
+rnspection/ maintenance hatch of removabre type shat be provided at suitable praces for gaining access to
+gearbox/PTo.Necessarymodifications,tothestandarddriveSystemasavailableonthechassis,shallhave
+to be done by the vendor so as to adopt the pro Units in the system. Necessary supports for pro Units,
+propeller shafts coupling, universaljoints etc' for power input to and output from PTO Units shall have to be
+provided by vendor. *re drive assembry components (shafts, coupring etc) sha, be dynamica'y balanced and
+the vibration at any of the rotary parts shall be minimized'
+5. COOLING SYSTEM
+ln addition to the radiator cooling, an indirect cooling system of the open circuit type shall be provided if
+required to keep the engine from overheating during extended use in *opicar crimates & when the ambient
+temperature is over 40. c. The cooling system.sha, be so designed that the fu, power output of the engine
+can be maintained during continuous stationary running without overheating. The operating temperature of
+the engine cooring watei sha* be thermostaticary controred. The oir in the sump sha, be prevented from
+overheating & the pump characteristics sha, be chosen in a manner so that the engine does not run at its
+maximum speed for the required output. The cooring water outret pipe from p.T.o. & additional cooling tank/
+heat exchanger sha, be connected through a suitabre diameter pipe. rne end of the pipe shall terminate in a
+7. AUXILARY ULTRA HIGH PRESSURE PUMP UNIT
+Thepumpshallbeofl50lpm@lOObarratedcapacity.ltshallbeasixplungerpositivedisplacementtype
+pump, working to its capacity at not more than 1000 RPM' A by-pass for letting the water back to the tank
+shall be provided to release excess pr.rrrru generated due to shutting of the hand lines' The pump shall have
+double seal on each plunger with low pr"rrri. intermediate chamber to keep the water seals cool and
+rubricated. This system wiil arso permit the recircuration of any reakage from the high pressure back to the
+pump inlet. The pump shall have synthesized pistons of ceramic' The connecting rods will be of special alloys
+with row attrition coefficient, high wear resistance and high anti-seize properties. The hydraulic structure will
+be designed to simplify scheduled maintenance procedures like gasket and valve replacement' The pump
+suction line shall have inline mesh filters. The pump shall deliver water to the hose reels'
+threaded connector
+7.L Hose Reels & Fog Guns
+Thehighpressurepumpwilloperatethrough2separatehosereelsof30mlengtheach,andwillbeprovided
+at a suitable place on the appliance, one on each side' The hose used for the hose reels would be R2 type
+rated for a minimum working pressure of 27Obar & will be of min' 16 mm lD (internal diameter)' The unit
+shall be equipped with two Fog Guns which shall be capable of dischargin g65-75lpm @ 100 bar in mist
+mode. The jet range shall be approx 30 m (in still air condition)' These Fog Guns shall have a Jet as well as Fog
+mode. The hose reel as well as the High Pressure Nozzle shall be CE Certified'
+8. WATER TANK
+The water tank shall be of min. 5000 ltr capacity & shall be suitably mounted on the chassis in such a way
+that the weight distribution is optimized. ln addition a ZYo expansion space shall be made in the tank over &
+above the water capacity. The tank sha, be fabricated out of ss 316 prates of min. 5 mm thick for the bottom
+& 4 mm for the sides. The top & baffle plates shall be of 3 mm' The tank shall be of welded construction &
+shalr be die_pressed on ail sides to prevent distortion & to ensure torsionar rigidity. Due care shall be taken to
+ensure that butt_weld joints are minimized. wherever butt joints are unavoidabre, they shail be radio-
+graphically tested. The test films & reports shall be submitted ai the time of stage inspections' All other joints
+shall be Dp tested for soundness of weld joints. Complete welding shall be done using Gas Tungsten Arc
+Welding (GTAW) process with ER 304 electrodes'
+8.1. Baffles -. --^ ...r-^^ rho ,,ohirr
+The tank shall be suitably baffled longitudinally and transversally to prevent surge when the vehicle is
+cornering or braking. The baffre prates shail be of minimum 3 mm thickness bolted type. The fasteners used
+sha, be SS materiar onry so that they do not freeze due to rusting. The nuts shall be tack welded to the baffle
+prates. The baffres srratt be so designed that they do not nuc[re under any circumstances during braking
+cornering or accelerating. The baffles shallbe arranged in a mannerto facilitate easy cleaning of the.tanks'
+.?-
+8.2. Tank Mounting
+The water tank shall be mounted on the vehicle on a sub-frame using Rubber Metacones. Thls sub frame
+shall be made from Anti-Corrosive Treated MS 4" section and shall be bolted with the chassis using the high
+tensile bolts.'U' Bolts shall not be used for mounting of tanks on vehicle. The rubber metacones shall
+facilitate to absorb the jerks and bending torsions in expansion as wellas compression mode without high
+deflection. The manufacturer shall provide complete design data of metacones and sub-frame including the
+load calculations and metacone quantity sufficiency. Tank shall be mounted on the chassis in a manner
+keeping in view the proper load distribution on the axles. The tank shall be mounted on two/ three cross
+bearers to counteract stresses caused by chassis flexing. The Centre of Gravity shall be maintained as low as
+possible. The mounting shall permit the full contents of tank to flow to the pump. The bottom of the tank
+shall be sloped towards rear. Suitable hooks/ lifting eyes shall be provided on top of the tank to enable it to
+be lifted off the vehicle for maintenance/ repairs. The bottom of the hooks shall be suitably reinforced with
+pads to avoid stress on the tank top plate. Sides of tank shall be die-pressed to give additional strength &
+stiffness so that it does not distort due to chassis flexion.
+8.3. Connections for Filling
+The tank shall have a filling orifice of 250 mm and an inspection & maintenance manhole of 450 mm at the
+top. The cover for this port shall be of hinged or threaded type as per the manufacturer's standard design &
+shall be clearly marked with the words (either etched or raised) "WATER". This port shall be used for filling
+the water tank from overhead storage tanks. Apart from the above, two more filling connections shall be
+provided on the sides of the tank terminating in filling connections of 63mm male instantaneous couplings
+made of GM or SS material incorporated with a strainer. The header & the line shall be suitably designed to
+ensure that the inflow of the water into the tank is sufficient to maintain the output of the pump while the
+tank is being replenished from other vehicles or from hydrant lines. These connections shall be fitted with a
+valve to prevent water leaking through the filling pipe & shall be provided as close to the pump as possible.
+Valve may be of NRV I Ball /butterfly type. One connection shall also be provided for filling tank from pump
+itself. Connection shall be taken from pump manifold & shall be controlled by a shut-off valve.
+8.4. Draining, Clea nine & Reoairs
+A 50mm diameter drain line with a ball/ butterfly valve shall also be provided to drain the tank for
+maintenance/ cleaning/ repairs etc. A cleaning hole of 250mm shall be provided at the bottom of the tank &
+shall be taken down to a point below the chassis without reducing the effective ground clearance. The
+connection shallensure that the water is discharged as far away from the wheels of the vehicle as possible, to
+reduce the chances of tyre slippage. Suitable lifting lugs shallbe provided on the shellof the tank to enable it
+to be lifted off vehicle for repairs/ replacement as necessary.
+8.5. Overflow
+One overflow pipe of suitable diameter shall be fitted to the tank. The diameter of the overflow pipe shall be
+determined as per the filling connections provided. However it shall not be less than 100 mm diameter in any
+case. ln case the inlets provided at the sides are more, the overflow pipe diameter shall be suitably changed
+to accept the additionalflow. As a thumb rule, the diameterof the overflow pipe shall be two times the sum
+of all incoming pipes. For example, if there are two header pipes are of 100 mm diameter each, the overflow
+pipe shall be of 200 mm diameter. This is to ensure that the tank does not get unnecessarily pressurized. The
+overflow pipe shall be taken up to 2 inches higher than the top of the vehicle from the inside of the tank &
+shall be cut at an angle ofapprox.45 degrees.
+8.6. Miscellaneous
+The tank shall be connected to the Pump with a butterfly valve for ease of operation. The tank shall be
+hydraulically tested at 0.5 kg/cm'pressure to find out if there are any leakages. This test may be carried out
+in the presence of the inspecting officers or done by the manufacturers as per their own internal quality
+program. However due care must be taken to keep all records of such tests for verification at the time of final
+inspection. The inlet line in the tank shall have an adequately strong deflector plate, which shall avoid the
+incoming jet of water from hitting the tank side/roof. All plumbing shall be reasonably accessible for
+maintenance purposes. Screwed bends, joints shall be avoided as far as possible. All the joints shall be
+flanged type & shall have O ring sealing. Rubber gaskets shall not be used anywhere in the plumbing. All the
+outlets and inlets from the tank shall be taken by installing nozzles of suitable length and reinforcement pads.
+.tl-
+8.7 Electronic LED lndicators
+Electronic LED Water & Foam Level lndicators indicating the tank levels as EMPTY, %,y,,yo and FULL shall be
+provided on the pump control panel. These levels shall be indicated by number of glowing LED lights (no LED
+Lights means an empty tank, All LED Lights means fulltank). The indicators shall sense the fluid level in the
+tank with help of a pressure sensing probe. The indicators shall be located on the rear pump control panel in
+such a manner that the Operator / Firemen can easily view the tank levels while being away from the vehicle
+Repeater Secondary Level lndicators shall be provided in the driver's cab to help the crew members to check
+the fluid level from the cab while travelling.
+8.8 CABLE WINCH
+An electrically operated cable winch of Ramsey / Rotzler / Sepson make or equivalent having capacity of
+not less than 6.5 tons pulling capacity (single layer) should be provided and mounted in the front of the
+vehicle. The winch unit should be complete with minimum 5.5 hp 12v DC series wound electric reversible
+motor for increased pulling power. The motor and solenoids shall be grounded to the battery' lt shall have an
+automatic load holding brake system for more strength. For free spooling the clutch design shall be easy to
+use type with spring loaded pull and rotate system. The gear system should be 3 stage planetary type for
+faster line speed and the gear reduction ratio shall not be more than 300:1the drum shall not be of more
+than g inches long having 3.5 inches dia and shall be supplied with minimum 90 ft heavy duty galvanized EIPS
+wire rope with replaceable self locking clevis hook and would be mounted on the front bumper of the vehicle
+with suitable strong support and a 4 way rollerfairlead. The Weight of the winch shall not be more than 55
+kgs A wireless remote for 12 V system or wired remote for 24 v system shall also be supplied with the unit'
+8.9 TELESCOPIC LIGHT MAST
+A pneumatic telescopic mast of Fireco or Will Burt mark or equivalent should be mounted on the vehicle' lt
+should be manufactured from Anodized aluminium 6063 T6 alloy tubes and have a max diameter of 1-l-5 mm
+diameter on its base and complete with a foot plate 150 with up to six fixing holes for bolts. The temperature
+range shall be -40 C with anti- twist lock with safety valve and drainage outlet valve.
+The telescopic mast should be extremely strong and designed with a minimum of 6 sections and equipped
+with a special plastic locking system placed on the ring between the first and the second section meant to
+eliminate any backlash between allthe sections, once the mast is retracted. The mast should be equipped
+with an internal spiralled electrical cable with 9 wires with a section each of 1.5 mm2 and 13 wires with a
+section each of O.22mmlthe group of L3 wires should be screened Each section of the mast should have a
+thicknessof not lessthan 3.5 mm2 Fora bettermovementof the internalcablethe lastthree internal pistons
+should be threaded to the corresponding section. The maximum height of the mast when deployed should be
+minimum 6000 mm (from the ground) the retracted height should be of maximum 1.900mm both heights are
+meant with the integrated tilt & turn unit. The working pressure should not be less than 2.5 bar and more
+than 3.5bar. An electro pneumatic group of valves must be supplied and mounted at the bottom of the mast
+with the possibility to regulate the extension speed and the retraction speed separately'
+The light mast should have 4 X 1000 Watt Halogen flood light projectors in weatherproof casing. The
+floodlights on the top should have a minimum electrical rotation of 360* by means of tilt and turn unit with
+an ABS cover for inspection.
+A 5 KVA portable Petrolengine operated Gen Set shall be installed at a suitable location in the rear locker and
+necessary wiring / connections shall be given to the light mast'
+9. FOAM TANK
+Tank shall be of 500 litres, fabricated from 3 mm SS 3161 plates only & die-pressed on all sides to ensure
+torsional rigidity. Complete welding shall be done using Gas Tungsten Arc Welding (GTAW) process with ER
+304 electrodes. tt shall be suitably baffled & the baffle plates shall be bolted. Fasteners used shall be of SS
+only. Bottom of tank shall be sloped towards the rear. lt shall have a filling orifice of 150 mm & an inspection
+manhole of 450 mm. One additional filling connection of 50 mm shall be provided on the sides of the tank
+with a ball valve for replenishing/ filling the tank from an outside source. The tank shall be fitted with sludge
+trap with a cleaning hole of 250 mm dia & a 50 mm drain pipe with a valve & plug incorporated in it for
+maintenance, a system for ensuring that sludge does not enter into the pipeline (so that the foam system
+does not get clogged), shall be provided. The tank shall be provided with automatic venting & the breather
+shall be provided on the top. The breather valve shall ensure that it does not get frequently clogged' The
+material shall be either GM or SS only. Tank shall be hydraulically tested at 0.5 bar for leakage. Alljoints shall
+be flanged type & have 'O' ring sealing only. All weld joints shall be radio graphically tested & test films &
+reports shall be submitted at the time of stage inspections.
+-5 -
+h
+9.1. Foam Proportioner
+An around the pump Foam Proportioning system (RTP) with a selector valve to induce 3% lo 6% of foam
+compound shall be provided. The proportioner shall be installed in such a way that it shall not be liable to
+mechanicalor other failures. The selectorvalve shall have three settings. Each upward setting shall result into
+an equal increase in the foam compound flow rate. The linkages of this purpose shall be as simple as possible
+to avoid distortion due to chassis flexion. lt shall be reliable & shall not require frequent calibration checks.
+The proportioner RTP type shall be duly calibrated & supplied by the pump manufacturer only.
+10. PIPING VALVES
+Complete pipeline circuit on the vehicle including water lines & fittings shall be of SS316 materialonly,
+including all water lines. Allvalves (AUDCO/L&T) up to 2" size shall be lever operated SS316 ballvalves & all
+valves above 2" size shall be normal ball/ butterfly valves but made of SS316. Seats of the valves shall be
+easily replaceable, readily available & at least 2 sets of spare seals shall be provided for each size of valves. All
+the lines shall be tested hydraulically for at least 3 times the working pressure or 1.5 times the working
+pressure of the pump.A flow chart and schematic diagram shall be made and submitted with the technical
+bid failing which the bid shall be summarily rejected.
+1,1. FOAM/ WATER MONITOR
+FoamMonitorhavingdischargecapacityof 1000GPM(US) @7bar shall bemountedonthetopof thefire
+tender in such a manner that it can be operated by a crew member. The monitor shall be capable of
+traversing through 360" in horizontal plane, elevating from horizontalto 75" and depressing from horizontal
+to not less than l-5'and fully rotation in both directions. Monitor shall be TFT/ AKRON/ ELKHART/
+ROSENBAUER. The monitor shall be UL listed capable of discharging water to an effective distance of not less
+than 75m & projecting the foam discharge to an effective distance of not less than 45m in still air conditions
+when operated at rated pressure. Monitorshall be provided withJet/Spraytype Nozzle.The MOCof the
+Monitor shall be Cast Stainless Steel (CF8)/GM. Fabricated Stainless Steel Monitors shall not be allowed.
+1.2. BODY WORK
+The Foam Tender shall be supplied with originalsingle Cabin/ Cowl with seating arrangement and doors for
+Driver and Officer. Further accommodation for five persons (crew members) shall be provided in the same
+cabin without any partition with one door on each side. Modification & extension of original cabin for fire
+crew including hydraulic mechanism (without partition) is to be done with permission from chassis
+manufacturer. All the 04 doors shall be fitted with toughened glasses and be of sliding type window. The
+glasses on crew cabin windows and doors shall be fixed in aluminium sections. The cabin doors shall be
+hinged type opening outwards & hung forward with catch latches. The cab and lockers shall be of composite
+construction with sufficient rigidity and reinforcement and shall be kept as light as possible. Pressed sections
+of 40 mm x 40 mm x 2 mm thick Corrosion Free square tubes of sufficient strength shall be used for the cabin
+construction as far as possible.
+The rear equipment lockers superstructure (after the cabin) shall be fabricated in corrosion free/
+Extruded Aluminium profile sections constructed with bolt and nut system without welding work and
+panelled with aluminium plate by means of glue without any welding work. Mild Steel shall not be used in
+structure anywhere,
+Roof panels shall be made of aluminium padded plates. The roof shall be strong eno.ugh for being walked-on
+and must be sufficiently supported. The intermediate walls and shelves shall be constructed from aluminium
+sheets paneled to the Corrosion Free Sections/ Tubes structure by means of glue without any welding work.
+The outer and inner paneling of the superstructure shall be done from 3 mm aluminium sheets. The complete
+top of the rear superstructure would be covered with 3 mm aluminium chequered plates/ suitable anti-skid
+material. The sheets of the outer paneling shall be bonded/ glued to the skeleton framework. Rivets/ screws
+shall not be allowed. The area over the tank shall be suitably treated for slippage by chequered plates or anti-
+skid material. The doors of the cabin shall be fitted with toughened glasses & winding type regulators. The
+driver shall be provided with good quality large size rear view mirrors on both sides of the cab & convex
+round mirrors for overall rear view of the vehicle from top to bottom & left to right. The cabin shall be as per
+the latest national/ international standards & ergonomically designed so that the crew members are
+comfortable in transit as well as are able to use the vehicle in an efficient & comfortable manner.
+12.1. Seating
+@
+I'
+The driver & officer seat shail be provided by chassis oEM. The crew shail have individual seating, with each
+seat fitted with brackets for placement of Bieathing Apparatus in an upright position' The seats shall be of
+the wear & walk away type so that when the crew disembarks from the vehicle the BA sets shall easily come
+off the seats with them. The seat bottom shall be theatre type, which shall automatically flip up when the
+fireman gets up, thereby freeing up the space for easy embarking & disembarking' The seats shall have
+integrated seat springs to isolate shock while in motion. They shalr have a fixed type, seat-back recline' to
+improve rider comfoit a ,n auto-pivot & return headrest for rapid seat egress' The side cushions shall be
+easily removable, to accommodate all types of scBA. The seats shall have right seat belt release & a chrome
+swivel bezel. lf there is space available, the seats shall be fitted with flip-up armrests. The seats shallbe of
+Ziamatic, USA/ Seats tnc (Battalion SCBA Crew Flip Seat) or equivalent imported make only'
+l3;i;r,"Tllffi shal be provided for storage of equipments & accessories wherever required' Size and
+number of locker shall be decided at the ti[e of stage inspections. The lockers shall be constructed in a
+modular way so that in case if the configuration needs to be changed' it can be achieved without major
+modifications. All equipment stored in lockers shall be strapped/ clamped in a neat & convenient manner so
+that it has an identified place. All lockers shallbe suitably labeled so that each item shall have identification
+when it is required to be accessed. For allwater fittings like branch pipes etc., quick"release type couplings
+(GM/SS) shall be provided, which shall enable the operator to locate the desired equipment instantly & save
+valuable time.
+t2'3' Roller shutters .rg the equipment lockers shall be installed on
+FortheeasyoperationoftheFiretenderroller-shutterscoverlt
+both sides of the appliance. These shutters shall be rolled inwarJs underneath the roof giving unobstructed
+access to the equipment rockers & the equipment/ accessories fitted in the vehicre. Roller shutters shall be
+made of hollow rectangular shaped aluminium links which shall be inter connected with the help of plastic/
+rubber profiles, sealing the roller shutter watertight when closed. They would be durable' maintenance free'
+weather & corrosion resistant & capable of opening in every position of the vehicle even in rough terrain &
+on slopes. A spring mechanism shall be fitted so that the shutters are not held up at any point of opening' lt
+would be easy to operate & shall ensure that the shutters can be easily pulled down' The sections of the
+shutter shall be powder-coated to a smooth finish & aesthetic look. Guide rails shall support the shutters
+over the entire length on both sides & make them corrosion free' The rain protection slat shall be equipped
+with LED Lighting (to be provided by Roiler shutter oEM onry) which wiil ensure that the area near the locker
+is enlightened. The shutters shall have a sturdy locking mechanism which shall prevent accidentalopening
+during movement of the vehicle. A master switch for isolating locker lighting circuit shall also be fitted in the
+driver's cabin. The shutters shall be of MCD France/ AS Dover/ oR equivalent imported make only'
+13. ELECTRICALEQUIPMENT
+Adequate lighting arrangement (approved make only) shall be made in all compartments' All equipment
+lockers shall have internal lighting arrangement automatically switched on and off by opening/ closing of
+doors/ shutters (LUMAX Make/ Roller Shutter oEM make). All the wiring shall be properly fixed in position &
+shail be protected against heat, oir & physicar injury. To the extent possibre ail wiring shail pass through
+conduits. All wires used in the vehicle shall be stranded copper or copper alloy conductors of a gauge rated to
+carry at least 125 percent of the maximum current for which the circuit is protected & shall be uniquely
+identified by colour coding or permanent marking. Voltage drops in all wiring from the power source to the
+using device shall not exceed 10 percent. The use of star washers for circuit ground connections shall not be
+permitted. Allthe electricalcircuits shallhave their own separate fuses, suitably marked & grouped in a
+common fuse box, located in an easily accessible position. Provision shall be made for min' 4 spare fuses in
+the box which shall be provided in drlver's cabin. All the controls for electrical system shall be provided near
+the driver,s seat. The battery shall be placed in a totally enclosed box. Radio suppression of the electrical
+system, which is sufficient to ensure positive operation of radio equipment without interference' shall be
+provided. Arrangement shall be made on dashboard opposite to the fire officers' seat to fix a mobile wireless
+set. power supply shall be provided from vehicle battery. Mechanism shall be provided to charge the vehicle
+battery from external power source'
+SUPP ARY EXTI NGUISHING SYSTEML4.
+t4.L
+Two
+Drv Powder Svstem
+Nos. (One on each side of Fire Tender) of 50 kg capacity Dry Chemical Powder Fire Extinguisher (BlS
+16018 marked) shall be provided at the convenlent position on the appliance' Dry Powder extinguisher
+system shall have 10m High Pressure Hose with pistol type discharge nozzle' The dry powde
+-'r-
+r vessel shall be
+fitted with expellant cylinder (3kg Coz BIS 7285 CCE approved) for discharging the powder. The dry powder
+containers shall be electrolytically treated for anti-corrosion. DCP (ABC Type) shall be BtS marked as per BtS:
+1"4609.
+74.2. CO2 Svstem
+Two Nos. (One on each side of Fire Tender) of 22.5 kg capacity Co2 cylinders BtS : 1601g marked & CCE
+approved) with hose reel (heavy duty) of 15m long high pressure rubber hose with discharge horn on each
+side shall be provided.
+15. FITTINGS & ACCESSOR!ES
+Following accessories shall be provided on the appliance:
+a) Two Spot lights in front (Hella / Equivalent make)
+b) Two Fog lamps (Hella / Equivalent make)
+c) Four Blinker type traffic indicators (OEM supplied)
+d) One Removable type search light (LUMAX / CANARA) with 3Om cable & tripod stand.
+e) LED Light bar min. 1200 mm wide with Aluminium Housing and max. 90 mm height with Blue and Red
+lighting shall be provided on top of the fire vehicle.
+f) PA system & Hooter of pHtLtps/ AHUJA/ GRAND make shall be provided.
+g) Blue & Red strobe lights shall be provided on both sides of the vehicle. (One between the doors and at
+least two on the sides after the cabin -On both sides of the vehicle). These shall be of the high intensity
+type with regular and intermittent flash pattern. Orange/ Amber LED Flashing Warning Light shall be
+provided at the rear side of the vehicle.
+h) Tipping Type Ladder gallows shall be provided on the roof suitable for fixing a 10.5m heavy duty trussed
+type aluminium extension ladder. The design shall be such that the ladder can be released By ONE
+PERSoN oNLY without difficulty from a reasonably accessible position and the person are not required to
+climb on the roof top to remove the ladder. The laddergallows shall be CE certified.
+15. ACCESSORI ES TO BE SUPPLIED WITH TENDER
+SI Descri ron
+1. Aluminium Extension Ladder Trussed type L0.5 m
+2 PVC Suction Hose with Light GM Round Threaded Couplings to suit the pump tnlet - 2.5 m 4
+3 Delivery Hose lS
+Marked.
+636-2018 (Type-3), lSl Marked, 63 mm x 15 m with GM couplings tSt 1.2
+4 Suction Strainer for ltem 2 1
+5 Basket Strainer for ltem 2 L
+6 Breaching controlled GM)Dividi 2
+l Collecting Breachi GM 2
+8 Pair of Suction Wrench universal 1
+9 line ( 50 mm circumferenceLo ene 30mlo 2
+10 Short line ropylene 50 mm circumference, 15 m loo ng 2
+1.1. Hose Bandages Rubberized 1.2
+1,2 Hose Clam 6
+L3 rant Valve & Bar ) (Combination Set)H
+1.
+14 Fog Nozzle branch with low pressure licator with Head t
+15 Hand Controlled Ma Branch 1.
+16 Universal Branch Pi t
+17 Revolvi Branch ( Revolvi Head) 1
+18 Alloy (fitted with Nozzle of 12 mm, 16 mm, 20 mm & 25 mm) tSt
+Marked
+Short Branch Pipe Light 4
+19 a
+b
+c
+mm suction female screw coupling and 63 mm male instantaneous (GM)
+female instantaneous 63 mm (GM)
+Adaptor double male instantaneous 63 mm (GM)
+Adapter for 1,40
+Adaptor double
+2
+2
+2
+20 Nozzle Spanners GM) 2
+21, S La nya rd n with Carabineer & Hook 10 Mtr each 6
+22 Hand held LED light with Recha ble Batte 2
+23 Flameproof Lam useful in sence of lnflammable Va ours of Gases) 2
+24 First Aid Box for 10 Persons t
+1.
+1.
+25 Large Axe with thick bamboo handle
+1.
+26 ade with thick bamboo handle
+1,
+Pick Axe with thick bamboo handle27
+1.
+28 Crow Bar
+1.
+29 Sledge Hammer - 6.5 kg
+1.
+nter's Saw - 60 cmCa30
+1.
+31. Hydraulic Jack - 1"5 ton
+1.
+32 Fire Hook
+1
+33
+1.
+34 inbuilt in cabin - 0L NoPA
+0135 Bolt cutter
+5
+36
+flush mode without shutting-off the flow. lt shall have superior design of rubber grip, twist
+shut off from fog to stream and provision of teeth to provide dense fog. lt shall have a Control
+Lever for ON-OFF position and a 63 mm size inlet connection. A pistolgrip handle for better
+e nozzle shall be hard anodized to prevent corrosion and wear. The
+tsoPerrUnst AsonctXtE ud Coeded Lof AIN ezl hS be a loymSCo H Hnd td oz chteuM ti U rpp
+na wided aht fogstra ngleforaveh isttw ab sprayGOWP Itrade. haS6443 pety
+id tJe &to tefa oSa h faave Fogclt sh ope3of ba5 r lityta low reUnrati effici nte pressope ob ly
+r003 PML fofo et ndaremo hat 500nnda d aschnde ed ntlmus nIta eo o rgepen vusly
+nta e rowt Thhe oh rizonreb5 a Uress800 @ pischd a caeS mco ned itybi rg pacp ray
+ove totois fon chr ailha have rovs ngeItra ress reU pnu 35md 5-6at bsti a h a be ro pa
+grip shall be provided. Th,
+weight of the nozzle shall not be more than 3 The nozzle shall be CE certified to EN15182
+337 Multi Flow Hand Held Nozzle shall be made of Light
+64430WP Grade. The nozzle shall be hard anodized to prevent corrosion & wear' lt shall have
+a twist type control for Straight Jet, spray And wide-Angle Fog. lt shall have arrangement for
+selection of five flow ranges from 350 to 900 LPM by twist of a dialon the nozzle. The
+horizontalJet Throw in stillair shall be around 35m at 7 bar pressure. lt shall have Pistol Grip
+handle to provide for superior grip controlto the operator. lt shall have provision for change
+over to flush mode without shutting-off the flow. lt shall have a replaceable spinning teeth
+ring for generating a dense fog curtain, a ballvalve type handle for shutting off the flow and a
+63 mm tnlet connection as per lS:903. The nozzle shall be CE certified to EN15182.
+Alloy Extruded Construction As Per ISO
+4
+li
+ha en 'eatBdSeht ctf nt ingot eS SA abMraD cott/ ighnMa fau uct re ikeRe d geutep
+itS ae trCAre orb comnnder ith no Se pom so aite paSets hwit CA nbo cotU p cylraAppa
+fa& CCtod NE 31 7eb maCE rkeUSS e hasofn 86 itre 300S baofr 54 m dn ratu io predn ecy
+-Na Ufroed cm CESlve h abe rov otir eind & Sit' aAtEN 63 CL cvlm task ,o 3/l
+38
+239 Fire Proximity Suit made of DUPONT NOMEX fabric with coat, pant, gloves, hood, fireman
+helmet and boots. (CE ma
+4PYROJET Fire Hose with lnbu ilt Jet Curtain Nozzles flow 900 -63mmx15m40
+1.
+41 Petrol Driven Positive Pressure Ventilator ) - 16" Size - Engine of 5.5 HP, 16" Fan Size,(Blower
+17,000 m3/hr, w t : 30 kg (appro to be supplied with ducti17 bl
+1042 Fire Retardant Dangry free size from reputed man ufactu re r
+1043 Fire men Helmet as per BIS from reputed ma nufactu rer
+1044 Firemen Gumboots - Pairs(size-9&10No.), 05 pairs each
+2445 chPloves-06 eaI rsaa& estosb HaS dn GbbeRu r ca atLe herNVAS,
+02Foldi stretch er46
+o447 Fire Blanket from reputed manufacturer
+0648
+0649 Life lacket
+0150 Climbing Rope(30m) Nylon
+03Rescue Kit set51
+1052 uality (Free sizeChemical hi
+0453 bee suit, high qual Free size)Hon
+1054 Reflector jacket
+0255 Door breaker
+-.9-
+!.1
+il
+Tool Kit
+control jet,il
+lpm
+LPM)
+ir
+make
+lt
+lt.
+Life
+56 Mega phone o2
+0657 Full body harness Combination with Sock observer safety lanyard
+58 Rescue rope 60mtr. Nylon 02
+59 Carabineer "D" Shape (SS) 10
+60 Tripod and winch system for sever/ Deep Rescue purpose 02
+61 Fire Entry Suit Free Size from reputed manufacturer 02
+62 Foam making branch pipe 5X &1OXwith pick up & connecting tube - 02 Nos each o4
+63 Caution Tape in roll 02
+64 Barricading Cones 06
+65 Chain Saw with 04 sets of spare chain 01
+66 Rotary Hammer 04 sets of spare bites for drilling & Chiselling 01
+67 Chipping Hammer 04 sets of spare bites both chisel & Conical type 01
+68 Rotary Rescue Saw 04 sets of spare blades 02
+69 Reciprocating Saw 04 sets of spare blades for wood & Metal each o2
+70 Mannequin (Half body CPR) o2
+71. Spinal Board (Back Board) 01
+72 Cervical Collar 06
+73 Hacksaw Frame with 10 Spare blades 01
+lT.DOCUMENTS REQUIRED AFTER COMPLETION OF ORDER
+The following documents shall be submitted in 2 sets:-
+(i) As built drawing of tender,
+(ii) As built drawings for tanks,
+(iii) Flow diagrams,
+(iv) GA and cross sectional drawing, characteristics curves &other details of pumps,
+(v) As built drawings for installation of PTO unit,
+(vi) As built drawing for electrical circuits,
+(vii) All inspection and testing records for tank, pump, PTO, piping, vales, monitor etc.,
+(viii) Three sets of operating and instruction manual for the tender.
+18. PERFORMANCE GUARNTEE
+The manufacture shall guarantee the design, material, workmanship and performance of complete unit for a
+period of 18 months from the date of supply of completed vehicle. Any mechanical defects, faulty
+workmanship or operational defects found during this period shall be rectified by the vendor at owner's
+premises within reasonable time without any extra cost of DEPARTMENT. The tank shall be warranted against
+leakage for a period of 5 years after supply in writing.
+19. TRAINING
+After supply of vehicle, vendor shall provide free training on operation & maintenance including chassis at
+DEPARTM ENT/ owner's site at the time of supply of vehicle for two days.
+20, DEV toNs
+There shall be no deviation to specification unless agreed by owner in writing. ln case there are any
+deviations from the above mentioned specifications / tender documents, the vendor shall give the same
+separately for the scrutiny of the technical committee. ln case there are any valid deviations, these may be
+considered by DEPARTMENT. However, the technical committee of DEPARTMENT shall have absolute power
+& may reject the offer without assigning any reasons whatsoever.
+2T. WORKMANSHIP & FINISH
+The GVW (Gross Vehicle Weight) of appliance shall not exceed the rated GVW of the chassis manufacturer
+with all equipments & crew. The weight distribution diagram shall be submitted along with the offer failing
+which the offer is liable for rejection.
+22. PAINTING & MARKING
+The entire structure shall be prepared by grinding the welded surfaces, priming the finished material with a
+zinc rich primer & then finally coated with a two pack epoxy based paint
+{^
+22.L. SurfacePreparation
+once the paneling is completed, all the outside surfaces shall be painted with a good quality paint system,
+like Du-Pont, PPG, Standox, etc. This shall be poly-urethane (PU) based paint with a life of minimum 10 years'
+The bidder shall guarantee fade resistance of minimum 5 years from supply even if the vehicles are kept in
+the open.
+22.2. Vehicle Exterior Paint
+The complete vehicle (all exterior surfaces) and monitor shall be painted with at least 2 coats of zinc
+phosphate primer each of 50 microns DFT (Dry film thickness) and two coats of polyurethane finish paint
+each coat of 50 microns DFT. Further improvement on the paint may be carried out by the manufacturer
+beyond that mentioned above, to give better protection & surface finish. The color for the outside shall be as
+per the latest international & lndian norms for fire brigade vehicles. The user name shall be written on both-
+sides with yellow color'
+22.3. Water Line Paint
+water lines shall be painted with of zinc phosphate epoxy primer each of 50 microns DFT and two coats of PU
+finished paint each coat of 50 microns DFT. Water lines shall be painted red in color'
+22.4 Details Required
+The bidder shall give the details of entire painting process & also details of in house painting facilities like
+paint booth, etc. The color for the outside shall be as per the latest lnternational & lndian norms for fire
+brigade vehicles. The user name shall be written on both-sides with yellow color'
+22.5. Reflective striPes
+Reflective stripe(s) shall be affixed to the perimeter of the apparatus. The stripe or combination of strlpes
+shall be a minimum of 4 in. (100 mm) in total width and shall conform to the minimum requirements of ASTM
+D 4956, Standard Specification for Retro reflective Sheeting for Traffic Control, Type l, Class 1 or Class 3' At
+least 50 percent of the cab and body length on each side, at least 50 percent of the width of the rear, and at
+least 25 percent of the width of the front of the apparatus shall have the reflective materialaffixed to it'
+22.6. Marking / Name Plates & Owner's Emblem
+All the lockers/ cabins shall be provided with stainless steel Name Plates with letters itched on it boldly
+indicating the content. Owner's emblem in original colour together with name (in Hindi and English) as below
+shall be written in golden yellow colour on both sides of the vehicle.
+22.7. Other Miscellaneous Works
+The inside of lockers shall be painted in pale cream/ grey colour. The chassis frame shall be painted black and
+wheel arch shall be painted grey/white. Under frame of Chassis shall be painted with chlorinated rubber
+paint. The appliance shall clearly have the following marks at suitable locations'
+1. Manufacturer's name & trade mark.
+2. Year of manufacture
+3. Pump serial numbers and capacities.
+4. Capacity of water tank and foam compound tank in liters'
+5. Engine and chassis number.
+6. All instrument control & valves shall be identified with properly itched metallic Name plates'
+23. ACCEPTANCE TESTS
+The acceptance tests as mentione
+Vendor shall ensure that design of
+acceleration etc. All inspections &
+DEPARTM ENT's rePresentative, whr
+,d below shall be given to complete satisfaction of inspecting officers.
+tender shall not affect chassis parameters such as speed, turning circle,
+tests shall be carried out by the vendor to the complete satisfaction of
+o shall have access at all reasonable times to vendor's works. All testing
+a ra mete ca rri man m detail to ra nce
+tests shall be offered
+shall be borne bY the
+vendor. The vehicle shall also fulfill the requirement of RTO as per BIS 10460'
+23.1 Pump test
+The pump fitted on the vehicle shall be subjected to various tests as detailed below-
+(i) The pump with its all fitments will be subjected to Hydrostatic testing on a pressure of 25
+kg/cm2.
+(ii) The pump shall be run dry for a period of minimum two minutes at 2000 rpm to'check the
+integrity of mechanical carbon seal. After this test there shall not be any leakage of water
+- 11 -
+through carbon seal
+(iv)
+The pump performance test shall be carried out by running the pump at constant RATED
+RPM and measuring the discharge at various pressures.
+The pump shall be subjected to endurance test for a period of four hours continuous running
+and pump shall deliver rated output of 4000 lpm at 1.Okg/cm2
+During the endurance test the water shall not be replenished in the cooling system and the
+temperature of the cooling water and engine oil should not exceed the manufacturers
+standards recommendations for the continuous operation and engine should not show any
+sign of stresses.
+During the test, water shall not be replenished for the cooling system as the temperature of
+the engine oil shall not exceed 1500C or the engine manufacturer rated temperature for
+continuous working whichever is less. The engine shall show no sign of stress during the
+period of testing.
+(v)
+(vi)
+23.2 Stabilitv & Gradient
+Stability of appliance shall be such that when fully equipped & laden, if the surface on which the
+appliance stands is titled to either side at an angle of 270 from horizontal it shall not overturn. The vehicle
+shall be tested on a gradient test ramp at an angle of 1:4 as per BlS.
+23.3 Endurance Test
+The pump shall be tested (23.1 above) for a continuous period of four hours non-stop & the water shall not
+be replenished during this test & the engine shall not show signs of overheating. This test shall be offered at
+the pump manufacturer's workshop prior to shipment. The testing charges for the same shall be borne by the
+vendor.
+23.4 Priming Test
+The priming shall be tested as per the latest standards & the system shall be subjected to a test at a suction
+of 7 m. The priming shall be achieved in less than 23-24 seconds.
+23.4 Articulation Test
+The vehicles shall be tested for articulation & shall not show any signs of stress during this test. The clearance
+in the wheel wells shall be checked for tolerances.
+23.5. HydraulicTesting
+Allthe piping shall be subjected to hydraulic test pressure of 15 kg/cm2 for a period of minimum l-0 minutes
+The pump casing shall be subjected to a hydraulic test pressure of a minimu m 25 kg/cm2.
+23.6. Shower Test
+After completion of the fabrication, the vehicle shall be subjected to shower test as per the norms laid down
+under BlS. The appliance shall not show any signs of leakages during this test.
+23.7. Road Test
+After completion of allthe above mentioned tests, a road test shall be carried out where the vehicle
+shall be tested as per the parameters laid down by the BlS. The braking, acceleration & top speed tests shall
+be checked & recorded by the inspecting officers.
+24. INSPECTION
+3 Stage lnspections / test of the above Foam Fire Tender shall be carried out at fabricator's site by CISF Fire
+Wing representative & management official as per details given bellow:-
+L't Stage: lnspection of Manufacturer facilities, Inspection of chassis, lnspection of material for fabrication,
+inspection of under structure, Water & Foam tanks.
+2nd Stage: Placement of the water & foam tanks, fitting lockers, pump & PTO.
+3'd Stage: ln Finalacceptance test/ lnspection (PDl)shall be carried out in accordance with above standards.
+(i) First Staee
+a) Review of mill test certificates and co-relation of raw materials used for structure & body
+fabrication before start of fabrication.
+b) Review of approved drawing used for structure & body fabrication before start of fabrication.
+c) lnspection of frame work/ under structure (for cabin and body) for soundness of welding and
+fitment of chassis, Water & Foam tanks and dimensional check.
+(ii) Second Stage
+lnspection of structure, mounting of sub-frame with meta-cones and proper foundation, Fitment of PTO,
+Hydraulic testing of water & foam tank before mounting and their dimensional check. lnside/outside
+panelling of sheets. Hydraulic testing of pump before mounting (Pump shall be hydraulical
+t2.
+ted at 25
+kg/cm2 for 30 minutes and during tesu no crack or leakage shall be developed)' Hydraulic testing of pipeline
+and their dimensional check (Pipeline shall be hydraulically tested at 15 kg/cm2 for 10 minutes and during
+test no crack or leakage shall be developed). lnspection of proper installation of pump, tanks, piping with
+supports and their dimensional check. lnspection of fabrication work, cooling by pass valve and pipeline
+leading to heat exchanger, and suitable connection for its outlet, while checking all relevant parameters' All
+tests shall be carried out as specified in the specifications or as per relevant lS whichever is on higher side'
+(iii) Third/ Final Staee
+Testing of accessories/ equipment mentioned in Annexure-A, lnspection of proper installation of pump'
+tanks, piping with supports and their dimensional check, four hours acceptance test of pump of rated output
+at normal and high pressure, maximum rotation of the monitor, angle of elevation and depression' Testing
+of all other normal items of equipment, fitments, accessories, light, fog lamps, search lights, revolving'
+blinker, spot light, rear warning light, as per specified standard' Testing of duty points of the pump' including
+deep lift test, road test, braking test, articulation test, gradient test, etc', when the vehicle is fully loaded'
+output and throw of monitor, throw of side line with water and prepared foam separately' testing of
+priming device while working from open source of water supply'
+25. TECHNICALPRE-QUALIFICATIONCRITERIA
+(i) The manufacturer should be reputed and shall have a credential of fabricating and supplying a
+min. of 20 similar fire tenders for the last 02 years with Corrosion Free Extruded Aluminium
+Profile sections, sub-frame system for Tank Mountings & Metacone Systems'
+(ii) Manufacturer shall have experience of minimum 10 years in the field of fire tender
+manufacturing. The manufacturer shall provide Po Copy in this regard along with offer'
+(iii) The manufacturer shall provide complete technical details including drawing, design and
+photographs for the 150-6063 Aluminium Profiles in case if the bidder offers the same'
+(iv) The manufacturer shall provide complete technical details of the sub-frame design and
+metacones. Further the load calculation for selection of metacones shall also be provided by the
+ma nufacturer.
+(v) The manufacturer shall provide a letter of authorization from the oEM of Fire PUmP, positive
+pressure ventilator, Nozzles, Water jet Hose, Ladder gallows, Hose reel, HP Nozzles confirming
+the availability of warranty and after sales service to department after the supply of product'
+The letter shall be addressed directly to the Department /Organization only' The quoted Fire
+pump shall be CE certified to EN 1028-1 and 2, its subsequent amendments, EN 1050 and ISO
+1,41,21..The CE certificate mentioning the MOC of the pump shall be attached with the tender
+documents without which the offer shall be liable for rejection' CE certificates of allthe required
+CE certified equipments shall be provided along with the bid failing to which the offer shall be
+liable for rejection.
+(vi) The bidder shall provide complete details of UL Listed Monitor including the drawing, UL
+certificate, Details of the DC Drive, Catalogue and all the relevant technical details mentioning
+the features as required for the monitor failing to which the offer shall be liable for rejection'
+(vii)A complete set of drawings, like general arrangement drawing, load distributlon diagram,
+drawings of the tank(s) (if any), shutter and drawer details (as applicable), wiring diagram,
+hydraulic circuit, and power transmission through respective PTO shall be submitted along with
+the bid, failing which the bid shall not be considered'
+(viii) Bidders shall mention make & model of all offered equipment, and enclose detailed technical
+specifications/ literature/ brochures (in English) which shall be annexed with proper references'
+Bids submitted without supporting documentation shall be rejected outright'
+(ix) Compliance to technical specifications is the essence of the contract' A clause by clause
+compliance shall be provided. Any deviation to the tender requirements shall be treated as
+technical non-compliance & the offer shall not be considered any further'
+NOTE - pDl clause is mandatory & to be incorporated at the time of indent of above fire equipment' The CISF
+representative for inspection/PDl shall be detailed by Fire Hqrs
+TJ6I lut4
+lT-
+fuil-qE-n {mr{ Awefrqg+ fu+qn{
+l^(4\'
+i-\
+ANNEXURE-B 
+SPECIFICATIONS FOR MULTIPURPOSE FIRE TENDER  
+MULTIPURPOSE FIRE TENDER WITH AERODYNAMIC DESIGN  
+1.  GENERAL REQUIREMENTS:  The agency will fabricate the Multipurpose Fire ten der of Aerodynamic Design (as 
+per Technical Specifications enclosed ) after procu rement the BS6 compliant Cowl chassis make of TATA 
+Motors/ Ashok Leyland / Eicher or equivalent (Simil ar ) Chassis, shall be minimum 16 tonne GVW and if not 
+available in 16 tonne GVW the same shall be selecte d in next higher GVW, but the chassis offered should  be 
+able to meet the  all technical parameters requirements as per our NIT and the appliance shall incorporate rear 
+mounted pump of 3000 LPM capacity, a water tank of 5000 litres capacity, a 500 litres capacity foam tank, 2X75 
+Kg- DCP tank, water cum foam monitor mounted on the  drivers cabin, a CO2 system of 22.5X4 Kgs capacity 
+with hose reel, one 10.5 meters aluminium alloy ext ension trusted ladder. However the detailed specs o f the 
+appliance shall be as per the detailed specs in following chapters. 
+2.  SCOPE  
+2.1  This specification covers the requirements reg arding design, procurement, fabrication, testing and supply of 
+Multi Purpose Tender to be used for the fire fighting. The scope of supply shall be inclusive of, but not limited 
+to the following; 
+• Chassis 
+• A centrifugal type fire water pump 
+• Power take- off units for driving water pumps. 
+• Foam compound tank 
+• DCP system & CO2 system 
+• Water tank 
+• Round the pump foam proportioning system 
+• 3200 LPM capacity foam-cum- water monitor. 
+• Hose reel (35mm synthetic  hose with nozzle length – 50 Meter)- Normal Pressure 
+• Hose reel high pressure hose reel of 30 mm (30 meter length )  
+• Body fabrication 
+• Accessories and spares 
+• Piping, necessary control, fire hoses etc. complete. 
+• Cooling system of indirect type with open circuit. 
+ 2.2.     The cost of BS6 Compliant Cowl chassis to be included in offer. 
+ The vendor shall be responsible for supplying all e quipment / accessories and properly fixing them on t he 
+chassis as described in the specification. Other de tails and requirements which are not covered Under the 
+specification, but may be necessary to complete the  multipurpose fire tender and / or fulfill the oper ation / 
+performance requirement shall be provided by the ve ndor who will be responsible for the design and 
+construction of the complete appliance to the full satisfaction of the owner. 
+2.3  GENERAL.  
+The Multipurpose fire tender including all accessori es shall be designed, manufactured and tested as pe r 
+relevant Indian, International Standard wherever ap plicable.  All the equipment and accessories shall be fixed 
+on the appliance in a compact and neat manner and s hall be so placed that each part is easily and rapi dly 
+accessible for use and maintenance. The centre of the gravity of vehicle shall be kept as low as possible.  
+3.0  CHASSIS  
+3.1 The Multipurpose Fire tender shall be fabricate d on BS6 Compliant Cowl chassis of TATA Motors/ Ash ok 
+Leyland / Eicher or equivalent (Similar ) Chassis ( Minimum 16 tonne GVW and if not available in 16 ton ne GVW 
+the same shall be selected in next higher GVW). 
+3.2  The Chassis shall be capable to take gross vehi cle weight minimum of 16 Tonne.  
+3.3  Engine shall be capable of developing power 130 BHP at 1900 RPM.  
+3.4  The chassis shall be supplied with standard to ols kit and spare wheel assembly.  
+3.5  Chassis shall be complete with standard featur e and accessories provided by the manufacturer incl uding the 
+standard tool kit supplied by the vendor.  
+ 3.6  The vendor shall confirm that the proposed TA TA / Ashok Leyland/ Eicher or equivalent (Similar) Chassis 
+(Mnimum 16 tonne GVW and if not available in 16 ton ne GVW the same shall be selected in next higher GVW )   
+is capable of taking the pay load indicated by the vendor and shall be able to meet other duty requirements.  
+ 
+ 
+ 
+  Any restrictions on performance of chassis, obser ved during execution of order due to increase by ven dor in 
+pay load and other duty parameters shall have to be  corrected by vendor in consultation with Management  
+and chassis supplier. Such correction shall be at no extra cost to NTPC. 
+ 
+4.0 PUMPS 
+ 
+4.1 WATER PUMP  
+The Water centrifugal pump with automatic priming dev ice shall be of any standard company. The pump shal l 
+be of normal and high-pressure type capable of deli vering 3000LPM@ 7Kgf/cm2 and 300 LPM at 35-40 
+Kgf/Cm2. 
+4.2. The pump shall be capable of delivering minimu m 3000LPM at 7 Kgf/Cm 2 at delivery outlet.  
+   Vendor shall match other parameter of operation with reference to Engine of chassis. 
+4.3 The pump shall be capable of taking suction fro m: 
+• Water tank mounted on chassis  (In normal condition) 
+•    Open water source through flexible suction hose up to suction lift of 7.5 m, with the help of 
+automatic water ring primer.  
+ 4.4 The pump shall be rear mounted and shall be ac cessible and readily removable for repairs and main tenance.  
+It shall be driven by the chassis diesel engine thro ugh a power take off unit and propeller shaft. 
+4.5  Pump Casing shall be made of gun-metal, Impeller shall be closed type and shall be made of bronze. The impeller  
+and casing wear rings shall be renewable type, The pump shaft shall be made of stainless steel and sha ll be 
+fitted with antifriction bearings. The pump shall h ave self-adjusting type mechanical seal, which shal l be 
+capable of running dry for minimum one minute. 
+ 4.6 The pump suction inlet shall be so sized and oriented to facilitate suction as per clause 4.3 . 
+ 4.7 The pump discharge shall be routed to: 
+•   4 nos. outlets (on rear side of vehicle along wit h control panel) each fitted with Stainless Steel 
+reputed brand make IS/BS marked ball valves and ending in ISI  marked 63MM, Stainless Steel  female 
+coupling fitted with stainless steel end caps. 
+• Foam-cum-water monitor fitted on top of vehicle. 
+• Hose reel of high and normal pressure. 
+ 4.8 The strainer should he easily removable for ma intenance. 
+ 4.9 The pump shall have a suitable box type suction strainer made of Stainless Steel. 
+ 
+5.0 PRIMER:   
+5.1 The pump shall be fitted with independent primi ng system made of Gun Metal. 
+5.2 The automatic water ring primer shall be capabl e of lifting water up to at least 7 Mtr. Depth (Suc tion Lift) at a 
+rate of not less than 30 cm3 per second in the suction line. 
+5.3 The auto primer shall work satisfactorily even if it is left dry for a long period. 
+6.0 POWER TAKE OFF UNITS 
+ 6.1 The power takes off unit for water pump shall be of reputed Make Iike VAS/SYALL/WEBER or equivale nt, The 
+PTO Shall be able to meet performance requirement of pump. The lever for engaging & disengaging PTO shall be 
+provided in drivers cabin. 
+6.1.1: The Vendor shall submit a sketch showing the  arrangement of PTO Unit for taking power from main  engine 
+chassis to water pump. 
+6.2 The drive assembly components (shaft, couplings  etc.) shall be dynamically balanced and vibration of any 
+parts should be minimum. 
+6.3 Necessary support for PTO Unit, Propeller Shaft , Couplings, and Universal Joints etc. shall be prov ided.  
+ 
+7.0 WATER TANK:  
+7.1 Capacity:  5000 Ltrs. With additional 2% expansion space. 
+MOC:- All in SS-304 
+7.2  A calibrated dip tape shall be provided on the tank to measure the tank level. 
+7.3 The water tank shall be fabricated out of minimum 5 mm thick SS plates.   
+7.4 The water tank shall be of welded construction and shall be suitably stiffened with angles / flats so as to 
+avoid buckling and distortion. 
+ 
+ 
+ 
+  
+€:* XF&SiSI ****Y., llt' TFJ }ry $ t # YPS {5 }, i**13*, n ?: e
+'7.* T1* ter:* sh*ll r*ye *elfl** c? rr:inirr:lx 3 r*ri': t*i*k**s$ s{Jilably s*pp+,"!*d. ** as t* *u*t*
+'!val€i Surs'ili: du* t0 mrvement +f ';eh C:e
+7.S Tar,k shxJl 1:* pr*r'i*** wit* a*tl"r,*r':*x d*ti** =i i*e $+:31* f*r o'":np suelisl].
+7.? Tr,** lJ.**., *f i-rp*=ii** m*r:h*lsa *l 5** t:.:m sire s1*11 b* pr*vided cn t*p *vilh a Hing** a**,
+brll able +0rer viJitn siJ:iable gashsi
+7.* *uils*1* lif:i*g :*g* *lall b* pr*vi*rd ** lh* lan:k *hell t*, ****le il, ia ** Eifted *lJ 1l=* u*hl*tgf*r
+r*p *,ir*:, re'p l,*;*t7t**t.
+? g lhe:ar:k =l* l r* fttiec ygith a slrdce :r;p 'ih€ bcttc*l sl ln€ lank sh6!l h.3\'e a i rGht s *p*
+toivards :he sludge traB
+? g 1 Ti1* t€nk srrali raue a :learring rra'rn+ie hcle ci 25C nm Ci* lviarthsle shall be fitted ',';:tn
+5*x*: *r*r*piB*,+iti: l*l mark*d **le Vaiue.
+f.g ? Tar,k s*,**i* *e .x*Lr*l** c'r:r +h*s*is ir': * *a**er. ke*pi*g i* 'u'!*s t** pr*p*r i*ad di=trii:":1i**
+.s* lh* AEI**. ?ar:l sl*ul* ** re*isngular in **ap*,
+?.S 3 Th* ierrt **ail b* s* mou*i*d a*d b*lie* as l* bring i*e ***ter of gravr:1, cf th* aFp*ance ac
+,c?,' a5 p*ssilie
+? 9.4 A C:,;:tal v;sLi&l ',.r*:ea le',,e1 ind:CatO"Snali be grsuiCeC rn the dri,!.e-S cAhin
+?.*.S ll":e la*k *t=sll *e ;ttied with. overflo-ii pi*** *l suila,crl* 'jiar**t*r sr:d ihe *i**harg* *::r* *hail b'e
+l3k,** ia*rn **l*,-.; t1'r* ei':,*=*i* r,vit3*i.lt red;ci*,g tr":* effective gr*:":=d *:ea,i=*t* *lt** "'**i*l*?.*.* A e*it**llj pr*teeied waler level inci;c*:*r *f the graduel** gl*** lube *::*ti i:* pr*.:ided c:ts*
+l* the **,rrtr*i par*l isclation val.;e shall be pr*vl**d i*st *fi*r ti':* ts* *f ssint rr,e=. +.*e 1e.*l*.
+iank icr in* l*uei ;ndicator
+?.*.? T*e tsr,k *l*.:! ** fili*d Ey r***r1* el *uilabty si=e'l ini*t lin* lr*g:: pr*s*xnzed hydr**t *'t*ir*. 4
+***',63 r*r:r:,' ** ir*i*nt*r;**1is mal* *c,-ct*t*;'$ i'-l? ** r**r s'ce anc *n€ *:1 eacF' *i** *6
+{*an"rJ,*,*t*r a***Bri shall b* **nrect*d 1* 1t':* iii;i*g li**. T** i*l*l ir-** 
+"'ciiE 
+** tr..,'?',C*c H:h
+*.til€bi* l{FV's .
+; 1t Th* r*nr. s\*l: be *t1leS wrlh cn* f rl ,:! or:f ce Ti',* i:ll;.rg er:irc€ shall bB on ncl '*Es :han lSir
+mm drarn*ler sn,l Ehall b,e fttec .&ith an i:rsBerliot n-,anRcie on ihe ts* oi'*eier tark
+?.11 g 1** ::",n: d,i* pi**lilr* sl*all be i*ter fi**, th* 1a:"lk ?* tl't* s-.1:{'* inJ*t *l tr* p''*mr
+rncor'*erat ng €rr.'1ucco make SS ball ,,el,re Separate,",alvei 3l f6, p6ncrming crf;ere:!
+i**#i*;': sh*il ** pr*vided l* c*rrtrai the fi*'-t *l waler.
+?.aZ &li rT+==,i** *J t*,*a shali h*'"r* *r.rit=*l* l€;ra*r***r*r':t p**=. ?i:* l=r:k =h=il l:av* *,f*cusi*ll
+tsr;eC b:saiiier
+?.13 A :5'*,r*.i *i= pip*tir':* xill b* t***n fr*rr 1a*k t* *u*ti*r1 ir':l*t *l p**. p :r:c*rp*ra:irrg *nC Ausco
+mak* SS Bali :'a q'*
+**per*i* satve {5: {*r p*,rl*rn.ii*g difE*rent fr.*r:*ti*:"rs shal ** pr=vi**$ :* ***tr*i ti:e flt*- e'
+rval*r. F,::y *i ?l'* f*li*,,r*i*:g *p*l*li*::r *t'th* iir** *l €me,rg***! ***ul* ** p***ibl*.
+' TPft;TanK ts ourtp:c reels;
+' i{,FG .t,hy*rani tr: Fump t*raels'i
+* itft t*ysrani ts rrels]
+s TPlul rTarFi tr pitrrp t0 m*n;!crl
+e PTi Fr-mi.= it tankl
+r Cll fr separat* EaJl '-'e,ve ci SS lci p€rlrm,ng lrie funcli.:ns $ha{l De f,rot'ieed
+e.* r*Al* T&a{,l{
+S.1 &f*s*: {*{:l}F*ilrld i**k *f *** litel* nei caraerty shai: i}e ?abr;cated o'*l sl 55-394 p}*les *f
+tx**itrts* S *t,re t:hi,=*.:**,* & *t t*p. ?-.,.+ Sl *xf*rr*i*l't *p*** =ita::1 
+** pr*',+i**d i* t** t**k *,-":,*r
+ar':* *,**=* i***: .***',:p*l:** aap**ily"
+Th* t*** stiall ** *f wel**<i .*ns?r*clioil a*d xhali *e *.;;t*b;y siiat*fi** v!'it* E* a*gJ**Jt:at*
+:: as lo F'{e'i{ Lur"iling and Cls'.ol:itn
+fhe tank shalt have baffles oi 3nm thickness. SS-3S4 p.lates so *s io avs;o .iialer surgrrr;
+d;e tt m:vemenl af vehicle.
+*;ri**l* }i*i*g :*g+ =*a:1 L'* pr*vif*d +n ::* la*k *h*iJ t* e*,4*',* it t* *€ trft** *ff t** rehi*i* .:=r'
+repA, f $; rep.lAeei1'ie.:ri AS neCe$SAr!
+e 5 Th* tar,:l.: cna:i he litie* witi. a *ludge tra: The t3llom *f the ia*k s::a ! rA'.,e E slighl Si.fpf
+tsr'*ar#$ sl:-idge i: ap
+11 r
+*.3
+r+r il:ErH8fl qale u*lue.
+H,*5€ ftf€L $y$T=tj A siafid*rC CO: efi"ripft*at ,.r y 2i i Hn* rnfsr:Fl,,i '1.,* -h a:*L^. ^i*- -r:L s '11;a '-u;, 1 *,ai:i*=, !: Lr,!":;: :el+,t+lrlll{aai1, + ts J{.,5 a**. C{i ,
+ilJ{',} :n *::htr site *f he i:s:h:rl*i hr..rin.- nF! ,.f
+'i+*1ix : i-i'J .'iJrl-i.l'il$il:;lg :ata*+:raI+* x.3i i.}Euirahi* f:r ec', f e*d':g iirm a crfitrsl v*,.,.e shair L.e .equrrec t* be p;*u;:ea Til* c"(}r;;#;re,*uii** i* *e 'nsiellel rn th* c*c r m,fx:*:g!c *t !h sirrrr: r*.i"* ",;n ;.*-* ha.F- ar ak---.*- '* 'ta:==*,..; the C*C r m,fx::is[ *r ih str:rE lt:ke.t;,,iih st"in! bas* If fhas;ls
+*l?*:l b* iill*.1i'sith :;***,ii*d
+12. U.*nil.9r.{!.V*Jer_l F*amt
+.=
+I7 Tr,* taftk lnail b€ pr*v:*ed,*;;th 5i,lfultri-,Jra !nspcetic.n qEr,h:te wrtn hrrged ali* hcttabi* csver*vrin su{able G33k8i
+5 6 H."eather V*ive *halI b€ f:lcr.rcec f:i auirr*airc \renlin* *f foan ccfillictic$ l*rik.E g Fearr l**ei :"!diiat*".tf gracu*:et slsss iilr,e a;'*:t 
+*b+ 
+pi:viced {i*s€ t* tn* e*rt.}: p*r*i
+i* .! i*=j**i**.,,":*]-*,***u!d,:** pr*r,:.i-.f*,5 ju*1, ***. a:** :*5 6if g*i*t. r*' *
+tlr tr6f,Sf6rrin,S Fr:em f nrn.*, ,*d s.-+ dr6R.E i* :ne f*am iinks_
+*,il TGA$E PR*PORTICI{'NG SY$TSM;
+4 ,^. ,-;
+:j.::: -^:-,iiu::i::cf nl p'$f ctiiox i1f strsie.-'i s*,*jt b* ilr*'i.d*,J r-.,ih thres s**:rgs +i meier nqusy:Li' d5 r ;* *E;i & e tt - "F
+$ 1 s.uxrl e*v ft*rr :i*s-rp !ube a-ange meni tre.m +,_iri** sh*utd b€ p:e,",icec
+1S &CP $Y$ !.Fffi;
+l,i i . *rre r-x"nbsi *a*f, iCafac:y. ISF,y-=s) *f drr r,rr*der irre *xtlr:guish*r s1a!: *e f x*d +fi ie,ih*:ce oiirre:er:*cr \r,ifh a se*areie i1,ise cf"lC rr: High presrure h*se i,tifr=irf irJ;";; #_;:;pe *rd*r vess+i S,rali be itteg wttn i? rjl,s i, N [,:"*- -^;,r,;.r*.-.*
+:,E*r,nrgec *; *=- *i r*: .r,**-rl ,-1,"**".=-Jn,u-*"nl::; ;Il ffi,;#;X"=J:;; ?* #;'#:L_:ccnia'ners rhal: ts Fe* rii ar!*.y c*ai=e *r.i**irn;ytu Irui*=*ililnt!-rcrrcs.or ci,i:r,:der -;;;i;f':E .ipprCVed Anfi f,lleJ',ir:$] fiOri0-ar**n;*- ch*:ccf*rp h=<s ft.f tr'., err i Biv
+E*#F+r,*,1:*+J,a .54.,95:fi:ry::*r**:33: i:i::* ft:*ri**i;l;a:iii* +i=* *a d:*:.i*.*rl+ *d srag€ i**:p#*r;i*+,:,.:
+1* 3 -:*sa'*'ii*"t**i ***lf]*u** un +*ssel i* *,la* t* ** s-*+.!i:i** ,,*y *.** f*,b.rj*+1*l *t li1* :tir::* *iCelrr,erul 2"* gla*e rnqi:*r?ir*
+1,*,
+=*'= .J 3 f *.,+r:*4ri irr*s*,* u*,-r?.".*;i,*"1.'ii:i$;;11r;il'X??,=-l:-ulXf *XfjT-, =u*P,g,e "r',; ar.J *hal, hav* tr* +f:. j!als :ertir;;al,+l ,+ Cif, N;_;;.t?'4 :n??j:tngu,ishef sha:r rt lrr I'l:,"tec i,tl cirlI*-"-i"-"0 sh*,t be f,lre,t v;i:h j,:lrj*"r,F,*
+Une l'#at*r c,.rri i**m rncrito; ifall r* pr*.!,i,:ed -rn ihe ttu al sutle1,le i:,Cal:Ot. t,i:il caF c.il2Ct lpn" *i rveier ,G ? {3,'cr,".: ;"u li.,r*:*n*lr 
+=* .-i-u"- 
+"nf 
+iliu*.=,ng r.}ic*Ur. 36L. ,nh*rie*nrat *i*ie +?iu .n -.!io ,n ver:irat pr*** 
+"ti"-i;;tG; iu*g; or 60 F"4 ,,r.,,*rer; Th*de:silcC ;pe:rilcSi,tr *f !*r* tdrniicr" ,n *= ,*d*..
+'i* mm
+Eerrel +i searr{iels heavl- prp* G.,:Rm*ial srvrvel gcrnl iGeer
+liSe: f:r Rli:zirtai I uenicai lTlei;e.r manL*J *p*r*rrcnJ}L*:+ Q*1*li*ir
+E:3:E1.Fif 3.A**rS,'Jg*-"-gJ.#"J-rfSaA{*}f qtf 3S.17,:*
+:: *1=vati*r: {ili8 a+?q8.i,ici
+l+
+}1
+f*{*t*r:*l *? ***$:r*=ii**
+i vle cI tsoarn use*
+*i****;g* *ap**ity
+i l"ir*!t Cl i flgiea!1j
+**rie*,*?*:
+&*l,f i8*li$Jt+tll l€***!,H ;.
+At- F iiA i t- Fcam
+1#*t*r. *i*. ?* *:ir*. .
+'F*am :-*ir:. *5 :"*tr*.
+13,+ A**Y ?Y*rA:3 1 Fres$ee leclrcr sf sr-:f,cier: $tre.)e:h sheli be ls*dfcr super s:r'Jctur*
+i 3.2 *xt***r*- l**d*r {35 f1.l *hai: b* m***t** ** **iia*l* gall*w* tiii*d $ith i*i}*r* a*,*
+***,ig,**'3 1* l**jli:at* ***y =:":* q*l*k r*rciel 6i th* iad.J*r" by **E i?:,*l: lr**': 11* r**r ei:he
+ian*ar
+13.= l,l+ *,*rt *i th* ***'g**** sXaij r*du*e grcund cleara*ee *f 'r**i*i* i* 1**a 1*8*** *rrs.
+The, n,ghest *?rt *r tn€ appliafice v*ith lhe ,acde' ari :1*nrt3. mctjn:ed +r i: EhEll ftct erc*ec
+3 €C F"llr !:xn'. lhe grour.ci le",el The widlh of the !.ehicle ift rfady corCttio:1 shail ngt exDeeEJ
+?.5 i::q?=,r=. ?** c*r:*tru*t,i*r: *f *';F*r sl:"l:rt*r* s,h*:lj **l I**u{* t** **gl** *? *ppra*cl, ==?+tr
+3l riegree
+13.4 & ra{tr*+lig* *irip*s isl s*al; b'* allix*d t* th* **ri::":,*l*l *t l*,* *:tr,*,ar*i1":=, T** slrlpe cr
+C+mbrnai c,r *i strpes shaii Le minirn',m oi4:rch itCrO mr:"i In l0lai &iijln
+13.3 F:*'gi*j** *h*li h'* r+*d* t* =t*r* l'*'* r':i*. B& s*ls in th* b**k re=i *f ti:e *rlv*r, :ffi=*r
+*$* 1,t* *.*,* ***t€ ,+!'it+ sriitabi* *la*:p* a*d bra,:k:*l= '**,i:t:re th* BA s*':s tsinsie ai'ir:ier. s-,;':
+r*st *rri sh*il **t bs k*pt ;r': * &arrging t*natlrt:l
+LATDEft GEE.LOWS
+*ali*l,** *h,all ** pr*vided t* *arry 1*,5 *'rir *lurr:!*ur: *l!*3 V*st*d l**-*,*r**r:i*r*:::ng t+ *lS
+T*+ d*=ign shall b* such lhat tt":* 1*dd*r *an *e re1***e* l+ithr:tt diff:cul!: lr**': * r***Gila=ry
+*e***3ibl* p+siti** € *i:*ll **r**dy r*ll*rs t* al:*€ *a$y'r*rit**r=,*,-*l b}' *** r***
+****l** 3Y5TE**:
+lraireet [eo:rng t-vsten cf :pen cir:iirl :,.rtre:nr,sisi'nE *i s=e:ial r.:eat exeirangerc shtsl b€
+pr*rri*** t* **xble *;11 p*r<*r oxtput d,*{*g fl'nl* *Fr*:.*ti*n wilhaut &.*y ,*5;11on *i **gire *"*
+PT*. *ai:**l* fauges soth fci eccling '.ry*ier & t*b**ating sy*t**: sppr+prt*t*ly r**rk** ,ti:i^
+t.r*r*.:*l *p*r+li*g ter:ipeiat-*.'es shaii xe s*i6*:y pr*viri*d €n i**al*d ** i*strui:1*i!l *ar:=i ::i
+*r:vin,g **ffifa**e*: & dupll*at** *n pum? *p*ratir:g e*ntr*l p*:":*,1-
+14' 
+?l?1?J*;-d rLin"rber oi loc!..ers shatt b+ cesigned s.rch that an erther sise I2 Nos 22 5 m
+1**gt* h*a* +** k* ea=:ly **rc*x**el** ir *i::gi* l*y*r ,*** *{r:ipr*er':'i* :":":*y **
+a;eomn',ilcai*d Jn maxtmuf i trvc iayers Suffi;renl nLrmle-s af ioexers s',8 I hc prc?;dBC :i
+**r*,t*r:-,***1* *iJ tl,* *qulpm*rt:s+'a****s*ri** i* a* *a*ily ac**ssiute rlaniler
+a2.* All i*-t*:r* **sll ** pr+ui**d e;iln ft*ii*r:yp* =*r:il*r $+*rs.
+1:.: Rr'lt*r a*ult*.s s*€il 'be al haii*r,v re*langular shap** & r**de lr i?: Ai*-,:iri*rl
+:a:a,e:rc**t:**+1:i* li:rtis {onflected b'l me}u= *i *la=ci* pr*?:}e=.
+:t.4 ft*ll*:" sh*lt*r *hall be i**rard r,:l]ing lype a** stt*li b* p:*vid** witb g*ide r*ijs +;'*i
+**ti.* ,*-*tl ** **?* *id** t* x*ke th*m t*r=i*n fr*e.
+1:.S R*ila: **r-ii*rs shall have lackr*g ara'i*€ry*fii* t* *r*'i€=l a*ci**nl*l *3*ni*3 durirrg
+n:tver:renf ,:f vehicle.
+1:6 Ai i-,e lccF,ers sheil b* iiilel r,,iln interflal lrghtlng ,,vhrch shajl *3 caFabl€ +t 3e'nq
+autsmatiiall.l switched CN and'OFF by:he apening cl shuliers
+t?.: L=*k*r= =,**ll **r* arranga*:*nl* f'*r **Jl-*r*i*ir:g *l ,*:*y 1€3t*. e*!*ri*g i=*id*.
+12.* $uffi*i*=t lJ*s. *f t*e**,rs shail ** pr*vi*a* f*r *1,*r*9,* *f *il ae***s*ti*s li=ieJ ir
+A=r'r*x*r*-1, *r':d fcr olher ec'rlpments rv*i*h *ra r:*ces*at}'{+r F*ar* T*nder b*? *,*t *j!en r
+F,--r-x*r*,-i. t****r* *i:alt a,l=* 1,* =r*,+ii*S 1* ****,"n*:*d*t* * l'J** **F Exti***js**ts er i*
+<* ei**"iry, All tne tccL*rs ii':= I ue pr*vi*e* *;illr 6 *:r* ttri*k, vui+anizea sy,:inei,c -ia**{ ff}*t
+*t ***,:r:r an* *p l* 13 i**h** ** thr** *id*=,
+:!:
+M
+E : -3-? S *.5 I F I 8€ $T H-.lV E]IE 1 W g.1.l*T FC { $} I S I I ? sJ ? - e
+.*,3'*' ,, ,ry5**=.#**a iel sl*I**+ *f {=:g=i *.**. *{€**I]*{i ****5: **:',b*,i=r: *i*e=: *-t ta;,r**"****Ii:
+.&uxiJlary lsan'':;'rdus'cr 5!3:3r,i!*iated ln'ru3h h!creRr ,r,,aier s.8$€ur*:g.€*u:rec f+r
+=;t+at y Sick ''g uF iiaff frrl .f[ari' lE':* ir.e ii,:lrir d*vr:* sh:ulj ificucl :1,r ltat": ai l-,* rr.,! €l
+;#&ier pr*s$ure *l j * Kg ,C*'
+*e Br*#Sed *l ttle .e3r sida 5f *re
+::: "
+:t S' l{gj*,*3.,?a=a :FrJr:rr F
+15. *fi*l$i
+t,*"1 Fe*f:*fipst*;
+ai taiit pi$ing ,r: {+em circr.:rt sh6ll be cf SS"3*e
+Li 4f b*tl "*ivce i* f*arr e+rtu:t slsii be c: AU*e * *=A* gS-:*+ u*lh Teft*a-r s*ais
+1*=n=.,, ,,.,..,. +?:*el.*if i**..,*l:*'= ** *?..,*,€,,Firy*+,-&i*g,4x +at;*g,.5,625,.sj***,:r:*urt',vhrcF ruii. **c # e*-t*t: ,,c,i:h i*si-,1 sclutirr.' trie**eler "uir,"r*j ilr+: *e *,f EsAl' Ftplr"rg shs:l bs a*signa* t* ra'** mi::imum irJssur* Cr*p and *crl,eve lhe .cquire*
+,* *'*:tre... #..{ ,,*1.,ti*fi**l+*x?***, ,6gp+s:g**#+a*..*- i*uti**#y r.eut** +r :.f *rr# rl.tedes,*r] ar*.*sure *&'*;€';er ,r: r* +ase w!1 lhe [n*e be nydra+ir:aili,"i*"i**-" l*e+ ih;;1Skg l+r::i pie**uie a*j rhalt ue ai:;e t* tr+l* rhe pressure f*r ,ninim,"rr: ? h*urs
+'i?. HQS€ ftXEL:
+1i'1 *n* **imai e**e rsel *hali b,e pr*u:ced end m*u*le# cn *e v*heie #=ee r*+: s*aJiii*+€..i* i.*F6:.:***...ffi,*+r*,,,.;4*U14 *** i* +:x *+:*,,tij* ;=*,,, , , ,::,,,: :, 
+,
+€?'* , ..? *i# :gr**rr*#***t:g:+*=**==ll,=*,: #-=.?}:ar: +.* kgrc,-r:, :: ,:,::::,
+3'?,*, *.**,j***.*.*.4,.**a=i*,*t 
+=*-.+:::.;,*+**,.t**:.t*f3.:+;i*,*.*=t:#+**,*E*,,**,.p 
+,.u,r*ga
+rie r'*Ee resj_
+.'..,..*.l $#,..F *.*:J*:**f*$$,,@.,*1*h Fi**irt€ ll***.,:***+..i,**:,= ;.,**g++j*ix*{*.:, e-i ai**,,.*?' k**.''*r,e$=*1*:'.*q*11**:*+,sir* px*-p .E-*i:,** *a*+,i.***::*=,$,:r,***=**:€+,:€*:::t*,: *:,::*u**u*u,,u*r,,u6e fr*m citi:*r slete oi ffr* ap.*ti*r*e. *-r*vel-,rg guide lev*r *r.:*tt *+f;tte*;;;;;";;;-;;frrm kir*i'rg j ?si*irr,g. f*e 14= si€$EJre H+s*-rl* sf:*I r+i b* ;;';il; 5*6tr;6a,f;*u.h
+shalt ** eS Kgl;mr-
+':e *a$drft€L r*wt-
+ee adeqr:atery iluffiinst** punp-**ere{;n3 panei s.lc::
+1';;,,;,;,:,,:;:,,,,.',.;,-1,;;,1:,,',1,,,,,,, ,,: **ili ,**f+€l*,,***lr*],:t€l::l**::*1,:gi** , ,:
+::: ,,:,,,:,::::::,:,::=,:: ::,:,,:,:,::,+*** f"l: Fl-**S1,if* g*U*C +At,,*?***.t*
+d's+ffirg*
+J.
+5
+1a
+:u-
+?f:r*atied su#r*n ,r:iet cf ,*ates #Jiftp rqEft fla*k +apC**s{t i*r using il** a-:xiiraryf*a= e+r*pu.r* p,ii'rp trU*
+ViEUai ind5c6ftj$n *h** gauEe t-rl^ €rlgiegefiert *l *f+ -"uFrq+r* T**npera*r* g 
+=ugaRFttt ndrcal*r i*r pxm:,
+E*gi*e *il Fr*E*ure Sa*g*.,}*iek *p*n rq m** vaivJ.
+Lrvel Gx4e *r F**m &,-,t'ater r**ks.
+Preming V*1,'e i+r tqate. pumc
+Sy$*+n SCf,emat'c *ieh*C a"'g.S ffst+
+*per*tin* ir*tiu*tr*n pt#e
+C**:paund Prerawe ga{,Se caltbrated as per l$"*$i f*r wsi*l sucti**
+{elv* i*r he*e r+els
+pnere:C irrsF*et** r:at* *nd ftil$h,** *ut rft*tru#i*i1 plak iE*th 4*red o*hras$ #ar*sl
+:,:::::ll:::::::1:::i:::l:,,, :: :::.::::,.:. .::.::::::t :
+i,1:,11.a..=r2g!-ii:a==.r),:]+=;..i+=
+l* *d*iti** i* t** *,b*t*, a*y *ih*r it*i*s th$i he r*ay fin* es**xti*l f*t affiei*nt *,p*r*i;*r:sla i b'e prtviJrl by tne vefico. at =*i':able iocatjoni facn lever s,rrrict. v;iu€ garjgr,
+Out:siiiclst etc sraii ha,;* identificatronS ma,Je Cft rnetal plate anO Culy riveted.
+19" ELESI$A&_E.YS3.EJE:
+All impcnenl el*itricai circui:s shal'i:aue seCarcte fuses suitanly indicated & shair be gr*upe{
+inlc a c,:mr:gr ''use t*x loca:ed rn ar aca€ssi*'e posiiien ln Drrv*r s cab an,l fitieil ,.v,th nJans for
+carrying spare iu$es. Al, tne wiring shali De drpote & properly frxed rn posrtion acd not be €xpcged io
+th* *im**?it*l* i*r F.*t**t;*i *g*:*=t h*at. sl & pt':y*i*al i*j*r1;. **nduits shal: be r-rs*c ,..".h*i*ver
+r:*t*s*ary. Y*a s*ali *ilb-*it r***g *iagr*r:l *l*xg u rih the ofer
+Al. +**.pnr**t'* l**k*rs s:.:xil h*v* :**i*rdrr*t li.g*t* **d t**s* sf,a;l be +perat** =r. ii'rs*,r:*. *i *
+m*secr $,&lic* {1,#* rr*y.: *.1 the d**h brar,J i* th* d*ver's ea*i* i *s '.4r*,1 ** lr** ?h* }**al i.c, ir*m
+OCkerg I
+Tr:e st,iic,: ili ihe Strec shall te prcvr,leo tn ihe :eit c0rner !f re dash baard {i{e*.- i,rnt le{t
+sde i
+Jwc fctr l*mps sr:aii be iuiiab,ly'ataered lc lre frcni bul::Fe- ol rhe appha:rce
+fi*u*rs* li**t* wi{* *n"*ff b*er*r, *ri either sirte shall b* fixed *ui',a*!y al fi":,* rsar *i lhe
+aptrlia.,ce rt ih wire rne:h rn si,:Ch a.ltann?r tO pr€',,eni ACC:deii:al danage b,i l:e rrr€rcen rvhjle
+moi.:rling :hE t€*k :08.
+"q :ri.kle type *att*ry charg€r shsi be pr*vid*d l*r re*h*,rqii:* tha ba!:*ry i,:'r **u A ie# p:l*l
+lar-:p :nc:ca:irrg 'r.'h*n :he Satteries are b,ein3 cfisrg6c irom an exierna! sr.:pp{y- Ena,i D*
+^ --- - .i, ^)prt v{iuru.
+e0. ?A3jiY!r{s & rySBKtirSl
+20 1 Veirici* ar:cj m:nitor shoulC bs pAiried rr..rfh 2 iTwo) csatings cf zrnc phcsora:e ec:x,,,
+prjrrer an{: l,i..J iiais ci poiy;ret-rare iinrsne.J red parnt
+;*.: Al, t** i**k*{sj*ai:ias *t'i*ll ** pr*-;ided }Eiih Etair.}l*s€ sl**i :'ra,*:ep,i*les :;r:ith l*tter it*n*cl
+** it **i*iy ir*ieati*g th* e*;:lc*t.
+=*.3 !Y*t*r !i*,*:***ld b* *si*ie* r*d a** i**m iine i* 1,s;gu* **l**r pair;t
+2*'4 e r:!ir* appli*r':ee *la!1 b* **ir:t*d i;: 3M I D:"rp*r"rt *?rlJ, *u* ,*n *oinu, ts,hade n*. 5J$ *lg'* 
+=-1978i 
+arr.J parr.i c**ic'rmir:g 1* *i3:*33'1974 *r':* l,"uc{n*rs sat i::* *,? i*r-
+r"*=i-g .S***i* e*at spr*y painti*g *n **t=ld*.
+:*.5' ?h* *,iu'r,* e,*rrp.alixar:t arr* th* irsrde leckers shalt h,* pai*te* in 5ale cr*ar:,
+i F.J**:* *f l
+I.tI uflCer i
+I _ 1++i3s,*i
+i*em* *f ****rt*ki*g iG*.*t. *f I**i= Uncenakirg;
+C**JTRAL II**L:STR}AL sE*IJftlrY FCnCE IFIRE }.'IING;
+Han':e *f *;':der 1€ki*g
+**z ***s g:ci? Ea ia#TlT,{q
+sh*lj b* *,'r:tle* in Engiish in g*rde'r y*licw c+l*ur i;: En*lir* ** **e side *Hrndi ,:n tht athei s,de ,if tle vehicle. On :h* frer:l O,, the u*hiil* ftRf TEHDER
+Enu lrsn.
+f*.* ?*a insi** *f t,** .**<ers s*all b* la*ri*at** rvit* ?.3 rni?r a+1:*+r *]x=i***-: c.***x*r**pllates
+** : ?h* *h*=si* fr*ma st1tsli be painted bla*k and rr*he*l ar*h *hali *e p*i*1*d:xl,.rit*.
+:* S li*ci*r fr**:€ *? ehassi::t"rait *e p*inie* n:lgh +hl*ra**iu-* ,ul**ip*;n:.:c s rh* applianc* slrall ha're ihe foilcir,;rg marks ai suitabl* Eocatrc:s.
+il i
+sil:ll b,e ."t,"iil*n i*
+v
+l:.
+..a,:
+,ii
+i::
++:
+ti.
+t:::
+l...
+!:
+i::
+::,
+,:.
+a.
+i::
+l!l
+.::
+,i
+* '{ea. +f 'r:anr:faciure
++ P"rn:p ggs:gl 191'![€r an.l eapaciiy
+. Capa:lties ci fcam anc wate!'tailk.
+r Engine and chass s liL!-r']ber
+. &ll i*slr*n'!**l **,rtr*: & veises *hali ** i*sl:iE*d r":th Fr*p*rly :ic*** *:*?*llie
+*^*--l^t^^
+2*. e&&is.i.-*€Ei$Etffi :
+fh* r*liG sti**t*= *f spplian** in*l*ding th*t *f ariu*ra *-*,bi* **lJ,* *e ***:***
+sti-;t-re r**** *f 14Jl* *lVS i'SS pr"e**** s**1i**. aq**r* {,*bes arrg:*s at6 ehal]nel$
+'.*i:h +b:1'::ir:ir.rrz1 par,*:i*g, ?he +*reFiel* ..{,S *lr**a*:* ***]i Le =j** plat** *'r:* tt1*l}
+pa;'ried with etnc rreh primer and epoxy parnt f *;'b*ile;'c*rrosroft !"eslslafice.
+21 .1 Tw* {z**t a*a13* +** {*r +f'c*r and ane fcr driv*r shalt be pr*';ideC.i* l** **#-. *r*
+$s*i fi:r 5 *r*,**"r*x**r* sl":al'i ** prr,*i*** b*li** l*.* *tli**r *i:d dri'":*r ,s**:*. ?**
+*eais *h*i1 n* of go*C quslity anc ]ate$i ***ig;: ib**i{.*l *f-* a**lt x;il* 1** *rz lhl*k
+crshirns Alt* gctJ qualili 'ej.iroua::e arrd';,'a:hable seat co'r€lt srai: be prou'e*c
+.21 2 Th* +*bi* *h*uid lar.'e i*ur d**r* it ***l: *:**]. Tl:e ***r *ial ape* =rll'"i';r*s*abin docrs sh*li *e pr*vii*c r,rittl strli*l*r pr**f **f*ty ela**es a,*d *h'all *lt,* r+
+*r*ti*** v+iih !h*ir **,r*r::*rl m*t-*1.sft.
+:1.: Iirsi *i* **x x*de *l fi=regl*ss *l-:all te prlvr**i **d fite* i* if:* **bi* al *u,it6,*l€
+loceticn for 10 cerscns & crnl*nls as ser The Fa.:ter es A$
+*1.4 H**-*}* l?*p* at*p* **d ra,!s:haI be pr*tid** *: the *a*il'r t* assisi th* !r+i!*"!,s=b*r*
+ln fiFri in ar':d out
+?t 5 Fr*vi*i** **atl bc r-n#e tc !:or€ ivic ,"t':. 8.n. a*t* i:: t*e b*rx r+=l *f 1l':* #ri1.*:", *fi:c*t
+*rr* tl:* ar**, i**t$ '.+'it* =uitaii* *l=*':p* *ni =r"ack*t= '.{**l* t** *.5. **1= {*'fr*r*
+eytin*eri shsil resi a*d *h*l] r's: be kept i* a h=rrgi;':g *.*'x,Citi*'*
+21.* T** *r*?r *abin stn-*i*r* shell be =c designed s,3 **
+vibr*ii*r'rir*,*li**,i'lel*$yratl*- ir': t*,* i!'ile*'J*d rJ*a** c,< ve**k.
+7a -7 Trn",* nu*r*er* *l larg* s** vie*rs afid rear vrew mirr*r$ shall b*
+t* a!,*i* ai':f
+p,*Yided *{:! e*ci1
+?'i fl
+?1 1fi
+..ii^ -:,uct
+Tie artiire i;oa: cf the cre',v oaLhift shall xe nr}'.'rde$ wrth 3lv1-make v':r:!' rniit iig r'
+r* i n i *::,* r*T **m ti rirk **sg r,vith a *ir-*i<i d i**i *le *
+*a*.i* *,**il *av* *r:* r**f light a-d l+r* *;**Igf'i,*
+Tne Faneling cf vehrele shou:d be done frgn: i6 S'"fuG aluminlr:fl checueiec p,a:e The
+l*p *f fl**r Jri*r:k ***il ** pr+v1,**d witl: ?.* *1r, thrck alum:rum ,:hequ*r*e!
+=3. 
+*?*U*TU H.EJf &&i**rff**H ;
+27.1 T*e *ir,:*t+:*,,'iran":e w*rk *n ch*ssis a{,,* tt*1*; e**l* ***}l }* *l :."*id** ****liu+t"ri
+*r.:* ry:a** ll**': 3?r':m x 3?*:n: x 1 3 rr*r= i*i1*r"' *tS =tre'" B"rt cr a:c d siar-:**
+be*p,',*** *a*h h*rir*ntal *r:d v*rtical sguare **ali be n:sxi*r..*r 4** mls
+22.* Th,* **,tire r+*l *f i** ,,,*a'}lil* i*el,;dtr:g lh,* =r*r! *Ebin :*p, e*tir* .*ar. *r*ei **:hi* !,**t,
+l**k*r ft**r *** *i**= *h*li h* n:**e i:*,x 3.**":*': :hi*k st-:**l* *l l*3 *** s,h**a= sfall
+be ballel ',+ the frane for ease in remcual ot the taftk ior recarrs
+=?.3 '*u*i*p fiAKe a-ti-';:*ra!i** r**b*r r-..r*r.r** *h*11 ** pr*r'i*** *-'*:le x*urtirg :**
+tar:ks etc. of lne chassis
+??,4 Al! lig*t iixtures $hair b'* adeq,;ately pr+te*t*d *y Fr+vi*i*:* *.l:i, r*v*rs *r *il':*r **:t**l*
+eleffe.lt
+3?,5 Fr*,p,*r dr*i*i*g arrar.=gem*nts s:a;i ne pr**ld*si *z tl:* *,*l'ire r*'*1, *l*w,:abi* a**
+i**i*,e tl:* l**k*:S.
+ZZ* F.rea ar"*urs the mOniicf *perAi.C:1 SIA;I De prcviceC,..jrtn 1S S'o'o'G anfJ:Ee &
+aiuminr;rm chequef*d piate i'ft additicn :a imn: t-4S shectsi end shali be orrisd t3 ihe
+16n:,*.
+22.7 Ine r**f *l the c**i* s**,*ld b.* rigid +*,**gh 1* t*ke l1:r* v+*ig*l *{ *i,,* f*r**** s?ith**i
+any dsterrorat;or
+"*3?-* "t5 { F r R F*HEE. I y FX-?"I }tr S I r*_I F.E".[g } / S I 1 2 G 1 ? : &
+3?.* Fr.*p*r *****s i*dd*r *-it* Gr*b r*,is =nd trn*ckd si€ps ***'l ** pr*r*i*** !* gi';*
+$**e** i* t*,r r**1.
+3: * &c+*** *x** *1:1* ****lfu*l*d i **vsred b1, non-slippery *1*l*ri*i **alJ *t *t*,.lide.J
+wl':ere';er s',eps or ladCers for cl:nrbrlg aie lccated
+33.i0 *t+r*g* rs *CP *nd CO? cylirde:s bottalx =ia',es and *,Fara siar-i*?rJr* *,h*,*i* **
+r :+i+r**,*,-.sil* *:ir* **gi* ir** {ra*:e.
+c*. *"Er{g&*r, ry€qgJ* sExEa
+l-re vel:iel* shaii c+nfc'n: in aii ress€c: ci iile pro,r:srcrs €crtarned rn the Li V Ati 'if88 ar:
+l*.",J. E*l+s 1*** *i io *ny *tl*r *:it,..rie rT':aCrfi*ati=ns o, ,*-*nac,**ltt's t**.*** ir**-: t;r':":* t*
+tir*e. rlll ii'?€ ***l*=eiit necessary far R T 0.'s *l*ar*n** sh*ll b* pr+v:*** ** v,**ie1*=
+&SCTPTANCE TESTS:
+-
+?h* i*fi*s,ri*g **.*Sta*+* s*ali ** ,3lr** :* t** ***tpl,*?* s*li*$a*li*r *t l:i1* ::sar *rrith* l arJ
+*xtra *.*r. ?h* ***ig* +f th* tender s'hall b* such tilat it shatl **t eff*ct 1** ***E*rs
++h*r**:**elie t* *pecjried by th* ,:ha:si* *:=*-faet*rEr s**h at *,F:ead. l*.*jn* *ia+l+.
+eicelera:ior€iiasF€rl$':C450-1963rRealirmed2010i 1$'35*-?f,r2crrelev*n: tS
+fgSElE*3.} l* *dCi1i*.i t* ti?3 ic*i l* sfteck lne purxp fulflll$ tn* rsq,*ir*n:**lg laid *+*;r' ,r,
+ihe F*n'* ep**:ficatia*s tl're *ur*p s*ail run rcr f*i.:r hours {+ntr*r:*i:sly *** x**t th* duty
+p*j*ls. &c*,*,r*i*glir, duri*E ;he tesi t:rs ,vate'i:-: ti:* *16ine ';,**lltg *ysl*m shsl] -tt sx**** t**
+nr*xir*,**-: i**1tr*rcaure *l er"tgin* l**ricating sil shai: not exc€ed tn€ fii*xi*'!,.Jrr: a*fiFerciur*
+r*+*r**'t*,*,**d: :b"'r'tl":e rair;facture ar:i the *:':gi-e s*ail *h*'*r r:* sig'l-: +9 dlsir*ss.
+ttxs$euli*,E€s-r Ql Pu l$f ; :
+Furr:p si':efi ** i'iy.*ra*li**,ly t*$ted a1 21 kg;'r:m2 ?*r 5 r,'rinr:les *nd dvri*g l€ea n* iI**k *l
+l*,x**g* s***1* b* **,cd*Fed,
+*El"*.8"81*S.!:
+?h* pria::*r ie*1 *hail b* **rri*d ai;t r*il* a v**i*,*i lift *l *"r*asut** trorn the water feve; ai :n*
++*nt*r *i ***li** ey'* *l the Fu*-:* ir": *rd6r 10 che;k the fulfillr*nl cl lh* r*q,*ir*,ri:e*i i*i* *,*'*n
+i,= prim*r *pe:if;c,*ti*r*.
+ra4sEauir,odEsi:Esl "
+?h* i**r* **n* li*,*s ir:duct+r selrclor ;el'.'t anC lire fo*m n"oriiier u+ill *,* *e*t*d i* =ali*fy tl*
+p*rf*rr*a,*** .**u::.*.r'?*r1ts ss p*r *ur *p**ificatia*.
+E*AUIEEIEi:1 Tt:**gh t1* **f*ffi***e *f the appli**** i* r:=d lest ?yili m*i*iy d*pe*d *= ths eil*rn=
+*** *h***i*, t,1* f*11**,v:*g pcrl*rman+* i* th* r**d lecl'r$:':i *e desrrabl*
+,ii] & :*a* s***d a{ ?2 kmth c. level !r*u,:* **ali be r***iiy **tain,a l* re'it,l' lhe *pp}ianee
+l*ily l*d** ,-r'i:h**l irail*r.
+iilt Th* acceferaiion silail De such lhal wrth
+appli*;1** c**i? *tt*in = *p*e* *f EC k*ih
+msxir,:*:E tirxe *f 4* ***cnds *rr * sm*cth
+s r{aril': rur:*ing **gix* . ahe l*liy l€*en
+fi*r* *l**dirr6 s:a* thr**g* ti:* g*,*r* :*,
+rcsd in l!:a **s* *i *ia**l *xgi** *r:';*-
+!'€nial*i
+isl T** =er",r'i** ii**t *f*r*t** : br*a*in* *y*ter: =hall ** s**!: as t* *ia,p ihe frliy l3*E-
+*rplix*r-.* r*ithin *x {,*-? :*e +*iGt *i xhi*i t** hr*ak :* ap+ii=* ,-:rl** lrauelin.g ai 3?
+kml*r *1*r:g * l*ve} dry r*** . ?i1* .**** bi*ak system sr6il be G€psr e *i **idi=g th* lrr:ly
+l**** .**pii*n*e sl*l;*n*r. *r = d1'*u:fac* gradi+nt ol '! t* 4 *:**r in ::*ulral g**,r.
+.M
+I
+*?&S:}L*?Y:- ]e
+*:::::jl!:v ?l .h: *p.tinnce ,r,iil garn cepenJ *oth ci: tne cr*ssis a1d iaerrca:icn of rhe bo.cy =ne:*s.,i.*l*l m**l lak* g*,*d c*'18 t* **l**l *,ssibr.'ti*n *l a*e l*** ar"r* keep ttr* ***t*,r *{ graui:y i* ;o*;: p.css,ble Th* s,.i i3bi i1'., 3J the applran:e shall f,e s*.* ti.ii t*-**i t;t,v"equin*e; ;;J i;,}*!;icnlrticn nclucing cteit End ii ths sut:ece o,r,,r,hich tl"e aFpheir,:e starca 'ii,ri#i- -no-r rii*. taJ30,rt '?i ',vhiih creriurr,rg rr{r,s rs i*y:r<l th= angle ,:t s*'j*gr€e i"** t;e n*i,r*:.:uj
+,€?t; .".f1* i5,$1.lxs1n. *f l'*e appli*::** s**ul* p:*,..i** **i?**i* fa*iliti** iar **f ri.,ing *t3t *llit* l**i sp*ciii=,I ***u*.
+2e sEAqE !ry$rrcEtsN$:
+T+c; *]ac3'.':i** ir,*pe*ii*r:s i i**t *f ti:* **.*,.,* Faam Fir* Te*d+r l* ** *arr:*d *u? *: i*bri+€t+rs'r..c,ks L,.r lhe rnsFe;:rn! sff:ce.s iCISF & fuf*r:agementl
+i. E*?-*i3sq:-
+!rsp8!{ion cf struciure mountin,; oi su*frame'#i:h nlets;cnss ans prcper fsilfidaticn Fitmenr of FT0,l{;+di**ii* l*sti-* *a *'*t€r & f+a]x t*:.:,k b*f.=r* :::*l":*ti*g. i:*=i#*;,*r.:1*i** p*r:*l+*g ,*l g**rt*, *v,J:r**?:r:*s:inq tf pun-c ce'*re rr-*untirg testtng cf prpelne :ise*:t;+-, *t fa*r,llt,u.'"Tro-"t"lor;;n d; #;;r'ral'+e *i:d gip*ii::* l**#:r:g l* *s*t exe***g*r j.c su:abri l*nn**rini tu, it* *uti*1, pr*l;*=:ni,1, tu*: otp+i?*. ,*r*ri{ir* *f tr?*,, iitr=:*nt *i prl-+r, irhiie crec<ing *;r * *r;if*r***t*r*
+'i. 
+$ec_a.sdlEr$l $lcgs:-
+T**11** *{ a:*e***ri*s i a'q*ip*:*nls r**ticn*.j :n &*r'':exi;ta - ,a.. i*:*r i.:*urs ill-:r** *:*i:,$ r*, }.lp * :hsul for FiF seelran: a€;eptance test of r,:nrr oi raied cutrJr ai lirniai ,..riogn?-ullr"*,"n,ur,,nu*
+::_t.1T'_:: 1** n:-*r:.i:*r. *-gi*.=i *rev=lrr:-'r"* iur.rir;;;-:;;;;;; *i ** *i**r:-:*rr**r ir*n:s,*r
+ll*:F:::*.f;r, it'ma*l*' *Yi.^-jil= ligl:, icg i**1rs. ;e*rcl ligr:i:, .i*orrin*, ;l;-;*r.;;;;'r,*ii, i*n','#ar-!ng l,gr:t BS cei lpeurf,e: s:3njsrgiestrns +f duty .rojnre ri.Lne p"r-rp ;nctJci,1. f,€ep lrf: iest, rcad test b,rakirg:est r.",hei ihe vehicte str:;iv: t*a*** *:*lFLr ssd *=rax *f **n;:*r,'ir:x*;". ;;;i;;- 'liri J**#'*n* p,r*p*r** f*are **p,ar*t*r"uteslifla cf pnm;,ra der,ce ,,'rhrle v;:-king tcn roen ,;;r;; .; -rri-, -iep,y
+?;:*?r-*?i=r:: ,*,*,*k *r *.,***+ *l**ir*,*i;** *+*k i.*r.1i:* g*i*afi** *i t** ***r, ir.rert.+*r=:G bc{+1 *p*r$ti+g ***:::f"*t +:*int*'*:*r":** pr+*edurs si:i;r ** iu**i**.tn* ***ii*l'J*]i;**t,r** iji**trat** s**r*-*a:*:;e "v'i,iE rel:'eilee nr-nbe-S nr al. lh+ ,uear;np OetS.
+i*r#.H -::1T*=:j1+# 
+i*s=+*ti+rl $h*.i *'e i* *e**rd***€ i* is i*4** '**h*r* *ppli*a*t* *** *,* **r
+*; *+** t*at,
+*} *t*bitily- t*st.
+*] Pr..:*p t*,*1.
+e*i F*r:r*r t*st.
+el Fc*m ie*t peif*rm*fice ani i.an]g
+3$ **lF*'Fl*&?l**lJ* **a4*HT* E=*ur*g* FasFrr vsnI**R
+Ater ea+rplst cn cf crcer ihe'cl!r'r-'rc irformat:or: ,' **eumerls shsll r.e suppf;ed by vei:dori. ,r+s buih drawing cf iende r +"6* us :uirrJ'r?u cr !*ei
+::
+::,
+1::
+:::
+::
+:::
+..
+.:::
+t
+::::
+:::::
+Ei
+::.,
+:ta
+.5
+F:3 IO,LF I FIR E DTE, / vE-Ir I Ws / NTP{-{,$)J 0. 1 1 to 1 7:n
+,i As br,;itl dralr-ing ()l tafik
+ii1. Fl+*; dia$r,a{"r,+{ thc appiian*r
+i+ A.s buili irewrng lor rnstatratron c{ iTC Ln !
+v. Drawing lor Fo-am-cunr-!?ater Morlitol
+vr L:n* diagram fs,r ei**tyicel *i1q*its
+vi Dr"a',vrno 8 data for Fcanr Inducl:cn Deu;ce.
+,;;;1 {.r*S* eiti*n $,A.1#ifig6 Chafe,:t*ai$1$ {rr.i**,,4't]d slhE. CSlaiis fcr water pJft'rp ar'I Iis 
+'l
+Fr+;ci 3i'r rr! SyS:enl
+ix A+i,:r.:*3*et:+rr,& lasting l'**oadt ic:; !6.1k5, ptrill$:S, PTC,= *:lir';g. '-*'*'1',;ts li1:*xl'i$' *'"{
+x Tnree getS :i cperatrng arfl ttl5trt,,:llon ,llanti&l
+36 EENERAL pq0tTlOIS= rp:R TECHtllp+ryHlF-H cF..i:.n ci lraref Bi-11g, 3 7::; ...:'i
+' pa!'t!es to attach LF & Hp purntj data 9i]eels mase drru EEi{'v"
+t;;j:JJ[?iXi'r rn*,.., showrng ihe a*ar!.Eerner,r or Fro un,r {or 1si;ns Poiv*' *';a i',,i
+enstne o| chassrs to water PUmP
+I?ffi.Je,,g".1:al.si.i}i.i.!:,].ki..:.,!af5l.]ip5id.prr!+rrr:.alcei.iJ'-l.:i*]i:
+Un,rl llrr a **.,** +iii'fi;i"n= ii." ii* *uru"*r-i"*Fi!r *i *t =6h:{i* }=le+ts :4 3"r:! ir:}i :'i::'
+.*+trilis'i by th* verdsr's t*Fres*!1tEtiu" nt J;I'"ioti il ff* erra {43!' ls '**nsg*i?etr:
+18 .QUAI-iFICATiOI{..CFITERI*: rw,se:he o:iet +."'r :'u
+Th* bidd*r *hould pro'rrffEfffinE detarls st*r"r*'*t'rih qiJclal}sr ;' +tl:!€
+'t=c r':t*c ''dr*a:]** 
+{il*++it,*id*a*ti i**empi*t* arc1l_ r€€r. a*ih 3!*e i:n;
+i, fjau a*a*. shell sr.ibi'ril th* iay**t +l *ppllan*e ;-.rr* .€s, <xtin**!.-€iE
+'t*.kers, trrnlp p*n*l do.;;';#;;;' uii"t gallows' 1'iatet e*d i+a*t tartx '
+frre be I fl3sr'*r 3rJ a l:Shis ...3n i--.nii r.:y | -
+i Th* bi*{er =lr}tl s$*t"}lil t*e di++*ing ind:+atin$ ih* fab.rcaiic* t*{ali5 $J tc;*:*r' l+arx {a:ri"' f::[* i':-'i
+csli*€:ti'3'n. prr*u pt'**i +ic ':**r:n3 3!'s!ery'; *|*il:Jttt* *i*ic *i+l'1:1lli*tl+:* '*l=r:ii:='3r ;'uirlfi3 ':''-:
+s*a'e pan'5 
+a r*=*$r:;*rl *'qa*tl*1'l9n **c pLr:l:,,q :-:':t;::'i;'J'"' ''::i
+3 A:prured copv of punrp workrng detarrs fr311
+l*.t-n"iost iiansier Farl culars f:oi'r the desrgner
+*n*unO ;16":3rtl!r-!'i**3:6 c*a'i! ** * J'r: ille* 3 l'i - I
+4, Teihrica,l litsialtlre p*rtai*i::g t'*' trri'"n*r' PT*'
+'+rlh o'd 
+lac"':-'' 't':n cetS s th'i: ?e t j:alrti?'l
+5 Ti:e eidd*r' ;h*'tlld h*!t* *$tablish*'tr iab::i**ttctl
+6$uonrrttnereferencellstofcUslgnrerlpr*ierasi.,,Go':Esta:,.shreni'"jniiei:1e:S:il{i|:;:-|:'J..
+Sugpt,ed I -.-^r ^- ^r !r
+?.J*t*1h#s$tag*:in*pe#iensh3'lbe?u:::dbytn*'*t:''et*nt;lrves*f?'ta-:3er:r*trtan'r?;5r"rli":'r
+;;r;";'}il.; rhe mr:ti:*llv e*c't'enient da!e5
+f9*j***Es.ss*IF€.**ehF*arrrF;r*;*Fder{Cc.r':br[*il}}ali*cf'*ci.*e:j.,'jt:.l1i.;':.:.i:i-;
+ts*.es**ri*s $?e. & **r,r?,*1*iir*#1*u.*9113li.rut*r u* th*.lls$$i* &',.r th* *':{e=:*i1i:'*: ii':::' :::r
+suita*ty iixed in Fc*jt$;j;;;;ii-*; |*pl i* :*ii*ui so a&*r suitabl€ i*{8:r3':'ai *1 tr1* !*li:'j:
+=t*cuiialrr*irgs 
+*rall*Jt;*;;;#a *?ur*l'ou]*i';our: ** s*tr*le' iti rai:: tvr:* '1 +:: t:::':':i.:i
+shafi be lg 166r'ked \iliI'\{, riv
+\il*
+i'ir.,.,,!
+!/ :l
+,:!,
+5
+s.r{ I
+E:3?S*5 1 f IEE DTE, lVfTTllr/5 INTFC f 5) I * I I 3S X ?:&
+tt*m& 'aln, ttnqtt, l.rr
+l. i f*se.! -l.i
+1
+;--*+rser -*:errsiryle{{=r*l }-=l=r1l$+l!*ll:tg_E" iFl:ii_
+l*t:,Sii'] ll*:41=i f:tl** y;:th I4* r::i* Su*ti*r:
+th* **upl!*g* *h.**ld =*:
+fl{ ^^*
+A-ld .+lli* DC SFe-ated 'Grar:d r4ak*' blil.ker ';!ht hsr i3i" length) *rth P .c.
+Sys:€n', fice H,3o:sr !riih r.Lil,f* tcr*S Str,:*ie bg *rt,ridec cn tCp:f ttre
+vehiele !oJ:t1 flrm s"tppoil a1C ftSSgnrll} Shall f,e i:ovettd rvrlh S S grill
+,lqselgtr shg!:E_gEirab e fi*,:r f:.,:er_,r.q!!l - 1 _tr{***a}ly *f*.=tsi Fir* **ll il5* *"'xi Jitred *n rc+l *f c*br-.
+I i J r'.{a
+, i qi":rnn ia!,€rcir, ; -;;;;;*t t!-B # 
+-, * - Jr}-r€r co.-n*eief i:...............:.,it r:.,... ,.-..,-
+i i j *A;€lp+te=s**t ]i*ni :tj!l*qpl=t *! *q itt qi;terr_'qti "--* _
+lil_:E=rstr+;=.=qnqry er*=aFirt,$LJ? *ntr'r**'d:----i *"r+::i r;l*;:*. j t{*r,rd e*.ir*tl*,ri n*'1-asprr*t,ng aqua r+,;,,f.:a,* it;tt -aattts **ytr:t s,itt;j*tl--:*1E;t- '
+lselc:l-r!-lq.|e:g silp - - ' :r -r i-- : 
+,
+t0 I Jur,.o: ,#ater C,-rrtarris ,S S r
+. ,,--_ :a::'- !: :tr
+11lr*rt*3:*bail*rgGF.*rai**Fx*i:*a*dresEe.-l
+I surlable capac,ty
+C,:inpr*ssee a'r *re atr,ig S*i L;S^.i .rrs,!ht ie8a, ,,,tres .€ia:.rry i*1,. [2 s*r + :
+tac.nlarr€* Srea:hrng set il,{OC;l :yirnjer Car*,:r: f,sriFosr:e fibrel tliih *i:ra rcs sFare 
+I
+*ti%a',a;i i L vE*i llu*rirj *'lrujt rx :},?:iJ1; j€+nalt{ *tittvely**+* * !}J,lll- c?3 I?:tre ll:
+ibeeirrg lSl 1,4€rk on each efi!:h dr,ly blni r"riih lSl marked couptrng 22 E
+-- -: fqqe_qqup t.|s lrsltJ_l_ti{,
+Ji : -S1:elir* Sl:*i*sr -l_4I xr:: si:=* t;:itl: r.:XV i ioc-; .r**'+e *.* as p*i lS 9C7 jt nos
+1*. ,i **etr,*.* '*Jr**li:e*, l**!* i*i+*nti*nil * r.r.,;v*ts*L: f,fi 14* mm suc:i*n
+rnSE is F*r l$-.*f+3
+ii'i n*r
+?*" fl? *ne
+. -:.L
+at .#irnr,:g 
+r$ *. ir 3* =irs 1*n*it'1 '"sitn ] r :n4€
+*r:* $,1*t*: *:*i* *,*i i*ri:*!e ;**cll**s
+iill mafH*.:
+l5: *3* ?gp*
+?hc **=* ar:*
+NOTE": Any otiriiaceessory r.rct inc!uded-;bove , wfr;e f=,r:ale ia* applia**e n:*re ct{i*ieEt &
+i i{*telelte&q i*.#eg;ryg:ltl te be i**talled *n the l*ax ljre ?**der
+3*.* b: sf&**s e*-.*-EE€**1ES ?* €8 $uFf ilE* ysiril 
+=,**lL.ft** TEi*FE*
+u ' tlif
+; rril* **v*rs
+M
+r*ff<
+s,
+3 *t str€r*s irr *B:*,nd*d b*1=,+;.
+i** ea,*a*il,j
+3. &il t**l* r**r:i.*d f*r *,*r*:al r+*ii:r* *:*ini*rr**** *i **s*iiJ'*if. tin*iude* :r.l,1* *ta*d*rd l**l f<it af *ha*ai*.
+*5 **i
+rgr i5s glnrgrgC suet or hlee !i i40 -nn-, :'1*5.
+':i?':-* *1*
+Lrol-J $er
+tl* *=?i I
+i=-?*4-19*4], L*,rg+ &c* ii$ 4?78], Fick a-xe liS :ii5:f ire r+oarie lan are lS 365C $rade, Sh*'riel
+Gi *a*i:
+*.:*I*L$ f-Fl*H**?E.f YEEY.f.lar.SJ HTrC {S}l*3j3,$**:*
+Jt *{*s
+l* l!**
+l* N**
+i tfr, ...,..Ir.s=ffi:*:ll3.atas€sr qs-hqaq
+i liai* ***;r*ii** *i*xser branch lcr f,3 mnr sie* h+,:* c*rJ*li*c
+Sr, H*, B*a*ripti*r: *1y.
+J *ilS*al=*,1 '*'Fi*g c*rp?*l* sel .31 S*:
+I Glydrir'g i2 trcs
+3 'Lj'Gaal C2 t{*s.
+€ f.ia.p,hr*g*m f*r **v*r Pl=t* ft N:**.
+5 *isc**qa S*al 02 N+s.
+* k:t*t Se*l *? F{+*.
+? Pistan Rrng 02 Nos
+* ltt****::i*al **al &*ser*btv !'i $rt
+* Eush fci ounrp shai: 1 l'Ic
+t* Ecal 1'1ras*er 3ls*,k *sp Cl Ns
+1a S**li*g ftl:bbai f*r Fla* G2 N+s.
+1: 1**t**ian**:;s Couplir:g *i:bb*r B2 N+s.
+a3 **al ?vla*?:*r ?**:i*g !1s|,6 ** .$*s.
+14 *q$pl*l* **aring **t : i€t
+15 Cy, *roire assemilly 2 sels
+i1
+*r***'r fi+* l:*i'g*r**, ijG =*?: i
+Eta**- *i*.e r*'"'*]',r'i*a 5*a* -E fra1,i1 Ul I tu=
+Br*n*l': pip* l':*** +**lr*l iL***** T L:; NC-C
+L.*t+,*rirrg li** * r*p* L{anila 51 rnm , 4L1 fi lcng **vi*g I *r:S= splieed ir: & : *'1 **a.
+*'i **d :*it* * firfil:i':* I'J*=* {** : **4} i
+,1fi : t*** iln* * f*** ry:a*ii* 5'tr r:'r*"' rirc:-rxi*re*;a :c 3'] xF l*** {13 1*-341 ,t "."""""-." t:! -s!.-*---i
+1* , L*w pr***r.lrs SiJi*=*r *r**+h{t*..J *pplieai+r *rerc,ti n{ *-*:-r4 itJ>
+!:* r **t:*i-i-**] i$rte***g.s*:leri
+21 1 3*it {utrier:4= 3. 3S" * T**cria ,ra;{e
+___4* - I?:. i ,#***e* H**k **rv * Tapai'ia r:a<*
+*FAR€ reEY* L:5T r*n ffi&iliT*t*&a'{fE *r THE FIRE TrN*€*
+H{GH"LSW PRESSURg FIRE PUIUP
+LIST OF SPAN€S FOR I*IGi{ LOW PRESSURE FIftE PUMP FOR FIVE YEARS
+:1
+:,:
+aJ H**e ***ds**s rubb*r'a*d {$*e lS 581:iP*.t tl}
+:rl H.ise::la*p$ iSee lS 5612r Part ll
+r': !*i:ra+ qli*:':r
+8. *-q ful*ka divi*i*g i:r***i:i** **nicr*:ir:* t* l€
+la
+13 A*+pt*r= .=* ;:,-d*r :
+i. i*.r 1**-"rx: *iJ*ti** {err':aJ* *r.re'".", *c.upli*g * *3 n:x rc*i* ll:*1*-t*re*ii*
+ii, *.=**i* fes:al* i*sa*r:la*ecr= Fatler'':
+iii llr:r litl+e r-=l* i::*1.**1=*.ar ln n::iiFr.t
+t*,* n^*
+{ }'i *t<
+*? **.:q
+u r tlLa
+A1 **t
+M
+:.:::..::.a....:.:,:::t:t:):.::::..:.:::::j::!1=.,...:..::::.::.:::.:::La:::-:::a:.::.,:..
+,*J tv*'
+'S ,s- .'>.-.I*r"
+:, e*/-ai'+o ,Y
+.\
+tft'ear rlngs fr*n't an' rear lsel
+fOWEH IAXE GTF
+L|ST C,F Sr*AeS F** F,T'0' fOH flvf Y€ARS
+\
+tt{,ry
+l+
+G
+*
+ANNEXURE-A   
+  
+TECHNICAL SPECIFICATION FOR WATER 'TENDER TYPE- X IS: 6067-1983  
+ 
+1.  SCOPE   
+                      The scope includes fabricatio n and supply of Water tender with BS6 Cowl chassis  for fire 
+brigade use fully built with all accessories mentioned in Appendix 'A', other fittings and accessories as 
+per specification. The supply shall be with guarant ee period of 18 months for material, accessories & 
+workmanship for smooth functioning of the vehicle from the date of delivery to the department subject 
+to acceptance by the user department. The detailed drawing of vehicle shall have to be submitted for 
+approval (in 3 copies) within 30 days of placing of  order. The vehicle shall be built conforming to IS : 
+6067-1983. The tendered shall enclose performance r eports of the fire tender supplied by them from 
+public sector undertakings.   
+  
+2.0  GENERAL REQUIREMENTS      
+2.1   The appliance shall be designed to carry the equipm ent listed in Appendix “A”. The equipment 
+shall be arranged on a manner so as to allow the cr ew members to get ready in vehicle itself on the 
+TATA Motors / Ashok Leyland / Eicher or equivalent ( similar) BS6 Cowl Chassis, ( Minimum 16 
+tonne GVW and if not available in 16 Tonne GVW the same shall be selected in next higher 
+Tonnage GVW).   
+2.2  No part of the body shall reduce the ground cl earance less than 260 mm. Overall width shall not b e   
+more than 2500 mm and height shall not be more than 3300 mm from the ground level.  
+2.3  Due consideration in designing the appliance be given to the fact that the appliance may be requi red to 
+operate on rough terrain also. The appliance shall also be capable of being started from rest up a 
+gradient of 1 in 4 when laden.   
+2.4  All items, fittings and components given in Ap pendix 'A' shall be designed, fabricated, assembled  and 
+treated in accordance with the relevant standards p ublished by BIS. In case where relevant BIS 
+specification is not suitable, the equipment shall confirm to generally accepted codes and practice or  
+relevant specification of the “Country of origin of the equipment”.   
+2.5  The appliance shall carry 6,000 litres of wate r, a centrifugal pump capable of delivering not les s than 
+3200 litres of water per minute at 0.7 MN/m2 and other accessories.   
+2.6   A hose reel shall be provided on the appliance.   
+2.7  The appliance shall be capable of performing all normal fire fighting operations in various forms under 
+requiring water pressure.   
+2.8  The appliance shall be designed to be as compa ct as possible compactable with ease of accessibili ty to 
+all parts.   
+2.9   Lever type valve controls shall be used.   
+2.10 The water tender shall be fabricated in a manner so as to conform to the following characteristics.  
+a)  Gross vehicle mass     : Not less than 15 tones inc luding crew, water and equipment. 
+b)  Maximum speed on level road   : 75 km/h. (Fully lad en)   
+c)  Acceleration from a standing start 
+through the gears (Fully laden)   :  50 km/h in 55 seconds.   
+d)  The appliance shall be capable of being started from rest on a gradient of 1 to 4.   
+e)  When travelling at 45 km/h on a level, dry surface road, the foot brake shall be capable of stopping 
+the vehicle within a distance of 15m from the point  at which the brake is applied. The hand brake 
+shall be capable of holding the fully laden applian ce on a dry surface gradient of 1 in 4 when in 
+neutral gear.   
+f)  The appliance shall have the following overall dimensions:   
+  Wheel base    : Not more than 5m   
+  Turning circle (dia.)  : Not more than 20m   
+  Road clearance   : Not less than 26cm  
+  Overall width    : Not more than 2.50m  
+ 
+ 
+ 
+ 
+
+
+
+
+
+g) Wind screen wipers
+h) Ti:otrs
+in any other prondnent position in driving compartrnent
+0n botil sides of the glass
+All toois required for normal routine maintenance of
+the appiiance and wtrich are not included in the kit for
+ihe chassis.
+i) Siren - Battery operated
+j) Search light - Adjustabtre to glve flood or b,eam iight, mounted in a
+convenient position but capable of being readily ilisconnected and rnounted on a tripod away from
+the appliance complete with tripod and with not less t}:an 30 m of TRS cable on a reel rnounted on
+the apptriance.
+k) Spot light
+I) Inspection lamp
+Adjustabie, mounted in a convenient p*sition on the rear
+side r:f the driving compartmsnl.
+Frotected type on wander lead rvifh plug. .4 socket shal] be
+provided in the controtr panei in the driver's cab for
+plugging in the lamp.
+Two of combinecj stop and tai1.m)
+n)
+o)
+12
+Tail iamps
+Rear reflecrors
+-C1b.in1truT**lPT:1".:"9.1":I-::1lg.}-L@
+VHF RADIO TELEPHONE: - Provision to install Standard VHF Radio Telephone ro be
+provided by Fire Tender manufacturer. However VHF Radio telephone is not in the scope of agency.
+l3 AIEfIELD$ESTRTJCTXON-MARKINC LIGI{TS :- Two such lights shall be mounted. Out of
+these. one shall be I front and the other at the rear. When switched 'ON' these Iights shall be visible tr:om all
+angles, in the air and from a distance of 6m from the appiiance on the ground. Revolving beacon ray t1.pe of
+iights shali be preferred.
+14.. F{JS-f:XE 4.SQBESS SY$EE&{:-A baitery operateel slistem with mike in driver's cab and speaker
+in the top of tlre vehictre sl"rall be provided"
+15. MA&KIN6
+Each appliance shall tre clearly and permanently marked with the following information;
+a) Mmufactures narne and tradernark.
+b) Year of manuf,acture
+c) Capacity of the pump in lir/min and warer tank in litres.
+d) Emboss the name and embiem of both SSTPS,t{TPC and CISF on either side of the
+vehicle"
+iLA{ $AE-i:-iirt=;tt
+CHNTRAL {NMUSTRI&I. sEC{JRiTY FCIR,CE
+{FrRfi w$ruc}
+SSTp$/NTpe SipAT EELASpLim {€C} 495s$s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

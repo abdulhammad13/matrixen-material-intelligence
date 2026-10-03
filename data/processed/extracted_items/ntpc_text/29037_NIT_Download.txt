@@ -1,0 +1,668 @@
+NTPC LIMITED  
+(A Government of India Enterprise) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIDDING DOCUMENTS 
+ 
+FOR 
+ 
+ 
+"Burner Management System Retrofitting 
+Package for Vindhyachal STPP St-I (6X210MW)"  
+ 
+ 
+ 
+SECTION – I, II, III, IV, V 
+ 
+ 
+              
+                                  BIDDING DOCUMENT NO.: CS-2220-425-9 
+
+NTPC LIMITED  
+(A Government of India Enterprise) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIDDING DOCUMENTS 
+ 
+FOR 
+ 
+“Burner Management System Retrofitting Package 
+for Vindhyachal STPP St-I (6X210MW)”   
+Stage-II (3x800 MW) 
+ 
+ 
+SECTION – I, II, III, IV, V 
+ 
+BIDDING DOCUMENT NO.: CS-2220-425-9 
+(This document is meant for the exclusive purpose of bidding against this Bid Document 
+No. / Specification and shall not be transferred, reproduced or otherwise used for 
+purposes other than that  for  which  it  is  specifically  issued). 
+ 
+
+BIDDING DOCUMENTS 
+FOR 
+"Burner Management System Retrofitting 
+Package for Vindhyachal STPP St-I (6X210MW)"  
+  
+                            BID DOCUMENT NO. : CS-2220-425-9 
+ 
+CONTENTS 
+ 
+Section I – Invitation for Bids (IFB) 
+Section II – Instructions to Bidders (ITB) 
+Section III – Bid Data Sheet (BDS) 
+Section IV – General Conditions of Contract (GCC) 
+Section V – Special Conditions of Contract (SCC) 
+Section VI – Technical Specifications (TS) 
+Section VII – Forms and Procedures (FP) 
+ 
+Section-VII (Part 1 of 2) 
+ 
+1a.       Envelope-I (Techno-Commercial) (Bid Form along with Attachments) 
+ 
+1b.  Envelope-II (Price) (Price attachments and Price Schedules) 
+ 
+Section-VII (Part 2 of 2) 
+ 
+2. Bid Security Form - Bank Guarantee                               
+ 
+2a. Bid Security Form - Insurance Surety Bond 
+ 
+2b.      Bid Security Form - Bank Guarantee 
+in case of Bid from Joint Venture          NOT APPLICABLE 
+ 
+2c. Bid Security Form - Letter of Credit                                     NOT APPLICABLE 
+ 
+3 (a) Form of Notification by the Employer to the Bidder NOT APPLICABLE 
+ 
+(b) Form of Sight Draft                                                   NOT APPLICABLE 
+ 
+4. Forms of Notification of Award 
+ 
+5. Form of Contract Agreement 
+ 
+6. Performance Security Form- Bank Guarantee 
+ 
+6a. Performance Security Form in case  
+of Contract awarded to Joint Venture                                  NOT APPLICABLE 
+ 
+  6b.      Performance Security Form- Insurance Surety Bond  
+ 
+6c.      Performance Security Form - Insurance Surety Bond  
+            in case of Contract awarded to Joint Venture                      NOT APPLICABLE 
+ 
+7(i). Bank Guarantee Form for Advance 
+Payment (Supply Ex-Works) 
+ 
+7(ii). Bank Guarantee Form for Advance Payment 
+(Installation Services/Structural works/Civil 
+works) 
+ 
+7(iii). Bank Guarantee Form for Advance Payment  
+ (in case of Contract awarded to Joint Venture)   NOT APPLICABLE 
+ 
+8. Form of Completion Certificate 
+ 
+9. Form of Operational Acceptance Certificate 
+ 
+10. Form of Trust Receipt 
+ 
+11. Forms of Indemnity-cum-Undertaking Agreements (2 Nos.) 
+ 
+12. Form of Authorization Letter 
+ 
+13. Form of Deed of Joint Undertaking     
+ 
+14. Form of Bank Guarantee by Associate/ Collaborator   
+ 
+15. Form of Joint Venture Agreement      NOT APPLICABLE 
+ 
+16. Form of Bank Guarantee/ Insurance Surety Bond Verification Check List 
+ 
+17. Form of Extension of Bank Guarantee/ Insurance Surety Bond 
+ 
+18. Form of Indemnity-cum-Undertaking 
+Agreement (for Removal of Surplus 
+Material and scraps) 
+ 
+19. Form of Contract Closing Certificates 
+ 
+20. Forms of Absence of Conflict of Interest 
+ 
+21. BG forwarding letter from Bank to Unified Treasury in Bank’s letterhead 
+ 
+22. Certificate from Bank regarding BG charges 
+ 
+ 
+Acronyms 
+ 
+ 
+ 
+BDS Bid Data Sheet 
+ 
+CIF Cost, Insurance and Freight 
+ 
+CIP Carriage and Insurance paid to (place) 
+ 
+CPM Critical Path Method 
+ 
+EDI Electronic Data Interchange 
+ 
+EXW Ex factory, ex works or ex warehouse  
+FCA Free Carrier 
+FOB Free on Board 
+ 
+FOR Free on Rail / Road 
+ 
+FP Forms & Procedures 
+ 
+GCC General Conditions of Contract 
+ 
+ICC International Chamber of Commerce 
+ 
+IFB Invitation for Bids 
+ 
+ITB Instructions to Bidders 
+ 
+SCC Special Conditions of Contract 
+ 
+TS Technical Specifications and Drawings 
+ 
+UNCITRAL United Nations Commission on International Trade Law 
+INCOTERMS International Rules for Interpreting Trade Terms 
+DISCOMS Electricity Distribution Companies 
+GST Goods and Services Tax 
+ 
+C-Folder Collaboration Folder of E-Tender Portal 
+ 
+Note : The terms EXW, CIF, etc. shall be governed by the rules prescribed 
+in the current edition of INCOTERMS, published by the International 
+Chamber of Commerce, Paris, France.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            SECTION  - I 
+INVITATION   FOR   BIDS  (IFB) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"Burner Management System Retrofitting Package for Vindhyachal 
+STPP St-I (6X210MW)"; BIDDING DOCUMENT NO.: CS-2220-425-9 
+ 
+SECTION-I 
+INVITATION FOR BIDS (IFB) 
+PAGE 
+1 OF 3 
+ 
+NTPC Limited 
+   (A Government of India Enterprise) 
+EOC NOIDA 
+    INVITATION FOR BIDS (IFB) 
+FOR 
+"Burner Management System Retrofitting Package for Vindhyachal STPP St-I (6X210MW)" 
+(Domestic Competitive Bidding) 
+ 
+GEPNIC Tender Ref. No: 2025_NTPC_100400 
+ 
+Bidding Document No: CS-2220-425-9            Date: 19.09.2025 
+ 
+          1.0      NTPC Limited invites on-line bids on Single Stage Two Envelope Basis (i.e. Envelope-I: 
+Techno-Commercial and Envelope -II: Price)  from eligible Bidders for  "Burner 
+Management System Retrofitting Package for Vindhyachal STPP St -I (6X210MW)", 
+as per the scope of work briefly mentioned hereinafter.  
+2.0 Brief Scope of Work 
+  
+The Brief scope of work as per the specifications and scope defined in the bidding 
+documents of the Burner Management System Retrofitting package includes the following: 
+ 
+A. Ignitors, Coal & Oil Scanners  
+B. Oil and Air Nozzle Tips, Boiler Coal Nozzle Tips, Boiler Oil Compartment front cover        
+plate 
+C. Complete replacement of existing main HFO control station and Corner control units 
+D. New HFO / Steam Atomization System, Drain Oil tanks for each boiler  
+E. New Oil Gun Assemblies, guide pipes for ignitor and guns  
+F. Oil Gun Cleaning Station  
+G. 2 nos. cooling air fan per Boiler  
+H. Work related to burner tilting and SADC 
+I. Boiler Miscellaneous works – Thermal Performance Test (TPT),  Insulation and 
+Cladding in Wind box area, Burner panel modification / replacement / repair as per 
+site condition , Refractory where-ever required, Boiler tube bends for insertion of 
+flame TV scanner, Instrument air piping etc.  
+J. Associated civil and electrical works. 
+K. DDCMIS system for Burner Management System (BMS) including logics and 
+operation of equipment supplied under this package as well as existing Boiler Fuel 
+firing equipment used for Coal and Oil firing and associated auxiliaries such as Mills, 
+Fans, Valves, dampers and gates, burner tilt etc. 
+L. Boiler Protection System  
+M. Master & slave clock system 
+N. Measuring Instruments, associated process connection and piping, LIE/LIR & 
+Junction Boxes 
+O. 24 V DC charger  
+P. Instrumentation cables, Power cables & Cable tray 
+Q. Control valve and actuators, smart positioner for SADC & Burner Tilt  
+R. Boiler flame monitoring camera   
+ 
+The scope of supply and service for the package shall include design, engineering, 
+manufacture, supply, inspection and testing at supplier’s works, packing and 
+transportation to site, receipt, unloading, storage, preservation, handling and 
+conservation of the equipment at site, pre -assembly (if any), erection, pre -
+"Burner Management System Retrofitting Package for Vindhyachal 
+STPP St-I (6X210MW)"; BIDDING DOCUMENT NO.: CS-2220-425-9
+SECTION-I 
+INVITATION FOR BIDS (IFB) 
+PAGE 
+2 OF 3 
+commissioning, testing, commissioning, trial operation, reliability tests and 
+performance and guarantee tests including tests for performance demonstration of 
+the equipments/systems (if any)  and the supply of mandatory spares for the 
+complete package.  
+3.0  NTPC intends to finance the aforesaid Package through Own Resources. 
+4.0 Detailed specification, scope of work and terms & conditions are given in the Bidding 
+Documents, which are available at Government e -procurement portal of NIC (GePNIC) 
+at website- https://eprocurentpc.nic.in/ and as per the following schedule: 
+Issuance of IFB 22.09.2025
+Document Download start date 22.09.2025
+Pre-Bid Conference and 14.10.2025 at 1100 hrs. (IST)
+Last date for receipt of queries from bidders (if 
+any) * 
+22.10.2025
+Bid (both Techno-Commercial and Price) 
+submission end date & time 
+03.11.2025 up to 15:00 hrs. (IST)
+Date & Time for opening of Envelop-I 
+(Techno-Commercial bid) 
+04.11.2025 at 15:00 hrs. (IST)
+Date & Time for opening of Envelop-II (Price 
+bid) 
+Shall be intimated after opening of 
+Techno- Commercial Bid. 
+Cost of Bidding Documents in INR INR 22,500/- 
+*No Queries from Bidders, whatsoever, shall be entertained by the Employer beyond the
+last date of receipt of Queries as specified above.
+5.0 All bids must be accompanied by Bid security for an amount of INR 2,00,00,000/- 
+(Indian Rupees Two Crores only) in the form as stipulated in Bidding Documents.  
+ANY BID NOT ACCOMPANIED BY AN ACCEPTABLE BID SECURITY IN A 
+SEPARATE SEALED ENVELOPE SHALL BE REJECTED BY THE EMPLOYER AS 
+BEING NON -RESPONSIVE AND SHALL NOT BE OPENED. IN CASE, THE BID 
+SECURITY IS SUBMITTED THROUGH ELECTRONIC FUND TRANSFER (EFT), 
+BIDDER TO SUBMIT THE PROOF OF E -PAYMENT OF BID SECURITY EITHER IN 
+SEPARATE SEALED ENVELOPE OR IN THE E-TENDERING PORTAL. 
+5.1 Acceptable Tender Fee payment proof shall be uploaded by all the bidder in the “Fee 
+Cover” at the GePNIC Portal. 
+6.0 Qualifying Requirements for Bidders: 
+Qualifying Requirement (QR) for subject package is Attached as Annexure-I. 
+7.0    Only 'Class-I local suppliers’ are eligible to participate in this tender, as defined in the 
+bidding documents/ Public Procurement (Preference to Make in India), Order 2017 and 
+its subsequent amendments/ revisions issued by DPIIT  (Department for Promotion of 
+Industry and Internal Trade) . The bidders may apprise themselves of the relevant 
+provisions of bidding documents in this regard before submission of their bids. 
+ 
+ 
+ 
+"Burner Management System Retrofitting Package for Vindhyachal 
+STPP St-I (6X210MW)"; BIDDING DOCUMENT NO.: CS-2220-425-9 
+ 
+SECTION-I 
+INVITATION FOR BIDS (IFB) 
+PAGE 
+3 OF 3 
+ 
+7.1 Any ‘Bidder from a country which shares a land border with India’, as specified in the 
+Bidding Documents, will be eligible to bid in this tender only if bidder is registered with the 
+Competent Authority as mentioned in the Bidding Documents. 
+Further, any bidder (including bidder from India) having specified Transfer of Technology 
+(ToT) arrangement with an entity from a country which shares a land border with India, 
+will be eligible to bid only if the bidder is registered with the same competent authority. 
+However, the said requirement of registration will not apply to bidders from  those 
+countries (even if sharing a land border with India) to which the Government of India has 
+extended lines of credit or in which the Government of India is engaged in development 
+projects.  
+ 
+8.0    Transfer of Bidding Documents purchased by one intending Bidder to another is not 
+permissible. 
+ 
+9.0  Issuance of Bidding Documents to any bidder shall not construe that bidder is considered 
+qualified. 
+ 
+10.0  Notwithstanding anything stated above, the Employer reserves the right to assess the 
+capabilities and capacity of the Bidder / its Collaborators / Associates / Subsidiaries / 
+Group companies to perform the contract, should the circumstances warrant such 
+assessment in the overall interest of the Employer. 
+ 
+11.0 NTPC reserves the right to reject any or all bids or cancel/withdraw the Invitation for Bids 
+(IFB) for the subject package without assigning any reason whatsoever and in such case 
+no bidder/intending bidder shall have any claim arising out of such action. 
+ 
+12.0 A complete set of Bidding Documents may be downloaded by any interested Bidder from 
+the website https://eprocurentpc.nic.in/. The tender is invited under e -tendering process. 
+The bidders can enroll themselves on the website https://eprocurentpc.nic.in/  using the 
+option “online Bidder Enrolment”. The said website also has the detailed guidelines on 
+enrollment and participation in the bidding process including Bidder Manual for online fee 
+payment. 
+ 
+13.0 Address for Communication 
+ 
+DGM (CS)/ AGM (CS) 
+NTPC Limited 
+ 6th Floor, Engineering Office Complex, 
+Plot A-8A, Sector 24, Noida-201301, 
+State of U.P., India 
+Contact: 0120-494 6539/6526 
+E-mail  : psesharao@ntpc.co.in / 
+vbtotle@ntpc.co.in  
+ 
+ Websites :  https://eprocurentpc.nic.in/  or  
+   www.ntpctender.ntpc.co.in  or www.ntpc.co.in 
+14.0 Registered Office 
+NTPC Limited 
+NTPC Bhawan, SCOPE Complex, 7, 
+Institutional Area, Lodi Road,   
+ New Delhi – 110003 
+Corporate Identification Number: L40101DL1975GOI007966,  
+Website: www.ntpc.co.in 
+Page 1 of 5 
+ 
+  
+ 
+Approved Qualifying Requirements for Burner Management System Retrofitting 
+Package for NTPC Vindhyachal STPP Stage -I (6X210 MW) 
+ 
+In addition to qualifying requirements stipulated under Section ITB (Instruction to Bidder), the 
+Bidder should also meet the qualifying requirements for R&M (Renovation and 
+Modernisation) Package stipulated hereunder in clauses 1.1.0 or 1.2.0 or 1.3.0 or 1.4.0 (as 
+applicable), and 2.0.0 : 
+ 
+1.0        Technical Criteria  
+ 
+1.1.0      Route-1: 
+ 
+The bidder should have designed, engineered, manufactured/got manufactured, erected/ 
+supervised erection, and commissioned/ supervised commissioning of at least one 
+number of pulverized coal fired steam generator rated for a minimum of 160 MWe size or 
+minimum 520 T/Hr steaming capacity, which should have been in successful operation 
+for a period not less than one (1) year prior to the date of Techno Commercial bid opening. 
+ 
+1.2.0      Route-2: (Engineering, Procurement and Construction) 
+1.2.1       The Bidder should have executed, in the last 10 years from the last day of month previous 
+to one in which NIT has been invited, industrial project(s) on EPC basis (with or without 
+civil works) in the area of Power / Steel / Oil & Gas/ Petro-chemical/ Fertilizer/ Cement / 
+Flue Gas Desulphurization and/or any other process industry with the total value of such 
+projects being ₹135 Crores or more. At least one of such projects (in single or multiple 
+contract(s)) should have a total contract value of ₹ 55 Crores or more. 
+ 
+These project(s) should have been in successful operation for a period of not less than 
+one (01) year prior to the date of techno-commercial bid opening. 
+ 
+1.2.2  The Bidder shall associate/collaborate with a company meeting the requirements 
+stipulated at clause 1.1.0 above. 
+ 
+1.2.3 The Bidder shall be required to furnish a letter of support from the associate/collaborator 
+company meeting the requirements stipulated at clause 1.1.0 above for successful 
+performance of the Burner Management System package as per the format enclosed with 
+the bidding documents, and valid for a period of seven (7) years or up to the end of defect 
+liability period of the contract whichever is later. The Letter of Support shall be submitted 
+along with the techno commercial bid, failing which the Bidder shall be disqualified, and its 
+bid shall be rejected. 
+ 
+1.3.0     Route-3: (Holding Company) 
+ 
+In case the Bidder is an Indian Holding Company meeting the requirements stipulated under 
+clause 1.1.0 on the strength of collective experience of itself and its subsidiary(ies), then 
+the Bidder shall be required to submit a letter of support from all such subsidiaries for 
+successful performance of the Burner Management System package  as per the format 
+enclosed with the bidding documents, and valid for a period of seven (7) years or up to the 
+end of defect liability period of the contract whichever is later. The Letter of Support shall 
+be submitted along  with the techno commercial bid, failing which the Bidder shall be 
+disqualified and its bid shall be rejected.  The involved subsidiary(ies) shall remain a 
+                     Annexure-I 
+(Page 1  of  5)
+Page 2 of 5 
+ 
+subsidiary company of its holding company for a minimum period of 7 years from the date 
+of incorporation of such subsidiary company or up to the end of the defect liability period of 
+the contract whichever is later.  
+ 
+1.4.0     Route 4: (Consortium) 
+ 
+Bidder shall be a Consortium (unincorporated grouping) of two (2) corporate entities and 
+shall collectively meet the qualifying requirements stipulated at (i) & (ii) below.  
+ 
+Of the two (2) consortium partners, each shall necessarily be required to meet atleast one 
+or more of the following requirements:-  
+ 
+(i) The Partner should be meeting requirement stipulated at clause 1.1.0. 
+(ii) The Partner should be meeting requirement stipulated at clause 1.2.1. 
+The Consortium partners shall identify one of the partners as the “lead partner”. The 
+Consortium will be required to furnish a legally enforceable Consortium Agreement among 
+all partners along with Techno-commercial Bid holding themselves responsible and liable to 
+the Owner to perform all contractual obligations related to their respective scope as declared 
+in Consortium Agreement (limited joint and several responsibility), valid for a period of seven 
+(7) years from the date of formation of the Consortium or up to the end of defect liability 
+period of the contract whichever is later, as per the format enclosed in the bidding 
+documents. However, the lead partner of the consortium shall be jointly & severally 
+responsible and liable to the Owner to perform all contractual obligations including the 
+contractual obligations of all other consortium partners. Submission of Consortium 
+Agreement is a mandatory requirement, and non-submission shall lead to rejection of the 
+bid. 
+ 
+ Notes to clause 1.1.0, 1.2.0 ,1.3.0 and 1.4.0 
+ 
+1. Whenever the term 'coal fired' is appearing above, "Coal" shall be deemed to also include 
+bituminous coal/sub-bituminous coal/brown coal / lignite. 
+2. The value of executed works shall be given a simple weightage to bring them at current 
+price level by adding 5% for each year on pro-rata basis after the end date of 
+completion/execution/commissioning of the reference work, till the last day of month 
+previous to one in which NIT has been invited. The specified value of executed works is 
+excluding any taxes and duties. 
+3.   The word “executed” in Clause 1.2.0 means: 
+a. In case of Project(s), the project(s) should have been commissioned/ completed, even 
+if the contract has been started earlier and / or is not completed / closed. 
+b. In case of Contract(s), the scope of work under the contract(s) should have been 
+commissioned/completed, even if the contract has been started earlier and / or is not 
+closed. 
+4.   Bidder and Consortium partners should be corporate entities registered in India under            
+the Companies Act 2013. 
+ 
+ 
+(Page 2  of  5)
+Page 3 of 5 
+ 
+Notes for 1.4.0 
+(i) Consortium partners shall collectively be required to furnish “Contract Performance 
+Security” as specified in bidding documents regardless of their share and role in the 
+Consortium. However, out of total “Contract Performance Security”, each Consortium partner 
+shall necessarily furnish at least 5% of the “Contract Performance Security” as specified in 
+bidding documents. 
+(ii) Consortium partners (including the lead partner) shall collectively be required to submit 
+additional Bank Guarantees (BGs) for a total amount of 2% of total contract price as specified 
+in bidding documents for successful integration of scope of package. However, each 
+Consortium partner shall necessarily furnish Bank Guarantees (BGs) for at least 0.1% of the 
+total contract price for successful integration/interfacing. 
+(iii) No Consortium partner shall participate as an independent bidder, or as partner of other 
+Consortium or as an Associate /Collaborator to other bidder. No Consortium partner shall also 
+be a promoter/stakeholder of any other entity who is directly/indirectly participating in the 
+bidding process. Notwithstanding stated herein above, the provisions regarding conflict of 
+interest stated in bidding documents shall prevail. 
+(iv) The Lead partner shall be authorized to incur liabilities and receive instructions for and on 
+behalf of any and all partners of the Consortium. 
+2.0.0 Financial Criteria: 
+2.1.0 Financial Criteria for the Bidder 
+2.1.1  The average annual turnover of the Bidder, in the preceding three (3) financial years as on 
+the date of techno-commercial bid opening, should not be less than ₹ 56 Crores (Rupees Fifty 
+Six Crores only) or in equivalent foreign currency. 
+In case a Bidder does not satisfy the average annual turnover criteria, stipulated above on its 
+own, its Holding Company would be required to meet the stipulated turnover requirements as 
+above, provided that the Net Worth of such Holding Company as on the last day of the 
+preceding financial year is at least equal to or more than the paid-up share capital of the 
+Holding Company. In such an event, the Bidder would be required to furnish along with its 
+Techno-Commercial bid, a Letter of Undertaking from the Holding Company, supported by 
+the Holding Company’s Board Resolution, as per the format enclosed in the bid documents, 
+pledging unconditional and irrevocable financial support for the execution of the Contract by 
+the Bidder in case of award. 
+2.1.2  Bidder should have Positive Net Worth as on the last day of the preceding financial year. 
+ 
+2.1.3  In case the Bidder is not able to furnish its audited financial statements on standalone entity 
+basis, the unaudited unconsolidated financial statements of the Bidder can be considered 
+acceptable provided the Bidder furnishes the following further documents on substantiation of 
+its qualification: 
+(i) Copies of the unaudited unconsolidated financial statements of the Bidder along with 
+copies of the audited consolidated financial statements of its Holding Company. 
+(ii) A Certificate from the CEO/CFO of the Holding Company, as per the format enclosed in 
+the bidding documents, stating that the unaudited unconsolidated financial statements 
+form part of the Consolidated Annual Report of the Company. 
+In cases where audited results for the last financial year as on the date of Techno Commercial 
+bid opening are not available, the financial results certified by a practicing Chartered 
+Accountant shall be considered acceptable. In case, Bidder is not able to submit the Certificate 
+(Page 3  of  5)
+Page 4 of 5 
+ 
+from a practicing Chartered Accountant certifying its financial parameters, the audited results 
+of three consecutive financial years preceding the last financial year shall be considered for 
+evaluating the financial parameters. Further, a Certificate would be required from the 
+CEO/CFO as per the format enclosed in the bidding documents stating that the Financial 
+results of the Company are under audit as on the date of Techno-commercial bid opening and 
+the Certificate from the practicing Chartered Accountant certifying the financial parameters is 
+not available. 
+ 
+2.2.0    Financial Criteria for the Collaborator / Associate 
+ 
+2.2.1   The average annual turnover of the collaborator/ Associate, in the preceding three (3)   financial 
+years as on the date of techno-commercial bid opening, should not be less than ₹ 5.5 Crore 
+(Rupees Five Crores and Fifty lakhs only) or in equivalent foreign currency. 
+ 
+In case the Collaborator/Associate does not satisfy the average annual turnover criteria above 
+on its own, its Holding Company would be required to meet the stipulated turnover 
+requirements as above, provided that the net worth of such Holding Company, as on the last 
+day of the preceding financial year is at least equal to or more than the paid-up share capital 
+of the Holding Company. In such an event, the Collaborator/Associate would be required to 
+furnish along with bidder's Techno-Commercial bid, a Letter of Undertaking from the Holding 
+Company, supported by Board Resolution of the Holding Company, as per the format 
+enclosed with the bidding documents, pledging unconditional and irrevocable financial support 
+to the Collaborator/Associate to honour the terms and conditions of the letter of support in 
+case of award of the Contract to the Bidder with whom Collaborator/Associate is associated. 
+ 
+2.2.2  Each Collaborator/ Associate should have Positive Net Worth as on the last day of the            
+preceding financial year. 
+ 
+2.2.3      In case the Collaborator / Associate is not able to furnish its audited financial statements on 
+standalone entity basis, the unaudited unconsolidated financial statements of the 
+Collaborator/ Associate can be considered acceptable provided the Collaborator/ Associate 
+furnishes the following further documents on substantiation of its qualification: 
+ 
+(i) Copies of the unaudited unconsolidated financial statements of the Collaborator/    
+Associate along with copies of the audited consolidated financial statements of the Holding 
+Company of Collaborator / Associate. 
+(ii)  A Certificate from the CEO/CFO of the Holding Company, as per the format enclosed with 
+the bidding documents, stating that the unaudited unconsolidated financial statements 
+form part of the consolidated financial statements of the Holding Company of 
+Collaborator/Associate. 
+In cases where audited results for the last financial year as on the date of Techno Commercial 
+bid opening are not available, the financial results certified by a practicing Chartered 
+Accountant shall be considered acceptable. In case, Collaborator/Associate is not able to 
+submit the Certificate from a practicing Chartered Accountant certifying its financial 
+parameters, the audited results of three consecutive financial years preceding the last 
+financial year shall be considered for evaluating the financial parameters. Further, a 
+Certificate would be required from the CEO/CFO as per the format enclosed in the bidding 
+documents stating that the Financial results of the Company are under audit as on the date 
+of Techno-commercial bid opening and the Certificate from the practicing Chartered 
+Accountant certifying the financial parameters is not available. 
+ 
+ 
+ 
+ 
+(Page 4  of  5)
+Page 5 of 5 
+ 
+2.3.0   Financial Criteria for the Consortium (as per Route 1.4.0)  
+ 
+ 2.3.1    The average annual turnover of the consortium collectively, in the preceding three (3) financial  
+years as on the date of techno-commercial bid opening, should not be less than ₹ 56 Crores 
+(Rupees Fifty Six Crores only) or in equivalent foreign currency. 
+Further, average annual turnover of the lead partner of the consortium in the preceding three 
+(3) financial years as on the date of techno-commercial bid opening shall not be less than 
+51% of the total annual turnover requirement specified for consortium as above. Further, other 
+Consortium Partner should individually meet at least 10% of the total annual turnover 
+requirement specified for consortium as above.  
+For meeting financial criteria, all the Consortium partners shall consider the same set of three 
+consecutive Financial Years.  
+ 
+2.3.2  Each Consortium partner should have Positive Net Worth as on the last day of the preceding 
+financial year. 
+ 
+2.3.3 In case any consortium partner is not able to furnish its audited financial statements on 
+standalone entity basis, the unaudited unconsolidated financial statements of the consortium 
+partner can be considered acceptable provided the consortium partner furnishes the following 
+further documents on substantiation of its qualification:  
+ 
+(i) Copies of the unaudited unconsolidated financial statements of the consortium partner 
+along with copies of the audited consolidated financial statements of the Holding 
+Company of the consortium partner.  
+(ii)  A Certificate from the CEO/CFO of the Holding Company, as per the format enclosed 
+with the bidding documents, stating that the unaudited unconsolidated financial 
+statements form part of the consolidated financial statements of the Holding Company of 
+the consortium partner.  
+In cases where audited results for the last financial year as on the date of Techno Commercial 
+bid opening are not available, the financial results certified by a practicing Chartered 
+Accountant shall be considered acceptable. In case, the consortium partner(s) is not able to 
+submit the Certificate from a practicing Chartered Accountant certifying its financial 
+parameters, the audited results of three consecutive financial years preceding the last 
+financial year shall be considered for evaluating the financial parameters. Further, a Certificate 
+would be required from the CEO/CFO as per the format enclosed in the bidding documents 
+stating that the financial results of the Company are under audit as on the date of Techno-
+commercial bid opening and the Certificate from the practicing Chartered Accountant 
+certifying the financial parameters is not available.  
+ 
+NOTES: 
+(i) Net worth means the sum total of the paid-up share capital and free reserves. Free 
+reserve means all reserves credited out of the profits and share premium account but 
+does not include reserves credited out of the revaluation of the assets, write back of 
+depreciation provision and amalgamation. Further any debit balance of Profit and Loss 
+account and miscellaneous expenses to the extent not adjusted or written off, if any, shall 
+be reduced from reserves and surplus. 
+(ii) Other income shall not be considered for arriving at annual turnover. 
+(iii) "Holding Company" and "Subsidiary Company" shall have the meaning ascribed to them 
+as per Companies Act, 2013. 
+(iv) For annual Turnover indicated in foreign currency, the exchange rate as on seven (7) 
+days prior to the date of Techno-Commercial bid opening shall be used. 
+(Page 5  of  5)

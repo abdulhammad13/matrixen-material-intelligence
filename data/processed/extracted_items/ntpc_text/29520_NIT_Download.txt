@@ -1,0 +1,181 @@
+NTPC Limited eProcurement Portal
+Tender Details
+Date : 26-Feb-2026 03:17 PM
+ Print
+Basic Details
+Organisation Chain NTPC Limited||Coal Mining
+Tender Reference
+Number NTPC/SSC - Coal Mining(Ranchi)/9900320806
+Tender ID 2026_NTPC_105521_1 Withdrawal Allowed Yes
+Tender Type Open Tender Form of contract Works
+Tender Category Works No. of Covers 3
+General Technical
+Evaluation Allowed Yes [Compliance Required] ItemWise Technical Evaluation
+Allowed No
+Payment Mode Both(Online/Offline) Is Multi Currency Allowed For
+BOQ No
+Is Multi Currency
+Allowed For Fee No Allow Two Stage Bidding No
+ 
+Payment Instruments
+Online
+Bankers
+S.No Bank Name
+1 SBI Bank
+Offline S.No Instrument Type
+1 DD
+Cover Details, No. Of Covers - 3
+Cover No Cover Document Type Description
+1 Fee .pdf EMD
+2 PreQual/Technical .pdf Technical
+Details
+3 Finance .xls Price Bid
+ 
+Tender Fee Details, [Total Fee in ₹ * - 0.00]
+Tender Fee in ₹ 0.00
+Fee Payable To Nil Fee Payable At Nil
+Tender Fee
+Exemption Allowed
+No
+EMD Fee Details
+EMD Amount in ₹ 10,00,000 EMD Exemption
+Allowed
+No
+EMD Fee Type fixed EMD Percentage NA
+EMD Payable To NTPC
+Limited
+EMD Payable At Payable
+At
+Ranchi
+BG Required No
+Minimum Direct
+EMD Payment in ₹
+0.00
+ 
+Click to view modification history
+ 
+Work /Item(s)
+Title Repair and strengthening of Coal transportation road of PBCMP from Fatah to TP 10 and Oderna to Sirka more
+Work Description Repair and strengthening of Coal transportation road of PBCMP from Fatah to TP 10 and Oderna to Sirka more
+Pre Qualification
+Details
+As per tender documents 
+Independent External
+Monitor/Remarks
+As per tender documents 
+Show Tender Value in
+Public Domain
+No 
+Tender Value in ₹ 7,55,59,481 Product Category Civil
+Works
+Sub category NA 
+Contract Type Tender Bid Validity(Days) 120 Period Of Work(Days) 365 
+Location PAKRI BARWADIH COAL
+MINING PROJECT
+Pincode 825311 Pre Bid Meeting Place NA 
+Pre Bid Meeting
+Address
+NA Pre Bid Meeting Date NA Bid Opening Place Shared Services
+Centre NTPC Limited
+Should Allow NDA
+Tender
+No Allow Preferential
+Bidder
+No
+ 
+Critical Dates
+Publish Date 26-Feb-2026 03:30 PM Bid Opening Date 13-Mar-2026 03:00 PM
+26/02/2026, 15:17 NTPC Limited eProcurement Portal
+https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=PublishedViewTender&service=direct&session=T&sp=SeVG0SafCJ0b8… 1/3
+Document Download / Sale Start
+Date
+26-Feb-2026 03:35 PM Document Download / Sale End
+Date
+12-Mar-2026 02:30 PM
+Clarification Start Date 26-Feb-2026 03:45 PM Clarification End Date 04-Mar-2026 05:30 PM 
+Bid Submission Start Date 26-Feb-2026 03:45 PM Bid Submission End Date 12-Mar-2026 02:30 PM
+ 
+ 
+Tender Documents
+NIT
+Document S.No Document Name Description Document Size
+(in KB)
+1 Tendernotice_1.pdf NIT 293.62
+ 
+Work Item
+Documents S.No Document Type Document Name Description Document Size
+(in KB)
+1 Tender Documents NIT_final.pdf Tender Documents 1809.45
+2 BOQ BOQ_108754.xls Price Bid 331.00
+3 Additional Documents other_documents.pdf other documents 17678.93
+ 
+ 
+View GTE Details - SERVICE GTE (LT-COMMON-MLC-LAND BORDER CLAUSE)
+S.No Particulars Expected Value Mandatory
+1.0
+Confirm that you are a LOCAL SUPPLIER, and the LOCAL CONTENT included in the
+PACKAGE FOR COMPLETE SCOPE OF WORK meets the MINIMUM LOCAL CONTENT
+requirements of the Tender. - [ MLC Declaration for Services]
+Yes Yes
+2.0 Do you accept NTPC Safety Rules - [ SAFETY RULES COMPLIANCE] Yes Yes
+3.0 Do you accept the Fraud Prevention Policy of NTPC - [ FRAUD PREVENTION] Yes Yes
+4.0 Do you accept Withholding and Banning of Business Dealing Policy of NTPC - [
+BANNING POLICY DECLARATION] Yes Yes
+5.0
+Do you certify full compliance on clause as per tender documents on Restrictions
+on procurement from a Bidder of a country which shares a land border with India -
+[ LAND BORDER CLAUSE COMPLIANCE]
+Yes Yes
+6.0 Do you certify full compliance to all provisions of Bid documents - [ NO DEVIATION
+CERTIFICATION] Yes Yes
+ 
+Auto Extension Corrigendum Properties for Tender
+Iteration No. of bids required for bid opening a tender Tender gets extended to No. of days
+1. 1 4
+2. 1 4
+3. 1 4
+ 
+Bid Openers List
+S.No Bid Opener Login Id Bid Opener Name Certificate Name
+1. monalishaparida@ntpc.co.in Monalisa Parida MONALISA PARIDA
+2. nayandalei@ntpc.co.in Nayan Kumar Dalei NAYAN KUMAR DALEI
+3. abhayanand@ntpc.co.in Abhay Anand Abhay Anand
+4. skvashisth@ntpc.co.in Sharad kumar Vashisth Sharad Kumar Vashisth
+ 
+Tender Properties
+Auto Tendering Process
+allowed
+No Show Technical bid status No
+Show Finance bid
+status
+Yes Stage to disclose Bid Details in
+Public Domain
+Technical Bid Opening
+BoQ Comparative Chart
+model
+Normal BoQ Compartive chart decimal
+places
+2
+BoQ Comparative Chart
+Rank Type
+L Form Based BoQ No
+ 
+TIA Undertaking
+S.No Undertaking to Order Tender complying with Order Reason for non compliance of Order
+1 PPP-MII Order 2017 Not Applicable As per approval
+2 MSEs Order 2012 Not Applicable As per approval
+ 
+Tender Inviting Authority
+Name Sr Manager CnM
+26/02/2026, 15:17 NTPC Limited eProcurement Portal
+https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=PublishedViewTender&service=direct&session=T&sp=SeVG0SafCJ0b8… 2/3
+Address Shared Services Centre Coal Mining Co NTPC Mining Ltd Ram Keshi Heights Plot No 123 Old A G Colony Kadru
+Ranchi 834002
+ 
+Tender Creator Details
+Created By Sharad kumar Vashisth
+Designation Mgr
+Created Date 26-Feb-2026 11:02 AM
+ 
+26/02/2026, 15:17 NTPC Limited eProcurement Portal
+https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=PublishedViewTender&service=direct&session=T&sp=SeVG0SafCJ0b8… 3/3

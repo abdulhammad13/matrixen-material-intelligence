@@ -1,0 +1,3273 @@
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+बड
+बड
+ 
+ 
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid End Date/Time
+24-12-2025 17:00:00
+बड
+बड
+ 
+ 
+खुलने
+खुलने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+/
+/
+समय
+समय
+ 
+ 
+/Bid Opening
+Date/Time
+24-12-2025 17:30:00
+बड
+बड
+ 
+ 
+पेशकश
+पेशकश
+ 
+ 
+वैधता
+वैधता
+ (
+ (
+बंद
+बंद
+ 
+ 
+होने
+होने
+ 
+ 
+क
+क
+ 
+ 
+तारख
+तारख
+ 
+ 
+से
+से
+)
+)
+/Bid Offer
+Validity (From End Date)
+90 (Days)
+मं ालय
+मं ालय
+/
+/
+रा!य
+रा!य
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Ministry/State Name
+Ministry Of Power
+वभाग
+वभाग
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Department Name
+Contracts And Materials
+संगठन
+संगठन
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Organisation Name
+Ntpc Tamilnadu Energy Company Ltd
+काया%लय
+काया%लय
+ 
+ 
+का
+का
+ 
+ 
+नाम
+नाम
+/Office Name
+Chennai
+कुल
+कुल
+ 
+ 
+मा ा
+मा ा
+/Total Quantity
+6087
+व&तु
+व&तु
+ 
+ 
+'ेणी
+'ेणी
+ 
+ 
+/Item Category
+M1010537023 , M1010537027 , M1010537030 ,
+M1010172510 , M1010480000 , M1010741800 ,
+M1010740201 , M1010658010 , M1025220610 ,
+M1010283510 , M1011274802 , M1025325010 ,
+M1010764010 , M1010760001 , M1010172200 ,
+M1020281020 , M1020281021 , M1010788110 ,
+M1011645010 , M1020751010 , M1010011011
+GeMARPTS
+ 
+ 
+म)
+म)
+ 
+ 
+खोजी
+खोजी
+ 
+ 
+गई
+गई
+ 
+ 
+,&-ं.स
+,&-ं.स
+ / Searched
+Strings used in GeMARPTS
+BUFFER CAPSULE:PH 4.0 Thermo fisher/ Merck, BUFFER
+CAPSULE:PH 7.0 thermo fisher/ Merck, BUFFER CAPSULE:PH
+9.2 Thermo Fisher/ Merck, EDTA DISODIUM
+SALT:AR/ER/EMPARTA GRADE MERCk/Thermo fisher,
+MAGNESIUM CHLORIDE Merck/ Thermo fisher make,
+SODIUM CHLORIDE merck/ Thermo fisher make, AMMONIUM
+MOLYBDATE, AR Merck/Thermofisher make, POTASSIUM
+HYDROXIDE, AR/ER/EMPARTA Merck/Thermofisher Make,
+TOLUENE Merck/Thermofisher, HEXANE:AR/ER/EMPARTA
+GRADE Merck/Thermofisher, KARL FISCHER REAGENT
+Merck, ISO PROPYL ALCHOHOL:AR/ER/EMPART
+Merck/Thermofisher, SODIUM ACETATE ANHYDROUS
+Merck/Thermo fisher, SILVER NITRATE:GRADE-AR
+Merck/Thermo fisher make, EDTA N/10 Ampules
+Merck/Thermo fisher, HYDROCHLORIC ACID,0.1N ampules
+Merck/Thermo fisher, HYDROCHLORIC ACID,1N 
+Merck/
+Thermofisher, SODIUM HYDROXIDE,1N Merck/Thermofisher
+ampules, SOLN:N/10 SODIUM THIOSULPHATE AMPULEs,
+SULPHURIC ACID,N/10AMPULES ampules, ACETONE merck/
+Thermofisher
+Searched String
+: BUFFER CAPSULE:PH 4.0 Thermo fisher/
+Merck
+PH buffer solution, Buffer Capsules, pH Meter, EDTA
+disodium salt
+ 
+बड
+ 
+सं/या
+/
+Bid
+ 
+Number
+: 
+GEM/2025/B/6957650
+0दनांक
+ /
+Dated
+: 03-12-2025
+बड
+बड
+ 
+ 
+द&तावेज़
+द&तावेज़
+ / Bid Document
+1 / 20
+Searched String
+: BUFFER CAPSULE:PH 7.0 thermo fisher/
+Merck
+PH buffer solution, Buffer Capsules, pH Meter, EDTA
+disodium salt
+Searched String
+: BUFFER CAPSULE:PH 9.2 Thermo Fisher/
+Merck
+PH buffer solution, Buffer Capsules, pH Meter, Isopropyl
+Alcohol (2 - Propanol), CO2 Incubator, Acetonitrile
+Searched String
+: EDTA DISODIUM SALT:AR/ER/EMPARTA
+GRADE MERCk/Thermo fisher
+EDTA disodium salt, EDTA - Disodium Salt (ONGC)
+Searched String
+: MAGNESIUM CHLORIDE Merck/ Thermo
+fisher make
+Barium Chloride as per IS: 5288
+Searched String
+: SODIUM CHLORIDE merck/ Thermo fisher
+make
+Barium Chloride as per IS: 5288, Sodium fluoride, Extra Pure
+and AR/ACS, Potassium sodium tartrate
+Searched String
+: AMMONIUM MOLYBDATE, AR
+Merck/Thermofisher make
+Ammonium molybdate, Ammonium acetate AR Grade,
+Ammonium bicarbonate, Ammonium Persulphate Reagent
+Grade, Ammonium formate, Ammonium carbonate,
+Ammonium Metavanadate
+Searched String
+: POTASSIUM HYDROXIDE,
+AR/ER/EMPARTA Merck/Thermofisher Make
+Potassium Hydroxide for Drilling Fluids (ONGC), Potassium
+Hydroxide / Caustic Potash as per IS 6831, Potassium
+Oxalate, Potassium Permanganate (V2) Conforming to IS
+333, Potassium Chromate- IS:6605, Potassium Hydroxide for
+Sulphur Recovery Unit for (ONGC), Potassium Fluoride,
+Potassium ferrocyanide trihydrate, Potassium Hydrogen
+Sulphate, Potassium metabisulfite
+Searched String
+: TOLUENE Merck/Thermofisher
+Industrial Toluene (Toluole) (ONGC), Toluene as per IS 537,
+p-Toluene Sulphonyl Chloride, Toluene for tear smoke unit,
+Di-Tert-Butyl-Para-Cresol, Technical - IS 9207
+Searched String
+: HEXANE:AR/ER/EMPARTA GRADE
+Merck/Thermofisher
+N - Hexane AR Grade, Wooden Podium, Ammonium acetate
+AR Grade, Barium Chloride as per IS: 5288, Ammonium
+Persulphate Reagent Grade, Laboratory Graduated
+Cylinders as per IS 878, Tetrahydrofuran HPLC Grade, Food
+grade sanitizers, Suction Catheters (V2), PCR grade water
+Searched String
+: KARL FISCHER REAGENT 
+Merck
+Karl Fischer Reagent, Karl Fischer Titrator
+Searched String
+: ISO PROPYL ALCHOHOL:AR/ER/EMPART
+Merck/Thermofisher
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+2 / 20
+GeMARPTS
+ 
+ 
+म)
+म)
+ 
+ 
+खोजा
+खोजा
+ 
+ 
+गया
+गया
+ 
+ 
+प9रणाम
+प9रणाम
+ / Searched
+Result generated in GeMARPTS
+Iso Propyl Alcohol (V2) Conforming To Is 2631, ERW Line
+Pipe (as per API 5l / ISO 3183) (Oil PSU)
+Searched String
+: SODIUM ACETATE ANHYDROUS
+Merck/Thermo fisher
+SODIUM ACETATE (ANHYDROUS) - ONGC, Manual Single
+Channel Air Displacement Pipetters Or Micropipette (V2),
+SODIUM ACETATE, Sodium Bromide Anhydrous, Sodium
+Phosphate, Dibasic, Anhydrous, Ammonium acetate AR
+Grade, 1-Heptanesulphonic acid sodium salt anhydrous,
+Sodium Carbonate Anhydrous as per IS 296, Potassium
+sodium tartrate, Multiwell plates for tissue culture
+Searched String
+: SILVER NITRATE:GRADE-AR
+Merck/Thermo fisher make
+Silver Nitrate as per IS 2214, Barium Chloride as per IS:
+5288, ECO - Friendly Disinfectant (Hydrogen Peroxide +
+Silver Nitrate), PCR grade water, Ammonium acetate AR
+Grade, Hydrofluoric acid, Aqueous Conforming to IS 10332
+(In Liter), Ethidium Bromide, Sodium fluoride, Extra Pure and
+AR/ACS, Aluminium Oxide, ACETYLE ACETONE
+Searched String
+: EDTA N/10 Ampules Merck/Thermo fisher
+Manual Single Channel Air Displacement Pipetters Or
+Micropipette (V2), EDTA disodium salt, Multiwell plates for
+tissue culture, Plasmid Kits, Refrigerated Centrifuge For
+General And Research Purpose, Cryostat Microtome
+Searched String
+: HYDROCHLORIC ACID,0.1N ampules
+Merck/Thermo fisher
+Hydrochloric Acid for Well Stimulation for (ONGC), Manual
+Single Channel Air Displacement Pipetters Or Micropipette
+(V2), Hydrochloric Acid (V3) Conforming to IS 265, Digital
+Thermo Hygrometer, Methyl Orange, EDTA disodium salt,
+Radiation survey meter, Hydrofluoric acid, Aqueous
+Conforming to IS 10332 (In Liter), High quality water
+purification system, Chloroform
+Searched String
+: HYDROCHLORIC ACID,1N 
+Merck/
+Thermofisher
+Hydrochloric Acid for Well Stimulation for (ONGC),
+Hydrochloric Acid (V3) Conforming to IS 265
+Searched String
+: SODIUM HYDROXIDE,1N
+Merck/Thermofisher ampules
+Caustic Soda for Bulk Supply as per IS 252, Sodium
+Hypochlorite Solution (V2) as per IS 11673 (Part 1), Blood
+Collection Tube, Sodium Thiosulphate as per IS 14781,
+Glassy Sodium Metaphosphate or Sodium
+HexaMetaphosphate, Sodium Chloride, Analytical Reagent
+as per IS: 4408, Sodium nitrite as per IS:879, Sodium
+Hypochlorite Solution for Bulk Supply (V2) as per IS 11673
+(Part 1), Sodium molybdate, Sodium Azide
+Searched String
+: SOLN:N/10 SODIUM THIOSULPHATE
+AMPULEs
+Sodium Thiosulphate as per IS 14781, Tri Sodium Phosphate
+Dodecahydrate
+Searched String
+: SULPHURIC ACID,N/10AMPULES ampules
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+3 / 20
+Sulphuric acid for Bulk supply - FACTL, water baths,
+Sulphuric Acid (V2) Conforming to IS 266, N-Butyric Acid
+(For Synthesis), N Heptane, N-Hexane, N - Hexadecane,
+Stationary Valve Regulated Lead Acid Batteries (V2) as per
+IS 15549, N,N Dimethyl P Phenylenediamine
+Dihydrochloride, N-acetylcysteine Injection
+Searched String
+: ACETONE merck/ Thermofisher
+ACETYLE ACETONE, Acetone as per IS 170
+अिधसूचना
+अिधसूचना
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+ 
+ 
+चयिनत
+चयिनत
+ 
+ 
+?ासंिगक
+?ासंिगक
+ 
+ 
+'े,णयाँ
+'े,णयाँ
+ / Relevant
+Categories selected for notification
+Hexane
+Toluene as per IS 537
+बीओBयू
+बीओBयू
+ 
+ 
+शीष%क
+शीष%क
+ 
+ 
+/BOQ Title
+Procurement of Fine chemicals for use at Chemistry Labs
+NTECL Vallur
+एमएसएमई
+एमएसएमई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वषD
+वषD
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+?दान
+?दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+/MSE Exemption for Years of
+Experience and Turnover
+No
+&टाट%अप
+&टाट%अप
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+अनुभव
+अनुभव
+ 
+के
+के
+ 
+वषD
+वषD
+ 
+और
+और
+ 
+टन%ओवर
+टन%ओवर
+ 
+से
+से
+ 
+छू ट
+छू ट
+ 
+?दान
+?दान
+क
+क
+ 
+गई
+गई
+ 
+है
+है
+ /Startup Exemption for Years of
+Experience and Turnover
+No
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+ 
+ 
+सीमा
+सीमा
+ 
+ 
+&वतः
+&वतः
+ 
+ 
+नहं
+नहं
+ 
+ 
+बढ़ाने
+बढ़ाने
+ 
+ 
+के
+के
+ 
+ 
+िलए
+िलए
+आवKयक
+आवKयक
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+सं/या
+सं/या
+।
+।
+ / Minimum number of
+bids required to disable automatic bid
+extension
+3
+0दनM
+0दनM
+ 
+ 
+क
+क
+ 
+ 
+सं/या
+सं/या
+, 
+, 
+,जनके
+,जनके
+ 
+ 
+िलए
+िलए
+ 
+ 
+बड
+बड
+ 
+ 
+लगाने
+लगाने
+ 
+ 
+क
+क
+ 
+ 
+समय
+समय
+-
+-
+सीमा
+सीमा
+बढ़ाई
+बढ़ाई
+ 
+ 
+जाएगी
+जाएगी
+। / 
+। / 
+Number
+ 
+ 
+of
+ 
+ 
+days
+ 
+ 
+for
+ 
+ 
+which
+ 
+ 
+Bid
+would
+ 
+ 
+be
+ 
+ 
+auto
+-
+-
+extended
+5
+ऑटो
+ऑटो
+ 
+ 
+एBसट)शन
+एBसट)शन
+ 
+ 
+अिधकतम
+अिधकतम
+ 
+ 
+0कतनी
+0कतनी
+ 
+ 
+बार
+बार
+ 
+ 
+0कया
+0कया
+ 
+ 
+जाना
+जाना
+ 
+ 
+है
+है
+। /
+। /
+Number
+ 
+ 
+of
+ 
+ 
+Auto
+ 
+ 
+Extension
+ 
+ 
+count
+1
+बड
+बड
+ 
+ 
+से
+से
+ 
+ 
+9रवस%
+9रवस%
+ 
+ 
+नीलामी
+नीलामी
+ 
+ 
+स0Pय
+स0Pय
+ 
+ 
+0कया
+0कया
+/Bid to RA enabled
+No
+बड
+बड
+ 
+ 
+का
+का
+ 
+ 
+?कार
+?कार
+/Type of Bid
+Two Packet Bid
+?ाथिमक
+?ाथिमक
+ 
+उSपाद
+उSपाद
+ 
+'ेणी
+'ेणी
+/Primary product category
+M1025325010
+तकनीक
+तकनीक
+ 
+ 
+मूTयांकन
+मूTयांकन
+ 
+ 
+के
+के
+ 
+ 
+दौरान
+दौरान
+ 
+ 
+तकनीक
+तकनीक
+ 
+ 
+&पVीकरण
+&पVीकरण
+ 
+ 
+हेतु
+हेतु
+अनुमत
+अनुमत
+ 
+ 
+समय
+समय
+ 
+ 
+/Time allowed for Technical
+Clarifications during technical evaluation
+3 Days
+िनरWण
+िनरWण
+ 
+आवKयक
+आवKयक
+ (
+सूचीबX
+सूचीबX
+ 
+िनरWण
+िनरWण
+ 
+?ािधकरण
+?ािधकरण
+ /
+जेम
+जेम
+ 
+के
+के
+ 
+साथ
+साथ
+पूव%
+पूव%
+ 
+पंजीकृत
+पंजीकृत
+ 
+एज)िसयM
+एज)िसयM
+ 
+Zारा
+Zारा
+)/Inspection Required (By
+Empanelled Inspection Authority / Agencies
+pre-registered with GeM)
+No
+मूTयांकन
+मूTयांकन
+ 
+ 
+पXित
+पXित
+/Evaluation Method
+Item wise evaluation/
+म[य&थता
+म[य&थता
+ 
+खंड
+खंड
+/Arbitration Clause
+No
+सुलह
+सुलह
+ 
+खंड
+खंड
+/Mediation Clause
+No
+बड
+बड
+ 
+ 
+ववरण
+ववरण
+/
+/
+Bid
+ 
+ 
+Details
+ईएमड
+ईएमड
+ 
+ 
+ववरण
+ववरण
+/EMD Detail
+4 / 20
+आवKयकता
+/Required
+No
+ईपीबीजी
+ईपीबीजी
+ 
+ 
+ववरण
+ववरण
+ 
+ 
+/ePBG Detail
+आवKयकता
+/Required
+No
+बोली
+ 
+वभाजन
+ 
+लागू
+ 
+नहं
+ 
+0कया
+ 
+गया
+/ 
+Bid splitting not applied.
+एमआईआई
+एमआईआई
+ 
+के
+के
+ 
+िलए
+िलए
+ 
+आर,Wत
+आर,Wत
+ / Reserved for Make In India products
+एमआईआई
+ 
+के
+ 
+िलए
+ 
+आर,Wत
+ / Reserved for Make In
+India products
+Yes
+एमएसई
+एमएसई
+ 
+ 
+खरद
+खरद
+ 
+ 
+वरयता
+वरयता
+/MSE Purchase Preference
+एमएसई
+ 
+खरद
+ 
+वरयता
+/MSE Purchase Preference
+Yes
+सू\म
+ 
+और
+ 
+लघु
+ 
+उ^म
+ 
+मूल
+ 
+उपकरण
+ 
+िनमा%ताओं
+ 
+को
+ 
+खरद
+ 
+म)
+?ाथिमकता
+, 
+य0द
+ 
+उनका
+ 
+मूTय
+ 
+L
+1+
+X
+% 
+तक
+ 
+क
+ 
+सीमा
+ 
+म)
+ 
+हो
+ /
+Purchase Preference to MSE OEMs available upto
+price within L1+X%
+15
+सू\म
+ 
+और
+ 
+लघु
+ 
+उ^म
+ 
+को
+ 
+खरद
+ 
+म)
+ 
+?ाथिमकता
+ 
+के
+ 
+िलए
+ 
+बड
+क
+ 
+मा ा
+ 
+का
+ 
+अिधकतम
+ 
+?ितशत
+ / Maximum
+Percentage of Bid quantity for MSE purchase
+preference
+25
+1. Bid reserved for Make In India products: : Procurement under this bid is reserved for purchase from Class 1
+local supplier as defined in public procurement (Preference to Make in India), Order 2017 as amended from time
+to time and its subsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products.
+However, eligible micro and small enterprises will be allowed to participate. The minimum local content to
+qualify as a class 1 local supplier is denoted in the bid document. All bidders must upload a certificate from the
+OEM regarding the percentage of the local content and the details of locations at which the local value addition is
+made along with their bid, failing which the bid is liable to be rejected. In case the bid value is more than Rs 10
+Crore, the declaration relating to percentage of local content shall be certified by the statutory auditor or cost
+auditor, if the OEM is a company and by a practicing cost accountant or a chartered accountant for OEMs other
+than companies as per the Public Procurement (preference to Make-in -India) order 2017 dated 04.06.2020 . In
+case Buyer has selected Purchase preference to Micro and Small Enterprises clause in the bid, the same will get
+precedence over this clause. 
+2. Purchase preference will be given to MSEs having valid Udyam Registration and whose credentials are
+validated online through Udyam Registration portal as defined in Public Procurement Policy for Micro and Small
+Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and
+its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail themselves of the
+Purchase preference, the bidder must be the manufacturer / OEM of the offered product on GeM. Traders are
+excluded from the purview of Public Procurement Policy for Micro and Small Enterprises and hence resellers
+offering products manufactured by some other OEM are not eligible for any purchase preference. In respect of bid
+for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in
+this regard shall be uploaded along with the bid in respect of the offered product or service and Buyer will decide
+eligibility for purchase preference based on documentary evidence submitted, while evaluating the bid. If L-1 is
+not an MSE and MSE Seller (s) has / have quoted price within L-1+ 15% (Selected by Buyer) of margin of
+purchase preference /price band defined in relevant policy, such MSE Seller shall be given opportunity to match
+L-1 price and contract will be awarded for 25% (selected by Buyer) percentage of total quantity. The buyers are
+5 / 20
+advised to refer the OM No. F.1/4/2021-PPD dated 18.05.2023 
+OM_No.1_4_2021_PPD_dated_18.05.2023
+ 
+for
+compliance of Concurrent application of Public Procurement Policy for Micro and Small Enterprises Order, 2012
+and Public Procurement (Preference to Make in India) Order, 2017. Benefits of MSE will be allowed only if seller is
+validated on-line in GeM profile as well as validated and approved by Buyer after evaluation of documents
+submitted. 
+3. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and
+for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.
+This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any
+impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of
+quoted prices which would be determined by the buyer based on its own assessment of reasonableness and
+based on competitive prices received in Bid / RA process. 
+मूTयांकन
+मूTयांकन
+ 
+ 
+विध
+विध
+(
+(
+मदवार
+मदवार
+ 
+ 
+मूTयांकन
+मूTयांकन
+ 
+ 
+विध
+विध
+)
+)
+ / 
+Evaluation Method 
+( Item Wise Evaluation Method )
+Contract will be awarded schedulewise and the determination of L1 will be done separately for each schedule.
+The details of item-consignee combination covered under each schedule are as under:
+मूTयांकन
+ 
+अनुसूिचयां
+ / 
+Evaluation Schedules
+व&तु
+/
+'ेणी
+ / 
+Item/Category
+मा ा
+ 
+/ 
+Quantity
+Schedule 1
+M1010537023
+20
+Schedule 2
+M1010537027
+20
+Schedule 3
+M1010537030
+20
+Schedule 4
+M1010172510
+3
+Schedule 5
+M1010480000
+2
+Schedule 6
+M1010741800
+1
+Schedule 7
+M1010740201
+4
+Schedule 8
+M1010658010
+5000
+Schedule 9
+M1025220610
+200
+Schedule 10
+M1010283510
+200
+Schedule 11
+M1011274802
+3
+Schedule 12
+M1025325010
+10
+Schedule 13
+M1010764010
+1
+Schedule 14
+M1010760001
+500
+Schedule 15
+M1010172200
+20
+Schedule 16
+M1020281020
+10
+Schedule 17
+M1020281021
+12
+Schedule 18
+M1010788110
+15
+Schedule 19
+M1011645010
+12
+Schedule 20
+M1020751010
+24
+Schedule 21
+M1010011011
+10
+M1010537023
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+6 / 20
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+20
+30
+M1010537027
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+7 / 20
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+20
+30
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+M1010537030
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+20
+30
+M1010172510
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+8 / 20
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+3
+30
+M1010480000
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+2
+30
+M1010741800
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+9 / 20
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+1
+30
+M1010740201
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+4
+30
+M1010658010
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+10 / 20
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+5000
+30
+M1025220610
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+200
+30
+11 / 20
+M1010283510
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+200
+30
+M1011274802
+(Minimum 20% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+12 / 20
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+3
+30
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+M1025325010
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+10
+30
+M1010764010
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+13 / 20
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+1
+30
+M1010760001
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+500
+30
+M1010172200
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+14 / 20
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+20
+30
+M1020281020
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+10
+30
+M1020281021
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+15 / 20
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+12
+30
+M1010788110
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+15
+30
+16 / 20
+M1011645010
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+12
+30
+M1020751010
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+17 / 20
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+24
+30
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+M1010011011
+(Minimum 50% Local Content required for qualifying as Class 1 Local Supplier)
+तकनीक
+तकनीक
+ 
+ 
+विशVयाँ
+विशVयाँ
+ 
+ 
+/Technical Specifications
+Specification Document
+View File
+BOQ Detail Document
+View File
+Advisory-Please refer attached BOQ document for detailed consignee list and delivery period.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+ 
+ 
+अिधकार
+अिधकार
+ 
+ 
+तथा
+तथा
+ 
+ 
+मा ा
+मा ा
+/Consignees/Reporting Officer and Quantity
+P.सं.
+P.सं.
+/S.N
+o.
+परेषती
+परेषती
+/
+/
+9रपो0टaग
+9रपो0टaग
+अिधकार
+अिधकार
+ 
+ 
+/Consignee
+Reporting/Officer
+पता
+पता
+/Address
+मा ा
+मा ा
+ /Quantity
+0डलीवर
+0डलीवर
+ 
+के
+के
+ 
+0दन
+0दन
+/Delivery
+Days
+1
+Kamal Gupta
+600103,NTPC Tamilnadu
+Energy Company Ltd. Vallur
+Thermal Power Project, PO
+Vellivoyal Chavadi, Ponneri
+Taluk, Thiruvallur District,
+Chennai 600103
+10
+30
+Pेता
+Pेता
+ 
+ 
+Zारा
+Zारा
+ 
+ 
+जोड़
+जोड़
+ 
+ 
+गई
+गई
+ 
+ 
+बड
+बड
+ 
+ 
+क
+क
+ 
+ 
+वशेष
+वशेष
+ 
+ 
+शतd
+शतd
+/Buyer Added Bid Specific Terms and Conditions
+1
+. 
+Generic
+OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up
+to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to
+increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at
+the contracted rates. The delivery period of quantity shall commence from the last date of original
+delivery order and in cases where option clause is exercised during the extended delivery period the
+additional time shall commence from the last date of extended delivery period. The additional delivery
+time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to
+minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the
+original delivery period. The Purchaser may extend this calculated delivery duration up to the original
+delivery period while exercising the option clause. Bidders must comply with these terms.
+18 / 20
+2
+. 
+Generic
+Bidder shall submit the following documents along with their bid for Vendor Code Creation:
+ a. Copy of PAN Card.
+ b. Copy of GSTIN.
+ c. Copy of Cancelled Cheque.
+ d. Copy of EFT Mandate duly certified by Bank.
+3
+. 
+Buyer Added Bid Specific ATC
+Buyer uploaded ATC document 
+Click here to view the file
+.
+अ&वीकरण
+अ&वीकरण
+/Disclaimer
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+bidding process without any notice:-
+1
+. 
+Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+issued by DPIIT in this regard.
+2
+. 
+Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+exemption provided to such sellers under GeM GTC.
+3
+. 
+Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+Category item bunched with it.
+4
+. 
+Creating BoQ bid for single item.
+5
+. 
+Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+6
+. 
+Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+7
+. 
+Floating / creation of work contracts as Custom Bids in Services.
+8
+. 
+Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+attached categories
+, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+9
+. 
+Mandating foreign / international certifications even in case of existence of Indian Standards without
+specifying equivalent Indian Certification / standards.
+10
+. 
+Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+11
+. 
+Creating bid for items from irrelevant categories.
+12
+. 
+Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+13
+. 
+Reference of conditions published on any external site or reference to external documents/clauses.
+14
+. 
+Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+case may be.
+15
+. 
+Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+Preference sections of the bid, unless otherwise allowed by GeM GTC.
+16
+. 
+In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+terms and conditions/or any other document. If buyer needs more items along with the main item, the
+same must be added through bunching category based items or by bunching custom catalogs or
+bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+19 / 20
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+such representations.
+All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws,
+including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code
+on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working
+Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into
+force by the Government of India.
+For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or
+notifications, the corresponding provisions of the pre-existing labour enactments (such as The
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The
+Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules)
+shall continue to remain applicable.
+The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:
+All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove;
+and
+All operative provisions of the erstwhile Labour Laws until their complete substitution.
+All obligations relating to wages, social security, safety, working conditions, industrial relations etc.
+and any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-
+compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate
+action in accordance with the contract and applicable law.
+यह
+ 
+बड
+ 
+सामाeय
+ 
+शतD
+ 
+के
+ 
+अंतग%त
+ 
+भी
+ 
+शािसत
+ 
+है
+ 
+/This Bid is also governed by the General Terms and Conditions
+जेम
+ 
+क
+ 
+सामाeय
+ 
+शतD
+ 
+के
+ 
+खंड
+ 26 
+के
+ 
+संदभ%
+ 
+म)
+ 
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+के
+ 
+बडर
+ 
+से
+ 
+खरद
+ 
+पर
+ 
+?ितबंध
+ 
+के
+ 
+संबंध
+ 
+म)
+भारत
+ 
+के
+ 
+साथ
+ 
+भूिम
+ 
+सीमा
+ 
+साझा
+ 
+करने
+ 
+वाले
+ 
+देश
+ 
+का
+ 
+कोई
+ 
+भी
+ 
+बडर
+ 
+इस
+ 
+िनवदा
+ 
+म)
+ 
+बड
+ 
+देने
+ 
+के
+ 
+िलए
+ 
+तभी
+ 
+पा 
+ 
+होगा
+ 
+जब
+ 
+वह
+ 
+बड
+ 
+देने
+ 
+वाला
+सWम
+ 
+?ािधकार
+ 
+के
+ 
+पास
+ 
+पंजीकृत
+ 
+हो
+।
+बड
+ 
+म)
+ 
+भाग
+ 
+लेते
+ 
+समय
+ 
+बडर
+ 
+को
+ 
+इसका
+ 
+अनुपालन
+ 
+करना
+ 
+होगा
+ 
+और
+ 
+कोई
+ 
+भी
+ 
+गलत
+ 
+घोषणा
+ 
+0कए
+ 
+जाने
+व
+ 
+इसका
+ 
+अनुपालन
+ 
+न
+ 
+करने
+ 
+पर
+ 
+अनुबंध
+ 
+को
+ 
+तSकाल
+ 
+समाi
+ 
+करने
+ 
+और
+ 
+कानून
+ 
+के
+ 
+अनुसार
+ 
+आगे
+ 
+क
+ 
+कानूनी
+ 
+कार%वाई
+ 
+का
+ 
+आधार
+ 
+होगा
+।
+/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---
+धeयवाद
+धeयवाद
+/Thank You---
+20 / 20
