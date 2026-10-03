@@ -28,9 +28,6 @@ import requests
 from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
-import urllib3
-
-urllib3.disable_warnings()
 
 BASE = "https://iocletenders.nic.in/nicgep/app"
 HOST = "https://iocletenders.nic.in"
@@ -100,7 +97,6 @@ def session():
     s = getattr(_local, "s", None)
     if s is None:
         s = requests.Session()
-        s.verify = False
         s.headers.update({"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9"})
         retry = Retry(total=3, backoff_factor=1.5,
                       status_forcelist=[429, 500, 502, 503, 504],

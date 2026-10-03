@@ -19,9 +19,6 @@ import time
 
 import requests
 from bs4 import BeautifulSoup
-import urllib3
-
-urllib3.disable_warnings()
 
 B = "https://www.oil-india.com"
 OUT = "data/raw/oil_india"
@@ -40,7 +37,6 @@ CATEGORIES = {
 }
 
 S = requests.Session()
-S.verify = False
 S.headers.update({"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9"})
 
 

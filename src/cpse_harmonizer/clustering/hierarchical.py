@@ -2,8 +2,8 @@
 
 from __future__ import annotations
 
+from collections.abc import Iterable, Sequence
 from difflib import SequenceMatcher
-from typing import Iterable, Sequence
 
 
 class HierarchicalClusterer:

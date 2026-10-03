@@ -1,12 +1,8 @@
-"""DeepSeek-powered extraction for NUMMF tender material lines.
-
-This module relies on the DeepSeek Chat Completion function-calling API described in
-DeepSeek's tool-calling documentation, where the model returns structured JSON only
-through `tools` + `tool_choice` and a strict JSON schema.
-"""
+"""Evidence-backed rule extraction with optional OpenAI-compatible DeepSeek enrichment."""
 
 from __future__ import annotations
 
+import asyncio
 import hashlib
 import json
 import re
@@ -16,28 +12,28 @@ import httpx
 from loguru import logger
 from pydantic import BaseModel, ConfigDict, Field, field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
-from tenacity import retry, stop_after_attempt, wait_exponential
 
 
 class Settings(BaseSettings):
-    """Runtime settings for the extraction layer."""
+    """Runtime settings for optional extraction enrichment."""
 
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 
     DEEPSEEK_API_KEY: str | None = None
     DEEPSEEK_MODEL: str = "deepseek-flash"
-    DEEPSEEK_BASE_URL: str = "https://api.deepseek.com/beta"
-    SOVEREIGN_MODE: bool = False
+    DEEPSEEK_BASE_URL: str = "https://api.deepseek.com"
+    DEEPSEEK_THINKING_MODE: bool = False
+    SOVEREIGN_MODE: bool = True
     REDIS_URL: str | None = None
-    PROMPT_VERSION: str = "nummf-scrape-v1"
+    PROMPT_VERSION: str = "nummf-scrape-v2"
 
 
 class MaterialLine(BaseModel):
-    """A single material line extracted from a tender page."""
+    """Extracted line with the original evidence span and explicit provenance."""
 
-    model_config = ConfigDict(extra="ignore")
+    model_config = ConfigDict(extra="forbid")
 
-    short_description: str = Field(..., min_length=3)
+    short_description: str = Field(min_length=3)
     long_description: str = ""
     quantity: float | None = None
     uom: str = ""
@@ -45,6 +41,9 @@ class MaterialLine(BaseModel):
     specifications: str = ""
     standards: str = ""
     source_url: str = ""
+    evidence_text: str = ""
+    source_page: int | None = Field(default=None, ge=1)
+    source_section: str = ""
     extraction_confidence: float = Field(default=0.0, ge=0.0, le=1.0)
 
     @field_validator("quantity", mode="before")
@@ -55,16 +54,28 @@ class MaterialLine(BaseModel):
         if isinstance(value, (int, float)):
             return float(value)
         if isinstance(value, str):
-            cleaned = value.replace(",", "")
             try:
-                return float(cleaned)
+                return float(value.replace(",", ""))
             except ValueError:
                 return None
         return None
 
 
 class DeepSeekMaterialExtractor:
-    """Convert tender markdown into structured material rows using tool-calling."""
+    """Never synthesize rows; the local path emits only material-bearing evidence lines."""
+
+    _MATERIAL_NOUN = re.compile(
+        r"\b(?:valve|pump|pipe|flange|bearing|gasket|compressor|motor|cable|"
+        r"transmitter|gauge|sensor|switchgear|transformer|panel|fitting|"
+        r"instrument|tank|filter|coupling)\b",
+        re.IGNORECASE,
+    )
+    _QUANTITY = re.compile(
+        r"\b(?P<quantity>\d+(?:,\d{3})*(?:\.\d+)?)\s*"
+        r"(?P<uom>nos?\.?|sets?|kg|kgs|mt|tonne|mtr|meter|metre|km|"
+        r"litre|ltr|ea|each|pair|pairs|rolls?|spools?)\b",
+        re.IGNORECASE,
+    )
 
     def __init__(
         self,
@@ -74,92 +85,87 @@ class DeepSeekMaterialExtractor:
         sovereign_mode: bool | None = None,
         prompt_version: str | None = None,
         timeout_seconds: float = 30.0,
+        thinking_mode: bool | None = None,
     ) -> None:
         settings = Settings()
-        self.api_key = api_key or settings.DEEPSEEK_API_KEY
+        self.api_key = api_key if api_key is not None else settings.DEEPSEEK_API_KEY
         self.model_name = model or settings.DEEPSEEK_MODEL
         self.base_url = (base_url or settings.DEEPSEEK_BASE_URL).rstrip("/")
+        if self.base_url.endswith("/beta"):
+            self.base_url = self.base_url.removesuffix("/beta")
         self.sovereign_mode = settings.SOVEREIGN_MODE if sovereign_mode is None else sovereign_mode
+        self.thinking_mode = settings.DEEPSEEK_THINKING_MODE if thinking_mode is None else thinking_mode
         self.prompt_version = prompt_version or settings.PROMPT_VERSION
         self.timeout_seconds = timeout_seconds
+        self.max_retries = 3
         self.redis_client = None
+        if settings.REDIS_URL:
+            from redis.asyncio import Redis
+
+            self.redis_client = Redis.from_url(settings.REDIS_URL, decode_responses=True)
 
     @staticmethod
-    def _safe_text(value: Any) -> str:
-        if value is None:
-            return ""
-        text = str(value).strip()
-        return re.sub(r"\s+", " ", text)
-
-    @staticmethod
-    def _cache_key(input_text: str, model_name: str, prompt_version: str) -> str:
-        payload = json.dumps({"text": input_text, "model": model_name, "prompt_version": prompt_version}, sort_keys=True)
+    def _cache_key(input_text: str, model_name: str, prompt_version: str, source_url: str = "") -> str:
+        payload = json.dumps(
+            {"text": input_text, "model": model_name, "prompt_version": prompt_version, "source_url": source_url},
+            sort_keys=True,
+        )
         return hashlib.sha256(payload.encode("utf-8")).hexdigest()
 
-    @staticmethod
-    def _extract_numeric_quantity(text: str) -> tuple[str, str] | None:
-        match = re.search(r"(?P<quantity>\d+(?:\.\d+)?)\s*(?P<uom>[A-Za-z/]+)", text, flags=re.IGNORECASE)
-        if not match:
-            return None
-        return match.group("quantity"), match.group("uom")
+    @classmethod
+    def _extract_numeric_quantity(cls, text: str) -> tuple[str, str] | None:
+        match = cls._QUANTITY.search(text)
+        return (match.group("quantity"), match.group("uom")) if match else None
 
     def _local_extract(self, markdown: str, source_url: str = "") -> list[MaterialLine]:
-        rows: list[MaterialLine] = []
-        lines = [line.strip() for line in markdown.splitlines() if line.strip()]
-        for line in lines:
-            if len(line) < 12 or not any(ch.isdigit() for ch in line):
+        items: list[MaterialLine] = []
+        for line in (line.strip() for line in markdown.splitlines()):
+            if len(line) < 12 or not self._MATERIAL_NOUN.search(line):
                 continue
-            quantity_info = self._extract_numeric_quantity(line)
-            if quantity_info is None:
+            quantity_match = self._QUANTITY.search(line)
+            if not quantity_match:
                 continue
-            qty, uom = quantity_info
-            description = line
-            if "quantity" in description.lower() and "uom" in description.lower():
-                continue
-            standards = " ".join(re.findall(r"(?:IS|IEC|BIS|ASTM|API|ANSI)[A-Za-z0-9/.-]*", line))
-            hsn = re.search(r"(?:HSN|SAC)\s*[:#-]?\s*(\d{4,8})", line, flags=re.IGNORECASE)
-            short_description = re.sub(r"\s+", " ", line)
-            if len(short_description) > 220:
-                short_description = short_description[:220].rstrip()
-            rows.append(
+            standards = " ".join(re.findall(r"\b(?:IS|IEC|BIS|ASTM|API|ANSI|ASME)\s*[-\s]?\d+[A-Za-z0-9/.-]*", line, re.I))
+            hsn = re.search(r"\b(?:HSN|SAC)\s*[:#-]?\s*(\d{4,8})\b", line, re.I)
+            items.append(
                 MaterialLine(
-                    short_description=short_description,
+                    short_description=re.sub(r"\s+", " ", line)[:220].rstrip(),
                     long_description=line,
-                    quantity=float(qty),
-                    uom=uom,
+                    quantity=float(quantity_match.group("quantity").replace(",", "")),
+                    uom=quantity_match.group("uom"),
                     hsn_code=hsn.group(1) if hsn else "",
                     specifications=line,
                     standards=standards,
                     source_url=source_url,
-                    extraction_confidence=0.74,
+                    evidence_text=line,
+                    extraction_confidence=0.5,
                 )
             )
-            if len(rows) >= 25:
+            if len(items) == 25:
                 break
-        if not rows:
-            rows.append(
-                MaterialLine(
-                    short_description="Material row inferred from tender text",
-                    long_description=markdown[:300],
-                    quantity=None,
-                    uom="",
-                    hsn_code="",
-                    specifications=markdown[:300],
-                    standards="",
-                    source_url=source_url,
-                    extraction_confidence=0.55,
-                )
-            )
-        return rows
+        return items
 
     @staticmethod
     def _tool_schema() -> dict[str, Any]:
+        fields = {
+            "short_description": {"type": "string"},
+            "long_description": {"type": "string"},
+            "quantity": {"type": ["number", "string", "null"]},
+            "uom": {"type": "string"},
+            "hsn_code": {"type": "string"},
+            "specifications": {"type": "string"},
+            "standards": {"type": "string"},
+            "evidence_text": {"type": "string"},
+            "source_page": {"type": ["integer", "null"]},
+            "source_section": {"type": "string"},
+            "extraction_confidence": {"type": "number"},
+        }
         return {
             "type": "function",
             "function": {
                 "name": "emit_material_lines",
                 "strict": True,
-                "description": "Emit a schema-valid list of material rows extracted from tender markdown.",
+                "description": "Extract only material lines supported by source evidence.",
                 "parameters": {
                     "type": "object",
                     "properties": {
@@ -167,126 +173,140 @@ class DeepSeekMaterialExtractor:
                             "type": "array",
                             "items": {
                                 "type": "object",
-                                "properties": {
-                                    "short_description": {"type": "string"},
-                                    "long_description": {"type": "string"},
-                                    "quantity": {"type": ["number", "string", "null"]},
-                                    "uom": {"type": "string"},
-                                    "hsn_code": {"type": "string"},
-                                    "specifications": {"type": "string"},
-                                    "standards": {"type": "string"},
-                                    "source_url": {"type": "string"},
-                                    "extraction_confidence": {"type": "number"},
-                                },
-                                "required": [
-                                    "short_description",
-                                    "long_description",
-                                    "quantity",
-                                    "uom",
-                                    "hsn_code",
-                                    "specifications",
-                                    "standards",
-                                    "source_url",
-                                    "extraction_confidence",
-                                ],
+                                "properties": fields,
+                                "required": list(fields),
+                                "additionalProperties": False,
                             },
-                        }
+                        },
                     },
                     "required": ["items"],
+                    "additionalProperties": False,
                 },
             },
         }
 
-    @retry(wait=wait_exponential(multiplier=1, min=1, max=10), stop=stop_after_attempt(3))
     async def _call_deepseek_tool(self, markdown: str, source_url: str = "") -> list[MaterialLine]:
-        """Invoke DeepSeek Chat Completions with strict JSON schema validation.
-
-        This relies on DeepSeek's documented function-calling API, including the
-        `tools`/`tool_choice` pattern and the strict-mode JSON schema contract.
-        """
         if self.sovereign_mode or not self.api_key:
-            logger.bind(portal="deepseek", url=source_url, model=self.model_name, cache_hit=False).info("Sovereign or offline mode; using local extraction fallback")
-            return self._local_extract(markdown, source_url=source_url)
-
+            logger.info("DeepSeek disabled or unconfigured; using evidence-backed local extraction.")
+            return self._local_extract(markdown, source_url)
         prompt = (
-            "Extract all material line items from the tender markdown. Preserve source_url, quantity, UoM, HSN/SAC if present, and technical standards. "
-            "Do not invent items; if uncertain, mark lower confidence and keep the original wording."
+            "Extract only material line items explicitly supported by the supplied document text. "
+            "Copy an exact source line into evidence_text. Do not infer material rows from tender titles, "
+            "administrative text, or missing values. Preserve quantities, units, HSN/SAC and standards exactly."
         )
-        payload = {
+        payload: dict[str, Any] = {
             "model": self.model_name,
             "temperature": 0.0,
             "max_tokens": 2048,
-            "messages": [{"role": "user", "content": f"Source URL: {source_url}\n\n{markdown[:12000]}"}, {"role": "system", "content": prompt}],
+            "messages": [
+                {"role": "system", "content": prompt},
+                {"role": "user", "content": f"Source URL: {source_url}\n\n{markdown[:12000]}"},
+            ],
             "tools": [self._tool_schema()],
-            "tool_choice": {"type": "function", "function": {"name": "emit_material_lines"}},
+            "tool_choice": (
+                "auto"
+                if self.thinking_mode
+                else {"type": "function", "function": {"name": "emit_material_lines"}}
+            ),
+            "thinking": {"type": "enabled" if self.thinking_mode else "disabled"},
         }
         headers = {"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"}
-        async with httpx.AsyncClient(timeout=self.timeout_seconds) as client:
-            response = await client.post(self.base_url + "/chat/completions", headers=headers, json=payload)
-            response.raise_for_status()
-            data = response.json()
+        response: httpx.Response | None = None
+        for attempt in range(self.max_retries):
+            try:
+                async with httpx.AsyncClient(timeout=self.timeout_seconds) as client:
+                    response = await client.post(
+                        self.base_url + "/chat/completions",
+                        headers=headers,
+                        json=payload,
+                    )
+            except (httpx.TimeoutException, httpx.TransportError) as exc:
+                if attempt + 1 == self.max_retries:
+                    raise RuntimeError("DeepSeek request failed after bounded retries.") from exc
+                await asyncio.sleep(min(2**attempt, 8))
+                continue
+            if response.status_code == 429 or response.status_code >= 500:
+                if attempt + 1 == self.max_retries:
+                    raise RuntimeError(f"DeepSeek returned HTTP {response.status_code} after bounded retries.")
+                await asyncio.sleep(min(2**attempt, 8))
+                continue
+            if response.is_error:
+                raise RuntimeError(f"DeepSeek request rejected with HTTP {response.status_code}.")
+            break
+        if response is None:
+            raise RuntimeError("DeepSeek request produced no response.")
 
-        raw_arguments = data["choices"][0]["message"]["tool_calls"][0]["function"]["arguments"]
-        parsed = json.loads(raw_arguments)
-        items: list[MaterialLine] = []
-        for item in parsed.get("items", []):
-            items.append(MaterialLine.model_validate({**item, "source_url": item.get("source_url") or source_url}))
-        if not items:
-            return self._local_extract(markdown, source_url=source_url)
-        return items
+        try:
+            data = response.json()
+            choices = data.get("choices") or []
+            message = choices[0].get("message", {}) if choices else {}
+            calls = message.get("tool_calls") or []
+            function = calls[0].get("function", {}) if calls else {}
+            arguments = function.get("arguments")
+            parsed = json.loads(arguments) if isinstance(arguments, str) else arguments
+            if not isinstance(parsed, dict) or not isinstance(parsed.get("items"), list):
+                raise ValueError("No valid tool items array.")
+        except (ValueError, TypeError, KeyError, IndexError):
+            logger.warning("DeepSeek structured output was malformed; using evidence-backed local extraction.")
+            return self._local_extract(markdown, source_url)
+
+        extracted: list[MaterialLine] = []
+        for item in parsed["items"]:
+            if not isinstance(item, dict):
+                continue
+            evidence = item.get("evidence_text")
+            if not isinstance(evidence, str) or not evidence.strip() or evidence not in markdown:
+                logger.warning("Discarded a material extraction without an exact source evidence span.")
+                continue
+            extracted.append(MaterialLine.model_validate({**item, "source_url": source_url}))
+        return extracted
 
     async def extract_material_lines(self, markdown: str, source_url: str = "") -> list[MaterialLine]:
-        """Return schema-valid material rows extracted from tender markdown."""
-        key = self._cache_key(markdown, self.model_name, self.prompt_version)
-        cache_hit = False
+        key = self._cache_key(markdown, self.model_name, self.prompt_version, source_url)
         if self.redis_client is not None:
             cached = await self._get_cache(key)
             if cached is not None:
-                cache_hit = True
                 return [MaterialLine.model_validate(item) for item in cached]
-
         rows = await self._call_deepseek_tool(markdown, source_url=source_url)
         if self.redis_client is not None:
             await self._set_cache(key, [item.model_dump(mode="json") for item in rows])
-        logger.bind(portal="deepseek", url=source_url, model=self.model_name, tokens_used=len(markdown.split()), latency_ms=0, cache_hit=cache_hit).info("material extraction complete")
+        logger.bind(model=self.model_name, rows=len(rows), cache_hit=False).info("Material extraction completed.")
         return rows
 
     async def extract_specifications(self, markdown: str) -> dict[str, Any]:
-        """Return a compact set of specifications extracted from a tender page."""
-        section_voltage = re.findall(r"(?P<value>\d+(?:\.\d+)?)\s*(?:kV|kilo[- ]?volt)", markdown, flags=re.IGNORECASE)
-        standards = re.findall(r"(?:IS|IEC|BIS|ASTM|API|ANSI)\s*[-\s]*\d+[A-Za-z0-9/.-]*", markdown)
-        hsn_matches = re.findall(r"(?:HSN|SAC)\s*[:#-]?\s*(\d{4,8})", markdown, flags=re.IGNORECASE)
-        quantity_matches = re.findall(r"(?P<value>\d+(?:\.\d+)?)\s*(?:Nos|No|Numbers|EA|Kg|kg|MT|mtr|m)", markdown, flags=re.IGNORECASE)
+        voltages = re.findall(r"(\d+(?:\.\d+)?)\s*(?:kV|kilo[- ]?volt)", markdown, re.I)
+        standards = re.findall(r"\b(?:IS|IEC|BIS|ASTM|API|ANSI)\s*[-\s]?\d+[A-Za-z0-9/.-]*", markdown, re.I)
+        hsn = re.findall(r"\b(?:HSN|SAC)\s*[:#-]?\s*(\d{4,8})\b", markdown, re.I)
         return {
-            "voltage_kv": [float(v) for v in section_voltage][:5],
+            "voltage_kv": [float(value) for value in voltages[:5]],
             "standards": standards[:10],
-            "hsn_codes": hsn_matches[:10],
-            "quantities": quantity_matches[:10],
-            "confidence": 0.8 if standards or hsn_matches else 0.72,
+            "hsn_codes": hsn[:10],
+            "evidence_status": "EXTRACTED_FROM_INPUT",
         }
 
     @staticmethod
     def generate_match_rationale(candidate_a: str, candidate_b: str) -> str:
-        """Create a human-readable explanation for a material match candidate."""
-        left_tokens = set(re.findall(r"[A-Za-z]+", candidate_a.lower()))
-        right_tokens = set(re.findall(r"[A-Za-z]+", candidate_b.lower()))
-        common_tokens = sorted(left_tokens & right_tokens)
-        signal_word = None
-        for preferred in ("transformer", "valve", "pump", "cable", "pipe", "tank", "gasket"):
-            if preferred in candidate_a.lower() and preferred in candidate_b.lower():
-                signal_word = preferred
-                break
-        if signal_word is None and common_tokens:
-            signal_word = common_tokens[0]
-        if signal_word:
-            return f"Both candidate strings share key material language around '{signal_word}' and similar technical wording, which supports a likely material match."
-        return "Candidate texts share a comparable material profile with compatible specifications and no obvious conflict in voltage or standards."
+        shared = sorted(set(re.findall(r"[A-Za-z]+", candidate_a.casefold())) & set(re.findall(r"[A-Za-z]+", candidate_b.casefold())))
+        if not shared:
+            return "No shared material terms were identified; expert review is required."
+        return (
+            f"Possible material match for review based on shared source-text terms: "
+            f"{', '.join(shared[:8])}. This lexical evidence is not an approval."
+        )
 
     async def _get_cache(self, key: str) -> list[dict[str, Any]] | None:
-        return None
+        if self.redis_client is None:
+            return None
+        cached = await self.redis_client.get(f"nummf:extract:{key}")
+        return json.loads(cached) if cached else None
 
     async def _set_cache(self, key: str, value: list[dict[str, Any]]) -> None:
-        return None
+        if self.redis_client is not None:
+            await self.redis_client.setex(
+                f"nummf:extract:{key}",
+                86400,
+                json.dumps(value, ensure_ascii=False),
+            )
 
 
-__all__ = ["DeepSeekMaterialExtractor", "MaterialLine"]
+__all__ = ["DeepSeekMaterialExtractor", "MaterialLine", "Settings"]

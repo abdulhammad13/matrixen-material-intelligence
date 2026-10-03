@@ -1,13 +1,5 @@
-"""Human review and decision pipeline for harmonized materials."""
+"""Persistent maker-checker review workflows."""
 
-__all__ = ["ReviewQueue"]
+from .service import ReviewQueue, ReviewWorkflowError
 
-
-class ReviewQueue:
-    """Placeholder review queue for governance workflows."""
-
-    def __init__(self) -> None:
-        self.items: list[dict[str, object]] = []
-
-    def add(self, item: dict[str, object]) -> None:
-        self.items.append(item)
+__all__ = ["ReviewQueue", "ReviewWorkflowError"]

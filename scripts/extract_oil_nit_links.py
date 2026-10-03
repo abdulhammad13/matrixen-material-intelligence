@@ -17,7 +17,6 @@ import csv
 import glob
 import os
 import re
-import sys
 
 from bs4 import BeautifulSoup
 

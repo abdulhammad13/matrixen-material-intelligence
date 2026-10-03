@@ -17,7 +17,6 @@ import glob
 import json
 import os
 import re
-import sys
 
 SRC = "data/raw/ntpc/documents"
 OUT = "data/processed/extracted_items"
@@ -40,7 +39,7 @@ def text_via_pypdf(path):
             except Exception:
                 parts.append("")
         return "\n".join(parts), n
-    except Exception as e:
+    except Exception:
         return "", 0
 
 

@@ -6,12 +6,14 @@ matching or review logic.
 
 from __future__ import annotations
 
-AUTO_ACCEPT_SCORE = 0.95
-HUMAN_REVIEW_MIN_SCORE = 0.70
-HUMAN_REVIEW_MAX_SCORE = 0.95
-REJECT_SCORE = 0.70
+# These are unvalidated ranking/review bands only. They are not probabilities
+# and must not be used to publish nationally approved mappings.
+AUTO_ACCEPT_SCORE = 1.01
+HUMAN_REVIEW_MIN_SCORE = 0.0
+HUMAN_REVIEW_MAX_SCORE = 1.01
+REJECT_SCORE = 0.0
 DEFAULT_MATCH_THRESHOLD = 0.70
-DEFAULT_MODEL_VERSION = "synthetic-v1"
+DEFAULT_MODEL_VERSION = "rule-baseline-0.1"
 SOVEREIGN_MODE = True
 
 MATCH_WEIGHTS = {

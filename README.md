@@ -1,5 +1,5 @@
 ---
-license: cc-by-4.0
+license: other
 tags:
 - material-master-data
 - entity-resolution
@@ -17,16 +17,113 @@ task_categories:
 - text-classification
 ---
 
-# SIH 26099 — Collected Dataset
+# NUMMF — National Unified Material Master Framework
 
 **AI-Driven Standardization & Harmonization of Material Codes Across CPSEs**
 
-This workspace holds the **data-collection** stage only — no model, no training,
-no feature engineering. Just raw public sources, their extracted structured
-form, and the reference taxonomies/vocabularies the harmonisation step needs.
+This repository combines harvested CPSE procurement/reference data with a
+workstation-ready Phase-0/Phase-1 harmonization vertical slice. It includes
+provenance-bearing domain contracts, data-quality quarantine, deterministic
+normalization and attribute rules, hybrid candidate retrieval, explainable
+pair scoring, CPSE-independent NMC proposals, maker-checker review, and
+SQLite-backed persistence. Outputs remain proposals until reviewed; there are
+no expert gold labels or validated calibrated probabilities in the checkout.
 
-Collected live on **2026-09-08**. All row counts below were verified by reading
-the files back with pandas.
+The supplied `NUMMF_Comprehensive_Research_Blueprint.pdf` is not present in
+this checkout. The available Solution Design and repository assets were used
+as requirements; no claim is made that absent material was reviewed. Source
+data reuse and redistribution terms have not been verified. See
+`data/manifests/sources.csv` and each source's official terms before reuse.
+
+## Phase-0 / Phase-1 quick start
+
+Requires Python 3.12:
+
+```powershell
+python -m pip install -e ".[dev,dashboard,ingestion]"
+nummf doctor
+nummf profile-data --manifests
+nummf serve-api
+```
+
+The API is served at `http://127.0.0.1:8000` by default; its OpenAPI page is
+`/docs`. Start the review/search dashboard separately with
+`nummf serve-dashboard` (default `http://127.0.0.1:8050`). The dashboard is a
+local operator interface, not an authentication boundary.
+
+### Reproducible data workflow
+
+```powershell
+nummf ingest path\to\source.csv --output data\interim\materials.jsonl
+nummf normalize data\interim\materials.jsonl --output data\interim\normalized.jsonl
+nummf extract-attributes data\interim\normalized.jsonl --output data\interim\attributes.jsonl
+nummf build-index --output data\interim\material_index.json
+nummf generate-weak-labels --output data\interim\weak_pair_labels.jsonl
+```
+
+`ingest`, `normalize`, and `extract-attributes` preserve JSONL artifacts and
+upsert records into the configured SQLAlchemy database. The default is the
+ignored local database `data/processed/nummf.db`; configure
+`NUMMF_DATABASE_URL` for a PostgreSQL deployment. The PostgreSQL optional
+dependencies are available with `pip install -e ".[postgres]"`; apply the
+initial schema with `alembic upgrade head` after setting `NUMMF_DATABASE_URL`.
+The migration was exercised on SQLite; PostgreSQL deployment is not validated
+in this checkout. Live SAP connectors are not part of this vertical slice.
+Redis caching is disabled unless `REDIS_URL` is set; install
+`pip install -e ".[cache]"` and run an authorized Redis instance before
+enabling it.
+
+`nummf profile-data --manifests` writes a row-level quality report,
+`clean.csv`, `quarantine.csv`, and `row_issues.csv` under
+`data/interim/data_quality/`, plus `sources.csv`, `files.csv`, `lineage.csv`,
+and `quality_report.json` under `data/manifests/`. The raw source tree is not
+rewritten. Quarantined rows remain inspectable; warning-only rows stay in the
+clean export with their reported issues.
+
+### Matching and governance boundaries
+
+- `NUMMF_EMBEDDING_BACKEND=lexical` is the deterministic offline default and
+  does not claim semantic-vector capability. To use local CPU
+  Sentence-Transformers, install `.[ml]` and explicitly configure
+  `NUMMF_EMBEDDING_BACKEND=sentence-transformers` plus
+  `NUMMF_EMBEDDING_MODEL`.
+- Pair scores are uncalibrated ranking signals. No score is presented as a
+  match probability, and the current matching path always requires human
+  review.
+- Weak labels are explicitly marked `weak_rule`; evaluation and calibration
+  reject weak labels and require expert-gold data with grouped validation.
+- NMC generation is CPSE-independent and creates proposals only. A nationally
+  approved code requires the distinct human review/checker workflow.
+- Sovereign/offline behavior is the default. DeepSeek enrichment requires
+  explicit opt-in and an API key; deterministic extraction does not invent
+  source material rows.
+- Role headers used by the development API are not identity authentication.
+  Deploy behind an authenticated, authorized gateway before exposing it to
+  users or networks.
+
+### Validation
+
+```powershell
+python -m compileall -q src scripts tests
+python -m ruff check .
+python -m mypy src/cpse_harmonizer/domain src/cpse_harmonizer/data_quality
+python -m pytest -q
+```
+
+The Research Blueprint PDF, expert-reviewed labels, spend/transaction data,
+verified source redistribution terms, and production SAP/PostgreSQL deployment
+configuration are not present. Accordingly, this checkout does not report
+business performance, approved national mappings, or model-calibration
+metrics.
+
+---
+
+## Harvested corpus and references
+
+The following tables describe the collected data snapshot and the earlier
+harvesting work. Current file counts and quality findings are generated by
+`nummf profile-data --manifests`; counts below are not treated as runtime
+guarantees.
 
 ---
 

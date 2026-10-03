@@ -1,7 +1,5 @@
 from __future__ import annotations
 
-from unittest.mock import AsyncMock
-
 import pytest
 
 from cpse_harmonizer.extraction.deepseek_extractor import DeepSeekMaterialExtractor, MaterialLine

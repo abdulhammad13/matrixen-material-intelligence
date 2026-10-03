@@ -22,7 +22,6 @@ Inputs (all produced by the harvesters)
 Output
   data/processed/extracted_items/material_description_corpus.csv
 """
-import csv
 import os
 import re
 import sys
@@ -105,7 +104,9 @@ def clean_desc(s):
     # Some cells contain the same title twice back to back, e.g.
     # "(1) TRANSPORE 5 CM (1) TRANSPORE 5 CM". Try each split point and, if the
     # two halves match apart from stray whitespace/punctuation, keep one copy.
-    norm = lambda x: re.sub(r"[\s\.,\-\(\)]+", "", x).lower()
+    def norm(value: str) -> str:
+        return re.sub(r"[\s\.,\-\(\)]+", "", value).lower()
+
     if len(s) >= 20:
         for h in range(len(s) // 2 - 2, len(s) // 2 + 3):
             if 8 < h < len(s) and norm(s[:h]) and norm(s[:h]) == norm(s[h:]):

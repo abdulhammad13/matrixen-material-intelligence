@@ -1,13 +1,17 @@
-"""Data quality checks and validation routines for source material records."""
+"""Data quality profiling and quarantine tools."""
 
-__all__ = ["DataQualityChecker"]
+from cpse_harmonizer.data_quality.checker import (
+    DataQualityChecker,
+    DataQualityReport,
+    QualityIssue,
+    read_csv_records,
+    write_quality_outputs,
+)
 
-
-class DataQualityChecker:
-    """A minimal data quality layer for material ingest validation."""
-
-    def __init__(self) -> None:
-        self.rules: list[str] = []
-
-    def add_rule(self, rule: str) -> None:
-        self.rules.append(rule)
+__all__ = [
+    "DataQualityChecker",
+    "DataQualityReport",
+    "QualityIssue",
+    "read_csv_records",
+    "write_quality_outputs",
+]

@@ -64,8 +64,7 @@ class PintUnitNormalizer:
         if not source or not target:
             raise ValueError("Both source and target units are required for conversion.")
         try:
-            quantity = value * self.ureg.Quantity(1, source)
-            result = quantity.to(target)
+            result = (value * self.ureg.Quantity(1, source)).to(target)
             return float(result.magnitude)
         except Exception as exc:  # pragma: no cover - trait of pint for incompatible units
             raise ValueError(f"Cannot convert '{from_unit}' to '{to_unit}'") from exc

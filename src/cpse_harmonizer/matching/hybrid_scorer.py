@@ -2,7 +2,12 @@
 
 from __future__ import annotations
 
-from cpse_harmonizer.config import AUTO_ACCEPT_SCORE, HUMAN_REVIEW_MAX_SCORE, HUMAN_REVIEW_MIN_SCORE, MATCH_WEIGHTS
+from cpse_harmonizer.config import (
+    AUTO_ACCEPT_SCORE,
+    HUMAN_REVIEW_MAX_SCORE,
+    HUMAN_REVIEW_MIN_SCORE,
+    MATCH_WEIGHTS,
+)
 
 
 class HybridScorer:

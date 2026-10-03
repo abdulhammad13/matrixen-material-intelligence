@@ -11,7 +11,6 @@ import csv
 import hashlib
 import json
 from pathlib import Path
-from typing import Any
 from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup

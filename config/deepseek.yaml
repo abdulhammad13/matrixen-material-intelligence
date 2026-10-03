@@ -1,14 +1,13 @@
 deepseek:
   model: deepseek-flash
-  fallback_model: deepseek-v4-pro
+  supported_models: [deepseek-flash, deepseek-v4-pro]
   base_url: https://api.deepseek.com
-  beta_url: https://api.deepseek.com/beta
   timeout_seconds: 30
   max_retries: 3
   temperature: 0.0
   max_tokens: 1024
-  prompt_version: nummf-scrape-v1
-  thinking_mode: true
+  prompt_version: nummf-scrape-v2
+  thinking_mode: false
 
 scraping:
   user_agent: NUMMF-Forge-Scraper/1.0

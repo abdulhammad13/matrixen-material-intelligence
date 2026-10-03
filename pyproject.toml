@@ -7,18 +7,54 @@ name = "cpse-material-harmonizer"
 version = "0.1.0"
 description = "AI-driven standardization and harmonization of material codes across CPSEs"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.12,<3.13"
 dependencies = [
     "fastapi>=0.110,<1.0",
     "pydantic>=2.6,<3.0",
+    "pydantic-settings>=2.2,<3.0",
     "uvicorn[standard]>=0.27,<1.0",
+    "numpy>=1.26,<3.0",
+    "SQLAlchemy>=2.0,<3.0",
+    "Pint>=0.23,<1.0",
+    "httpx>=0.27,<1.0",
 ]
 
 [project.optional-dependencies]
 dev = [
-    "httpx>=0.27,<1.0",
-    "pytest>=8.0,<9.0",
+    "pytest>=8.0,<10.0",
+    "pytest-asyncio>=0.23,<2.0",
+    "ruff>=0.6,<1.0",
+    "mypy>=1.10,<2.0",
+    "scikit-learn>=1.4,<2.0",
 ]
+ingestion = [
+    "pandas>=2.2,<4.0",
+    "openpyxl>=3.1,<4.0",
+    "beautifulsoup4>=4.12,<5.0",
+    "lxml>=5.0,<7.0",
+    "requests>=2.31,<3.0",
+    "pypdf>=4.0,<7.0",
+    "pdfplumber>=0.11,<1.0",
+]
+dashboard = [
+    "dash>=2.17,<5.0",
+    "plotly>=5.22,<8.0",
+]
+ml = [
+    "sentence-transformers>=3.0,<7.0",
+    "scikit-learn>=1.4,<2.0",
+]
+postgres = [
+    "psycopg[binary]>=3.2,<4.0",
+    "alembic>=1.13,<2.0",
+    "pgvector>=0.3,<1.0",
+]
+cache = [
+    "redis>=5.0,<7.0",
+]
+
+[project.scripts]
+nummf = "cpse_harmonizer.cli:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]
@@ -26,3 +62,16 @@ where = ["src"]
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 pythonpath = ["src"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E501"]
+
+[tool.mypy]
+python_version = "3.12"
+check_untyped_defs = true
+ignore_missing_imports = true

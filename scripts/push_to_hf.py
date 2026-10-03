@@ -95,7 +95,7 @@ def push_one(row):
     s.headers.update({"User-Agent": UA})
     for attempt in range(4):
         try:
-            r = s.get(url, timeout=180, verify=False)
+            r = s.get(url, timeout=180)
             if r.status_code == 200 and r.content:
                 buf = io.BytesIO(r.content)
                 buf.name = os.path.basename(path)
@@ -123,8 +123,6 @@ def phase3_ntpc_pdfs():
     print(f"  documents to stream: {len(d)} "
           f"(advertised {pd.to_numeric(d['bytes'], errors='coerce').sum() / 1e6:.0f} MB)",
           flush=True)
-    import urllib3
-    urllib3.disable_warnings()
     with cf.ThreadPoolExecutor(max_workers=6) as ex:
         for i, _ in enumerate(ex.map(push_one, d.to_dict("records")), 1):
             if i % 50 == 0:

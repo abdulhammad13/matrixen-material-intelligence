@@ -77,7 +77,7 @@ def extract_tenders(
                 graph.add_material_signal(row["short_description"], row["quantity"], row["uom"], str(file_path))
                 audit_log.append("material_extraction", str(file_path), "deepseek_extract", "system", **row)
 
-        normalized_rows = NormalizationService.process(rows)
+        normalized_rows = NormalizationService().process(rows)
 
         output_path = Path(output)
         output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -93,6 +93,9 @@ def extract_tenders(
                     "specifications",
                     "standards",
                     "source_url",
+                    "evidence_text",
+                    "source_page",
+                    "source_section",
                     "extraction_confidence",
                 ],
             )
@@ -107,6 +110,9 @@ def extract_tenders(
                     "specifications": row.get("specifications"),
                     "standards": row.get("standards"),
                     "source_url": row.get("source_url"),
+                    "evidence_text": row.get("evidence_text"),
+                    "source_page": row.get("source_page"),
+                    "source_section": row.get("source_section"),
                     "extraction_confidence": row.get("extraction_confidence"),
                 })
         typer.echo(f"Wrote {len(normalized_rows)} rows to {output_path}")
@@ -127,11 +133,11 @@ def verify_tenders(input_csv: str = typer.Argument(..., help="CSV file to verify
         rows = list(csv.DictReader(handle))
         total = len(rows)
         for row in rows:
-            confidence = float(row.get("extraction_confidence", 0) or 0)
             hsn = (row.get("hsn_code") or "").strip()
-            if confidence >= 0.7 and (not hsn or hsn.isdigit()):
+            evidence = (row.get("evidence_text") or "").strip()
+            if evidence and (not hsn or hsn.isdigit()):
                 valid += 1
-    typer.echo(f"Schema-valid rows: {valid}/{total}")
+    typer.echo(f"Evidence-backed schema-valid rows: {valid}/{total}")
 
 
 if __name__ == "__main__":

@@ -17,7 +17,6 @@ import csv
 import glob
 import os
 import re
-import sys
 
 SRC = "data/processed/extracted_items/ntpc_text"
 OUT = "data/processed/extracted_items/ntpc_material_items.csv"

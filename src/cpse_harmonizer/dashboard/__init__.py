@@ -1,13 +1,5 @@
-"""Dashboard and analytics package for the harmonization workflow."""
+"""Institutional light-theme material harmonization dashboard."""
 
-__all__ = ["DashboardApp"]
+from .app import app, create_app
 
-
-class DashboardApp:
-    """Minimal dashboard placeholder used for smoke validation."""
-
-    def __init__(self) -> None:
-        self.panels: list[str] = []
-
-    def add_panel(self, panel: str) -> None:
-        self.panels.append(panel)
+__all__ = ["app", "create_app"]

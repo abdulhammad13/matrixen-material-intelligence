@@ -1,0 +1,15 @@
+source_id,name,base_url,collector_type,terms_url,license_note,usage_status
+source_805ba97030775ff889c6a94f,Repository-derived artifact,,repository-artifact,,Original source redistribution terms have not been verified.,reference-only-unverified
+source_c1a33977175a4862937665ce,Repository-derived artifact,,repository-artifact,,Original source redistribution terms have not been verified.,reference-only-unverified
+source_5485749bb79c416b23cf086c,Central Public Procurement Portal,https://eprocure.gov.in,repository-artifact,,Original source redistribution terms have not been verified.,reference-only-unverified
+source_54786ade1ed203f46ddc7f90,Unverified source: datagovin,,repository-artifact,,Original source redistribution terms have not been verified.,reference-only-unverified
+source_799e89520249912fb829de4f,IOCL,https://iocletenders.nic.in,repository-artifact,,Original source redistribution terms have not been verified.,reference-only-unverified
+source_2f2fe3607eec6dd9211d3dcb,NTPC,https://ntpctender.ntpc.co.in,repository-artifact,,Original source redistribution terms have not been verified.,reference-only-unverified
+source_1a10c81e21d92f0548f4c260,Oil India Limited,https://www.oil-india.com,repository-artifact,,Original source redistribution terms have not been verified.,reference-only-unverified
+source_5f4650f2bc928b410dbfdb51,Unverified source: sap,,repository-artifact,,Original source redistribution terms have not been verified.,reference-only-unverified
+source_ad2d31bf18ce6def9007ea22,Unverified source: abbreviations,,repository-artifact,,Original source redistribution terms have not been verified.,reference-only-unverified
+source_b538f8bc35085405433e18ff,Unverified source: cppp_product_categories.csv,,repository-artifact,,Original source redistribution terms have not been verified.,reference-only-unverified
+source_80d649c40df79b102c314f9e,Unverified source: cppp_product_categories.json,,repository-artifact,,Original source redistribution terms have not been verified.,reference-only-unverified
+source_8fb3e92ea73f0bd45c823a84,Unverified source: ntpc_locations.csv,,repository-artifact,,Original source redistribution terms have not been verified.,reference-only-unverified
+source_fc24fc71a64fce54a1cadd2f,Unverified source: units,,repository-artifact,,Original source redistribution terms have not been verified.,reference-only-unverified
+source_ea32786c5508f03639c9230a,UNSPSC reference,,repository-artifact,,Original source redistribution terms have not been verified.,reference-only-unverified

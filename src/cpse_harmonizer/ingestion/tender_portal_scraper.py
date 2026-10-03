@@ -11,7 +11,6 @@ from __future__ import annotations
 import hashlib
 import re
 from dataclasses import dataclass
-from pathlib import Path
 from typing import Any
 from urllib.parse import urljoin, urlparse
 from urllib.robotparser import RobotFileParser
@@ -152,21 +151,24 @@ class NTPCAdapter(TenderPortalScraper):
     """NTPC portal adapter."""
 
     def __init__(self, *args: Any, **kwargs: Any) -> None:
-        super().__init__(portal_name="ntpc", *args, **kwargs)
+        super().__init__(*args, **kwargs)
+        self.portal_name = "ntpc"
 
 
 class IOCLAdapter(TenderPortalScraper):
     """IOCL portal adapter."""
 
     def __init__(self, *args: Any, **kwargs: Any) -> None:
-        super().__init__(portal_name="iocl", *args, **kwargs)
+        super().__init__(*args, **kwargs)
+        self.portal_name = "iocl"
 
 
 class OilIndiaAdapter(TenderPortalScraper):
     """Oil India portal adapter."""
 
     def __init__(self, *args: Any, **kwargs: Any) -> None:
-        super().__init__(portal_name="oil_india", *args, **kwargs)
+        super().__init__(*args, **kwargs)
+        self.portal_name = "oil_india"
 
 
 __all__ = ["TenderPortalScraper", "NTPCAdapter", "IOCLAdapter", "OilIndiaAdapter"]
