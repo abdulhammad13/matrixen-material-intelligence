@@ -34,12 +34,13 @@ from typing import Any
 
 from dash import ALL, Dash, Input, Output, State, ctx, dcc, html, no_update
 
-from cpse_harmonizer.data_quality.checker import read_csv_records
+from cpse_harmonizer.data_quality.checker import DataQualityChecker, read_csv_records
 from cpse_harmonizer.domain.models import MaterialRecord
 from cpse_harmonizer.extraction.embedding_service import EmbeddingService
 from cpse_harmonizer.matching.pair_scorer import PairScorer
 from cpse_harmonizer.normalization.attribute_extractor import extract_attributes
 from cpse_harmonizer.normalization.normalizer import MaterialNormalizer
+from cpse_harmonizer.master_data.nmc_generator import NMCGenerator
 from cpse_harmonizer.persistence.database import Database, NMCRegistryRow
 from cpse_harmonizer.retrieval.hybrid_search import HybridSearchEngine
 from cpse_harmonizer.review.service import ReviewQueue
@@ -297,6 +298,51 @@ def review_tasks() -> list[dict[str, str]]:
 # ---------------------------------------------------------------------------
 # Live UX / export / demo helpers
 # ---------------------------------------------------------------------------
+
+@lru_cache(maxsize=1)
+def _runtime_quality_report() -> dict[str, Any] | None:
+    """Build a read-only quality profile from the committed corpus when the manifest is absent."""
+    if not CORPUS_PATH.is_file():
+        return None
+    try:
+        report, _, _ = DataQualityChecker().profile_csv(CORPUS_PATH)
+        payload = report.as_dict()
+        payload["runtime_generated"] = True
+        return payload
+    except Exception:
+        return None
+
+
+@lru_cache(maxsize=1)
+def _demo_nmc_payload() -> dict[str, Any]:
+    """Create a clearly labelled, deterministic demo NMC from a real corpus row."""
+    if not CORPUS_PATH.is_file():
+        return {}
+    try:
+        rows, _ = read_csv_records(CORPUS_PATH)
+        for row in rows:
+            description = (row.get("description") or "").strip()
+            if not description:
+                continue
+            try:
+                proposal = NMCGenerator().propose(description)
+            except (TypeError, ValueError):
+                continue
+            return {
+                "nmc": proposal.nmc,
+                "family": proposal.family,
+                "status": proposal.status,
+                "approval_status": proposal.approval_status,
+                "attribute_signature": proposal.attribute_signature,
+                "canonical_description": proposal.canonical_description,
+                "source_description": description,
+                "demo_only": True,
+            }
+    except Exception:
+        pass
+    return {}
+
+
 
 _LIVE_LOCK = Lock()
 _LAST_CORPUS_SIGNATURE: tuple[int, int] | None = None
@@ -645,11 +691,11 @@ def model_logo(size: str = "normal") -> html.Div:
     px = dims.get(size, dims["normal"])
     return html.Div([
         html.Span(className="mx-logo-grid"),
-        html.Span(className="mx-logo-m mx-logo-m-left"),
-        html.Span(className="mx-logo-m mx-logo-m-right"),
-        html.Span(className="mx-logo-node mx-logo-node-1"),
-        html.Span(className="mx-logo-node mx-logo-node-2"),
-        html.Span(className="mx-logo-node mx-logo-node-3"),
+        html.Span(className="mx-logo-m mx-logo-m-a"),
+        html.Span(className="mx-logo-m mx-logo-m-b"),
+        html.Span(className="mx-logo-node mx-logo-node-a"),
+        html.Span(className="mx-logo-node mx-logo-node-b"),
+        html.Span(className="mx-logo-node mx-logo-node-c"),
         html.Span(className="mx-logo-lens"),
         html.Span(className="mx-logo-handle"),
     ], className=f"mx-model-logo mx-model-logo-{size}", role="img", **{
@@ -903,7 +949,49 @@ def match_screen() -> html.Div:
 
 
 def nmc_screen() -> html.Div:
+    demo = _demo_nmc_payload()
+    demo_body: list[Any] = [
+        html.P(
+            "A deterministic demonstration proposal is derived from a real material description in the committed corpus. "
+            "It is not treated as a national approval or a replacement for the persisted registry.",
+            className="section-note-inline",
+        ),
+    ]
+    if demo:
+        demo_body.extend([
+            html.Div([
+                html.Div([
+                    html.Div("DEMO NMC", className="nmc-demo-label"),
+                    html.Div(demo["nmc"], className="nmc-demo-id"),
+                    html.Div(
+                        f"{demo['family'].replace('_', ' ').title()} · {demo['status']} · approval {demo['approval_status']}",
+                        className="nmc-demo-meta",
+                    ),
+                ], className="nmc-demo-main"),
+                html.Button(
+                    "Use demo NMC  →",
+                    id="nmc-demo-use",
+                    n_clicks=0,
+                    className="primary-button nmc-demo-button",
+                    type="button",
+                ),
+            ], className="nmc-demo-card"),
+            html.Div(
+                f"Example source description: {demo['source_description']}",
+                className="nmc-demo-source",
+            ),
+        ])
+    else:
+        demo_body.append(
+            empty_state(
+                "Demo proposal unavailable",
+                "The current corpus does not contain enough structured attributes to form a demonstration NMC.",
+                "○",
+            )
+        )
+
     return html.Div([
+        page_section("LIVE DEMONSTRATION", "A real example is ready before registry lookup", demo_body, extra_class="nmc-demo-panel"),
         page_section("REGISTRY LOOKUP", "Inspect a persisted NMC proposal", [
             html.P("This surface reads the persisted registry. It intentionally has no approval or publication action.", className="section-note-inline"),
             html.Div([
@@ -913,7 +1001,7 @@ def nmc_screen() -> html.Div:
                     html.Button("Clear", id="nmc-clear", n_clicks=0, className="field-clear-button", type="button"),
                 ], className="search-field-shell"),
                 html.Button("Look up proposal  →", id="nmc-submit", n_clicks=0, className="primary-button", type="button"),
-            ], className="inline-form"),
+            ], className="inline-form nmc-inline-form"),
             loading_surface(
                 html.Div(id="nmc-result", className="nmc-result-slot"),
                 "REGISTRY FETCH",
@@ -981,17 +1069,24 @@ def governance_screen() -> html.Div:
 
 
 def quality_screen() -> html.Div:
-    if not QUALITY_PATH.is_file():
+    report: dict[str, Any] | None = None
+    runtime_generated = False
+    if QUALITY_PATH.is_file():
+        try:
+            report = json.loads(QUALITY_PATH.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            report = None
+    if report is None:
+        report = _runtime_quality_report()
+        runtime_generated = report is not None
+
+    if report is None:
         return html.Div([
-            page_section("DATA QUALITY", "No profile found", [
-                empty_state("Quality profile not available", "Run the project’s data profiling command to create the manifest used by this screen.", "!"),
-                html.Div("Tip: source ingestion can still be inspected from Material Search; this section becomes richer as soon as the manifest is regenerated.", className="muted-callout"),
+            page_section("DATA QUALITY", "Profile unavailable", [
+                empty_state("Quality profile not available", "The committed material corpus could not be profiled in this runtime.", "!"),
+                html.Div("Material Search remains available independently.", className="muted-callout"),
             ])
         ], className="screen screen-quality")
-    try:
-        report = json.loads(QUALITY_PATH.read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError) as exc:
-        return html.Div([page_section("DATA QUALITY", "Profile could not be read", [code_block(str(exc))])], className="screen screen-quality")
     error_counts = report.get("error_counts", {}) or {}
     warning_counts = report.get("warning_counts", {}) or {}
     info_counts = report.get("info_counts", {}) or {}
@@ -1010,7 +1105,11 @@ def quality_screen() -> html.Div:
     ]
     return html.Div([
         page_section("DATA QUALITY", "Corpus quality profile", [
-            html.Div(f"Source: {report.get('source_path', 'unknown')} · encoding: {report.get('encoding', 'unknown')}", className="metadata-line"),
+            html.Div(
+                f"Source: {report.get('source_path', 'unknown')} · encoding: {report.get('encoding', 'unknown')}"
+                + (" · runtime profile" if runtime_generated else ""),
+                className="metadata-line",
+            ),
             html.Div([
                 stat_card("Rows seen", f"{report.get('records_seen', 0):,}", "Source rows", "indigo"),
                 stat_card("Rows retained", f"{report.get('records_valid', 0):,}", "Not discarded", "green"),
@@ -1518,14 +1617,30 @@ def compare_pair(_clicks: int, left: str | None, right: str | None):
     Input("nmc-submit", "n_clicks"),
     Input("nmc-query", "n_submit"),
     Input("nmc-clear", "n_clicks"),
+    Input("nmc-demo-use", "n_clicks"),
     State("nmc-query", "value"),
     prevent_initial_call=True,
 )
-def lookup_nmc(_clicks: int | None, _query_submit: int | None, _clear_clicks: int | None, nmc: str | None):
+def lookup_nmc(
+    _clicks: int | None,
+    _query_submit: int | None,
+    _clear_clicks: int | None,
+    _demo_clicks: int | None,
+    nmc: str | None,
+):
     if ctx.triggered_id == "nmc-clear":
         return "", "", []
+    if ctx.triggered_id == "nmc-demo-use":
+        demo = _demo_nmc_payload()
+        if not demo:
+            return "", empty_state("Demo NMC unavailable", "The committed corpus did not yield a structured demonstration proposal."), []
+        return demo["nmc"], code_block(json.dumps(demo, indent=2, default=str)), [demo]
     if not nmc or not nmc.strip():
         return nmc or "", empty_state("Enter an NMC", "Type a persisted NMC identifier to inspect its current stored state."), []
+    demo = _demo_nmc_payload()
+    if demo and nmc.strip() == demo.get("nmc"):
+        demo_view = {**demo, "registry_state": "DEMO_ONLY_NOT_PERSISTED"}
+        return nmc.strip(), code_block(json.dumps(demo_view, indent=2, default=str)), [demo_view]
     try:
         DATABASE.initialize()
         with DATABASE.sessions() as session:
@@ -18411,7 +18526,82 @@ button:focus-visible,a:focus-visible,input:focus-visible,textarea:focus-visible{
 .mx-logo-node{position:absolute;width:7px;height:7px;border-radius:50%;box-shadow:0 0 0 4px rgba(31,127,118,.075),0 2px 7px rgba(54,86,111,.16)}
 .mx-logo-node-1{left:27%;top:27%;background:#0B7F75}.mx-logo-node-2{left:47%;bottom:23%;background:#5D74BC}.mx-logo-node-3{right:27%;top:27%;background:#B58A42}
 .mx-logo-lens{position:absolute;right:18%;bottom:24%;width:17px;height:17px;border:2px solid #526DB5;border-radius:50%}.mx-logo-handle{position:absolute;right:15%;bottom:19%;width:7px;height:2.5px;border-radius:99px;background:#526DB5;transform:rotate(46deg);transform-origin:left center}
+
+/* ================================================================
+   Final deployment fixes: readable registry controls + complete mark
+   ================================================================ */
+.nmc-inline-form{
+  width:100%!important;
+  display:flex!important;
+  align-items:flex-end!important;
+  gap:14px!important;
+}
+.nmc-inline-form .search-field-shell{
+  flex:1 1 640px!important;
+  width:auto!important;
+  min-width:280px!important;
+  max-width:920px!important;
+}
+.nmc-inline-form .primary-button{
+  flex:0 0 auto!important;
+  min-width:190px!important;
+  align-self:flex-end!important;
+}
+.nmc-demo-card{
+  margin-top:14px!important;
+  display:flex!important;
+  align-items:center!important;
+  justify-content:space-between!important;
+  gap:18px!important;
+  padding:18px 20px!important;
+  border-radius:18px!important;
+  background:linear-gradient(135deg,rgba(239,250,247,.96),rgba(244,247,252,.96))!important;
+  border:1px solid rgba(39,103,98,.12)!important;
+  box-shadow:0 14px 34px rgba(39,84,82,.06)!important;
+}
+.nmc-demo-main{min-width:0!important;}
+.nmc-demo-label{
+  font:900 9px/1 var(--mx-mono)!important;
+  letter-spacing:.16em!important;
+  color:#6f898a!important;
+}
+.nmc-demo-id{
+  margin-top:7px!important;
+  color:#245c61!important;
+  font:900 clamp(15px,1.7vw,21px)/1.15 var(--mx-mono)!important;
+  overflow-wrap:anywhere!important;
+}
+.nmc-demo-meta{
+  margin-top:6px!important;
+  color:#7a8d90!important;
+  font-size:10.5px!important;
+}
+.nmc-demo-source{
+  margin-top:8px!important;
+  color:#7c8e90!important;
+  font-size:10.5px!important;
+  line-height:1.5!important;
+  overflow-wrap:anywhere!important;
+}
+.nmc-demo-button{min-width:155px!important;}
+@media(max-width:760px){
+  .nmc-inline-form{flex-direction:column!important;align-items:stretch!important;}
+  .nmc-inline-form .search-field-shell{min-width:0!important;max-width:none!important;width:100%!important;flex-basis:auto!important;}
+  .nmc-inline-form .primary-button{width:100%!important;min-width:0!important;}
+  .nmc-demo-card{align-items:stretch!important;flex-direction:column!important;}
+  .nmc-demo-button{width:100%!important;}
+}
+/* Complete the model mark: the Python renderer and CSS now use the same token names. */
+.mx-model-logo{overflow:visible!important;}
+.mx-model-logo .mx-logo-m-a{display:block!important;}
+.mx-model-logo .mx-logo-m-b{display:block!important;}
+.mx-model-logo .mx-logo-node-a{display:block!important;}
+.mx-model-logo .mx-logo-node-b{display:block!important;}
+.mx-model-logo .mx-logo-node-c{display:block!important;}
+
 """
+
+
 
 
 app.index_string = """
